@@ -1,0 +1,69 @@
+# Awesome List Updates on Aug 15, 2021
+
+7 awesome lists updated today.
+
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+
+
+
+## [1. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+### Demos / Godot 3.2+
+
+*   [Godot Demo Projects (⭐2.7k)](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
+*   [TPS Demo (⭐657)](https://github.com/godotengine/tps-demo) - Official Godot third person shooter (TPS) demo with high quality graphics.
+
+### Plugins and scripts / Godot 3.2+
+
+*   [GodotDiscordSDK (⭐45)](https://github.com/LennyPhoenix/GodotDiscordSDK) - A GDNative wrapper for the Discord Game SDK, adding support for its functionality in GDScript without recompiling the engine (as opposed to something like godotcord which is a custom engine module).
+*   [Voxel-Core (⭐350)](https://github.com/ClarkThyLord/Voxel-Core) - GDScript voxel plugin for creating, importing and editing voxel content in-engine and in-game.
+
+### Websites / Godot version unknown
+
+*   [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
+
+## [2. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+
+### Software / Middlewares
+
+*   [t6 (⭐25)](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
+
+## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+
+### Examples
+
+*   [chroline/well\_app (⭐36)](https://github.com/chroline/well_app#readme) - Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.
+
+## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+
+### Tools
+
+*   [email-verifier (⭐528)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+
+## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+
+### Books
+
+*   [Web Audio API by Boris Smus](https://webaudioapi.com/book/)
+
+## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+
+### Packages / General Purpose Libraries
+
+*   [spark-daria (⭐698)](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
+*   [quinn (⭐364)](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
+
+### Resources / Books
+
+*   [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) - Introduction to Spark API with Spark 3.0 covered. Good source of knowledge about basic concepts.
+
+## [7. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+
+### Projects / Plugins
+
+*   [Coq-Elpi (⭐83)](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
+
+---
+
+- Prev: [Aug 16, 2021](/content/2021/08/16/README.md)
+- Next: [Aug 14, 2021](/content/2021/08/14/README.md)
