@@ -2,7 +2,7 @@
 
 We track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter. [Source Code](https://github.com/trackawesomelist/trackawesomelist-source)
 
-[📅 Weekly](/week/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Github](https://github.com/trackawesomelist/trackawesomelist/) · [🌐 Website](https://test.trackawesomelist.com) · 📝 10/24 · ✅ 10/24
+[📅 Weekly](/week/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Github](https://github.com/trackawesomelist/trackawesomelist/) · [🌐 Website](https://test.trackawesomelist.com) · 📝 10/24 · ✅ 10/25
 
 ## Table of Contents
 
