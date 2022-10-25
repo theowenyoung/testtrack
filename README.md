@@ -105,6 +105,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
+#### [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+
+##### In Portuguese
+
+*   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
+*   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
+
+#### [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+
+##### CI / Tools & Plugins
+
+*   [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
+
+##### CI / Tutorials & Demo
+
+*   SonarQube
+    *   [JMeter with Sonar](https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
+
+##### Results Processing / Results Analysis
+
+*   [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+
+##### Tips & Tricks / Editors
+
+*   [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
+
+##### Community / Blogs
+
+*   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
+*   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
+
 ### [Oct 24, 2022](/content/2022/10/24/README.md)
 
 
@@ -1001,7 +1032,7 @@ Installs: 50 | Stars: n/a | Last update: 10 Aug 2020
 ### Entertainment
 
 - [Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md) - ([Source ⭐ 966, 📝 10&#x2F;03 ](https://github.com/RichardLitt/awesome-fantasy)) - :european_castle: Fantasy literature worth reading
-- [Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md) - ([Source ⭐ 399, 📝 08&#x2F;08 ](https://github.com/ayr-ton/awesome-geek-podcasts)) - A curated list of podcasts we like to listen to. 
+- [Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md) - ([Source ⭐ 399, 📝 10&#x2F;25 ](https://github.com/ayr-ton/awesome-geek-podcasts)) - A curated list of podcasts we like to listen to. 
 - [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3K, 📝 10&#x2F;19 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
 - [Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md) - ([Source ⭐ 3.5K, 📝 07&#x2F;25 ](https://github.com/sindresorhus/awesome-scifi)) - Sci-Fi worth consuming
 
@@ -1472,7 +1503,7 @@ Installs: 50 | Stars: n/a | Last update: 10 Aug 2020
 
 - [Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md) - ([Source ⭐ 386, 📝 21&#x2F;09&#x2F;28 ](https://github.com/SrinivasanTarget/awesome-appium)) - A curated list of delightful Appium resources.
 - [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 41, 📝 10&#x2F;19 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
-- [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 570, 📝 10&#x2F;24 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
+- [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 570, 📝 10&#x2F;25 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
 - [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 285, 📝 09&#x2F;30 ](https://github.com/grafana/awesome-k6)) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 280, 📝 08&#x2F;10 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
 - [Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md) - ([Source ⭐ 1.8K, 📝 10&#x2F;19 ](https://github.com/mojoaxel/awesome-regression-testing)) - 🕶️ A curated list of resources around the topic: visual regression testing

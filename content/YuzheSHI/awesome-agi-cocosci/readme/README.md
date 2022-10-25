@@ -2086,8 +2086,6 @@ Cognitive scientist, set up the foundations of studying human communications.
 
 \*[Back to Top](#c)
 
-<span id = "jp"></span>
-
 ### Judea Pearl
 
 Applied mathematician, proposed causal intervention on siamese bayesian networks.
@@ -2119,8 +2117,6 @@ Computational cognitive scientist and Economist, set up the foundations for Deci
 *   [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569\&secret=f5e85a) - ***Farrar Straus Giroux***, 2011. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=3255681708785115121)].
 
 \*[Back to Top](#c)
-
-<span id = "kpp"></span>
 
 ### Karl Popper
 

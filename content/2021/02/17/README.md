@@ -25,11 +25,6 @@
 *   [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
 *   [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - By QAInsights.
 
-### Community / Blogs
-
-*   [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
-*   [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
-
 ### Community / Q&A
 
 *   [`r/jmeter` on Reddit](https://www.reddit.com/r/jmeter/)

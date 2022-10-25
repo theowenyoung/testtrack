@@ -125,7 +125,7 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 ### Resources / Books
 
-*   [Hydras & Co. (⭐36)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including library code and exercises.
+*   [Hydras & Co. (⭐36)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 
@@ -263,10 +263,6 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 ### Projects / Tools
 
 *   [Alectryon (⭐171)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
-
-### Projects / Type Theory and Mathematics
-
-*   [Goedel (⭐24)](https://github.com/coq-community/goedel) - Constructive proof of the Gödel-Rosser incompleteness theorem.
 
 ### Projects / Verified Software
 

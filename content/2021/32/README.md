@@ -343,10 +343,6 @@
 *   [coq-scripts (⭐6)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
 *   [SerAPI (⭐108)](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
 
-### Projects / Type Theory and Mathematics
-
-*   [Goedel (⭐24)](https://github.com/coq-community/goedel) - Constructive proof of the Gödel-Rosser incompleteness theorem.
-
 ### Projects / Verified Software
 
 *   [Ceramist (⭐116)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.

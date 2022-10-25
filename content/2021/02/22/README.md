@@ -27,10 +27,6 @@
 *   [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole blog 💀.
 *   [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - By João Farias.
 
-### Community / Forums
-
-*   [JMeter SQAforums 💀](http://www.sqaforums.com/postlist.php?Cat=0\&Board=UBB54)
-
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance

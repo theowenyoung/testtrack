@@ -8,6 +8,30 @@ A collection of resources covering different aspects of JMeter usage.
 
 
 
+## [Oct 25, 2022](/content/2022/10/25/README.md)
+
+### CI / Tools & Plugins
+
+*   [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
+
+### CI / Tutorials & Demo
+
+*   SonarQube
+    *   [JMeter with Sonar](https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
+
+### Results Processing / Results Analysis
+
+*   [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+
+### Tips & Tricks / Editors
+
+*   [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
+
+### Community / Blogs
+
+*   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
+*   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
+
 ## [Oct 24, 2022](/content/2022/10/24/README.md)
 
 ### Tutorials
@@ -187,17 +211,9 @@ A collection of resources covering different aspects of JMeter usage.
 
 ## [Mar 02, 2021](/content/2021/03/02/README.md)
 
-### Scripting
-
-*   [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter: forget about BeanShell Sampler :ru:.
-
 ### Videos / Editors
 
 *   [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki :fr:.
-
-### Community / Forums
-
-*   [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru :ru:.
 
 ## [Feb 22, 2021](/content/2021/02/22/README.md)
 
@@ -213,10 +229,6 @@ A collection of resources covering different aspects of JMeter usage.
 
 *   [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole blog 💀.
 *   [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - By João Farias.
-
-### Community / Forums
-
-*   [JMeter SQAforums 💀](http://www.sqaforums.com/postlist.php?Cat=0\&Board=UBB54)
 
 ## [Feb 17, 2021](/content/2021/02/17/README.md)
 
@@ -236,11 +248,6 @@ A collection of resources covering different aspects of JMeter usage.
 
 *   [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
 *   [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - By QAInsights.
-
-### Community / Blogs
-
-*   [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
-*   [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 
 ### Community / Q&A
 
@@ -374,7 +381,7 @@ A collection of resources covering different aspects of JMeter usage.
 *   Dockerized
     *   [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) - Distributed load testing workflow with Docker and JMeter.
     *   [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0\&isOfficial=0\&page=1\&pullCount=0\&q=jmeter\&starCount=0)
-    *   [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+    *   [Distributed JMeter testing using Docker](https://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
     *   [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
     *   [AutoMeter (⭐53)](https://github.com/intuit/autometer) - An automation tool for scaling load tests using distributed slaves, based on JMeter master-slave architecture.
 
@@ -473,11 +480,6 @@ A collection of resources covering different aspects of JMeter usage.
 
 *   [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
 
-### CI / Tutorials & Demo
-
-*   SonarQube
-    *   [JMeter with Sonar](http://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
-
 ### Cloud Services / SaaS / Tutorials & Demo
 
 *   [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly HP StormRunner Load).
@@ -522,10 +524,6 @@ A collection of resources covering different aspects of JMeter usage.
 ### Results Processing / Results Analysis
 
 *   [JAnalyser](http://janalyser.com/) - Browser-based results analysis tool.
-
-### Tips & Tricks / Editors
-
-*   [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
 ### Trainings & Courses / Editors
 
@@ -630,7 +628,6 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Results Processing / Results Analysis
 
-*   [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 *   [JMeter Result Analysis Plugin (⭐56)](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 
 ## [Feb 08, 2016](/content/2016/02/08/README.md)

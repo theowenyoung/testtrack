@@ -111,7 +111,7 @@
 
 ### Resources / Books
 
-*   [Hydras & Co. (⭐36)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including library code and exercises.
+*   [Hydras & Co. (⭐36)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

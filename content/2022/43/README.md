@@ -1,18 +1,25 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2022
 
-16 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [1. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+
+### In Portuguese
+
+*   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
+*   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [3. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -22,19 +29,19 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-## [4. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -93,7 +100,7 @@
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -165,7 +172,7 @@
 *   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 *   [Wotan (⭐283)](https://github.com/fimbullinter/wotan) — Pluggable TypeScript and JavaScript linter.
 
-## [7. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [8. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
@@ -415,7 +422,7 @@ Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
-## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
@@ -425,7 +432,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tutorials
 
@@ -436,37 +443,56 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [pymeter (⭐6)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
 
+### CI / Tools & Plugins
+
+*   [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
+
 ### CI / Tutorials & Demo
 
 *   TeamCity
     *   [How to Run JMeter Tests with TeamCity for Continuous Integration](https://web.archive.org/web/20211204112944/https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
+*   SonarQube
+    *   [JMeter with Sonar](https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
 *   [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
 
+### Results Processing / Results Analysis
+
+*   [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+
 ### JMeter Performance / Editors
 
 *   How to speed up JMeter: [part 1](https://pflb.us/blog/how-to-speed-up-jmeter-part-1/), [part 2](https://pflb.us/blog/how-to-speed-up-jmeter-part-2/)
+
+### Tips & Tricks / Editors
+
+*   [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
 ### Books / Editors
 
 *   [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+### Community / Blogs
+
+*   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
+*   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
+
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
 *   [lisp-pay (⭐18)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐3)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Command Line Interface
 
@@ -586,7 +612,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 
-## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [14. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
@@ -596,7 +622,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐11)](https://github.com/johanmorganti/osm-datadog))
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -606,7 +632,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy 3 static sites for free on the App Platform Starter tier.
 
-## [15. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [16. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
@@ -619,7 +645,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 *   [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 *   [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 
-## [16. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [17. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 

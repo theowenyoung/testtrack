@@ -8,6 +8,13 @@ A curated list of podcasts we like to listen to.
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### In Portuguese
+
+*   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
+*   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
+
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### In German

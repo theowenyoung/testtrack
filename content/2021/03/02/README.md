@@ -8,17 +8,9 @@
 
 ## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
-### Scripting
-
-*   [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter: forget about BeanShell Sampler :ru:.
-
 ### Videos / Editors
 
 *   [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki :fr:.
-
-### Community / Forums
-
-*   [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru :ru:.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -704,10 +704,6 @@
 
 *   [JAnalyser](http://janalyser.com/) - Browser-based results analysis tool.
 
-### Tips & Tricks / Editors
-
-*   [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
-
 ### Trainings & Courses / Editors
 
 *   [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.

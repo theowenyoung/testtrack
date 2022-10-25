@@ -43,7 +43,6 @@
 
 ### Results Processing / Results Analysis
 
-*   [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 *   [JMeter Result Analysis Plugin (⭐56)](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 
 ## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)

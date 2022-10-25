@@ -1,18 +1,49 @@
 # Awesome List Updates on Oct 25, 2022
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+
+### CI / Tools & Plugins
+
+*   [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
+
+### CI / Tutorials & Demo
+
+*   SonarQube
+    *   [JMeter with Sonar](https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
+
+### Results Processing / Results Analysis
+
+*   [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+
+### Tips & Tricks / Editors
+
+*   [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
+
+### Community / Blogs
+
+*   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
+*   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
+
+## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+
+### In Portuguese
+
+*   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
+*   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [4. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -22,19 +53,19 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 

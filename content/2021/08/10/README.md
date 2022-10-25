@@ -44,10 +44,6 @@
 
 *   [Alectryon (⭐171)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 
-### Projects / Type Theory and Mathematics
-
-*   [Goedel (⭐24)](https://github.com/coq-community/goedel) - Constructive proof of the Gödel-Rosser incompleteness theorem.
-
 ### Projects / Verified Software
 
 *   [Ceramist (⭐116)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.

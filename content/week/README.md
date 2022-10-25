@@ -522,35 +522,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 *   [lisp-pay (⭐18)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐3)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-#### [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
-
-##### Tutorials
-
-*   Load Testing with JMeter: [part 1](https://lincolnloop.com/insights/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/insights/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/insights/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - By Brandon Konkle.
-*   [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - By Mitchell Anicas @ DigitalOcean.
-
-##### Automation / DSL
-
-*   [pymeter (⭐6)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
-
-##### CI / Tutorials & Demo
-
-*   TeamCity
-    *   [How to Run JMeter Tests with TeamCity for Continuous Integration](https://web.archive.org/web/20211204112944/https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
-
-##### Cloud Services / SaaS / Tutorials & Demo
-
-*   [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
-
-##### JMeter Performance / Editors
-
-*   How to speed up JMeter: [part 1](https://pflb.us/blog/how-to-speed-up-jmeter-part-1/), [part 2](https://pflb.us/blog/how-to-speed-up-jmeter-part-2/)
-
-##### Books / Editors
-
-*   [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
-
-#### [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### Hosted Readers / Outline Processor Markup Language
 
@@ -609,19 +581,19 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-#### [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-#### [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-#### [15. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+#### [14. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ##### Company Blogs / Progressive Web Application
 
@@ -631,11 +603,65 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-#### [16. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
+
+#### [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+
+##### In Portuguese
+
+*   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
+*   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
+
+#### [17. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+
+##### Tutorials
+
+*   Load Testing with JMeter: [part 1](https://lincolnloop.com/insights/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/insights/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/insights/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - By Brandon Konkle.
+*   [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - By Mitchell Anicas @ DigitalOcean.
+
+##### Automation / DSL
+
+*   [pymeter (⭐6)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
+
+##### CI / Tools & Plugins
+
+*   [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
+
+##### CI / Tutorials & Demo
+
+*   TeamCity
+    *   [How to Run JMeter Tests with TeamCity for Continuous Integration](https://web.archive.org/web/20211204112944/https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
+*   SonarQube
+    *   [JMeter with Sonar](https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
+
+##### Cloud Services / SaaS / Tutorials & Demo
+
+*   [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
+
+##### Results Processing / Results Analysis
+
+*   [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+
+##### JMeter Performance / Editors
+
+*   How to speed up JMeter: [part 1](https://pflb.us/blog/how-to-speed-up-jmeter-part-1/), [part 2](https://pflb.us/blog/how-to-speed-up-jmeter-part-2/)
+
+##### Tips & Tricks / Editors
+
+*   [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
+
+##### Books / Editors
+
+*   [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
+
+##### Community / Blogs
+
+*   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
+*   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 
 ---
 
@@ -882,7 +908,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 ### Entertainment
 
 - [Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md) - ([Source ⭐ 966, 📝 10&#x2F;03 ](https://github.com/RichardLitt/awesome-fantasy)) - :european_castle: Fantasy literature worth reading
-- [Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md) - ([Source ⭐ 399, 📝 08&#x2F;08 ](https://github.com/ayr-ton/awesome-geek-podcasts)) - A curated list of podcasts we like to listen to. 
+- [Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md) - ([Source ⭐ 399, 📝 10&#x2F;25 ](https://github.com/ayr-ton/awesome-geek-podcasts)) - A curated list of podcasts we like to listen to. 
 - [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3K, 📝 10&#x2F;19 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
 - [Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md) - ([Source ⭐ 3.5K, 📝 07&#x2F;25 ](https://github.com/sindresorhus/awesome-scifi)) - Sci-Fi worth consuming
 
@@ -1353,7 +1379,7 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 - [Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md) - ([Source ⭐ 386, 📝 21&#x2F;09&#x2F;28 ](https://github.com/SrinivasanTarget/awesome-appium)) - A curated list of delightful Appium resources.
 - [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 41, 📝 10&#x2F;19 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
-- [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 570, 📝 10&#x2F;24 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
+- [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 570, 📝 10&#x2F;25 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
 - [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 285, 📝 09&#x2F;30 ](https://github.com/grafana/awesome-k6)) - A curated list of resources on automated load- and performance testing using k6 🗻
 - [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 280, 📝 08&#x2F;10 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
 - [Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md) - ([Source ⭐ 1.8K, 📝 10&#x2F;19 ](https://github.com/mojoaxel/awesome-regression-testing)) - 🕶️ A curated list of resources around the topic: visual regression testing

@@ -12,11 +12,6 @@
 
 *   [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
 
-### CI / Tutorials & Demo
-
-*   SonarQube
-    *   [JMeter with Sonar](http://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
-
 ### Cloud Services / SaaS / Tutorials & Demo
 
 *   [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly HP StormRunner Load).
