@@ -8,6 +8,12 @@ Collections of awesome neovim plugins.
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### File explorer / Diagnostics

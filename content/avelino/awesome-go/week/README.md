@@ -8,6 +8,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Authentication and OAuth

@@ -8,6 +8,16 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Company Blogs / Progressive Web Application
+
+*   [OneStepCheckout](https://blog.onestepcheckout.com/)
+
+### List of trustworthy Extension Developers / Progressive Web Application
+
+*   [OneStepCheckout](https://onestepcheckout.com/)
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### What is Magento?

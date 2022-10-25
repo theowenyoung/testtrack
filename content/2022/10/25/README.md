@@ -1,18 +1,40 @@
 # Awesome List Updates on Oct 25, 2022
 
-2 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
+
+## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+
+### Company Blogs / Progressive Web Application
+
+*   [OneStepCheckout](https://blog.onestepcheckout.com/)
+
+### List of trustworthy Extension Developers / Progressive Web Application
+
+*   [OneStepCheckout](https://onestepcheckout.com/)
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
+
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 

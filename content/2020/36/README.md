@@ -98,29 +98,7 @@
 
 *   [Grant (⭐3.7k)](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Communication - Email - Complete Solutions
-
-*   [Excision Mail (⭐135)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
-
-### Software / Communication - Social Networks and Forums
-
-*   [Thredded (⭐1.5k)](https://github.com/thredded/thredded) - Forums, feature-rich and simple. `MIT` `Ruby`
-
-### Software / Pastebins
-
-*   [PurritoBin (⭐186)](https://github.com/PurritoBin/PurritoBin) - Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data. `ISC` `C++`
-
-### Software / Software Development - Project Management
-
-*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐102)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
-
-### Software / Task Management & To-do Lists
-
-*   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐18k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
-
-## [8. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
+## [7. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
 ### General
 
@@ -168,41 +146,67 @@
 *   [LeetCode](https://leetcode.com) - Practice your coding skills by solving more than 800+ questions.
 *   [HackerRank](https://www.hackerrank.com) - Companies host coding challenges there.
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Languages and Environments
 
 *   [MDX (⭐153)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
 *   [ntlm (⭐4)](https://github.com/spider-gazelle/ntlm) - NTLM authentication
 
-## [11. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [10. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [DNA Transcription Kata (⭐8)](https://github.com/nickdelgrosso/dna-transcription-kata)
 
-## [12. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [11. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [MananTank/radioactive-state (⭐291)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### zinit
 
 *   1 line install
 
-## [14. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [13. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Tutorials
 
 *   [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
+
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Miscellaneous
+
+*   [MindsDB (⭐11k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`
+
+### Software / Communication - Email - Complete Solutions
+
+*   [Excision Mail (⭐135)](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`
+
+### Software / Communication - Social Networks and Forums
+
+*   [Thredded (⭐1.5k)](https://github.com/thredded/thredded) - Forums, feature-rich and simple. `MIT` `Ruby`
+
+### Software / Pastebins
+
+*   [PurritoBin (⭐186)](https://github.com/PurritoBin/PurritoBin) - Ultra fast, minimalistic, encrypted command line paste-bin, where the server has no knowledge of the paste data. `ISC` `C++`
+
+### Software / Software Development - Project Management
+
+*   [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code (⭐102)](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`
+
+### Software / Task Management & To-do Lists
+
+*   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐18k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 ## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -736,10 +740,6 @@
 *   [Ping CRM / Rails (⭐189)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 
 ## [47. Awesome Python](/content/vinta/awesome-python/week/README.md)
-
-### Machine Learning
-
-*   [MindsDB (⭐11k)](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 
 ### Computer Vision
 

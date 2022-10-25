@@ -40,10 +40,6 @@
 
 *   [Databag (⭐7)](https://github.com/balzack/databag) - Federated messaging client for the web, supporting text, photos and video. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
-### Software / Communication - Email - Complete Solutions
-
-*   [mkhost (⭐20)](https://github.com/sfindeisen/mkhost) - Declarative, idempotent mail server configuration script. `Apache-2.0` `Python`
-
 ### Software / Communication - SIP
 
 *   [openSIPS](https://opensips.org/) - OpenSIPS is an Open Source SIP proxy/server for voice, video, IM, presence and any other SIP extensions. ([Source Code (⭐1k)](https://github.com/OpenSIPS/opensips)) `GPL-2.0` `C`
