@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -290,34 +290,19 @@
 
 *   [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
 
-## [9. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### C++
-
-*   [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
-
-### JavaScript
-
-*   [Full Stack Radio](https://fullstackradio.com) - Adam Wathan (podcast)
-*   [HTTP203](https://developers.google.com/web/shows/http203/podcast) - Surma, Jake (podcast)
-*   [Purrfect.dev](https://anchor.fm/purrfect-dev) - Developers (podcast)
-*   [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
-*   [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
-*   [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
-
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Store
 
 *   [AppReview (⭐18)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Note taking / Diagnostics
 
 *   [jghauser/papis.nvim (⭐54)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
-## [12. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [11. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Principles
 

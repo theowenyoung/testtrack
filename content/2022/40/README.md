@@ -357,7 +357,14 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [PVS-Studio](https://pvs-studio.com) :copyright: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees (⭐29)](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
 *   [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
-## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### PHP / Laravel
+
+*   [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
+*   [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
+
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Books
 
@@ -371,7 +378,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **\[$]**
 *   [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4) - Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. **\[$]**
 
-## [34. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [35. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -383,7 +390,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [create-ipfs-app (⭐4)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 
-## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [36. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Static site generation
 
@@ -447,19 +454,19 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [Outreachy website (⭐187)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
-## [36. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [37. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PHP / React
 
 *   [drupal/graphql](https://www.drupal.org/project/graphql) - Craft and expose a GraphQL schema for Drupal 8+.
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [einops (⭐5.8k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
-## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Applications / Command-line
 
@@ -693,37 +700,11 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 *   [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY\&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
-## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [40. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
-
-## [40. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### C++
-
-*   [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
-
-### JavaScript
-
-*   [Full Stack Radio](https://fullstackradio.com) - Adam Wathan (podcast)
-*   [HTTP203](https://developers.google.com/web/shows/http203/podcast) - Surma, Jake (podcast)
-*   [Purrfect.dev](https://anchor.fm/purrfect-dev) - Developers (podcast)
-*   [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
-*   [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
-*   [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
-
-### JavaScript / React.js
-
-*   [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
-*   [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
-
-### Language Agnostic / React.js
-
-*   [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM\&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin
-*   [Reactive](https://podcasts.apple.com/us/podcast/reactive/id1020286000) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
-*   [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
 
 ## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 

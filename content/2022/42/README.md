@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2022
 
-50 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -501,13 +501,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Glaze (⭐272)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 
-## [39. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Swift / React.js
-
-*   [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
-
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Template Engine
 
@@ -515,7 +509,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [SmartFormat (⭐871)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 *   [Handlebars.Net (⭐922)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
-## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [40. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
@@ -554,13 +548,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [sflags (⭐141)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 *   [wmenu (⭐178)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
 *   [Flyer Chat (⭐554)](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 
-## [43. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [42. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Jobs / Other external resources
 
@@ -570,7 +564,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [human-essentials (⭐302)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -612,13 +606,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under CC-BY license.
 
-## [45. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [44. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-argument-spread (⭐2)](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
 
-## [46. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [45. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -628,7 +622,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 
-## [47. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [46. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -638,7 +632,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐28)](https://github.com/willemarcel/osmcha-django))
 
-## [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -881,7 +875,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
 *   [msink/kotlin-libui (⭐602)](https://github.com/msink/kotlin-libui)
 
-## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File explorer / Diagnostics
 
@@ -895,7 +889,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [gorbit99/codewindow.nvim (⭐133)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin for Neovim, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
-## [50. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [49. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Models and Projects / NumPyro
 

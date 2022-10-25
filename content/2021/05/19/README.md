@@ -70,7 +70,7 @@
 *   <https://miniflux.wkfg.me> (user/password: demo/123456) by [@junbaor](https://t.me/junbaor) <sup>[600](https://t.me/s/aboutrss/600)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Fminiflux.wkfg.me%2F)
 *   <https://veranda.toay.org/> by [@NickMorle](https://twitter.com/NickMorle/status/1261674945811148800) <sup>[599](https://t.me/s/aboutrss/599)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Fveranda.toay.org%2F)
 
-### Subscribing Button / For Android device
+### Subscribing Button / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [SubToMe](https://www.subtome.com/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/superfeedr/subtome)
 

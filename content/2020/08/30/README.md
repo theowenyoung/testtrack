@@ -124,7 +124,7 @@
 
 *   [MonitoRSS](https://MonitoRSS.xyz) <sup>[787](https://t.me/s/aboutrss/787)</sup>
 
-### Reddit RSS fix / For Android device
+### Reddit RSS fix / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Reddit RSS Fixer](https://smithsdownunder.com/reddit_rss/) <sup>[268](https://t.me/s/aboutrss/268)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/reddit-rss-fixer/mdmahkfahjcjoclbjmoaliadfgnhboag)
 

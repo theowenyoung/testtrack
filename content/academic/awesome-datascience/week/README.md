@@ -30,7 +30,7 @@
 
 ### Tutorials
 
-*   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
+*   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐5.1k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐562)](https://github.com/jadianes/data-science-your-way)
 *   [PySpark Cheatsheet (⭐213)](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -559,7 +559,6 @@
 
 *   [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
 *   [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-*   [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 
 ### Books / Visualization Tools
 

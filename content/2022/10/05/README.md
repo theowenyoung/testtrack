@@ -38,56 +38,44 @@
 
 *   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
 
-## [5. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### JavaScript / React.js
-
-*   [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
-*   [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
-
-### Language Agnostic / React.js
-
-*   [Reactive](https://podcasts.apple.com/us/podcast/reactive/id1020286000) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
-*   [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
-
-## [6. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [5. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### Code samples and snippets
 
 *   [EsriDevSummit](https://github.com/esridevsummit/) - Supplemental source code, example projects, and resources supporting DevSummit technical sessions.
 
-## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [PyTypes (⭐6)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Iteration
 
 *   [gtwiwtg (⭐0)](https://github.com/lisp-mirror/gtwiwtg) - A lazy sequences library. Similar to 'series' but not as complete. However it has a 'modern' API with stuff like `take`, `filter`, `for`, `fold`, etc. that is easy to use.
 
-## [9. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [8. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Ebook
 
 *   [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) - The first ebook about the VideoLAN non-profit organization and the opensource LibVLC developer SDK.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Using .NET 7's Blazor Custom Elements to render dynamic content](https://jonhilton.net/blazor-custom-elements/) - October 5, 2022 - Using .NET 7's Blazor Custom Elements to render dynamic content, by Jon Hilton.
 
-## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 *   [Rezilion](https://www.rezilion.com/) :copyright: — Discovers vulnerabilities for all components in your environment, filters out 85% non-exploitable vulnerabilities and creates a  remediation plan and open tickets to upgrade components that violate your security policy and/or patch automatically in CI.
 
-## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Static site generation
 
@@ -146,6 +134,13 @@
 ### Open-source sites / Lists
 
 *   [Outreachy website (⭐187)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
+
+## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### PHP / Laravel
+
+*   [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
+*   [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
 
 ## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

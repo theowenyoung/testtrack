@@ -46,12 +46,15 @@
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [6. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
 
-### Lisp / React.js
+### IDE and editors
 
-*   [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
-*   [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
+*   [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
+*   [所需即所获：像 IDE 一样使用 vim (⭐9.2k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
+*   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+*   [IntelliJ IDEA 简体中文专题教程 (⭐20k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
+*   [Vim中文文档 (⭐186)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
 
 ## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

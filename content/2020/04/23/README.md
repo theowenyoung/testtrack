@@ -120,7 +120,7 @@
 *   [![Twitter Follow](https://img.shields.io/twitter/follow/davewiner?label=%40davewiner\&style=social)](https://twitter.com/davewiner) [![Twitter Follow](https://img.shields.io/twitter/follow/RSSCircus?label=%40RSSCircus\&style=social)](https://twitter.com/rsscircus), [![Twitter Follow](https://img.shields.io/twitter/follow/crid?label=%40crid\&style=social)](https://twitter.com/crid) and others who are also focusing on RSS ecosystem.
 *   Icons: [SOFTICONS](https://www.softicons.com/) & [Icons8](https://icons8.com)
 
-### Browser Booklet / For Android device
+### Browser Booklet / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Subscribe ZhihuZhuanlan](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)
 *   [Subscribe V2EX post comments](https://rss.lilydjwg.me/) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/lilydjwg/morerssplz)

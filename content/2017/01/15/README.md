@@ -1,24 +1,30 @@
 # Awesome List Updates on Jan 15, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 管理和监控
+
+*   [Puppet 2.7 Cookbook 中文版](https://www.gitbook.com/book/wizardforcel/puppet-27-cookbook/details)
+
+## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Logging / Firmwares for ESP based Devices
 
 *   [mqtthandler (⭐19)](https://github.com/changyuheng/MQTTHandler) - A Python logging handler module for MQTT.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
 *   [AWS SDK (⭐1.8k)](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
 
-## [3. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [4. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Beacon Development
 
@@ -28,19 +34,19 @@
 
 *   [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code (⭐5)](https://github.com/eliaslecomte/ibeacon-scanner-app)
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Debugging
 
 *   [ErrorEmail plugin (⭐16)](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
 
-## [5. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [6. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Source Code Repos
 
 *   [Package Drone (⭐67)](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
-## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 

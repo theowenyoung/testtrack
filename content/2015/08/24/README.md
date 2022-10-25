@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 *   [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 
-## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [4. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 操作系统
+
+*   [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
+
+## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Tools
 
@@ -43,7 +49,7 @@
 *   [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 *   [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Testing
 
@@ -57,7 +63,7 @@
     *   [responses (⭐3.7k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [VCR.py (⭐2.3k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 
-## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 

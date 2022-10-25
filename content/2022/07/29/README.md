@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,21 +32,13 @@
 *   [Momentum UI Web Components (⭐125)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
 *   [Red Hat Design System (⭐18)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 
-## [4. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### HTML and CSS
-
-*   [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI) - Brad Traversy (screencast)
-*   [CSS-Tricks Screencasts](https://css-tricks.com/video-screencasts/) - Chris Coyier (screencast)
-*   [The CSS Podcast](https://thecsspodcast.libsyn.com) - Una Kravets, Adam Argyle (podcast)
-
-## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Shells / On Host
 
 *   [mpremote (⭐15k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
-## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / PyTorch
 
@@ -65,19 +57,19 @@
 
 *   [envd (⭐1.1k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
 *   [marshmallow (⭐214)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
 *   [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 

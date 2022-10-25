@@ -1,12 +1,18 @@
 # Awesome List Updates on Oct 20 - Oct 26, 2014
 
-6 awesome lists updated this week.
+7 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### CoffeeScript
+
+*   [CoffeeScript 编程风格指南 (⭐7)](https://github.com/elrrrrrrr/coffeescript-style-guide/blob/master/README-ZH.md)
+
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -121,7 +127,7 @@
 
 *   [30 Days of Elixir (⭐2.9k)](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -131,7 +137,7 @@
 
 *   [Skylight (⭐280)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -146,7 +152,7 @@
 
 *   [nvm for Windows (⭐24k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
@@ -156,7 +162,7 @@
 
 *   [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Biology
 
@@ -217,7 +223,7 @@
 
 *   [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 

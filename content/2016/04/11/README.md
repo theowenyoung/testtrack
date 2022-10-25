@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,13 +117,21 @@
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
 *   [visNetwork (⭐483)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Rust / Django
+
+*   [Rust 官方教程 (⭐1.5k)](https://github.com/KaiserY/rust-book-chinese)
+*   [Rust 语言学习笔记 (⭐133)](https://github.com/photino/rust-notes)
+*   [RustPrimer (⭐1.7k)](https://github.com/rustcc/RustPrimer)
+
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Debugging
 
 *   [observer\_cli (⭐1.2k)](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 
-## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [9. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Tutorials
 

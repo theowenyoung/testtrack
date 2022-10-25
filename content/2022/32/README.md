@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08 - Aug 14, 2022
 
-57 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,6 +56,7 @@
 *   [WebFeed](https://taoshu.in/webfeed/) <sup>[1213](https://t.me/s/aboutrss/1213)</sup> [![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/webfeed/phonnpdncnchhpobgkabgcjoapjcacop/)[![Firefox](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Mozilla.png)](https://addons.mozilla.org/zh-CN/firefox/addon/webfeed/)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/taoso/webfeed)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Matter Reader](https://hq.getmatter.com/) <sup>[1220](https://t.me/s/aboutrss/1220)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/matter-reader/id1501592184)
 *   [Folio Reader](https://foliorss.com/) <sup>[1201](https://t.me/s/aboutrss/1201)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=me.bakumon.rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+*   [feeeed](https://feeeed.nateparrott.com/) <sup>[1238](https://t.me/s/aboutrss/1238)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/feeeed/id1600187490)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -72,10 +73,6 @@
 ### RSS Reader in Email System / Outline Processor Markup Language
 
 *   [Cypht](https://cypht.org/) <sup>[1226](https://t.me/s/aboutrss/1226)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/jasonmunro/cypht)
-
-### TestFlight / Early Access / Outline Processor Markup Language
-
-*   [feeeed](https://feeeed.nateparrott.com/) <sup>[1238](https://t.me/s/aboutrss/1238)</sup>
 
 ### 😎 Services that support RSS / Outline Processor Markup Language
 
@@ -114,19 +111,19 @@
 
 *   [Readybot](https://readybot.io/) <sup>[1231](https://t.me/s/aboutrss/1231)</sup>
 
-### Reddit RSS fix / For Android device
+### Reddit RSS fix / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Reddit Top RSS](https://reddit-top-rss.herokuapp.com/) <sup>[1206](https://t.me/s/aboutrss/1206)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/johnwarne/reddit-top-rss/)
 
-### Combine multiple feeds into one / For Android device
+### Combine multiple feeds into one / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [mior](http://mior.ericfu.me/) <sup>[1215](https://t.me/s/aboutrss/1215)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/fuyufjh/mior)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### Search across a certain RSS Feed / For Android device
+### Search across a certain RSS Feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Semantic Search across any RSS feed with Diva](https://www.diva.so/demo) <sup>[1229](https://t.me/s/aboutrss/1229)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### ⛓ OPML management / For Android device
+### ⛓ OPML management / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [OPML-compatible apps list](http://opml.org/compatibleApps.opml) <sup>[1216](https://t.me/s/aboutrss/1216)</sup>
 *   [Little Outliner](http://littleoutliner.com/) <sup>[1055](https://t.me/s/aboutrss/1055)</sup>: browse and edit OPML files.
@@ -152,12 +149,12 @@
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
 
 *   Collections shared in the Telegram Channel
-    *   [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234),
+    *   [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260),
 
 ### Tutorials when knowing how to run code / Crypto or Blockchain relevant
 
 *   Collections shared in the Telegram channel
-    *   [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217),
+    *   [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263),
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -647,19 +644,140 @@
 
 *   [FinancePy (⭐1.1k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 
-## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *(:card\_file\_box: archived)*
+
+### 管理和监控
+
+*   [Elasticsearch 权威指南（中文版）](https://web.archive.org/web/20200415002735/https://es.xiaoleilu.com/) *(:card\_file\_box: archived)*
+
+### 项目相关
+
+*   [selenium 中文文档](https://einverne.gitbook.io/selenium-doc/)
+
+### Assembly
+
+*   逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
+    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+
+### C
+
+*   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
+*   [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C\&CPP/c/) *(:card\_file\_box: archived)*
+
+### C++
+
+*   [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card\_file\_box: archived)*
+
+### Dart
+
+*   [Dart 语言导览](https://web.archive.org/web/20200415002731/dart.lidian.info/wiki/Language_Tour) *(:card\_file\_box: archived)*
+
+### Elixir
+
+*   [Elixir 编程语言教程](https://elixirschool.com/zh-hans) (Elixir School)
+
+### Golang
+
+*   [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *(:card\_file\_box: archived)*
+
+### Java
+
+*   [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C\(%E9%BB%84%E5%B1%B1%E7%89%88\).pdf) (PDF)
+
+### JavaScript
+
+*   [你不知道的JavaScript (⭐160k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
+*   [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *(:card\_file\_box: archived)*
+*   [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
+*   [JavaScript编程指南](http://pij.robinqu.me) ([源码 (⭐135)](https://github.com/RobinQu/Programing-In-Javascript))
+
+### JavaScript / Backbone.js
+
+*   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+*   [Backbone.js入门教程第二版 (⭐955)](https://github.com/the5fire/backbonejs-learning-note)
+*   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card\_file\_box: archived)*
+
+### JavaScript / D3.js
+
+*   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+*   [官方API文档 (⭐103k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+*   [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
+*   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
+
+### JavaScript / Electron.js
+
+*   [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+*   [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
+
+### JavaScript / ExtJS
+
+*   [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+
+### JavaScript / jQuery
+
+*   [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card\_file\_box: archived)*
+*   [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+
+### JavaScript / React.js
+
+*   [Learn React & Webpack by building the Hacker News front page (⭐410)](https://github.com/theJian/build-a-hn-front-page)
+*   [React-Bits 中文文档 (⭐593)](https://github.com/hateonion/react-bits-CN)
+*   [React webpack-cookbook (⭐277)](https://github.com/fakefish/react-webpack-cookbook)
+*   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+*   [React.js 中文文档](https://discountry.github.io/react/)
+
+### JavaScript / Vue.js
+
+*   [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
+
+### JavaScript / Zepto.js
+
+*   [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card\_file\_box: archived)*
+
+### Lua / Zepto.js
+
+*   [Lua 5.3 参考手册](https://www.runoob.com/manual/lua53doc/)
+
+### PHP / Zepto.js
+
+*   [CodeIgniter 使用手冊](https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/) *(:card\_file\_box: archived)*
+*   [Phalcon7中文文档](https://web.archive.org/web/20220330065727/myleftstudio.com/) *(:card\_file\_box: archived)*
+
+### PHP / Symfony
+
+*   [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *(:card\_file\_box: archived)*
+
+### Python / Symfony
+
+*   [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *(:card\_file\_box: archived)*
+*   [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card\_file\_box: archived)*
+
+### R / Django
+
+*   [用 R 构建 Shiny 应用程序](https://web.archive.org/web/20200220023703/yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版) *(:card\_file\_box: archived)*
+
+### Ruby / Django
+
+*   [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
+
+## [44. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [jwave (⭐33)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 
-## [44. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [45. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### Fundamental concepts
 
 *   [Responsive Design](https://web.dev/learn/design/) - Extensive information about all aspects of responsive design to make sites that look great and work well for everyone.
 
-## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
@@ -705,7 +823,7 @@
 *   [vi-tality/neovitality (⭐49)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
 *   [cstsunfu/.sea.nvim (⭐85)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
-## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -719,7 +837,7 @@
 
 *   [Skiff Mail](https://skiff.com/mail) - Encrypted & Decentralized Email -- available on web, iOS/Android, and macOS. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/skiff-org/skiff-mail)
 
-## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [48. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Featured
 
@@ -736,19 +854,19 @@
 *   [Rosefinch](https://rosefinchapp.com) - Store and run SQL queries.
 *   [Nota](https://nota.md) - Pro writing app designed for local Markdown files.
 
-## [48. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [49. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Public REST APIs To Use In Tests / Symfony2
 
 *   [The Cat API](http://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
 
-## [49. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [50. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Justice40](https://screeningtool.geoplatform.gov/en/methodology) - The purpose of the tool is to help Federal agencies identify disadvantaged communities that are marginalized, underserved, and overburdened by pollution. Combines multiple data sources at the census tract level across eight categories of criteria.
 
-## [50. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [51. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In German
 
@@ -756,13 +874,13 @@
 *   [Bits und so](http://www.bitsundso.de/) - Weekly talk radio aout Apple, Mac, Ipod+Iphone and other gadgets.
 *   [Methodisch inkorrekt](http://minkorrekt.de/) - humoristic reviews of scientific papers. Releasing roughly all two weeks.
 
-## [51. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [52. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Community / Video Tutorials
 
 *   [Gatling Community](https://community.gatling.io/)
 
-## [52. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -873,13 +991,13 @@
 
 *   Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted/), [IndieWeb](https://indieweb.org/)
 
-## [53. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [54. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Editors
 
 *   [mix.nvim (⭐17)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
-## [54. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [55. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
@@ -911,7 +1029,7 @@
 
 *   [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explore/rust) - A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi
 
-## [55. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [56. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Python / React
 
@@ -922,14 +1040,14 @@
 *   [EntityGraphQL (⭐296)](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
 *   [ZeroQL (⭐132)](https://github.com/byme8/ZeroQL) - type-safe GraphQL client with Linq-like interface for C#
 
-## [56. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [57. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6-junit (⭐6)](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 *   [k6-expect (⭐1)](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 

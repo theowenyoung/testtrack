@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01 - Aug 07, 2016
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -319,7 +319,13 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Haskell
+
+*   [Real World Haskell 中文版](http://cnhaskell.com)
+
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Third Party APIs
 
@@ -329,7 +335,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [vscode-elixir (⭐4)](https://github.com/mat-mcloughlin/vscode-elixir) - Elixir Support for Visual Studio Code.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Tab / Barcode
 
@@ -344,7 +350,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [RevealingSplashView (⭐1.2k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -358,7 +364,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [HijriDatePicker (⭐129)](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Generators
 

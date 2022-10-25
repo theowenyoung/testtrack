@@ -144,7 +144,7 @@
 
 *   [el\_monitorro\_bot](https://t.me/el_monitorro_bot) <sup>[601](https://t.me/s/aboutrss/601)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ayrat555/el_monitorro)
 
-### WordPress plugins / For Android device
+### WordPress plugins / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Featured Images in RSS for Mailchimp & Other Email](https://wordpress.org/plugins/featured-images-for-rss-feeds/) <sup>[602](https://t.me/s/aboutrss/602)</sup>
 

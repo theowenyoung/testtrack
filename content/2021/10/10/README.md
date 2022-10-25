@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,37 +13,31 @@
 *   [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 *   [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
-## [2. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### Language Agnostic / React.js
-
-*   [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
-
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
 *   [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
-## [4. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Programming
 
 *   [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Deployment Hosting
 
 *   [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [FreeFlarum](https://freeflarum.com/) - Community powered free Flarum hosting for up to 250 users (donate to remove watermark from footer).
 
-## [7. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Controllers
 
@@ -53,13 +47,13 @@
 
 *   [gdx-jnigen (⭐33)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
-## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
 *   [Publish-AppImage for .NET (⭐11)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 
-## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [8. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Robotic Process Automation
 
@@ -89,13 +83,13 @@
 
 *   [The Connector](https://www.workato.com/the-connector/) - Workato blog on Business Automation.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-color-input (⭐9)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
@@ -105,37 +99,37 @@
 
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Asynchronous
 
 *   [async-std](https://async.rs/) [\[async-std\]](https://crates.io/crates/async-std) - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
-## [13. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
+## [12. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
 ### Resources / Books
 
 *   [The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
 *   [jvgrootveld/telescope-zoxide (⭐138)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
-## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
 
-## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 

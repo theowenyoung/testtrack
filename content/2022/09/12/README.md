@@ -118,7 +118,7 @@
 
 *   [~~RSS-To-Email~~](https://rss-to-email.portablecto.com/) <sup>[307](https://t.me/s/aboutrss/307)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/portable-cto/rss-to-email)
 
-### Tech or IT / For Android device
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [~~Refined Blog~~](https://refined.blog/)
 

@@ -160,15 +160,11 @@
 
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 
-## [14. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+## [14. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
 ### C++
 
-*   [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
-
-### Language Agnostic / React.js
-
-*   [Does Not Compute](https://dnc.show) - Sean Washington, Rockwell Schrock (podcast)
+*   [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) - Luminous-Coder (:construction: *in process*)
 
 ## [15. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
@@ -452,7 +448,7 @@
 
 ### Tutorials
 
-*   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
+*   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐5.1k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐562)](https://github.com/jadianes/data-science-your-way)
 *   [PySpark Cheatsheet (⭐213)](https://github.com/kevinschaich/pyspark-cheatsheet)

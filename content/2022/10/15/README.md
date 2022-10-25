@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,7 @@
 
 ### Tutorials
 
-*   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with ipyton.
+*   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐5.1k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 *   [Data science your way (⭐562)](https://github.com/jadianes/data-science-your-way)
 *   [PySpark Cheatsheet (⭐213)](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -285,12 +285,6 @@
 ### DBaaS
 
 *   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system and a message queue. 1 instance free per project, 5000 records and 5000 calls/month free, 3 developers included. No credit-card required.
-
-## [8. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### C++
-
-*   [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2020
 
-69 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -468,19 +468,25 @@
 
 *   [returns (⭐2.5k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 
-## [50. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [50. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Python / Symfony
+
+*   [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
+
+## [51. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Books
 
 *   [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - Free
 
-## [51. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
+## [52. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
 
 ### Workers / Recipes
 
 *   [Google reCAPTCHA verification (⭐30)](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 
-## [52. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [53. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
@@ -497,7 +503,7 @@
 
     <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
-## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -555,7 +561,7 @@
 
 
 
-## [54. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [55. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
@@ -568,13 +574,13 @@
     ` - [Official Metasploit](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 *   `docker pull noncetonic/archlinux-pentest-lxde` - [Arch Linux Penetration Tester](https://hub.docker.com/r/noncetonic/archlinux-pentest-lxde)
 
-## [55. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [56. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Presets
 
 *   [Laravel front-end preset (⭐139)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 
-## [56. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [57. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -586,7 +592,7 @@
 *   [gatling-tcp-extensions (⭐22)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 *   [gatling-thrift (⭐18)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
 
-## [57. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [58. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Video
 
@@ -610,7 +616,7 @@
 *   [parse-columns-cli (⭐58)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
-## [58. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [59. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Science and Medicine
 
@@ -666,19 +672,19 @@
 
 
 
-## [59. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [60. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Storage
 
 *   [Delta Lake (⭐5.3k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
-## [60. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [61. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [vaexio](https://github.com/vaexio)
 
-## [61. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
+## [62. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
 ### URL
 
@@ -897,7 +903,7 @@
 *   [Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html) - Learn how to use SEO tools and techniques to research the competition online. Find out what keywords your competitors are optimizing for—and then outrank them on search engine results pages. With Anson Alexander by Lynda.com.
 *   [WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html) - Drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com.
 
-## [62. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [63. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### The TALL Stack
 
@@ -910,25 +916,25 @@
 
 *   [talltips](https://talltips.novate.co.uk/) - Collection of tips and ideas across the TALL stack.
 
-## [63. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [64. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Uncategorized / Twitter
 
 *   [rhasspy (⭐1.2k)](https://github.com/rhasspy/rhasspy) - Toolkit for developing custom voice assistants.
 
-## [64. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [65. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) (November, 2020)
 
-## [65. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [66. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks
 
 *   [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 
-## [66. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [67. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Blockchain
 
@@ -946,13 +952,13 @@
 
 *   [Invidious (⭐8.6k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
-## [67. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [68. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
-## [68. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+## [69. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
 
 ### Module Listings
 
@@ -968,7 +974,7 @@
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 *   [PHPStorm / Webstorm Live Templates (⭐3)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
-## [69. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [70. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Shoes
 

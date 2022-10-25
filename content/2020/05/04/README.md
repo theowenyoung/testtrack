@@ -88,7 +88,6 @@
 
 ### TestFlight / Early Access / Outline Processor Markup Language
 
-*   [RSS Reader Prime](https://testflight.apple.com/join/7GwtCsAs)
 *   [期待 - Angelia](https://testflight.apple.com/join/i37NXl07)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant

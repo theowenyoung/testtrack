@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2017
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,43 +60,57 @@
 
 *   **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 项目相关
+
+*   [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+
+### C++
+
+*   [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
+
+### Perl / Zepto.js
+
+*   [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/\~yhf/tutorial/perl/perl.html)
+
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
 *   [SiriDB (⭐467)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
-## [10. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Miscellaneous
 
 *   [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 
-## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Hiring
 
 *   [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA)
 
-## [12. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [13. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Utilities (uncategorized) / Others
 
 *   [Resume Nation](https://resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 
-## [13. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Blog Posts
 
 *   [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 
-## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [CliWrap (⭐2.1k)](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 
-## [15. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Troubleshooting and queries / Learning Salesforce Platform
 
@@ -106,13 +120,13 @@
 
 *   [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com) - Articles about Lightning Components, Apex, Visualforce, Force.com and Salesforce in general. He is a Master Technical Instructor at Salesforce.com and owns 11x Salesforce certifications.
 
-## [16. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [17. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX formulas on the web
 
 *   [Auto-LaTeX Equations with Google Docs](https://sites.google.com/site/autolatexequations) - Render high-quality math equations directly in Google Docs.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Transition / Barcode
 

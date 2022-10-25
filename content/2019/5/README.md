@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04 - Feb 10, 2019
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -436,13 +436,7 @@
 
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 
-## [29. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Java
-
-*   [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
-
-## [30. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [29. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -462,7 +456,7 @@
 *   [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 *   [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
 
-## [31. Bots](/content/hackerkid/bots/week/README.md)
+## [30. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Platform Documentation
 
@@ -476,7 +470,7 @@
 
 *   [BotMan (⭐5.7k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
-## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Specialties
 
@@ -490,7 +484,7 @@
 
 *   [j2ada (⭐2)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
-## [33. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [32. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -515,13 +509,13 @@
 
 *   [cssicon (⭐3.1k)](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
 
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Strong Naming
 
 *   [Strong Namer (⭐309)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
-## [35. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [34. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Tools / Personal use
 
@@ -533,37 +527,37 @@
 
 
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [RxAndroid (⭐20k)](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Torch (⭐1.7k)](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 
-## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [37. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Python / Git
 
 *   [Crypto-Vinaigrette (⭐13)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
-## [39. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [38. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Moment (⭐76)](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
 
-## [40. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [39. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Accessibility / Web payments
 
 *   [Excellent intro to accessibility from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California   <a id="california">  </a>
 
@@ -604,7 +598,7 @@ Webpage: <https://blackhammerbrewing.com>
 | ---- | ----- | -------------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00 |
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Desktop / Game Engine resources
 
@@ -614,33 +608,33 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   Slack [Flutter Brasil](https://flutterbr.slack.com)
 
-## [43. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [42. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 
-## [44. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [43. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
 
-## [45. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [44. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 *   ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 
-## [46. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [45. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 *   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
-## [47. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [46. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Realtime
 
@@ -650,7 +644,7 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [GitHub Archive](https://www.gharchive.org/) GitHub's public timeline since 2011, updated every hour
 
-## [48. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [47. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Backoffice extensions
 
@@ -660,19 +654,19 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [Deploy Contrib (⭐11)](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** *Umbraco Cloud only*
 
-## [49. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [48. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Introductions
 
 *   [Awesome Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 
-## [50. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [49. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Resources
 
 *   [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 
-## [51. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [50. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Python
 
@@ -692,7 +686,7 @@ Webpage: <https://blackhammerbrewing.com>
 *   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (⭐9.1k)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
 *   [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷
 
-## [52. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [51. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -707,7 +701,7 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
 
-## [53. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [52. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Autobiographies and Biographies
 
@@ -808,13 +802,13 @@ Webpage: <https://blackhammerbrewing.com>
 
 
 
-## [54. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [53. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
 *   Clojure: [clj-postgresql (⭐154)](https://github.com/remodoy/clj-postgresql)
 
-## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Open Data
 

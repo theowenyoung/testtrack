@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18 - Mar 24, 2019
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -458,13 +458,35 @@ Free
 
 *   [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
 
-## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
+
+### C++
+
+*   [C/C++ Primer (⭐254)](https://github.com/andycai/cprimer) - andycai
+
+### Java
+
+*   [Spring Boot参考指南 (⭐4.5k)](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
+
+### JavaScript
+
+*   [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰
+
+### Python / Django
+
+*   [Django Girls 教程 (1.11)](https://tutorial.djangogirls.org/zh/) (HTML)
+
+## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### People / Twitter
 
 *   [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 
-## [42. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [43. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -474,7 +496,7 @@ Free
 
 *   [Pi Audio Monitor (⭐93)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
-## [43. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [44. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
@@ -485,7 +507,7 @@ Free
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)
 
-## [44. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [45. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -493,7 +515,7 @@ Free
 *   [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 *   [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 
-## [45. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [46. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,13 +56,19 @@
 
 *   [returns (⭐2.5k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 
-## [9. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Python / Symfony
+
+*   [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
+
+## [10. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Books
 
 *   [Pro Meteor](https://pdfslide.net/documents/pro-meteor-book.html) - Free
 
-## [10. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Docker Images for Penetration Testing & Security
 

@@ -258,24 +258,13 @@
 
 *   [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
 
-## [26. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Data Science
-
-*   [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
-
-### Language Agnostic / React.js
-
-*   [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
-*   [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
-
-## [27. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [26. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Related Projects / Hosting
 
 *   [RxDB](https://rxdb.info/) - NoSQL-database for JavaScript Applications. RxDB provides modules for realtime replication with any CouchDB compliant endpoint and also with custom GraphQL endpoints.
 
-## [28. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [27. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -289,7 +278,7 @@
 
 *   [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/\~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 
-## [29. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [28. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Packages
 
@@ -299,31 +288,31 @@
 
 *   [Learning Observable By Building Observable](https://benlesh.com/posts/learning-observable-by-building-observable/) *(Updated 2021-07-08)*
 
-## [30. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [29. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Inspirations
 
 *   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Text / Barcode
 
 *   [Regex by sindresorhus (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
-## [32. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [31. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Regex
 
 *   [sindresorhus/Regex (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
-## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [32. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
 *   [Yarn.social](https://yarn.social) 🧶 is a decentralized self-hosted social media that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored. Web and Mobile `Go` `MIT`
 
-## [34. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
+## [33. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
 ### :pencil:   Lists
 
@@ -417,13 +406,13 @@
 *   [tickbot (⭐11)](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 *   [trebekbot (⭐153)](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 
-## [35. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [34. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Tools
 
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 
-## [36. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [35. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Video Transcoding and Editing
 
@@ -431,25 +420,25 @@
 *   [Golem Transcoding requestor (⭐4)](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
 *   [Golem Auto Editor (⭐4)](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
-## [37. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [36. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) - An interactive map that layers georectified Home Owners' Loan Corporation (HOLC) maps onto a modern basemap of the United States. These color-coded HOLC maps were a physical embodiment of the real estate practice known as *redlining*. Additional Information: License: CC BY-NC-SA 4.0, Geographic Coverage: Major Metropolitan Areas in the Lower 48 US States (1935-1940).
 
-## [38. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [37. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
 *   [TCGdex (⭐30)](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
 *   [osu!framework (⭐1.2k)](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
-## [40. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [39. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
@@ -459,13 +448,13 @@
 
 *   [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/) - Fully managed Postgres from the Postgres experts. Available across all major cloud providers: Amazon AWS, Google GCP, Microsoft Azure. No lock-in with full super-user support.
 
-## [41. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [40. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Supply chain security
 
 *   [in-toto](https://in-toto.io/) - Framework to secure the integrity of software supply chains.
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Version Control
 
@@ -477,7 +466,7 @@
 
 *   [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1569600264)
 
-## [43. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [42. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Market Analysis
 
@@ -485,6 +474,16 @@
     *   [Gartner Critical Capabilities for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/434187)
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
+
+## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### Web
+
+*   [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
+
+### Rust / Django
+
+*   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
 
 ## [44. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 

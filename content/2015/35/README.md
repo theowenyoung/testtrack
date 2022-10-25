@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31 - Sep 06, 2015
 
-29 awesome lists updated this week.
+30 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -987,7 +987,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
 
-## [27. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [27. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+
+### 操作系统
+
+*   [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
+
+## [28. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
@@ -1005,7 +1011,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 *   [CIS Docker 1.6 Benchmark v1.0.0](https://benchmarks.cisecurity.org/tools2/docker/CIS_Docker_1.6_Benchmark_v1.0.0.pdf)
 *   [Understanding docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/)
 
-## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
@@ -1023,7 +1029,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
     *   [mixer (⭐861)](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
     *   [model\_mommy (⭐917)](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 
-## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [30. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 

@@ -8,6 +8,12 @@ Curated list of awesome things related to Deno
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Modules / Frontend framework
+
+*   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Resources / Books

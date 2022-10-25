@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,25 +66,14 @@
 
 *   [fork-handles/tuples4k (⭐133)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
-## [6. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### Language Agnostic / React.js
-
-*   [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
-*   [Under the Radar](https://www.relay.fm/radar) - Marco Arment, David Smith (podcast)
-
-### Ruby / React.js
-
-*   [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
-
-## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [6. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [FirelordJS (⭐31)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐18)](https://github.com/tylim88/Firelord))
 *   🔧 [FireSword (⭐0)](https://github.com/tylim88/FireSword) - Filter Firestore and RTDB unknown keys or keys with incorrect data types recursively, support all field values and special data types. (For web and admin)
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
@@ -164,7 +153,7 @@
 
 *   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
-## [9. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [8. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / How To Read a Paper
 

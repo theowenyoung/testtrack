@@ -143,16 +143,16 @@
 
 *   Feature Request <sup>[461](https://t.me/s/aboutrss/461)</sup>
 
-### Reddit RSS fix / For Android device
+### Reddit RSS fix / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS of only top-level comments](https://www.reddit.com/r/rss/comments/ekffc2/is_it_possible_to_have_an_rss_of_only_toplevel/) <sup>[341](https://t.me/s/aboutrss/341)</sup>
 *   [reddit.0qz.fun](https://reddit.0qz.fun/) <sup>[555](https://t.me/s/aboutrss/555)</sup>: improved reddit rss feed supports videos, gifs, and images
 
-### Tumblr RSS fix / For Android device
+### Tumblr RSS fix / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Tumblr RSS feed with orginal-size image](https://blog.wizos.me/20180412-139.html) <sup>[289](https://t.me/s/aboutrss/289)</sup> ![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)
 
-### RSS Feed Finding/Detection / For Android device
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Easy to RSS](https://idealclover.top/projects.html) [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chrome.google.com/webstore/detail/easy-to-rss/hbcmpkcpbnecinpngdnfbnknfkdpdfli)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/easy-to-rss)
 *   [RSS+](https://greasyfork.org/zh-CN/scripts/373252-rss-show-site-all-rss)

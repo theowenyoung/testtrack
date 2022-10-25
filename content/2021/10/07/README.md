@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -180,13 +180,18 @@ Free (Open Source)
 
 *   [optionals (⭐100)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Assembly
+
+*   [C/C++面向WebAssembly编程 (⭐1.2k)](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples (⭐1.2k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
+
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
 *   [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
 *   [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-*   [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 
 ### Books / Visualization Tools
 
@@ -198,7 +203,7 @@ Free (Open Source)
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -384,7 +389,7 @@ Free (Open Source)
 
 
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Miscellaneous / Development and testing
 

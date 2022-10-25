@@ -76,11 +76,34 @@
 
 *   [betterglobekey (⭐5)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
-### JavaScript
+### Golang
 
-*   [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
+*   [Go 简易教程 (⭐386)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐1.9k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
+*   [The Little Go Book 繁體中文翻譯版 (⭐129)](https://github.com/kevingo/the-little-go-book) - Karl Seguin, `trl.:` KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
+
+### JavaScript / AngularJS
+
+*   [AngularJS最佳实践和风格指南 (⭐5k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko, et al. (HTML)
+
+### Python / Symfony
+
+*   [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang\_derek *(内含丰富的笔记以及各类教程)*
+*   [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) (Online)
+*   [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
+*   [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
+*   [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
+
+### Python / Django
+
+*   [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) (Online) *(这个很新，也很全)*
+*   [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - 杜赛 (HTML)
+
+### TypeScript / Angular
+
+*   [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
+*   [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

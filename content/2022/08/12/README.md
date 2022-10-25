@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,25 +39,82 @@
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Assembly
+
+*   逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
+    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+
+### JavaScript
+
+*   [你不知道的JavaScript (⭐160k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
+*   [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
+*   [JavaScript编程指南](http://pij.robinqu.me) ([源码 (⭐135)](https://github.com/RobinQu/Programing-In-Javascript))
+
+### JavaScript / Backbone.js
+
+*   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+*   [Backbone.js入门教程第二版 (⭐955)](https://github.com/the5fire/backbonejs-learning-note)
+*   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card\_file\_box: archived)*
+
+### JavaScript / D3.js
+
+*   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
+*   [官方API文档 (⭐103k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
+*   [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
+*   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
+
+### JavaScript / Electron.js
+
+*   [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
+*   [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
+
+### JavaScript / ExtJS
+
+*   [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
+
+### JavaScript / jQuery
+
+*   [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card\_file\_box: archived)*
+*   [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
+
+### JavaScript / React.js
+
+*   [Learn React & Webpack by building the Hacker News front page (⭐410)](https://github.com/theJian/build-a-hn-front-page)
+*   [React-Bits 中文文档 (⭐593)](https://github.com/hateonion/react-bits-CN)
+*   [React webpack-cookbook (⭐277)](https://github.com/fakefish/react-webpack-cookbook)
+*   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+*   [React.js 中文文档](https://discountry.github.io/react/)
+
+### JavaScript / Vue.js
+
+*   [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
+
+### JavaScript / Zepto.js
+
+*   [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card\_file\_box: archived)*
+
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Protocols
 
 *   [CoAP](http://coap.technology/) - The Constrained Application Protocol (CoAP) is a specialized Internet application protocol for constrained devices, as defined in RFC 7252.
 
-## [7. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Global Connectivity Indexes
 
 *   ITU Global Connectivity Report - ([2022](https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/)) - a detailed assessment of the current state of connectivity.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-confluent (⭐51)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
@@ -67,7 +124,7 @@
 
 *   [oxidecomputer/propolis (⭐99)](https://github.com/oxidecomputer/propolis) - Rust-based userspace program for illumos bhyve kernel modules
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
@@ -87,20 +144,20 @@
 
 *   [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
 
-## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2018
 
 *   [Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/abs/1710.06169) - (AIES) *Treats black box models as teachers, training transparent student models to mimic the risk scores assigned by black-box models.*
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-validation (⭐1)](https://github.com/ethandunford/deno-validation) - A general purpose validation library for Deno.
 *   [PLS (⭐6)](https://github.com/roj1512/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Others / Commonsense Knowledgebase
 

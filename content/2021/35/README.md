@@ -101,20 +101,20 @@
 *   [BalloonRSS](https://embyt.github.io/balloonrss/index.html) <sup>[851](https://t.me/s/aboutrss/851)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://embyt.github.io/balloonrss/download.html)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/embyt/balloonrss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [INK RSS](https://channel.1nk.workers.dev/channel) <sup>[1078](https://t.me/s/aboutrss/1078)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/pureink/inkrss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-### RSS2BOARD / For Android device
+### RSS2BOARD / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Weavr Boards](https://weavr.ai/blogs/Knowledge-curation-and-sharing-made-easy-through-Weavr-Boards-and-RSS-Feeds) <sup>[1077](https://t.me/s/aboutrss/1077)</sup>
 *   [SnipRSS](https://sniprss.com/) <sup>[1077](https://t.me/s/aboutrss/1077)</sup>
 
-### Full Article Extractors / For Android device
+### Full Article Extractors / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [~~FeedOcean: Full Text RSS Feed~~](https://rss2full.feedocean.com/) <sup>[594](https://t.me/s/aboutrss/594)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/feedocean/rss2full)
 
-### News / For Android device
+### News / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Awesome-newsCN-feeds (⭐38)](https://github.com/RSS-Renaissance/awesome-newsCN-feeds)
 
-### Tech or IT / For Android device
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Awesome-techCN-feeds (⭐9)](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
 

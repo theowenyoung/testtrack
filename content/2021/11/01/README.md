@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,7 +88,21 @@
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Golang
+
+*   [Go 命令教程 (⭐3.3k)](https://github.com/hyper-carrot/go_command_tutorial)
+
+### Groovy
+
+*   [Groovy 教程](https://www.w3cschool.cn/groovy) - W3Cschool
+
+### HTML and CSS
+
+*   [Bootstrap 5 繁體中文手冊](https://bootstrap5.hexschool.com) - 六角學院
+
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 

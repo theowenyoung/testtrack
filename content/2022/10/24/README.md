@@ -540,4 +540,5 @@ Installs: 461 | Stars: 69 | Last update: 18 Sep 2022
 
 ---
 
+- Prev: [Oct 25, 2022](/content/2022/10/25/README.md)
 - Next: [Oct 23, 2022](/content/2022/10/23/README.md)

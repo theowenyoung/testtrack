@@ -357,12 +357,19 @@
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [25. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+## [25. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
 
-### Lisp / React.js
+### IDE and editors
 
-*   [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
-*   [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
+*   [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
+*   [所需即所获：像 IDE 一样使用 vim (⭐9.2k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
+*   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
+*   [IntelliJ IDEA 简体中文专题教程 (⭐20k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
+*   [Vim中文文档 (⭐186)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
+
+### Android
+
+*   [Point-of-Android (⭐1.6k)](https://github.com/FX-Max/Point-of-Android)
 
 ## [26. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
@@ -619,7 +626,7 @@
 
 *   [~~RSS-To-Email~~](https://rss-to-email.portablecto.com/) <sup>[307](https://t.me/s/aboutrss/307)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/portable-cto/rss-to-email)
 
-### Tech or IT / For Android device
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [~~Refined Blog~~](https://refined.blog/)
 

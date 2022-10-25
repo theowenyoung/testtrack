@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,13 +43,19 @@
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
 
-## [6. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Rust / Django
+
+*   [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
+
+## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leaving-a-Team.md)
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -66,7 +72,7 @@
 *   [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=qEdVcTZH5bs\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 11, 2021 - Razor is a server-side, page-centric programming model for building webpages with ASP.NET Core. Razor has continued to mature over time, and has expanded to include numerous "quality-of-life" additions to make the developer's life easier. Jon Galloway joins us to talk about MVC and ASP.NET, and walks us through some of his favorite features, tips and tricks.
 *   [Web Wednesday: Blazor Web Apps using GraphQL and EF Core with Jeremy Likness](https://www.youtube.com/watch?v=3B_6bz8JFBE\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 23, 2021 - Got data? Got Blazor? The “glue” between the client and server is often the weakest link in building enterprise web apps. What if you could use your domain model as the source of truth, generate a database that supports your design and easily move data between the server and your Blazor WebAssembly app with just a few lines of code? Jeremy will show you how to do this and more with the power of Entity Framework Core enhanced by GraphQL.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
@@ -77,13 +83,13 @@
 *   [Pravatar](https://pravatar.cc/) - Generate random/placeholder fake avatar, which url can be directly hotlinked in your web/app.
 *   [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. Which the urls can be directly hotlinked in your web/app. Support config parameters via the url.
 
-## [9. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 

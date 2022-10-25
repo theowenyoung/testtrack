@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2013
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -11,6 +11,12 @@
 ### Info / Other Good Places to Find Papers
 
 *   [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
+
+## [2. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Lisp / Zepto.js
+
+*   [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
 
 ---
 

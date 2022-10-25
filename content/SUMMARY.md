@@ -1917,6 +1917,7 @@
 - [Days](daily/README.md)
   - [2022](2022/month/README.md)
     - [10](2022/10/day/README.md)
+      - [Oct 25, 2022](2022/10/25/README.md)
       - [Oct 24, 2022](2022/10/24/README.md)
       - [Oct 23, 2022](2022/10/23/README.md)
       - [Oct 22, 2022](2022/10/22/README.md)

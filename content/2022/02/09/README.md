@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,13 +62,23 @@
 
 *   [constantoine/totp-rs (⭐36)](https://github.com/constantoine/totp-rs) \[[totp-rs](https://crates.io/crates/totp-rs)] — 2fa library to generate and verify TOTP-based tokens ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### 设计模式
+
+*   [深入设计模式](https://refactoringguru.cn/design-patterns)
+
+### JavaScript
+
+*   [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
+
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
 *   [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0 and access to public worker pools: up to 200 minutes/month
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -98,7 +108,7 @@
 
 
 
-## [11. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Official Resources
 
@@ -117,7 +127,7 @@
 *   [SVG Map Picker Interface (⭐12)](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 *   [SES (⭐4)](https://github.com/ryntab/Directus-SES) - An extension for sending emails with AWS SES.
 
-## [12. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [13. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Platforms
 
@@ -173,7 +183,7 @@
 *   [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 *   [Predix](https://predix.io/) - Industrial microservices platform.
 
-## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Internationalisation / Checkbox
 
@@ -181,7 +191,7 @@
 *   [svelte-i18n (⭐816)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
 *   [sveltekit-i18n (⭐169)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Toolkit
 

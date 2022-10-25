@@ -1,30 +1,36 @@
 # Awesome List Updates on Oct 17, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Web
+
+*   [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
+
+## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Projects Using Seed
 
 *   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
-## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [3. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Working with types
 
 *   [pep585-upgrade (⭐53)](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -110,7 +116,7 @@
 
 
 
-## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Big Data
 
@@ -133,7 +139,7 @@
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 *   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
-## [6. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [7. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Books
 

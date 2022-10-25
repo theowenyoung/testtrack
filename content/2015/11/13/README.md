@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2015
 
-24 awesome lists updated today.
+25 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -754,7 +754,28 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [24. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### HTML and CSS
+
+*   [CSS3 Tutorial 《CSS3 教程》 (⭐199)](https://github.com/waylau/css3-tutorial)
+*   [Emmet 文档](http://yanxyz.github.io/emmet-docs/)
+*   [Sass Guidelines 中文](http://sass-guidelin.es/zh/)
+
+### JavaScript
+
+*   [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
+
+### Python / Symfony
+
+*   [Python 中文学习大本营](http://www.pythondoc.com)
+
+### R / Django
+
+*   [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
+*   [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
+
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Geospatial
 

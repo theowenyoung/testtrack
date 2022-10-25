@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -92,7 +92,17 @@
 *   <a name="imagemagic"></a>
     [ImageMagick](https://imagemagick.org/index.php)
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+
+### Java
+
+*   [Java 编程思想](https://java.quanke.name) - quanke
+
+### Shell / Django
+
+*   [Shell 编程范例](https://tinylab.gitbooks.io/shellbook/content) - 泰晓科技
+
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 

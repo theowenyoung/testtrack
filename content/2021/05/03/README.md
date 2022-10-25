@@ -63,7 +63,7 @@
 
 *   [止阅](https://mp.weixin.qq.com/s/1PNLyA7IQtEQ8m8iE6MiRg) <sup>[968](https://t.me/s/aboutrss/968)</sup>
 
-### Feed Analytics / For Android device
+### Feed Analytics / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Follow.it](https://follow.it/) <sup>[725](https://t.me/s/aboutrss/725), [729](https://t.me/s/aboutrss/729), [1019](https://t.me/s/aboutrss/1019)</sup>
 *   [Feedburner](https://feedburner.google.com/) <sup>[1013](https://t.me/s/aboutrss/1013)</sup>
@@ -145,24 +145,24 @@
 
 *   How to add RSS feeds to Slack feed <sup>[458![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)](https://t.me/s/aboutrss/458), [996](https://t.me/s/aboutrss/996)</sup>
 
-### XSL template for XML / For Android device
+### XSL template for XML / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
 *   [pretty-feed-v3 (⭐88)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 
-### Retrive old items from a RSS feed / For Android device
+### Retrive old items from a RSS feed / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Backfeed](http://backfeed.strangecode.com/) <sup>[991](https://t.me/s/aboutrss/991)</sup>
 
-### RSS Feed Finding/Detection / For Android device
+### RSS Feed Finding/Detection / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [RSS Finder](https://rss-finder-web-app.vercel.app/) <sup>[1003](https://t.me/s/aboutrss/1003)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/alexdevero/rss-finder-web-app)
 
-### News / For Android device
+### News / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Unofficial Reuters RSS Feed](https://www.fivefilters.org/2021/reuters-rss-feeds/) <sup>[987](https://t.me/s/aboutrss/987)</sup>
 
-### Tech or IT / For Android device
+### Tech or IT / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 
 *   [Artificial Intelligence RSS Feeds on the Web](https://www.artificial-intelligence.blog/rss-feeds/)
 
