@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2015
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -79,99 +79,26 @@
 
 *   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### 0 - 言語非依存 / グラフィックスプログラミング
-
-*   [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
-
-### 0 - 言語非依存 / その他の話題
-
-*   [青木靖 翻訳集](http://www.aoky.net) - 青木靖
-
-### 0 - 言語非依存 / 正規表現
-
-*   [正規表現メモ](http://www.kt.rim.or.jp/\~kbk/regex/regex.html) - 木村浩一
-
-### Android / 理論計算機科学
-
-*   [Android Open Text book (⭐256)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
-*   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
-
-### AppleScript / 理論計算機科学
-
-*   [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
-
-### AWK / 理論計算機科学
-
-*   [Effective AWK Programming](http://www.kt.rim.or.jp/\~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
-
-### C / 理論計算機科学
-
-*   [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
-
-### C++ / 理論計算機科学
-
-*   [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
-
-### Git / 理論計算機科学
-
-*   [デザイナのための Git (⭐226)](https://github.com/hatena/Git-for-Designers) - はてな教科書
-
-### JavaScript / Spock Framework
-
-*   [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
-*   [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
-
-### JavaScript / Node.js
-
-*   [node.js 怒濤の50サンプル!! – socket.io編 (⭐23)](https://github.com/omatoro/NodeSample) - omatoro
-
-### Mercurial / React
-
-*   [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
-
-### Objective-C / React
-
-*   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
-
-### PHP / React
-
-*   [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
-
-### Python / Symfony
-
-*   [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
-
-### R / Flask
-
-*   [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
-
-### Scheme / Flask
-
-*   [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
-*   [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
-
-## [7. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Who to Follow / Slides and Notes
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,17 @@
 
 *   [cheptsov/kotlin-nosql (⭐207)](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library for Kotlin.
 
-## [4. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Game Development
+
+*   [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
+
+### Mathematics For Computer Science
+
+*   [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer (PDF)
+
+## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Smarthome
 
@@ -46,13 +56,13 @@
 
 *   [whin (⭐11)](https://github.com/inUtil-info/node-red-contrib-whin) - Send and receive whatsapps from within a nodered flow.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-json-search (⭐12)](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple json-based search
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Transportation
 
@@ -68,7 +78,7 @@
 
 
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Commonsense / Intuitive Physics
 

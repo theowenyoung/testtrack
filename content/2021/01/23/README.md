@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -206,26 +206,7 @@
 
 
 
-## [9. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### 0 - 言語非依存 / ネットワーキング
-
-*   [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
-
-### 0 - 言語非依存 / 機械学習
-
-*   [強化学習入門 (⭐204)](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
-
-### Processing / Symfony
-
-*   [Processing 入門講座](http://ap.kakoku.net/index.html) - maeda
-
-### R / Flask
-
-*   [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
-*   [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
-
-## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Models and Projects / JAX
 

@@ -1,24 +1,18 @@
 # Awesome List Updates on Oct 21 - Oct 27, 2013
 
-3 awesome lists updated this week.
+2 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### 0 - 言語非依存 / アクセシビリティ
-
-*   [Accessible Rich Internet Applications](https://developer.mozilla.org/ja/docs/ARIA/Accessible_Rich_Internet_Applications) - MDN
-
-## [2. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [1. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
 *   [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 
-## [3. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
+## [2. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
 ### Services Engineering Reading List / Posts
 

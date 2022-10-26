@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11 - Jul 17, 2022
 
-54 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,13 +84,19 @@
 
 *   [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Blog post about the difference between l10n and I18n from Crowdin.
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Computer Vision
+
+*   [DALLE-E 2 prompt book](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson(PDF)
+
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Go / Git
 
 *   [kyber (⭐502)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
-## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
@@ -104,26 +110,26 @@
 
 *   [W3Schools Canvas Tutorial](https://www.w3schools.com/graphics/canvas_intro.asp) - Tutorial covering various features and methods and with many practical examples
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [csuuid (⭐12)](https://github.com/wyhaines/csuuid.cr) - A Chronologically Sortable UUID
 *   [secure-remote-password (⭐3)](https://github.com/spider-gazelle/secure-remote-password) - SRP-6a protocol for authentication over an insecure network
 
-## [12. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
 *   [Cycle.Travel](https://cycle.travel/map) - An OSM-based bike route-planner, together with extensive editorial content about long-distance cycle routes and city cycling. ([Wiki](https://wiki.openstreetmap.org/wiki/Cycle.travel))
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Boilerplates / Other
 
 *   [Wasp (⭐1.9k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -154,7 +160,7 @@
 
 *   [Upgini (⭐152)](https://github.com/upgini/upgini): Free automated data & feature enrichment library for machine learning - automatically searches through thousands of ready-to-use features from public and community shared data sources and enriches your training dataset with only the accuracy improving features.
 
-## [15. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [16. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Package suites
 
@@ -168,32 +174,32 @@
 
 *   [#!/perl/bioinfo](https://bioinfoperl.blogspot.com) - The Computational and Structural Biology group at EEAD-CSIC writes, in Spanish and English, about ideas and code for plant genomics, computational and structural biology problems.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Boilerplates
 
 *   [Model-View-Presenter template (⭐21)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
-## [17. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
+## [18. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/week/README.md)
 
 ### CLI / File Transfer
 
 *   [qrscan (⭐104)](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image.
 *   [qrcode.show](https://qrcode.show) - Generate QR codes using curl.
 
-## [18. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Learning Resources
 
 *   [Association of Computing Machinery with Digital Library](https://www.acm.org) \[DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
 
-## [19. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [20. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
 
-## [20. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [21. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -204,13 +210,13 @@
 *   [IDR (⭐693)](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor.
 *   [PEdump](https://pedump.me/) - Dump windows PE files using Ruby.
 
-## [21. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [22. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
 *   [ros2\_pytorch\_cuda (⭐0)](https://github.com/slabban/ros2_pytorch_cuda) - Extension of [ros2\_pytorch (⭐23)](https://github.com/klintan/ros2_pytorch) for CUDA devices with containerization.
 
-## [22. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [23. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Compilers and interpreters
 
@@ -218,7 +224,7 @@
 *   [squeek502/zua (⭐91)](https://github.com/squeek502/zua) - An implementation of Lua 5.1 for learning purposes.
 *   [CurtisFenner/zsmol (⭐7)](https://github.com/CurtisFenner/zsmol) - The new Smol compiler and reference.
 
-## [23. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [24. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
@@ -228,13 +234,13 @@
 
 *   [Naas](https://naas.ai) - JupyterLab environment with magic scheduling/notification functionality and assets/dependency/secrets management.
 
-## [24. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [25. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Skiff](https://www.skiff.com) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage. [Source (⭐229)](https://github.com/skiff-org/skiff-mail)
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -324,7 +330,7 @@
 *   [zeit (⭐167)](https://github.com/zeit/zeit.zsh-theme) - Optimized for dark backgrounds, includes `git` status information.
 *   [zp (⭐4)](https://github.com/Karitham/zp) - Fast prompt, written in `zig`. Includes `git` status and current directory decorators.
 
-## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -334,19 +340,19 @@
 
 *   [krzema12/github-actions-kotlin-dsl (⭐251)](https://github.com/krzema12/github-actions-kotlin-dsl) - Authoring GitHub Actions workflows in Kotlin.
 
-## [27. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [28. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Libraries and Frameworks
 
 *   [inject-react-anywhere (⭐19)](https://github.com/OlegWock/inject-react-anywhere) - Inject React components into 3rd party sites with convenient API and styles isolation.
 
-## [28. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
 *   [fast (⭐62)](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 
-## [29. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [30. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Container Composition
 
@@ -995,26 +1001,26 @@
 
 *   [Docker Tips](https://dockertips.com/)
 
-## [30. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [31. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Security / React
 
 *   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐208)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 
-## [31. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [32. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Gifhub Pull Request (⭐22)](https://github.com/bguzmanrio/gifhub-pull-request) <a href="https://chrome.google.com/webstore/detail/gifhub-pull-request/gfjohbpkkbbflchpioebapldlmiflfho"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Find the best GIFs for your awesome pull requests.
 
 Installs: 136 | Stars: 22 | Last update: n/a
 
-## [32. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [33. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Related awesome / Object detection and object tracking
 
 *   [Awesome LIDAR-Camera calibration :octocat: (⭐399)](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
-## [33. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [34. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Tools, Platforms, and Services / Annotation Tools
 
@@ -1025,31 +1031,31 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [BioRED](https://ftp.ncbi.nlm.nih.gov/pub/lu/BioRED/) - [paper](https://arxiv.org/abs/2204.04263) - a set of >6.5K biomedical relation annotations, plus labels for novel findings.
 
-## [34. Guides](/content/NARKOZ/guides/week/README.md)
+## [35. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / Rust
 
 *   [The Rust Style Guide (⭐385)](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Scripting
 
 *   [KusionStack/KCLVM (⭐114)](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 
-## [36. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [37. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Languages
 
 *   [Wasp](https://wasp-lang.dev/) - a simple language for developing full-stack Javascript web apps with less code (built with Haskell)
 
-## [37. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [38. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [vertx-values (⭐2)](https://github.com/imrafaelmerino/vertx-values) - Send the immutable and persistent JSON from [json-values (⭐14)](https://github.com/imrafaelmerino/json-values) across the Event Bus.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5) / Diagnostics
 
@@ -1063,13 +1069,13 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [Weissle/persistent-breakpoints.nvim (⭐49)](https://github.com/Weissle/persistent-breakpoints.nvim) - Persistent breakpoints for nvim-dap.
 
-## [39. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [40. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Tools and web interfaces
 
 *   [Scrutiny (⭐1.7k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 
-## [40. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [41. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Advanced Console UIs
 
@@ -1079,19 +1085,19 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [errors (⭐1.4k)](https://github.com/cockroachdb/errors) - Go error library with error portability over the network.
 
-## [41. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [42. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Libraries
 
 *   [Python 835 Parser (⭐32)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
 
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### DevOps / Development
 
 *   [cve-ape (⭐2)](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS.
 
-## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -1101,7 +1107,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [CubicBezier (⭐130)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 
-## [44. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [45. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -1111,7 +1117,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### ORMs
 
@@ -1210,7 +1216,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 *   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library
     to access a git repository. It doesn't need git or libgit installed. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [46. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [47. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Company Blogs / Devops
 
@@ -1220,7 +1226,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [Scala Ukraine](https://t.me/scala_ukraine) - Telegram chat of Ukrainian Scala Community
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1271,7 +1277,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 *   [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 *   [Buttons Generator](https://markodenic.com/tools/buttons-generator/) — 100+ buttons you can use in your project.
 
-## [48. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [49. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Weather
 
@@ -1279,7 +1285,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 *   [wego (⭐7.2k)](https://github.com/schachmat/wego)
 *   [weather-cli (⭐78)](https://github.com/riyadhalnur/weather-cli)
 
-## [49. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -1292,7 +1298,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 *   [Blazor Sticker Giveaway](https://dev.to/dotnet/blazor-sticker-giveaway-try-the-new-blazor-guide-in-visual-studio-4c8b) - July 15, 2022 - Try the new Blazor Guide in Visual Studio. Read on to learn about how to give it a try and for a chance to receive a sticker.
 *   [ASP.NET Core updates in .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-6/) - July 12, 2022 - .NET 7 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Blazor custom elements no longer experimental, experimental QuickGrid component for Blazor, System.Security.Cryptography support on WebAssembly, empty Blazor project templates and more. For more details on the ASP.NET Core work planned for .NET 7 see the full [ASP.NET Core roadmap for .NET 7](https://aka.ms/aspnet/roadmap) on GitHub.
 
-## [50. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [51. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Build tools, setup and CI
 
@@ -1302,7 +1308,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [Hyperpoet (⭐2)](https://github.com/tambapps/hyperpoet) - Easy-to-use and customizable HTTP client for Groovy
 
-## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Rationalization
 
@@ -1324,20 +1330,20 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 *   [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***Department of Communication, Stanford***, [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
 
-## [52. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [53. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Mod Libraries
 
 *   [Modrinth](https://modrinth.com/) - Open source Minecraft mod library with powerful filtering.
 *   [CurseForge](https://www.curseforge.com/minecraft/mc-mods) - The largest repository for Minecraft mods.
 
-## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [54. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Spanish
 
 *   [Devtalles](https://anchor.fm/fernando-her85/) - Día a día como profesional en tecnologías de información.
 
-## [54. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [55. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 

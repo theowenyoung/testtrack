@@ -1,41 +1,30 @@
 # Awesome List Updates on Oct 17, 2021
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Rust / Flask
-
-*   [Rust by Example 日本語版](https://doc.rust-jp.rs/rust-by-example-ja) - Rustコミュニティ(翻訳)
-*   [The Rust Programming Language 日本語版](https://doc.rust-jp.rs/book-ja) - Steve Klabnik, Carol Nichols, Rustコミュニティ(翻訳) ([PDF](https://doc.rust-jp.rs/book-ja-pdf/book.pdf))
-
-### TypeScript / Flask
-
-*   [仕事ですぐに使えるTypeScript](https://future-architect.github.io/typescript-guide) - フューチャー株式会社（Future Corporation） ([PDF](https://future-architect.github.io/typescript-guide/typescript-guide.pdf))
-
-## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [1. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Projects Using Seed
 
 *   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
-## [3. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [2. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Working with types
 
 *   [pep585-upgrade (⭐53)](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Hybiscus](https://hybiscus.dev/) - Build pdf reports using a simple declarative API. Free tier includes upto 100 single page reports per month with the ability to customise color pallet and fonts.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -121,7 +110,7 @@
 
 
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Big Data
 
@@ -144,7 +133,7 @@
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 *   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
-## [7. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [6. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Books
 

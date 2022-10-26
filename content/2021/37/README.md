@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 13 - Sep 19, 2021
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1183,44 +1183,25 @@
 
 *   [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/) - September 14, 2021 - .NET 6 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [41. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### 0 - 言語非依存 / コンテナ
-
-*   [Docker-docs-ja](https://docs.docker.jp) - Docker Docs Translation Ja-Jp Project
-
-### 0 - 言語非依存 / セキュリティ
-
-*   [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programming) - 塩田英二 ([PDF](https://www.ipa.go.jp/files/000059838.pdf))
-
-### JavaScript / React
-
-*   [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
-
-### TypeScript / Angular
-
-*   [Angular Docs](https://angular.jp/docs)
-*   [Angular Tutorial](https://angular.jp/tutorial)
-
-## [42. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [41. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [PackageVersions Deprecated (⭐1.4k)](https://github.com/composer/package-versions-deprecated) - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
 
-## [43. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [HIBA (⭐324)](https://github.com/google/hiba) [![stars](https://img.shields.io/github/stars/google/hiba.svg?style=social\&label=stars)](https://github.com/google/hiba) - Central management of access to a fleet of machines without pushing authorized\_users files.
 
-## [44. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [43. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Version Control
 
 *   [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - Version, manage and share notebook checkpoints in your projects.
 
-## [45. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [44. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -1232,7 +1213,7 @@
 *   [k6-multiscenario-template (⭐34)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 *   [docker-k6-grafana-influxdb (⭐79)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
-## [46. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [45. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
@@ -1242,19 +1223,19 @@
 
 *   [greggd (⭐5)](https://github.com/olcf/greggd) - System daemon to compile and load eBPF programs into the kernel, and forward program output to socket for metric aggregation.
 
-## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Raspberry Pi Dashboard (⭐145)](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
 
-## [48. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [47. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Arcade
 
 *   [OpenJazz (⭐183)](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 
-## [49. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [48. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Environment and Ecosystem Services
 
@@ -1268,19 +1249,19 @@
 
 *   [TFResource](https://tfresource.org/) - A collection of best practices for travel demand forecasting and travel survey methods.
 
-## [50. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [49. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [lfi (⭐226)](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
 
-## [51. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [50. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Commercial courses / Devops
 
 *   [Scala Algorithms](https://www.scala-algorithms.com/) - a collection of nearly 100 algorithms in pure-functional Scala with test cases, explanations and a web-based IDE. Built with http4s & Scala.js.
 
-## [52. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [51. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Articles
 
@@ -1296,7 +1277,7 @@
 
 *   [Ally.io](https://ally.io/)
 
-## [53. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [52. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -1311,13 +1292,13 @@
 
 *   [Bunnybook (⭐175)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 
-## [54. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [53. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Typing
 
 *   👍 [Coalton (⭐603)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [55. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [54. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Boilerplate
 
@@ -1355,19 +1336,19 @@
 *   [Slim Console (⭐26)](https://github.com/slimphp/Slim-Console) - Slim Framework Console.
 *   [Slim Flash (⭐142)](https://github.com/slimphp/Slim-Flash) - Slim Framework flash messages service provider.
 
-## [56. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [55. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
 *   [eslint-dashboard (⭐11)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 
-## [57. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [56. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [Silverback (⭐164)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 
-## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Cloud management solutions
 
@@ -1381,7 +1362,7 @@
 
 *   [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, up to 3 projects.
 
-## [59. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [58. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -1405,14 +1386,14 @@
     *   [alexcrichton/ssh2-rs (⭐347)](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://www.libssh2.org/) bindings [![build badge](https://api.travis-ci.com/alexcrichton/ssh2-rs.svg?branch=master)](https://travis-ci.org/alexcrichton/ssh2-rs)
     *   [Thrussh](https://pijul.org/thrussh) \[[thrussh](https://crates.io/crates/thrussh)] — an SSH library written from scratch in Rust, backed by [libsodium](https://doc.libsodium.org/)
 
-## [60. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [59. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Bindings
 
 *   [cairo-xlib (⭐0)](https://github.com/edadma/cairo-xlib) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) with bindings for [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) as well.
 *   [libyaml (⭐0)](https://github.com/edadma/libyaml) - Bindings for the [LibYAML](https://pyyaml.org/wiki/LibYAML) C library for parsing [YAML](https://yaml.org/).
 
-## [61. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [60. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 

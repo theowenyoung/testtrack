@@ -180,11 +180,19 @@ Free (Open Source)
 
 *   [optionals (⭐100)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [12. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Assembly / 理論計算機科学
+### 0 - Meta-Lists
 
-*   [リバースエンジニアリング入門 | Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
+*   [Rip Tutorials](https://riptutorial.com/ebook)
+
+### Mathematics
+
+*   [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
+
+### Professional Development
+
+*   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

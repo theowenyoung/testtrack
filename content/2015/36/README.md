@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2015
 
-27 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -803,13 +803,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [Kovert (⭐154)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [23. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
-
-### Scheme / Flask
-
-*   [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/\~inukai/scheme_primer_j.html) - 犬飼大
-
-## [24. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [23. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -858,13 +852,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 
 
-## [25. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [24. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -879,7 +873,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [money (⭐672)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [27. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [26. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Social Media and other Website API / OpenOffice
 

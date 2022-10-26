@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,13 +19,7 @@
 *   [IIS2MDC](https://crates.io/crates/iis2mdc) - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
 *   [ISM330DHCX](https://crates.io/crates/ism330dhcx) - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
 
-## [3. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Ruby / Flask
-
-*   [実用的Rubyスクリプティング](https://www.gentei.org/\~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
-
-## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Getting Started
 
@@ -39,7 +33,7 @@
 
 *   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org//kb/docs/java/profile-loadgenerator.html)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -49,7 +43,7 @@
 
 *   [vue-cli-plugin-capacitor (⭐135)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
@@ -59,7 +53,7 @@
 
 *   [minigen (⭐13)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
@@ -72,7 +66,7 @@
 *   [Pageclip](https://pageclip.co/) - Free plan allows one site, one form, 1,000 submissions per month.
 *   [smartforms.dev](https://smartforms.dev/) - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
@@ -88,19 +82,19 @@
 
 *   [Building a Blazor WebAssembly chat using SignalR](https://www.youtube.com/watch?v=NFXdSvFQgtg) - March 8, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-34%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Building a Blazor WebAssembly chat using SignalR, by Coding After Work.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
 *   [json-struct (⭐247)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
-## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Host-based tools / Sandboxes
 
 *   [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 
-## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Retrieving images / Syntax highlighting packages
 

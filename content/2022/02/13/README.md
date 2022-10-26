@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2022
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,29 +48,19 @@
 *   [More SQL Parsing! (⭐169)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 *   [sqlparse (⭐3k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
-## [3. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### 0 - 言語非依存 / ネットワーキング
-
-*   [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
-
-### TypeScript / Flask
-
-*   [サバイバルTypeScript](https://typescriptbook.jp) - YYTypeScript
-
-## [4. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [3. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Publications / Tutorials
 
 *   [net-snmp tutorials](http://www.net-snmp.org/wiki/index.php/Tutorials) - This Wiki page contains various tutorials ranging from the basics of SNMP protocol to implementation of SNMP applications and agents using net-snmp library.
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Authentication & Identity
 
 *   [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
@@ -82,13 +72,13 @@
 *   [CDR](https://cdr.common-lisp.dev/) - Common Lisp Document Repository. a repository of documents that are of interest to the Common Lisp community. The most important property of a CDR document is that it will never change: if you refer to it, you can be sure that your reference will always refer to exactly the same document.
     *   the Common Lisp Document Repository is hosted at [Zenodo](https://zenodo.org/communities/cdr/).
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - ![crates.io](https://img.shields.io/crates/v/minimq.svg)
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
@@ -114,13 +104,13 @@
     *   [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
     *   Full, detailed list - <https://azure.microsoft.com/free/>
 
-## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Learning / Crash Courses
 
 *   [Algorand School (⭐58)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
@@ -130,13 +120,13 @@
 
 *   [ripgrep (rg) (⭐34k)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Verified Software
 
 *   [Jasmin (⭐114)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
-## [12. Awesome List](/content/sindresorhus/awesome/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Security
 
@@ -146,19 +136,19 @@
 
 *   [Algorand (⭐98)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-search-input (⭐16)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-df (⭐10)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
 
-## [15. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [14. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 

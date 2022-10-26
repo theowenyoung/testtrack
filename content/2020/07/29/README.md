@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,13 +36,7 @@
 
 *   [vim-tmux-navigator (⭐3.9k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
-## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### JavaScript / Spock Framework
-
-*   [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
-
-## [7. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [6. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -62,19 +56,19 @@
 
 
 
-## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Prototype Pollution
 
 *   [Real-world JS - 1](https://blog.p6.is/Real-World-JS-1/) - Written by [@po6ix](https://twitter.com/po6ix).
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Octopus.do](https://octopus.do) — Visual sitemap builder. Build your website structure in real-time and rapidly share it to collaborate with your team or clients.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### General
 
@@ -84,7 +78,7 @@
 
 *   [BlazorApplicationInsights (⭐115)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

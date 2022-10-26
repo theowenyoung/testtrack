@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2016
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,19 +38,13 @@
     *   [Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22)
     *   [Readings](http://15418.courses.cs.cmu.edu/spring2015/reading)
 
-## [4. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Java / Spock Framework
-
-*   [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
-
-## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [4. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Blogs / Question Answering
 
 *   [Implementing Neural networks](http://peterroelants.github.io/)
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 

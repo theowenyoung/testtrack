@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2015
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -153,13 +153,7 @@
 
 *   [Kovert (⭐154)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [7. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Scheme / Flask
-
-*   [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/\~inukai/scheme_primer_j.html) - 犬飼大
-
-## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### List / Grid
 
@@ -171,13 +165,13 @@
 
 
 
-## [9. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [8. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -187,7 +181,7 @@
 
 *   [money (⭐672)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [11. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Other Awesome Lists / OpenOffice
 

@@ -14,5 +14,5 @@
 
 ---
 
-- Prev: [Jun 03, 2014](/content/2014/06/03/README.md)
+- Prev: [Jun 06, 2014](/content/2014/06/06/README.md)
 - Next: [May 24, 2014](/content/2014/05/24/README.md)

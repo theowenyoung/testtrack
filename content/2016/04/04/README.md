@@ -1,24 +1,18 @@
 # Awesome List Updates on Apr 04, 2016
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Perl / React
-
-*   [Perl でのデータベース操作 (⭐2.2k)](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
-
-## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [1. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Use / Platforms
 
 *   **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 
-## [3. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [2. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Studying / Useful Materials
 
@@ -45,19 +39,19 @@
 
 *   [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### JSON
 
 *   [Alembic (⭐117)](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
 *   [ueberauth\_vk (⭐18)](https://github.com/sobolevn/ueberauth_vk) - [vk.com](https://vk.com) Strategy for Überauth.
 
-## [6. Awesome Charting](/content/zingchart/awesome-charting/README.md)
+## [5. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
 ### Free and Open Source Libraries
 
@@ -67,7 +61,7 @@
 *   [Smoothie Charts (⭐2.2k)](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 *   [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 
-## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tutorials
 
@@ -118,7 +112,7 @@
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
 *   [vim-tmux (⭐319)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -364,7 +358,7 @@
 
 *   [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
+## [8. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
 ### Articles
 

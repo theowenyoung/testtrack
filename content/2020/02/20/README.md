@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2020
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,43 +46,37 @@
 
 *   [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement) - A step further from the previous advice, in which is detailed an aggressive strategy to consolidate monopolies.
 
-## [4. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
-
-### Python / Symfony
-
-*   [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
-
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Scraping
 
 *   [DiDOM (⭐2k)](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
 
-## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Evaluation
 
 *   [compare-mt (⭐418)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
-## [7. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for data / Blockchain projects for AI algorithms
 
 *   [Cyber](http://cyber.page/) - A decentralized search engine, able to learn from knowledge graphs and provide predictive models.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
 *   [tmux-jump (⭐199)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [PrivacyFlash Pro (⭐138)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
-## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [9. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Data Management
 

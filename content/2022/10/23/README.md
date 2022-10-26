@@ -21,7 +21,7 @@ Installs: 59 | Stars: 246 | Last update: 27 Nov 2019
 
 Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
-Installs: 328 | Stars: 212 | Last update: 8 Aug 2021
+Installs: 325 | Stars: 212 | Last update: 8 Aug 2021
 ### [Open GitHub file links in IDE (⭐50)](https://github.com/lmichelin/open-github-links-in-ide) <a href="https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/open-github-in-ide/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
@@ -31,7 +31,7 @@ Installs: 768 | Stars: 50 | Last update: 19 Aug 2022
 
 Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.
 
-Installs: 50 | Stars: n/a | Last update: 10 Aug 2020
+Installs: 48 | Stars: n/a | Last update: 10 Aug 2020
 
 ## [2. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
