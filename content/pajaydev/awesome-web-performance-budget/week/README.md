@@ -2,7 +2,7 @@
 
 ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/pajaydev/awesome-web-performance-budget/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget/blob/master/README.md) · ⭐ 75 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/pajaydev/awesome-web-performance-budget/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget/blob/master/README.md) · ⭐ 75 · 🏷️ Front-End Development
 
 [ [Daily](/content/pajaydev/awesome-web-performance-budget/README.md) / Weekly / [Overview](/content/pajaydev/awesome-web-performance-budget/readme/README.md) ]
 

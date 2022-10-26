@@ -2,7 +2,7 @@
 
 Curated list of awesome things related to Deno
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/denolib/awesome-deno/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 denolib/awesome-deno](https://github.com/denolib/awesome-deno/blob/main/README.md) · ⭐ 3.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/denolib/awesome-deno/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 denolib/awesome-deno](https://github.com/denolib/awesome-deno/blob/main/README.md) · ⭐ 3.8K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 

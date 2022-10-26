@@ -2,7 +2,7 @@
 
 ⚡Metrics to help understand page speed and user experience
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/csabapalfi/awesome-pagespeed-metrics/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics/blob/master/README.md) · ⭐ 629 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/csabapalfi/awesome-pagespeed-metrics/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics/blob/master/README.md) · ⭐ 629 · 🏷️ Front-End Development
 
 [ [Daily](/content/csabapalfi/awesome-pagespeed-metrics/README.md) / Weekly / [Overview](/content/csabapalfi/awesome-pagespeed-metrics/readme/README.md) ]
 

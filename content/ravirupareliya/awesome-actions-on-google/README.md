@@ -2,7 +2,7 @@
 
 A collection of useful things regarding Actions on Google.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ravirupareliya/awesome-actions-on-google/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ravirupareliya/awesome-actions-on-google](https://github.com/ravirupareliya/awesome-actions-on-google/blob/master/README.md) · ⭐ 62 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ravirupareliya/awesome-actions-on-google/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ravirupareliya/awesome-actions-on-google](https://github.com/ravirupareliya/awesome-actions-on-google/blob/master/README.md) · ⭐ 62 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/ravirupareliya/awesome-actions-on-google/week/README.md) / [Overview](/content/ravirupareliya/awesome-actions-on-google/readme/README.md) ]
 

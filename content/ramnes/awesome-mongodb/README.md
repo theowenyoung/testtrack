@@ -2,7 +2,7 @@
 
 :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ramnes/awesome-mongodb/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb/blob/master/README.md) · ⭐ 2K · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ramnes/awesome-mongodb/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ramnes/awesome-mongodb](https://github.com/ramnes/awesome-mongodb/blob/master/README.md) · ⭐ 2K · 🏷️ Databases
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 

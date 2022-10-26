@@ -2,7 +2,7 @@
 
  All that you need to create a great mobile web experience
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/myshov/awesome-mobile-web-development/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development/blob/master/README.md) · ⭐ 1.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/myshov/awesome-mobile-web-development/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development/blob/master/README.md) · ⭐ 1.1K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/myshov/awesome-mobile-web-development/week/README.md) / [Overview](/content/myshov/awesome-mobile-web-development/readme/README.md) ]
 

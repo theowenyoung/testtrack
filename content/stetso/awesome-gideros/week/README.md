@@ -2,7 +2,7 @@
 
 A curated list of awesome Gideros resources, classes and tips.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/stetso/awesome-gideros/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stetso/awesome-gideros](https://github.com/stetso/awesome-gideros/blob/master/readme.md) · ⭐ 22 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stetso/awesome-gideros/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stetso/awesome-gideros](https://github.com/stetso/awesome-gideros/blob/master/readme.md) · ⭐ 22 · 🏷️ Gaming
 
 [ [Daily](/content/stetso/awesome-gideros/README.md) / Weekly / [Overview](/content/stetso/awesome-gideros/readme/README.md) ]
 

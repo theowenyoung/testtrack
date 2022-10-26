@@ -2,7 +2,7 @@
 
 A curated list of awesome GIF resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/davisonio/awesome-gif/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 davisonio/awesome-gif](https://github.com/davisonio/awesome-gif/blob/master/readme.md) · ⭐ 527 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/davisonio/awesome-gif/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 davisonio/awesome-gif](https://github.com/davisonio/awesome-gif/blob/master/readme.md) · ⭐ 527 · 🏷️ Media
 
 [ [Daily](/content/davisonio/awesome-gif/README.md) / Weekly / [Overview](/content/davisonio/awesome-gif/readme/README.md) ]
 

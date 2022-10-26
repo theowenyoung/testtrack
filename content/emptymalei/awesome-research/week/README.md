@@ -2,7 +2,7 @@
 
 :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/emptymalei/awesome-research/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research/blob/master/README.md) · ⭐ 1.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/emptymalei/awesome-research/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 emptymalei/awesome-research](https://github.com/emptymalei/awesome-research/blob/master/README.md) · ⭐ 1.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/emptymalei/awesome-research/README.md) / Weekly / [Overview](/content/emptymalei/awesome-research/readme/README.md) ]
 

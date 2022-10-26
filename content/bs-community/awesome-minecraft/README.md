@@ -2,7 +2,7 @@
 
 📝 The curated list of awesome things related to Minecraft.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/bs-community/awesome-minecraft/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft/blob/master/readme.md) · ⭐ 263 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/bs-community/awesome-minecraft/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft/blob/master/readme.md) · ⭐ 263 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/bs-community/awesome-minecraft/week/README.md) / [Overview](/content/bs-community/awesome-minecraft/readme/README.md) ]
 

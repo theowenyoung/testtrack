@@ -2,7 +2,7 @@
 
 A list of resources for backbone.js
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/sadcitizen/awesome-backbone/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone/blob/master/README.md) · ⭐ 403 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sadcitizen/awesome-backbone/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sadcitizen/awesome-backbone](https://github.com/sadcitizen/awesome-backbone/blob/master/README.md) · ⭐ 403 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/sadcitizen/awesome-backbone/week/README.md) / [Overview](/content/sadcitizen/awesome-backbone/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 Collection of Games that have the source code available on GitHub
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/michelpereira/awesome-open-source-games/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games/blob/main/README.md) · ⭐ 739 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/michelpereira/awesome-open-source-games/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games/blob/main/README.md) · ⭐ 739 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/michelpereira/awesome-open-source-games/week/README.md) / [Overview](/content/michelpereira/awesome-open-source-games/readme/README.md) ]
 

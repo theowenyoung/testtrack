@@ -2,7 +2,7 @@
 
 A curated list of dotfiles resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/webpro/awesome-dotfiles/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles/blob/master/README.md) · ⭐ 7.3K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/webpro/awesome-dotfiles/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles/blob/master/README.md) · ⭐ 7.3K · 🏷️ Development Environment
 
 [ [Daily](/content/webpro/awesome-dotfiles/README.md) / Weekly / [Overview](/content/webpro/awesome-dotfiles/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 Curated list of Theravada Buddhist teachings
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/johnjago/awesome-theravada/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada/blob/master/README.md) · ⭐ 109 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/johnjago/awesome-theravada/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada/blob/master/README.md) · ⭐ 109 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/johnjago/awesome-theravada/week/README.md) / [Overview](/content/johnjago/awesome-theravada/readme/README.md) ]
 

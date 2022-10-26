@@ -2,7 +2,7 @@
 
 A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/nadunindunil/awesome-material-ui/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui/blob/master/README.md) · ⭐ 155 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nadunindunil/awesome-material-ui/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui/blob/master/README.md) · ⭐ 155 · 🏷️ Front-End Development
 
 [ [Daily](/content/nadunindunil/awesome-material-ui/README.md) / Weekly / [Overview](/content/nadunindunil/awesome-material-ui/readme/README.md) ]
 

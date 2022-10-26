@@ -2,7 +2,7 @@
 
 🌅 Awesome things related with choo framework
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/choojs/awesome-choo/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 choojs/awesome-choo](https://github.com/choojs/awesome-choo/blob/master/README.md) · ⭐ 191 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/choojs/awesome-choo/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 choojs/awesome-choo](https://github.com/choojs/awesome-choo/blob/master/README.md) · ⭐ 191 · 🏷️ Front-End Development
 
 [ [Daily](/content/choojs/awesome-choo/README.md) / Weekly / [Overview](/content/choojs/awesome-choo/readme/README.md) ]
 

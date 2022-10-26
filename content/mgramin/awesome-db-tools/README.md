@@ -2,7 +2,7 @@
 
 Everything that makes working with databases easier
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/mgramin/awesome-db-tools/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools/blob/master/README.md) · ⭐ 2.4K · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mgramin/awesome-db-tools/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools/blob/master/README.md) · ⭐ 2.4K · 🏷️ Databases
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 Awesome Ansible List
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ansible-community/awesome-ansible/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible/blob/main/README.md) · ⭐ 705 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ansible-community/awesome-ansible/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible/blob/main/README.md) · ⭐ 705 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 

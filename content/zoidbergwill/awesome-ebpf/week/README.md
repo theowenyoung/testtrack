@@ -2,7 +2,7 @@
 
 A curated list of awesome projects related to eBPF.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/zoidbergwill/awesome-ebpf/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md) · ⭐ 2.6K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/zoidbergwill/awesome-ebpf/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md) · ⭐ 2.6K · 🏷️ Platforms
 
 [ [Daily](/content/zoidbergwill/awesome-ebpf/README.md) / Weekly / [Overview](/content/zoidbergwill/awesome-ebpf/readme/README.md) ]
 

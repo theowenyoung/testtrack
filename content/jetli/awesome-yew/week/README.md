@@ -2,7 +2,7 @@
 
 😎 A curated list of awesome things related to Yew / WebAssembly.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/jetli/awesome-yew/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jetli/awesome-yew](https://github.com/jetli/awesome-yew/blob/master/README.md) · ⭐ 938 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jetli/awesome-yew/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jetli/awesome-yew](https://github.com/jetli/awesome-yew/blob/master/README.md) · ⭐ 938 · 🏷️ Front-End Development
 
 [ [Daily](/content/jetli/awesome-yew/README.md) / Weekly / [Overview](/content/jetli/awesome-yew/readme/README.md) ]
 

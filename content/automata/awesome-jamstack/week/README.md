@@ -2,7 +2,7 @@
 
 Carefully curated list of awesome Jamstack resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/automata/awesome-jamstack/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack/blob/master/README.md) · ⭐ 1.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/automata/awesome-jamstack/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack/blob/master/README.md) · ⭐ 1.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/automata/awesome-jamstack/README.md) / Weekly / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
 

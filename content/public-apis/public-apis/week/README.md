@@ -2,7 +2,7 @@
 
 A collective list of free APIs
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/public-apis/public-apis/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 public-apis/public-apis](https://github.com/public-apis/public-apis/blob/master/README.md) · ⭐ 213K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/public-apis/public-apis/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 public-apis/public-apis](https://github.com/public-apis/public-apis/blob/master/README.md) · ⭐ 213K · 🏷️ Miscellaneous
 
 [ [Daily](/content/public-apis/public-apis/README.md) / Weekly / [Overview](/content/public-apis/public-apis/readme/README.md) ]
 

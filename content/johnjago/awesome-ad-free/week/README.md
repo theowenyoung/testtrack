@@ -2,7 +2,7 @@
 
 Curated list of ad-free alternatives to popular services on the web
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/johnjago/awesome-ad-free/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free/blob/master/README.md) · ⭐ 331 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/johnjago/awesome-ad-free/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free/blob/master/README.md) · ⭐ 331 · 🏷️ Miscellaneous
 
 [ [Daily](/content/johnjago/awesome-ad-free/README.md) / Weekly / [Overview](/content/johnjago/awesome-ad-free/readme/README.md) ]
 

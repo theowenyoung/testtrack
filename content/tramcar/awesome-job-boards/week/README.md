@@ -1,6 +1,6 @@
 # Track Awesome Job Boards Updates Weekly
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/tramcar/awesome-job-boards/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards/blob/master/README.md) · ⭐ 671 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/tramcar/awesome-job-boards/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards/blob/master/README.md) · ⭐ 671 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 

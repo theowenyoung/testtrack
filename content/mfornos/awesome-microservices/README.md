@@ -2,7 +2,7 @@
 
 A curated list of Microservice Architecture related principles and technologies.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/mfornos/awesome-microservices/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices/blob/master/README.md) · ⭐ 11K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mfornos/awesome-microservices/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices/blob/master/README.md) · ⭐ 11K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/mfornos/awesome-microservices/week/README.md) / [Overview](/content/mfornos/awesome-microservices/readme/README.md) ]
 

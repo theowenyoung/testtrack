@@ -2,7 +2,7 @@
 
 A curated list of awesome Slack related things
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/matiassingers/awesome-slack/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack/blob/main/README.md) · ⭐ 768 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/matiassingers/awesome-slack/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack/blob/main/README.md) · ⭐ 768 · 🏷️ Work
 
 [ Daily / [Weekly](/content/matiassingers/awesome-slack/week/README.md) / [Overview](/content/matiassingers/awesome-slack/readme/README.md) ]
 

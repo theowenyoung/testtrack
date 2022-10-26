@@ -2,7 +2,7 @@
 
 :nut_and_bolt: A collection of awesome resources for learning Service Workers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/TalAter/awesome-service-workers/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 TalAter/awesome-service-workers](https://github.com/TalAter/awesome-service-workers/blob/master/README.md) · ⭐ 1.6K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/TalAter/awesome-service-workers/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 TalAter/awesome-service-workers](https://github.com/TalAter/awesome-service-workers/blob/master/README.md) · ⭐ 1.6K · 🏷️ Front-End Development
 
 [ [Daily](/content/TalAter/awesome-service-workers/README.md) / Weekly / [Overview](/content/TalAter/awesome-service-workers/readme/README.md) ]
 

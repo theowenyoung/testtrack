@@ -2,7 +2,7 @@
 
 A curated list of research, applications and projects built using the H2O Machine Learning platform
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/h2oai/awesome-h2o/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o/blob/master/README.md) · ⭐ 329 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/h2oai/awesome-h2o/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o/blob/master/README.md) · ⭐ 329 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/h2oai/awesome-h2o/week/README.md) / [Overview](/content/h2oai/awesome-h2o/readme/README.md) ]
 

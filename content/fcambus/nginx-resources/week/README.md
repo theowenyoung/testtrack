@@ -2,7 +2,7 @@
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/fcambus/nginx-resources/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources/blob/master/README.md) · ⭐ 3.2K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/fcambus/nginx-resources/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fcambus/nginx-resources](https://github.com/fcambus/nginx-resources/blob/master/README.md) · ⭐ 3.2K · 🏷️ Back-End Development
 
 [ [Daily](/content/fcambus/nginx-resources/README.md) / Weekly / [Overview](/content/fcambus/nginx-resources/readme/README.md) ]
 

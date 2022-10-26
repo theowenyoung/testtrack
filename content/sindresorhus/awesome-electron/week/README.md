@@ -2,7 +2,7 @@
 
 Useful resources for creating apps with Electron
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/awesome-electron/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron/blob/main/readme.md) · ⭐ 24K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/awesome-electron/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron/blob/main/readme.md) · ⭐ 24K · 🏷️ Platforms
 
 [ [Daily](/content/sindresorhus/awesome-electron/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-electron/readme/README.md) ]
 
