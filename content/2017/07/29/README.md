@@ -20,12 +20,6 @@
 
 ## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
-### Browser automation
-
-*   [trifleJS (⭐820)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
-*   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
-*   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
-
 ### Tools and frameworks
 
 *   [Wraith (⭐4.8k)](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
@@ -45,6 +39,12 @@
 *   [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
 *   [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 *   [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
+
+### Deprecated
+
+*   [trifleJS (⭐820)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
+*   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
+*   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
 ## [4. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

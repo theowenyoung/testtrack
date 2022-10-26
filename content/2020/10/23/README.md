@@ -18,16 +18,11 @@
 
 *   [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [3. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### Python / Symfony
+### 0 - 言語非依存 / アクセシビリティ
 
-*   [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
-
-### Python / Django
-
-*   [Django 1.11.6 中文文档](https://www.yiyibooks.cn/xx/Django_1.11.6/index.html)
-*   [Django book 2.0](http://djangobook.py3k.cn/2.0/)
+*   [iOS アクセシビリティ プログラミング ガイド](https://developer.apple.com/jp/accessibility/ios) - Apple Developer
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

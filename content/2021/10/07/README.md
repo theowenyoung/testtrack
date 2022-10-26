@@ -180,11 +180,11 @@ Free (Open Source)
 
 *   [optionals (⭐100)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [12. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### Assembly
+### Assembly / 理論計算機科学
 
-*   [C/C++面向WebAssembly编程 (⭐1.2k)](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples (⭐1.2k)](https://github.com/3dgen/cppwasm-book/tree/master/examples))
+*   [リバースエンジニアリング入門 | Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

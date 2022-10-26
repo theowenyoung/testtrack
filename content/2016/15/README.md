@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2016
 
-31 awesome lists updated this week.
+30 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -523,15 +523,7 @@
 *   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 *   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent *Network Science* journal.
 
-## [29. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Rust / Django
-
-*   [Rust 官方教程 (⭐1.5k)](https://github.com/KaiserY/rust-book-chinese)
-*   [Rust 语言学习笔记 (⭐133)](https://github.com/photino/rust-notes)
-*   [RustPrimer (⭐1.7k)](https://github.com/rustcc/RustPrimer)
-
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -545,7 +537,7 @@
 
 *   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
-## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 

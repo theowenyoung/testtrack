@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2016
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -136,19 +136,13 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
 
-## [8. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Android
-
-*   [Android Note(开发过程中积累的知识点) (⭐2.9k)](https://github.com/CharonChui/AndroidNote)
-
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [10. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [9. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Network
 

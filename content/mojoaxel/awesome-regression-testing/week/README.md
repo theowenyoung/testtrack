@@ -398,10 +398,6 @@
 
 ## [Aug 07 - Aug 13, 2017](/content/2017/32/README.md)
 
-### Browser automation
-
-*   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
-
 ### Tools and frameworks
 
 *   [Nightmare (⭐19k)](https://github.com/segmentio/nightmare) - High-level browser automation library based on Electron.
@@ -410,13 +406,11 @@
 
 *   [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
+### Deprecated
+
+*   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
+
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
-
-### Browser automation
-
-*   [trifleJS (⭐820)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
-*   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
-*   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
 
 ### Tools and frameworks
 
@@ -437,6 +431,12 @@
 *   [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
 *   [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 *   [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
+
+### Deprecated
+
+*   [trifleJS (⭐820)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
+*   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
+*   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
 

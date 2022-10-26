@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21 - Mar 27, 2022
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -316,19 +316,25 @@
 
 *   [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
 
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [35. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### C++ / 理論計算機科学
+
+*   [C++入門 AtCoder Programming Guide for beginners (APG4b)](https://atcoder.jp/contests/APG4b) - 齋藤 主裕, 石黒 淳
+
+## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [USB Proxy (⭐32)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
-## [36. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [37. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Dynamsoft Barcode Reader (⭐3)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
 
-## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bit Sets
 
@@ -363,7 +369,7 @@
 *   [dusupay-sdk-go (⭐2)](https://github.com/Kachit/dusupay-sdk-go) - Unofficial Dusupay payment gateway API Client for Go
 *   [newsapi-go (⭐5)](https://github.com/jellydator/newsapi-go) - Go client for [NewsAPI](https://newsapi.org/).
 
-## [38. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [39. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### ArcGIS location services
 
@@ -384,7 +390,7 @@
 *   [awesome-semantic-segmentation (⭐9.6k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
 *   [awesome-vector-tiles (⭐1.8k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
-## [39. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [40. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Development / Newsletters
 
@@ -395,7 +401,7 @@
 *   [Home Manager (⭐3.3k)](https://github.com/nix-community/home-manager) - Manage your user configuration just like NixOS.
 *   [NixVim (⭐88)](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 
-## [40. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [41. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### CSS in a nutshell
 
@@ -414,7 +420,7 @@
 
 *   [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to CSS transitions and CSS (2D) transforms.
 
-## [41. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [42. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -426,7 +432,7 @@
 *   [playwright-dotnet (⭐1.7k)](https://github.com/microsoft/playwright-dotnet) - Official Playwright port to .NET.
 *   [playwright-perl (⭐18)](https://github.com/teodesian/playwright-perl) - Playwright port for Perl.
 
-## [42. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [43. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Tasking Managers / Web Services
 
@@ -450,7 +456,7 @@
 *   [OpenStreetMap Poland YouTube Channel](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
 *   [OpenStreetMap US YouTube Channel](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
 
-## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -470,14 +476,14 @@
 *   [rounded (⭐2)](https://github.com/daniilty/rounded-zsh-theme) - Includes current directory and `git` status decorations.
 *   [wormwood (⭐1)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorators for last command exit status, current directory and `git` status.
 
-## [44. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [45. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Farside](https://farside.link/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services.
 *   [LibMedium](https://libmedium.batsense.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/realaravinth/libmedium) - Privacy-focused, high-performance front end for Medium.com written in Rust.
 
-## [45. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [46. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### IDE
 
@@ -508,13 +514,13 @@
 *   [Mailcow Email Server](https://mailcow.email/) - Fully feature email server (for avarage use cases @lmtr0 recommends this one)
 *   [WildDuck Email Server](https://wildduck.email/) - nodejs application to send emails (built for sclae (needs more hand work to make it work)
 
-## [46. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [47. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Tutorials / Books
 
 *   [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 
-## [47. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [48. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Conferences / Monograph
 
@@ -525,7 +531,7 @@
 *   [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
 *   [Harvard Machine Learning Foundations Group](https://mltheory.org/).
 
-## [48. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [49. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / BPM
 
@@ -536,7 +542,7 @@
 
 *   [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - Enterprise MFT Server Solution with high availability and failover to eliminate downtime.
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -559,7 +565,7 @@
 
 *   [geojs.io](https://www.geojs.io/) - Highly available REST/JSON/JSONP IP Geolocation lookup API.
 
-## [50. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [51. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
@@ -577,7 +583,7 @@
 
 *   [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)
 
-## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Courses
 

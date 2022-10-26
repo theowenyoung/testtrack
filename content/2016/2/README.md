@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2016
 
-43 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -751,17 +751,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
 
-## [41. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Android
-
-*   [Android Note(开发过程中积累的知识点) (⭐2.9k)](https://github.com/CharonChui/AndroidNote)
-
-### Swift / Django
-
-*   [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
-
-## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -771,7 +761,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [43. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [42. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 

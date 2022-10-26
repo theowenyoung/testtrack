@@ -202,19 +202,29 @@
 *   [jupyter-map](https://elc.github.io/jupyter-map/) - Map of university institutions that use Jupyter.
 *   [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - Discover popular Jupyter libraries, top authors, trending project kits, discussions, tutorials & learning resources.  <!--lint disable double-link-->
 
-## [11. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [11. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / セキュリティ
+
+*   [暗号化アルゴリズム (\[1\])](https://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](https://fussy.web.fc2.com/algo/algo9-2.htm)), ([3](https://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](https://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
+
+### 0 - 言語非依存 / 並列プログラミング
+
+*   [これからの並列計算のためのGPGPU連載講座 \[I\]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)), ([III](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)), ([V](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF)
+
+## [12. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   ITU Global Connectivity Report - ([2022](https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/)) - a detailed assessment of the current state of connectivity.
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-confluent (⭐51)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
-## [13. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [14. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -234,14 +244,14 @@
 
 *   [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
 
-## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-validation (⭐1)](https://github.com/ethandunford/deno-validation) - A general purpose validation library for Deno.
 *   [PLS (⭐6)](https://github.com/roj1512/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -252,7 +262,7 @@
 *   [require (⭐0)](https://github.com/aubreypwd/zsh-plugin-require) - Adds ability to `require commandname` and then (if [brew](https://brew.sh) is installed) automatically `brew install commandname` if it isn't already installed.
 *   [xdg-basedir (⭐0)](https://github.com/mattmc3/zsh-xdg-basedir) - Supports [XDG](https://wiki.archlinux.org/index.php/XDG_Base_Directory) base directory settings.
 
-## [16. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [17. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
@@ -270,13 +280,13 @@
 
 *   [Lysxia's blog](https://blog.poisson.chat)
 
-## [17. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic originally designed to replay malicious traffic patterns to Intrusion Detection/Prevention Systems.
 
-## [18. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [19. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Audio
 
@@ -287,7 +297,7 @@
 *   [dantecatalfamo/mruby-zig (⭐19)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 *   [dantecatalfamo/wren-zig (⭐20)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
-## [19. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [20. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -304,13 +314,13 @@
 *   [Q# Advent Calendar 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/) - Collection of Q#-related blog posts.
 *   [Q# Advent Calendar 2021](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2021/) - Collection of Q#-related blog posts.
 
-## [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [21. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Voting Dapp (⭐10)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
 
-## [21. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [22. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -327,31 +337,31 @@
 *   [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 *   [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 
-## [22. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [23. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp) - In this book, you’ll get practical experience writing Haskell code and applying functional programming to actual development challenges.
 
-## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Storage / Runner
 
 *   [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
 
-## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [25. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Other external resources
 
 *   \[Explore Ruby] (<https://kandi.openweaver.com/explore/ruby>) - Discover & find a curated list of popular & new Ruby libraries across all languages, top authors, trending project kits, discussions, tutorials & learning resources.
 
-## [25. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [26. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / E-commerce
 
 *   [Astro Snipcart (⭐26)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
-## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Meta-Level Considerations / Meta Learning
 
@@ -361,7 +371,7 @@
 
 *   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology***.
 
-## [27. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / LEDs
 
@@ -376,7 +386,7 @@
 
 *   [CoderDojo Twin Cities MicroPython](https://www.coderdojotc.org/micropython/) - Full coding curriculum for teaching MicroPython to children.
 
-## [28. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [29. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Honeypots
 
@@ -386,13 +396,13 @@
     *   [T-Pot (⭐4.1k)](https://github.com/dtag-dev-sec/tpotce) - All in one honeypot appliance from telecom provider T-Mobile
     *   [beelzebub (⭐30)](https://github.com/mariocandela/beelzebub) - A secure honeypot framework, extremely easy to configure by yaml 🚀
 
-## [29. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [30. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### System
 
 *   [Bluetooth Controller (⭐65)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
 
-## [30. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [31. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2022
 
@@ -406,7 +416,7 @@
 
 *   [Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/abs/1710.06169) - (AIES) *Treats black box models as teachers, training transparent student models to mimic the risk scores assigned by black-box models.*
 
-## [31. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [32. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -426,13 +436,13 @@
 
 *   [CoAP](http://coap.technology/) - The Constrained Application Protocol (CoAP) is a specialized Internet application protocol for constrained devices, as defined in RFC 7252.
 
-## [32. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [33. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Online database creator apps
 
 *   [Amplication](https://amplication.com/) - Build production-ready Node.js applications without wasting time on repetitive coding.
 
-## [33. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [34. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Reporters
 
@@ -440,7 +450,7 @@
 *   [monocart-reporter (⭐7)](https://github.com/cenfun/monocart-reporter) - A playwright test reporter, shows suites/cases/steps in html grid.
 *   [allure-playwright (⭐125)](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure integration with Playwright Test framework.
 
-## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Text Editors
 
@@ -448,13 +458,13 @@
 *   [o (⭐190)](https://github.com/xyproto/o) - Configuration-free text editor and IDE.
 *   [helix (⭐15k)](https://github.com/helix-editor/helix) -  Modal editor inspired by kakoune.
 
-## [35. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [36. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Probabilistic Methods / NLP
 
 *   [pomegranate (⭐3k)](https://github.com/jmschrei/pomegranate) - Probabilistic and graphical models for Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/gpu_big.png" alt="GPU accelerated">
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -464,19 +474,19 @@
 
 *   [Vitify Admin (⭐41)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
-## [37. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [38. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Talks
 
 *   [Demystifying Python's Async and Await Keywords](https://www.youtube.com/watch?v=F19R_M4Nay4) - JetBrains TV 2020 (Michael Kennedy)
 
-## [38. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Opcodes
 
 *   [GB Flash Cartridges for Sale](https://bbbbbr.github.io/GameBoy-Flash-Carts/) - A List of available, ready-made Game Boy Flash Cartridges.
 
-## [39. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [40. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Apps / Cryptography & Security
 
@@ -606,7 +616,7 @@
 *   [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
 *   [libyaml-glib (⭐11)](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
 
-## [40. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [41. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Development / Python
 
@@ -620,7 +630,7 @@
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -634,7 +644,7 @@
 
 ![Screenshot from 2022-08-09 15-51-59](https://user-images.githubusercontent.com/19710754/183682207-df364826-3299-4945-9962-39e9996d177c.png)
 
-## [42. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [43. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Time Series Data
 
@@ -643,127 +653,6 @@
 ### Others / Other Resource
 
 *   [FinancePy (⭐1.1k)](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
-
-## [43. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *(:card\_file\_box: archived)*
-
-### 管理和监控
-
-*   [Elasticsearch 权威指南（中文版）](https://web.archive.org/web/20200415002735/https://es.xiaoleilu.com/) *(:card\_file\_box: archived)*
-
-### 项目相关
-
-*   [selenium 中文文档](https://einverne.gitbook.io/selenium-doc/)
-
-### Assembly
-
-*   逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
-    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
-    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
-
-### C
-
-*   [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
-*   [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C\&CPP/c/) *(:card\_file\_box: archived)*
-
-### C++
-
-*   [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card\_file\_box: archived)*
-
-### Dart
-
-*   [Dart 语言导览](https://web.archive.org/web/20200415002731/dart.lidian.info/wiki/Language_Tour) *(:card\_file\_box: archived)*
-
-### Elixir
-
-*   [Elixir 编程语言教程](https://elixirschool.com/zh-hans) (Elixir School)
-
-### Golang
-
-*   [Revel 框架手册](https://web.archive.org/web/20190610030938/https://gorevel.cn/docs/manual/index.html) *(:card\_file\_box: archived)*
-
-### Java
-
-*   [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C\(%E9%BB%84%E5%B1%B1%E7%89%88\).pdf) (PDF)
-
-### JavaScript
-
-*   [你不知道的JavaScript (⭐160k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-*   [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *(:card\_file\_box: archived)*
-*   [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
-*   [JavaScript编程指南](http://pij.robinqu.me) ([源码 (⭐135)](https://github.com/RobinQu/Programing-In-Javascript))
-
-### JavaScript / Backbone.js
-
-*   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-*   [Backbone.js入门教程第二版 (⭐955)](https://github.com/the5fire/backbonejs-learning-note)
-*   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card\_file\_box: archived)*
-
-### JavaScript / D3.js
-
-*   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
-*   [官方API文档 (⭐103k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-*   [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
-*   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
-
-### JavaScript / Electron.js
-
-*   [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
-*   [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
-
-### JavaScript / ExtJS
-
-*   [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
-
-### JavaScript / jQuery
-
-*   [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card\_file\_box: archived)*
-*   [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
-
-### JavaScript / React.js
-
-*   [Learn React & Webpack by building the Hacker News front page (⭐410)](https://github.com/theJian/build-a-hn-front-page)
-*   [React-Bits 中文文档 (⭐593)](https://github.com/hateonion/react-bits-CN)
-*   [React webpack-cookbook (⭐277)](https://github.com/fakefish/react-webpack-cookbook)
-*   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
-*   [React.js 中文文档](https://discountry.github.io/react/)
-
-### JavaScript / Vue.js
-
-*   [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
-
-### JavaScript / Zepto.js
-
-*   [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card\_file\_box: archived)*
-
-### Lua / Zepto.js
-
-*   [Lua 5.3 参考手册](https://www.runoob.com/manual/lua53doc/)
-
-### PHP / Zepto.js
-
-*   [CodeIgniter 使用手冊](https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/) *(:card\_file\_box: archived)*
-*   [Phalcon7中文文档](https://web.archive.org/web/20220330065727/myleftstudio.com/) *(:card\_file\_box: archived)*
-
-### PHP / Symfony
-
-*   [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *(:card\_file\_box: archived)*
-
-### Python / Symfony
-
-*   [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *(:card\_file\_box: archived)*
-*   [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card\_file\_box: archived)*
-
-### R / Django
-
-*   [用 R 构建 Shiny 应用程序](https://web.archive.org/web/20200220023703/yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版) *(:card\_file\_box: archived)*
-
-### Ruby / Django
-
-*   [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
 
 ## [44. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 

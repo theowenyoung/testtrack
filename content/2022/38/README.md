@@ -754,29 +754,14 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐0)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
 
-## [25. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [25. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### 版本控制
+### Git / 理論計算機科学
 
-*   [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html) - Jim Weirich, `trl.:` 徐小东 a.k.a toy *(:card\_file\_box: archived)*
-*   [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/) - Nulab Inc.
-*   [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
-*   [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
-*   [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
-*   [Git Magic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
-*   [Github帮助文档 (⭐812)](https://github.com/waylau/github-help) - Way Lau
-*   [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
-*   [Got GitHub (⭐1.5k)](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
-*   [GotGitHub](http://www.worldhello.net/gotgithub/index.html) - Jiang Xin, The GotGit community
-*   [HgInit (中文版)](https://zh-hginit.readthedocs.io/en/latest/) - The HgInit team, `trl.:` Brant Young
-*   [Mercurial 使用教程](https://www.mercurial-scm.org/wiki/ChineseTutorial) - The Mercurial team
-*   [Pro Git](https://git-scm.com/book/zh/) - Scott Chacon, Ben Straub, `trl.:` Alan Wang, `trl.:` 啊咪咪小熊, et al. (HTML, PDF, EPUB)
-*   [Subversion 版本控制](http://svnbook.red-bean.com/nightly/zh/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
-
-### Android
-
-*   [Google Material Design 正體中文版](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) - Tillonter, 陳世能, Sean Chen, et al.
-*   [Google Material Design 中文协同翻译 (⭐3.1k)](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
+*   [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
+*   [GitHubカンニング・ペーパー (⭐37k)](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+*   [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
+*   [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
 ## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 

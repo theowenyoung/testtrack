@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,30 +18,13 @@
 
 *   [libgdx-screenmanager (⭐61)](https://github.com/crykn/libgdx-screenmanager) - A screen manager for libGDX supporting various transition effects
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### HTML and CSS
-
-*   [Bootstrap 4 繁體中文手冊](https://bootstrap.hexschool.com) - 六角學院
-
-### PHP / Laravel
-
-*   [Laravel 5.4 中文文档](http://d.laravel-china.org/docs/5.4)
-*   [Laravel 6 中文文档](https://learnku.com/docs/laravel/6.x)
-*   [Laravel 7 中文文档](https://learnku.com/docs/laravel/7.x)
-*   [Laravel 8 中文文档](https://learnku.com/docs/laravel/8.x)
-
-### PHP / Symfony
-
-*   [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
-
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [KArchive](https://api.kde.org/frameworks/karchive/html/index.html) - A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. \[LGPL]
 
-## [5. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
+## [4. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
 ### Official
 
@@ -57,7 +40,7 @@
 
 *   [Contentment](https://our.umbraco.com/packages/backoffice-extensions/contentment/) - A handy collection of Umbraco components developed for use in your Umbraco projects.
 
-## [6. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Philosophy And Psychology
 
@@ -71,7 +54,7 @@
 
 
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
@@ -81,13 +64,13 @@
 
 *   [Walkman (⭐51)](https://github.com/derekkraan/walkman) - Isolate tests from the real world, inspired by Ruby's VCR.
 
-## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Viz
 
 *   [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
 
-## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / Engineering Managers
 
@@ -109,25 +92,25 @@
 
 *   [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life) - An e-book-sized synthesis on sleep research “with a view to practical applications, esp. in people who need top-quality sleep for their learning or creative achievements.”
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [uiv (⭐916)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Others
 
 *   [BlazorContextMenu (⭐389)](https://github.com/stavroskasidis/BlazorContextMenu) - ![GitHub stars](https://img.shields.io/github/stars/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorContextMenu?style=flat-square\&cacheSeconds=86400) A context menu component for Blazor ([Demo](https://blazor-context-menu-demo.azurewebsites.net/)).
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Quality
 
 *   [eversql.com](https://www.eversql.com/) — EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries, auto-magically.
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
@@ -154,19 +137,19 @@
 
 *   [Berkeley Institute for Data Science](https://github.com/BIDS)
 
-## [14. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [13. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
 *   [Dandies](https://dandies.com/) - Delicious, soft, melting, and all natural marshmallows with vanilla, pumpkin, or peppermint taste.
 
-## [15. Awesome Python](/content/vinta/awesome-python/README.md)
+## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Task Queues
 
 *   [celery](https://docs.celeryproject.org/en/stable/) - An asynchronous task queue/job queue based on distributed message passing.
 
-## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [15. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
@@ -175,13 +158,13 @@
 *   [orthopy (⭐163)](https://github.com/nschloe/orthopy) - Compute orthogonal polynomials efficiently.
     (Python, GPL 3, GitHub)
 
-## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Common Section / Angular
 
 *   [Active forks](https://activeforks.net). A weekly newsletter for open source enthusiats with a list of repositories and their recently active forks.
 
-## [18. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [17. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Networking
 

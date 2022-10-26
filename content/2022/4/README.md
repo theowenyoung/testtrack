@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 24 - Jan 30, 2022
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -227,14 +227,20 @@
 
     *   used by its [author](https://github.com/melisgl) to [win (⭐127)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
 
-## [22. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [22. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / 機械学習
+
+*   [機械学習帳](https://chokkan.github.io/mlnote) - 岡崎直観 (Naoaki Okazaki)
+
+## [23. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### GUI
 
 *   [Snektron/vulkan-zig (⭐187)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator.
 *   [Avokadoen/zig\_vulkan (⭐36)](https://github.com/Avokadoen/zig_vulkan) - Toy renderer using Vulkan and GLFW.
 
-## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [24. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Machine Learning
 
@@ -248,25 +254,25 @@
 
 *   [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [SSD1309](https://crates.io/crates/ssd1309) - I2C/SPI - OLED display controller - [Intro blog post](https://antonok.com/projects/ssd1309) - ![crates.io](https://img.shields.io/crates/v/ssd1309.svg)
 
-## [25. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Transportation
 
 *   [CDS (⭐26)](https://github.com/openmobilityfoundation/curb-data-specification) - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
 
-## [26. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [27. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [denoflow (⭐202)](https://github.com/denoflow/denoflow) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 
-## [27. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
@@ -282,7 +288,7 @@
 
 *   [CuriousNikhil/k5-compose (⭐168)](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop
 
-## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Programming
 
@@ -326,13 +332,13 @@
 
 
 
-## [29. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [30. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [SCX (⭐0)](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
 
-## [30. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [31. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Books
 
@@ -392,7 +398,7 @@
 *   [MTF (⭐18)](https://github.com/artemiosv/etfa2015) - A Modbus/TCP Fuzzer for testing internetworked industrial systems
 *   [MTF-Storm (⭐2)](https://github.com/ntinosk-mtf/etfa2018) - A high performance fuzzer for Modbus/TCP.
 
-## [31. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [32. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -405,13 +411,13 @@
 
 *   [gatling-template.g8 (⭐17)](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
-## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### C++ / Git
 
 *   [=nil; Crypto3 (⭐27)](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 
-## [33. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [34. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
@@ -425,13 +431,13 @@
 
 *   [Static Typing Python Decorators](https://rednafi.github.io/reflections/static-typing-python-decorators.html) - Accurately static typing decorators in Python is an icky business. The wrapper function obfuscates type information required to statically determine the types of the parameters and the return values of the wrapped function.
 
-## [34. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [35. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Paperspace Gradient](https://gradient.run/) - A Jupyter-backed data science IDE with accelerated hardware (GPUs) and MLOps functionality.
 
-## [35. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [36. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Nodes / Smarthome
 
@@ -442,7 +448,7 @@
 *   [whin (⭐11)](https://github.com/inUtil-info/node-red-contrib-whin) - Send and receive whatsapps from within a nodered flow.
 *   [open-wa (whatsapp) (⭐11)](https://github.com/open-wa/node-red-contrib-wa-automate) - Efficiently connect to remote instances of your open-wa whatsapp automate servers.
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
@@ -456,19 +462,19 @@
 
 *   [Raylib for Swift (⭐55)](https://github.com/STREGAsGate/Raylib) :penguin: - A Cross-Platform Swift package for Raylib. Builds Raylib from source so no need to fiddle with libraries. Just add as a dependency in you game package and go!
 
-## [37. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [38. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
 *   [Wagtail UIKit Block (⭐13)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
 
-## [38. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
 *   [C# Corner .NET Conference Day 1](https://www.youtube.com/watch?v=LpoYTZSMeG0) - ![duration](https://img.shields.io/badge/Duration:%20-390%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2022 - The first day of the conference kicks off with a keynote session by Scott Hunter. Day one is focused on front-end technologies (Blazor). [Conference website](https://dotnetconference.com).
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -481,13 +487,13 @@
 *   [Inkline (⭐1.1k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
 *   [Mosaic - Vue Admin TailwindCSS template (⭐145)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
-## [40. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [41. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Ethernet
 
 *   [RP2040 Ethernet example (⭐3)](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - Ethernet driver, example python code and YouTube.
 
-## [41. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [42. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
@@ -550,7 +556,7 @@
 *   [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand network performance and account monitor.
 *   [Algorand Stats](https://www.algorandstats.com/) - All stats about Algorand Governance.
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -586,13 +592,13 @@
 
 *   [Hashnode](https://hashnode.com/) — Hassle-free Blogging Software for Developers!.
 
-## [43. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [44. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [a11y, i18n, k8s, ...](https://en.wikipedia.org/wiki/Numeronym) - Abbreviating long words by keeping the first and last letter and writing the number of omitted letters in between.
 
-## [44. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [45. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Food-related projects
 
@@ -603,7 +609,7 @@
 *   [lactofermentation (⭐3)](https://github.com/tirimia/lactofermentation) - Experiments with wild lactobacillus.
 *   [bread (⭐49)](https://github.com/dgryski/bread) - Notes on bread baking.
 
-## [45. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [46. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Presets
 
@@ -614,14 +620,14 @@
 
 *   [Navigation (⭐309)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
-## [46. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [47. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Developer tools / SEO Tools
 
 *   [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco
 *   [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - Creates AlphabetFolders for the specified doctype for Umbraco
 
-## [47. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [48. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Realtime Data Processing
 
@@ -631,7 +637,7 @@
 
 *   [Logit.io](https://logit.io/) - Send logs from Hadoop to Elasticsearch for monitoring and alerting.
 
-## [48. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [49. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Official plugins
 
@@ -650,19 +656,19 @@
 *   [Healthkit (⭐23)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 *   [UDP (⭐2)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
-## [49. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [50. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
 *   [AnimeFaceDrawer](https://medium.com/@steinsfu/drawing-anime-face-with-simple-segmentation-mask-ca955c62ce09) - Drawing Anime Face with Simple Segmentation Mask \[English]
 
-## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [51. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   [Low Code (⭐114)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 
-## [51. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [52. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 

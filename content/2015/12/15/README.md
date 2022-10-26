@@ -79,78 +79,78 @@
 
 *   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### 操作系统
+### 0 - 言語非依存 / グラフィックスプログラミング
 
-*   [Docker入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
-*   [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
-*   [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+*   [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
-### 管理和监控
+### 0 - 言語非依存 / その他の話題
 
-*   [ElasticSearch 权威指南](https://www.gitbook.com/book/fuxiaopang/learnelasticsearch/details)
-*   [ELKstack 中文指南](http://kibana.logstash.es)
-*   [Logstash 最佳实践 (⭐785)](https://github.com/chenryn/logstash-best-practice-cn)
+*   [青木靖 翻訳集](http://www.aoky.net) - 青木靖
 
-### 设计模式
+### 0 - 言語非依存 / 正規表現
 
-*   [史上最全设计模式导学目录](http://blog.csdn.net/lovelion/article/details/17517213)
-*   [图说设计模式 (⭐6k)](https://github.com/me115/design_patterns)
+*   [正規表現メモ](http://www.kt.rim.or.jp/\~kbk/regex/regex.html) - 木村浩一
 
-### 项目相关
+### Android / 理論計算機科学
 
-*   [Gradle 2 用户指南 (⭐411)](https://github.com/waylau/Gradle-2-User-Guide)
-*   [Gradle 中文使用文档](http://yuedu.baidu.com/ebook/f23af265998fcc22bcd10da2)
+*   [Android Open Text book (⭐256)](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
+*   [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
 
-### AWK
+### AppleScript / 理論計算機科学
 
-*   [awk程序设计语言 (⭐1.2k)](https://github.com/wuzhouhui/awk)
+*   [AppleScript 言語ガイド(改訂版)](https://sites.google.com/site/zzaatrans/home/applescriptlangguide)
 
-### C++
+### AWK / 理論計算機科学
 
-*   [100个gcc小技巧 (⭐459)](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
-*   [100个gdb小技巧 (⭐2.4k)](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
-*   [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
-*   [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
-*   [C++ Primer 5th Answers (⭐7.2k)](https://github.com/Mooophy/Cpp-Primer)
-*   [ZMQ 指南 (⭐1.6k)](https://github.com/anjuke/zguide-cn)
+*   [Effective AWK Programming](http://www.kt.rim.or.jp/\~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 
-### Golang
+### C / 理論計算機科学
 
-*   [Go 官方文档翻译 (⭐149)](https://github.com/golang-china/golangdoc.translations)
-*   [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
-*   [Network programming with Go 中文翻译版本 (⭐567)](https://github.com/astaxie/NPWG_zh)
+*   [C言語](https://ja.wikibooks.org/wiki/C%E8%A8%80%E8%AA%9E) - Wikibooks
 
-### HTML and CSS
+### C++ / 理論計算機科学
 
-*   [CSS参考手册](http://css.doyoe.com)
-*   [HTML和CSS编码规范](http://codeguide.bootcss.com)
+*   [C++11の文法と機能(C++11: Syntax and Feature)](https://ezoeryou.github.io/cpp-book/C++11-Syntax-and-Feature.xhtml) - 江添亮
 
-### iOS
+### Git / 理論計算機科学
 
-*   [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
-*   [iOS开发60分钟入门 (⭐6.9k)](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+*   [デザイナのための Git (⭐226)](https://github.com/hatena/Git-for-Designers) - はてな教科書
 
-### Java
+### JavaScript / Spock Framework
 
-*   [Activiti 5.x 用户指南 (⭐188)](https://github.com/waylau/activiti-5.x-user-guide)
-*   [Apache MINA 2 用户指南 (⭐218)](https://github.com/waylau/apache-mina-2.x-user-guide)
-*   [H2 Database 教程 (⭐43)](https://github.com/waylau/h2-database-doc)
-*   [JSSE 参考指南 (⭐26)](https://github.com/waylau/jsse-reference-guide)
-*   [Spring Framework 4.x参考文档 (⭐1.5k)](https://github.com/waylau/spring-framework-4-reference)
+*   [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
+*   [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 
-### JavaScript
+### JavaScript / Node.js
 
-*   [Airbnb JavaScript 规范 (⭐647)](https://github.com/adamlu/javascript-style-guide)
+*   [node.js 怒濤の50サンプル!! – socket.io編 (⭐23)](https://github.com/omatoro/NodeSample) - omatoro
 
-### PHP / Zepto.js
+### Mercurial / React
 
-*   [PHP 之道](http://wulijun.github.io/php-the-right-way/)
+*   [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, 藤原克則(翻訳)
 
-### Scala / Django
+### Objective-C / React
 
-*   [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
+*   [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
+
+### PHP / React
+
+*   [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
+
+### Python / Symfony
+
+*   [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
+
+### R / Flask
+
+*   [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
+
+### Scheme / Flask
+
+*   [Gauche プログラミング(立読み版)](https://web.archive.org/web/20140521224625/http://karetta.jp/book-cover/gauche-hacks) - 川合史朗(監修), Kahuaプロジェクト
+*   [Scheme 入門 スーパービギナー編](https://sites.google.com/site/atponslisp/home/scheme/racket/schemenyuumon-1/schemenyuumon)
 
 ## [7. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 

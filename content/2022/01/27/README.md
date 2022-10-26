@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,7 +85,13 @@
 
 *   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐11)](https://github.com/Ripe/algovanity).
 
-## [8. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [8. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### 0 - 言語非依存 / 機械学習
+
+*   [機械学習帳](https://chokkan.github.io/mlnote) - 岡崎直観 (Naoaki Okazaki)
+
+## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 

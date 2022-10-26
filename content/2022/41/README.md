@@ -160,31 +160,25 @@
 
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 
-## [14. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### C++
-
-*   [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) - Luminous-Coder (:construction: *in process*)
-
-## [15. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
 *   [MutableSecurity (⭐33)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Analytics
 
 *   [Tracker Aggregator (⭐16)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 
-## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼🔧 [tailwindcss-vite-plugin (⭐9)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
-## [18. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Demographic
 
@@ -194,13 +188,13 @@
 
 *   [Unacast](https://www.unacast.com/) - Provides location based analytics related to how people move across 80+ countries ranging from foot-traffic metrics to cross-visitation.
 
-## [19. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [18. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
-## [20. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [19. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Blockchain
 
@@ -228,7 +222,7 @@
 *   [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 *   [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
 
-## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -239,23 +233,29 @@
 *   [ASP.NET Core updates in .NET 7 Release Candidate 2](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/) - October 11, 2022 - .NET 7 Release Candidate 2 (RC2) is now available and includes many great new improvements to ASP.NET Core and Blazor: improved diagnostics for authentication in Blazor WebAssembly and WebAssembly multithreading (experimental).
 *   [No Need to Wait for .NET 8 to Try Experimental WebAssembly Multithreading](https://visualstudiomagazine.com/articles/2022/10/11/blazor-webassembly-net7.aspx) - October 11, 2022 - Multithreading support for client-side Blazor WebAssembly apps is planned for .NET 8 in November 2023, but developers can try it out now for .NET apps thanks to experimental functionality in the brand-new .NET 7 Release Candidate 2.
 
-## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
 *   [Impira](https://www.impira.com/) - Grab data from any document in seconds with Impira’s no-code platform powered by machine learning.
 
-## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
 *   [Sorcery (⭐1.3k)](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
 
-## [24. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [gluon2keras (⭐0)](https://github.com/stjordanis/gluon2keras) - Convert Gluon models to Keras (with TensorFlow backend) format
+
+## [24. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### PHP / React
+
+*   [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 
 ## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

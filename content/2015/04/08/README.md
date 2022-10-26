@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08, 2015
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,13 +48,7 @@
 
 *   [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 
-## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### 操作系统
-
-*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/\~remzi/OSTEP/)
-
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Database Tools
 
@@ -68,7 +62,7 @@
 
 *   [Slack ruby gem (⭐247)](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 

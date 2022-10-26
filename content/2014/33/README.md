@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18 - Aug 24, 2014
 
-12 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -353,20 +353,6 @@
 ### Reactive Programming / Runner
 
 *   [Kefir (⭐8)](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
-
-## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Lisp / Zepto.js
-
-*   [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
-
-### reStructuredText / Django
-
-*   [reStructuredText 入门](http://www.pythondoc.com/sphinx/rest.html)
-
-### Scala / Django
-
-*   [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 
 ---
 

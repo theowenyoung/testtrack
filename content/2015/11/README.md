@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16 - Mar 22, 2015
 
-13 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -70,19 +70,13 @@
 
 *   [Proffer plugin (⭐121)](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
 
-## [8. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Elasticsearch
-
-*   [Elasticsearch 权威指南 (⭐2k)](https://github.com/looly/elasticsearch-definitive-guide-cn) （《Elasticsearch the definitive guide》中文版）
-
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Emails
 
 *   [postal (⭐555)](https://github.com/drewr/postal)
 
-## [10. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [9. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### General
 
@@ -101,7 +95,7 @@
 
 *   [Backbone.js Patterns and Best Practices](http://www.amazon.com/dp/1783283572) by Swarnendu De
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -175,7 +169,7 @@
 
 *   [BEAM Community](http://beamcommunity.github.io/) - From distributed systems, to robust servers and language design on the Erlang VM.
 
-## [12. Typography](/content/deanhume/typography/week/README.md)
+## [11. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -183,7 +177,7 @@
 *   [Scale & Rhythm in Typography](http://lamb.cc/typograph/)
 *   [Typographic Scale](http://retinart.net/typography/typographicscale/)
 
-## [13. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [12. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

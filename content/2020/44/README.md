@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02 - Nov 08, 2020
 
-60 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -439,7 +439,15 @@ Free (Open Source)
 *   [aws-lambda-nodejs-webpack (⭐31)](https://github.com/vvo/aws-lambda-nodejs-webpack) - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
 *   [aws-lambda-nodejs-esbuild (⭐58)](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - Alternative Node.js lambda CDK construct, using [esbuild (⭐34k)](https://github.com/evanw/esbuild).
 
-## [30. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [30. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### Clojure / 理論計算機科学
+
+*   [Clojureスタイルガイド (⭐68)](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+*   [Modern cljs(翻訳中) (⭐8)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+*   [逆引きClojure (⭐6)](https://github.com/making/rd-clj) - Toshiaki Maki
+
+## [31. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -473,7 +481,7 @@ Free (Open Source)
 
 
 
-## [31. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [32. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -511,13 +519,13 @@ Free (Open Source)
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
 *   [RegRipper (⭐304)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
-## [32. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [33. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Articles & Blogs
 
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 
-## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -527,13 +535,13 @@ Free (Open Source)
 
 *   [Debugger Podcast](https://debuggerpodcast.ge/) - Podcast about development culture, technologies and career growth.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Routing
 
 *   [MonarchRouter (⭐36)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 
-## [35. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [36. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
@@ -547,19 +555,19 @@ Free (Open Source)
 
 *   [ros2\_ouster\_drivers (⭐89)](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 
-## [36. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 
-## [37. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [38. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### CLI & Editor / iOS
 
 *   📖 [Firebase Tools UI (⭐206)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -567,19 +575,19 @@ Free (Open Source)
 *   [Vue-Low-Code (⭐274)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 *   [Figma-Low-Code (⭐600)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
-## [39. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [40. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Version Control
 
 *   [nbQA (⭐610)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 
-## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [3Cols](https://3cols.com/) - A free cloud based code snippet manager for personal and collaborative code.
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -593,14 +601,14 @@ Webpage: <http://www5.kb.dk/en/dia/>
 | ---- | ----- | ------------------------------------------------------------------------------- | ---------------------------------- |
 | ✔    | ✔     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-20:00, Sat 9:00-18:00 |
 
-## [42. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [43. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Visualization / Mesh tools
 
 *   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
     (Python, BSD, [GitHub (⭐359)](https://github.com/yt-project/yt))
 
-## [43. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [44. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Courses & Books & Blogs
 
@@ -610,13 +618,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [High-Frequency-Trading-Model-with-IB (⭐2k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
-## [44. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [45. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Benchmark - JavaScript / Meetups
 
 *   [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks. `Temporarily out, follow this issue for updates: https://github.com/jsperf/jsperf.com/issues/537`
 
-## [45. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [46. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -643,7 +651,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [shellspec (⭐772)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
-## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -673,7 +681,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 
 
-## [47. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [48. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -695,7 +703,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Awesome FastAPI Projects (⭐674)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
-## [48. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [49. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / CI/CD
 
@@ -778,14 +786,14 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s\&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
 
-## [49. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [50. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [ASCII-Hangman (⭐6)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 *   [dotdotyew (⭐3)](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 
-## [50. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [51. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -793,7 +801,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [Node-Composer (⭐5)](https://github.com/mariusbuescher/node-composer) - Installer for NodeJS, npm and yarn.
 *   [CycloneDX-PHP-Composer (⭐21)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [51. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [52. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -811,31 +819,31 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 
-## [52. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [53. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [53. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [54. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐4)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [54. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [55. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [56. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Date & time
 
 *   [FlatpickrBlazor (⭐7)](https://github.com/mathisloge/FlatpickrBlazor) - ![last commit](https://img.shields.io/github/last-commit/mathisloge/FlatpickrBlazor?style=flat-square\&cacheSeconds=86400) Flatpickr Blazor interop.[Demo](https://mathisloge.github.io/FlatpickrBlazorExample/).
 
-## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [57. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -873,7 +881,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [57. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [58. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Graphical User Interface / Other / unknown licence
 
@@ -883,13 +891,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
-## [58. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [59. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 
-## [59. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [60. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -1188,7 +1196,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 
 
-## [60. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [61. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 

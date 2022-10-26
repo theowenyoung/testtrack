@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -135,14 +135,7 @@
 
 *   [Outreachy website (⭐187)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
-## [12. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### PHP / Laravel
-
-*   [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
-*   [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
-
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [12. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 

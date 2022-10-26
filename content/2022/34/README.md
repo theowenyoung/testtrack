@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2022
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -473,6 +473,12 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 ### Storage / Runner
 
 *   [Dexie.js (⭐8.5k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+
+## [41. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### Objective-C / React
+
+*   [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - id:fn7
 
 ---
 

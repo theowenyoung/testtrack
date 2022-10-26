@@ -76,34 +76,39 @@
 
 *   [betterglobekey (⭐5)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [11. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### Golang
+### 0 - 言語非依存 / 理論計算機科学
 
-*   [Go 简易教程 (⭐386)](https://github.com/songleo/the-little-go-book_ZH_CN) - Karl Seguin, `trl.:` Song Song Li (《[The Little Go Book (⭐1.9k)](https://github.com/karlseguin/the-little-go-book) - Karl Seguin》中文版)
-*   [The Little Go Book 繁體中文翻譯版 (⭐129)](https://github.com/kevingo/the-little-go-book) - Karl Seguin, `trl.:` KevinGo, Jie Peng ([HTML](https://kevingo.gitbooks.io/the-little-go-book/))
+*   [計算機プログラムの構造と解釈 第二版](https://sicp.iijlab.net/fulltext) - Gerald Jay Sussman, et al.
+
+### Android / 理論計算機科学
+
+*   [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi Inc.
+
+### Groovy / Grails
+
+*   [Grailsフレームワーク 日本語リファレンス](https://grails.jp/doc/latest) - T.Yamamoto, Japanese Grails Doc Translating Team. Special thanks to NTT Software
 
 ### JavaScript / AngularJS
 
-*   [AngularJS最佳实践和风格指南 (⭐5k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md) - Minko Gechev, Xuefeng Zhu, Shintaro Kaneko, et al. (HTML)
+*   [AngularJSスタイルガイド (⭐5k)](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
 
-### Python / Symfony
+### JavaScript / Node.js
 
-*   [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang\_derek *(内含丰富的笔记以及各类教程)*
-*   [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) (Online)
-*   [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
-*   [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
-*   [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
+*   [Felix's Node.js Style Guide](https://popkirby.github.io/contents/nodeguide/style.html) - Debuggable Limited, @popkirby(翻訳)
 
-### Python / Django
+### Lua / React
 
-*   [Django 2.2.1 中文文档](http://www.osgeo.cn/django/) (Online) *(这个很新，也很全)*
-*   [Django 搭建个人博客教程 (2.1)](https://www.dusaiphoto.com/article/detail/2) - 杜赛 (HTML)
+*   [Lua 5.2 リファレンスマニュアル](http://milkpot.sakura.ne.jp/lua/lua52_manual_ja.html) - Lua.org, PUC-Rio
 
-### TypeScript / Angular
+### NoSQL / React
 
-*   [Angular Material 组件库](https://material.angular.cn) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
-*   [Angular Tutorial (教程：英雄之旅)](https://angular.cn/tutorial) - Wang Zhicheng, Ye Zhimin, Yang Lin, et al. (HTML)
+*   [The Little Redis Book (⭐159)](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear(翻訳)
+
+### R / Flask
+
+*   [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith, R Development Core Team, 間瀬茂(翻訳) (PDF)
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 

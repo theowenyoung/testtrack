@@ -8,6 +8,13 @@ A list of amazing Newsletters
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Ruby / Angular
+
+*   [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
+*   [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Ruby / Angular

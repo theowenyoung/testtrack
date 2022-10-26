@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12 - Oct 18, 2015
 
-36 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -246,26 +246,20 @@
     *   [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
     *   [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 
-## [26. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Elasticsearch
-
-*   [Mastering Elasticsearch(中文版)](http://udn.yyuap.com/doc/mastering-elasticsearch/)
-
-## [27. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [26. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
 *   [dropwizard-circuitbreaker (⭐41)](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 
-## [28. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [27. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEM (Block element modifier) - CSS Methodologies Part 3](http://techblog.buyapowa.com/css/frontend/scss/sass/2015/10/07/css-methodologies-part-3.html)
 *   [How I stopped worrying and learned to love the CSS with BEM](http://www.theodo.fr/blog/2015/10/how-i-stopped-worrying-and-learned-to-love-the-css-with-bem/)
 
-## [29. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [28. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -279,7 +273,7 @@
 
 *   [xml2js (⭐4.6k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
@@ -289,7 +283,7 @@
 
 *   [exurban (⭐2)](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
 
-## [31. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [30. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
@@ -307,7 +301,7 @@
 
 *   [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
 
-## [32. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [31. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Logging
 
@@ -323,7 +317,7 @@
 
 *   [Explore Statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0) - Covers introduction, data handling and statistical analysis in R.
 
-## [33. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [32. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -331,19 +325,19 @@
 
 **Released**: April 14, 2008
 
-## [34. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Programming languages
 
 *   [Groovy](http://www.groovy-lang.org/) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.
 
-## [35. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [34. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Queueing / NoSQL Databases
 
 *   [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 
-## [36. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [35. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Awesome Tech Videos   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 

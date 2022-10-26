@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -130,6 +130,12 @@
 *   [note-to-yew (⭐2)](https://github.com/oovm/note-to-yew) - Convert your markups into Yew macro online, which is also made by Yew.
 *   [yew-d3-example (⭐15)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
 *   [zzhack (⭐176)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
+
+## [14. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### PHP / React
+
+*   [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 
 ---
 

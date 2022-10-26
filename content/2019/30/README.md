@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2019
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -795,31 +795,25 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [45. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### HTML and CSS
-
-*   [HTML5 教程](http://www.w3school.com.cn/html5/index.asp)
-
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Laravel File Manager (⭐909)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
-## [47. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [46. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / Various other helpful tools and resources
 
 *   [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
 
-## [48. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [47. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
 *   [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
-## [49. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [48. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -832,7 +826,7 @@
 *   [trident-ml (⭐384)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐104)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
-## [50. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [49. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -859,13 +853,13 @@
 *   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 *   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
-## [51. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [50. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor Mailgun Service (⭐103)](https://github.com/vapor-community/VaporMailgunService) – A service to be used with Vapor to send emails.
 
-## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 

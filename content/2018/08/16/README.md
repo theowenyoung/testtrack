@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,19 +34,13 @@
 
 *   [FFmpeg (⭐777)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
-## [5. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Golang
-
-*   [Go 语言高级编程（Advanced Go Programming） (⭐18k)](https://github.com/chai2010/advanced-go-programming-book)
-
-## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Speech Processing
 
 *   [Parselmouth (⭐724)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐724)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -56,7 +50,7 @@
 
 *   [19 Questions (⭐15)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
@@ -66,7 +60,7 @@
 
 *   [saxy (⭐239)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
-## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Resources
 
@@ -96,13 +90,13 @@
 *   [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 *   [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles about Data
 
 *   [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
 
-## [11. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [10. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### Community
 

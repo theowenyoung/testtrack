@@ -1,24 +1,18 @@
 # Awesome List Updates on May 26, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Golang
-
-*   [Go 语法树入门 (⭐4.7k)](https://github.com/chai2010/go-ast-book)
-
-## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [1. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### TextField & TextView / Collection View Layout
 
 *   [CHIOTPField (⭐237)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
-## [3. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [2. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / MQTT
 
@@ -26,51 +20,51 @@
 *   [sonoff-mqtt by davea (⭐57)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to Thingspeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
-## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
-## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
 *   [galacteek](https://galacteek.github.io) - A multi-platform Qt5-based browser for the distributed web [Source (⭐152)](https://github.com/pinnaculum/galacteek)
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### specifically from (  *a certain platform*  ) / Links on social streams
 
 *   [Filter RSS](https://filterrss.com/) <sup>[377](https://t.me/s/aboutrss/377)</sup> : Create an RSS feed from all the links shared on your social streams.
 *   [Siftlink](http://siftlinks.com/) <sup>[628](https://t.me/s/aboutrss/628)</sup> : monitors your friend stream on Twitter, pulls out the links and creates an RSS feed for you
 
-## [7. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [6. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Q/A
 
 *   [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
 *   [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
 *   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐366)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Books
 
 *   [scriptum (⭐369)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
-## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [This Word Does Not Exist (⭐966)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Guides / Accessibility
 
@@ -108,7 +102,7 @@
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

@@ -55,15 +55,7 @@
 
 *   [addons-linter (⭐253)](https://github.com/mozilla/addons-linter) - Validate an extension against Mozilla's guidelines.
 
-## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Golang
-
-*   [深入解析 Go](https://tiancaiamao.gitbooks.io/go-internals/content/zh) - tiancaiamao
-*   [Go 语言设计与实现](https://draveness.me/golang) - draveness
-*   [Go实战开发 (⭐3.4k)](https://github.com/astaxie/go-best-practice)
-
-## [10. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [9. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-branchcut](https://github.com/dlsrb6342/git-branchcut)
 
@@ -121,24 +113,30 @@ Interactive UI and fuzzy-search for Git branches.
     Deleted branch feature/test (was 257725f).
     Deleted branch feature/impl (was 8120c0b).
 
-## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Articles / Third-party articles
 
 *   [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - Type Annotate an existing Python Django Codebase with MonkeyType.
 *   [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - An article based on two recent talks on adding type checks to Django.
 
-## [12. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
+## [11. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
 
 ### Introduction
 
 *   [AI/ML YouTube Courses (⭐8.6k)](https://github.com/dair-ai/ML-YouTube-Courses)
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Web frameworks
 
 *   [Lad (⭐2.2k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
+
+## [13. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### Ruby / Flask
+
+*   [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, 八田 昌三(翻訳), 安川 要平(翻訳)
 
 ## [14. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 

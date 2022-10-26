@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28 - Oct 04, 2015
 
-30 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,13 +76,7 @@
 *   [Wikipedia books(community books)](https://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29)
 *   [JSbooks](http://jsbooks.revolunet.com/) - The best free JavaScript resources
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
-
-## [4. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [3. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -105,13 +99,13 @@
 *   [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
 *   [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
 
-## [5. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [4. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### 2D
 
 *   [Pixel Camera 2D (⭐469)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 
-## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Python
 
@@ -125,7 +119,7 @@
 
 *   [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
 
-## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Frameworks
 
@@ -139,7 +133,7 @@
 
 *   [LoopDrop App (⭐814)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -262,7 +256,7 @@
 *   [RFC7515](https://tools.ietf.org/html/rfc7515) - JSON Web Signature (JWS) represents content secured with digital signatures or Message Authentication Codes (MACs) using JSON-based data structures.
 *   [RFC7519](https://tools.ietf.org/html/rfc7519) - JSON Web Token (JWT) is a compact, URL-safe means of representing claims to be transferred between two parties.
 
-## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [8. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Syntax
 
@@ -274,14 +268,14 @@
 *   [xkcd](https://cran.r-project.org/web/packages/xkcd/index.html) - Use xkcd style in graphs.
 *   [imager](http://dahtah.github.io/imager/) - An image processing package based on CImg library to work with images and display them.
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Competitions
 
 *   [AI Challenge](http://aichallenge.org)
 *   [AI Games](http://theaigames.com)
 
-## [11. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [10. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
@@ -304,7 +298,7 @@
 *   [Atom](https://github.com/blog/2031-announcing-atom-1-0) - Did you know that GitHub makes an editor? Use it to write, code, and more.
 *   [GitHub Buttons](https://ghbtns.com/) - Showcase your GitHub repo's success with hotlinkable GitHub star, fork, or follow buttons.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
@@ -314,19 +308,19 @@
 
 *   [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
 
-## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Framework Extras
 
 *   [CakePHP CRUD (⭐352)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
-## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
 *   [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 
-## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [14. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Workflows
 
@@ -340,7 +334,7 @@
 
 *   [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 
-## [16. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [15. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Fun stuff / Alternative Icons
 
@@ -350,7 +344,7 @@
 
 *   [Hack](http://sourcefoundry.org/hack/)
 
-## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [16. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Application Skeleton
 
@@ -360,19 +354,19 @@
 
 *   [phalcon-cron (⭐75)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
-## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
 *   [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_8)
 
-## [19. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [Getting Started With BEM (with a little help from Sass)](https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/)
 
-## [20. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [19. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### C++ tools / Misc
 
@@ -386,7 +380,7 @@
 
 *   [Charted (⭐2.8k)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
 
-## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -485,7 +479,7 @@
 *   [Infosec (⭐4.2k)](https://github.com/onlurking/awesome-infosec)
 *   [PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools)
 
-## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
@@ -496,7 +490,7 @@
 *   [Awesome PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
 *   [Awesome Pentest (⭐17k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
-## [23. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [22. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Editors / Paid Books
 
@@ -518,7 +512,7 @@
 *   [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 *   [Mockjax (⭐2.1k)](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
-## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -528,7 +522,7 @@
 
 *   [sweet\_xml (⭐328)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
@@ -542,7 +536,7 @@
 
 *   [Pretzel (⭐595)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
-## [26. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [25. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -575,7 +569,7 @@
 *   [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 *   [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 
-## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key Map Data Model
 
@@ -583,7 +577,7 @@
 *   [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 *   [Apache HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 
-## [28. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [27. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -680,13 +674,13 @@
 
 *   [Alaska (⭐54)](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
 
-## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
-## [30. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [29. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 

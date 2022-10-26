@@ -60,19 +60,15 @@
 
 *   **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 
-## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [9. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### 项目相关
+### 0 - 言語非依存 / グラフィックスプログラミング
 
-*   [Joel谈软件](https://web.archive.org/web/20170616013024/http://local.joelonsoftware.com/wiki/Chinese_\(Simplified\))
+*   [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
 
-### C++
+### OCaml / React
 
-*   [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
-
-### Perl / Zepto.js
-
-*   [Perl 5 教程](https://web.archive.org/web/20150326073235/http://net.pku.edu.cn/\~yhf/tutorial/perl/perl.html)
+*   [Objective Caml 入門](https://web.archive.org/web/20161128072705/http://www.fos.kuis.kyoto-u.ac.jp:80/\~t-sekiym/classes/isle4/mltext/ocaml.html) - 五十嵐淳
 
 ## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

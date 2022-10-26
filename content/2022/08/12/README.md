@@ -39,62 +39,15 @@
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [6. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### Assembly
+### 0 - 言語非依存 / セキュリティ
 
-*   逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
-    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
-    *   [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+*   [暗号化アルゴリズム (\[1\])](https://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](https://fussy.web.fc2.com/algo/algo9-2.htm)), ([3](https://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](https://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
 
-### JavaScript
+### 0 - 言語非依存 / 並列プログラミング
 
-*   [你不知道的JavaScript (⭐160k)](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-*   [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
-*   [JavaScript编程指南](http://pij.robinqu.me) ([源码 (⭐135)](https://github.com/RobinQu/Programing-In-Javascript))
-
-### JavaScript / Backbone.js
-
-*   [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-*   [Backbone.js入门教程第二版 (⭐955)](https://github.com/the5fire/backbonejs-learning-note)
-*   [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card\_file\_box: archived)*
-
-### JavaScript / D3.js
-
-*   [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
-*   [官方API文档 (⭐103k)](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-*   [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
-*   [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
-
-### JavaScript / Electron.js
-
-*   [Electron 中文文档](https://wizardforcel.gitbooks.io/electron-doc/content) - WizardForcel
-*   [Electron 中文文档](https://www.w3cschool.cn/electronmanual) - W3Cschool
-
-### JavaScript / ExtJS
-
-*   [Ext4.1.0 中文文档](http://extjs-doc-cn.github.io/ext4api/)
-
-### JavaScript / jQuery
-
-*   [简单易懂的JQuery魔法](https://web.archive.org/web/20201127045453/http://www.nowamagic.net/librarys/books/contents/jquery) *(:card\_file\_box: archived)*
-*   [How to write jQuery plugin](http://i5ting.github.io/How-to-write-jQuery-plugin/build/jquery.plugin.html)
-
-### JavaScript / React.js
-
-*   [Learn React & Webpack by building the Hacker News front page (⭐410)](https://github.com/theJian/build-a-hn-front-page)
-*   [React-Bits 中文文档 (⭐593)](https://github.com/hateonion/react-bits-CN)
-*   [React webpack-cookbook (⭐277)](https://github.com/fakefish/react-webpack-cookbook)
-*   [React.js 入门教程](http://fraserxu.me/intro-to-react/)
-*   [React.js 中文文档](https://discountry.github.io/react/)
-
-### JavaScript / Vue.js
-
-*   [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
-
-### JavaScript / Zepto.js
-
-*   [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *(:card\_file\_box: archived)*
+*   [これからの並列計算のためのGPGPU連載講座 \[I\]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)), ([III](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)), ([V](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF)
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 

@@ -326,13 +326,26 @@
 
 *   [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 
-## [37. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [37. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / オープンソースエコシステム
+
+*   [オープンソースガイドライン](https://opensource.guide/ja/) - GitHub
+*   [オープンソースソフトウェアの育て方](https://producingoss.com/ja/) - Fogel Karl, 高木正弘(翻訳), Yoshinari Takaoka(翻訳)
+*   [これでできる！ はじめてのOSSフィードバックガイド ～ #駆け出しエンジニアと繋がりたい と言ってた私が野生のつよいエンジニアとつながるのに必要だったこと～ (⭐71)](https://github.com/oss-gate/first-feedback-guidebook) - OSS Gate, 結城洋志 / Piro
+
+### 0 - 言語非依存 / ガベージコレクション
+
+*   [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/\~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
+*   [徹底解剖「G1GC」実装編 (⭐323)](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
+
+## [38. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme) / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [@mattbierner](https://twitter.com/mattbierner) - VS Code Dev
 
-## [38. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [39. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Configuration
 
@@ -347,7 +360,7 @@
 
 *   [foojay.io](https://foojay.io)
 
-## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -361,7 +374,7 @@
 
 *   🚀 [Vite + React + Tailwind Starter (⭐192)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 
-## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -373,7 +386,7 @@
 
 *   [BlazorSize (⭐243)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 
-## [41. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [42. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -407,25 +420,25 @@
 
 *   [Podsync (⭐1k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [alestic/lambdash :fire::fire::fire: (⭐526)](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
 
-## [43. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [44. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Blogposts and opinions
 
 *   [SaltStack Overview](https://saidvandeklundert.net/2020-03-20-saltstack-overview/) - An excellent overview and introduction of Salt.
 
-## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [45. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Multiverse (⭐80)](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -436,7 +449,7 @@
 *   [vue-datagrid (⭐152)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 *   [vue3-qr-reader (⭐65)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 
-## [46. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [47. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Minifiers - HTML / Meetups
 
@@ -446,7 +459,7 @@
 
 *   [AtBuild (⭐28)](https://github.com/jarred-sumner/atbuild) - JavaScript code generation tool that lets you write JavaScript that outputs JavaScript. Good for unrolling loops and writing libraries that compile away the runtime
 
-## [47. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [48. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Components
 
@@ -456,23 +469,17 @@
 
 *   [Apache NetBeans](https://netbeans.apache.org/) - An IDE with support for PHP and HTML5.
 
-## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [49. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [HTPL Compiler (⭐9)](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
 
-## [49. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [50. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Functional Programming
 
 *   [returns (⭐2.5k)](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
-
-## [50. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Python / Symfony
-
-*   [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 
 ## [51. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2014
 
-4 awesome lists updated this week.
+3 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,13 +26,7 @@
 *   [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 *   [Google Scholar](http://scholar.google.com/citations?view_op=top_venues\&hl=en\&vq=eng) (choose a subcategory)
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Lisp / Zepto.js
-
-*   [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
-
-## [4. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
+## [3. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
 ### Services Engineering Reading List / Books
 

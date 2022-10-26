@@ -20,11 +20,11 @@
 
 *   [ShellSpec (⭐772)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
-## [3. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
-### Newsletters / Collection View Layout
+### Mobile / Angular
 
-*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
+*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 
 ## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 

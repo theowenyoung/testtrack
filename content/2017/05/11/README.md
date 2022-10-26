@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -140,12 +140,6 @@
 ### Libraries
 
 *   [tensorpack (⭐6.2k)](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
-
-## [7. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Ruby / Django
-
-*   [Sinatra](http://www.sinatrarb.com/intro-zh.html)
 
 ---
 

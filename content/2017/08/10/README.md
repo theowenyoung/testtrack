@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10, 2017
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,19 +19,7 @@
 
 *   [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### PHP / Zepto.js
-
-*   [Composer中文文档](http://docs.phpcomposer.com)
-*   [PHP标准规范中文版](https://psr.phphub.org)
-*   [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
-
-## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
-
-### Browser automation
-
-*   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
+## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
@@ -41,13 +29,17 @@
 
 *   [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+### Deprecated
+
+*   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
+
+## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Screencasts
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### File Carving / Other Resources
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07 - Aug 13, 2017
 
-38 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -149,19 +149,7 @@ Webpage: <http://www.26grados.com/>
 
 *   [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
 
-## [11. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### PHP / Zepto.js
-
-*   [Composer中文文档](http://docs.phpcomposer.com)
-*   [PHP标准规范中文版](https://psr.phphub.org)
-*   [Yii2中文文档](http://www.yiichina.com/doc/guide/2.0)
-
-## [12. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
-
-### Browser automation
-
-*   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
+## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -171,7 +159,11 @@ Webpage: <http://www.26grados.com/>
 
 *   [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 
-## [13. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+### Deprecated
+
+*   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
+
+## [12. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### File Carving / Other Resources
 
@@ -184,39 +176,39 @@ Webpage: <http://www.26grados.com/>
     and reading out PCAP files, including TLS streams using TLS Master Secrets
     (used in Cuckoo Sandbox).
 
-## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [Tossit (⭐61)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
-## [15. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [14. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Community / Official Resources
 
 *   [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 *   [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 
-## [16. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [15. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Peripherals / Opcodes
 
 *   [Mobile Game Boy Adapter](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
 *   [GB KISS LINK MODEM](http://nectaris.tg-16.com/GB-KISS-LINK-FAQ-hudson-gameboy-nectaris.html)
 
-## [17. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Development Utilities
 
 *   [Auto Cache Flush (⭐21)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
-## [18. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [17. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [11t (⭐86)](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
 
-## [19. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [18. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### Bash Learning Resources / [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS)   \[Free]
 
@@ -229,7 +221,7 @@ Webpage: <http://www.26grados.com/>
 
 *   [shellcheck (⭐30k)](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 
-## [20. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [19. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -245,7 +237,7 @@ Webpage: <http://www.26grados.com/>
 
 *   [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - JavaScript math snippets for movement.
 
-## [21. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
+## [20. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
 
 ### Background
 
@@ -268,19 +260,19 @@ Webpage: <http://www.26grados.com/>
 
 *   [Ledger + Emacs](https://www.youtube.com/watch?v=cjoCNRpLanY) - Introduction to using Ledger with Emacs.
 
-## [22. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [21. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### JSON Schema Tools
 
 *   [aptos (⭐145)](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 
-## [23. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [22. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Icons
 
 *   [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 
-## [24. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [23. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Game Development
 
@@ -291,7 +283,7 @@ Webpage: <http://www.26grados.com/>
 *   [Exoplayer (⭐20k)](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
     Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 
-## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Crystal / General-Purpose Machine Learning
 
@@ -301,7 +293,7 @@ Webpage: <http://www.26grados.com/>
 
 *   [PyTorch (⭐60k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
@@ -312,14 +304,14 @@ Webpage: <http://www.26grados.com/>
 
 *   [openlgtv.org.ru](http://openlgtv.org.ru) - A non-commercial project for legal reverse engineering and research on LG Television firmware. Seems a bit outdated but contains a lot of information.
 
-## [27. Tips](/content/git-tips/tips/week/README.md)
+## [26. Tips](/content/git-tips/tips/week/README.md)
 ## Push a new local branch to remote repository and track
 
 ```sh
 git push -u origin <branch_name>
 ```
 
-## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [27. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
@@ -329,13 +321,13 @@ git push -u origin <branch_name>
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Documentation / Runner
 
 *   [ESDoc (⭐2.7k)](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Device
 
@@ -349,7 +341,7 @@ git push -u origin <branch_name>
 
 *   [HHTabBarView (⭐132)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
-## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [30. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Graphics
 
@@ -363,7 +355,7 @@ git push -u origin <branch_name>
 
 *   [FOSSology](https://www.fossology.org/) - License compliance toolkit for software projects.
 
-## [32. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [31. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / YouTube Channels
 
@@ -378,7 +370,7 @@ git push -u origin <branch_name>
 *   [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 *   [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
 
-## [33. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [32. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
@@ -388,26 +380,26 @@ git push -u origin <branch_name>
 
 *   [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
 
-## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Symmetric encryption
 
 *   [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
 
-## [35. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [34. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
 *   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
 *   [flambo (⭐606)](https://github.com/yieldbot/flambo)
 
-## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### UI Automation
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
-## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [36. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
@@ -423,7 +415,7 @@ git push -u origin <branch_name>
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *   [awesome-d3d12 (⭐193)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 

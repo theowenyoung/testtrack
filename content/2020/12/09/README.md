@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
 
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [2. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### Bash / 理論計算機科学
+
+*   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
+
+## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Shopify Theme Lab (⭐622)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
-## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
@@ -30,37 +36,37 @@
 *   [Hexen: Beyond Heretic (⭐29)](https://github.com/OpenSourcedGames/Hexen) - Indirect sequel to Heretic.
     *   Original [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Education
 
 *   [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://linkedin.github.io/school-of-sre/)
 
-## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [6. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Tools / Custom Time Series
 
 *   [Instaclustr Minotaur (⭐5)](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-context-composition (⭐17)](https://github.com/AlbertBrand/vue-context-composition) - share state created with the composition API between components, similar to `useContext` from React Hooks
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [CamVox (⭐432)](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 
-## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Best Practices
 
 *   [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Databases
 
@@ -71,7 +77,7 @@
     *   [dokeysto (⭐11)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
         values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / SEO and SMO
 
@@ -81,19 +87,19 @@
 
 *   [Wagtail SVG (⭐29)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
 *   [javascript-algorithms (⭐153k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
-## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [13. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 
-## [13. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [14. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### Arch-based projects / Not Linux
 
@@ -103,7 +109,7 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 

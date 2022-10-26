@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16 - Sep 22, 2019
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -144,37 +144,162 @@
 
 *   [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
-## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [21. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / グラフィックスプログラミング
+
+*   [DirectX プログラミング](https://docs.microsoft.com/ja-jp/windows/uwp/gaming/directx-programming) - Microsoft Docs
+*   [はじめてのBlenderアドオン開発 (Blender 2.7版)](https://colorful-pico.net/introduction-to-addon-development-in-blender/2.7/) - nutti
+
+### 0 - 言語非依存 / セキュリティ
+
+*   [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+*   [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+*   [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+
+### 0 - 言語非依存 / 正規表現
+
+*   [.NET の正規表現](https://docs.microsoft.com/ja-jp/dotnet/standard/base-types/regular-expressions) - Microsoft Docs
+
+### AWK / 理論計算機科学
+
+*   [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach\&pcmd=open\&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf\&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
+
+### C / 理論計算機科学
+
+*   [お気楽Ｃ言語プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/clang.html) - 広井誠
+
+### C++ / 理論計算機科学
+
+*   [Google C++ スタイルガイド 日本語全訳](https://ttsuki.github.io/styleguide/cppguide.ja.html) - Benjy Weinberger, Craig Silverstein, Gregory Eitzmann, Mark Mentovai, Tashana Landray, ttsuki(翻訳)
+*   [お気楽Ｃ++プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/cpp.html) - 広井誠
+
+### Erlang / 理論計算機科学
+
+*   [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
+
+### Haskell / Spock Framework
+
+*   [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - id:ruicc
+*   [お気楽 Haskell プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/haskell.html) - 広井誠
+
+### iOS / Spock Framework
+
+*   [Cocoa Programming Tips 1001](https://web.archive.org/web/20170507034234/http://hmdt.jp/tips/cocoa/index.html) - 木下誠
+
+### JavaScript / Spock Framework
+
+*   [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
+
+### JavaScript / Node.js
+
+*   [Nodeビギナーズブック](https://www.nodebeginner.org/index-jp.html) - Manuel Kiessling, Yuki Kawashima(翻訳)
+
+### Julia / React
+
+*   [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
+
+### LaTeX / React
+
+*   [TeX入門 TeX Wiki](https://texwiki.texjp.org/?TeX%E5%85%A5%E9%96%80) - 奥村晴彦
+
+### Lua / React
+
+*   [Lua Programming](http://www.nct9.ne.jp/m_hiroi/light/lua.html) - 広井誠
+
+### Mercurial / React
+
+*   [Mercurial チュートリアル hginit.com の和訳](https://mmitou.hatenadiary.org/entry/20100501/1272680474) - Joel Spolsky, id:mmitou(翻訳)
+
+### OCaml / React
+
+*   [お気楽 OCaml プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/ocaml.html) - 広井誠
+
+### Perl / React
+
+*   [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
+*   [Perl 基礎文法最速マスター](https://tutorial.perlzemi.com/blog/20091226126425.html) - 木本裕紀
+*   [お気楽 Perl プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/perl.html) - 広井誠
+
+### PowerShell / Symfony
+
+*   [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
+
+### Prolog / Symfony
+
+*   [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/\~unemi/LispProlog/) - 畝見達夫
+
+### Python / Symfony
+
+*   [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
+*   [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - id:dplusplus
+
+### R / Flask
+
+*   [R 基本統計関数マニュアル](https://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
+*   [R 言語定義](https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
+*   [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
+
+### Ruby / Flask
+
+*   [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, 八田 昌三(翻訳), 安川 要平(翻訳)
+*   [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
+*   [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
+
+### Scheme / Flask
+
+*   [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠
+
+### Smalltalk / Flask
+
+*   [自由自在 Squeakプログラミング](https://swikis.ddo.jp/squeak/13) - 梅澤真史
+
+### Standard ML / Flask
+
+*   [お気楽 Standard ML of New Jersey 入門](http://www.nct9.ne.jp/m_hiroi/func/#sml) - 広井誠
+*   [プログラミング言語SML#解説](https://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
+*   [プログラミング言語Standard ML入門](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF)
+
+### Tcl/Tk / Flask
+
+*   [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
+
+### VBA / Angular
+
+*   [VBA基礎文法最速マスター](https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849) - id:nattou\_curry
+*   [Visual Basic for Applications (VBA) の言語リファレンス](https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference) - Microsoft Docs
+
+## [22. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Learning
 
 *   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## [22. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [23. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Reactive
 
 *   [CrossPlatformLiveData (⭐3)](https://github.com/jakdor/CrossPlatformLiveData) - Android LiveData inspired .NET implementation - lifecycle aware rx streams.
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
 *   [PID Loops and the Art of Keeping Systems Stable](https://www.youtube.com/watch?v=3AxSwCC7I4s)
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [A one-on-one chat app in Vue with CometChat (⭐5)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 
-## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [26. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
 *   [Wagtail-Lazyimages (⭐21)](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
 
-## [26. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [27. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -192,7 +317,7 @@
 
 
 
-## [27. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
@@ -206,7 +331,7 @@
 
 *   [Keycloak Terraform Provider (⭐417)](https://github.com/mrparkers/terraform-provider-keycloak)
 
-## [28. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [29. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -241,7 +366,7 @@
 
 *   [GitHub Action for Google Cloud Platform (GCP) (⭐206)](https://github.com/exelban/gcloud)
 
-## [29. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
+## [30. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
 
 ### Apps
 
@@ -278,7 +403,7 @@
 *   [IRC](https://wiki.splunk.com/Community:IRC) - Instructions for connecting to `#splunk` of Efnet.
 *   [Splunk Store](https://www.mylogocloud.com/splunk) - Order some Splunk Schwag you missed from a meetup or .conf.
 
-## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -292,13 +417,13 @@
 
 *   [Adeva](https://adevait.com) - An exclusive remote developers network. Adeva partners with companies to scale engineering teams on-demand.
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
 *   [Prequel (⭐1.4k)](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
 
-## [32. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [33. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### CMS & Blogs
 
@@ -317,7 +442,7 @@
 *   [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
 *   [Phalcon Blog](https://blog.phalcon.io/) - Phalcon Blog
 
-## [33. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [34. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### IoT / OS
 
@@ -327,7 +452,7 @@
 
 *   [BalenaCloud](https://www.balena.io/)
 
-## [34. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
+## [35. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
 ### Acronyms and Abbreviations
 
@@ -391,19 +516,19 @@
 *   [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 *   [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
 
-## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Reflection
 
 *   [magic\_get (⭐135)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
-## [36. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [37. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/\~rwh/papers/index.html)
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -413,7 +538,7 @@
 
 *   [Simple Diagrams](https://www.simplediagrams.com/) - A desktop app for creating hand-drawn-like, fast, clear sketches of problems, processes, workflows, ideas and more!
 
-## [38. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
+## [39. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
 ### General
 
@@ -451,7 +576,7 @@
 
 *   [TBA Node API (⭐0)](https://github.com/Team2537/tba-api-node) - A Node.js library for interacting with The Blue Alliance API.
 
-## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Key Value Store
 
@@ -465,19 +590,19 @@
 
 *   [NKVPhonePicker (⭐138)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
-## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [41. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Web / Other / unknown licence
 
 *   [yass (⭐17)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
-## [41. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [42. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
 
-## [42. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [43. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
@@ -487,13 +612,13 @@
 
 *   [intermix.io](https://intermix.io/) - Performance Monitoring for Amazon Redshift
 
-## [43. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [44. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Code Analysis and Linter
 
 *   [clj-kondo (⭐1.5k)](https://github.com/borkdude/clj-kondo)
 
-## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [45. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Code Analysis
 
@@ -504,7 +629,7 @@
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
     *   [wemake-python-styleguide (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 
-## [45. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [46. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### ACL 2019
 
@@ -513,7 +638,7 @@
 *   [SemEval-2019 Task 10: Math Question Answering](https://www.aclweb.org/anthology/S19-2153), Mark Hopkins, et al., ACL-W 2019, Jun 2019.
 *   [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761), Tom Kwiatkowski, et al., TACL 2019, Jan 2019.
 
-## [46. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [47. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 

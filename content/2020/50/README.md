@@ -319,31 +319,25 @@
 *   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐35)](https://github.com/ailisp/commonlisp-vscode/).
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
-## [9. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### Haskell
-
-*   [Haskell 趣学指南](https://learnyouahaskell.mno2.org)
-
-## [10. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [9. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Tutorials / Video Tutorials
 
 *   [Awesome Haskell Videos (⭐33)](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
 
-## [11. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [10. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Other
 
 *   [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [11. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utilities / Navigation Demos
 
 *   [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 
-## [13. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -365,31 +359,31 @@
 *   [reacty\_yew (⭐43)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
 *   [styled-yew (⭐25)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
-## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / I/O
 
 *   [Dynamium/EVCalc](https://github.com/Dynamium/EVCalc) - EVCalc is a calculation engine for mobile electric venicles (Electric scooters, electric unicycles, and so on) written in Kotlin.
 
-## [15. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [14. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Reference Projects
 
 *   [continuous-k6k8s (⭐12)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
-## [16. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Documentation
 
 *   [Log4brains (⭐630)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
-## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
 *   [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 
-## [18. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -399,13 +393,13 @@
 
 *   [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
 
-## [19. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [18. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Security
 
 *   [k9-cdk (⭐6)](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 
-## [20. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [19. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Community Resources
 
@@ -426,7 +420,7 @@
 *   [Getopts (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 *   [Fishtape (⭐310)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
@@ -444,36 +438,42 @@
 
 *   [nut.js (⭐1k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
-## [22. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [21. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [IconPark (⭐6.5k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 *   [Remix Icon (⭐4.9k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
 
-## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [23. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### QA and Testing Road Map / Useful References
 
 *   [How to start QA and Testing career (⭐1.2k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
-## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [PHP-ML](https://gitlab.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 
-## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [25. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### CSS / Angular
 
 *   [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
+
+## [26. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### Bash / 理論計算機科学
+
+*   [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, @yakstcom(翻訳)
 
 ## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 

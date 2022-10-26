@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03 - Oct 09, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -107,7 +107,7 @@
 
 The missing IntelliSense hint for GitHub and GitLab
 
-Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
+Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 ## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
@@ -357,14 +357,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [PVS-Studio](https://pvs-studio.com) :copyright: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees (⭐29)](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
 *   [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
-## [33. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### PHP / Laravel
-
-*   [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
-*   [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
-
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Books
 
@@ -378,7 +371,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **\[$]**
 *   [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4) - Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. **\[$]**
 
-## [35. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [34. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -390,7 +383,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [create-ipfs-app (⭐4)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 
-## [36. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Static site generation
 
@@ -454,19 +447,19 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [Outreachy website (⭐187)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
-## [37. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [36. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PHP / React
 
 *   [drupal/graphql](https://www.drupal.org/project/graphql) - Craft and expose a GraphQL schema for Drupal 8+.
 
-## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [einops (⭐5.8k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
-## [39. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Applications / Command-line
 
@@ -700,19 +693,19 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 *   [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY\&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
-## [40. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Store
 
 *   [AppReview (⭐18)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
-## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -734,19 +727,19 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [Shatur/neovim-tasks (⭐10)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
-## [43. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [42. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Principles
 
 *   [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
-## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Testing / Redux / ELM / Dependency Injection
 
 *   [Patrol (⭐188)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
-## [45. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [44. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Introducing people to data security and cryptography / Brief introductions
 
@@ -776,7 +769,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf) - The Oil and Vinegar signature scheme, proposed in 1997 by Patarin, is one of the oldest and best-understood multivariate quadratic signature schemes. It has excellent performance and signature sizes. This paper is about enhancing this algorithm in usage in the post-quantum era. [Official website](https://pqmayo.org/).
 
-## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -798,7 +791,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
 
-## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -820,7 +813,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [bufferapp/clean-architecture-components-boilerplate (⭐1.3k)](https://github.com/bufferapp/clean-architecture-components-boilerplate) - A clean architecture boilerplate using andorid architecture components for android written in Kotlin
 
-## [48. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [47. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Learning / Crash Courses
 
@@ -830,7 +823,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA\&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - A video course by Tim Roughgarden a Professor of Computer Science at Columbia University highlighting the fundamental principles, concepts and properties of Blockchain protocols.
 
-## [49. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [48. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events)   \_by   [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler)   🔥 [4.00] / [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride)     *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)*   \[4.2] :fire:
 
@@ -848,21 +841,21 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
 *   [The End](https://www.goodreads.com/book/show/65112.The_End)
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
 *   Flash Player
     *   [Ruffle (⭐11k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![Build Status Rust](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Rust?label=Rust%20Build\&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Rust)[![Build Status Web](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Web?label=Web%20Build\&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Web)
 
-## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Metascience / Science of Science
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 *   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
 
-## [52. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [51. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -882,7 +875,7 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 
 *   [appenv (⭐0)](https://github.com/TheMarlboroMan/appenv) - Small C++ library telling where the app data resides and where the user data is by using `readlink("/proc/self/exe")`), thus allowing C++ applications to become relocatable in the filesystem.
 
-## [53. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [52. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Books
 
@@ -939,13 +932,13 @@ Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
 *   [imgur-uploader-cli (⭐52)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.6k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
-## [54. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [53. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [STM32F4xx with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) A blog containing a series of tutorials demonstrating the use of several peripherals through simple examples leveraging the stm32f4xx-hal crate.
 
-## [55. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [54. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### MERN: Mongo Express React Node   [↗](https://awesomestacks.dev/mern-mongo-express-react-node) / Resources
 

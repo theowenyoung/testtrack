@@ -6,19 +6,31 @@
 
 
 
-## [1. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
+## [1. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
 
-### 操作系统
+### 0 - 言語非依存 / アクセシビリティ
 
-*   [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
+*   [アクセシビリティのための設計](https://msdn.microsoft.com/ja-jp/library/windows/apps/hh700407.aspx) - MSDN Library
 
-### Markdown / Zepto.js
+### C++ / 理論計算機科学
 
-*   [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
+*   [cpprefjp - C++ Reference Site in Japanese](https://cpprefjp.github.io)
 
-### Ruby / Django
+### LaTeX / React
 
-*   [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
+*   [TeX/LaTeX入門](https://ja.wikibooks.org/wiki/TeX/LaTeX%E5%85%A5%E9%96%80) - Wikibooks
+
+### Maven / React
+
+*   [What is Maven? (⭐45)](https://github.com/KengoTODA/what-is-maven) - Kengo TODA
+
+### Perl / React
+
+*   [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
+
+### Scheme / Flask
+
+*   [Scheme](https://ja.wikibooks.org/wiki/Scheme) - Wikibooks
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

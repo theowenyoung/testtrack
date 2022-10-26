@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 31, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,7 +76,13 @@
 *   [jcjc's Hack The World](https://jcjc-dev.com/)
 *   [Quarkslab](https://blog.quarkslab.com/)
 
-## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [5. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### C / 理論計算機科学
+
+*   [苦しんで覚えるＣ言語](https://9cguide.appspot.com) - MMGames/森口将憲
+
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Themes
 
@@ -90,7 +96,7 @@
 
 *   [keycloakmigration: Manage your Keycloak configuration with code (⭐87)](https://github.com/klg71/keycloakmigration)
 
-## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Encryption / Other / unknown licence
 
@@ -104,7 +110,7 @@
 
 *   [ghdl (⭐1.7k)](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 simulator.
 
-## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Community
 
@@ -117,7 +123,7 @@
 *   [webextensions-api-mock (⭐3)](https://github.com/stoically/webextensions-api-mock) - WebExtensions API as sinon stubs (includes TypeScript types).
 *   [webextensions-schema (⭐2)](https://github.com/stoically/webextensions-schema) - Programmatically consume the WebExtensions Schema JSON files.
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 

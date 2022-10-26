@@ -17,7 +17,7 @@
 
 The missing IntelliSense hint for GitHub and GitLab
 
-Installs: 4000 | Stars: 949 | Last update: 4 Feb 2022
+Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

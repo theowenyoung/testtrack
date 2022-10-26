@@ -126,4 +126,5 @@
 
 ---
 
+- Prev: [Oct 26, 2022](/content/2022/10/26/README.md)
 - Next: [Oct 24, 2022](/content/2022/10/24/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2015
 
-19 awesome lists updated this week.
+18 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,13 +88,7 @@
 
 *   [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 
-## [10. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 操作系统
-
-*   [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/\~remzi/OSTEP/)
-
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Visualization
 
@@ -136,7 +130,7 @@
 
 *   [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -147,19 +141,19 @@
 
 *   [cobertura\_cover (⭐11)](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 
-## [13. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [12. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [WordPress BEM Menu (⭐139)](https://github.com/roikles/Wordpress-Bem-Menu)
 
-## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [13. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Interpreter / Web
 
 *   [IronAHK (⭐389)](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -185,7 +179,7 @@
 
 *   [color\_coded (⭐862)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
-## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -217,7 +211,7 @@
 
 
 
-## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [16. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / CS Theory
 
@@ -227,7 +221,7 @@
     *   [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
     *   [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
-## [18. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -278,7 +272,7 @@
 
 *   [Docson (⭐481)](https://github.com/lbovet/docson) - Documentation for your types.
 
-## [19. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [18. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Collaborate / Working with a team? These links are for you.
 

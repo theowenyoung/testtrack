@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2014
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -112,12 +112,6 @@
 ### Shell Script Development / Directory Navigation
 
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Perl / Zepto.js
-
-*   [Perl 教程](http://www.yiibai.com/perl)
 
 ---
 

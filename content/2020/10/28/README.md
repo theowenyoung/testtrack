@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2020
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,7 +84,15 @@ Free (Open Source)
 
 *   [dotdotyew (⭐3)](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 
-## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [10. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### Clojure / 理論計算機科学
+
+*   [Clojureスタイルガイド (⭐68)](https://github.com/totakke/clojure-style-guide) - Bozhidar Batsov, Toshiki TAKEUCHI(翻訳)
+*   [Modern cljs(翻訳中) (⭐8)](https://github.com/TranslateBabelJapan/modern-cljs) - Mimmo Cosenza, @esehara(翻訳)
+*   [逆引きClojure (⭐6)](https://github.com/making/rd-clj) - Toshiaki Maki
+
+## [11. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -102,7 +110,7 @@ Free (Open Source)
 
 
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shells
 
@@ -112,7 +120,7 @@ Free (Open Source)
 
 *   [dstask (⭐657)](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task
 
-## [12. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [13. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -149,19 +157,19 @@ Free (Open Source)
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
 *   [RegRipper (⭐304)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Stellar Admin Boilerplate (⭐14)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 
-## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [15. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Articles & Blogs
 
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 
-## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -171,13 +179,13 @@ Free (Open Source)
 
 *   [Debugger Podcast](https://debuggerpodcast.ge/) - Podcast about development culture, technologies and career growth.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
 *   [MonarchRouter (⭐36)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 
-## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [18. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -275,25 +283,25 @@ Free (Open Source)
 
 
 
-## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [19. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Sensor and Acuator Interfaces
 
 *   [ros2\_ouster\_drivers (⭐89)](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 
-## [19. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [20. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 
-## [20. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   📖 [Firebase Tools UI (⭐206)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 
-## [21. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [22. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles Glimmer
 

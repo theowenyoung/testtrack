@@ -48,13 +48,23 @@
 *   [More SQL Parsing! (⭐169)](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 *   [sqlparse (⭐3k)](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
-## [3. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [3. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
+
+### 0 - 言語非依存 / ネットワーキング
+
+*   [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
+
+### TypeScript / Flask
+
+*   [サバイバルTypeScript](https://typescriptbook.jp) - YYTypeScript
+
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [SuperTokens](https://supertokens.io/) - Opensource and hosted email & Oauth authentication with prebuilt UI.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -66,25 +76,25 @@
 *   [CDR](https://cdr.common-lisp.dev/) - Common Lisp Document Repository. a repository of documents that are of interest to the Common Lisp community. The most important property of a CDR document is that it will never change: if you refer to it, you can be sure that your reference will always refer to exactly the same document.
     *   the Common Lisp Document Repository is hosted at [Zenodo](https://zenodo.org/communities/cdr/).
 
-## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [minimq](https://crates.io/crates/minimq): A minimal MQTT5 client designed for no\_std platforms - ![crates.io](https://img.shields.io/crates/v/minimq.svg)
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Learning / Crash Courses
 
 *   [Algorand School (⭐58)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
 
-## [7. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [8. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Verified Software
 
 *   [Jasmin (⭐114)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 
-## [8. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Security
 
@@ -94,7 +104,7 @@
 
 *   [Algorand (⭐98)](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
-## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [10. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -140,32 +150,32 @@
 *   [APKiD (⭐1.4k)](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 *   [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 
-## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
 *   [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - Stubs for [boto3 (⭐7.6k)](https://github.com/boto/boto3).
 *   [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - Stubs for [aiobotocore (⭐848)](https://github.com/aio-libs/aiobotocore).
 
-## [11. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [12. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Related
 
 *   [Analytics without cookies](https://www.gocookieless.com/)
 
-## [12. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [13. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [T3X](https://t3x.org/t3x/#t3x7) - A small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language by Nils M. Holm.
 
-## [13. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [14. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Tooling
 
 *   [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
 
-## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [15. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Languages and Environments
 
@@ -175,7 +185,7 @@
 
 *   [eslint-interactive (⭐113)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 
-## [15. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [16. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -185,7 +195,7 @@
 
 *   [Get started with JAX by Aleksa Gordić (⭐343)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
-## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -278,26 +288,26 @@
 
 *   [AnyCable](http://anycable.io) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
 
-## [17. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Kubernetes
 
 *   [Sealed Secrets (⭐5.5k)](https://github.com/bitnami-labs/sealed-secrets) - Kubernetes controller and tool for one-way encrypted Secrets.
 
-## [18. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [19. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Prisma Redis Middleware - cache queries in Redis (⭐140)](https://github.com/Asjas/prisma-redis-middleware)
 
-## [19. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [20. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [From Ops to SRE: Evolution of the OpenShift Dedicated Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
 *   [What SREs have to do with project-based services?](https://www.linkedin.com/pulse/what-sres-have-do-project-based-services-rod-anami/)
 
-## [20. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [21. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Books
 
@@ -516,20 +526,20 @@
 *   [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
 
-## [21. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [22. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Web Services
 
 *   [LexikJWTAuthenticationBundle (⭐2.3k)](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
 
-## [22. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [23. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [urban\_road\_filter (⭐170)](https://github.com/jkk-research/urban_road_filter) - Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles.
 *   [Removert (⭐322)](https://github.com/irapkaist/removert) - Remove then revert. Static map construction in the wild and dynamic points removing tool by constructing a static map.
 
-## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [24. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Project Layout
 
@@ -547,13 +557,13 @@
 
 *   [Confetti Framework](https://confetti-framework.github.io/docs/) - Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 
-## [24. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [25. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Mobile Games / Android
 
 *   [Pimple Popper (⭐22)](https://github.com/Crazy-Marvin/PimplePopper) - Game to pop pimples using the awesome Godot Engine.
 
-## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [26. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -566,7 +576,7 @@
 
 *   [tmux-modal (⭐91)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
@@ -577,33 +587,23 @@
 
 *   [gpanders/editorconfig.nvim (⭐218)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin for Neovim written in Fennel.
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
 *   [WordleBlazor (⭐1)](https://github.com/johnt84/WordleBlazorApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/WordleBlazorApp) Simple clone of popular Wordle game in Blazor. [Demo](https://wordleblazorapp.azurewebsites.net/).
 
-## [28. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [29. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [Hello triangle, (⭐42)](https://github.com/maierfelix/VK_KHR_ray_tracing) based on Vulkan Ray Tracing extensions. \[MIT]
 
-## [29. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [30. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.2+
 
 *   [Godot First Person Camera (⭐35)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
-
-## [30. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
-
-### 设计模式
-
-*   [深入设计模式](https://refactoringguru.cn/design-patterns)
-
-### JavaScript
-
-*   [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 
 ## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 

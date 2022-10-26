@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31 - Sep 06, 2020
 
-54 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -465,20 +465,26 @@
 
 *   [swaggerjmx (⭐89)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
-## [32. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [32. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+
+### Blog posts
+
+*   [theheadless.dev](https://theheadless.dev) - Blog with practical guides and runnable examples on Playwright and Puppeteer.
+
+## [33. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Applications
 
 *   [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
 *   [Sanvello](https://sanvello.com) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 
-## [33. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [34. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [ColorsWall](https://colorswall.com/) - Place to store your color Palettes and generate tool.
 
-## [34. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [35. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Examples
 
@@ -489,13 +495,13 @@
 *   🔓 [novapackages.com](https://novapackages.com) - [repository (⭐315)](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages.
 *   🔐 [pingping.io](https://pingping.io?ref=awesome-tall-stack) - Website uptime && SSL monitoring.
 
-## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Geolocation / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/owntracks/android) - A privacy-respecting mobile app that allows you to keep track of your own location.
 
-## [36. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [37. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Career / Presentations
 
@@ -513,7 +519,7 @@
 *   “This is what I loved about working at Netflix. We didn't have performance reviews. It was assumed that your performance was good to excellent, otherwise you wouldn't be working there anymore. You had a constant feedback loop with your manager on performance, but nothing was ever formal.” ([source](https://news.ycombinator.com/item?id=23861960)).
 *   “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
 
-## [37. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -523,26 +529,26 @@
 
 *   [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 
-## [38. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [39. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
 *   [Bank Git (⭐25)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
-## [39. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [40. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) - Addressing alert flapping and duplicates in Alertmanager by [Ali Sattari](https://github.com/ali-sattari).
 
-## [40. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [41. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
 *   [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -570,7 +576,7 @@
 
 *   [woopra.com](https://www.woopra.com/) — Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -580,26 +586,26 @@
 
 *   [salesforce/policy\_sentry :fire::fire::fire::fire: (⭐1.7k)](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
 
-## [43. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [44. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Videos
 
 *   [Data warehouse schema design - dimensional modeling and star schema](https://snir.dev/talks/data-warehouse-schema-design) - Introduction to schema design for data warehouse using the star schema method.
 
-## [44. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Search / Provided by the Host
 
 *   [Jets.js](https://jets.js.org/) - Native CSS search engine
 
-## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [Arale (⭐43)](https://github.com/supercomputra/Arale) - A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.
 *   [BetterSafariView (⭐371)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -629,7 +635,7 @@
 *   [vue-lazy (⭐4)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
 *   [vue-styled-shadows (⭐7)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 
-## [47. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Guides / Codelabs
 
@@ -670,14 +676,14 @@
 
 *   [Panel (⭐234)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
-## [48. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [49. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Python Libraries
 
 *   [bitcoin\_tools (⭐239)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway (⭐10)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
-## [49. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [50. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Frameworks
 
@@ -687,14 +693,13 @@
 
 *   [Unity Labs' Super Science (⭐607)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 
-## [50. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [51. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Guides
 
-*   [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright (and Puppeteer).
 *   [playwright.tech](https://playwright.tech) - A central home for tutorials, tooling, and showcases of the Playwright ecosystem.
 
-## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Machine Learning
 
@@ -708,7 +713,7 @@
 
 *   [canopen (⭐335)](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
 
-## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -726,7 +731,7 @@
 
 *   [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology, programming languages, conferences, Linux, Unix, iOS, MacOS, Python, Ruby, Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
-## [53. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Markdowns
 
@@ -748,7 +753,7 @@
 *   [MvvmBlazor (⭐181)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 *   [BracketShow.BlazorNavigationManagerExtensions (⭐6)](https://github.com/bracketshow/blazornavigationmanagerextensions) - ![last commit](https://img.shields.io/github/last-commit/bracketshow/blazornavigationmanagerextensions?style=flat-square\&cacheSeconds=86400) Simple set of extensions for the Navigation Manager to simplify its usage for things we are likely to do in most of our Blazor applications.
 
-## [54. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [55. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Algorithms and AI
 

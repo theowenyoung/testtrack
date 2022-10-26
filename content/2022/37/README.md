@@ -357,19 +357,23 @@
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [25. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [25. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### IDE and editors
+### 0 - 言語非依存 / IDE and editors
 
-*   [大家來學 VIM](http://www.study-area.org/tips/vim/index.html) - Edward Lee
-*   [所需即所获：像 IDE 一样使用 vim (⭐9.2k)](https://github.com/yangyangwithgnu/use_vim_as_ide) - yangyangwithgnu
-*   [exvim--vim 改良成IDE项目](http://exvim.github.io/docs-zh/intro/)
-*   [IntelliJ IDEA 简体中文专题教程 (⭐20k)](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - Judas.n
-*   [Vim中文文档 (⭐186)](https://github.com/vimcn/vimcdoc) - Vim 中文计划, Yian Willis
+*   [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
+*   [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
+*   [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, vimdoc-ja プロジェクト(翻訳)
 
-### Android
+### Lisp / React
 
-*   [Point-of-Android (⭐1.6k)](https://github.com/FX-Max/Point-of-Android)
+*   [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
+*   [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
+*   [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/\~ring/doc/elisp_20/elisp.html)
+*   [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) - Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
+*   [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/\~unemi/LispProlog) - 畝見達夫
+*   [On Lisp (草稿)](http://www.asahi-net.or.jp/\~kc7k-nd) - Paul Graham, 野田開(翻訳)
+*   [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl) - λ組
 
 ## [26. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 

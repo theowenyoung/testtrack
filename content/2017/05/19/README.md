@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2017
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,25 +80,19 @@
 
 *   [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
 
-## [8. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Python / Symfony
-
-*   [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Python / Scala
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
 
-## [10. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Localization
 
 *   [sl\_SI (⭐10)](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 
-## [11. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [10. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Dialog Agents, Assistants, and Chatbots / Constituency Parsing
 
@@ -107,7 +101,7 @@
 *   [lita (⭐1.7k)](https://github.com/litaio/lita) -
     Highly extensible chat operation bot framework written with persistent storage on [Redis](https://redis.io/).
 
-## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Community / Other
 

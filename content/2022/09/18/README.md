@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18, 2022
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -107,31 +107,25 @@
 *   [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries
 *   [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search
 
-## [3. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### Android
-
-*   [Point-of-Android (⭐1.6k)](https://github.com/FX-Max/Point-of-Android)
-
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
 *   [anuvyklack/animation.nvim (⭐10)](https://github.com/anuvyklack/animation.nvim) - Create animations in Neovim.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
 *   [SystemTextJson.JsonDiffPatch (⭐35)](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
 *   [WayScript](https://www.wayscript.com)- WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp/) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time.  Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).
 
-## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Cloud and storage
 

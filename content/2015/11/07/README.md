@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07, 2015
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,46 +57,6 @@
 *   [Paper.js (⭐13k)](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 *   [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 *   [Sketch (⭐4k)](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
-
-## [6. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/README.md)
-
-### 操作系统
-
-*   [Linux工具快速教程 (⭐5.2k)](https://github.com/me115/linuxtools_rst)
-
-### C++
-
-*   [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-*   [CGDB中文手册 (⭐241)](https://github.com/leeyiw/cgdb-manual-in-chinese)
-*   [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
-
-### Android
-
-*   [Android开发技术前线(android-tech-frontier) (⭐10k)](https://github.com/bboyfeiyu/android-tech-frontier)
-
-### Golang
-
-*   [Go 语言标准库 (⭐8.9k)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
-*   [Go语言博客实践 (⭐384)](https://github.com/achun/Go-Blog-In-Action)
-
-### iOS
-
-*   [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
-*   [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
-
-### Java
-
-*   [Apache Shiro 用户指南 (⭐471)](https://github.com/waylau/apache-shiro-1.2.x-reference)
-*   [Jersey 2.x 用户指南 (⭐242)](https://github.com/waylau/Jersey-2.x-User-Guide)
-*   [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
-*   [Netty 4.x 用户指南 (⭐2.2k)](https://github.com/waylau/netty-4-user-guide)
-*   [Netty 实战(精髓) (⭐1.5k)](https://github.com/waylau/essential-netty-in-action)
-*   [REST 实战 (⭐471)](https://github.com/waylau/rest-in-action)
-
-### JavaScript
-
-*   [javascript 的 12 个怪癖 (⭐261)](https://github.com/justjavac/12-javascript-quirks)
-*   [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 ---
 

@@ -1183,46 +1183,24 @@
 
 *   [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/) - September 14, 2021 - .NET 6 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [41. Free Programming Books (Chinese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-zh/week/README.md)
+## [41. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 
-### JavaScript / AngularJS
+### 0 - 言語非依存 / コンテナ
 
-*   [构建自己的AngularJS (⭐396)](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md) - Xu Fei (HTML)
-*   [在Windows环境下用Yeoman构建AngularJS项目](http://www.waylau.com/build-angularjs-app-with-yeoman-in-windows/) - Way Lau (HTML)
-*   [AngularJS入门教程 (⭐578)](https://github.com/zensh/AngularjsTutorial_cn) - Yan Qing, Hou Zhenyu, 速冻沙漠 (HTML) (:card\_file\_box: *archived*)
+*   [Docker-docs-ja](https://docs.docker.jp) - Docker Docs Translation Ja-Jp Project
 
-### JavaScript / Node.js
+### 0 - 言語非依存 / セキュリティ
 
-*   [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/) - 阿里团队
-*   [使用 Express + MongoDB 搭建多人博客 (⭐15k)](https://github.com/nswbmw/N-blog)
-*   [express.js 中文文档](http://expressjs.jser.us)
-*   [Express框架](http://javascript.ruanyifeng.com/nodejs/express.html)
-*   [koa 中文文档 (⭐2.7k)](https://github.com/guo-yu/koa-guide)
-*   [Learn You The Node.js For Much Win! (中文版)](https://www.npmjs.com/package/learnyounode-zh-cn)
-*   [Node debug 三法三例](http://i5ting.github.io/node-debug-tutorial/)
-*   [Node.js 包教不包会 (⭐16k)](https://github.com/alsotang/node-lessons)
-*   [Node.js Fullstack《從零到一的進撃》 (⭐313)](https://github.com/jollen/nodejs-fullstack-lessons)
-*   [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-*   [Nodejs Wiki Book (⭐413)](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-*   [nodejs中文文档](https://www.gitbook.com/book/0532/nodejs/details)
-*   [The NodeJS 中文文档](https://www.gitbook.com/book/0532/nodejs/details) - 社区翻译
+*   [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programming) - 塩田英二 ([PDF](https://www.ipa.go.jp/files/000059838.pdf))
 
-### TypeScript / Django
+### JavaScript / React
 
-*   [TypeScript 教程](https://www.runoob.com/typescript/ts-tutorial.html) - runoob (HTML)
-*   [TypeScript 入门教程](https://www.runoob.com/w3cnote/getting-started-with-typescript.html) - runoob (HTML)
-*   [TypeScript 中文网](https://www.tslang.cn) (HTML)
-*   [TypeScript Deep Dive 中文版 (⭐5.8k)](https://github.com/jkchao/typescript-book-chinese) - 三毛 (HTML)
-*   [TypeScript Handbook（中文版）](https://www.runoob.com/manual/gitbook/TypeScript/_book/) - Patrick Zhong (HTML)
+*   [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
 
 ### TypeScript / Angular
 
-*   [Angular 文档简介](https://angular.cn/docs) - Wang Zhicheng, Ye Zhimin, Yang Lin et al. (HTML)
-
-### TypeScript / Deno
-
-*   [Deno 钻研之术](https://deno-tutorial.js.org)
-*   [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
+*   [Angular Docs](https://angular.jp/docs)
+*   [Angular Tutorial](https://angular.jp/tutorial)
 
 ## [42. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 

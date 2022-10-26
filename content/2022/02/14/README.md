@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 14, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,7 +90,13 @@
 *   [PowerShell Autoruns (⭐173)](https://github.com/p0w3rsh3ll/AutoRuns) - A PowerShell version of Autoruns.
 *   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐386)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [5. Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/README.md)
+
+### 0 - 言語非依存 / コンテナ
+
+*   [チュートリアル | Kubernetes](https://kubernetes.io/ja/docs/tutorials) - The Kubernetes Authors
+
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
@@ -134,19 +140,19 @@
 
 *   [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### NYU / Commonsense Knowledgebase
 
 *   [Ernest Davis](https://cs.nyu.edu/\~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
 *   [Skia (⭐6.9k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
@@ -171,14 +177,14 @@
 *   [ebpfkit-monitor (⭐78)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
 *   [Bad BPF (⭐274)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
 
-## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Publications / Books
 
 *   [The Networknomicon, or SNMP Mastery by Abdul Alhazred and Michael W. Lucas](https://mwl.io/nonfiction/networking#networknomicon) - The Simple Network Management Protocol, SNMP, empowers you to invoke ancient standards from the void. SNMP exposes the secrets of your network and servers, and--if you're careless--reconfigures them into unspeakable nightmares. It exposes your inadequate brain to the vast alien dimensions underlying modern computing.
 *   [SNMP Mastery by Michael W. Lucas](https://mwl.io/nonfiction/networking#snmp) - SNMP, Simple Network Management Protocol, Four lies in one acronym?
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -194,7 +200,7 @@
 
 
 
-## [11. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [12. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Binary Serialization
 
