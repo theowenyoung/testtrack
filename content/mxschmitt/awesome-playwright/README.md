@@ -8,6 +8,12 @@ A curated list of awesome tools, utils and projects using Playwright
 
 
 
+## [Oct 26, 2022](/content/2022/10/26/README.md)
+
+### Language Support
+
+*   [playwright-go (⭐992)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
+
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 
 ### Reporters
@@ -96,7 +102,6 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
 *   [playwright-python (⭐7k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 *   [playwright-java (⭐583)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
-*   [playwright-go (⭐985)](https://github.com/mxschmitt/playwright-go) - Playwright port for Golang.
 
 ## [Aug 24, 2020](/content/2020/08/24/README.md)
 

@@ -369,7 +369,6 @@
 *   [playwright](https://git.io/JT2bj) - Official Playwright in Node.js (JavaScript and TypeScript).
 *   [playwright-python (⭐7k)](https://github.com/microsoft/playwright-python) - Official Playwright port to Python.
 *   [playwright-java (⭐583)](https://github.com/microsoft/playwright-java) - Official Playwright port to Java.
-*   [playwright-go (⭐985)](https://github.com/mxschmitt/playwright-go) - Playwright port for Golang.
 
 ## [21. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 

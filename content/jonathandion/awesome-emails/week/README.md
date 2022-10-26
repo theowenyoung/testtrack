@@ -8,6 +8,12 @@
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Frameworks
+
+*   [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
+
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
 ### Workflows
