@@ -8,6 +8,12 @@ A list of awesome Symfony bundles, utilities and resources.
 
 
 
+## [Oct 26, 2022](/content/2022/10/26/README.md)
+
+### Administration
+
+*   [TablerBundle (⭐13)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
+
 ## [Jun 29, 2022](/content/2022/06/29/README.md)
 
 ### Recipes

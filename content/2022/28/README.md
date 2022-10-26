@@ -1116,7 +1116,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 ### ORMs
 
 *   👍 [mito (⭐230)](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL](http://opensource.franz.com/preamble.html).
-    \*[mitho-auth (⭐16)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
+    *   [mitho-auth (⭐16)](https://github.com/fukamachi/mito-auth), a mixin class for use authorization
     *   [mito-attachment (⭐9)](https://github.com/fukamachi/mito-attachment), a mixin class for file management outside of RDBMS.
 
 ### Persistent object databases

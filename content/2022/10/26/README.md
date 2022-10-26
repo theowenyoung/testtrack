@@ -1,12 +1,34 @@
 # Awesome List Updates on Oct 26, 2022
 
-1 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [1. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+
+### Examples
+
+*   [ankitwasankar/mftool-java (⭐6)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
+
+## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+
+### Apps / Modeladmin
+
+*   [wagtail-rangefilter (⭐2)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
+
+### Tools / Templates & Starter Kits
+
+*   [cookiecutter-wagtail-package (⭐10)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
+
+## [3. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+
+### Administration
+
+*   [TablerBundle (⭐13)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
+
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Ruby / Angular
 

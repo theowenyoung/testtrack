@@ -8,6 +8,12 @@ A curated list of awesome READMEs
 
 
 
+## [Oct 26, 2022](/content/2022/10/26/README.md)
+
+### Examples
+
+*   [ankitwasankar/mftool-java (⭐6)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
+
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
 ### Examples

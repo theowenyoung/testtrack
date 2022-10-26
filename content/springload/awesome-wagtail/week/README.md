@@ -8,6 +8,16 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Apps / Modeladmin
+
+*   [wagtail-rangefilter (⭐2)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
+
+### Tools / Templates & Starter Kits
+
+*   [cookiecutter-wagtail-package (⭐10)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Apps / Blogging/news
