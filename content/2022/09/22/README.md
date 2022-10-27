@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 22, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,25 +40,51 @@
     *   [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
     *   [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Database connectors
+
+*   [djongo (⭐1.6k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
+
+### Resources / Books
+
+*   [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Divio](https://www.divio.com/)
+*   [Fly](https://fly.io)
+*   [Google Cloud](https://cloud.google.com/python/django/)
+*   [Heroku](https://www.heroku.com/)
+*   [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
+*   [Platform.sh](https://platform.sh/)
+*   [PythonAnywhere](https://www.pythonanywhere.com)
+*   [Railway](https://railway.app/)
+*   [Vercel](https://vercel.com/home)
+
+### Projects / Boilerplate
+
+*   [django-startproject (⭐76)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [justwrote/kjob (⭐53)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
 *   [log (⭐13)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [alp (⭐0)](https://github.com/zrut747/alp/) - A simple theme with decorations for current directory, root status, username and host.
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Health and Social Science
 
@@ -74,7 +100,7 @@
 
 *   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -82,7 +108,7 @@
 *   [Th3Whit3Wolf/onebuddy (⭐89)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
 *   [ofirgall/ofirkai.nvim (⭐26)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 
-## [9. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [10. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Editors / LaTeX
 
@@ -93,11 +119,21 @@
 
 *   [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home): Shipped with standard LaTeX installations. A lot of themes has been invented. Start editing with one click on [Overleaf](https://www.overleaf.com/)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
 *   [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
+
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue-vite-tw-ts (⭐4)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
+
+### Open Source / Community
+
+*   [Vituum (⭐67)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ---
 

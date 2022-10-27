@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -83,13 +83,60 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [RxJava (⭐47k)](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
-## [7. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Django
+
+- Name: [Django-CMS (⭐8.9k)](https://github.com/divio/django-cms)
+
+  Description: Easy to use and developer friendly CMS
+
+  Link: <http://www.django-cms.org>
+
+
+- Name: [Django-fiber (⭐665)](https://github.com/ridethepony/django-fiber)
+
+  Description: A simple, user-friendly CMS for all your Django projects
+
+  Link: <http://ridethepony.org>
+
+
+- Name: [Feincms (⭐842)](https://github.com/feincms/feincms)
+
+  Description: A Django-based CMS with a focus on extensibility and concise code
+
+  Link: <http://www.feincms.org>
+
+
+- Name: [Mezzanine (⭐4.5k)](https://github.com/stephenmcd/mezzanine)
+
+  Description: CMS framework for Django
+
+  Link: <http://mezzanine.jupo.org>
+
+
+- Name: [Wagtail (⭐13k)](https://github.com/torchbox/wagtail)
+
+  Description: A Django content management system focused on flexibility and user experience
+
+  Link: <http://wagtail.io>
+
+
+- Name: [Django-leonardo (⭐96)](https://github.com/django-leonardo/django-leonardo)
+
+  Description: CMS for everyone, easy to deploy and scale, robust modular system with many packages
+
+  Link: <https://www.leonardo-cms.org>
+
+
+
+## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Reproducible Research
 
 *   [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Unofficial
 

@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 23, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Phone Number Research / Telegram
+
+*   [EmobileTracker.com](https://www.emobiletracker.com/)
+
+## [2. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
 ### Books and Papers
 
@@ -31,7 +37,7 @@
 *   [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
 *   [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 
-## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [mzpm](https://github.com/Insert-Creative-Name-Here/mzpm)
 
@@ -39,7 +45,7 @@
 *   Loading local plugins
 *   Loading themes
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Groupware
 
@@ -53,7 +59,7 @@
 
 *   `LIL-1.0` - [The Lil License v1](https://www.lillicense.org/v1.html)
 
-## [4. Magictools](/content/ellisonleao/magictools/README.md)
+## [5. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Spritesheet Tools
 
@@ -69,19 +75,19 @@
 *   :tada: [OpenXRay (⭐2.1k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 *   :tada: [Pixel Vision 8 (⭐1.4k)](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 
-## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Companies and Cooperatives / Reddit
 
 *   [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
 
-## [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [8. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 
@@ -105,21 +111,21 @@
 *   [Oauth2 (⭐161)](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
 *   [Video player (⭐68)](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 
-## [8. Awesome Slim](/content/nekofar/awesome-slim/README.md)
+## [9. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
 ### Educational
 
 *   [User Guide](https://www.slimframework.com/docs/v4/) - The official documentation for Slim Framework.
 *   [Discussion Forum](https://discourse.slimframework.com) - The official Slim Framework discussion forum.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Competitive Programming / Diagnostics
 
 *   [p00f/cphelper.nvim (⭐65)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
 *   [xeluxee/competitest.nvim (⭐101)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
-## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [11. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Citizen Automation and Development Platform
 
@@ -137,7 +143,7 @@
 
 *   [Awesome No Code Low Code (⭐130)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
@@ -147,13 +153,13 @@
 
 *   [Gatling (⭐41)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
 *   [Glicol (⭐1.1k)](https://github.com/chaosprint/glicol) — Graph-oriented live coding language written in Rust for collaborative musicking in browsers.
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
@@ -184,7 +190,7 @@
 
 *   [babel-minify (⭐4.3k)](https://github.com/babel/minify) - ES2015+ aware minifier based on the Babel toolchain.
 
-## [14. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [15. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 

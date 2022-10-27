@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,25 +38,31 @@
 *   Twitter [Flutter Berlin](https://twitter.com/flutterBerlin) - [Düsseldorf](https://twitter.com/flutter_school) - [Munich](https://twitter.com/FlutterMunich)
 *   LinkedIn [Munich](https://www.linkedin.com/company/Flutter-Munich)
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Forms
+
+*   [django-formtools (⭐603)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Exits / Burnout
 
 *   [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
 *   [flow (⭐1.3k)](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage.
 
-## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
 *   [Woke (⭐23)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
@@ -84,26 +90,26 @@
 
 *   [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / CSS
 
 *   [BlazorAnimation (⭐55)](https://github.com/aboudoux/BlazorAnimation) - ![stars](https://img.shields.io/github/stars/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aboudoux/BlazorAnimation?style=flat-square\&cacheSeconds=86400) A Blazor component based on animate.css to easly animate your content. [Demo](http://blazoranimation.boudoux.fr/).
 
-## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
 *   💡 [Express Server on Cloud Functions (⭐625)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) - Host an Express server on Cloud Functions.
 *   💡 [Compiled Code with Cloud Functions (⭐625)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 
-## [12. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [IPGit (⭐57)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 
-## [13. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [14. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 

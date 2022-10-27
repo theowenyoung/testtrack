@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,13 @@
 
 *   [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / Anime
+
+*   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
+
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 

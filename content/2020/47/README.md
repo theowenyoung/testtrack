@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23 - Nov 29, 2020
 
-55 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -87,103 +87,122 @@
 
 *   [JetBrains/space-kotlin-sdk (⭐44)](https://github.com/JetBrains/space-kotlin-sdk) - Kotlin client for JetBrains Space HTTP API
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [10. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Learning / Books
+
+*   [Communicating Pictures](https://www.elsevier.com/books/communicating-pictures/bull/978-0-12-405906-1)  - 2014-06-20 (1st Edition). Bull, David.
+*   [Data Broadcasting: Understanding the ATSC Data Broadcast Standard](https://www.amazon.com/dp/0071375902/)  - 2001-04-16 (1st Edition). Chernock, Richard; Crinon, Regis; Mick, John.
+*   [Digital Television: MPEG-1, MPEG-2 and Principles of the DVB System](https://www.amazon.com/dp/0340691905/)  - 1997-07-11. Benoit, Herve.
+*   [Digital Television: Technology and Standards](https://www.amazon.com/dp/0470147830/)  - 2007-09-17. Arnold, John; Frater, Michael; Pickering, Mark.
+*   [Digital Video and HD: Algorithms and Interfaces](https://www.amazon.com/dp/0123919266/)  - 2012-02-07 (2nd Edition). Poynton, Charles.
+*   [High Efficiency Video Coding (HEVC): Algorithms and Architectures (Integrated Circuits and Systems)](https://www.amazon.com/gp/product/3319068946/)  - 2014-09-03. Budagavi, Madhukar; Sze, Vivienne; Sullivan, Gary.
+*   [High Efficiency Video Coding: Coding Tools and Specification (Signals and Communication Technology)](https://www.amazon.com/gp/product/3662442752/)  - 2014-10-08. Wien, Mathias.
+*   [Introduction to Digital Audio Coding and Standards](https://www.amazon.com/dp/1402073577/)  - 2002-12-31. Bosi, Marina; Goldberg, Richard.
+*   [Producing Streaming Video for Multiple Screen Delivery](https://www.amazon.com/gp/product/0976259540/)  - 2013-04-01. Ozer, Jan.
+*   [The MPEG Handbook](https://www.amazon.com/dp/024080578X/)  - 2004-11-15 (2nd Edition). Watkinson, John.
+*   [The MPEG-4 Book](https://www.amazon.com/MPEG-4-Book-Fernando-Pereira/dp/0130616214/)  - 2002-07-20. Ebrahimi, Touradj; Pereira, Fernando.
+*   [Transporting Compressed Digital Video](https://www.amazon.com/dp/140207011X/)  - 2002-03-31. Chen, Xuemin.
+*   [Video Compression Handbook](https://www.amazon.com/dp/0134866215/)  - 2018-07-03 (2nd Edition). Beach, Andy; Owen, Aaron.
+*   [Video Encoding by the Numbers: Eliminate the Guesswork from your Streaming Video](https://www.amazon.com/Video-Encoding-Numbers-Eliminate-Guesswork/dp/0998453005/)  - 2016-12-28. Ozer, Jan.
+
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Graviton Editor (⭐932)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
-## [11. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [12. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Introduction
 
 *   [Fintech and big tech credit: a new database](https://www.bis.org/publ/work887.pdf) - This Working Paper by the Bank of International Settlements, while not as focused on credit risk, maps the conditions for and niches occupied by alternative credit, be it provided by fintechs or big tech companies.
 
-## [12. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
 *   [TR19: Automotive Penetration Testing with Scapy](https://www.youtube.com/watch?v=7D7uNqPWrXw) - Overview on how Scapy can be used for automotive penetration testing at Troopers Conference 2019.
 
-## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### High Performance
 
 *   [cpp11 (⭐172)](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.
 
-## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [15. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Realtime applications
 
 *   [Jupylet (⭐173)](https://github.com/nir/jupylet) [:octocat: (⭐173)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 
-## [15. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Decentralized Systems
 
 *   [Substrate (⭐581)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
-## [16. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [17. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Frameworks / Navigation Demos
 
 *   [OsmiCSX ★48 (⭐208)](https://github.com/OsmiCSX/osmicsx) - An utility React Native style framework for rapidly building custom user interfaces.
 
-## [17. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [18. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Source Generators
 
 *   [Generator.Equals (⭐58)](https://github.com/diegofrata/Generator.Equals) - Automatically implements equality and hashing for classes and records. Supports different comparison strategies. Offers similar functionality like IL weaving-based [Equals.Fody (⭐107)](https://github.com/Fody/Equals).
 
-## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [19. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [The Art of Network Penetration Testing](https://www.manning.com/books/the-art-of-network-penetration-testing) - Book that is a hands-on guide to running your own penetration test on an enterprise network. (early access, published continuously, final release December 2020)
 
-## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
 *   [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Explore the classes available in your project's Tailwind CSS setup.
 
-## [20. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [21. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   [Designing Games: A Guide to Engineering Experiences](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937)
 
-## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Trash (⭐25)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
 
-## [22. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
 
 *   [How to begin with the Amazon Timestream](https://itnext.io/how-to-begin-with-the-amazon-timestream-in-5-simple-steps-19c129040d9c/) - A step-by-step guide to AWS Timestream - a time series database to collect IoT data over-time.
 
-## [23. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [24. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Pipelines
 
 *   **[Bactopia (⭐197)](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. \[ [web](https://bactopia.github.io/) ]
 
-## [24. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [25. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) by [Ashley Davis](https://twitter.com/ashleydavis75)
 
-## [25. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [26. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / E-commerce
 
 *   [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 
-## [26. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [27. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Deployment and Operation
 
@@ -193,20 +212,20 @@
 
 *   [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf)
 
-## [27. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Books
 
 *   [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
-## [28. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [29. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
 *   [Qualcomm Adreno GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools) - samples, Adreno recommendation layer, best practice docs for Adreno GPU.
 *   [Qualcomm Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler) - includes Vulkan traces and frame captures for Adreno GPU.
 
-## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -303,7 +322,7 @@
 
 
 
-## [30. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [31. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Composer
 
@@ -316,7 +335,7 @@
 *   [Composer-Symlinker (⭐18)](https://github.com/e-picas/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
 *   [Composer-Compile-Plugin (⭐11)](https://github.com/civicrm/composer-compile-plugin) - Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.
 
-## [31. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [32. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -327,7 +346,7 @@
 *   [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
 *   [gammastep](https://gitlab.com/chinstrap/gammastep) - Linux tool to adjust the color temperature of your screen to your surroundings.
 
-## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Effect
 
@@ -337,25 +356,25 @@
 
 *   [Graphic (⭐794)](https://github.com/entronad/graphic) <!--stargazers:entronad/graphic--> - Data visualization library based on the Grammar of Graphics by [LIN Chen](https://github.com/entronad)
 
-## [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [34. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Insights / Podcasts
 
 *   [Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement](https://realtalkjavascript.simplecast.com/episodes/episode-101-back-to-basics-with-native-html-and-litelement)
 
-## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [35. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
 *   [PyTorch Geometric Temporal (⭐1.8k)](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - a temporal extension library for PyTorch Geometric .
 
-## [35. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [36. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDDSample (⭐4.2k)](https://github.com/citerus/dddsample-core) - Sample DDD project using Spring Boot (originally hosted in <http://dddsample.sourceforge.net/>)
 
-## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [37. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Driver layer
 
@@ -365,7 +384,13 @@
 
 *   [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 
-## [37. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Phone Number Research / Telegram
+
+*   [PhoneInfoga (⭐7.7k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+
+## [39. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
@@ -387,13 +412,13 @@
 
 *   [Glue (⭐1)](https://github.com/vinscom/glue) - Proven and opinionated programming, and configuration model for Java and Vert.x based applications. Inspired from ATG Nucleus, provides powerful layer base configuration management using simple properties file.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Articles
 
 *   [CppCon 2020 Presentation Materials (⭐1.6k)](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
 
-## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### APM
 
@@ -419,19 +444,19 @@
 
 *   [NetBeans (⭐45)](https://github.com/junichi11/cakephp3-netbeans) -  This package provides support for CakePHP in NetBeans 8.1+.
 
-## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [apex/apex  (⭐23)](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 
-## [41. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [43. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Endpoints
 
 *   [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code (⭐3.3k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -468,13 +493,13 @@
 
 *   [FaunaDB](https://fauna.com/) — Serverless cloud database, with native GraphQL, multi-model access and daily free tiers up to 100 MB
 
-## [43. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [45. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-bitwarden (⭐19)](https://github.com/Alkindi42/tmux-bitwarden) Access your Bitwarden login items in a tmux pane.
 
-## [44. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [46. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Code and Run
 
@@ -496,13 +521,13 @@
 
 *   [blickfeld-scanner-lib (⭐15)](https://github.com/Blickfeld/blickfeld-scanner-lib) - Cross-platform library to communicate with LiDAR devices of the Blickfeld GmbH.
 
-## [45. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [47. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
 *   [Faker (⭐2.6k)](https://github.com/fakerphp/faker) - A fake data generator library.
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -515,13 +540,13 @@
 *   [vue-svg-sprite (⭐60)](https://github.com/thierrymichel/vue-svg-sprite) - A plugin, component or directive to simply use SVG sprite (vue 3.x, vue 2.x).
 *   [v-visible (⭐2)](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element.
 
-## [47. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [49. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
 *   [Beatrix (⭐28)](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 
-## [48. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### CMS
 
@@ -539,31 +564,31 @@
 *   [BlazorRouter (⭐44)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
 *   [DataJuggler.Blazor.FileUpload (⭐22)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
-## [49. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [51. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
 *   [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
 
-## [50. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [52. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Image Optimizers / Meetups
 
 *   [Optimizt (⭐785)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
 
-## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [53. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Domain-specific language
 
 *   [absinthe\_gen (⭐27)](https://github.com/sashman/absinthe_gen) - Scaffold generator for Absithne.
 
-## [52. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [54. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### :sparkles: Tutorials
 
 *   [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
 
-## [53. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [55. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -584,7 +609,7 @@
 
 *   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
-## [54. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [56. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -643,7 +668,7 @@
 *   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
 *   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
-## [55. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [57. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 

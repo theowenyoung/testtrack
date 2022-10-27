@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,6 +102,199 @@
 *   [Backbone-tastypie (⭐471)](https://github.com/PaulUithol/backbone-tastypie)
 *   [Backbone.Radio (⭐494)](https://github.com/marionettejs/backbone.radio)
 *   [Backbone.BabySitter (⭐380)](https://github.com/marionettejs/backbone.babysitter)
+
+## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [PyroCMS (⭐3.1k)](https://github.com/pyrocms/pyrocms)
+
+  Description: PHP CMS
+
+  Link: <https://www.pyrocms.com>
+
+
+- Name: [WardRobeCMS (⭐16)](https://github.com/wardrobecms/wardrobe)
+
+  Description: A minimal blogging application
+
+  Link: <http://wardrobecms.com>
+
+
+- Name: [MicroweberCMS (⭐2.5k)](https://github.com/microweber/microweber)
+
+  Description: Drag and Drop CMS and online shop
+
+  Link: <https://microweber.com>
+
+
+- Name: [TypiCMS (⭐1.1k)](https://github.com/TypiCMS/Base)
+
+  Description: Multilingual and modular CMS built with Laravel 5.2
+
+  Link: 
+
+
+- Name: [FullyCMS (⭐479)](https://github.com/sseffa/fullycms)
+
+  Description: Multi Language Content Management System
+
+  Link: 
+
+
+- Name: [Laramap](https://github.com/laramap/laramap.com)
+
+  Description: A Map of Laravel Developers
+
+  Link: <https://laramap.com>
+
+
+- Name: [Learn Party (⭐10)](https://github.com/andela-jkariuki/checkpoint-four-learn-party)
+
+  Description: A Dead Simple Learning Management System
+
+  Link: <https://learn-party.herokuapp.com>
+
+
+- Name: [BookStack (⭐10k)](https://github.com/ssddanbrown/BookStack)
+
+  Description: A platform to create documentation/wiki content
+
+  Link: <https://www.bookstackapp.com>
+
+
+- Name: [Gruik (⭐331)](https://github.com/grena/gruik)
+
+  Description: An open-source markdown note-taking web app
+
+  Link: <http://gruik.io>
+
+
+
+### Rails
+
+- Name: [Coderwall (⭐863)](https://github.com/coderwall/coderwall-legacy)
+
+  Description: Professional network for Software
+
+  Link: [engineers (⭐863)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
+
+
+- Name: [Sharetribe (⭐2.2k)](https://github.com/sharetribe/sharetribe)
+
+  Description: A Marketplace Platform
+
+  Link: <https://www.sharetribe.com>
+
+
+- Name: [Spina (⭐12)](https://github.com/denkGroot/Spina)
+
+  Description: A beautiful CMS for Rails Developers
+
+  Link: <http://www.spinacms.com>
+
+
+- Name: [Loomio (⭐2.1k)](https://github.com/loomio/loomio)
+
+  Description: Make decisions together
+
+  Link: <https://www.loomio.org>
+
+
+- Name: [Rails port of OpenstreetMap (⭐1.6k)](https://github.com/openstreetmap/openstreetmap-website)
+
+  Description: Open Street Map
+
+  Link: <http://www.openstreetmap.org>
+
+
+- Name: [Help](https://github.com/netguru/help)
+
+  Description: Small help request system
+
+  Link: 
+
+
+- Name: [OpenSourceBilling](http://www.opensourcerails.com/open-source-billing)
+
+  Description: Beautiful Simple Billing Software
+
+  Link: <http://opensourcebilling.org>
+
+
+- Name: [Hours (⭐1k)](https://github.com/DefactoSoftware/Hours)
+
+  Description: Time registration that doesn't suck
+
+  Link: <https://happyhours.io>
+
+
+- Name: [OpenProject (⭐6.1k)](https://github.com/opf/openproject)
+
+  Description: Project Management System
+
+  Link: <https://www.openproject.org>
+
+
+- Name: [Huginn (⭐37k)](https://github.com/cantino/huginn)
+
+  Description: Agent system that perform tasks online for you
+
+  Link: 
+
+
+- Name: [Discourse (⭐37k)](https://github.com/discourse/discourse)
+
+  Description: A Platform for Community Discussion
+
+  Link: <http://www.discourse.org>
+
+
+- Name: [Squash (⭐961)](https://github.com/SquareSquash/web)
+
+  Description: Collection of tools that helps developers find and kill bugs
+
+  Link: <http://squash.io>
+
+
+- Name: [Eventx (⭐19)](https://github.com/andela/eventx)
+
+  Description: Event Management System without Hassle
+
+  Link: <http://www.eventtx.com>
+
+
+- Name: [Fulcrum (⭐1.5k)](https://github.com/fulcrum-agile/fulcrum)
+
+  Description: Agile Project Management Tool
+
+  Link: <http://wholemeal.co.nz/projects/fulcrum.html>
+
+
+- Name: [RedMine (⭐2.5k)](https://github.com/edavis10/redmine)
+
+  Description: Project Management Application
+
+  Link: <http://www.redmine.org>
+
+
+- Name: [Diaspora (⭐13k)](https://github.com/diaspora/diaspora)
+
+  Description: Distributed Social Network
+
+  Link: <https://diasporafoundation.org>
+
+
+
+### Django
+
+- Name: [Shoop (⭐1.9k)](https://github.com/shoopio/shoop)
+
+  Description: E-commerce Platform
+
+  Link: <https://shoop.io>
+
+
 
 ---
 

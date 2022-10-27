@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18 - Jul 24, 2022
 
-45 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,19 @@
 
 *   [wild-wild-path (⭐512)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Files/Images
+
+*   [django-pictures (⭐77)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+
+## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
 *   [Portable ASCII (⭐357)](https://github.com/voku/portable-ascii) - A library to convert strings to ascii.
 
-## [4. GoBooks](/content/dariubs/GoBooks/week/README.md)
+## [5. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### **Advanced Books** / [Practical Go: Building Scalable Network and Non-Network Applications](https://practicalgobook.net)
 
@@ -37,19 +43,19 @@
 *   Adding observability to your applications
 *   Managing configuration data from your applications
 
-## [5. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [test-each (⭐98)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
 
-## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [ionic-svelte (⭐327)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
-## [7. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [8. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Apps / Productivity
 
@@ -64,14 +70,14 @@
 
 *   [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 
-## [8. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [9. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [github.expandinizr (⭐129)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
 Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### SQL / Learning
 
@@ -94,19 +100,19 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [postgres\_queries\_and\_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
 *   [TPT (⭐540)](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
-## [10. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
 
-## [11. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [12. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Composer-Velocita (⭐26)](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita (⭐40)](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -126,31 +132,69 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   Generic
     *   [Geal/rust\_on\_mobile (⭐156)](https://github.com/Geal/rust_on_mobile)
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Websites
 
 *   [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
 
-## [14. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Firezone](https://github.com/orgs/firezone/sponsoring) - Self-hosted VPN server using WireGuard.
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [16. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Icons
+
+*   [tabler-icons-react](https://tabler-icons-react.vercel.app) - A set of over 450 free MIT-licensed high-quality SVG icons.
+
+### Communication with server / Mouse Events
+
+*   [query (⭐31k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+
+### Integrations with Third Party Services / Mouse Events
+
+*   [react-firebase-hooks (⭐2.9k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+
+## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Social Media Tools / Facebook
+
+*   [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
+
+### Video Search and Other Video Tools / Telegram
+
+*   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
+
+### Martime / Telegram
+
+*   [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
+
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
 *   [keto (⭐3.6k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
-## [16. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / GUI
 
 *   [micropython-nextion (⭐2)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Plugins for Minecraft
+
+*   [No-Chat-Reports (⭐806)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+
+### Audio
+
+*   [Jetispot (⭐143)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -165,7 +209,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [vorms (⭐44)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
-## [18. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [22. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### The big two automation libraries
 
@@ -207,25 +251,25 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [IE Diagnostics Adapter (⭐577)](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
 *   [go-debugger-devtools (⭐40)](https://github.com/allada/go-debugger-devtools)
 
-## [19. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [23. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### ORM
 
 *   [APIJSON (⭐14k)](https://github.com/Tencent/APIJSON) - A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code.
 
-## [20. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [24. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Volume Management / Data
 
 *   [Convoy (⭐1.3k)](https://github.com/rancher/convoy) :skull: - an open-source Docker volume driver that can snapshot, backup and restore Docker volumes anywhere. By [@rancher](https://github.com/rancher)
 
-## [21. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [25. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Cloudscape](https://cloudscape.design/) - An open source design system for the cloud.
 
-## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -274,7 +318,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [shinkansen (⭐0)](https://github.com/MRZ07/shinkansen.zsh-theme) - A fast, customizable and easily extended theme. Includes decorators for rhw python version in the active virtualenv, current ruby version if you're using `chruby`, current node.js version, current java version, current go version, current perl version if using `chperl`, current elixir version, `git` status, time, current directory, exit code and execution time of the last command, and an optional custom message. Requires a powerline-compatible font.
 *   [vehemence (⭐0)](https://github.com/H1N1-dev/vehemence-zsh) - Includes decorators for `pwd`, `user@host`, `tty`, time, last command exit code and `git` status.
 
-## [23. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [27. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Theory
 
@@ -285,13 +329,13 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Cyber Security University (⭐225)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 *   [Hacking Spots (⭐962)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
-## [24. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [28. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Introduction and Pre-Security / Level 1 - Intro
 
 *   [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -304,13 +348,39 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1) - The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. **\[$]**
 *   [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8) - Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. **\[$]**
 
-## [26. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [30. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Learning / Talks Presentations Podcasts
+
+*   [Video Coding Basics - How is this so efficient?](https://youtu.be/LDeL7-49qm4)  - An introduction to the basics of video coding
+
+## [31. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
 *   [Deepfence PacketStreamer (⭐763)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
-## [27. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [stravital (⭐20)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
+*   [ViteRC (⭐12)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-importus (⭐4)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-inject (⭐8)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-inject-preload (⭐5)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+
+### Symfony / Community
+
+*   [Vite Bundle (⭐64)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+
+## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -365,26 +435,26 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 
 
-## [28. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [34. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Communication
 
 *   [Mouseless Messenger (⭐33)](https://github.com/stephancasas/alfred-mouseless-messenger)
 
-## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [moonboot (⭐13)](https://github.com/jhbruhn/moonboot): OTA Bootloader Construction Framework for Rust no\_std environments, especially embedded devices without an OS
 
-## [30. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [36. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Parser / Package managers
 
 *   [goto-bus-stop/ziguid (⭐4)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
 *   [sam701/zig-cli (⭐26)](https://github.com/sam701/zig-cli) - Package for building command line apps.
 
-## [31. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [37. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
@@ -395,7 +465,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 *   [Playlist (⭐12)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
-## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [38. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Misc
 
@@ -439,7 +509,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
 *   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 
-## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -460,19 +530,19 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Steve Sanderson - Blazor, WASI and optimizing tomatoes](https://www.youtube.com/watch?v=1r3FwkUEte0) - July 17, 2022 - At NDC London we sat down with Steve Sanderson and talked about the origin story of Blazor, some of the upcoming things in .NET 7, and what Steve is working on right now. Duration: 35 minutes.
 *   [WASM Everywhere with Steve Sanderson](https://www.dotnetrocks.com/default.aspx?ShowNum=1801) - July 7, 2022 - WebAssembly is awesome - what else can you do with it? While at NDC London, Carl and Richard talked to Steve Sanderson about his work with WebAssembly, including Blazor. Steve talks about how WebAssembly continues to evolve adding WebAssembly System Integration. This opens the door to the idea that code in the WebAssembly can be run anywhere - any operating system, any language, using whatever compute is available. That gives an option to run code on the client, the server, and anywhere in between. Duration: 55 minutes.
 
-## [34. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [40. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab-tensorboard-pro (⭐22)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
-## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [vendelieu/telegram-bot (⭐58)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -501,7 +571,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 
-## [37. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [43. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
@@ -511,7 +581,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [nl\_NL (⭐6)](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -534,7 +604,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching for Neovim specific plugins and guides for building plugins in Lua.
 
-## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Changing the syntax
 
@@ -545,7 +615,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Portal (⭐22)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -644,7 +714,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Lstu (⭐182)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
 
-## [41. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [47. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Courses & Books & Blogs
 
@@ -654,13 +724,13 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [KLineChart (⭐1.2k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
-## [42. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - South German Museum for History of Digital Development.
 
-## [43. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Reading
 
@@ -1136,7 +1206,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529\&hl=en\&as_sdt=0,5)]. The first paper introducing the problem of open-world recognition.
 *   [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346\&hl=en\&as_sdt=0,5)]. A comprehensive review on incremental machine learning.
 
-## [44. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [50. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -1146,7 +1216,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Yew HTTP Starter (⭐2)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
 
-## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [51. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 

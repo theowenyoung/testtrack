@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26, 2022
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,31 +32,43 @@
 
 *   [kawaii (⭐0)](https://github.com/LeonidPilyugin/kawaii-oh-my-zsh/) - Has terminal and virtual console modes. Includes decorators for username, directory, last command exit status, timestamp and `git` status.
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Books and Reading / Telegram
+
+*   [BingeBooks](https://www.bingebooks.com)
+
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Censys Queries (⭐53)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Projects / Idea Plugins
 
 *   [dkandalov/activity-tracker (⭐58)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring Services / Other
 
 *   [Discover Docker courses](https://bestcourses.io/results?q=docker\&size=n_20_n) - Easily discover Docker courses from various popular online learning platforms.
 
-## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Interview
+
+*   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
+
+## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Books / NumPyro
 
 *   [Jax in Action](https://www.manning.com/books/jax-in-action) - A hands-on guide to using JAX for deep learning and other mathematically-intensive applications.
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Logging
 
@@ -77,13 +89,13 @@
     *   [BoltDoggy/deno#dpm (⭐11)](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
     *   [dpmland/dpm (⭐39)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Template Engine
 
 *   [Morestachio (⭐45)](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Paper Writing
 

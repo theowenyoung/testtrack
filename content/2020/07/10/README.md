@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,19 @@
 
 *   [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray) - Persistence of Vision Ray Tracer (POV-Ray) Extension, includes Syntax Highlighting and Snippets for common POV-Ray scene elements, Render the current scene from within Visual Studio Code
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [feednext.io (⭐236)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [Validator.Pizza](https://www.validator.pizza/) — Free API to detect disposable emails
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Graph databases
 
@@ -59,13 +65,13 @@
 *   [kai (⭐79)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-spark (⭐89)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT](https://opensource.org/licenses/MIT).
 
-## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### UI
 
 *   [psInlineProgress (⭐72)](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Design Systems
 
@@ -77,7 +83,7 @@
 *   [Creating Reusable Markup with The HTML Template Element](https://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
 *   [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 

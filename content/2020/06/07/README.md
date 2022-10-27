@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [gomobile-ipfs (⭐236)](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile
 
-## [2. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### 🇷🇺 Russian books
+
+*   [*Swift подробно* - Инт Чейрд](https://www.ozon.ru/context/detail/id/159640468/)
+
+## [3. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
 ### News & Blog Posts
 
@@ -25,19 +31,25 @@
 *   [Couchbase](https://www.couchbase.com/) - NoSQL database.
     *   [Migrating from Apache CouchDB](https://docs.couchbase.com/server/current/install/migrate-couchdb.html) - Comparison of CouchDB and CouchBase
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Jiffy](https://sindresorhus.com/jiffy) - Discover and share the best GIFs on GIPHY. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1502527999)
 
-## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [5. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Serverless Architecture
+
+*   [serverless patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/) - serverless microservice patterns for aws.
+
+## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Tools / IRC
 
 *   [Composer-Unused (⭐1.1k)](https://github.com/composer-unused/composer-unused) - A CLI tool, which scans your code and shows unused Composer dependencies.
 
-## [5. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [7. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
@@ -61,7 +73,7 @@
 *   [Setting Up a Kubernetes Cluster on Ubuntu 18.04](https://mherman.org/blog/2018/08/20/setting-up-a-kubernetes-cluster-on-ubuntu/)
 *   [Cloud Native Landscape](https://landscape.cncf.io/)
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -71,7 +83,7 @@
 
 *   [vue-use (⭐26)](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Artificial Intelligence
 
@@ -81,32 +93,32 @@
 
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/cargo-registry/) — A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Has a generous free-tier and is also completely free for open-source.
 
-## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Documentations / Skeumorphic Icons
 
 *   [GJS Documentation](https://gjs-docs.gnome.org/) - Documentation for the JavaScript GTK bindings.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [UltraDrawerView (⭐199)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Indonesian
 
 *   [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
-## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 
 *   [cargo-hf2 (⭐44)](https://github.com/jacobrosenthal/hf2-rs)  A small cargo subcommand to download cargo builds to Microsoft UF2 bootloaders via HID USB . - ![crates.io](https://img.shields.io/crates/v/cargo-hf2.svg)
 *   [uf2 (⭐22)](https://github.com/sajattack/uf2conv-rs) Converts binary files to Microsoft's UF2 format for copying over to mass storage device uf2 bootloaders - ![crates.io](https://img.shields.io/crates/v/uf2.svg)
 
-## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Getting Started
 

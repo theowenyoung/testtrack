@@ -1,18 +1,46 @@
 # Awesome List Updates on Jul 21, 2022
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Icons
+
+*   [tabler-icons-react](https://tabler-icons-react.vercel.app) - A set of over 450 free MIT-licensed high-quality SVG icons.
+
+### Communication with server / Mouse Events
+
+*   [query (⭐31k)](https://github.com/TanStack/query) - [docs](https://tanstack.com/query/v4) Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+
+### Integrations with Third Party Services / Mouse Events
+
+*   [react-firebase-hooks (⭐2.9k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Facebook
+
+*   [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
+
+### Video Search and Other Video Tools / Telegram
+
+*   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
+
+### Martime / Telegram
+
+*   [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Authentication and OAuth
 
 *   [keto (⭐3.6k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
@@ -32,7 +60,7 @@
     *   [Google Collab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     *   Full, detailed list - <https://cloud.google.com/free>
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -46,25 +74,35 @@
 *   [Share Blazor components using dependency injection](https://engstromjimmy.com/post/2022-07-21-ShareBlazorComponentsUsingDi) - July 19, 2022 - Share Blazor components using dependency injection.
 *   [Using IAsyncEnumerable in a Razor component](https://www.meziantou.net/using-iasyncenumerable-in-a-razor-component.htm) - July 18, 2022 - Using IAsyncEnumerable in a Razor component.
 
-## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / GUI
 
 *   [micropython-nextion (⭐2)](https://github.com/brainelectronics/micropython-nextion) - Control Nextion displays using MicroPython.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Plugins for Minecraft
+
+*   [No-Chat-Reports (⭐806)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+
+### Audio
+
+*   [Jetispot (⭐143)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [ant-design-vue (⭐17k)](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Paper Reading
 
 *   [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804\&hl=en\&as_sdt=0,5)]. Nature perspective on reading scientific papers.
 
-## [7. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [10. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### The big two automation libraries
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,25 @@
 
 *   [Mongoid (⭐3.9k)](https://github.com/mongodb/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
 
-## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Antvel (⭐645)](https://github.com/ant-vel/App)
+
+  Description: Laravel eCommerce
+
+  Link: <http://antvel.com>
+
+
+
+## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
 *   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐244)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
-## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Scientific / XML
 
@@ -32,31 +44,31 @@
 *   [mir-algorithm (⭐209)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 *   [mir-random (⭐30)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
-## [5. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [6. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Continuous Integration
 
 *   [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 
 *   [CNTK - Microsoft Cognitive Toolkit (⭐17k)](https://github.com/Microsoft/CNTK)
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [JSON Editor (⭐211)](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Recommender Systems
 
 *   [libffm (⭐1.6k)](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM).
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [10. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### PHP / Scala
 

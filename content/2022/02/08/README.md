@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,13 +39,23 @@
 
 *   [UnitsNet (⭐1.7k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
-## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Others
+
+*   [P5.js Starter Template (⭐20)](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+
+### CakePHP / Community
+
+*   [cakephp-vite (⭐7)](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+
+## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [ts-belt](https://mobily.github.io/ts-belt/) - Fast, modern, and practical utility library for FP in TypeScript. (Uses a data-first approach like remeda, but is [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) than remeda, ramda, rambda, and lodash/fp.)
 
-## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Input
 
@@ -58,13 +68,13 @@
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 *   [Plan (⭐13)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
-## [6. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Python tools / Misc
 
 *   [pptk (⭐532)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -91,13 +101,13 @@
 
 
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Theory of Mind / Literature Visualization
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
-## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Hellonext
 

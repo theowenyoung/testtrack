@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -279,20 +279,26 @@
 
 *   [Percy](https://percy.io/) - Continuous visual testing.
 
-## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Books and Reading / Telegram
+
+*   [Read This Twice](https://readthistwice.com)
+
+## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computer Vision
 
 *   [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) - Stan Birchfield 2018
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### VSCode / Third-party APIs
 
 *   [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode) - an extension to support syntax highlight, auto completion, documentation on hover, go to definition, compile & load file, REPL. It is [On GitHub (⭐35)](https://github.com/ailisp/commonlisp-vscode/).
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
@@ -306,7 +312,7 @@
 
 *   [nut.js (⭐1k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
@@ -316,19 +322,19 @@
 
 *   🧩 [Windstrap](https://windstrap.netlify.app) - Tailwind CSS with Bootstrap JS.
 
-## [7. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [8. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Tutorials / Video Tutorials
 
 *   [Awesome Haskell Videos (⭐33)](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
 
-## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Fuzzing
 
 *   [Atheris](https://pypi.org/project/atheris/) - Coverage-guided Python fuzzing engine based off of libFuzzer that supports fuzzing of Python code but also native extensions written for CPython.
 
-## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Other
 

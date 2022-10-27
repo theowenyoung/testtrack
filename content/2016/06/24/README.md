@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -121,6 +121,12 @@
 ### Web-sites / Git
 
 *   [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
+
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Mobile / Playground
+
+*   [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ---
 

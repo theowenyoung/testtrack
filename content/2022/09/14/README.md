@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -115,6 +115,21 @@
 ### Packages / Charts
 
 *   [ember-highcharts (⭐140)](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
+
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Web History and Website Capture / Telegram
+
+*   [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
+
+### Image and Photo Editing / Telegram
+
+*   [Gimp](http://www.gimp.org) - is a free and open-source cross-platform image editor software that can be used as an alternative for Adobe Photoshop.
+*   [TinyPNG](https://tinypng.com) - is a tool that can be used to compress various images formats in to smaller size.
+
+### Privacy and Encryption Tools / Telegram
+
+*   [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
 
 ---
 

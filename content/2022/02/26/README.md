@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -143,7 +143,19 @@
 
 *   [oidview.com/mibs](http://www.oidview.com/mibs/detail.html) - This repository contains over 7000 unique MIBs from various vendors.
 
-## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Audio
+
+*   [Beatbump (⭐448)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
+
+## [13. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Icons8 Line Awesome (⭐1.1k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+
+## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Getting Help: Questions, Answers, Chats / Some communities to know about!
 
@@ -174,7 +186,7 @@
 
 *   **2022:** [*Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://github.com/rasbt/machine-learning-book)
 
-## [13. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04 - Apr 10, 2022
 
-39 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 *   [Document Scanner (⭐17)](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / Discord
+
+*   [gtkcord4 (⭐307)](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+
+## [6. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Build and Package / Other / unknown licence
 
@@ -63,19 +69,19 @@
 *   [whitakers-words (⭐211)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 *   [ada-chess](http://www.adachess.com/) - Chess engine written in Ada.
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Tools / Smart Contracts
 
 *   [tealang (⭐37)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
 
-## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Package managers
 
 *   [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Python Survival Analysis
 
@@ -87,20 +93,20 @@
 *   [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) - CORElearn: Classification, regression, feature evaluation and ordinal evaluation.
     \-\* [CoxBoost](https://cran.r-project.org/web/packages/CoxBoost/index.html) - CoxBoost: Cox models by likelihood based boosting for a single survival endpoint or competing risks **\[Deprecated]**
 
-## [9. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [10. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Examples
 
 *   [AXA France Design System](https://axaguildev.github.io/react-toolkit/latest/storybook)
 *   [Mística Design system](https://mistica-web.vercel.app/?path=/story/welcome-welcome--mistica)
 
-## [10. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [11. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Tutorials
 
 *   [Improving NGINX Performance with Kernel TLS and SSL\_sendfile()](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/)
 
-## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [12. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -115,20 +121,20 @@
 *   [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - Learn how to use your High Quality Camera or Camera Module with your Raspberry Pi.
 *   [The Official Raspberry Pi Handbook 2022](https://magpi.raspberrypi.com/books/handbook-2022) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews. **Updated for Raspberry Pi Pico.**
 
-## [12. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [13. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Tutorials :clapper: / 2015
 
 *   [CSS Math Functions](https://stackdiary.com/css-math-functions/) - Using CSS Math for responsive design.
 
-## [13. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [14. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 *   [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
@@ -138,20 +144,20 @@
 
 *   [Concord (⭐328)](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. \[MIT] [website](https://cogmasters.github.io/concord)
 
-## [15. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [16. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions
 
 *   [Data Grid Interface (⭐15)](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.
 *   [SparkLine Display (⭐4)](https://github.com/seymoe/directus-extension-sparkline-display) - A sparkline display with `apexcharts` for Directus 9.
 
-## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Logging
 
 *   [Ougai (⭐235)](https://github.com/tilfin/ougai) - A structured logging system that is capable of handling a message, structured data, or an exception easily. It has JSON and human-readable formatters.
 
-## [17. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [18. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Templates
 
@@ -165,32 +171,32 @@
 
 *   [yew\_icons (⭐11)](https://github.com/finnbear/yew_icons) - Easily include a variety of svg icons(Feather/Font Awesome/Octicons) into your Yew app.
 
-## [18. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Docs / React
 
 *   [spectaql (⭐734)](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation
 
-## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
 *   [Rent Free Media (⭐58)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 
-## [20. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [Ui Colors](https://uicolors.app/create) - Color palette generator for Tailwind CSS.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Mobile / Angular
 
 *   [Flutter Digest](https://flutter-digest.com/). 🇫🇷 A weekly French newsletter about Flutter and Dart.
 *   [Android Croissants](https://android-croissants.com/). 🇫🇷 Every Monday morning, receive the latest news, tutorials, tips… about Android.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Cloud management solutions
 
@@ -206,7 +212,7 @@
 
 *   [Swetrix Analytics](https://swetrix.com/) — Privacy-focused web analytics. Free plan includes up to 5000 events per month.
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
@@ -224,7 +230,7 @@
 
 *   [Wikmd (⭐140)](https://github.com/Linbreux/wikmd) - Modern and simple file based wiki that uses Markdown and Git. `MIT` `Python`
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -235,19 +241,37 @@
 
 *   [@morev/vue-transitions (⭐16)](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 
-## [25. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Framework Extras
 
 *   [Livewire](https://laravel-livewire.com/) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
-## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Editable data grid / spreadsheet
+
+*   [fortune-sheet (⭐1.5k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
+
+### Loader
+
+*   [react-loader-spinner (⭐676)](https://github.com/mhnpd/react-loader-spinner) - Collection set of react-spinner for async operation.
+
+### Form Components / Miscellaneous
+
+*   [@anatoliygatt/numeric-stepper (⭐144)](https://github.com/anatoliygatt/numeric-stepper) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-numeric-stepper-mllfyl) - A fully themeable and accessible numeric stepper component.
+
+### Data Store / Mouse Events
+
+*   [synergies (⭐7)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
+
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
 *   [Sequel Ace (⭐5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
-## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -262,19 +286,25 @@
 *   [rei (arturoalviar) (⭐0)](https://github.com/arturoalviar/rei-zsh-theme) - A simple theme with the first character 零(rei), the number 0. Includes `git` status decorations.
 *   [rei (eilaluth) (⭐2)](https://github.com/Eilaluth/rei/) - A minimalist theme with current directory and `git` status decorations.
 
-## [28. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Tools / Ironsworn
+
+*   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
+
+## [31. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Traveling
 
 *   [location-location-location (⭐28)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
-## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [32. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Observability
 
@@ -292,7 +322,7 @@
 
 *   [insomnimus/nodi (⭐3)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 
-## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [34. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
@@ -327,25 +357,56 @@
 *   [DataHub (⭐6.5k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 *   [Marquez (⭐1.2k)](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
-## [32. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [35. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
 *   [Filebase](https://filebase.com)  is the first S3-compatible object storage platform that allows you to store data in a secure, redundant, and performant manner across multiple decentralized storage networks. Its unique storage backend connects to multiple decentralized storage networks, enabling global presence and reliability. Filebase currently supports storage on the IPFS, Sia, Skynet and Storj networks.
 
-## [33. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [36. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Reference Projects
 
 *   [k6-template-es6 (⭐50)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
 
-## [34. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [37. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2021
 
 *   [Auditing Black-Box Prediction Models for Data Minimization Compliance](https://www.cs.bu.edu/faculty/crovella/paper-archive/minimization-audit-Neurips21.pdf) - (NeurIPS) *Measures the level of data minimization satisfied by the prediction model using a limited number of queries.*
 
-## [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [reactjs-vite-tailwindcss-boilerplate (⭐138)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-electron (⭐170)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
+
+### Go / Community
+
+*   [vite-go (⭐61)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+
+## [39. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Audio
+
+*   [Spotube (⭐1.7k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spot\* (⭐1.6k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
+*   [psst\* (⭐7.1k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+*   [ncspot\* (⭐3.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+
+### Password Managers
+
+*   [Passky](https://passky.org) - Simple, modern, lightweight, open-source and secure password manager.
+
+### Video and Audio Conferencing / Alternative clients/modifications of Discord:
+
+*   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐1.2k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
+
+## [40. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Machine Learning
 
@@ -360,7 +421,7 @@
 *   [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 
-## [36. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [41. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Multimedia
 
@@ -369,7 +430,7 @@
 *   [DDEX](https://ddex.net/standards/) - The industry standard for music metadata, including archiving, sound recording, sales and usage reporting, royalties and license deals.
 *   [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - Quality insurance guidelines to format music, art, and metadata to increase discoverability.
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -388,7 +449,7 @@
 
 *   [CanKolay3499/CNvim (⭐15)](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 
-## [38. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bit-packing and Compression
 
@@ -582,7 +643,7 @@
 
 *   [justforfunc](https://www.youtube.com/c/justforfunc) - Youtube channel dedicated to Go programming language tips and tricks, hosted by  Francesc Campoy [@francesc](https://twitter.com/francesc).
 
-## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [44. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Learning with Cognitive Plausibility / Visual Complexity
 

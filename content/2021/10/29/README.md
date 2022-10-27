@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 29, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,19 +109,29 @@
 
 *   [nix-cargo-integration (⭐97)](https://github.com/yusdacra/nix-cargo-integration) - A library that allows easy and effortless integration for Cargo projects.
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Input Types
+
+*   [@lunasec/react-sdk (⭐1.2k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
+
+### Data Store / Mouse Events
+
+*   [zustand](https://zustand.surge.sh/) - [docs (⭐23k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
+
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Beginner
 
 *   [Beginner's Guide (⭐223)](https://github.com/antz22/ultimate-guide-to-flutter) <!--stargazers:antz22/ultimate-guide-to-flutter--> - Comprehensive guide to the basics of Flutter and Firebase by [Anthony](https://github.com/antz22)
 
-## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [12. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / OSX Evidence Collection
 
 *   [The ESF Playground](https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
 
-## [12. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [13. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Books / Other
 
@@ -129,7 +139,19 @@
 *   [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
 *   [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Centralized
+
+*   [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐679)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
+
+### Android / iOS
+
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐1.3k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [K9](https://k9mail.app/) - Open Source Email App for Android.
+
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -379,7 +401,7 @@
 
 
 
-## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Land Use and Land Cover
 

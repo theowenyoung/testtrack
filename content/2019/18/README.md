@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06 - May 12, 2019
 
-40 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -228,75 +228,87 @@
 
 *   [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - Tutorial using WebdriverIO and WebdriverCSS with Spec Reporter
 
-## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [19. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### DDL Link Sites / Free Indexers
+
+*   [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
+
+## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Production-Dependencies-Guard (⭐88)](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
 
-## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [21. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Textures / Unspecified License
 
 *   [TextureHaven](https://texturehaven.com) - [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) High quality set of textures with CC0 license.
 
-## [21. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [22. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### WSL Tools / Miscellaneous Tools
+
+*   [weasel-pageant (⭐252)](https://github.com/vuori/weasel-pageant) - An ssh-agent compatible helper for interacting with Pageant from processes running on the Windows Subsystem for Linux.
+
+## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [kahing/goofys :fire::fire::fire::fire::fire: (⭐4.3k)](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
 *   [minio/mc :fire::fire::fire::fire: (⭐2.3k)](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 
-## [22. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [24. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Utilities
 
 *   [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 
-## [23. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [25. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
 *   [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
 
-## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Duo Security MFA Authentication for Keycloak (⭐25)](https://github.com/mulesoft-labs/keycloak-duo-spi)
 *   [Extension Keycloak facilitant l'utilisation de FranceConnect (⭐57)](https://github.com/InseeFr/Keycloak-FranceConnect)
 
-## [25. Awesome](/content/craftcms/awesome/week/README.md)
+## [27. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Praises / Tutorials
 
 *   [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) by Honcho - `16 Apr 2019`
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
 *   [TensorFlow Scala (⭐907)](https://github.com/eaplatanios/tensorflow_scala) -   Strongly-typed Scala API for TensorFlow.
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
 *   [ASP.NET Blog's archives](https://devblogs.microsoft.com/aspnet/category/blazor/) - Archives of the ASP.NET blog about Blazor.
 
-## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Housing
 
 *   [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
 
-## [29. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [31. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD By Examples - Library (⭐3.3k)](https://github.com/ddd-by-examples/library) - sample project of a library driven by real business requirements. Modular monolith implemented with the help od DDD, BDD, EventStorming, Example Mapping, CQRS, and more.
 
-## [30. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [32. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -313,33 +325,49 @@
 *   [ipfs-publish](https://ipfs-publish.uhlir.dev) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS. [Source (⭐57)](https://github.com/AuHau/ipfs-publish)
 *   [mahuta (⭐224)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 
-## [31. Guides](/content/NARKOZ/guides/week/README.md)
+## [33. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / Clojure
 
 *   [Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
-## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Unsplash Wallpapers (⭐250)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
-## [33. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [35. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / General
 
 *   [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 *   [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits.
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [36. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Swift
+
+*   [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
+*   [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
+
+### Architecture
+
+*   [*Advanced iOS App Architecture* by Rene Cacheaux, Josh Berlin](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
+
+### Server Side Swift
+
+*   [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
+*   [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
+
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File System Listener
 
 *   [Guard::LiveReload (⭐2.1k)](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 *   [Rerun (⭐918)](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
 
-## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -357,7 +385,7 @@
 
 *   [ARCore Plugin (⭐357)](https://github.com/giandifra/arcore_flutter_plugin) <!--stargazers:giandifra/arcore_flutter_plugin--> - Augmented reality with ARCore platform by [Gian Marco Di Francesco](https://github.com/giandifra).
 
-## [36. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [39. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
@@ -367,7 +395,7 @@
 
 *   [Java Developer Roadmap (⭐3k)](https://github.com/s4kibs4mi/java-developer-roadmap)
 
-## [37. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Boilerplating
 
@@ -398,7 +426,7 @@
 
 *   [lost-in-technology.com](https://www.lost-in-technology.com/blog/)
 
-## [38. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [41. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Basic linear algebra
 
@@ -410,7 +438,7 @@
 *   [Chebfun](https://www.chebfun.org/) - Computing with functions to about 15-digit accuracy.
     (MATLAB, BSD, [GitHub (⭐465)](https://github.com/chebfun/chebfun))
 
-## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [42. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -432,11 +460,21 @@
 
 *   [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 
-## [40. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [43. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Dedexer](https://sourceforge.net/projects/dedexer/)
+
+## [44. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Awesome Repositories
+
+- Repository: [Windows Exploitation - Advanced (⭐1.2k)](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
+
+  Description: List of Awesome Advanced Windows Exploitation References
+
+
 
 ---
 

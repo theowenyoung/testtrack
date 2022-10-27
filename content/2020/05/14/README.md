@@ -1,6 +1,6 @@
 # Awesome List Updates on May 14, 2020
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,20 @@
 
 *   [Kotlin Weekly](http://www.kotlinweekly.net/). The weekly newsletter for Kotlin developers, with articles, libraries, videos and podcasts from the Kotlin environment.
 
-## [4. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Windows Utilities / Web Exploitation Books
+
+*   [Inveigh (⭐1.9k)](https://github.com/Kevin-Robertson/Inveigh) - Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/machine-in-the-middle tool.
+*   [Rubeus (⭐2.7k)](https://github.com/GhostPack/Rubeus) - Toolset for raw Kerberos interaction and abuses.
+
+## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Style Guide / Editor's Draft :black_nib:
 
 *   [Fluent UI (⭐14k)](https://github.com/microsoft/fluentui) by Microsoft
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Docs / Official Docs
 
@@ -87,7 +94,7 @@
 
 *   [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -98,13 +105,13 @@
 *   [nomino (⭐434)](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
 *   [pockyt (⭐471)](https://github.com/achembarpu/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
-## [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### Links / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
 
 *   [Top 100 sci-fi and fantasy books as picked by NPR listeners](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
 
-## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
@@ -119,7 +126,7 @@
 
 *   [Modern](https://keycloakthemes.com/themes/modern)
 
-## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Guides / Codelabs
 
@@ -129,7 +136,7 @@
 
 *   [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -156,25 +163,25 @@
 
 
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Encryption / File Sharing
 
 *   [Deadbolt (⭐256)](https://github.com/alichtman/deadbolt) - The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alichtman/deadbolt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Files
 
 *   [Flysystem (⭐13k)](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [mljar-supervised (⭐2.3k)](https://github.com/mljar/mljar-supervised) - An Automated Machine Learning (AutoML) python package for tabular data. It can handle: Binary Classification, MultiClass Classification and Regression. It provides explanations and markdown reports.
 
-## [14. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [15. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Platforms
 
@@ -192,13 +199,23 @@
 
 *   [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) - CTF Cheatsheet.
 
-## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Send an Embed Message to Discord (⭐76)](https://github.com/sarisia/actions-status-discord)
 
-## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [typescript-express-starter (⭐1.6k)](https://github.com/ljlm0402/typescript-express-starter) - Quick and Easy TypeScript Express Starter.
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [ts-audio (⭐276)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+
+## [18. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Integrations / Navigation Demos
 

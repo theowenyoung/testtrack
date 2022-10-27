@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -87,7 +87,13 @@
 
 *   [shx (⭐1.4k)](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Username Check / Telegram
+
+*   [Name Checkr](http://www.namecheckr.com)
+
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
@@ -98,7 +104,7 @@
 *   [accent (⭐33)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 *   [versionary (⭐38)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
-## [8. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
@@ -144,19 +150,19 @@
 *   [Wine Clustering (⭐0)](https://github.com/hexgnu/wine_clustering) -
     Wine quality estimations clustered with different algorithms.
 
-## [9. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [10. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Interview / Case Study
 
 *   [Laravel Interview Questions and Answers](http://www.laravelinterviewquestions.com/)
 
-## [10. Citizen Science](/content/dylanrees/citizen-science/README.md)
+## [11. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
 *   [DremelFuge](http://www.thingiverse.com/thing:1483) - A biology centrifuge that takes the form of a dremel attachment.
 
-## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [12. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,13 +45,19 @@
 
 *   [react-native-animated-loader (⭐154)](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐6.7k)](https://github.com/labs42io/clean-code-typescript)
+
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [localstack/localstack :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Colors
 
@@ -61,7 +67,7 @@
 
 *   [DTTableViewManager (⭐453)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 
-## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Online books
 

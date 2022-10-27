@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,6 +96,12 @@
 ### Hardware / Pens
 
 *   [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - Adjustable model to print adapters for various pens.
+
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Standalone apps / Chrome Extensions
+
+*   [lc-mate (⭐0)](https://github.com/cglotr/lc-mate) - Extension that adds contest rating to usernames in LC
 
 ---
 

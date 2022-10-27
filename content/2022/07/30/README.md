@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,7 +40,17 @@
 
 *   [pyhack (⭐1)](https://github.com/williamcanin/pyhack) - Works well with dark terminal themes. Shows Python version, Python package version (pyproject.toml) and `git` current branch information.
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - Jamstack, React, React Router, Material UI, Firebase Auth, TypeScript, ESLint, Prettier, Jest, GitHub Actions.
+
+### DDEV / Community
+
+*   [ddev-viteserve (⭐9)](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
+
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Effect
 
@@ -51,7 +61,7 @@
 *   [Bonfire (⭐742)](https://github.com/RafaelBarbosatec/bonfire) <!--stargazers:RafaelBarbosatec/bonfire--> - Flame engine based game engine for 2D RPG games
 *   [Zerker (⭐513)](https://github.com/flutterkit/zerker) <!--stargazers:flutterkit/zerker--> - Lightweight and powerful graphic animation library by [drawcall](https://github.com/drawcall).
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Websockets / Isomorphic web frameworks
 
@@ -59,13 +69,13 @@
 *   [Hunchensocket (⭐99)](https://github.com/joaotavora/hunchensocket) -  RFC6455 compliant WebSockets for Common Lisp, as an extension to Hunchentoot. [MIT](https://opensource.org/licenses/MIT).
 *   [websocket-driver (⭐88)](https://github.com/fukamachi/websocket-driver) - based on Clack.
 
-## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Icons
 
 *   [svelte-icomoon (⭐3)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Python
 
@@ -87,13 +97,13 @@
 *   [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions.
 *   [Tmap](https://cran.r-project.org/web/packages/tmap/) - Thematic maps are geographical maps in which spatial data distributions are visualized. This package offers a flexible, layer-based, and easy to use approach to create thematic maps, such as choropleths and bubble maps.
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [Styra Declarative Authorization Service (DAS)](https://www.styra.com/terraform-cloud-config-management-with-styra-das-and-open-policy-agent) - Provides a managed [Open Policy Agent (OPA)](https://www.openpolicyagent.org) platform for Application and Infrastructure use cases, including Terraform, Terraform Cloud, and Kubernetes. Enforce policy guardrails during development, in CI/CD pipelines, and at deploy time. Styra DAS Free provides multiple systems and users, policy impact analysis, decision logging and replay, and access to Styra's Terraform policy library.
 
-## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Books
 

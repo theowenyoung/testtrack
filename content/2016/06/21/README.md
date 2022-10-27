@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,13 +57,46 @@
 
 *   [rcm.cr (⭐44)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
-## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Android
+
+- Name: [Plaid (⭐16k)](https://github.com/nickbutcher/plaid)
+
+  Description: An app that showcases Material Design
+
+  Link: <https://play.google.com/store/apps/details?id=io.plaidapp>
+
+
+- Name: [Google I/O Scheduler (⭐22k)](https://github.com/google/iosched)
+
+  Description: Offcial Android app for Google I/O
+
+  Link: <https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched>
+
+
+- Name: [Project Frisbee (⭐266)](https://github.com/gdg-x/frisbee)
+
+  Description: All GDG content in one place
+
+  Link: <https://play.google.com/store/apps/details?id=org.gdg.frisbee.android>
+
+
+- Name: [Wallsplash (⭐791)](https://github.com/mikepenz/wallsplash-android)
+
+  Description: Wallsplash is the cutting edge wallpaper app for your device!
+
+  Link: <https://play.google.com/store/apps/details?id=com.mikepenz.unsplash>
+
+
+
+## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 
 *   [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
 
-## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [10. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Resources / Docker Images
 

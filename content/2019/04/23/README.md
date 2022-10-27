@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,13 +17,20 @@
 *   [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 *   [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-## [2. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Other Awesome Lists
+
+*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
+
+## [3. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2019
 
 *   [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) \[36:44]
 
-## [3. Guides](/content/NARKOZ/guides/README.md)
+## [4. Guides](/content/NARKOZ/guides/README.md)
 
 ### Programming Languages / C
 
@@ -45,13 +52,13 @@
 
 *   [The RSpec Style Guide (⭐878)](https://github.com/rubocop-hq/rspec-style-guide#readme)
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo
 
 *   [Vue.js Demo App (⭐46)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
-## [5. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Scripting Tools
 
@@ -61,7 +68,7 @@
 
 *   [Grails Diary](https://grydeske.dk/news/index) - Particulary useful for Grails developers
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 

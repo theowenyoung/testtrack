@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 11, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
+## [1. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+
+### Resources / Glyphs & Icons
+
+*   [Tabler Icons](https://tablericons.com/)
+
+## [2. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
 ### Calculators
 
@@ -21,49 +27,49 @@
 
 *   [agx-ruby (⭐5)](https://github.com/brycejohnston/agx-ruby) - Ruby client for Proagrica's agX platform APIs.
 
-## [2. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [3. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Machine Learning
 
 *   [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - A tabular summary of a classifiers "confusion", i.e. how often it thought to make correct predictions when it actually didn't.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐13)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Datastores / Online resources
 
 *   [acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Geolocation
 
 *   [geohash\_nif (⭐1)](https://github.com/wstucco/geohash_nif/) - Drop in replacement for Geohash encode/decode library implemented as a NIF.
 
-## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [RustMart (⭐244)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 
-## [7. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra Deployment / Cassandra Deployment on Kubernetes / Kubernetized Cassandra
 
 *   [Strapdata - Elassandra Operator for Kubernetes (⭐11)](https://github.com/strapdata/elassandra-operator) - The Elassandra Kubernetes Operator automates the deployment and management of Elassandra clusters deployed in multiple Kubernetes clusters.
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Debugging and Tracing
 
 *   [gdb-dashboard (⭐8.9k)](https://github.com/cyrus-and/gdb-dashboard) - GDB dashboard is a standalone .gdbinit file written using the Python API that enables a modular interface showing relevant information about the program being debugged.
 
-## [9. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [10. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Introducing people to data security and cryptography / General cryptographic interest
 
@@ -88,25 +94,25 @@
 
 *   [Selecting Cryptographic Key Sizes](https://link.springer.com/content/pdf/10.1007/s00145-001-0009-4.pdf) - Classic paper from 1999 with guidelines for the determination of key sizes for symmetric cryptosystems, RSA, ECC, by Arjen K. Lenstra and Eric R. Verheul.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Proxy
 
 *   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐9.7k)](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
-## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Operating systems / Build system (ROS2)
 
 *   [PYNQ](http://www.pynq.io/) - Python-based rapid prototyping of high performance ML applications running on XILINX FPGAs.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 
 *   [PGM-index (⭐634)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
-## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Fediverse / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -120,7 +126,7 @@
 
 *   [Golden Cheetah](https://www.goldencheetah.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/goldencheetah/goldencheetah) - Performance software for Cyclists, Runners and Triathletes that reads from many devices.
 
-## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [15. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Websites
 
@@ -134,7 +140,7 @@
 
 *   [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -146,7 +152,7 @@
 *   [Service per Team](https://microservices.io/patterns/decomposition/service-per-team.html) - Each team is responsible for one or more business functions (e.g. business capabilities). A team owns a code base consisting of one or more modules. Its code base is sized so as to not exceed the cognitive capacity of team. The team deploys its code as one or more services. A team should have exactly one service unless there is a proven need to have multiple services.
 *   [Start with Team Cognitive Load - Team Topologies](https://www.youtube.com/watch?v=haejb5rzKsM) :small\_red\_triangle:<sup>YT</sup> - DOES19 London. The "monoliths vs microservices" debate often focuses on technological aspects, ignoring strategy and team dynamics. Instead of technology, smart-thinking organizations are beginning with team cognitive load as the guiding principle for modern software. In this talk, we explain how and why, illustrated by real case studies.
 
-## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 
@@ -208,26 +214,26 @@
 
 *   [KKBOX for Podcasters](https://podcast.kkbox.com/podcasters) <sup>[743](https://t.me/s/aboutrss/743)</sup>
 
-## [17. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [18. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [Tru (⭐3)](https://github.com/sungwoncho/tru) - A stack-based language with prefix-free brackets.
 
-## [18. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Write/Speak/Code](https://www.writespeakcode.com/) - A 501c3, tax-exempt non-profit that hosts an annual conference and meetup events designed to help you fully own your expertise through writing, speaking, and open source.
 
-## [19. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [20. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Compliance testing and reporting
 
 *   [Chef InSpec](https://www.chef.io/products/chef-inspec) - Language for describing security and compliance rules, which become automated tests that can be run against IT infrastructures to discover and report on non-compliance.
 *   [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - Both a library and a command line tool (`oscap`) used to evaluate a system against SCAP baseline profiles to report on the security posture of the scanned system(s).
 
-## [20. Awesome Python](/content/vinta/awesome-python/README.md)
+## [21. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2019
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -122,6 +122,21 @@
 ### Tools and Plugins
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
+
+## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### How to Use
+
+*   Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
+*   Go through our *Content Menu*
+
+### iOS
+
+*   [*Pro iPhone Development with Swift 5* by Wallace Wang](https://www.apress.com/gp/book/9781484249437)
+
+### Database
+
+*   [*Core Data by Tutorials* by Aaron Douglas, Saul Mora, Matthew Morey, Pietro Rea](https://store.raywenderlich.com/products/core-data-by-tutorials)
 
 ---
 

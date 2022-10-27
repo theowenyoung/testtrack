@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 22, 2022
 
-18 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,17 @@
 
 *   [Awesome JSON Schema (⭐40)](https://github.com/jviotti/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
-## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [2. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [yattee (⭐824)](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+
+### Overview / Imgur
+
+*   [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
+
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Bridges / Wallets
 
@@ -26,7 +36,7 @@
 
 *   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -44,7 +54,7 @@
 
 *   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐20)](https://github.com/vocascan/vocascan-server), [Clients (⭐3)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
 
-## [4. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [5. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Libraries / PHP
 
@@ -76,7 +86,7 @@
     *   [OnLineMIB/Extreme](http://www.snmplink.org/OnLineMIB/Extreme/) - Extreme.
     *   [OnLineMIB/Brocade](http://www.snmplink.org/OnLineMIB/Brocade/) - Brocade.
 
-## [5. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [6. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Disease
 
@@ -94,38 +104,48 @@
 
 *   [DRKG (⭐431)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [shift-select (⭐23)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [zservice-py3http (⭐4)](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / News and Magazine
 
 *   [Hacki (⭐400)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
-## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vite-vue-ts-storybook (⭐44)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
+
+### WordPress / Community
+
+*   [wordpress-vite-assets (⭐41)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+
+## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [evosax (⭐197)](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. Free tier with 5 monitors.
 
-## [10. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
+## [12. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
 *   [OpenTeam](https://openteam.community/) - Open Technology Ecosystem for Agricultural Management
 
-## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [13. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Automation
 
@@ -136,32 +156,32 @@
 *   [Typedream](https://typedream.com) - The new way to make a website.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 
-## [12. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [14. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
 *   [wachy](https://rubrikinc.github.io/wachy/) - A tracing profiler that aims to make eBPF uprobe-based debugging easier to use. This is done by displaying traces in a UI next to the source code and allowing interactive drilldown analysis.
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Snippet / Diagnostics
 
 *   [ellisonleao/carbon-now.nvim (⭐55)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [16. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [Calculating composite SLA](https://alexewerlof.medium.com/calculating-composite-sla-d855eaf2c655)
 
-## [15. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [17. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Bakeries
 
 *   Berlin, Germany
     *   [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - The most tasty high quality vegan donuts in Berlin.
 
-## [16. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [18. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Featured (new releases)
 
@@ -179,13 +199,13 @@
 
 *   🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Videos / Vendor supported providers
 
 *   [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - Complete course from beginner to pro, with no cloud provider focus, with a general approach
 
-## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cryptography
 

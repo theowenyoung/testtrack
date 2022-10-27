@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,19 +26,29 @@
 
 *   [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Hacking (⭐9.1k)](https://github.com/carpedm20/awesome-hacking)
+
+  Description: List of awesome Hacking tutorials, tools and resources
+
+
+
+## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
 *   [TRADFRI2MQTT (⭐79)](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
 
-## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Design
 
 *   [Krop](https://www.krop.com/creative-jobs/)
 
-## [6. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [7. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Secret key cryptography
 

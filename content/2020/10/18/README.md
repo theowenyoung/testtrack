@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [Apex.OS](https://www.apex.ai/apex-os) - Apex.OS is a fork of ROS 2 that has been made so robust and reliable that it can be used in safety-critical applications.
 
-## [2. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Userscripts
+
+*   [IMDb Scout Mod](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) Adds links to IMDb pages from the torrent, ddl, subtitles, streaming, usenet and other sites.
+
+## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Books
 
 *   [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451) Alex Tellez, Max Pumperla, Michal Malohlava. (2017)
 
-## [3. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -32,25 +38,25 @@
 
 
 
-## [4. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
 *   [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Media / Video
 
 *   [CamerAwesome (⭐404)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
 *   [Envy (⭐5)](https://github.com/grottopress/envy) - Load environment variables from YAML
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -79,7 +85,7 @@
 
 *   [中文独立博客全订阅计划](https://box.othing.xyz/) <sup>[834](https://t.me/s/aboutrss/834)</sup>
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -95,13 +101,13 @@
 
 
 
-## [9. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [10. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
 *   [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/)
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### NMOS
 
@@ -110,7 +116,7 @@
 *   [nmos-cpp (⭐88)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
 *   [nmos-js (⭐23)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

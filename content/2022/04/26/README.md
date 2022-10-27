@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2022
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -126,38 +126,48 @@
 
 *   [declancm/cinnamon.nvim (⭐146)](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for any movement command in Neovim.
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   [Coc (⭐21k)](https://github.com/neoclide/coc.nvim) Make your Vim/Neovim as smart as VSCode.
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Jest (⭐41k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
+
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Auditing / Logging
 
 *   :strawberry: [Version plugin (⭐52)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
-## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / E-commerce
 
 *   [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
 
-## [12. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [13. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
 *   [Blendbase (⭐18)](https://github.com/blendbase/blendbase): Single open-source GraphQL API to connect CRMs to your SaaS. Query any customer CRM system (Salesforce, Hubspot and more) with a single API query from your SaaS app.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Complexity & Information Theory / Theory
 
 *   [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14721764738308036578)].
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Gather](https://www.gather.town/) - A better way to meet online. Centered around fully customizable spaces, Gather makes spending time with your communities just as easy as real life. Free for up to 25 concurrent users.
 *   [Livecycle](https://www.livecycle.io/) — Livecycle is an inclusive collaboration platform that makes workflows frictionless for cross-functional product teams and open source projects.
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 

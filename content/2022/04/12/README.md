@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2022
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,27 @@
 
 *   [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Vaults & Vows](https://docs.google.com/document/d/1hBwpWN1hXWFUXF_I5nBVpNL4YuCh2q0HS3H40UXJx2U/edit) - Classic fantasy roleplaying supplement
+
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Learning / Books
+
+*   [Circles of Confusion](https://tech.ebu.ch/publicaions/circles-of-confusion)  - 2009-01-01. Roberts, Alan.
+*   [The H.264 Advanced Video Compression Standard](https://www.amazon.de/-/en/Iain-Richardson/dp/0470516925)  - 2010-04-23. Richardson, Iain.
+*   [Video Demystified: A Handbook for the Digital Engineer](https://www.amazon.com/Video-Demystified-Handbook-Digital-Engineer/dp/0750683953)  - 2007-05-14. Jack, Keith.
+
+## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Crabtyper (⭐180)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Oh-My-Zsh
 
@@ -59,7 +73,7 @@
 
 *   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Blogs
 
@@ -71,7 +85,7 @@
 *   [Effective Kotlin](https://kt.academy/book/effectivekotlin)
 *   [Kotlin Coroutines: Deep Dive](https://kt.academy/book/coroutines) - A practical book dedicated to Kotlin Coroutines, common use-cases, best practices and deep understanding.
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 

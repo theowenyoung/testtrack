@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -141,7 +141,13 @@
 
 *   [Laravel Philippines](https://www.facebook.com/groups/laravelph)
 
-## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+
+## [12. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Resources / Books
 

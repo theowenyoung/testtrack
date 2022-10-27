@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2019
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,13 +117,19 @@
 
 *   [Publish npm (pre)releases (⭐15)](https://github.com/epeli/npm-release/)
 
-## [9. Awesome Ads](/content/cenoura/awesome-ads/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Windows Utilities / Web Exploitation Books
+
+*   [WinPwn (⭐2.5k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+
+## [10. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
 ### Google Ad Manager
 
 *   [Google Ad Manager Fundamentals](https://skillshop.exceedlms.com/student/path/17117-drive-advertising-revenue-with-google-ad-manager) - Google Academy videos about Ad Manager (you should login to see the videos).
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Static site generators
 
@@ -133,13 +139,13 @@
 
 *   [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
 
-## [12. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [13. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Open source code
 
@@ -152,7 +158,7 @@
 *   [Smart Home sample (⭐823)](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google.
 *   [PDPU Scheduler (⭐11)](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
 
-## [13. Awesome List](/content/sindresorhus/awesome/README.md)
+## [14. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
@@ -168,25 +174,25 @@
 *   [Lumen (⭐317)](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 *   [Serverless Framework (⭐2.1k)](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 
-## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Libraries / Integrations
 
 *   [@riotjs/custom-elements (⭐33)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
-## [15. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [16. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Testing
 
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 
-## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [17. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Database
 
 *   [DB4O-GPL ★8 (⭐25)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
-## [17. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 

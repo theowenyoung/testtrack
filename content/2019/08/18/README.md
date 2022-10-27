@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18, 2019
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,6 +117,12 @@
 ### Tutorials / Terraform
 
 *   [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
+
+## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [wslexec (⭐36)](https://github.com/int128/wslexec) - Execute Linux executables as .exe files on Windows. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

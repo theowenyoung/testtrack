@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,7 +28,13 @@
 
 *   [Material Icons](https://material.io/resources/icons/)
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Data Store / Mouse Events
+
+*   [react-3ducks (⭐6)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
+
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### QA Tools / Runner
 
@@ -38,7 +44,7 @@
 
 *   [wretch (⭐2.5k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
@@ -46,25 +52,25 @@
 *   [snappy (⭐16)](https://github.com/naqvis/snappy) -  Snappy compression format reader/writer for Crystal
 *   [zstd.cr (⭐37)](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard (⭐19k)](https://github.com/facebook/zstd) compression library
 
-## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [LogDevice](https://logdevice.io/) \[C++] - a high-performant distributed system by Facebook for streaming and storing sequential data, using a log structure.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [Hummingbird](https://hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 
-## [8. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [9. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Tools
 
 *   [SonarCloud](https://sonarcloud.io) Detect code smells, bugs and vulnerabilities in Azure DevOps, Bitbucket and GitHub repositories.
 
-## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
+## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
 ### Programming
 
@@ -95,7 +101,7 @@
 
 *   [Ethereum Foundation](https://ethereum.foundation/)
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 
@@ -105,7 +111,7 @@
 
 *   [Stream Framework (⭐4.7k)](https://github.com/tschellenbach/Stream-Framework) - Building news feed and notification systems using Cassandra and Redis.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -115,13 +121,13 @@
 
 *   [vue-html-to-paper (⭐270)](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-wizard (⭐70)](https://github.com/talut/react-native-wizard) - Easily navigate your user for next step. Quick-forming Wizard component.
 
-## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [14. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 

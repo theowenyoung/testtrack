@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2022
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,13 +45,19 @@
 
 *   [Terraform-ls (⭐750)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Community
+
+*   [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
+
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 
 *   [Vert.x JsonPath (⭐0)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
 
-## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Germany
 
@@ -65,13 +71,19 @@
 
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 
-## [6. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [7. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Audio
 
 *   [VOICEVOX (⭐1.2k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Animation / Syntax Highlight
+
+*   [react-animatable (⭐9)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 

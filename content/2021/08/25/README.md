@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,19 +96,25 @@
 
 *   [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Responsive / Syntax Highlight
+
+*   [cdbreact (⭐33)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
+
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Quality
 
 *   [Viezly](https://viezly.com/) - Enhanced code review tool for easier code reading and navigation. Free for Open Source and free for personal usage.
 
-## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [13. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Ecosystem
 
 *   [ROS2 For Unity (⭐168)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 

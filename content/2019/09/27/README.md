@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,6 +97,12 @@
 *   [Child Nutrition and Cooking](https://www.coursera.org/learn/childnutrition) - This course examines contemporary child nutrition and the impact of the individual decisions made by each family. The health risks associated with obesity in childhood are also discussed.
 *   [Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry) - Top chefs and Harvard researchers explore how everyday cooking and haute cuisine can illuminate basic principles in chemistry, physics, and engineering.
 *   [Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics-2) - Part 2 of the class above, learn about elasticity, viscosity, mayonnaise, baking, and more!
+
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Music Downloading / Third Party Hosts
+
+*   [chimera](https://notabug.org/Aesir/chimera) Multiple source terminal-based music downloader with audio search engine
 
 ---
 

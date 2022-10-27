@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,47 @@
 
 *   [vspace](https://vvv.space/) — Free links manager with private/public spaces, includes slack and google docs integration and chrome plugin.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Circle CI](https://circleci.com/)
+
+  Description: Continuous Integration and Deployment
+
+  Features: Accessing jobs via ssh, Virtualization: docker/native, OS: linux/macos/windows, ISA:several gpus/arm
+
+  Supported repositories: GitHub, Bitbucket
+
+  Documentation: [Documentation](https://circleci.com/docs)
+
+  Price: [Free for 1 container on Linux, Windows, and Arm](https://circleci.com/pricing)
+
+
+- Name: [Cirrus CI](https://cirrus-ci.org/)
+
+  Description: Bring-Your-Own-Infrastructure CI with modern cloud technologies, matrix builds and simple-yet-powerful configuration
+
+  Features: Virtualization: docker/native, OS: linux/macos/windows/freebsd, ISA:several gpus/arm
+
+  Supported repositories: GitHub, Gitlab(community cirrus-run)
+
+  Documentation: [Documentation](https://cirrus-ci.org/)
+
+  Price: [Free for Open Source, per-second billing for private projects](https://cirrus-ci.org/pricing/)
+
+
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Audio and Music
 
 *   [pdeljanov/Symphonia (⭐925)](https://github.com/pdeljanov/Symphonia) — A pure Rust audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.
 
-## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Dates and Time
 
 *   [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - An giant list of formats from the two standards, how they overlaps, and live examples.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Mocks and Fakes
 
@@ -39,7 +67,7 @@
 
 *   [KakaoCup/Compose (⭐69)](https://github.com/KakaoCup/Compose) - Nice and simple DSL for Espresso Compose UI testing in Kotlin
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mathematics
 
@@ -53,7 +81,7 @@
 
 *   [SqlSugar (⭐4.2k)](https://github.com/donet5/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -63,13 +91,13 @@
 
 *   [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [Rugby (⭐468)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Continuous Integration
 
@@ -246,6 +274,13 @@
   CORS: Unknown
 
 
+
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Books
+
+*   [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+*   [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/a-wedge-of-django)
 
 ---
 

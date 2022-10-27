@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -78,7 +78,17 @@
 
 *   [BlazeMeter Blog](https://www.blazemeter.com/blog) - BlazeMeter blog about JMeter and performance testing.
 
-## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Electron
+
+*   [vite-plugin-electron-renderer (⭐6)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+
+### Apps/Websites / Community
+
+*   [react-keyboard-navigator (⭐15)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Build Automation and Package management
 
@@ -101,7 +111,7 @@
 
 *   [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos): Fun and beginner friendly content related to the overall clojure ecosystem
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tutorials
 
@@ -111,13 +121,13 @@
 
 *   [TensorLayerX (⭐156)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Networking
 
 *   [open-coap/kotlin-mbedtls (⭐3)](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

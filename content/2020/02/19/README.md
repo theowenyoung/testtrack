@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,25 @@
 
 *   [Fission](https://fission.codes) - App and website hosting powered by IPFS, including DNS automation, identity, and end-to-end encryption.
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Electron
+
+- Name: [ExifCleaner](https://exifcleaner.com)
+
+  Description: Cross platform desktop app to remove exif metadata from images
+
+  Link: <https://exifcleaner.com>
+
+
+
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Video/Audio / Other
 
 *   [exifr (⭐731)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
-## [4. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### General
 
@@ -49,13 +61,13 @@
 *   [SimpleColorPicker (⭐10)](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
 *   [SimpleAppIntro (⭐142)](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 
-## [5. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) / More
 
 *   [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Lint CSS/SCSS.
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Communication / Style
 
@@ -63,7 +75,7 @@
 *   [English Lint (⭐32)](https://github.com/killercup/english-lint) - A Rust CLI to detect weasel words, passive voice and lexical illusions.
 *   [Improve Your Writing With The GNU Style Checkers](https://www.linux.com/news/improve-your-writing-gnu-style-checkers/) - How to use `style` and `diction`, two venerable GNU utilities.
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing
 
@@ -92,7 +104,7 @@
 
 *   [The Challenges of Operating a Computing Cloud and Charging for its Use](https://web.stanford.edu/class/cs349d/docs/theimer.pdf) - Skip the first 90% of this presentation by an AWS VP (which is about general system reliability). The last four slides are a good summary of what billing cloud services entails, especially the use of soft quotas to limit fraud.
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / NXP
 
@@ -102,25 +114,25 @@
 
 *   [`imxrt-hal`](https://github.com/imxrt-rs/imxrt-rs) - HAL for i.MX RT series. -  ![crates.io](https://img.shields.io/crates/v/imxrt-hal.svg)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [microenv.com](https://microenv.com) —  Create fake REST API for developers with possibility to generate code and app in docker container.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Monitoring / Isomorphic web frameworks
 
 *   [cl-sentry-client (⭐18)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
 
-## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [Coding Dojo's KataCatalogue](http://codingdojo.org/KataCatalogue/)
 
-## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 

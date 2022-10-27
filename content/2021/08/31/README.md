@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,13 +28,29 @@
 
 *   [libsndfile (⭐2)](https://github.com/edadma/libsndfile) - Bindings for the [Libsndfile](https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html) C library for sampled sound manipulation.
 
-## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [react-ts-vite-template (⭐74)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-content (⭐94)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
+
+## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Unofficial Distributions / AlmaLinux OS
+
+*   [WSLackware (⭐44)](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Machine Learning
 
 *   [clj-synapses (⭐0)](https://github.com/mrdimosthenis/clj-synapses)
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Sports & Fitness
 
@@ -50,13 +66,13 @@
 
 
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Internationalization
 
 *   [Lens (⭐16)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
 
-## [7. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [9. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### APIs and SDKs
 
@@ -231,7 +247,7 @@
 *   [koop-cli (⭐10)](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 *   Check the [contributing guidelines for this repo (⭐99)](https://github.com/Esri/awesome-arcgis-developer/blob/main/CONTRIBUTING.md).
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
 
-## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Database
+
+*   [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
+
+## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
@@ -29,7 +35,7 @@
 
 *   [ROS 2 Basics in 5 Days (C++) - Learn how to start working with ROS 2 (The Construct)](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros2-basics-course/)
 
-## [3. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [4. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Resources
 
@@ -43,13 +49,13 @@
 
 *   [Redis (⭐6k)](https://github.com/tporadowski/redis) - Native port of Redis for Windows.
 
-## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Registry
 
 *   [cloudsmith](https://cloudsmith.io/l/npm-registry/) - A fully managed package management SaaS with support for public and private npm registries (and many others).
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -58,7 +64,7 @@
     *   [Lecture Notes](https://www.cs.cmu.edu/\~410/lecture.html)
     *   [Assignments](https://www.cs.cmu.edu/\~410/p1/proj1.html)
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### User Interface
 

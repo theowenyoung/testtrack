@@ -1,12 +1,34 @@
 # Awesome List Updates on Dec 11, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / HD Streaming
+
+*   [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
+*   [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
+*   [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
+*   [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
+*   [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
+*   [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
+*   [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
+*   [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
+
+### Streaming Sites / Sports Streaming
+
+*   [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
+*   [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
+*   [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+*   [Cricfree](https://crickfree.org/) Offers popular sports streams
+*   [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
+*   [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
+
+## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Online / Other / unknown licence
 
@@ -25,19 +47,19 @@
 
 *   [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / IOC
 
 *   [DryIoc (⭐779)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 
-## [3. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Apps
 
 *   [pokecry (⭐5)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
@@ -59,7 +81,7 @@
 
 *   [Cget (⭐415)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 

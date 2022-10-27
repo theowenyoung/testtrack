@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,7 +103,13 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [14. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
+
+*   [Depix (⭐23k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
+
+## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 

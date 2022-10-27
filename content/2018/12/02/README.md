@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -122,20 +122,39 @@
 
 *   [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - Chris Macrae.
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Seedboxes / Web-based Cloud Seedboxes
+
+*   [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
+
+### Gaming / Third Party Hosts
+
+*   [/r/CrackWatch](https://reddit.com/r/CrackWatch/) :star2: New video game crack releases are posted here
+*   [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
+
+### Discord Servers / Third Party Hosts
+
+*   [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
+
+## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
 *   [Comment Spell Checker (⭐157)](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### HAL implementation crates / Silicon Labs
 
 *   [`tomu-hal`](https://github.com/fudanchii/imtomu-rs)
     *   HAL implementation targeted for [Tomu](https://tomu.im/) USB board with EFM32HG309F64 ARMv6-M core. Has support to configure [tomu bootloader (⭐67)](https://github.com/im-tomu/tomu-bootloader) directly from application via `toboot_config` macro.
 
-## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [9. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 

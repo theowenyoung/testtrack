@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,13 +61,23 @@
 *   Meetup [London](https://www.meetup.com/FlutterLDN/)
 *   [Twitter](https://twitter.com/FlutterLDN)
 
-## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Icons
+
+*   [iconify-react (⭐178)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+
+### Form Components / Star Rating
+
+*   [react-awesome-stars-rating (⭐19)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD Workshop - Project Manager (⭐54)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
-## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### General Libraries
 

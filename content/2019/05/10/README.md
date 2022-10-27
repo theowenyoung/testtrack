@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2019
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,7 +81,26 @@
 
 *   [SencropAPI-JavaScript-Client (⭐3)](https://github.com/sencrop/sencrop-js-api-client) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
 
-## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [MicroTS](https://www.npmjs.com/package/microts) Microservice code generator with interface-first approach: from OpenAPI (Swagger) REST API specification is generated complete project with TypeScript code, input validator, UI, tests and Docker configuration.
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   [WebStorm](https://www.jetbrains.com/webstorm/download/)
+
+### Types / Playground
+
+*   [typesync (⭐1.3k)](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
+*   [type-fest (⭐9.1k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+
+### Web / Playground
+
+*   :octocat: [armour/vue-typescript-admin-template (⭐4.9k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
+
+## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Gists Ember Data
 
@@ -97,6 +116,12 @@
 *   [Ember Data | Coalesce findHasMany within adapter Twiddle](https://gist.github.com/runspired/597ff8ccc4e9a06ff26c1754ba108fb3)
 *   [Ember Data | Nested save](https://gist.github.com/runspired/bc93f1c525837420f7b14d8cdcb2d36a)
 *   [Ember Data | Cascade Delete](https://gist.github.com/runspired/e9ee98ccc89fad2a07d9c86f2541a763)
+
+## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,19 +46,25 @@
 
 *   [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) <!--claps:flutter-community/flutter-deep-dive-gestures-c16203b3434f--> - Flutter Deep Dive: Gestures by [Nash](https://github.com/nash0x7e2)
 
-## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [5. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+
+### Resources / Documentation
+
+*   [ExplainShell](https://explainshell.com/explain?cmd=ls+-lisah) - A better way to read MAN pages.
+
+## [6. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### CCU Addons
 
 *   [HAP-HomeMatic (⭐185)](https://github.com/thkl/hap-homematic) - RaspberryMatic / CCU3 addon to access your HomeMatic devices from HomeKit. Its much like [https://github.com/thkl/homebridge-homematic (⭐173)](https://github.com/thkl/homebridge-homematic) but without homebridge.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Functional Programming / Runner
 
 *   [rambda (⭐1.4k)](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 
-## [7. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
+## [8. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
 ### Converters and Filters
 
@@ -67,7 +73,7 @@
 *   [MyST](https://myst-parser.readthedocs.io/en/latest/) - Markedly Structured Text,
     a superset of CommonMark markdown with reStructuredText like features.
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -141,7 +147,7 @@
 *   TheFeedReaderBot ([Group](https://t.me/TheFeedReaderBotSupport))
 *   RSS Bot ([Channel](https://t.me/BotChangelog) / [Group](https://t.me/ChannelBros))
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 
@@ -171,20 +177,20 @@
 
 
 
-## [10. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [11. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Extensions
 
 *   [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vesselize (⭐21)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
 *   [vue-use-local-storage (⭐4)](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
-## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [13. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Jetpack Compose
 
@@ -244,13 +250,13 @@
 
 
 
-## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 
 *   [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware.
 
-## [14. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 

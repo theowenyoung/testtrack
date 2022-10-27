@@ -1,6 +1,6 @@
 # Awesome List Updates on May 08, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,19 +73,37 @@
 *   The repository's owner explicitly says that "this library is not maintained".
 *   Not committed for long time (2\~3 years).
 
-## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Trackers / Private Trackers
+
+*   [Filelist](https://filelist.io/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Content Management Systems
+
+*   [wagtail (⭐13k)](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail (⭐1.7k)](https://github.com/springload/awesome-wagtail) too.
+
+### Resources / Educational
+
+*   [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
+*   [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
+*   [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
+
+## [4. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Projects Using Seed
 
 *   [WeightRS](https://gitlab.com/mkroehnert/weightrs) - Minimalistic and privacy friendly progressive web app for tracking your weight.
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Third Party APIs
 
 *   [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Getting Started
 
@@ -139,7 +157,7 @@
 
 *   [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
 
-## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Utilities
 
@@ -164,19 +182,19 @@
 *   [Laravel India](https://laravellive.in/), [Slack Signup](https://laravelliveindia.slack.com/join/shared_invite/enQtNjQyMDE4NDA3MDQzLWMyZmIxNGZkNGVkNGFmMzE1MTgyOGNiZGY1ZmU1ZDQ3Mzk2ODBlZGJlODk3ZmI0OWNlZmI5MzQyZDJhYzg1NjE), [Twitter](https://twitter.com/LaravelLiveIN), [Facebook](https://www.facebook.com/laravellive/), [Youtube](https://www.youtube.com/channel/UC6TxYSHI7g9FMJ7VlHk72Yg)
 *   [Laravel UK](https://laravelphp.uk/), [Slack Signup](https://laravelphp.uk/login/slack)
 
-## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Standalone Components
 
 *   [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) - Custom element to generate and render QR Codes, using qr.js library.
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Linting
 
 *   [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json` (⭐25)](https://github.com/ergebnis/composer-normalize-action)
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Introduction
 
@@ -186,13 +204,13 @@
 
 *   [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Kong / Konga / Keycloak: securing API through OIDC (⭐212)](https://github.com/d4rkstar/kong-konga-keycloak)
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -206,13 +224,13 @@
 
 *   [Collect-Info-Research (⭐34)](https://github.com/p1g3/Collect-Info-Research) <sup>[367](https://t.me/s/aboutrss/367)</sup> : a project to help you collect info every day. [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/p1g3/Collect-Info-Research)
 
-## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [13. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Cloud and storage
 
 *   [Skynet](https://siasky.net) is a decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet!
 
-## [12. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [14. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Learning / Technical Tutorials
 

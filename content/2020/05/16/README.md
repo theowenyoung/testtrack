@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -315,13 +315,19 @@
 *   [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/) - “There are companies where those deadlines are set in stone, and a missed deadline is next to fire. That's when the problem starts.”
 *   [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/) - How not to manage projects approaching deadlines: “cutting finished features, yelling at people, and working people to the point of nervous breakdowns. Then they came upon a brilliant idea: let's steal over a hundred engineers from other teams and then the project will magically get done on time.”
 
-## [8. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Interview
+
+*   [*The iOS Interview Guide* by Alex Bush](https://iosinterviewguide.com/)
+
+## [9. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Machine Learning
 
 *   [OpenChem (⭐483)](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
@@ -331,7 +337,7 @@
 
 *   [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [vRayTracer (⭐42)](https://github.com/ali-raheem/vraytracer) - A simple ray tracer written in V.
 
-## [2. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Editable data grid / spreadsheet
+
+*   [revo-grid (⭐2.2k)](https://github.com/revolist/revogrid) - [demo/docs](https://revolist.github.io/revogrid/) - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.
+
+## [3. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Deployment
 
 *   [yamup (⭐8)](https://github.com/bordalix/yamup) - Deploy Meteor apps to your own Ubuntu server (EC2, ...) without dockers
 
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
@@ -32,19 +38,19 @@
 
 *   [Sifon (⭐10)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has very powerful extension system with plugins covering many aspects of day-to-day activities.
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [WickedBlocks](https://blocks.wickedtemplates.com/) - Collection of more than 120 layout blocks and components built with Tailwind CSS.
 
-## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Debugging and Tracing
 
 *   [ros2\_tracing](https://gitlab.com/ros-tracing/ros2_tracing) - Tracing tools for ROS 2.
 
-## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Tools / Music drivers and trackers
 
@@ -54,19 +60,19 @@
 
 *   [gb-vwf (⭐27)](https://github.com/ISSOtm/gb-vwf) - Library to print variable-width text, comes with a demo.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Product Configurators
 
 *   [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 
-## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [9. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computer Vision
 
 *   [Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) - Silvio Savarese 2018
 
-## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [10. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Utilities / Text
 
@@ -93,19 +99,19 @@
 
 *   [Is It Private? (⭐10)](https://github.com/ffittschen/IsItPrivate) - A Safari Extension providing a toolbar icon that changes its visual appearance if Private Browsing is enabled. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [10. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [11. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Tutorials / Video Tutorials
 
 *   [IHP Casts](https://ihpcasts.com/ShowEpisode?episodeId=ab384647-3665-4a36-b5e5-e05fea6c2288) Learn to build type-safe web apps with Haskell and IHP
 
-## [11. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [Watson (⭐270)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 

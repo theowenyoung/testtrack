@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,13 +84,45 @@
 
 *   [`embedded-graphics`](https://crates.io/crates/embedded-graphics): 2D drawing library for any size display - ![crates.io](https://img.shields.io/crates/v/embedded-graphics.svg)
 
-## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [9. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Books and Resources
+
+*   [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
+
+### Shell Script Development
+
+*   [ansi (⭐438)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [argbash (⭐1.2k)](https://github.com/matejak/argbash) - Bash argument parsing code generator
+*   [assert.sh (⭐465)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [async-bash (⭐116)](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
+*   [bats (⭐7.1k)](https://github.com/sstephenson/bats) - Bash Automated Testing System
+*   [bash3boilerplate (⭐1.9k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
+*   [bashful (⭐567)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [bashify (⭐95)](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
+*   [bashing (⭐69)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+*   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+*   [BashScriptTestingLibrary (⭐186)](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
+*   [Bash Infinity (⭐5.4k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
+*   [bash\_unit (⭐518)](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
+*   [mo (⭐463)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [semver\_bash (⭐226)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+*   [shfmt (⭐5.1k)](https://github.com/mvdan/sh) - Format bash programs
+*   [shunit2 (⭐1.4k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
+
+## [10. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Libraries and Frameworks / Testing
 
 *   [EOSLIME (⭐39)](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
 
-## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Logic / Mouse Events
+
+*   [data-driven-forms (⭐224)](https://github.com/data-driven-forms/react-forms) - A declarative way for building forms with all the functionality.
+
+## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / JavaScript
 
@@ -105,7 +137,7 @@
 *   [relevent](https://CRAN.R-project.org/package=relevent) - Tools to fit relational event models (REM).
     *   [informR](https://cran.r-project.org/package=informR) - Tools to create sequence statistics from event lists to be used in `relevent`.
 
-## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇵🇭 Philippines / Misc
 
@@ -116,7 +148,7 @@
 *   [Facebook Group](https://web.facebook.com/groups/flutterphilippines/)
 *   [Github](https://github.com/flutterph)
 
-## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Security
 

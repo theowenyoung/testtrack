@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2021
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [XKCP (⭐481)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
 
-## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Bladesworn](https://drive.google.com/file/d/1HUyXWTDGdLddZygFyPt-NHAhUVGobwxJ/view?usp=sharing) - A simplified Blades in the Dark ruleset for Ironsworn
+
+## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Hooks
 
 *   [yew-hooks (⭐90)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐34k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
@@ -27,13 +33,92 @@
 *   [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account, 100 responses per month, 10 elements per survey.
 *   [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [IFstruct-parser-vue (⭐79)](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
 
-## [5. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Call to Action
+
+*   Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
+*   Just create an [issue (⭐2.9k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+
+### Overview / YouTube
+
+*   [CloudTube](https://git.sr.ht/\~cadence/cloudtube): Alternative front-end for Invidious
+    *   Official instance: <https://tube.cadence.moe>
+    *   Installation guide for self-hosting: <https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md>
+*   [FreeTube (⭐6k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+*   [Invuedious (⭐24)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
+    *   Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
+*   [TubeSync (⭐808)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+*   [TubeArchivist (⭐1.8k)](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
+*   [ytfzf (⭐2.8k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+
+### Overview / Reddit
+
+*   [Xeddit (⭐10)](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
+    *   Official instance: [xeddit.com](https://www.xeddit.com)
+    *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
+
+### Overview / Instagram
+
+*   [Bibliogram](https://sr.ht/\~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
+    *   Unfortunately, Bibliogram is being discontinued. See <https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram>
+    *   Official instance: <https://bibliogram.art>
+    *   Public instances: <https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md>
+    *   Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
+
+### Overview / Spotify
+
+*   [spot (⭐1.6k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+
+### Overview / Google Translate
+
+*   [Lingva Translate (⭐738)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+    *   Official instance: [lingva.ml](https://lingva.ml)
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐738)](https://github.com/TheDavidDelta/lingva-translate#instances)
+*   [SimplyTranslate](https://sr.ht/\~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
+    *   Official instance: [simplytranslate.org](https://simplytranslate.org)
+    *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
+*   [SimplyTranslate Mobile (⭐89)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
+*   [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
+*   [DeepL Android (⭐268)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
+
+### Overview / Facebook
+
+*   [SlimSocial (⭐239)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
+*   [Frost (⭐870)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+
+### Overview / Apple AirPlay
+
+*   [RPiPlay (⭐4.4k)](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
+*   [air-pi-play (⭐1.3k)](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
+
+### Overview / Hacker News
+
+*   [Hackerweb (⭐1.2k)](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
+    *   Official instance: <https://hackerweb.app>
+    *   About Hackerweb: <https://hackerwebapp.com>
+*   [Hckrnws (⭐37)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
+    *   Official instance: <https://www.hckrnws.com>
+
+### Redirection / Other services
+
+*   [Farside (⭐291)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
+
+### Related projects / Other services
+
+*   [Matrix.org's Synapse (⭐10k)](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
+
+## [7. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Websites
 

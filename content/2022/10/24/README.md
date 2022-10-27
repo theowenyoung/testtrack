@@ -1,12 +1,21 @@
 # Awesome List Updates on Oct 24, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [1. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+
+### Specialty Topics
+
+*   ### Transparency
+    *   📚 [Depth Peeling](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) - Method for order independent transparency.
+    *   📚 [Intro to Order Independent Transparency](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction) - Article by LearnOpenGL.
+    *   📚 [Weighted, Blended](http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html) - Method for order independent transparency.
+
+## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -78,7 +87,7 @@
 *   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 *   [Wotan (⭐283)](https://github.com/fimbullinter/wotan) — Pluggable TypeScript and JavaScript linter.
 
-## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+## [3. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 ### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
@@ -328,7 +337,7 @@ Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
-## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Testing / React
 
@@ -338,7 +347,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Tutorials
 
@@ -366,20 +375,20 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Third-party APIs
 
 *   [lisp-pay (⭐18)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐3)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Command Line Interface
 
@@ -499,7 +508,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 
-## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [9. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Maps / Web Maps
 
@@ -509,7 +518,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐11)](https://github.com/johanmorganti/osm-datadog))
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -519,7 +528,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy 3 static sites for free on the App Platform Starter tier.
 
-## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [11. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Servers
 
@@ -532,7 +541,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 *   [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 *   [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 
-## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [12. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 

@@ -1,25 +1,31 @@
 # Awesome List Updates on Jan 20, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [1. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Spotify / Third Party Hosts
+
+*   [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
+
+## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Static Site Generators
 
 *   [Gridsome](https://gridsome.org/) - Vue-powered static site generator for building CDN-ready websites for any Headless CMS, APIs or Markdown-files.
 *   [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 
-## [2. Awesome List](/content/sindresorhus/awesome/README.md)
+## [3. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
 *   [JAMstack (⭐1.2k)](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -29,13 +35,13 @@
 
 *   [Established Remote (⭐5.7k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Rust
 
@@ -44,7 +50,7 @@
 *   [rust-exam: A set of questions about the Rust programming language (⭐13)](https://github.com/jean553/rust-exam)
 *   [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
-## [6. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [7. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -64,7 +70,7 @@
 
 *   [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Build system
 
@@ -94,7 +100,7 @@
     *   [cargo-watch](https://crates.io/crates/cargo-watch) — utility for cargo to compile projects when sources change [![build badge](https://api.travis-ci.org/passcod/cargo-watch.svg?branch=master)](https://travis-ci.org/passcod/cargo-watch)
     *   [dtolnay/cargo-expand (⭐1.7k)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code
 
-## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Articles
 

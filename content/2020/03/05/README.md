@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2020
 
-16 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,20 +50,26 @@
 
 *   [cl-isolated (⭐33)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0](https://directory.fsf.org/wiki/License:AGPL-3.0).
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Layout / Syntax Highlight
+
+*   [muuri-react (⭐270)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
 *   [Keybase](https://keybase.io/) — Keybase is a cool FOSS alternative to Slack, it keeps everyone's chats and files safe, from families to communities to companies.
 
-## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Invoice / European VAT
 
 *   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / CTO & VP of Engineering
 
@@ -74,25 +80,31 @@
 *   [Watson Text Tone Analyzer Demo](https://tone-analyzer-demo.ng.bluemix.net) - Analyzes text to get a sense of the overall tone of the document, or at the sentence level.
 *   [JStylo & Anonymouth](https://psal.cs.drexel.edu/index.php/JStylo-Anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
 
-## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Writing and Office Tools / Telegram
+
+*   [Citationsy](https://citationsy.com)
+
+## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome JMeter (⭐570)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Taskade](https://www.taskade.com) - Realtime organization and collaboration tool for distributed teams with tasks, notes, and chat.
 
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [Core.EventStore (⭐5)](https://github.com/younos1986/Core.EventStore) - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### General
 
@@ -106,38 +118,47 @@
 
 *   [BlazorInputFile (⭐246)](https://github.com/SteveSandersonMS/BlazorInputFile) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorInputFile?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/SteveSandersonMS/BlazorInputFile?style=flat-square\&cacheSeconds=86400) A file input component for Blazor applications, by Steve Sanderson.
 
-## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [13. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Tsung (⭐15)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 *   [Awesome Gatling (⭐41)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
-## [12. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [14. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 
 *   [sane\_tikz (⭐280)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 
-## [13. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [15. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Tools / Dolby
+
+*   [slhck/ffmpeg-bitrate-stats (⭐52)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-debug-qp (⭐62)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
+*   [slhck/ffmpeg-quality-metrics (⭐200)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/scenecut-extractor (⭐41)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+
+## [16. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Examples
 
 *   [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) - Electron like template for local/desktop GUIs with Gotham, rust-embed, web-view and Seed.
 
-## [14. Awesome List](/content/sindresorhus/awesome/README.md)
+## [17. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Related
 
 *   [StumbleUponAwesome (⭐239)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [18. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Bluetooth
 
 *   [BerkananSDK (⭐186)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 

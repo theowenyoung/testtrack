@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -111,13 +111,23 @@
 
 *   [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Payloads (⭐3.1k)](https://github.com/foospidy/payloads)
+
+  Description: Collection of web attack payloads
+
+
+
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Web Framework
 
 *   [redux.NET (⭐700)](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux (⭐59k)](https://github.com/reactjs/redux).
 
-## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Open-source sites / Lists
 

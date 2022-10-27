@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,6 +116,13 @@
 ### Pagination
 
 *   [Pagy (⭐3.8k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [io-ts (⭐5.8k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [fast-check (⭐3.3k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---
 

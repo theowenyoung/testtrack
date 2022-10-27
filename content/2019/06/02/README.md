@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 02, 2019
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 *   [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
 *   [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [3. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Swift
+
+*   [*Mastering Swift 5* by Jon Hoffman](https://www.amazon.com/Mastering-Swift-latest-programming-language/dp/1789139864)
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,19 @@
 
 *   [GlobalExceptionHandlerDotNet (⭐260)](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
 
-## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [Github Desktop (⭐16k)](https://github.com/desktop/desktop)
+
+  Description: Git client on Mac & Windows
+
+  Link: <https://desktop.github.com>
+
+
+
+## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Optimization
 

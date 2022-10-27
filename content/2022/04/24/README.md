@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24, 2022
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [Performance Checklists for SREs](https://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
 
-## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Runtime / Playground
+
+*   [SunTori (⭐3)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
+
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -29,13 +35,47 @@
 *   [skill (asafaeirad) (⭐10)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐10)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
-## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Supported Distributions / Ubuntu
+
+*   ~~[Windows Store Link](https://www.microsoft.com/store/productId/9NBLGGH4MSV6) for Ubuntu 16.04. Supported through April 2021.~~
+*   [Windows Store Link](https://www.microsoft.com/store/productId/9N9TNGVNDL3Q) for Ubuntu 18.04. Supported through April 2023. Very stable but some packages and libraries may be older.
+*   [Windows Store Link](https://www.microsoft.com/en-gb/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab) for Ubuntu 20.04. Supported through April 2025.
+*   [Windows Store Link](https://www.microsoft.com/en-us/p/app/9pn20msr04dw#activetab=pivot:overviewtab) for Ubuntu 22.04. Most recent update. Newer packages but more likely to encounter bugs. Supported through April 2027.
+
+### Supported Distributions / Oracle Linux
+
+*   [Windows Store Link](https://www.microsoft.com/en-us/p/oracle-linux-79/9p7l0qwbsltk) for Oracle Linux 7 Update 9.
+*   [Windows Store Link](https://www.microsoft.com/en-us/p/oracle-linux-85/9p06h18wxbvp#activetab=pivot:overviewtab) for Oracle Linux 8 Update 5.
+*   [Oracle Linux 7 Documentation](https://docs.oracle.com/en/operating-systems/oracle-linux/7/)
+*   [Oracle Linux 8 Documentation](https://docs.oracle.com/en/operating-systems/oracle-linux/8/)
+
+### Supported Distributions / AlmaLinux OS
+
+*   [Windows Store Link](https://apps.microsoft.com/store/detail/almalinux-8-wsl/9NMD96XJJ19F)
+
+### WSL Tools / WSL Utilities
+
+*   [wslu (⭐2.5k)](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslpy (⭐58)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### WSL Tools / Miscellaneous Tools
+
+*   [setup-wsl (⭐73)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### Intellectual Property Notices / Miscellaneous Tools
+
+*   Ubuntu® and Canonical® are registered trademark of Canonical Limited in the United States and/or other countries. [\*](https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy)
+*   The AlmaLinux OS Marks are trademarks of AlmaLinux OS Foundation. [\*](https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/)
+
+## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
-## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Other plugins
 
@@ -80,31 +120,31 @@
 *   [capacitor-plugin-demo (⭐35)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
 *   [capacitor-firebase-plugin-demo (⭐7)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Tools
 
 *   [RunKit](https://runkit.com) - Embed a Node.js environment on any website.
 
-## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Type / React
 
 *   [pothos (⭐1.3k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
-## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Web Apps
 
 *   [bundlejs](https://bundle.js.org) - A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [apollo-vue-devtools (⭐15)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
-## [9. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Data
 

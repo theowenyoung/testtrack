@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -78,6 +78,16 @@
 
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
     (Python, Apache 2.0, [GitHub (⭐731)](https://github.com/dswah/pyGAM))
+
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Boilerplate / Mouse Events
+
+*   [rockpack (⭐422)](https://github.com/AlexSergey/rockpack) - Simple solution for creating React application with SSR, bundling, linting, testing within 5 minutes.
+
+### Server-Side Rendering / Lazy Load
+
+*   [iSSR (⭐88)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 
 ---
 

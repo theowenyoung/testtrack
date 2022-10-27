@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 16, 2020
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,7 +39,14 @@ git branch <branch-name> && git checkout <branch-name>
 git switch -c <branch-name>
 ```
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Security
+
+*   [django-csp (⭐440)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+*   [django-feature-policy (⭐73)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Email
 
@@ -59,7 +66,7 @@ git switch -c <branch-name>
 
 *   [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 
-## [5. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### C#, ASP .NET and .NET Core / More
 
@@ -77,32 +84,42 @@ git switch -c <branch-name>
 
 *   [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### CSharp
 
 *   [Tye (⭐4.8k)](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Component Libraries
 
 *   [Shoelace (⭐7.5k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 
-## [8. Awesome](/content/craftcms/awesome/README.md)
+## [9. Awesome](/content/craftcms/awesome/README.md)
 
 ### Organizations Using Craft / Tutorials
 
 *   [Betterteam](https://www.betterteam.com/)
 *   [NameSnack](https://www.namesnack.com/)
 
-## [9. Awesome Math](/content/rossant/awesome-math/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Blogs
 
 *   [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### QoE / Dolby
+
+*   [Collection of VMAF Resources](https://streaminglearningcenter.com/blogs/collection-of-vmaf-resources.html)  - A colleague asked for some resources relating to VMAF. Rather than answer in an email I thought I would create a post around it. Some of these are from Netflix, most from me (Jan Ozer). I’ve broken the items into three groups; Computing VMAF, Using VMAF, and About VMAF. I hope you find this collection useful.…
+
+### DRM / Dolby
+
+*   [Content Protection for HLS with AES-128 Encryption](https://www.theoplayer.com/blog/content-protection-for-hls-with-aes-128-encryption)  - We will outline the most popular method for content protection with the HTTP Live Streaming (HLS) protocol: AES-128 content encryption.
+
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Cognito
 

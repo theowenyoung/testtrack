@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2019
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,13 +46,23 @@
 
 *   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
-## [3. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [3. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Icofont](https://icofont.com/) - 2100+ free icons to spice up your creative designs.
+
+### Tools
+
+*   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
+
+## [4. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [The Beverages Prices Refactoring Kata (⭐1)](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -74,19 +84,19 @@
 
 *   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
 
-## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Search
 
 *   [Laravel-Searchy (⭐535)](https://github.com/TomLingham/Laravel-Searchy) - Fuzzy search, basic string matching, Levenshtein Distance
 
-## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Loading Images
 
 *   [Coil (⭐8.6k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Algorithm
 
@@ -96,26 +106,26 @@
 
 *   [SwiftFormat (⭐6.2k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
 *   [RocketSkill App iOS Interview Questions (⭐13)](https://github.com/mindash/iOS-structured-interview)
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Performance Testing / Mobile Apps
 
 *   [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
 
-## [10. Awesome Math](/content/rossant/awesome-math/README.md)
+## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
 *   [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 *   [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 
-## [11. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Water
 
@@ -135,7 +145,7 @@
 
     They believe in optimizing the energy consumption without compromising with the convenience and then neutralizing the remaining energy requirement. Their vision is to provide accessibility to affordable power derived from renewable resources, free of geographic and transmission constraints.
 
-## [12. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [13. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
@@ -147,13 +157,13 @@
 
 *   [HackThisSite (⭐216)](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [crie (⭐12)](https://github.com/c910335/crie) - Compile-time Trie
 
-## [14. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -164,7 +174,7 @@
 *   [Automatically add Label or Assignee to an Issue (⭐56)](https://github.com/Naturalclar/issue-action)
 *   [Action to send LGTM reaction as image or GIF when we say lgtm (⭐59)](https://github.com/micnncim/action-lgtm-reaction)
 
-## [15. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / IDE
 

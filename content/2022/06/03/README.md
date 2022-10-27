@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,14 @@
 *   [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource.
 *   [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+
+### Specialty Topics
+
+*   ### Network
+    *   📚 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve’s Source Engine multiplayer system.
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -67,19 +74,19 @@
 
 *   [cState (⭐1.8k)](https://github.com/cstate/cstate) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/)) `MIT` `Go`
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Serialization
 
 *   [knbt (⭐36)](https://github.com/BenWoodworth/knbt) - Minecraft NBT support for kotlinx.serialization
 
-## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [6. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2022
 
 *   [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis](https://proceedings.neurips.cc/paper/2021/file/da94cbeff56cfda50785df477941308b-Paper.pdf) - (NeurIPS) *Sobol indices provide an efficient way to capture higher-order interactions between image regions and their contributions to a (black box) neural network’s prediction through the lens of variance.*
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Markup Languages
 
@@ -89,19 +96,19 @@
 
 *   [wifiqr (⭐215)](https://github.com/reugn/wifiqr) - Wi-Fi QR Code Generator.
 
-## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Blog posts and opinions / German
 
 *   [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - Opinion what the author likes about the Ansible Ad-Hoc mode.
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Documentation
 
 *   [Game Boy Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/game-boy/) - by Rodrigo Copetti.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Games
 
@@ -119,13 +126,13 @@
 
 *   [vityafx/randomorg (⭐7)](https://github.com/vityafx/randomorg) - A random.org client library. [![Crates badge](https://img.shields.io/crates/v/randomorg.svg)](https://crates.io/crates/randomorg)
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Books
 
 *   [ASP.NET Core Web API](https://www.manning.com/books/asp-net-core-web-api) - A book about designing and implementing APIs using the REST and GraphQL standards. **\[$]**
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 

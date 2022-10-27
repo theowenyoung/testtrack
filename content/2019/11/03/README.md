@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2019
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -139,7 +139,22 @@
 
 *   [Oga](https://gitlab.com/yorickpeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
 
-## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Anonymity Tools / Tor Tools
+
+*   [dos-over-tor (⭐8)](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
+
+### Conferences and Events / North America
+
+*   [Hackers Next Door](https://hnd.techlearningcollective.com/) - Cybersecurity and social technology conference held in New York City.
+*   [Hackers On Planet Earth (HOPE)](https://hope.net/) - Semi-annual conference held in New York City.
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [Smart Install Exploitation Tool (SIET) (⭐517)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
+
+## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### HTML Templates / Icons Packages and Collections
 

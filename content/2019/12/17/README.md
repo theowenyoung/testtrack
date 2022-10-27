@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 17, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,13 +49,19 @@
 
 *   [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 
-## [8. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Ebooks / Third Party Hosts
+
+*   [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
+
+## [9. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [FeatHub](https://feathub.com/) - Feature voting for GitHub.
 
-## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Official
 
@@ -79,7 +85,7 @@
 *   [Let's Build a Rust Frontend with Yew](https://dev.to/deciduously/lets-build-a-rust-frontend-with-yew---part-1-3k2o)
 *   [A Web Application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
 
-## [10. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 

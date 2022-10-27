@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -210,6 +210,18 @@
 ### JSON Schema Validators
 
 *   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
+
+## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Logic / Mouse Events
+
+*   [Formily (⭐8.7k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### React / Framework
+
+*   [@vitjs/vit (⭐92)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
 ---
 

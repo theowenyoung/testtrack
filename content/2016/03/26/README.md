@@ -1,24 +1,148 @@
 # Awesome List Updates on Mar 26, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [1. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Invoice Ninja (⭐6.7k)](https://github.com/invoiceninja/invoiceninja)
+
+  Description: Invoice Generation System
+
+  Link: <https://www.invoiceninja.com>
+
+
+- Name: [Faveo (⭐978)](https://github.com/ladybirdweb/faveo-helpdesk)
+
+  Description: Helpdesk Ticketing System
+
+  Link: <http://www.faveohelpdesk.com>
+
+
+- Name: [Timegrid (⭐875)](https://github.com/timegridio/timegrid)
+
+  Description: Online Reservation Platform
+
+  Link: [https://demo.timegrid.io](https://demo.timegrid.io/)
+
+
+- Name: [Laravel.io (⭐2.2k)](https://github.com/laravelio/laravel.io)
+
+  Description: Laravel Community Portal
+
+  Link: <http://laravel.io>
+
+
+- Name: [Attendize (⭐3.5k)](https://github.com/Attendize/Attendize)
+
+  Description: Ticket selling and event management platform
+
+  Link: <https://www.attendize.com>
+
+
+- Name: [LaraShop (⭐73)](https://github.com/ZENLIX/LaraShop)
+
+  Description: A Simple PHP Shop CMS
+
+  Link: <http://it-toys.com>
+
+
+- Name: [92five (⭐1.1k)](https://github.com/chintanbanugaria/92five)
+
+  Description: Self-hosted Project Management App
+
+  Link: <http://92fiveapp.com>
+
+
+- Name: [Paperwork (⭐7.9k)](https://github.com/twostairs/paperwork)
+
+  Description: OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+
+  Link: <http://paperwork.rocks>
+
+
+- Name: [Podcastwala (⭐142)](https://github.com/modestkdr/Podcastwala)
+
+  Description: Podcast System
+
+  Link: 
+
+
+- Name: [Laravel Snippets (⭐329)](https://github.com/basco-johnkevin/laravelsnippets)
+
+  Description: A repository of useful code snippets for Laravel PHP framework
+
+  Link: 
+
+
+- Name: [Freelancer Notes (⭐51)](https://github.com/porimol/freelancer-notes)
+
+  Description: Freelancer Notes
+
+  Link: 
+
+
+- Name: [Critter (⭐59)](https://github.com/msurguy/critterapp)
+
+  Description: Mini-twitter-like app
+
+  Link: <http://demos.maxoffsky.com/critter>
+
+
+- Name: [Cachet (⭐13k)](https://github.com/CachetHQ/Cachet)
+
+  Description: Open Source Status Page System
+
+  Link: [https://cachethq.io (⭐13k)](https://github.com/CachetHQ/Cachet)
+
+
+- Name: [Scrumwala (⭐254)](https://github.com/modestkdr/Scrumwala)
+
+  Description: Your very own Scrum/Agile web app for personal use
+
+  Link: 
+
+
+- Name: [SnipeIT (⭐6.9k)](https://github.com/snipe/snipe-it)
+
+  Description: IT Asset/license Management System
+
+  Link: <http://snipeitapp.com>
+
+
+- Name: [Neontsunami (⭐2)](https://github.com/dwightwatson/neontsunami)
+
+  Description: Personal Website and blog
+
+  Link: <http://www.neontsunami.com>
+
+
+- Name: [Nahid.co (⭐22)](https://github.com/nahid/nahid.co)
+
+  Description: Personal Portfolio and blog project
+
+  Link: <http://nahid.co>
+
+
+
+## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Smali/Baksmali (⭐5.6k)](https://github.com/JesusFreke/smali) – apk decompilation
 
-## [2. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [3. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Boston](http://www.meetup.com/Papers-We-Love-Boston-Cambridge/)
 
-## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [4. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Packages / Video Tutorials
 
@@ -57,13 +181,13 @@
 *   [Conferences](https://wiki.haskell.org/Conferences) - Official list of conferences
 *   [Haskell Implementors' Workshop 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hVfNkQHP7z43r10yNo-mc7B)
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Testing
 
 *   [ex\_unit\_notifier (⭐114)](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 
-## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
@@ -73,13 +197,13 @@
 
 *   [Awesome Music Production (⭐541)](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
-## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2015
 
 *   [Brain Ford: **Problem solving in the open source world**](https://www.youtube.com/watch?v=9iIRZrxK1vA) \[29:57]
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Data Science / Windows
 

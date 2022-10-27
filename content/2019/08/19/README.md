@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,6 +66,12 @@
 ### Applications and Platforms / Time
 
 *   [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
+
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Procedurem (⭐16)](https://github.com/ImVexed/Procedurem) - A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets.
 
 ---
 

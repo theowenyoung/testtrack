@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2020
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -161,7 +161,13 @@ Free (Open Source)
 
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
 
-## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [15. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / Terminals
+
+*   [Alacritty (⭐42k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
+
+## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -171,13 +177,13 @@ Free (Open Source)
 
 *   [Debugger Podcast](https://debuggerpodcast.ge/) - Podcast about development culture, technologies and career growth.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
 *   [MonarchRouter (⭐36)](https://github.com/nikans/MonarchRouter) - Declarative state- and URL-based router. Complex automatic View Controllers hierarchy transitions. Time-tested server-side conventions.
 
-## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [18. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -275,25 +281,25 @@ Free (Open Source)
 
 
 
-## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [19. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Sensor and Acuator Interfaces
 
 *   [ros2\_ouster\_drivers (⭐89)](https://github.com/ros-drivers/ros2_ouster_drivers) - These are an implementation of ROS2 drivers for the Ouster OS-1 3D lidars.
 
-## [19. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [20. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 
-## [20. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   📖 [Firebase Tools UI (⭐206)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 
-## [21. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [22. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles Glimmer
 

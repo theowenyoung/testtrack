@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2019
 
-37 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,7 +13,13 @@
 *   [Clara Rules (⭐1.1k)](https://github.com/cerner/clara-rules)
 *   [Arete (⭐14)](https://github.com/yipeeio/arete)
 
-## [2. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-swipe-to-delete-ios (⭐32)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+
+## [3. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
@@ -29,14 +35,14 @@
 
 *   [datasets-games (⭐6)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
 *   [cJSON (⭐8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐16k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
-## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / a11y
 
@@ -392,7 +398,7 @@
 *   [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL) - Videos of the sessions from EmberConf 2019.
 *   [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js.
 
-## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Connected TVs
 
@@ -451,26 +457,26 @@
 *   [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 *   [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - What's happening with engineering and developers at YouTube.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
 *   [Lisp Discord Server](https://discord.gg/hhk46CE)
 
-## [7. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [8. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome ARM Exploitation (⭐190)](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
 *   [Awesome Threat Modeling (⭐90)](https://github.com/redshiftzero/awesome-threat-modeling) - A curated list of Threat Modeling resources.
 
-## [8. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [9. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Exchanges / Physical Coin Wallets
 
 *   [ExchangeRates.Pro](https://exchangerates.pro) — Price comparison of exchanges worldwide, including the P2P market.
 
-## [9. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -528,7 +534,7 @@
 
 
 
-## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Datasets
 
@@ -543,7 +549,7 @@
 *   [textfiles.com](https://ipfs.io/ipfs/QmNoscE3kNc83dM5rZNUC5UDXChiTdDcgf16RVtFCRWYuU)  [Source (⭐182)](https://github.com/ipfs/archives/issues/155)
 *   [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source (⭐182)](https://github.com/ipfs/archives/issues/21)
 
-## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -553,21 +559,21 @@
 
 *   [openFrameworks tutorial](https://www.youtube.com/watch?v=IKSTo_0pB28\&index=51\&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks - not updated \[2015].
 
-## [12. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
+## [13. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
 ### Mobile
 
 *   Viewport: Tell browsers how to adjust the page's dimensions and scaling to suit the device
     `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTTP
 
 *   [Crawly (⭐626)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
 *   [etag\_plug (⭐19)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Games
 
@@ -577,37 +583,37 @@
 
 *   [open-pip-cli (⭐192)](https://github.com/albinekb/open-pip-cli) - Watch videos in picture-in-picture player.
 
-## [15. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
 *   [Wouter (⭐4.6k)](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
 
-## [16. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [17. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Videos / Other Tools
 
 *   [Declarative Reactive Web Components with Justin Fagnani](https://www.youtube.com/watch?v=9FB0GSOAESo)
 
-## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
 
-## [18. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [19. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
 *   [Linux Kernel Observability through eBPF](https://sematext.com/blog/linux-kernel-observability-ebpf/) - A blog post covering the basics of eBPF as well as code samples in Go on how to build and load a minimal eBPF program into the kernel.
 
-## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [20. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Program analysis
 
 *   [cwe\_checker (⭐741)](https://github.com/fkie-cad/cwe_checker) - cwe\_checker finds vulnerable patterns in binary executables.
 
-## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -615,13 +621,19 @@
 *   [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 *   [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
 
-## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [22. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### React Hooks / Themes
 
 *   [Sunflower(🌻) (⭐480)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Kodi / Third Party Hosts
+
+*   [Burst](http://burst.surge.sh) A torrent content provider to the Quasar plugin.
+
+## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -629,13 +641,13 @@
 *   [Automating Custom IoT Devices With Appium, Part 2](https://appiumpro.com/editions/75)
 *   [Testing React Native Apps with Appium](https://appiumpro.com/editions/76)
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
 *   [zcash (⭐4.7k)](https://github.com/zcash/zcash) — Zcash is an implementation of the "Zerocash" protocol.
 
-## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
@@ -647,31 +659,31 @@
 *   [Google SRE Twitter Account](https://twitter.com/googlesre) - Google's SRE Twitter Account.
 *   [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 
-## [25. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### C / Git
 
 *   [milagro-crypto-c (⭐29)](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
 *   [Rapidbay (⭐398)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [the-elements-of-statistical-learning (⭐362)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
-## [28. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
 *   [thetool (⭐199)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
-## [29. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [31. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -682,7 +694,7 @@
 *   [Open Watcom V2 (⭐690)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
-## [30. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -696,7 +708,7 @@
 
 *   Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
@@ -730,13 +742,13 @@
 
 *   [ValidatedPropertyKit (⭐857)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
-## [32. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [34. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Shell
 
 *   [gulp-execa (⭐52)](https://github.com/ehmicky/gulp-execa) - Cross-platform command execution in Gulp.js.
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
@@ -746,13 +758,13 @@
 
 *   [BinarySerializer (⭐248)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
 
-## [34. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [36. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [zDog (⭐9.4k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
-## [35. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [37. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -763,13 +775,13 @@
 
 *   [CryptOSS (⭐8)](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
 
-## [36. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [38. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### PDF
 
 *   [Open HTML to PDF (⭐1.5k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 

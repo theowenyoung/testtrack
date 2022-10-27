@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,7 +58,13 @@
 
 *   [LearnOSM.org](https://learnosm.org/en/beginner/) - Extensive beginners' guide to editing OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/LearnOSM))
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Electron / Presets
+
+*   [vite-plugin-electron-config (⭐7)](https://github.com/alex8088/vite-plugin-electron-config) - Electron plugin for Vite, support for main process, renderer process and preload script.
+
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -89,7 +95,7 @@
 
 *   [nchi (⭐7)](https://github.com/muir/nchi) - chi-like router built on httprouter with dependency injection based middleware wrappers
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

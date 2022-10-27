@@ -1,6 +1,6 @@
 # Awesome List Updates on May 23, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,7 +103,19 @@ Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
 *   [gdx-graph (⭐11)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### 2FA
+
+*   [Gnome Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Open source two-factor authentication for Linux.
+
+### Self-hosted
+
+*   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
+*   [Immich (WIP) (⭐5.5k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 

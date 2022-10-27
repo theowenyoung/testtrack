@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -168,31 +168,37 @@
 *   Fork [this repository (⭐489)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
-## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Svelte / Integrations
+
+*   [vite-plugin-svelte (⭐563)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+
+## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Automation
 
 *   [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
 
-## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Linters
 
 *   [flake8-type-checking (⭐58)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
-## [12. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [13. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Video Collections
 
 *   [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I) - Session from 2017 DevoxxUK on how to define bounded contexts
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [lambdatest.com](https://www.lambdatest.com/) — Manual, visual, screenshot and automated browser testing on selenium and cypress, [free for Open Source](https://www.lambdatest.com/open-source-cross-browser-testing-tool)
 
-## [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [15. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Global
 

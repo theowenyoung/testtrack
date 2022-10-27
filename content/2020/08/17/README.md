@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,19 +22,25 @@
 
 
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Music Downloading / Third Party Hosts
+
+*   [/r/deemix](https://www.reddit.com/r/deemix) Community supporting Deemix
+
+## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Components / Other / unknown licence
 
 *   [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.
 
-## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [4. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Continuous integration
 
 *   [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - Example of how to directly link to the latest build artifact on GitLab CI (can be tricky).
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -45,7 +51,7 @@
 *   [Securing DevOps](https://manning.com/books/securing-devops) - A book on Security techniques for DevOps that reviews state of the art practices used in securing web applications and their infrastructure.
 *   [ansible-os-hardening (⭐2.9k)](https://github.com/dev-sec/ansible-os-hardening) - Ansible role for OS hardening
 
-## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -55,7 +61,7 @@
 
 *   [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives) - A curated list of (F)OSS / Federated alternatives to proprietary software and services.
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### API Builder and Discovery
 
@@ -69,25 +75,25 @@
 
 *   [Kimurai (⭐922)](https://github.com/vifreefly/kimuraframework) - A modern web scraping framework written in Ruby which works out of box with Headless Chromium/Firefox, PhantomJS, or simple HTTP requests and allows to scrape and interact with JavaScript rendered websites.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2017
 
 *   [Anjana Vakil: **Immutable data structures for functional JS**](https://www.youtube.com/watch?v=Wo0qiGPSV-s) \[26:32]
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Graph databases
 
 *   [cl-agraph (⭐24)](https://github.com/vseloved/cl-agraph), a minimal client for [AllegroGraph](https://allegrograph.com/). AllegroGraph is a horizontally distributed, multi-model (document and graph), entity-event knowledge graph technology. It is proprietary and has a free version with a limit of 5 million triples.
 
-## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Around IT In 256 Seconds](https://256.nurkiewicz.com/) - Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.
 
-## [10. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [11. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Learning
 
@@ -97,26 +103,26 @@
 *   ✍️ [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear)
 *   ✍️ [Embracing The Tall Stack with Event Sourcing, an adventure into the unknown](https://www.juststeveking.uk/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown/)
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-audio ★798 (⭐1.1k)](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps. (no longer maintained)
 *   [react-native-audio-toolkit ★764 (⭐978)](https://github.com/react-native-community/react-native-audio-toolkit) - Audio playback and recording for react-native. In addition to basic functionality, many useful features are implemented such as seeking, looping and streaming audio files over the network.
 
-## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Debugging and Tracing
 
 *   [hotspot (⭐2.8k)](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-component-media-queries (⭐65)](https://github.com/CyberAP/vue-component-media-queries) - MatchMedia component library for Vue.
 
-## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

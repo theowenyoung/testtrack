@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04 - Jun 10, 2018
 
-55 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,7 +62,13 @@
 
 *   [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
 
-## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Other Tools / Telegram
+
+*   [The Harvester (⭐7.5k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+
+## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
@@ -81,13 +87,13 @@
 *   [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and
     Assembly Browser.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Error Budget Calculator](https://dastergon.gr/error-budget-calculator/)
 
-## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -113,7 +119,7 @@
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
 *   [Pyora (⭐104)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
-## [9. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [10. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Application Frameworks
 
@@ -129,13 +135,13 @@
 *   [CFML Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml) - CFML Language extension for [VSCode](https://code.visualstudio.com/)
 *   [CFML Language for Atom (⭐38)](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 
-## [10. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Ryan Dahl: **10 Things I Regret About Node.js**](https://www.youtube.com/watch?v=M3BM9TB-8yA) \[26:41]
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -158,37 +164,37 @@
 
 *   [posh-dotnet (⭐38)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli).
 
-## [12. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [13. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Tutorials
 
 *   [Programming Community Curated Resources for Learning Vagrant](https://hackr.io/tutorials/learn-vagrant)
 
-## [13. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [14. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Java / More
 
 *   [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [bs::framework (⭐1.7k)](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. \[MIT]
 
-## [15. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
+## [16. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
 ### Web Apps (frontend only) / [Codesandbox](https://github.com/CompuIves/codesandbox-client)
 
 *   GNU General Public License
 
-## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [17. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Client/Server Communication
 
 *   [cljs-ajax (⭐642)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
-## [17. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [18. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
@@ -248,13 +254,13 @@
 *   [FX Hammer (⭐5)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐16)](https://github.com/sanqui/hm3)
 
-## [18. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [19. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_snippets (⭐48)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [19. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [20. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -263,13 +269,13 @@
 *   [C.XSS Guide](https://excess-xss.com/) - Written by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
 *   [THE BIG BAD WOLF - XSS AND MAINTAINING ACCESS](http://www.paulosyibelo.com/2018/06/the-big-bad-wolf-xss-and-maintaining.html) - Written by [Paulos Yibelo](http://www.paulosyibelo.com/).
 
-## [20. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [21. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Custom Element / Aurelia Articles
 
 *   [aurelia-toolbelt (⭐65)](https://github.com/aurelia-toolbelt/aurelia-toolbelt) \* A set of components for bootstrap4, it also includes other components and value converters.
 
-## [21. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [22. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
@@ -288,7 +294,7 @@
 *   [gvisor (⭐13k)](https://github.com/google/gvisor)\
     gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It includes an Open Container Initiative (OCI) runtime called runsc that provides an isolation boundary between the application and the host kernel. The runsc runtime integrates with Docker and Kubernetes, making it simple to run sandboxed containers.
 
-## [22. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [23. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Code
 
@@ -298,7 +304,7 @@
 
 *   [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D\&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
 
-## [23. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Articles
 
@@ -327,7 +333,7 @@
 *   [Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site](https://www.youtube.com/watch?v=KJWCGq3IRNc) - Chris talks you through setting up and using custom site settings.
 *   [Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide](https://www.youtube.com/watch?v=_CfU9UivYPI) - It’s a really helpful resource that takes no time at all to enable and it allows you to check your components against the guidelines and shows all the available Wagtail icons.
 
-## [24. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [25. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Tools / Chinese
 
@@ -341,55 +347,125 @@
 
 *   [VisualCaptcha (⭐405)](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
 
-## [25. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [26. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
 *   [The 80-20 Approach to Sustainable SCSS](https://zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html)
 
-## [26. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [27. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Bloggers
 
 *   [Neil Mitchell](https://neilmitchell.blogspot.com/) - Neil Mitchell's Haskell Blog.
 
-## [27. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [28. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [Vs (⭐166)](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js \[bar, line, area, pie, donut, stacked, sankey, timeline]
 
-## [28. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [29. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [ESLint (⭐21k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 
-## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Algebra / Linear Algebra
 
 *   [Introduction to Applied Linear Algebra](https://web.stanford.edu/\~boyd/vmls/vmls.pdf) - Stephen Boyd (Stanford University), Lieven Vandenberghe (UCLA)
 
-## [30. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [31. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Heart
 
 *   [HRV4Training](https://www.hrv4training.com/) - Track Heart Rate Variability, Stress, and other contextual data points using your smartphone camera and receive personalized advice to optimize your health and training (iOS, Android).
 
-## [31. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [32. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+
+### Programming Language Design Patterns
+
+*   C++
+    *   [design-patterns](http://www.vincehuston.org/dp/)
+*   Kotlin
+    *   [design-patterns (⭐5.4k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+*   PHP
+    *   [humans (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
+*   Ruby
+    *   [design-patterns (⭐2.1k)](https://github.com/davidgf/design-patterns-in-ruby)
+*   Swift
+    *   [design-patterns (⭐14k)](https://github.com/ochococo/Design-Patterns-In-Swift)
+*   Vue.js
+    *   [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
+
+### General Architecture
+
+*   [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
+*   [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
+*   [system-design-primer (⭐201k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+
+### Cloud Architecture
+
+*   [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
+
+### Micro services & Distributed Systems
+
+*   [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
+*   [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
+
+### Internet of things
+
+*   [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.
+*   [design-patterns-for-iot](https://community.arm.com/iot/b/blog/posts/design-patterns-for-an-internet-of-things) - A Design Pattern Framework for IoT Architecture.
+
+### DevOps & containers
+
+*   [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
+
+### Mobile
+
+*   IOS
+    *   [ios-architecture-patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+*   Android
+    *   [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android.
+
+    *   [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown.
+
+### Front-End Development
+
+*   [css-protips (⭐23k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+
+### Security
+
+*   [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns.
+*   [cloud-security](https://www.infoq.com/articles/cloud-security-architecture-intro) - Cloud security architecture intro.
+*   [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
+*   [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
+
+### Other Awesome Lists
+
+*   Other amazingly awesome lists can be found in the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
+
+### Contributing
+
+*   Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md/contributing.md) first.
+
+## [33. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
 *   [Gitment (⭐4k)](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 
-## [32. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [Pieman (⭐193)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
-## [33. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [35. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Events
 
@@ -435,13 +511,13 @@
 *   [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
 *   [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
 
-## [34. Awesome](/content/craftcms/awesome/week/README.md)
+## [36. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
 *   [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
 
-## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -456,50 +532,50 @@
 
 *   [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp) - A Heroku buildpack that uses Roswell to compile Common Lisp applications. LGPL3.
 
-## [36. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 
-## [37. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [39. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Habit Trackers
 
 *   [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 
-## [38. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [40. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [CSRF (⭐33)](https://github.com/vapor-community/CSRF) – A package to add protection to Vapor against CSRF attacks.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [FluentQuery (⭐145)](https://github.com/MihaelIsaev/FluentQuery) – Build complex raw SQL queries while still using Swift keypaths.
 
-## [39. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [41. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Browser extensions
 
 *   [Github XP (⭐2.7k)](https://github.com/martenbjork/github-xp) - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
 
-## [40. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [42. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Icons / Themes
 
 *   [Ant Design Icons (⭐55)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
 
-## [41. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [43. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Tutorials
 
 *   [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
 
-## [42. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [44. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Usage in Production
 
 *   [Patreon](https://www.patreon.com/)
 
-## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Polyfills
 
@@ -513,7 +589,7 @@
 
 *   [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
 
-## [44. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [46. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 
@@ -589,7 +665,7 @@
 *   [Python Reference (⭐3.4k)](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 *   [List of Free Learning Resources (⭐252k)](https://github.com/vhf/free-programming-books) - Freely available programming books
 
-## [45. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
@@ -597,7 +673,7 @@
 *   [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 *   [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Media
 
@@ -607,19 +683,19 @@
 
 *   [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 
-## [47. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [49. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Payments
 
 *   [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 
-## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Scheduling
 
 *   [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
 
-## [49. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [51. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -633,7 +709,7 @@
 
 *   [Lospec palette list](https://lospec.com/palette-list) - Collection of color palettes for pixel art with examples and artist information.
 
-## [50. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
@@ -651,13 +727,13 @@
 
 *   [Differific (⭐127)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
-## [51. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [53. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
 *   [alexa-skills-kit-js (⭐3.1k)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 
-## [52. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [54. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Computer Graphics
 
@@ -667,7 +743,7 @@
     *   [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
     *   [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
 
-## [53. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [55. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -677,7 +753,7 @@
 
 *   [shallow-backup (⭐968)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
-## [54. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [56. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Training (Includes developer training for automation testers) / Other
 
@@ -689,7 +765,7 @@
 *   [Michael Bolton](http://www.developsense.com/blog/)
 *   [Janet Gregory](http://janetgregory.ca/blog/)
 
-## [55. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [57. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Static Analysis
 

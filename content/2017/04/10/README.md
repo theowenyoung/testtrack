@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,13 @@
 
 *   [phalcon-demo (⭐42)](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
 
-## [3. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Fact Checking / Telegram
+
+*   [Check](https://meedan.com/check)
+
+## [4. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Convolutional Neural Network Models
 
@@ -39,19 +45,19 @@
 
 *   Region-based convolutional networks for accurate object detection and segmentation (2016), R. Girshick et al.
 
-## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
 *   [expyriment (⭐102)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
-## [5. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Browser extensions
 
 *   [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 
-## [6. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing
 
@@ -61,7 +67,7 @@
     *   *How I made a pure-Ruby word2vec program more than 3x faster* by [Kei Sawada](https://twitter.com/remore) <sup>\[[slides](https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster)]</sup>
     *   *Dōmo arigatō, Mr. Roboto: Machine Learning with Ruby* by [Eric Weinstein](https://twitter.com/ericqweinstein) <sup>\[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) | [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
 
-## [7. Jstips](/content/loverajoel/jstips/README.md)
+## [8. Jstips](/content/loverajoel/jstips/README.md)
 
 ### Support the community / Let’s keep in touch
 
@@ -137,13 +143,13 @@
 *   01 - [AngularJS: `$digest` vs `$apply`](http://www.jstips.co/en/angular/angularjs-digest-vs-apply/)
 *   00 - [Insert item inside an Array](http://www.jstips.co/en/javascript/insert-item-inside-an-array/)
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
 *   [crz (⭐84)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Quick References • Cheatsheets / Other
 
@@ -154,13 +160,13 @@
 
 *   [Machine Learning (⭐938)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐366)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 28, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -105,13 +105,19 @@
 
 *   [tRPC Prisma Starter (⭐237)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
-## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [Alldaytrends](https://alldaytrends.com) - A website where you can find trending hashtags.
+
+## [12. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna, Joel Bernanke, Kakyeong Kim, Natalie Aw, Jordan D. Dworkin, Jiook Cha, Jonathan Posner (2021).
 
-## [12. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 

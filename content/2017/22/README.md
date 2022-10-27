@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29 - Jun 04, 2017
 
-39 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1054,7 +1054,88 @@
 
 *   [feedparser (⭐160)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### General Search
+
+*   [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
+*   [Google Search](http://www.google.com) - Most popular search engine.
+
+### Code Search
+
+*   [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+
+### Social Media Tools / Reddit
+
+*   [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
+*   [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features) - Mostly Harmless looks up the page you are currently viewing to see if it has been submitted to reddit.
+*   [Reddit Archive](http://www.redditarchive.com) - Historical archives of reddit posts.
+*   [Subreddits](http://subreddits.org) - Discover new subreddits.
+*   [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
+
+### Social Media Tools / VKontakte
+
+*   [VK Parser](http://vkparser.ru) - A tool to search for a target audience and potential customers.
+
+### Social Media Tools / LinkedIn
+
+*   [FTL](https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB) - Browser plugin that finds emails of people's profiles in LinkedIn.
+
+### Blog Search / Telegram
+
+*   [Notey](http://www.notey.com) - Blog post search engine.
+
+### Username Check / Telegram
+
+*   [Knowem](http://www.Knowem.com) - Search for a username on over 500 popular social networks.
+
+### Phone Number Research / Telegram
+
+*   [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
+*   [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
+
+### Domain and IP Research / Telegram
+
+*   [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
+*   [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
+*   [IPVoid](http://www.ipvoid.com) - IP address toolset.
+*   [Who.is](https://who.is/) - Domain whois information.
+
+### Keywords Discovery and Research / Telegram
+
+*   [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
+*   [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
+
+### Web History and Website Capture / Telegram
+
+*   [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
+
+### Stock Images / Telegram
+
+*   [Unsplash](https://unsplash.com) - Free high-resolution photos.
+
+### Academic Resources and Grey Literature / Telegram
+
+*   [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
+
+### Browsers / Telegram
+
+*   [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
+
+### PDF Management / Telegram
+
+*   [Sejda](https://www.sejda.com/)
+
+### Other Tools / Telegram
+
+*   [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
+*   [Intrigue Core (⭐1.2k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
+*   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
+*   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
+*   [OsintStalker (⭐522)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1069,7 +1150,7 @@
 *   [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 *   [A collection of postmortem templates (⭐971)](https://github.com/dastergon/postmortem-templates)
 
-## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -1079,7 +1160,17 @@
 
 *   [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp. Published in 2015.
 
-## [37. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [38. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Awesome Repositories
+
+- Repository: [Social Engineering (⭐1.6k)](https://github.com/v2-dev/awesome-social-engineering)
+
+  Description: List of awesome social engineering resources
+
+
+
+## [39. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -1102,13 +1193,13 @@
 
 *   [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
 
-## [38. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [40. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Python
 
 *   [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 
-## [39. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [41. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -89,6 +89,16 @@
 
 *   [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 *   [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits.
+
+## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Swift
+
+*   [*Advanced Swift* by Chris Eidhof, Ole Begemann, and Airspeed Velocity](https://www.objc.io/books/advanced-swift)
+
+### Architecture
+
+*   [*Advanced iOS App Architecture* by Rene Cacheaux, Josh Berlin](https://store.raywenderlich.com/products/advanced-ios-app-architecture)
 
 ---
 

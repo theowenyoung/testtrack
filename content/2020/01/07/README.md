@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -166,6 +166,28 @@
 ### Applications / Cryptocurrencies
 
 *   [CITA (⭐1.3k)](https://github.com/citahub/cita) — A high performance blockchain kernel for enterprise users.
+
+## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Rails
+
+- Name: [Spree (⭐12k)](https://github.com/spree/spree)
+
+  Description: E-commerce Solution
+
+  Link: <http://spreecommerce.com>
+
+
+
+### React Native
+
+- Name: [Ulangi (⭐365)](https://github.com/ulangi/ulangi)
+
+  Description: A flashcard app to learn language with different learning methods
+
+  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.ulangi)
+
+
 
 ---
 

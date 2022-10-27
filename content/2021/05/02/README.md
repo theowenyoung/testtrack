@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,6 +71,12 @@
 ### Paid Tutorials / Courses / Other helpful Plugins
 
 *   2021.01: [Building a Headless WordPress Site with Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby) - This course is a step-by-step walk through using gatsby-source-wordpress plugin to create a fully functional headless Gatsby WordPress site with posts, pages, categories, tags, post navigation and other features.
+
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Select
+
+*   [react-column-select (⭐10)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
 
 ---
 

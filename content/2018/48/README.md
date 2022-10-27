@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26 - Dec 02, 2018
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -710,14 +710,87 @@
 
 *   [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 
-## [50. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [50. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Userscripts
+
+*   [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
+
+### Password Vaults
+
+*   [Psono](https://psono.com/) Open source and self-hosted password manager for teams
+
+### Privacy
+
+*   [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
+
+### Windows 10 Privacy
+
+*   [Windows 10 Privacy Guide (⭐1.3k)](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
+
+### Trackers / Private Trackers
+
+*   [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
+*   [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
+*   [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
+*   [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
+*   [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
+*   [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
+*   [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
+*   [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
+
+### Trackers / Public Trackers
+
+*   [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
+
+### Tracker Proxies / Public Trackers
+
+*   [Cardigann (⭐433)](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
+*   [nzbhydra2 (⭐938)](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
+
+### Seedboxes / Web-based Cloud Seedboxes
+
+*   [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [swizzin](https://swizzin.ltd/) a light, modular package management suite for media-oriented servers
+
+### Usenet / Seedbox Setup Tools and Guides
+
+*   [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
+*   [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use Usenet.
+
+### Usenet Indexers / Free Indexers
+
+*   [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary Usenet newsgroups.
+
+### Usenet Clients / Free Indexers
+
+*   [Usenetic](https://www.usenetic.com/) The full-featured Usenet client for Mac OSX
+*   [spotweb (⭐405)](https://github.com/spotweb/spotweb) Spotweb is a decentralized Usenet community based on the Spotnet protocol.
+
+### Gaming / Third Party Hosts
+
+*   [/r/CrackWatch](https://reddit.com/r/CrackWatch/) :star2: New video game crack releases are posted here
+*   [cs.rin.ru](https://cs.rin.ru/) Popular gaming piracy forum
+
+### Discord Servers / Third Party Hosts
+
+*   [Snahp.it](https://discord.gg/ypyKZCj) Official Discord server for snahp.it.
+
+## [51. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [angular-nvd3 (⭐1.3k)](https://github.com/krispo/angular-nvd3) - NVd3 for AngularJS \[line, stacked, bar, area, scatter, bullet, donut]
 *   [line-chart (⭐1.2k)](https://github.com/n3-charts/line-chart) - Line chart module for AngularJS \[line, area, bar]
 
-## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
@@ -727,27 +800,27 @@
 
 *   [vim-iced (Vim) (⭐473)](https://github.com/liquidz/vim-iced)
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnet-tools (⭐1.5k)](https://github.com/natemcmaster/dotnet-tools) - A list of tool extensions for .NET Core Command Line (dotnet CLI).
     *   [LibMan CLI (⭐390)](https://github.com/aspnet/LibraryManager) - Client-side content manager for web apps.
 
-## [53. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [54. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Libraries
 
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 
-## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [55. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - Book that teaches you practical use and deployment of OAuth 2 from the perspectives of a client, an authorization server, and a resource server.
 *   [OWASP ZAP Node API (⭐28)](https://github.com/zaproxy/zap-api-nodejs) - Leverage the OWASP Zed Attack Proxy (ZAP) within your NodeJS applications with this official API.
 
-## [55. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [56. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 15, 2019
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,19 +13,31 @@
 *   [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
-## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Runtime / Playground
+
+*   [typescript-is (⭐888)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+
+## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - This early-access book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [3. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [4. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Infrastructure / Transactions
 
 *   [HBase-QoD (⭐1)](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Projects / Open Source Projects
+
+*   [Bootcamp: An enterprise social network (⭐2.2k)](https://github.com/vitorfs/bootcamp)
+
+## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -60,7 +72,7 @@ Webpage: <http://www.cafevitoria.com/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ✔    | ✔     | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am |
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Logging and monitoring
 
@@ -78,7 +90,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [kube-client.cr (⭐19)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -94,13 +106,13 @@ Webpage: <http://www.cafevitoria.com/>
 
 
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Content Management Systems (CMS)
 
 *   [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code (⭐245)](https://github.com/contao/contao/)) `LGPL-3.0` `PHP`
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Education
 
@@ -116,7 +128,7 @@ Webpage: <http://www.cafevitoria.com/>
 *   [How many nines is my storage system?](https://medium.com/@jamesacowling/how-many-nines-is-my-storage-system-7d16e852d56d)
 *   [Don't follow the sun.](https://lethain.com/dont-follow-the-sun/)
 
-## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Other
 

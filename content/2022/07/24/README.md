@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24, 2022
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,6 +29,12 @@
 ### Packages / Miscellaneous
 
 *   [wild-wild-path (⭐512)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Files/Images
+
+*   [django-pictures (⭐77)](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
 
 ---
 

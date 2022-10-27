@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2020
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,7 +62,13 @@
 
 *   [React Native WidgetKit (⭐114)](https://github.com/fasky-software/react-native-widgetkit) - React Native Library for the iOS WidgetKit Framework
 
-## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Tools / Free Indexers
+
+*   [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
+
+## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
@@ -70,20 +76,38 @@
 *   [Provamel](https://www.provamel.com/) - Delicious organic and biological plant-based yogurts, milky drinks, and soy desserts.
 *   [Vega](https://myvega.com/) - Big selection of plant-based protein powders, power bars, vitamins, and supplements for bodybuilders and fitness people.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Editor Plugins
 
 *   [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
-## [7. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Main National Search Engines
+
+*   [Seznam(Czech Republic)](https://seznam.cz)
+
+### Browsers / Telegram
+
+*   [Atom](https://browser.ru/)
+
+## [9. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Chrome Extensions:
+
+- Website: [daily.dev - News for Busy Developers](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)
+
+
+
+## [10. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Events / Conferences
 
 *   [performance.now()](https://perfnow.nl/) – The performance.now() conference will return to Amsterdam! We're a single track conference with fourteen world-class speakers, covering today’s most important web performance insights.
 *   [#PerfMatters](https://perfmattersconf.com/) – #PerfMatters Conference is the ONLINE web performance conference by internationally renowned performance developers.
 
-## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [11. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 

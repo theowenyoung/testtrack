@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 30, 2020
 
-27 awesome lists updated today.
+28 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -129,13 +129,22 @@
 
 *   [Twitter](https://twitter.com/substrate_io) - Follow us to stay up-to-date.
 
-## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / General
+
+*   [django-filter (⭐3.9k)](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
+*   [django-guardian (⭐3.3k)](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+*   [django-sql-explorer (⭐2k)](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
+*   [django-tables2 (⭐1.6k)](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
+
+## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Stock Market Analysis using Stacked Ensemble Learning Method (⭐0)](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  Malkar Takle. (2020)
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Search Engines
 
@@ -145,7 +154,7 @@
 
 *   [Microgit (⭐41)](https://github.com/microgit-com/microgit) - Git hosting service made in Crystal and Lucky. `MIT` `Crystal`
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Coding exercises / Windows
 
@@ -155,13 +164,13 @@
 
 *   [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)
 
-## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### Resources / Articles
 
@@ -171,13 +180,13 @@
 
 *   [AppImage: Portable applications for Linux](https://www.youtube.com/watch?v=nzZ6Ikc7juw) - Official AppImage introduction video by its founder.
 
-## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [9. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
 *   [Google Charts](https://developers.google.com/chart) - Interactive charts for browsers and mobile devices.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -204,50 +213,50 @@
 *   [mmf-blog-vue2-ssr (⭐174)](https://github.com/lincenying/mmf-blog-vue2-ssr) - A blog built with Vue 2.0, vue-router & vuex, with server-side rendering
 *   [PingBreak](https://pingbreak.com) - A free and simple website monitoring service using vuejs for real-time dashboard
 
-## [10. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [11. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
 *   [How To Move Your Organization From Fear To Fearlessness](https://liberationist.org/how-to-move-your-organization-from-fear-to-fearlessness/) - By Gustavo Razzetti.
 
-## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
 *   [Splashbase](http://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
 *   [Streetwill](http://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
 *   [Fwitter (⭐2.1k)](https://github.com/TheAlphamerc/flutter_twitter_clone) <!--stargazers:TheAlphamerc/flutter_twitter_clone--> - Full Twitter clone using Firebase solution by [Sonu Sharma](https://github.com/TheAlphamerc)
 
-## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [14. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Web Development
 
 *   [snunit (⭐86)](https://github.com/lolgab/snunit) - Scala Native HTTP server based on NGINX Unit.
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Misc Articles
 
 *   [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 
-## [15. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [16. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Product Catalog / Market Research
 
 *   [Akeneo PIM (⭐861)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
-## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [17. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / Engineers
 
 *   [The different engineering levels at Google](https://news.ycombinator.com/item?id=24627229) - From L3 to L8: a quick description of what makes an engineer at each level.
 
-## [17. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [18. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Binary files examination and editing / Other
 
@@ -257,19 +266,19 @@
 
 *   [prompt(1) to win](http://prompt.ml/) - XSS Challenges
 
-## [18. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Social Networking
 
 *   [Thredded (⭐1.5k)](https://github.com/thredded/thredded) - Rails 4.2+ forums/messageboards engine. Its goal is to be as simple and feature rich as possible.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Editors
 
 *   [Nova Elixir (⭐8)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 
-## [20. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [21. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Audio
 
@@ -279,14 +288,14 @@
 
 *   [Vimeo](https://vimeo.com/) - Paid - Embeddable videos with no ads.
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [22. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Wrappers
 
 *   [cl-mango (⭐1)](https://github.com/cmoore/cl-mango/) -  A minimalist CouchDB 2.x database client. BSD\_3Clause.
     *   See also [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
-## [22. Public Apis](/content/public-apis/public-apis/README.md)
+## [23. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -302,13 +311,13 @@
 
 
 
-## [23. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [24. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Exploits & Payloads / Development
 
 *   [PayloadsAllTheThings (⭐42k)](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
-## [24. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [25. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
@@ -322,19 +331,19 @@
 
 *   [Hawkeye (⭐358)](https://github.com/hawkeyesec/scanner-cli) - *Hawkeyesec* - Modularised CLI tool for project security, vulnerability and general risk highlighting.
 
-## [25. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
+## [26. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 
 ### Apps / File Transfer
 
 *   [qr-filetransfer (⭐887)](https://github.com/sdushantha/qr-filetransfer) - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
-## [26. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [27. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Science / Other
 
 *   [BioJava](https://biojava.org/) - Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

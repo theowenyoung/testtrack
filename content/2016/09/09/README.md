@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,7 +13,19 @@
 *   SEC: Seed, Expand and Constrain
     *   Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [\[Paper\]](http://pub.ist.ac.at/\~akolesnikov/files/ECCV2016/main.pdf) [\[Code\] (⭐241)](https://github.com/kolesman/SEC)
 
-## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [2. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Color
+
+*   [ColorDrop](https://colordrop.io/)
+
+### Icon and Logo
+
+*   [FLATICON](http://www.flaticon.com/)
+*   [Game Icons](http://game-icons.net/)
+*   [Material Design Icons](https://materialdesignicons.com/)
+
+## [3. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Tools
 
@@ -23,7 +35,7 @@
 
 *   [aurelia-resize (⭐17)](https://github.com/MeirionHughes/aurelia-resize) \* aurelia plugin to observe DOM-element resize events
 
-## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -33,13 +45,13 @@
 
 *   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

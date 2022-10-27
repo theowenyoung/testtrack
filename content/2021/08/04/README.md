@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -143,19 +143,25 @@
 
 *   [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Laravel / Community
+
+*   [Laravel Vite (⭐570)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Tools
 
 *   [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
 
-## [10. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [11. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Tools
 
 *   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 
-## [11. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [12. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Standout Projects
 

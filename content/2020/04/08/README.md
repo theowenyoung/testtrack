@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -158,7 +158,22 @@
 
 *   [Kapitsa (⭐6)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
-## [10. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Table
+
+*   [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
+
+### Chart
+
+*   [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
+*   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
+
+### Form Components / Date / Time picker
+
+*   [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
+
+## [11. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
 ### Word Processors
 
@@ -213,13 +228,13 @@
 *   [Markdown lint tool (⭐1.4k)](https://github.com/markdownlint/markdownlint) - Markdown linter.
 *   [remarklint (⭐832)](https://github.com/remarkjs/remark-lint) - Markdown linter.
 
-## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
 *   [Scapy (⭐81)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
 
-## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / StreamField
 
@@ -229,7 +244,7 @@
 
 *   [wagtail-admin-list-controls (⭐36)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### CSV
 

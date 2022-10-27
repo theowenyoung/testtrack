@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2021
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,49 +12,55 @@
 
 *   [Flowdash](https://flowdash.com/) — Automate business workflows. Free tier for up to 3 users, 1000 tasks, and 3 workflows.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Additional Resources / Miscellaneous Tools
+
+*   [Portable Node.js guide (⭐1.3k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Noteship](https://noteship.com) - Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [scapegoat](https://crates.io/crates/scapegoat): Safe, stack-only alternative to `BTreeSet` and `BTreeMap`. - [![crates.io](https://img.shields.io/crates/v/scapegoat.svg)](https://crates.io/crates/scapegoat)
 
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Desktop / Game Engine resources
 
 *   [Awesome Flutter Desktop (⭐979)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Elastic
 
 *   [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 
-## [6. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### [Strange Days](https://www.imdb.com/title/tt0114558/)   (1995) [7.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
 
 *   [@potherca](https://github.com/potherca)
 
-## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
 *   [reFlutter (⭐869)](https://github.com/ptswarm/reFlutter) - Flutter Reverse Engineering Framework
 
-## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authentication / Public-Key Infrastructure (PKI)
 
 *   [PKI for busy people](https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b) - Quick overview of the important stuff.
 
-## [9. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [10. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -66,14 +72,14 @@
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057) - Harris, J. D., & Waggoner, B. (2019, July). Decentralized and collaborative AI on blockchain. In *2019 IEEE International Conference on Blockchain (Blockchain)* (pp. 368-375). IEEE.
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10) - Harris, J. D. (2020, September). Analysis of Models for Decentralized and Collaborative AI on Blockchain. In *International Conference on Blockchain* (pp. 142-153). Springer, Cham.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### VSCode / Third-party APIs
 
 *   [alive (⭐116)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -83,7 +89,7 @@
 
 *   [saifulapm/chartoggle.nvim (⭐23)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line for Neovim.
 
-## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Build Tools
 
@@ -108,25 +114,35 @@
 *   [fansi (⭐207)](https://github.com/com-lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 *   [mainargs (⭐147)](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vital (⭐136)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-sass-dts (⭐43)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
 
-## [14. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [16. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Editors
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
 
-## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
 *   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 

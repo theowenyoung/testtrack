@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,13 +26,19 @@
 
 *   [Snyk](https://snyk.io/) - Finds and fixes vulnerabilities and license violations in open source dependencies and container images.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### CTF Tools / Malware Analysis Books
+
+*   [RsaCtfTool (⭐3.9k)](https://github.com/Ganapati/RsaCtfTool) - Decrypt data enciphered using weak RSA keys, and recover private keys from public keys using a variety of automated attacks.
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)) `AGPL-3.0` `Perl`
 
-## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Version Control
 
@@ -40,7 +46,7 @@
 *   [nbdime (⭐2.3k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
-## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Package and Build Management
 
@@ -58,7 +64,7 @@
 
 *   [Coq'Art Exercises and Tutorials (⭐71)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
-## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / SEO and SMO
 
@@ -68,38 +74,38 @@
 
 *   [wagtail-contact-reply (⭐23)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 
-## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Replay
 
 *   [InterPlanetary Wayback (ipwb) (⭐503)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using [IPFS](https://ipfs.io/).
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [fzy (⭐33)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [Alexandria](http://www.alexandria.io/) - Decentralized content publishing / monetization platform.
 
-## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Model Training
 
 *   [Apples-to-apples in cross-validation studies: pitfalls in classifier performance measurement](https://dl.acm.org/doi/abs/10.1145/1882471.1882479) 🎓
 *   [Pitfalls of supervised feature selection](https://academic.oup.com/bioinformatics/article/26/3/440/213774) 🎓
 
-## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [12. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Fonts
 
 *   [Recursive Sans & Mono (⭐2.4k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -123,32 +129,32 @@
 *   [Storage (⭐219)](https://github.com/BlazorExtensions/Storage) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Storage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Storage?style=flat-square\&cacheSeconds=86400) HTML5 Storage API implementation for Microsoft Blazor.
 *   [Blazor.Polyfill (⭐114)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Search
 
 *   [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
 
-## [14. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [15. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tutorials
 
 *   [Upgrading Salt to Python 3](https://salt.tips/upgrading-salt-to-python-3/) - How to switch SaltStack from Python2 to Python3.
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [NetCoreBeauty (⭐205)](https://github.com/nulastudio/NetCoreBeauty) - Simple library to move a .NET Core app runtime components and dependencies into a sub-directory and make it beauty.
 
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
 *   [Spotify TUI (⭐14k)](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
 *   [Spotifyd (⭐6.5k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 

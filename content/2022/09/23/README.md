@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2022
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,19 @@
 
 *   [AFLplusplus/LibAFL (⭐1.1k)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
 
-## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Translation and Speech-to-Text
+
+*   [OpenAI Whisper (⭐13k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Privacy and Encryption Tools / Telegram
+
+*   [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
+
+## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Editors / Mobile Editors
 

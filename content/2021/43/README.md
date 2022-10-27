@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25 - Oct 31, 2021
 
-60 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -201,20 +201,38 @@
 *   [Aaia (⭐254)](https://github.com/rams3sh/Aaia) - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
 *   [Principal Mapper (PMapper) (⭐1.1k)](https://github.com/nccgroup/PMapper) - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
 
-## [22. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Pastebins
+
+*   [codepad](http://codepad.org)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [MailTester](http://mailtester.com)
+
+### Language Tools / Telegram
+
+*   [India Typing](https://indiatyping.com/index.php/translate/english-to-hindi)
+
+### Data and Statistics / Telegram
+
+*   [UNESCO Institute for Statistics](http://uis.unesco.org)
+
+## [23. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / Aya
 
 *   [aya (⭐1.3k)](https://github.com/aya-rs/aya) - A pure Rust library for writing, loading, and managing eBPF objects, with a focus on developer experience and operability. It supports writing eBPF programs in Rust and distributing library code over crates.io to share it between eBPF programs. Aya does not depend on libbpf.
 *   [aya-template (⭐25)](https://github.com/aya-rs/aya-template) - Templates for writing BPF applications in Aya that can be used with [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
 
-## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) (October, 2021)
 
-## [24. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
+## [25. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
 
 ### Guidelines
 
@@ -228,14 +246,14 @@
 
 *   Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it via a BR (not a PR ;-)).
 
-## [25. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [26. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [PyDMD (⭐509)](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
     (Python, MIT, GitHub)
 
-## [26. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [27. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 
@@ -249,13 +267,13 @@
 
 *   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐64)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
-## [27. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [28. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### VLC native plugins
 
 *   [vlc-win10smtc (⭐8)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 
-## [28. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [29. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Metaverse
 
@@ -269,14 +287,24 @@
 
 *   [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 
-## [29. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [30. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Videos
 
 *   [k6 YouTube Channel](https://www.youtube.com/c/k6test)
 *   [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
 
-## [30. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [31. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Cloud Platform Attack Tools / Malware Analysis Books
+
+*   [Cloud Container Attack Tool (CCAT)](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/) - Tool for testing security of container environments.
+*   [CloudHunter (⭐51)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
+*   [Cloudsplaining](https://cloudsplaining.readthedocs.io/) - Identifies violations of least privilege in AWS IAM policies and generates a pretty HTML report with a triage worksheet.
+*   [Endgame](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
+*   [GCPBucketBrute (⭐339)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+
+## [32. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Getting started
 
@@ -297,7 +325,7 @@
 *   [browser-extension-template (⭐610)](https://github.com/fregante/browser-extension-template) - Barebones boilerplate with parcel, options handler and auto-publishing.
 *   [generator-web-extension (⭐259)](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 
-## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -308,7 +336,7 @@
 *   [ASP.NET Community Standup - Blazor Native Interop with SkiaSharp](https://www.youtube.com/watch?v=lVWQkpcVEWQ\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-91%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 26, 2021 - [SkiaSharp (⭐3k)](https://github.com/mono/SkiaSharp) is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. In this edition of the Blazor community standup learn more about SkiaSharp, from Matthew Leibowitz. [Community links](https://www.theurlist.com/blazor_community_standup_october_2021).
 *   [Blast off with Blazor - Supercharged Enterprise UIs using AntDesign](https://www.youtube.com/watch?v=lJojMo9RpoA) - ![duration](https://img.shields.io/badge/Duration:%20-77%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 20, 2021 - AntBlazor is fully supported by the .NET Foundation and boasts an impressive following. The best part is the awesome documentation and code samples to get you up and running in no time.
 
-## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [34. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Land Use and Land Cover
 
@@ -339,7 +367,7 @@
 
 *   [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 
-## [33. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [35. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Blockchain
 
@@ -362,7 +390,25 @@
 
 *   [Securing Wireless Networks for the Home User Guide](https://mohamedation.github.io/securing-wifi/index-en.html) - Mohamed Adel (HTML)
 
-## [34. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [36. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Infinite Scroll
+
+*   [af-virtual-scroll (⭐53)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
+
+### Icons
+
+*   [react-icomoon (⭐138)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
+
+### Form Components / Input Types
+
+*   [@lunasec/react-sdk (⭐1.2k)](https://github.com/lunasec-io/lunasec) - [docs](https://www.lunasec.io/docs/) - Secure, hardened form components that encrypt/tokenize all data automatically.
+
+### Data Store / Mouse Events
+
+*   [zustand](https://zustand.surge.sh/) - [docs (⭐23k)](https://github.com/pmndrs/zustand) - A fast bearbones state-management solution using simplified flux principles and boilerplate-free hook api.
+
+## [37. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns / Scalability and Resilience
 
@@ -374,7 +420,7 @@
 
 *   [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
-## [35. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [38. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Compression
 
@@ -388,13 +434,13 @@
 
 *   [uSQLite (⭐35)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
-## [36. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vitailse (⭐101)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Database
 
@@ -442,19 +488,46 @@
         *   [bonifaido/rust-zookeeper (⭐165)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper. [![build badge](https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master)](https://travis-ci.org/bonifaido/rust-zookeeper)
         *   [krojew/rust-zookeeper (⭐15)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
-## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Centralized
+
+*   [Signal](https://signal.org/) - Extreme focus on privacy, combined with all of the features you expect. Strong encryption by design. 100% Open Source.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Molly (⭐679)](https://github.com/mollyim/mollyim-android) - Signal-compatible fork client with some security enhancements.
+
+### Self-Hosted
+
+*   [Mail-in-a-box (⭐11k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+*   [Docker mail server (⭐9.8k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+
+### Android / iOS
+
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [FairEmail (⭐1.3k)](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [K9](https://k9mail.app/) - Open Source Email App for Android.
+
+### Video and Audio
+
+*   [Dim (⭐3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+
+## [42. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Additional Resources / Miscellaneous Tools
+
+*   [Portable Node.js guide (⭐1.3k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+
+## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Noteship](https://noteship.com) - Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
 
-## [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [scapegoat](https://crates.io/crates/scapegoat): Safe, stack-only alternative to `BTreeSet` and `BTreeMap`. - [![crates.io](https://img.shields.io/crates/v/scapegoat.svg)](https://crates.io/crates/scapegoat)
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Beginner
 
@@ -464,19 +537,19 @@
 
 *   [Awesome Flutter Desktop (⭐979)](https://github.com/leanflutter/awesome-flutter-desktop) <!--stargazers:leanflutter/awesome-flutter-desktop--> - A curated list of awesome things related to Flutter desktop by [LeanFlutter](https://github.com/leanflutter)
 
-## [41. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [46. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Elastic
 
 *   [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 
-## [42. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [47. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Strange Days](https://www.imdb.com/title/tt0114558/)   (1995) [7.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
 
 *   [@potherca](https://github.com/potherca)
 
-## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [48. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Security Information & Event Management
 
@@ -490,13 +563,13 @@
 
 *   [LunaSec (⭐1.2k)](https://github.com/lunasec-io/lunasec) - Database for PII with automatic encryption/tokenization, sandboxed components for handling data, and centralized authorization controls.
 
-## [44. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [49. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / Public-Key Infrastructure (PKI)
 
 *   [PKI for busy people](https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b) - Quick overview of the important stuff.
 
-## [45. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [50. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -508,14 +581,14 @@
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057) - Harris, J. D., & Waggoner, B. (2019, July). Decentralized and collaborative AI on blockchain. In *2019 IEEE International Conference on Blockchain (Blockchain)* (pp. 368-375). IEEE.
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10) - Harris, J. D. (2020, September). Analysis of Models for Decentralized and Collaborative AI on Blockchain. In *International Conference on Blockchain* (pp. 142-153). Springer, Cham.
 
-## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### VSCode / Third-party APIs
 
 *   [alive (⭐116)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
-## [47. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [52. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Build Tools
 
@@ -545,13 +618,23 @@
 *   [mainargs (⭐147)](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 *   [decline (⭐564)](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
-## [48. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [53. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [vital (⭐136)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-sass-dts (⭐43)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+
+## [54. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Editors
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
 
-## [49. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [55. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Tutorials
 
@@ -561,13 +644,13 @@
 
 *   [@zerodevx/svelte-toast (⭐413)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
-## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [56. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Serialization
 
 *   [ObjectDumper.NET (⭐277)](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
 
-## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [57. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -659,7 +742,7 @@
 
 *   [gennaro-tedesco/boilit (⭐50)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure for Neovim plugins.
 
-## [52. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [58. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [Zinit](https://github.com/zdharma-continuum/zinit)
 
@@ -679,19 +762,25 @@
 
 *   [Mastering ZSH (⭐892)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
-## [53. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [59. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [freeCodeCamp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
 
-## [54. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [60. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Steelforged](https://drive.google.com/drive/folders/1X7P2R-rD_89fMWR8JiYKDk5lm62UPhfL) - High fantasy supplements for Starforged
+
+## [61. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Product Configurators
 
 *   [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - Product visualizer for Montblanc pens, watches, wallets and headphones.
 
-## [55. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [62. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings / Other / unknown licence
 
@@ -700,19 +789,35 @@
 *   [ada-lua (⭐36)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
-## [56. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [63. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [arrow-kt/arrow-meta (⭐346)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
-## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [64. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Archive of Icons
+
+*   [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
+
+### Generic
+
+*   [Material Design Icons (⭐10k)](https://github.com/Templarian/MaterialDesign) - 6200+ Material Design Icons from the Community
+*   [Evil Icons (⭐5k)](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
+*   [Lineicons](https://lineicons.com/) - 532 Line Icons for Designers and Developers
+
+### Merchants
+
+*   [Bitcoin-Icons (⭐78)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+
+## [65. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
 *   [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
 
-## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -731,7 +836,13 @@
 
 *   [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
 
-## [59. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [67. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Full-stack frameworks
+
+*   [iommi (⭐299)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+
+## [68. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -742,7 +853,7 @@
 *   [pinia-persistedstate (⭐12)](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
 *   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 
-## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [69. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 

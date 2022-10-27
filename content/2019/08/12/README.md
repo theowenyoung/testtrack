@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
 
-## [4. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### SwiftUI
+
+*   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
+
+## [5. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Quick Start / update
 
@@ -34,31 +40,31 @@
 *   Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook (⭐806)](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 *   Save file. Done! Now the git hook will be triggered automatically.
 
-## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 
 *   [Mega Doodles Pack (⭐376)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
-## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
 *   [next-session (⭐281)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
 *   [How does Ember Boot?](https://hackernoon.com/how-does-ember-boot-5e1f9e7a1117)
 
-## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Tools / Web, JavaScript
 
 *   [gremlins.js (⭐8.9k)](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript.
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -68,13 +74,13 @@
 
 *   [HealthyPi (⭐164)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
-## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / File Managers
 
 *   [fff (⭐3.7k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### REST / ORM
 

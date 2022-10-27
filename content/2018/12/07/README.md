@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,35 @@
 
 *   [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
 
-## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / Specialty Sites
+
+*   [Einthusan](https://einthusan.tv/intro/) Foreign
+*   [WatchAsian](https://www2.watchasian.co/) Foreign
+*   [Layarkaca](http://layarkaca21.ru/) Foreign
+*   [DramaCool](http://www1.dramacoolfirst.com/) Foreign
+*   [Club MST3k](http://www.club-mst3k.com/) Every episode of MST3K
+*   [Archive.org](https://archive.org/) Old movies
+
+### Streaming Sites / Third Party Hosts
+
+*   [MovieZion](https://www.nicemoviezion.pro/) Openload
+*   [MovieJagg](https://www.coolmoviejagg.pro/) Openload
+*   [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
+*   [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
+*   [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
+*   [cinebloom](https://www2.cinebloom.com) Openload, Streamango
+*   [HDEUROPIX](https://topeuropix.net/) Openload, Rapidvideo
+*   [openloadmovies.net](https://openloadmovies.net/) OpenLoad
+*   [HD MOVIES](https://hdm.to/) OpenLoad, Streamango, Streamcherry
+*   [VodLocker](https://vodlocker.tv/) Openload, Streamango
+*   [StreamCouch](https://www2.streamcouch.com/) Openload, Streamango
+*   [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
+*   [xPau.se](http://xpau.se/) Googledrive
+*   [MegaShare](http://megashare9.su) Openload
+
+## [3. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Caching technologies / Memcached
 
@@ -25,7 +53,7 @@
 *   [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
 *   [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
 
-## [3. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [4. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Crack / General
 
@@ -53,25 +81,25 @@
 *   [muchrooms/zheye (⭐778)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
 *   [aaronshan/12306-captcha (⭐265)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 
-## [4. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [5. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
 
 *   [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor) - Handles big files, does miraculous things. A timeless editor for a timeless format.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Graphics
 
 *   [Veldrid (⭐2.1k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2014
 
 *   [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,7 +65,13 @@
 
 *   [CrSignals (⭐9)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
+
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Wasm
 
@@ -79,13 +85,13 @@
 *   [Seed (⭐3.5k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐335)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Button
 
 *   [FloatingButton (⭐665)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Test Data
 
@@ -101,7 +107,7 @@
 
 
 
-## [11. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [12. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Main
 

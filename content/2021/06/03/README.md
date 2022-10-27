@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,13 +66,19 @@
 
 *   [Summer 2022 Internships (⭐14k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of 2022 internships.
 
-## [7. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Color
+
+*   [Colorable](https://colorable.jxnblk.com/) “If one says ‘Red’ (the name of the color) and there are 50 people listening, it can be expected that there will be 50 reds in their minds. And one can be sure that all these reds will be very different.” – Josef Albers
+
+## [8. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Learning
 
 *   ✍️ [How to Build a Job Board With the TALL Stack + Demo](https://lightit.io/blog/how-to-do-a-job-board-with-the-tall-stack/)
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Payments
 

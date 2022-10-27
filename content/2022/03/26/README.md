@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2022
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 *   [efritas (⭐4)](https://github.com/erikfritas/efritas) - Includes username, hostname, `venv`, `rvm` and `git` status decorations.
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / For Managing WSL Installations
+
+*   [WSL Distro Manager (⭐338)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Functional
 
@@ -40,6 +46,12 @@
 
 *   [dusupay-sdk-go (⭐2)](https://github.com/Kachit/dusupay-sdk-go) - Unofficial Dusupay payment gateway API Client for Go
 *   [newsapi-go (⭐5)](https://github.com/jellydator/newsapi-go) - Go client for [NewsAPI](https://newsapi.org/).
+
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue-admin-box (⭐1.1k)](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 
 ---
 

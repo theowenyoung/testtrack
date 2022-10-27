@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09 - Aug 15, 2021
 
-48 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,25 +69,46 @@
 
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
-## [11. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Apps/Websites / Community
+
+*   [macOS in Svelte (⭐1.6k)](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
+
+## [12. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Communities / Reddit
 
 *   [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [13. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Learning / Talks Presentations Podcasts
+
+*   [Mile High Video 2018 Proceedings](https://mile-high.video/files/mhv2018)  - Mile High Video 2018 talks & presentations
+*   [Mile High Video 2019 Proceedings](https://mile-high.video/files/mhv2019)  - Mile High Video 2019 talks & presentations
+
+### Encoding / AV1
+
+*   [Analysis of AV1 Encoding Tools & libaom Case Study](https://visionular.io/performance-analysis-of-av1-encoding-tools-libaom-case-study/)  - This article provides a performance analysis of AV1 encoding tools.
+
+### Tools / Dolby
+
+*   [Streamlab](https://vimond.github.io/streamlab/)  - Multi-format stream test tool for the browser. Brings convenience to verifying, inspecting, and troubleshooting adaptive streams and video files. A common interface on top of Shaka Player, HLS.js, and Rx-Player.
+
+## [14. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Static Site Generators
 
 *   [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 
-## [13. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [15. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Package suites
 
 *   **[Biocaml (⭐112)](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 
-## [14. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [16. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
@@ -97,7 +118,70 @@
 
 *   [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) - By Joshua Seiden.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [17. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Official Content
+
+*   [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
+*   [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
+*   [Ironsworn: Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+
+### Community
+
+*   [Discord](https://discord.gg/8bRuZwK) - Official discord server for Ironsworn
+*   [Reddit](https://www.reddit.com/r/Ironsworn/) - Ironsworn subreddit
+
+### Translations / Ironsworn
+
+*   [French by Thomas Pereira](http://ironsworn.pbta.fr/) - Ironsworn rulebook and references in French
+*   [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
+
+### Tools / Ironsworn
+
+*   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom assets
+*   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
+*   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
+*   [IronWriter (⭐51)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
+*   [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
+*   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
+*   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
+*   [Ironsworn for Foundry VTT (⭐43)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+*   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
+*   [Starforged for Foundry VTT (⭐14)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
+*   [TheOracle (⭐27)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
+
+### Resources / Ironsworn
+
+*   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
+*   [DataForged (⭐123)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐80)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
+*   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
+*   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
+*   [Tarot Sworn Sheet](https://assemblyrequisite.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
+*   [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
+
+### Hacks and homebrew / Ironsworn
+
+*   [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
+*   [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
+*   [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
+*   [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
+*   [HyperCity](https://notrueindian.itch.io/hypercity) - a cyberpunk hack of Ironsworn
+*   [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
+*   [Ironcrunch](https://www.patreon.com/SamuelRondon/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
+*   [Ironsworn Flavor Packs](http://www.playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
+*   [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
+*   [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
+
+### Projects without URLs / Ironsworn
+
+*   From the [Ironsworn Discord](https://discord.gg/8bRuZwK)
+    *   Eldersworn - A Cthulhu Mythos hack
+    *   Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magic
+
+## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Functional programming
 
@@ -112,7 +196,7 @@
 
 *   [RecordParser (⭐156)](https://github.com/leandromoh/recordparser) - Library to help reading and writing CSV and Flat files with zero heap allocation.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Markdown / LaTeX / Diagnostics
 
@@ -138,49 +222,49 @@
 
 *   [Allendang/nvim-expand-expr (⭐31)](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
 
-## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [1Password](https://1password.com/jobs/) - The world’s most-loved password manager.
 
-## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [21. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### NMOS
 
 *   [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
 
-## [19. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [22. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Books
 
 *   [Practical Automation with PowerShell](https://www.manning.com/books/practical-automation-with-powershell) - Learn how to build, organize, and share useful automations with PowerShell.
 
-## [20. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [23. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Services
 
 *   [marbot](https://marbot.io/) - configure AWS monitoring, receive alerts, and solve incidents in Slack or Microsoft Teams.
 
-## [21. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [24. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / RNG
 
 *   [Entropythief (⭐3)](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 
-## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [25. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Misc
 
 *   [SaaS Blocks](https://saasblocks.io/) - Ready-to-use building blocks and APIs to take your SaaS application to the next level
 
-## [23. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Terrive](https://ipfs.io/ipns/terrive.one) - A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting. [Source (⭐7)](https://github.com/appukuttan66/terrive)
 
-## [24. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [27. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Imaging
 
@@ -205,13 +289,13 @@
 
 *   [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
 
-## [25. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [28. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
 *   [Space Empires (⭐60)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
-## [26. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [29. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -221,13 +305,13 @@
 
 *   [elm-posix (⭐83)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [jeremydaly/lambda-api :fire::fire::fire::fire: (⭐1.2k)](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 
-## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Demos / Godot 3.2+
 
@@ -247,7 +331,7 @@
 
 *   [Godot Asset Library](https://godotengine.org/asset-library/asset) - Official Godot Asset Library. Includes user-created games, projects, templates, demos, tutorials, plugins, and scripts.
 
-## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [32. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -257,7 +341,7 @@
 
 *   [ivanisidrowu/KtRssReader (⭐73)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
 
-## [30. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -268,13 +352,13 @@
 *   [Very Good Cli (⭐1.7k)](https://github.com/VeryGoodOpenSource/very_good_cli) <!--stargazers:VeryGoodOpenSource/very_good_cli--> - Very Good Command Line Interface for Dart created by  [Very Good Ventures](https://github.com/VeryGoodOpenSource)
 *   [Flutter Sidekick (⭐1.1k)](https://github.com/leoafarias/sidekick)  <!--stargazers:leoafarias/sidekick--> - Simple app to make Flutter development more delightful by [Leo Farias](https://github.com/leoafarias)
 
-## [31. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [Destack for Next.js (⭐655)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
-## [32. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
@@ -289,19 +373,19 @@
 
 *   [FracturedJsonVsc](https://marketplace.visualstudio.com/items?itemName=j-brooke.fracturedjsonvsc) - Formatter that produces human-readable but fairly compact output.
 
-## [33. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [36. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Tools
 
 *   [Corda Lean State](https://manosbatsis.github.io/corda-lean-state) - Generate Corda Contract and Persistent states from a simplified interface.
 
-## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Hackers Brasil](https://anchor.fm/hackersbrasil) - Podcast about hacking and cybersecurity
 
-## [35. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [38. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
@@ -316,7 +400,7 @@
     *   [HuggingFace (⭐73k)](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
     *   [Equinox (⭐836)](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
 
-## [36. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [39. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
@@ -353,7 +437,7 @@
 
 *   [MathComp Tutorial Materials (⭐12)](https://github.com/math-comp/tutorial_material) - Source code for Mathematical Components tutorials.
 
-## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -453,7 +537,7 @@
 
 
 
-## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -463,14 +547,14 @@
 
 *   [Keycloak Kafka Module (⭐56)](https://github.com/SnuK87/keycloak-kafka)
 
-## [39. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [42. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Books / Uncategorized
 
 *   [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly. Authors: Rob J Hyndman and George Athanasopoulos.
 *   [Introduction to Probability and Statistics Using R](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf) - The book can be subdivided into three basic parts. The first part includes the introductions and elementary descriptive statistics; I want the students to be knee-deep in data right out of the gate. The second part is the study of probability, which begins at the basics of sets and the equally likely model, journeys past discrete/continuous random variables, and continues through to multivariate distributions. The chapter on sampling distributions paves the way to the third part, which isinferential statistics. This last part includes point and interval estimation, hypothesis testing, and finishes with introductions to selected topics in applied statistics. Author: G. Jay Kerns.
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -555,7 +639,7 @@
 *   [pwoolcoc/ngrams (⭐27)](https://github.com/pwoolcoc/ngrams) \[[ngrams](https://crates.io/crates/ngrams)] — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators [![build badge](https://api.travis-ci.org/pwoolcoc/ngrams.svg?branch=master)](https://travis-ci.org/pwoolcoc/ngrams)
 *   [yaa110/rake-rs (⭐24)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust [![build badge](https://api.travis-ci.org/yaa110/rake-rs.svg?branch=master)](https://travis-ci.org/yaa110/rake-rs)
 
-## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [44. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -566,7 +650,7 @@
 
 *   [muxile (⭐67)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
-## [42. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [45. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Ecosystem
 
@@ -577,19 +661,25 @@
 *   Hardware Acceleration Working Group
     *   [Discourse threads tagged "wg-acceleration"](https://discourse.ros.org/tag/wg-acceleration)
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Ghunt (⭐12k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+
+## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Routing
 
 *   [SwiftCurrent (⭐277)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [fluent-vue (⭐159)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -617,13 +707,19 @@
 
 *   [Adopt (⭐22)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [46. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Types / Playground
+
+*   [@tool-belt/type-predicates (⭐46)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
+
+## [51. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Protocols
 
 *   [JSON-RPC](https://www.jsonrpc.org/specification) - Designed to be simple, it's a stateless, lightweight remote procedure call (RPC) protocol.
 
-## [47. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [52. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
@@ -633,7 +729,7 @@
 
 *   [Ping CRM / Clojure (⭐76)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
-## [48. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [53. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Processing
 

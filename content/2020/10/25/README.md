@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2020
 
-18 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [PyREBox](https://talosintelligence.com/pyrebox) - Python-scriptable reverse engineering sandbox, based on QEMU.
 
-## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
+
+## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
@@ -26,13 +32,13 @@
 
 *   [MQTT Joystick Controller (⭐6)](https://github.com/Vincenzo-Petrolo/MQTT-Joystick-Controller) - Open Source Android app that lets you control everything with your smartphone. Download it from Google Play.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
 *   [geiger (⭐1k)](https://github.com/rust-secure-code/cargo-geiger) — A program that list statistics related to usage of unsafe Rust code in a Rust crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1\&branchName=master)
 
-## [4. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Food
 
@@ -42,7 +48,7 @@
 
 *   [Green Pulse](https://omny.fm/shows/green-pulse-1) - The Straits Times (A Singapore news outlet) analyses the beat of the changing environment, from biodiversity conservation to climate change.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -128,38 +134,44 @@
 
 
 
-## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Exodify (⭐59)](https://github.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+
+### Tools / Deobfuscation/Transformation
+
+*   [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
+
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩📁 [Jakarta LTE (⭐131)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / API
 
 *   [Canvas (⭐478)](https://github.com/BlazorExtensions/Canvas) - ![stars](https://img.shields.io/github/stars/BlazorExtensions/Canvas?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Canvas?style=flat-square\&cacheSeconds=86400) HTML5 Canvas API implementation for Microsoft Blazor.
 
-## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
 *   [Laravel Portugal Live](https://laravel.pt) - Os membros do Laravel Portugal reunem-se para falar sobre Laravel, PHP, a comunidade Portuguesa, ideias e muito mais. @joselaborges
 *   [Ubuntu Portugal (podcast)](https://ubuntu-pt.org/) - A comunidade Ubuntu Portugal (Ubuntu-PT) é a comunidade Portuguesa de suporte à distribuição de GNU/Linux, Ubuntu. Esta comunidade consiste num grupo de pessoas que voluntariamente se dedica não só a promover a utilização do sistema operativo Ubuntu e do software livre em geral, mas também a dar suporte aos utilizadores portugueses desta distribuição de GNU/Linux.
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 
 *   [lightly - A computer vision framework for self-supervised learning (⭐1.9k)](https://github.com/lightly-ai/lightly)
 
-## [11. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
@@ -262,19 +274,19 @@
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.4k)](https://github.com/mhagiwara/100-nlp-papers)
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
 *   [lightly (⭐1.9k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
-## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Electronics and Mechanics / Version Control
 
 *   [OpenTirePython (⭐33)](https://github.com/OpenTire/OpenTirePython) - An open-source mathematical tire modelling library.
 
-## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -828,7 +840,7 @@
 
 
 
-## [15. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [17. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -846,7 +858,7 @@
 
 
 
-## [16. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Large Source Code Examples
 
@@ -858,13 +870,13 @@
 *   [spin (⭐285)](https://github.com/tmattio/spin) - Reason and Ocaml project generator
 *   [modern-ocaml (⭐56)](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
-## [17. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [19. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / APIs
 
 *   [pokemon-API (⭐20)](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (<https://app.pokemon-api.xyz>).
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Webmail Clients
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 22, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -138,7 +138,13 @@
 *   [Click-to-deploy Prometheus (⭐635)](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Source for Google Click to Deploy Prometheus solutions listed on Google Cloud Marketplace *by GoogleCloudPlatform*.
 *   [Prometheus Operator (⭐7.5k)](https://github.com/coreos/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes *by CoreOS*.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Beginning iOS 13 Programming with Swift* by Simon Ng](https://www.appcoda.com/learnswift/)
+
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
@@ -148,13 +154,13 @@
 
 *   [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
 
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Just for Fun / Image Conversion
 
 *   [ricksay (⭐41)](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
 
-## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Component Libraries
 
@@ -199,13 +205,13 @@
 *   [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 *   [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
 
-## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 
 *   [Microsoft Quantum blog](https://cloudblogs.microsoft.com/quantum/) - Microsoft Quantum program-wide updates.
 
-## [15. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [16. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Coding Contests and Solutions / Official resources
 

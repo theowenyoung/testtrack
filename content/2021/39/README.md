@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27 - Oct 03, 2021
 
-52 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -120,26 +120,32 @@ Interactive UI and fuzzy-search for Git branches.
 *   [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - Type Annotate an existing Python Django Codebase with MonkeyType.
 *   [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - An article based on two recent talks on adding type checks to Django.
 
-## [11. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
+## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
+
+## [12. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
 
 ### Introduction
 
 *   [AI/ML YouTube Courses (⭐8.6k)](https://github.com/dair-ai/ML-YouTube-Courses)
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Web frameworks
 
 *   [Lad (⭐2.2k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 
-## [13. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [14. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 *   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
@@ -153,14 +159,14 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
 *   [InfluxDB](https://www.influxdata.com/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
 *   [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 
-## [16. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Books
 
@@ -222,19 +228,19 @@ Interactive UI and fuzzy-search for Git branches.
 *   [cli-mandelbrot (⭐76)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 *   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
-## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 
-## [18. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [19. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Configuration
 
@@ -244,7 +250,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
 
-## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -255,19 +261,25 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/) - September 28, 2021 - Custom deployment layout for Blazor WebAssembly apps.
 *   [Blazor updates for .NET 6 using Visual Studio 2022](https://www.roundthecode.com/dotnet/blazor/blazor-updates-dotnet-6-visual-studio-2022) - September 16, 2021 - Blazor updates for .NET 6 using Visual Studio 2022.
 
-## [21. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Resources / Educational
+
+*   [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
+
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
 *   [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [23. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [25. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### 0 - Meta-Lists
 
@@ -797,19 +809,19 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [HPParallaxHeader (⭐38)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
-## [25. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [27. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Application Containers: Kubernetes and Docker from Scratch](https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 
-## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Security Tools / File Sharing
 
@@ -824,7 +836,13 @@ Interactive UI and fuzzy-search for Git branches.
 *   [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github\&utm_medium=referral\&utm_campaign=githubproject) - Your New Favorite Free Ad Blocker for macOS and iOS: Stop seeing annoying ads in Safari. Open websites faster. Browse the web more safely.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1491889901?pt=444218\&ct=GitHub\&mt=8)
 *   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8) - All-in-one Disk Cleaning Manager: Clean up your Mac and optimize its performance. Run a quick scan now to verify what's taking up your storage. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8)
 
-## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [29. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Security Education Courses / Reverse Engineering Tools
+
+*   [Roppers Academy Training](https://www.hoppersroppers.org/training.html) - Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF.
+
+## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / Other / unknown licence
 
@@ -838,31 +856,37 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [blake2s (⭐1)](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
-## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [31. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### CDN / Other Tools
 
 *   [jsDelivr CDN](https://cdn.jsdelivr.net/npm/lit/+esm)
 
-## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
 *   [MotorAdmin (⭐480)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
-## [30. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Recognition / Self-supervised Learning
 
 *   [PASS: An An ImageNet replacement for self-supervised pretraining without humans (⭐247)](https://github.com/yukimasano/PASS)
 
-## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [34. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Cloud and Docker Solutions
 
 *   [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
 
-## [32. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [35. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Third-Party owned
+
+*   [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. [Read this article over Climate activist arrest](https://protonmail.com/blog/climate-activist-arrest/).
+
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -876,19 +900,29 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [ScottPlot](https://swharden.com/scottplot/) - A plotting library to interactively displays large datasets. Line plots, bar charts, pie graphs, scatter plots, and more. It supports WinForms, WPF, Avalonia, Console.
 
-## [33. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vitespa (⭐35)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+
+### React / Official
+
+*   [@vitejs/plugin-react (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+
+## [38. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [xnbox/DeepfakeHTTP (⭐432)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
-## [34. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Micrometer Keycloak extension (⭐7)](https://github.com/micrometer-metrics/micrometer-keycloak)
 
-## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -906,7 +940,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   🧩 [Tailwind Typeahead (⭐14)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 *   📁 [OhMySMTP Templates (⭐144)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
-## [36. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [41. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secure Development Guidelines
 
@@ -920,7 +954,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - *OWASP* - A repository of information about software vulnerabilities and how to prevent them.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -934,7 +968,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [vue-use-popperjs (⭐16)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -1674,7 +1708,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -1701,7 +1735,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [GlitchTip](https://glitchtip.com) - Open source error-tracking app. GlitchTip collects errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python`
 *   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐89)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 
-## [40. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [45. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Thorg
 
@@ -1718,7 +1752,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - A program that incentivizes activity within development, support, content creation, and more.
 *   [Gitcoin Bounties](https://gitcoin.co/golemfactory/bounties) - A collection of open bounties and hackathons hosted on Gitcoin.
 
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -1740,7 +1774,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Internationalization
 
@@ -1750,7 +1784,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [mac-address (⭐2)](https://github.com/automatico/mac-address) - Library for working with MAC addresses
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1764,7 +1798,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [sbdchd/neoformat (⭐1.6k)](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -1793,7 +1827,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Godot](https://godotengine.org/)
     *   [godot-rust/godot-rust (⭐2.9k)](https://github.com/godot-rust/godot-rust) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/godot-rust/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/godot-rust/actions/workflows/full-ci.yml)
 
-## [45. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [50. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -1812,7 +1846,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 
-## [46. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [51. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering / Systems Complexity
 
@@ -1823,19 +1857,19 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Why it's difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accommodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
 *   [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people. Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
 
-## [47. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [52. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Business Intelligence / Metrics
 
 *   [The SaaS Financial Model You'll Actually Use](https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a statup, which gives you extra-context on how the metrics you produce fit into the larger picture.
 
-## [48. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [53. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication
 
 *   [A Child's Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - In the same spirit as above, but this time at the service level.
 
-## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [54. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -1855,13 +1889,13 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [graphql-tag (⭐7)](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
 
-## [50. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [55. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Setup and Deployment
 
 *   [gdx-liftoff (⭐322)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 7.x series.
 
-## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1899,7 +1933,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Components.studio](https://webcomponents.dev/) - Code components in isolation, visualize them in stories, test them and publish them on npm.
 *   [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
 
-## [52. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [57. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Bindings
 

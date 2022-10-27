@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -82,7 +82,13 @@
 
 *   📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-checker (⭐461)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
+
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -134,7 +140,7 @@
 
 
 
-## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Featured (new releases)
 
@@ -177,7 +183,7 @@
 *   👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 *   🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 

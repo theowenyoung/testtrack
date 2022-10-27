@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 13, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,13 +76,23 @@
 
 *   [leap (⭐6)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
-## [9. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Specialty Search Engines
+
+*   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
+
+## [10. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
 ### Automation and Robotics
 
 *   [Fields2Cover (⭐49)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
@@ -92,7 +102,7 @@
 
 *   [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - A guide to testing in Go.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 

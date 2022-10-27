@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17, 2022
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,7 +69,15 @@
 *   [Houston Instrument HIPLOT DMP-51/52 Operation Manual (1985)](https://archive.org/details/hi-dmp-51-52-operation-manual)
 *   [Houston Instrument Stand Assembly Procedure DMP-50 Series Plotter](https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter)
 
-## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Resources / Telegram
+
+*   [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
+*   [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey.
+*   [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
+
+## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -77,7 +85,7 @@
 *   [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop) - Ubuntu Desktop distribution for the Raspberry Pi. Supports Raspberry Pi 4.
 *   [Ubuntu Server](https://ubuntu.com/raspberry-pi/server) - Ubuntu Server distribution for the Raspberry Pi. Supports Raspberry Pi Zero 2 W. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -100,11 +108,25 @@
 *   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐391)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 *   [Isso](https://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code (⭐4.7k)](https://github.com/posativ/isso)) `MIT` `Python/Docker`
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [react-pipeline (⭐1)](https://github.com/maifeeulasad/react-pipeline) - React 18 + TS + AntD + GitHub Pages + Tailwind + Sass + React Router DOM + ESLint.
+
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Courses
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. \[[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450\&hl=en\&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
+
+## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Fonts:
+
+- Website: <https://fonts.bunny.net>
+
+
 
 ---
 

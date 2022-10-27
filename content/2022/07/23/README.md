@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,13 +58,19 @@
 
 *   [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-inject-preload (⭐5)](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Theory
 
 *   [AGI & CoCoSci (⭐94)](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Literature Management
 

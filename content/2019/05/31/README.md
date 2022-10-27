@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -121,6 +121,16 @@
 ### Resources in Other Languages / Chinese
 
 *   [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
+
+## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Component Collections / Material Design
+
+*   [shards-react (⭐738)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
+
+### Inspect / Lazy Load
+
+*   [fluxguard](https://fluxguard.com) - PROD change monitoring that highlights all DOM + design changes.
 
 ---
 

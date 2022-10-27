@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 11, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,7 +114,13 @@
 
 *   [kalidoface (⭐285)](https://github.com/yeemachine/kalidoface) - Face and Body Tracking for Live2D / 3D models on the web. \[English]
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-esbuild-typescript-checker (⭐27)](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
+
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 

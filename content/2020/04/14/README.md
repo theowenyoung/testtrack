@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 14, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,13 +102,19 @@
 *   [Explorer](https://wavesexplorer.com/stagenet) - Official explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
 *   [Node API](https://nodes-stagenet.wavesnodes.com/) - Swagger REST API of Waves Node.
 
-## [8. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Animation / Syntax Highlight
+
+*   [auto-size-transition (⭐8)](https://github.com/DualWield/auto-size-transition) - A component that scale dynamically according to the internal children size
+
+## [9. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### code/project generators
 
 *   **[wemake-frontend-styleguide (⭐66)](https://github.com/wemake-services/wemake-frontend-styleguide)** - JavaScript & TypeScript & Vue & JsDoc & Scss style guides based on standard tools. Very strict!
 
-## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Case Studies / RFID NFC Tools
 
@@ -121,13 +127,13 @@
 *   [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) - Detailed tutorial about how to spot debug pads on a PCB.
 *   [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - An in depth explanation of the UART protocol.
 
-## [10. Computer Science](/content/ossu/computer-science/README.md)
+## [11. Computer Science](/content/ossu/computer-science/README.md)
 
 ### How to show your progress / Which programming languages should I use?
 
 *   **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
 
-## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Network
 

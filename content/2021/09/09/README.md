@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,6 +103,17 @@
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [EdenEast/nightfox.nvim (⭐1.4k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+
+## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / Terminals
+
+*   [Tabby](https://tabby.sh/) - A terminal for a more modern age. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### WSL Tools / WSL Utilities
+
+*   [vim-wsl-copy-paste (⭐7)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
+    . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

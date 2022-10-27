@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 14, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,23 @@
 
 *   [Advice to Management Teams While Enrolling Changes to On-Call Systems](https://thenewstack.io/advice-management-teams-enrolling-changes-on-call-systems/)
 
-## [3. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [Zarp (⭐1.3k)](https://github.com/hatRiot/zarp) - Network attack tool centered around the exploitation of local networks.
+*   [dnstwist (⭐3.6k)](https://github.com/elceef/dnstwist) - Domain name permutation engine for detecting typo squatting, phishing and corporate espionage.
+
+### Network Tools / Protocol Analyzers and Sniffers
+
+*   [Netzob (⭐671)](https://github.com/netzob/netzob) - Reverse engineering, traffic generation and fuzzing of communication protocols.
+
+### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
+
+*   [Morpheus (⭐762)](https://github.com/r00t-3xp10it/morpheus) - Automated ettercap TCP/IP Hijacking tool.
+*   [SSH MITM (⭐1.5k)](https://github.com/jtesta/ssh-mitm) - Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
+
+## [4. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### :sparkles: Tutorials
 
@@ -57,7 +73,7 @@
     *   *Machine Learning made simple with Ruby* by [Lorenzo Masini](https://twitter.com/rugginoso) <sup>\[[post](https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/)]</sup>
     *   *Using Ruby Machine Learning to Find Paris Hilton Quotes* by [Rick Carlino](https://github.com/RickCarlino) <sup>\[[tutorial](https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -67,19 +83,19 @@
 
 *   [CsvHelper (⭐3.9k)](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files.
 
-## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Blog posts and opinions
 
 *   [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
 *   [Testura.Code (⭐258)](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 
-## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [8. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Open Source Projects
 
@@ -92,7 +108,7 @@
 *   [.NET Compiler Platform ("Roslyn") Analyzers (⭐1.3k)](https://github.com/dotnet/roslyn-analyzers) - Diagnostic analyzers developed by the Roslyn team. Initially developed to help flesh out the design and implementation of the static analysis APIs. The analyzers cover code quality, .NET Core, desktop .NET Framework, comments in code, and more.
 *   [Refactoring Essentials for Visual Studio (⭐640)](https://github.com/icsharpcode/RefactoringEssentials/) - Refactorings, analyzers and code fixes for C# and VB.NET.
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

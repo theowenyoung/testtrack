@@ -1,18 +1,24 @@
 # Awesome List Updates on Mar 19, 2021
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Models
+
+*   [django-recurrence (⭐390)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+
+## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 
 *   [Mastering Shiny](https://mastering-shiny.org/) - This is the online version of Mastering Shiny, a book currently under early development and intended for a late 2020 release. This book complements the [Shiny online documentation](https://shiny.rstudio.com/) and is intended to help app authors develop a deeper understanding of Shiny. Author: Hadley Wickham. [Mastering Shiny Exercise solutions](https://mastering-shiny-solutions.org/index.html)
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -53,25 +59,25 @@
 
 
 
-## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Courses / Other Tools
 
 *   [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - You'll learn to build full web apps with FastAPI, equivalent to what you can do with Flask or Django.
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
 *   [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
@@ -79,19 +85,19 @@
 *   [The path to .NET 5 and Blazor WebAssembly with some fun sprinkled in](https://devblogs.microsoft.com/dotnet/the-path-to-net-5-and-blazor-webassembly-with-some-fun-sprinkled-in/) - March 17, 2021 - The path to .NET 5 and Blazor WebAssembly with some fun sprinkled in.
 *   [.NET 5 Blazor Powers 'Rock, Paper, Scissors, Lizard, Spock' Game](https://visualstudiomagazine.com/articles/2021/03/17/blazor-rpsls.aspx) - March 17, 2021 - .NET 5 Blazor Powers 'Rock, Paper, Scissors, Lizard, Spock' Game. [Source code (⭐563)](https://github.com/microsoft/RockPaperScissorsLizardSpock) ![stars](https://img.shields.io/github/stars/microsoft/RockPaperScissorsLizardSpock?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/RockPaperScissorsLizardSpock?style=flat-square\&cacheSeconds=86400).
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 
 *   [Arrow (⭐545)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### JSS
 
 *   [JSS with Vue.js (⭐0)](https://github.com/KayeeNL/sitecore-jss-getting-started-vuejs) - A starting template for JSS using Vue.js framework.
 
-## [9. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [10. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Calendar
 
@@ -99,25 +105,31 @@
 
     <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
-## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### ARKit
+
+*   [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
+
+## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Development
 
 *   [KICS (⭐1.2k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
-## [11. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [13. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Support Tables
 
 *   [Accessibility Support](https://a11ysupport.io/) - Compare accessibility support of HTML elements and ARIA roles across browsers & assistive technologies.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
 *   [vuetube (⭐9)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 
-## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 

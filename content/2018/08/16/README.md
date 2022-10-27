@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,19 +28,25 @@
 
 *   [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
 
-## [4. Awesome List](/content/sindresorhus/awesome/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Kalimdor.js (⭐518)](https://github.com/JasonShin/kalimdorjs) - Machine Learning library for the Web, Node and Developers!
+
+## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Media
 
 *   [FFmpeg (⭐777)](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 
-## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Speech Processing
 
 *   [Parselmouth (⭐724)](https://github.com/YannickJadoul/Parselmouth) [:octocat: (⭐724)](https://github.com/YannickJadoul/Parselmouth) [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -50,7 +56,7 @@
 
 *   [19 Questions (⭐15)](https://github.com/fulldecent/19-questions) - A machine learning / bayesian inference assigning attributes to objects.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
@@ -60,7 +66,7 @@
 
 *   [saxy (⭐239)](https://github.com/qcam/saxy) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 
-## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Resources
 
@@ -90,13 +96,13 @@
 *   [Web Book](https://cliutils.gitlab.io/modern-cmake/) - An Introduction to Modern CMake.
 *   [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html) - How to CMake Good. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles about Data
 
 *   [Ad Hoc Relationships with Ember Data](https://shipshape.io/blog/ad-hoc-relationships-with-ember-data/)
 
-## [10. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [11. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### Community
 

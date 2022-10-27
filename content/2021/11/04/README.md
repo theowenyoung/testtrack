@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -206,6 +206,30 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+
+## [11. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+- : [Semi Design](https://semi.design/en-US)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐6.3k)](https://github.com/DouyinFE/semi-design)
+
+
+- : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐80)](https://github.com/govtechsg/sgds)
 
 
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2021
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -167,7 +167,14 @@
 *   [easy\_perception\_deployment (⭐49)](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy\_perception\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 *   [easy\_manipulation\_deployment (⭐43)](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy\_manipulation\_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Language Tools / Telegram
+
+*   [IloveTyping](https://ilovetyping.com/english-to-hindi-typing) - Translate English to Hindi
+*   [Inasentence](https://inasentence.me/) - Find Sentences from Words
+
+## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
@@ -186,14 +193,20 @@
 *   [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
 *   [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
 
-## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [14. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [jaxlie (⭐150)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
 *   [BRAX (⭐1.4k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
-## [14. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Image Editing
+
+*   [react-avatar-generator (⭐53)](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+
+## [16. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Deprecated / Community Newsletters
 
@@ -205,7 +218,7 @@
 *   [Building a CMS-powered blog in Meteor](https://buttercms.com/blog/meteor-cms-blog-tutorial)
 *   [scotch.io - Building a Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 
-## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Climate
 

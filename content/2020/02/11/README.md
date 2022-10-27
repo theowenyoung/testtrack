@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [SHTCx](http://crates.io/crates/shtcx) - I2C - Temperature / humidity sensors - [github (⭐8)](https://github.com/dbrgn/shtcx-rs) - ![crates.io](https://img.shields.io/crates/v/shtcx.svg)
 
-## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Related Projects / Miscellaneous Tools
+
+*   [Cmder](https://cmder.net/) - A very nice console emulator built on ConEmu. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Maps / Third Party
 
 *   [d3-geo-scale-bar (⭐39)](https://github.com/HarryStevens/d3-geo-scale-bar) - Displays automatic scale bars for projected geospatial data.
 
-## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
@@ -32,13 +38,13 @@
 *   [Simulating Different Network Conditions For Virtual Devices](https://appiumpro.com/editions/104)
 *   [Paid Tools And Services For Mobile App Performance Testing](https://appiumpro.com/editions/105)
 
-## [4. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [5. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### React Native with Expo and Hasura   [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura) / Resources
 
 *   [Udemy course: Learn the Newest and EASIEST React Native Stack](https://www.udemy.com/course/how-to-make-a-full-stack-react-native-app-with-easy-backend/?referralCode=E944B7F521E0A6B88CD2)
 
-## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Data Structures and Algorithms
 
@@ -49,25 +55,25 @@
 
 *   [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
 
-## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Misc
 
 *   [aiocache (⭐744)](https://github.com/argaen/aiocache) - Cache manager for different backends.
 
-## [7. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [8. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Applications / Virtual Machine
 
 *   [3D e-Chem Virtual Machine (⭐16)](https://github.com/3D-e-Chem/3D-e-Chem-VM) -
 
-## [8. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [9. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Tools / Editors
 
 *   [rx](https://rx.cloudhead.io/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
@@ -77,13 +83,13 @@
 
 *   [cl-bindgen (⭐21)](https://github.com/sdilts/cl-bindgen) - A command line tool and library for creating Common Lisp language bindings from C header files. [MIT](https://opensource.org/licenses/MIT).
 
-## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔌 [React Fire (⭐3.2k)](https://github.com/FirebaseExtended/reactfire) - Official Firebase React library with Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 
-## [11. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Netherlands 🇳🇱 / Delft
 
@@ -97,7 +103,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 | ---- | ----- | -------------------------------------------------------------------------------------- | ----------------------------------- |
 | ✔    | ✔     | [Bercylaan 301, 1031 KP Amsterdam, Netherlands](https://g.page/public-space-amsterdam) | Mon-Fri 9:00-17:00, Sun 10:00-17:00 |
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 

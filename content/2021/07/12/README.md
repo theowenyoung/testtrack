@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,13 @@
 *   [Go (⭐64)](https://github.com/petaki/inertia-go)
 *   [PSR-15 (⭐27)](https://github.com/cherifGsoul/inertia-psr15)
 
-## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Vue / Ecosystem
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-i18n (⭐142)](https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n) - Integration for Vue I18n.
+
+## [5. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Channel History / Newsletters
 
@@ -55,7 +61,7 @@
 *   [devshell (⭐625)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 *   [flake-utils (⭐483)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -65,13 +71,13 @@
 
 *   [vue-tiny-validate (⭐107)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -89,11 +95,17 @@
 
 *   [shorturl](https://git.mills.io/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`
 
-## [8. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [9. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### TensorFlow models / Other
 
 *   [Tensorflow detection model zoo (⭐75k)](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) - Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.
+
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Types / Playground
+
+*   [nominal (⭐42)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 
 ---
 

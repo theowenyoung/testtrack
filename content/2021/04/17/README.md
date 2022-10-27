@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,7 +48,13 @@
 
 *   [Glitterly](https://glitterly.app/) - Programatically generate dynamic images from base templates. Restful API and nocode integrations. Free tier comes with 50 images/month and 5 templates.
 
-## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Testing
+
+*   [mocha-vite-puppeteer (⭐35)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
+
+## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -58,7 +64,7 @@
 
 *   [stat.ucla.edu](http://statistics.ucla.edu/)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 

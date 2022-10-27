@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -542,7 +542,13 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [17. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
+
+## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

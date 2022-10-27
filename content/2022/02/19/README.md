@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,13 +54,23 @@
 
 *   [godot-simple-state (⭐35)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
 
-## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Chart
+
+*   [Flowchart React (⭐17)](https://github.com/joyceworks/flowchart-react) - Flowchart & Flowchart designer for React.js.
+
+### Form Components / Toggle
+
+*   [@anatoliygatt/heart-switch (⭐400)](https://github.com/anatoliygatt/heart-switch) - [demo](https://codesandbox.io/s/demo-for-anatoliygatt-heart-switch-cds5p) - A fully themeable and accessible heart-shaped toggle switch component.
+
+## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage discovery / App catalogs
 
 *   [Get AppImage](https://g.srev.in/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
 
-## [7. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
+## [8. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md)
 
 ### Datasets,
 
@@ -68,7 +78,7 @@
 *   [CWFID (⭐120)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
 *   [TERRA REF](https://terraref.org) -> 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103\&origin_path=%2F))
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Log Management
 
@@ -82,13 +92,13 @@
 
 *   [indicative.com](https://indicative.com/) — Customer analytics platform to optimize customer engagement, increase conversion, and improve retention. Free up to 25M events/month, 6 months data retention.
 
-## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [10. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 
 *   [WaifuCutout](https://waifucutout.com) - Image segmentation (matting) for Anime characters. \[English/中文]
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Embedded
 

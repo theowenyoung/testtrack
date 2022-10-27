@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,7 +59,36 @@
 
 *   [mongo-perl-driver (⭐203)](https://github.com/mongodb-labs/mongo-perl-driver) - Official Perl driver
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Django
+
+- Name: [Django-shop (⭐2.9k)](https://github.com/awesto/django-shop)
+
+  Description: A Django based shop system
+
+  Link: <https://django-shop.readthedocs.io/en/latest/index.html>
+
+
+- Name: [Django Project](https://www.djangoproject.com/)
+
+  Description: Official Django Website and Documentation
+
+  Link: <https://www.djangoproject.com/>
+
+
+
+### Electron
+
+- Name: [Lavendel (⭐4)](http://github.com/timo-cmd/lavendel)
+
+  Description: Cross platform desktop app >2.5kb containing a cute timer
+
+  Link: [https://github.com/timo-cmd/Lavendel (⭐4)](https://github.com/timo-cmd/Lavendel)
+
+
+
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Version Control
 
@@ -69,7 +98,7 @@
 
 *   [dual quaternions ros (⭐27)](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
 
-## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Courses / Build system (ROS2)
 
@@ -87,19 +116,19 @@
     *   [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
     *   [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
 
-## [9. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [10. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Browser Features
 
 *   [xhr2 (⭐98)](https://github.com/pwnall/node-xhr2) - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 
-## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [Spring Interview Questions And Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)
 
-## [11. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Service meshes
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 11, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,23 @@
 
 *   [Census](https://getcensus.com/) - The easiest way to sync your customer data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. Census is the operational analytics platform that syncs your data warehouse with all your favorite apps. Get your customer success, sales & marketing teams on the same page by keeping customer data in sync. No engineering favors required—just SQL. `SaaS`
 
-## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-cesium (⭐108)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-aliases (⭐111)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+
+## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Video Playlists
 
 *   [Keycloak Playlist by hexaDefence](https://youtu.be/35bflT_zxXA)
 
-## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [5. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Video / Text
 
@@ -55,13 +65,13 @@
 *   [Market Bar (⭐15)](https://github.com/manindaniil/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [SwiftBar (⭐1.8k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
 *   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code (⭐33k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 
@@ -77,7 +87,7 @@
 
 
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
@@ -89,7 +99,7 @@
 *   [RampMaker](https://crates.io/crates/ramp-maker): Stepper Motor Acceleration Ramp Generator - ![crates.io](https://img.shields.io/crates/v/ramp-maker.svg)
 *   [Stepper](https://crates.io/crates/stepper): Universal Stepper Motor Interface - ![crates.io](https://img.shields.io/crates/v/stepper.svg)
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / C
 
@@ -111,7 +121,7 @@
 
 *   [Top Nodejs Interview Questions & Answers](https://www.interviewbit.com/node-js-interview-questions/)
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
@@ -144,13 +154,19 @@
 *   [Userscripts (⭐945)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 *   [Agriculture (⭐880)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### 🇷🇺 Russian books
+
+*   [*Нативная разработка мобильных приложений. Перекрестный справочник для iOS и Android* - Льюис Шон, Данн Майк](https://www.ozon.ru/product/nativnaya-razrabotka-mobilnyh-prilozheniy-perekrestnyy-spravochnik-dlya-ios-i-android-lyuis-shon-174626896/#section-description--offset-80)
+
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization
 
 *   [Dekart](https://dekart.xyz/) - Large scale geospatial analytics for Google BigQuery based on Kepler.gl.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 

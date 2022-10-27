@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,14 +18,20 @@
 
 *   [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - HBase plugin for Apache Ranger.
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Domain and IP Research / Telegram
+
+*   [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
+
+## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Videos
 
 *   [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE\&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - YouTube playlist about Shaders, using Visual Studio Code.
 *   [Kha Tutorial Series](https://www.youtube.com/watch?v=5Uxht76ODtQ\&list=PL4neAtv21WOmmR5mKb7TQvEQHpMh1h0po) - YouTube playlist about the Kha framework, built in Haxe.
 
-## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
@@ -34,13 +40,13 @@
 *   [Capturing Android Emulator Network Traffic with Appium](https://appiumpro.com/editions/63)
 *   [Validating Android Toast Messages](https://appiumpro.com/editions/64)
 
-## [5. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Applications / Continuous integration
 
 *   [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - Windows/macOS/Linux. Free for OSS projects with 10 parallel jobs.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
@@ -49,13 +55,13 @@
 *   [xwebrtc (⭐15)](https://github.com/QuantStack/xwebrtc) - C++ Backend for ipywebrtc.
 *   [xwidgets (⭐128)](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
-## [7. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Other kinds of content / Videos
 
 *   [Joel Yliluoma](https://www.patreon.com/Bisqwit), [#2](https://liberapay.com/Bisqwit), [#3](https://steadyhq.com/en/bisqwit) - Programming videos.
 
-## [8. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [9. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -65,19 +71,19 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Using the dependency injection framework for testing in Vapor 3 and Swift](https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/) – How to use dependency injection framework which will help you manage dependencies and mock them inside your tests.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
 *   [Blend2D (⭐1.1k)](https://github.com/blend2d/blend2d) - 2D vector graphics engine powered by a JIT compiler. \[Zlib] [website](https://blend2d.com/)
 
-## [10. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Debugging / Profiling
 
 *   [ember-dead-code (⭐6)](https://github.com/buschtoens/ember-dead-code) - Detect dead code with confidence via real user monitoring.
 
-## [11. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [12. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Vue with Electron   [↗](https://awesomestacks.dev/vue-with-electron) / Resources
 
@@ -95,7 +101,7 @@
 *   [First steps with Plastic SCM in Unity](https://www.youtube.com/playlist?list=PL29P1RRr5_NzEhAustJCTwdahs60JvcMm)
 *   [Plastic SCM for Games](https://www.plasticscm.com/games)
 
-## [12. Awesome](/content/craftcms/awesome/README.md)
+## [13. Awesome](/content/craftcms/awesome/README.md)
 
 ### Organizations Using Craft / Tutorials
 

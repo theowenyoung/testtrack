@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18 - Nov 24, 2019
 
-51 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,7 +109,19 @@
 
 *   [Comprehensive list of interview questions of top tech companies (⭐6.3k)](https://github.com/rishabh115/Interview-Questions)
 
-## [13. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
+## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Meteor
+
+- Name: [titra (⭐303)](https://github.com/kromitgmbh/titra)
+
+  Description: An open source project time-tracking app
+
+  Link: <https://titra.io/>
+
+
+
+## [14. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
 
 ### Books / About Qlik Sense
 
@@ -132,44 +144,44 @@
 *   [QlikView Scripting](https://books.google.com/books/about/QlikView_Scripting.html?id=wng3ngEACAAJ\&redir_esc=y) - By Matt Floyd.
 *   [QlikView Server and Publisher](https://books.google.com/books/about/QlikView_Server_and_Publisher.html?id=gDOhAgAAQBAJ\&redir_esc=y) - By Stephen Redmond.
 
-## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [Okta (⭐60)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [IPSE](https://www.ipse.io/) - A search engine for the IPFS network.
 
-## [16. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
 *   [Apache ServiceComb Java Chassis (⭐1.8k)](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 
-## [17. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [18. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Additional resources / Hellonext
 
 *   [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
-## [18. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [19. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Buenos Aires](https://paperswelove.org/buenos-aires/)
 
-## [19. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [20. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Integrations / Transactions
 
 *   [Apex (⭐131)](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase connector.
 *   [HAWQ](https://hawq.apache.org/docs/userguide/2.3.0.0-incubating/pxf/HBasePXF.html) - HAWQ PXF external tables on HBase.
 
-## [20. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [21. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Dev Tools / Bare metal / kernel development
 
@@ -184,39 +196,45 @@
 
 *   [dlang-requests (⭐138)](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 
-## [21. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [22. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based distros / Specific purpose
 
 *   [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) - *(Data Rescue)* - A distribution based on Arch Linux.
 
-## [22. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [23. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Videos
 
 *   [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
 
-## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [24. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Projects / Boilerplate
+
+*   [django-project-template (⭐635)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
 *   [PicGo (⭐18k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
 *   [uPic (⭐2.9k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Silicon Labs
 
 *   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - ![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)
 
-## [25. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [27. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Spyse](https://spyse.com/) -  Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.
 *   [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
 
-## [26. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [28. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Questions and Answers
 
@@ -228,7 +246,7 @@
 
 *   [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 
-## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [29. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Domains
 
@@ -239,7 +257,7 @@
 
 *   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
@@ -249,7 +267,7 @@
 
 *   [snipt (⭐64)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 
-## [29. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Frameworks
 
@@ -264,7 +282,50 @@
 *   [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 *   [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
 
-## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [32. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Self-hosted VPNs
+
+*   [Outline by Alphabet](https://www.getoutline.org/) Not exactly a VPN, but is strong in privacy and security. Works with DO, Google Cloud, AWS and more.
+
+### Trackers / Public Trackers
+
+*   [7torrents](https://www.7torrents.cc/) Fast, clean, ad-free, privacy-focused DHT search engine
+
+### DDL Link Sites / Free Indexers
+
+*   [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed
+
+### Stremio / Third Party Hosts
+
+*   [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
+*   [PimpMyStremio (⭐203)](https://github.com/sungshon/PimpMyStremio) Local add-on manager for Stremio add-ons, adds tens of new (self-hosted, and much more powerful) add-ons to Stremio
+*   [Stremio Downloader (⭐119)](https://github.com/BurningSands70/stremio-downloader) An application that allows you to download any stream from Stremio (as opposed to just stream it). Also includes an internal add-on that lets users watch their downloaded content in Stremio while being offline
+*   [Stremio - Watch together with friends](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) A guide explaining how to watch videos on Stremio remotely with friends, keeping the playback in sync
+*   [Stremio - Phone Remote](https://www.reddit.com/r/StremioAddons/comments/cuc3yo/news_phone_remote_for_stremio/) A guide explaining how to control Stremio with your phone
+*   [Stremio Catalog Builder](https://www.reddit.com/r/StremioAddons/comments/atizrk/news_stremio_catalog_builder/) A website that allows users to customize catalogs in Stremio
+
+### Plex Transcoding / Third Party Hosts
+
+*   [nvidia-patch (⭐1.1k)](https://github.com/keylase/nvidia-patch) Unlock the transcode or 'session' limit on nVidia consumer grade GPUs
+
+### Gaming / Third Party Hosts
+
+*   [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.
+
+### Windows / Third Party Hosts
+
+*   [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
+
+### Manga / Third Party Hosts
+
+*   [Free Manga Downloader (FMD) (⭐272)](https://github.com/fmd-project-team/FMD) A manga download manager and reader that supports downloading from various websites.
+
+### Automation / Third Party Hosts
+
+*   [Piracy and automation, an overview](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit) Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools
+
+## [33. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Themes / Ruby
 
@@ -274,7 +335,7 @@
 
 *   [TracerBench (⭐220)](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
-## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -290,7 +351,7 @@
 *   [Meetup Stavanger](https://www.meetup.com/Flutter-Stavanger/)
 *   [Twitter](https://twitter.com/flutterNorway)
 
-## [32. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [35. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Import tools / Hooks
 
@@ -301,26 +362,26 @@
 *   [DBeaver](https://dbeaver.com/databases/influxdb/) - DBeaver Universal Database Tool, DBeaver Enterprise has special extensions for InfluxDB
 *   [InfluxDB Studio (⭐746)](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 
-## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [36. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [lockfile-lint (⭐690)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
-## [34. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [37. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Producers / JavaScript
 
 *   [zora (⭐474)](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 
-## [35. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [38. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings
 
 *   [Microsoft.CodeAnalysis.Testing (⭐415)](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing) - Library for testing analyzers and code fixes with NUnit, xUnit and MSTest frameworks. A part of [Roslyn SDK (⭐415)](https://github.com/dotnet/roslyn-sdk).
 *   [RoslynTestKit (⭐18)](https://github.com/cezarypiatek/RoslynTestKit) - Lightweight framework for writing unit tests for analyzers, code fixes, refactorings, and completion providers. It's unit testing framework agnostic.
 
-## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Transportation
 
@@ -336,7 +397,7 @@
 
 
 
-## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [40. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Markup
 
@@ -392,7 +453,7 @@
 
 *   [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -402,14 +463,14 @@
 
 *   [react-native-video-processing ★712 (⭐1.1k)](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
 
-## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [42. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Presentations / XML
 
 *   [Rafał Pocztarski - What is Deno? A new runtime for modern JavaScript and TypeScript backends for 2020s - Deno Warsaw](https://www.youtube.com/watch?v=aI5A9zvYSjk)
 *   [Michał Sabiniarz - How to contribute to Deno? - Deno Warsaw](https://www.youtube.com/watch?v=LAtjnKLbPpw)
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -419,13 +480,13 @@
 
 *   [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐64)](https://github.com/braintree/restricted-input)
 
-## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -444,20 +505,20 @@
 
 *   [Digital History (⭐145)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
-## [43. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [46. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [graph-2-text (⭐145)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 *   [Transformers (⭐73k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
-## [44. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [47. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### UI / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Essence (⭐1)](https://github.com/essence-language/vscode-extension)
 
-## [45. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -479,7 +540,7 @@
 
 *   [Publish module to Puppet Forge (⭐8)](https://github.com/barnumbirr/action-forge-publish)
 
-## [46. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -489,7 +550,7 @@
 
 *   [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
 
-## [47. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [50. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Wallet
 
@@ -499,13 +560,13 @@
 
 *   [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 
-## [48. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [51. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
 *   [Spellcast (⭐5)](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
 
-## [49. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [52. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -516,13 +577,13 @@
 *   [StringSifter (⭐586)](https://github.com/fireeye/stringsifter) - A machine learning tool
     that automatically ranks strings based on their relevance for malware analysis.
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Storage and Media Processing
 
 *   [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
 
-## [51. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [54. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
     *   "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
     *   "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))

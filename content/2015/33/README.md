@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17 - Aug 23, 2015
 
-27 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -146,7 +146,17 @@
 
 *   [erld (⭐194)](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
 
-## [3. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   :octocat: [Typescript addin for (⭐29)](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
+
+## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
@@ -157,7 +167,7 @@
 
 *   [metrics (⭐313)](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 
-## [4. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [5. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Mobile Development with Salesforce / Mobile SDK
 
@@ -178,7 +188,7 @@
 
 *   [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) - Covers latest update from engineering team, you will find updates about core engineering and product releated post and some awesome people to follow
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -188,7 +198,7 @@
 
 *   [haikunator (⭐25)](https://github.com/knrz/Haikunator) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
 
-## [6. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [7. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Videos / Tutorial-only
 
@@ -234,7 +244,7 @@
 *   [SketchTips](http://www.sketchtips.info/), a blog about Sketch
 *   [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
-## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Build Tools
 
@@ -272,7 +282,7 @@
 *   [gspread (⭐6.1k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 *   [twython (⭐1.8k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
-## [8. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [9. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -284,7 +294,7 @@
 *   [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
 *   [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
 
-## [9. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -294,7 +304,7 @@
 
 *   [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
@@ -304,7 +314,7 @@
 
 *   [Azure PowerShell (⭐3.3k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
-## [11. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -395,7 +405,7 @@
 *   [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
 *   [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 
-## [12. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [13. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Development APIs / Permissions
 
@@ -406,13 +416,13 @@
 *   [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 *   [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
-## [13. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Animations
 
 *   [Android-View-Actions (⭐138)](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
 
-## [14. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### REST / Scala
 
@@ -449,13 +459,13 @@
 *   [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/) - The Unicode Consortium. The Unicode Standard, Version 8.0.0, (Mountain View, CA: The Unicode Consortium, 2015. ISBN 978-1-936213-10-8).
 *   [RFC3629](https://tools.ietf.org/html/rfc3629) - UTF-8, a transformation format of ISO 10646.
 
-## [15. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [16. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEM official naming convention](https://en.bem.info/method/naming-convention/)
 
-## [16. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [17. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -472,7 +482,7 @@
 *   **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
 *   **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -486,19 +496,19 @@
 
 *   [Box2D (⭐6k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
-## [18. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
 *   [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [react-native (⭐105k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
-## [20. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [21. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
@@ -536,14 +546,14 @@
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 
-## [21. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [22. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[jsw](https://www.npmjs.com/package/jsw)** - "the spec doesnt care about semicolons and neither should you"
 *   **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
 
-## [22. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [23. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Articles
 
@@ -589,7 +599,7 @@ PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`.
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [24. Tips](/content/git-tips/tips/week/README.md)
 ## Before deleting untracked files/directory, do a dry run to get the list of these files/directories
 
 ```sh
@@ -617,7 +627,7 @@ git cherry -v master
 git cherry -v master <branch-to-be-merged>
 ```
 
-## [24. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [25. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### GitHub API
 
@@ -644,19 +654,19 @@ git cherry -v master <branch-to-be-merged>
 *   [WPO (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 *   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 
-## [25. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Analysis and Metrics
 
 *   [Fasterer (⭐1.6k)](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
 
-## [26. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [27. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Articles / Other
 
 *   [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 
-## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 

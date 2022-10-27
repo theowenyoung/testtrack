@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -91,7 +91,13 @@
 
 *   [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [next-smrt (⭐53)](https://github.com/csprance/next-smrt) – A Typescript/NextJs boilerplate with Redux/Styled Components/Material UI and TypeSafe Actions.
+
+## [10. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 

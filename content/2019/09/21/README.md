@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -131,7 +131,17 @@
 
 *   [Build and Publish Android debug APK (⭐61)](https://github.com/ShaunLWM/action-release-debugapk)
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
+
+### Tools
+
+*   [svgtofont (⭐328)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 

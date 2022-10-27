@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,13 +69,19 @@
 
 *   [pytessarct (⭐4.5k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐47k)](https://github.com/tesseract-ocr/tesseract).
 
-## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Validation / Playground
+
+*   [json-schema-to-ts (⭐887)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
+
+## [8. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Articles
 
 *   [First steps in WebGL](https://dev.to/aralroca/first-steps-in-webgl-385c) - Learn what WebGL is and how it works by drawing a triangle.
 
-## [8. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [9. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Articles
 

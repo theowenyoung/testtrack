@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2015
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -531,7 +531,13 @@
 
 *   [suseapplication](https://www.suse.com/products/susestudio/) tools to create suse applications
 
-## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :books: [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat)
+
+## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Paid Resources / Icons Packages and Collections
 

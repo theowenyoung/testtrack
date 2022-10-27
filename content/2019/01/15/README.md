@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,63 @@
 
 *   [CSS Feature Toggles](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg) - Chrome DevTools extension to toggle support of selected CSS features for testing progressive enhancement fallbacks.
 
-## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Pastebins
+
+*   [PasteLert](http://andrewmohawk.com/pasteLert) - PasteLert is a simple system to search pastebin.com and set up alerts (like google alerts) for pastebin.com entries.
+
+### Social Media Tools / Reddit
+
+*   [Reddit Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Enhances your reddit experience.
+*   [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser/) - reddit user account analyzer.
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
+*   [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
+
+### Domain and IP Research / Telegram
+
+*   [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
+*   [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
+*   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
+
+### Language Tools / Telegram
+
+*   [Google Input Tools](https://www.google.com/inputtools/try) - Makes it easy to type in the language you choose, anywhere on the web.
+
+### Image Search / Telegram
+
+*   [TinEye](https://tineye.com) - Reverse image search engine.
+
+### Academic Resources and Grey Literature / Telegram
+
+*   [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
+
+### Fact Checking / Telegram
+
+*   [Snopes](http://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
+
+### Web Monitoring / Telegram
+
+*   [Google Alerts](http://www.google.com/alerts) - A content change detection and notification service.
+
+### Slide Show and Presentation Tools / Telegram
+
+*   [Convert Words to Time](https://wordstotime.com) - Converts the number of words in a presentation or speech to how many minutes it will take to read.
+
+### E-mail Management / Telegram
+
+*   [Unroll.me](https://unroll.me) - Easily unsubscribe in one click from email subscriptions.
+
+## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Blog posts
 
 *   [Keeping a React Design System consistent: using visual regression testing to save time and headaches](https://techblog.commercetools.com/keeping-a-react-design-system-consistent-f055160d5166) - Using percy, and jest puppeteer to visually test a React component library.
 
-## [4. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Communication
 
@@ -68,25 +118,25 @@
 
 *   [Flitter (⭐189)](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux and Jaguar.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Date and time / Third-party APIs
 
 *   [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Lyrics King (⭐292)](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Content Management Systems
 
 *   [Umbraco (⭐201)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
-## [8. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
+## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
 ### Official
 
@@ -105,13 +155,13 @@
 
 *   [uSync](https://our.umbraco.org/projects/developer-tools/usync/) - Syncing tool for reading and writing the database elements to disk.
 
-## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
 
-## [10. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [11. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Integrations / Transactions
 

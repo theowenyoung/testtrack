@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,50 +31,78 @@
 
 *   [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Reversing (⭐3.2k)](https://github.com/fdivrp/awesome-reversing)
+
+  Description: List of awesome reverse engineering resources
+
+
+- Repository: [Vehicle Security (⭐2.2k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+
+  Description: List of resources for learning about vehicle security and car hacking
+
+
+
+### Other useful repositories
+
+- Repository: [Free Programming Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books)
+
+  Description: Free programming books for developers
+
+
+- Repository: [ThreatHunter-Playbook (⭐3.3k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+
+  Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
+
+
+
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Game Development
 
 *   [JustWeEngine (⭐769)](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [PyTorch (⭐60k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Performance
 
 *   [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA)
 
-## [8. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
 *   [lgtv2mqtt (⭐89)](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 
-## [9. Tips](/content/git-tips/tips/README.md)
+## [10. Tips](/content/git-tips/tips/README.md)
 ## Push a new local branch to remote repository and track
 
 ```sh
 git push -u origin <branch_name>
 ```
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Documentation / Runner
 
 *   [ESDoc (⭐2.7k)](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Device
 

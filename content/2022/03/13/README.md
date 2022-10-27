@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 13, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -241,7 +241,17 @@
 *   [TeXblog](https://texblog.net) - Blog about LaTeX and everything related.
 *   [TeX Talk](https://tex-talk.net) - Blog for the TeX Stack Exchange site with news and interviews.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-remain-exports (⭐1)](https://github.com/coconilu/vite-plugin-remain-exports) - Remaining exports from the entry file that imported by html.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-file-mock (⭐4)](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
+
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Jobs
 

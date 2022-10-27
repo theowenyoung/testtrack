@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 28, 2016
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,17 @@
 
 *   [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
 
-## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Security List (⭐1.5k)](https://github.com/zbetcheckin/Security_list)
+
+  Description: Great security list for fun and profit
+
+
+
+## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,13 @@
 
 *   [ava-typescript-worker (⭐1)](https://github.com/seamapi/ava-typescript-worker) - use TypeScript in shared workers
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-validate-env (⭐55)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
+
+## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Interpreter / Web
 

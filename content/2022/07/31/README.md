@@ -1,18 +1,27 @@
 # Awesome List Updates on Jul 31, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
+    *   [LinkScope Client (⭐100)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+*   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
+    *   [SpiderFoot (⭐8.6k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+
+## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   💼 [Hyphens (⭐11)](https://github.com/vivgui/tailwindcss-hyphens) - Adds `hyphens` utilities.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Image processing
 
@@ -61,7 +70,7 @@
 *   [plotters (⭐2.4k)](https://github.com/plotters-rs/plotters) — [![build badge](https://github.com/plotters-rs/plotters/workflows/CI/badge.svg)](https://github.com/plotters-rs/plotters/actions)
 *   [saresend/gust (⭐128)](https://github.com/saresend/Gust) — [![build badge](https://api.travis-ci.org/saresend/Gust.svg?branch=master)](https://travis-ci.org/saresend/Gust)
 
-## [3. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
+## [4. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md)
 
 ### Converters and Filters
 
@@ -72,13 +81,20 @@
 *   [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers.
 *   [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [MÖRKSWORN](https://chaoclypse.itch.io/morksworn) - Conversion rules for MÖRK BORG magic, weapons and enemies to Ironsworn
+*   [Supersworn](https://drive.google.com/drive/folders/1THcUielU0wvcyZAAwUtqDT-J95XlyQvc) - Superhero hack for Starforged
+
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [jershell/kbson (⭐36)](https://github.com/jershell/kbson) - Bson support for kotlinx.serialization
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -87,7 +103,7 @@
 *   [ranger-autojump (⭐65)](https://github.com/fdw/ranger-autojump) - Adds [autojump (⭐14k)](https://github.com/wting/autojump) support to the [ranger (⭐12k)](https://github.com/ranger/ranger) console file manager.
 *   [raspberryPi4Temperature (⭐0)](https://github.com/KidesLeo/RaspberryPi4TemperaturePromptPlugin/blob/main/RaspberryPi4TemperaturePromptPlugin.zsh) - Puts the Raspberry Pi temperature into a spaceship prompt segment
 
-## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
@@ -109,7 +125,7 @@
     *   Vulkan 1.3 Core API + Khronos-defined Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/html/vkspec.html))
     *   Vulkan 1.3 Core API + all registered Extensions ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html))
 
-## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### NoSQL / Metric & Metric Collection
 
@@ -121,7 +137,7 @@
     *   [RethinkDB](http://www.rethinkdb.com/) - Distributed document store database, focuses on JSON.
     *   [eXist-DB](Https://www.exist-db.org/) - Open Source XML Database
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -131,13 +147,13 @@
 
 *   [Superdesigner](https://superdesigner.co) - A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 
 *   [WebBen (⭐5)](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
 
-## [10. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [12. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Wallets and Toolkits / Desktop
 

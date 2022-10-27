@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,25 +18,51 @@
 
 *   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 
-## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [LavaliteCMS (⭐2.5k)](https://github.com/LavaLite/cms)
+
+  Description: CMS built on Laravel 5.2
+
+  Link: <http://www.lavalite.org>
+
+
+- Name: [Quarx (⭐494)](https://github.com/YABhq/Quarx)
+
+  Description: A CMS for Laravel Apps
+
+  Link: 
+
+
+- Name: [Oez (⭐32)](https://github.com/gaaarfild/0ez)
+
+  Description: Lightweight Blogging CMS
+
+  Link: 
+
+
+
+## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Object
 
 *   [sorted-object (⭐35)](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 
-## [4. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [5. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
 *   [redux-test-recorder (⭐492)](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 
-## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
 *   [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 
-## [6. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+## [7. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
 ### Tutorials
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24, 2022
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -79,13 +79,60 @@
     *   [scale-ts (⭐8)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
     *   [soramitsu/scale-codec-js-library (⭐1)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### General Search
+
+*   [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites.
+*   [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
+*   [SurfCanyon](http://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
+
+### Pastebins
+
+*   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
+*   [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
+
+### Social Media Tools / Instagram
+
+*   [Osintgram (⭐5.3k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+
+### Social Media Tools / Telegram
+
+*   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
+
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Plugin
 
 *   [tdengine\_hivemq (⭐0)](https://github.com/379547990/tdengine_hivemq) - HiveMQ to TDengine.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
+
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Electron
+
+*   [electron-vite-vue (⭐1.6k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+*   [electron-vite-react (⭐547)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+*   [electron-vite-boilerplate (⭐158)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+*   [electron-vite-quick-start (⭐44)](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+*   [electron-vite-template (⭐207)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [fast-vite-electron (⭐80)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+*   [fast-vite-nestjs-electron (⭐96)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+*   [vite-plugin-electron-quick-start (⭐25)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
+*   [vite-electron-builder (⭐1.4k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-reactts-electron-starter (⭐174)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
+*   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-progress (⭐88)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
+
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Scheduling
 

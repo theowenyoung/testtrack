@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10 - Aug 16, 2015
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -292,7 +292,15 @@ git stash push --include-untracked
 
 *   [Honeypot (Dionaea and kippo) setup script (⭐79)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
-## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Social / Chrome Extensions
+
+*   [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter
+*   [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
+*   [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
+
+## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -399,7 +407,7 @@ git stash push --include-untracked
 
 *   [A recurrent neural network designed to generate classical music. (⭐1.9k)](https://github.com/hexahedria/biaxial-rnn-music-composition)
 
-## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -431,7 +439,7 @@ git stash push --include-untracked
 
 *   [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
-## [23. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [24. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -453,13 +461,13 @@ git stash push --include-untracked
 
 
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
 *   [R.swift (⭐8.8k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
-## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -470,13 +478,13 @@ git stash push --include-untracked
 
 *   [assert.sh (⭐465)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
-## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
 *   [MetadataExtractor (⭐718)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
-## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [28. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Bindings / XML
 
@@ -505,13 +513,13 @@ git stash push --include-untracked
 
 *   [DSFML (⭐99)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
-## [28. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [29. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Regional
 
 *   [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -519,7 +527,7 @@ git stash push --include-untracked
 *   [Laravel Search (⭐353)](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
 *   [SearchIndex (⭐441)](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 
-## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [31. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Passwords
 
@@ -529,13 +537,13 @@ git stash push --include-untracked
 
 *   [Pipeline (⭐867)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Parsing
 
 *   [kevinmehall/rust-peg (⭐1.1k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
 
-## [32. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [33. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Salesforce Developer Free Edition Signup
 
@@ -546,7 +554,7 @@ git stash push --include-untracked
 *   Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files.
 *   For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 
-## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### JSON
 

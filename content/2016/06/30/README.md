@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 30, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,7 +33,19 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 *   [Brisk Forms (⭐42)](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 
-## [3. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Laraadmin (⭐1.5k)](https://github.com/dwijitsolutions/laraadmin)
+
+  Description: CRM for quickstart Admin based applications
+
+  Link: [http://laraadmin.com](http://laraadmin.com/)
+
+
+
+## [4. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
 ### Programming languages / Erlang
 
@@ -47,25 +59,25 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 *   [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Clojure SDK
 
 *   [Repo :fire::fire::fire: (⭐968)](https://github.com/mcohen01/amazonica)
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [DragListView (⭐654)](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.
 
-## [6. Colorful](/content/Siddharth11/Colorful/README.md)
+## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 
 *   [Save My Palette](http://savemypalette.com/) - Save, share, and export your color palettes.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Queue
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 11, 2022
 
-13 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,13 +30,34 @@
 
 *   [Lysxia's blog](https://blog.poisson.chat)
 
-## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [django-extra-settings (⭐245)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
+
+### Third-Party Packages / General
+
+*   [django-maintenance-mode (⭐277)](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
+*   [django-freeze (⭐73)](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
+
+### Third-Party Packages / Models
+
+*   [django-any-urlfield (⭐43)](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
+*   [django-treenode (⭐321)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+*   [django-colorfield (⭐417)](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
+
+### Third-Party Packages / URLs
+
+*   [django-redirects (⭐34)](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
+
+## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
 *   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic originally designed to replay malicious traffic patterns to Intrusion Detection/Prevention Systems.
 
-## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [5. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Audio
 
@@ -47,7 +68,7 @@
 *   [dantecatalfamo/mruby-zig (⭐19)](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 *   [dantecatalfamo/wren-zig (⭐20)](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
 
-## [5. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [6. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Tutorials
 
@@ -64,13 +85,13 @@
 *   [Q# Advent Calendar 2020](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2020/) - Collection of Q#-related blog posts.
 *   [Q# Advent Calendar 2021](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2021/) - Collection of Q#-related blog posts.
 
-## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
 *   [Voting Dapp (⭐10)](https://github.com/akmadan/voting_dapp) - A Voting Dapp created using Solidity Smart Contract and web3dart library by [Akshit Madan](https://github.com/akmadan)
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Log Management
 
@@ -80,7 +101,7 @@
 
 *   [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot is a reliable uptime monitor for both JS-based web apps and websites. 5 uptime checks (for static websites and APIs) with a 5 minute interval, 1 browser check with a 15 minute interval. Also provides automated public status pages (with support coming for 3rd party uptime monitoring). Free for up to 3 users, alerts via Slack, Discord, and Email.
 
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -97,31 +118,37 @@
 *   [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 *   [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 
-## [9. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp) - In this book, you’ll get practical experience writing Haskell code and applying functional programming to actual development challenges.
 
-## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Tools / Smart Contracts
 
 *   [ASC Builder](https://ascbuilderapp.com) - A GUI (drag and drop) tool for developing & deploying Algorand smart contracts developed by [Algoknox](https://twitter.com/Algoknox).
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Storage / Runner
 
 *   [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
 *   [lcheylus/overlength.nvim (⭐27)](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -164,6 +191,12 @@
 ### External Links / Wikis
 
 *   Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted/), [IndieWeb](https://indieweb.org/)
+
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Get Started
+
+*   [create-vite-app (⭐73)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 
 ---
 

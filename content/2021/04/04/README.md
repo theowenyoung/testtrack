@@ -1,18 +1,24 @@
 # Awesome List Updates on Apr 04, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [NewPipe (⭐21k)](https://github.com/TeamNewPipe/NewPipe): A libre lightweight streaming front-end for Android
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
 *   [cl-json (⭐4)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
 
-## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
@@ -36,13 +42,13 @@
 
 *   [You (⭐212)](https://github.com/MDSADABWASIM/You) — An app that checks what internet knows about you by [Md Sadab Wasim](https://github.com/MDSADABWASIM)
 
-## [3. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Content Search
 
 *   [Sitecore Solr Schema (⭐0)](https://github.com/konabos/solr-sitecore-schema) - Sitecore configsets (schema) for Solr 8.1.1 and 8.4.0.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Weather
 
@@ -58,20 +64,20 @@
 
 
 
-## [5. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
+## [6. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 
 ### Learn / Books
 
 *   [Practical TensorFlow.js](https://www.apress.com/gp/book/9781484262726) - Deep Learning in Web App Development by Juan De Dios Santos Rivera.
 *   [Practical Machine Learning in JavaScript](https://www.apress.com/gp/book/9781484264171) - TensorFlow\.js for Web Developers by Charlie Gerard.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces
 
-## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Network perimeter defenses / Firewall appliances or distributions
 
@@ -79,13 +85,13 @@
 *   [OPNsense](https://opnsense.org/) - Hardened FreeBSD based firewall and routing platform forked from pfSense.
 *   [pfSense](https://www.pfsense.org/) - FreeBSD firewall and router distribution forked from m0n0wall.
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Development Environment
 
 *   :strawberry: [CakePHP Docker (⭐20)](https://github.com/cnizzardini/cakephp-docker) - A cakephp/app template for docker and kubernetes setup.
 
-## [9. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [10. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Editors
 

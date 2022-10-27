@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,31 @@
 
 *   [k9s (⭐18k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
-## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue-pure-admin (⭐3.8k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+
+### Templates / React
+
+*   [vite-reactts-eslint-prettier (⭐294)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-config (⭐27)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+
+### Vue / Helpers
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐190)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### PHP / Angular
 
 *   [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html). A free monthly newsletter containing latest news from the PHP community and the most interesting PHP articles from around the web. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
-## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Distributed monitoring
 
@@ -35,32 +53,32 @@
 
 *   [certificate-expiry-monitor (⭐141)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
-## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
 *   [PaaS to AKS (⭐11)](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.\* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 
-## [6. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [7. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
 *   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐49)](https://github.com/avojak/iridium)) `Linux`
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Russian
 
 *   [DotNet & More](https://more.dotnet.ru) - Podcast about .NET development and more. Hosted by [Aleksandr Kugushev](https://github.com/kugushev) and [Artem Akulyakov](https://github.com/oxffaa).
 *   [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Podcast about software development (programming). Discussed topics are C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA and much more. Hosted by [Dmitri Nesteruk](https://github.com/nesteruk).
 
-## [8. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [9. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### Arch Linux Installers / Specific purpose
 
 *   [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
@@ -74,7 +92,7 @@
 
 *   [cpp-httplib (⭐7.9k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
-## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Deployment Tools / Newsletters
 
@@ -84,7 +102,7 @@
 
 *   [nixpkgs-fmt (⭐350)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C
 
@@ -95,13 +113,13 @@
 *   [Lish (⭐63)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [Lazarus](https://www.lazarus-ide.org/) — Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development.
 
-## [13. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Podcasts
 
@@ -111,7 +129,7 @@
 
 *   [Oh-My-Posh (⭐8.2k)](https://github.com/jandedobbeleer/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -155,7 +173,7 @@
 
 
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 

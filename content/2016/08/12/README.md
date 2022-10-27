@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,13 +61,25 @@
 
 *   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
 
-## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Condor (⭐19)](https://github.com/condorrocks/condor)
+
+  Description: Service monitor that watches diverse statuses, and elegantly reports every drift
+
+  Link: [https://condor.rocks](https://condor.rocks/)
+
+
+
+## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
 *   [Tracer (⭐181)](https://github.com/zalando/tracer) - Manages custom trace identifiers and carries them through distributed systems.
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Java VM / Clojure
 
@@ -86,7 +98,7 @@
 
 *   [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 
-## [6. Tips](/content/git-tips/tips/README.md)
+## [7. Tips](/content/git-tips/tips/README.md)
 ## Show how many lines does an author contribute
 
 ```sh
@@ -101,7 +113,7 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 ", add, subs, loc }' - # on Mac OSX
 ```
 
-## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -112,7 +124,7 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 *   [Fonts](https://github.com/showcases/fonts)
 *   [Icon Fonts](https://github.com/showcases/icon-fonts)
 
-## [8. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Templates
 

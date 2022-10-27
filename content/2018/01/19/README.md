@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2018
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,31 +69,43 @@
 
 *   [lake (⭐84)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
-## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Laracom (⭐1.7k)](https://github.com/jsdecena/laracom)
+
+  Description: FREE E-Commerce Software
+
+  Link: <https://laracom.net>
+
+
+
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### CLI
 
 *   [genact (⭐6.6k)](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator for your shell.
 
-## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Monitoring & Quality Control
 
 *   [SilentJack (⭐20)](https://github.com/njh/silentjack) - Dead-air / Silence detector for JACK.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
 *   [Ooui (⭐1.6k)](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Debugging Tools / ORM
 
 *   [ADB Enhanced (⭐928)](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -103,13 +115,13 @@
 
 *   [ASP.NET-MVC-Template (⭐890)](https://github.com/NikolayIT/ASP.NET-MVC-Template) - A ready-to-use templates for ASP.NET MVC 5 and ASP.NET Core with repositories, services, models mapping and DI and StyleCop warnings fixed.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Screencapturing Software
 
 *   [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

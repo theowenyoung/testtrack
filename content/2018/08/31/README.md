@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [AntsDB](http://antsdb.com/) - AntsDB is a low latency, high concurrency, MySQL compliant SQL layer for HBase.
 
-## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Books
+
+*   :books: [Learning TypeScript 2.x 2nd Ed.](https://www.learningtypescript.com) by Remo H. Jansen
+
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
@@ -32,13 +38,13 @@
 *   [latex (⭐533)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
 *   [variableinspector (⭐941)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Version control / Metric & Metric Collection
 
 *   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
-## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [7. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Live Demos
 

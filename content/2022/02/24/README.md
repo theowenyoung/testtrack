@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24, 2022
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -100,6 +100,34 @@
 ### Cognitive Development / Commonsense Knowledgebase
 
 *   [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?start=10\&hl=en\&as_sdt=0,5\&cluster=9247917261616759689)].
+
+## [13. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Books
+
+*   [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
+
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Get Started
+
+*   [create-vitawind (⭐95)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+
+### Templates / Vanilla
+
+*   [vite-vanilla-tailwind-v3 (⭐14)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
+
+### Templates / Vue 3
+
+*   [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
+
+### Templates / React
+
+*   [vite-react-ts-extended (⭐57)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-image-presets (⭐178)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
 
 ---
 

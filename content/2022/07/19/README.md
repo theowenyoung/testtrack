@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,13 +19,19 @@
 *   [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1) - The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. **\[$]**
 *   [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8) - Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. **\[$]**
 
-## [2. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+## [2. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Learning / Talks Presentations Podcasts
+
+*   [Video Coding Basics - How is this so efficient?](https://youtu.be/LDeL7-49qm4)  - An introduction to the basics of video coding
+
+## [3. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Capture
 
 *   [Deepfence PacketStreamer (⭐763)](https://github.com/deepfence/PacketStreamer): High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -35,7 +41,13 @@
 
 *   [Steve Sanderson - Blazor, WASI and optimizing tomatoes](https://www.youtube.com/watch?v=1r3FwkUEte0) - July 17, 2022 - At NDC London we sat down with Steve Sanderson and talked about the origin story of Blazor, some of the upcoming things in .NET 7, and what Steve is working on right now. Duration: 35 minutes.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [ViteRC (⭐12)](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -90,7 +102,7 @@
 
 
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Feed Readers
 
@@ -100,7 +112,7 @@
 
 *   [Wastebin (⭐35)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust`
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Misc
 
@@ -109,13 +121,13 @@
 *   [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
 *   [Front-End Developer Handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/) - Cody Lindley (HTML)
 
-## [7. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Communication
 
 *   [Mouseless Messenger (⭐33)](https://github.com/stephancasas/alfred-mouseless-messenger)
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Office
 

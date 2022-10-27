@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [A curated list of Ruby on Rails courses](https://skillcombo.com/topic/ruby-on-rails/)
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Anti-tracking / Alternative clients/modifications of Discord:
+
+*   ~~[Privacy Redirect (⭐1.5k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐1.6k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Official Guides
 
@@ -22,19 +28,19 @@
 
 *   [CapturePreventionKit (⭐16)](https://github.com/Jaesung-Jung/CapturePreventionKit) - Provides `Label` and `ImageView` for `screen capture prevention`.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Self-hosting Solutions
 
 *   [VivumLab](https://vivumlab.com) - An open-source data-center, owned by you, the user. VivumLab deploys web services to a server. ([Source Code (⭐32)](https://github.com/VivumLab/VivumLab)) `MIT` `Docker/Shell`
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [usbd-human-interface-device (⭐32)](https://github.com/dlkj/usbd-human-interface-device) - Batteries included embedded USB HID library for `usb-device`. Includes concrete Keyboard (boot and NKRO), Mouse and Consumer Control implementations as well as support for building your own HID classes - [github (⭐32)](https://github.com/dlkj/usbd-human-interface-device) - ![crates.io](https://img.shields.io/crates/v/usbd-human-interface-device.svg)
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 

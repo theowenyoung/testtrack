@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -174,6 +174,16 @@ git cherry -v master <branch-to-be-merged>
 ### Miscellaneous
 
 *   [erld (⭐194)](https://github.com/ShoreTel-Inc/erld) - erld is a small program designed to solve the problem of running Erlang programs as a UNIX daemon.
+
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   :octocat: [Typescript addin for (⭐29)](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
 
 ---
 

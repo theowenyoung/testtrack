@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 *   [Commit messages guide (⭐6.5k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Online Resources / Other Lists Online
+
+*   [Awesome Shodan Queries (⭐3.5k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
+
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Classics
 
@@ -45,19 +51,19 @@
 
 *   *[Online Social Networks and Media](https://www.journals.elsevier.com/online-social-networks-and-media/)* (Elsevier, gated).
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [Rubble (⭐391)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Examples
 
 *   [Medicine Inventory (⭐0)](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
 
-## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
@@ -67,7 +73,7 @@
 
 *   [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
@@ -77,13 +83,13 @@
 
 *   [Nonius (⭐335)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [bazaarvoice/cloudformation-ruby-dsl :fire::fire: (⭐207)](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 

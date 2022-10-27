@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2018
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,7 +59,13 @@ Webpage: <http://ogniwo.org/>
 *   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 *   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Books and Resources
+
+*   [Pure Bash Bible (⭐32k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Caching
 
@@ -69,7 +75,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [bitmex (⭐8)](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -79,7 +85,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [Clipy](https://clipy-app.com/) - Clipy is a Clipboard extension app for macOS. Based on ClipMenu. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Clipy/Clipy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Framework Components
 
@@ -89,13 +95,13 @@ Webpage: <http://ogniwo.org/>
 
 *   [mpngin (⭐31)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
 
-## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
 *   [pgstats (⭐103)](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Webmail
 
@@ -105,13 +111,13 @@ Webpage: <http://ogniwo.org/>
 
 *   [RIPS Technologies](https://blog.ripstech.com/tags/security/) - Write-ups for PHP vulnerabilities.
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Text & Rich Content / Image Picker
 
 *   [Masked Text (⭐261)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
@@ -126,7 +132,7 @@ Webpage: <http://ogniwo.org/>
 *   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
 *   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
-## [14. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [15. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Security / Other
 

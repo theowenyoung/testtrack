@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,25 @@
 
 *   [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](http://quassel-irc.org/) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro)
+
+  Description: One-input productivity booster
+
+  Link: <http://www.cerebroapp.com>
+
+
+
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Testing
 
 *   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
-## [3. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Articles
 
@@ -29,32 +41,32 @@
 
 *   [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Applications
 
 *   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
-## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 
 *   \[Inspect iOS app's with Appium 1.6] (<https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo>) - The options of inspecting iOS 10 app with Appium 1.6
 
-## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Documents and Shellcode / Other Resources
 
 *   [box-js (⭐517)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
-## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 
-## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -70,19 +82,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [12. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Introduction to CS
 

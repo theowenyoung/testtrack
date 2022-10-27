@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 24, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,31 @@
 
 *   [HTML Email Blog](https://htmlemail.io/blog/)
 
-## [3. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Tracker Aggregators / Public Trackers
+
+*   [SolidTorrents](https://solidtorrents.net) :star2: A clean, privacy focused torrent search engine.
+
+### DDL Link Sites / Free Indexers
+
+*   [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
+
+### Open Directories / Free Indexers
+
+*   [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
+
+### IPTV and DVR / Third Party Hosts
+
+*   [STBEmulator](http://rocketstreams.tv/stbemu) Popular Android app for using IPTV streams with EPG
+
+## [4. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Open Source Analyzers, Code Fixes, and Refactorings
 
 *   [.NET Analyzers](https://github.com/DotNetAnalyzers) - GitHub organization for the development of Roslyn analyzers. Various repositories within the organization cover analyzers for ASP.NET Core, WPF, IDisposable, usages of System.Reflection, etc.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
@@ -34,7 +52,7 @@
 
 *   [sajson (⭐541)](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. \[MIT]
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blog posts
 

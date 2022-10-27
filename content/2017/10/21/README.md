@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -162,7 +162,19 @@
 
 *   [Hulaaki (⭐114)](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers.
 
-## [7. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Android
+
+- Name: [Easy Photo Map (⭐37)](https://github.com/hanjoongcho/aaf-easyphotomap)
+
+  Description: Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo.
+
+  Link: <https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap>
+
+
+
+## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Academy/Camp
 

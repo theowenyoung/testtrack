@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,7 +50,17 @@
 
 *   [machine (⭐42)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
-## [8. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Lockpicking (⭐956)](https://github.com/meitar/awesome-lockpicking)
+
+  Description: Resources relating to the security and compromise of locks, safes, and keys.
+
+
+
+## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
@@ -60,13 +70,13 @@
 
 *   [openlgtv.org.ru](http://openlgtv.org.ru) - A non-commercial project for legal reverse engineering and research on LG Television firmware. Seems a bit outdated but contains a lot of information.
 
-## [9. Awesome Linux](/content/inputsh/awesome-linux/README.md)
+## [10. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
 ### Console-based Applications and Tools / Package management and creation tools
 
 *   [shellcheck (⭐30k)](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 
@@ -82,7 +92,7 @@
 
 *   [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - JavaScript math snippets for movement.
 
-## [11. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
+## [12. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
 
 ### Background
 

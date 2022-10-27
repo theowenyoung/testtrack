@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,19 +42,25 @@
 *   [Understanding error budget overspend - part one - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/understanding-error-budget-overspend-cre-life-lessons.html)
 *   [Good housekeeping for error budgets - part two - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/cre-life-lessons-good-housekeeping-for-error-budgets.html)
 
-## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [6. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Front-End Development
+
+*   [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
+
+## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2018
 
 *   [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) \[39:38]
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
 *   [NBlockchain (⭐72)](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / PHP Installation
 

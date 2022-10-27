@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06 - Jul 12, 2020
 
-54 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,31 +102,200 @@
 *   [Deepmind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb): Deep Reinforcement Learning
 *   [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) Course: 11-785, Intro to Deep Learning by Bhiksha Raj
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-grappelli (⭐3.4k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
+*   [django-hijack (⭐1.2k)](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
+*   [django-import-export (⭐2.5k)](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
+*   [django-admin-honeypot (⭐900)](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
+*   [django-loginas (⭐318)](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
+
+### Third-Party Packages / Async
+
+*   [channels (⭐5.4k)](https://github.com/django/channels/) - Async support for Django.
+*   [starlette (⭐7.5k)](https://github.com/encode/starlette) - ASGI framework.
+
+### Third-Party Packages / Commands
+
+*   [django-extensions (⭐5.9k)](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
+*   [django-click (⭐213)](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library.
+*   [django-dbbackup (⭐659)](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+
+### Third-Party Packages / Configuration
+
+*   [confidential (⭐62)](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
+*   [django-environ (⭐2.6k)](https://github.com/joke2k/django-environ) - Environment variables.
+*   [django-split-settings (⭐929)](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
+*   [django-constance (⭐1.5k)](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
+
+### Third-Party Packages / Content Management Systems
+
+*   [mezzanine (⭐4.5k)](https://github.com/stephenmcd/mezzanine) - CMS framework.
+*   [django-cms (⭐8.9k)](https://github.com/divio/django-cms) - CMS for Django.
+*   [puput (⭐524)](https://github.com/APSL/puput) - Blog app features with Wagtail.
+
+### Third-Party Packages / ECommerce
+
+*   [saleor (⭐17k)](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+*   [django-shop (⭐2.9k)](https://github.com/awesto/django-shop) - Django-based shop system.
+*   [shuup (⭐1.9k)](https://github.com/shuup/shuup) - Django E-Commerce Platform.
+*   [django-oscar (⭐5.5k)](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
+
+### Third-Party Packages / Files/Images
+
+*   [django-cleanup (⭐809)](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
+
+### Third-Party Packages / Forms
+
+*   [django-crispy-forms (⭐4.5k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
+*   [django-widget-tweaks (⭐1.8k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
+*   [django-autocomplete-light (⭐1.6k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
+
+### Third-Party Packages / Models
+
+*   [django-fakery (⭐93)](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
+*   [django-lifecycle (⭐1k)](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
+*   [django-model-utils (⭐2.3k)](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
+*   [django-money (⭐1.3k)](https://github.com/django-money/django-money) - Money fields for forms/models.
+*   [django-phonenumber-field (⭐1.3k)](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
+*   [django-taggit (⭐2.9k)](https://github.com/jazzband/django-taggit/) - Simple model tags.
+*   [django-reversion (⭐2.8k)](https://github.com/etianen/django-reversion) - Version control for model instances.
+*   [django-simple-history (⭐1.7k)](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
+
+### Third-Party Packages / Performance
+
+*   [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
+*   [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
+*   [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
+*   [django-query-profiler (⭐112)](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
+*   [py-spy (⭐9.2k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+
+### Third-Party Packages / Search
+
+*   [django-haystack (⭐3.3k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
+*   [django-watson (⭐1k)](https://github.com/etianen/django-watson) - Full-text search plugin.
+
+### Third-Party Packages / Static Assets
+
+*   [django-storages (⭐2.3k)](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
+*   [django-compressor (⭐2.6k)](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file.
+*   [easy-thumbnails (⭐1.3k)](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django.
+
+### Third-Party Packages / Task Queues
+
+*   [beatserver (⭐128)](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
+*   [django-q (⭐1.6k)](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue.
+*   [django-rq (⭐1.6k)](https://github.com/rq/django-rq) - Integration for Redis Queue.
+*   [celery (⭐20k)](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
+
+### Third-Party Packages / Testing
+
+*   [django-debug-toolbar (⭐7.2k)](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
+*   [pytest-django (⭐1.1k)](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django.
+*   [django-test-migrations (⭐362)](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
+*   [django-test-plus (⭐536)](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
+*   [factory-boy (⭐3k)](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
+*   [django-waffle (⭐939)](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
+*   [model-bakery (⭐601)](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
+
+### Third-Party Packages / URLs
+
+*   [dj-database-url (⭐1.3k)](https://github.com/jacobian/dj-database-url) - Database URLs.
+*   [urlman (⭐95)](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
+*   [django-robots (⭐390)](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
+
+### Third-Party Packages / Users
+
+*   [django-allauth (⭐7.5k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
+*   [django-organizations (⭐1k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
+*   [django-cas-ng (⭐345)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
+
+### Third-Party Packages / Views
+
+*   [django-braces (⭐1.8k)](https://github.com/brack3t/django-braces) - Reusable, generic mixins.
+*   [django-extra-views (⭐1.2k)](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
+*   [django-vanilla-views (⭐937)](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
+*   [django-stronghold (⭐385)](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login\_required.
+
+### Python Packages / Views
+
+*   [bleach (⭐2.4k)](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
+*   [black (⭐30k)](https://github.com/psf/black) - Uncompromising Python code formatter.
+*   [coveragepy (⭐2.2k)](https://github.com/nedbat/coveragepy) - Code coverage measurement.
+*   [huey (⭐4.2k)](https://github.com/coleifer/huey) - A little task queue for Python.
+*   [nplusone (⭐827)](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
+*   [pillow (⭐10k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
+*   [pytest (⭐9.4k)](https://github.com/pytest-dev/pytest/) - Testing framework.
+*   [python-slugify (⭐1.3k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
+*   [sentry-python (⭐1.3k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
+*   [whitenoise (⭐2.1k)](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
+
+### Resources / Official Resources
+
+*   [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
+*   [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
+*   [Source Code (⭐67k)](https://github.com/django/django/) - Hosted on GitHub.
+
+### Resources / Community
+
+*   IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
+
+### Projects / Boilerplate
+
+*   [sos-django-template (⭐18)](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
+
+### Projects / Open Source Projects
+
+*   [pythonic-news (⭐444)](https://github.com/sebst/pythonic-news) - Hacker News clone.
+*   [Zulip (⭐17k)](https://github.com/zulip/zulip/) - Open-source team chat.
+*   [Django-CRM (⭐1.4k)](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
+*   [django-job-portal (⭐354)](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
+*   [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
+
+### Wagtail / Wagtail Resources
+
+*   [Official Documentation](https://wagtail.io/)
+*   [Wagtail Source Code (⭐13k)](https://github.com/wagtail/wagtail/)
+*   [awesome-wagtail (⭐1.7k)](https://github.com/springload/awesome-wagtail)
+*   [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
+*   [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
+
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Industrial automation
 
 *   [slowtec/tokio-modbus (⭐209)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
-## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Asynchronous Programming
 
 *   [trio (⭐4.9k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Newsletters
 
 *   [KubeWeekly](https://kubeweekly.io/) - The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Bob Killen, Chris Short, Craig Box, Kim McMahon and Michael Hausenblas
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Rust SDK
 
 *   [Docs](https://docs.rs/rusoto_core/)
 
-## [14. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [15. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Validation / Playground
+
+*   [zod (⭐13k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [runtypes (⭐2.3k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
+*   [ow (⭐3.6k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
+*   [superstruct (⭐6.2k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+
+## [16. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Packages
 
@@ -164,7 +333,7 @@
 
 *   [Is web monetized (⭐4)](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
-## [15. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
@@ -174,26 +343,32 @@
 
 *   [DevSecOps (⭐745)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
-## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [18. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [rocket-pipes (⭐18)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 
-## [17. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [19. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+
+### Serverless Architecture
+
+*   [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
+
+## [20. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Roboception GmbH](https://roboception.com/en/) - Real-Time Perception for Your Robot.
 
-## [18. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [21. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [css.gg (⭐8.7k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
 *   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 
-## [19. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [22. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -231,25 +406,45 @@
 
 *   [HEADLINER](https://headliner.app/) <sup>[698](https://t.me/s/aboutrss/698)</sup>
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Players / MPEG
+
+*   [videolan/libvlcsharp (⭐1.1k)](https://github.com/videolan/LibVLCSharp)  - Cross-platform .NET/Mono bindings for LibVLC
+
+### Community / Dolby
+
+*   [Community events of the VideoLAN non-profit organization](https://www.videolan.org/videolan/events)  - VideoLAN events
+
+## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / General Tools
 
 *   [Ultra TabSaver (⭐223)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
-## [21. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [25. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Signal processing / Stochastic processes
 
 *   [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey
 
-## [22. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [26. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Using WSL / Other WSL Uses
+
+*   [Arduino setup checklist](https://yanivpaz.com/2020-04-13-arduino-wsl1/) - Checklist to connect Arduino board from WSL 1.
+
+### WSL Tools / Terminals
+
+*   [Terminator](https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156) - Feature-rich tabbed terminal. Requires X server.
+
+## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Other / unknown licence
 
 *   [cubit (⭐69)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
-## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [28. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Filesystem
 
@@ -269,14 +464,24 @@
 
 *   [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/)
 
-## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Carousel
+
+*   [keen-slider (⭐3.6k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
+
+### UI Animation / Syntax Highlight
+
+*   [framer-motion (⭐16k)](https://github.com/framer/motion) - An animation and gesture library.
+
+## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [Drago](https://seashell.github.io/drago) - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
 *   [PiVPN](https://pivpn.io) - Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command.
 
-## [25. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -286,7 +491,7 @@
 
 *   [AuthPass (⭐1.4k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
@@ -305,7 +510,7 @@
 
 *   [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
 
-## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity / Directory Navigation
 
@@ -320,19 +525,19 @@
 *   [lazy-cd (⭐20)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 *   [up (⭐143)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 
-## [28. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [34. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
 *   [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 
-## [29. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [35. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Tools
 
 *   [webextension-manifest-loader (⭐7)](https://github.com/jsmnbom/webextension-manifest-loader) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
 
-## [30. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ODMs
 
@@ -384,32 +589,38 @@
 *   [redis-streams-fastapi-chat (⭐130)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 *   [TermPair (⭐1.5k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
-## [31. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [37. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Books
 
 *   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Interviewing
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
 
-## [33. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [39. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Social Media Tools / Twitter
+
+*   [Nations24](https://nations24.com)
+
+## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Other / Online IDEs with V
 
 *   [V Playground](https://v-wasm.now.sh/)
 
-## [34. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [41. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Articles
 
 *   [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) - The benefits ChatOps offers in managing a virtual war room.
 *   [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) - Creating a virtual war room, step by step.
 
-## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -419,7 +630,7 @@
 
 *   [Geany-lisp (⭐8)](https://github.com/jasom/geany-lisp) is an experimental lisp mode for the [Geany](https://geany.org/) editor.
 
-## [36. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [43. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -429,7 +640,7 @@
     *   [Vimeo channel :red\_circle:](https://vimeo.com/luminartech)
     *   [GitHub organization :octocat:](https://github.com/luminartech)
 
-## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
@@ -439,26 +650,26 @@
 
 *   [eShopOnWeb (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
 
-## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Science and Data analysis
 
 *   [alea (⭐11)](https://github.com/nin93/alea) - Repeatable sampling, CDF and other utilities to work with probability distributions
 
-## [39. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [46. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Misc / Official resources
 
 *   [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
 *   [awesome-smarttv (⭐115)](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
 
-## [40. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [47. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -580,7 +791,7 @@
 
 *   [Cookiecutter-Django-Vue (⭐546)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
-## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -591,7 +802,7 @@
 
 *   [next-auth (⭐12k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
-## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -606,7 +817,7 @@
 
 *   [keycloak-config-cli: Configuration as Code for Keycloak (⭐414)](https://github.com/adorsys/keycloak-config-cli)
 
-## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [51. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Mock / Barcode
 
@@ -624,7 +835,7 @@
 
 *   [Atributika (⭐1.1k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 
-## [45. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [52. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -634,19 +845,19 @@
 
 *   [react-native-360-image-viewer ★100 (⭐41)](https://github.com/phuochau/react-native-360-image-viewer) - The component helps to simulate 360 degrees image from multiple images.
 
-## [46. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [53. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 
-## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [54. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Jagnik (⭐33)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 
-## [48. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Authentication
 
@@ -679,7 +890,7 @@
 
 *   [DevOps and Docker Support for .NET Core Blazor Applications](https://www.udemy.com/course/devops-and-docker-support-for-net-core-blazor/?ranMID=39197\&ranEAID=w6JuN00t%2Fzo\&ranSiteID=w6JuN00t_zo-Kv09UYco3AqwmZkipiMIXw\&utm_source=aff-campaign\&LSNPUBID=w6JuN00t%2Fzo\&utm_medium=udemyads) - June 2020 - DevOps and Docker Support for .NET Core Blazor Applications, on Udemy. This Docker Support Course with DevOps concepts using ASP.NET Core Blazor will teach you Dockerisation of Blazor Apps.
 
-## [49. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [56. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -689,13 +900,13 @@
 
 *   [Wagtail Simple Captcha (⭐1)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.3k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 
-## [50. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [57. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### VPN / Metric & Metric Collection
 
 *   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
-## [51. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [58. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Commandline Productivity
 
@@ -762,7 +973,7 @@
 *   [PoshBot (⭐492)](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 *   [PoShKeePass (⭐216)](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 
-## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [59. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Architecture and Design
 
@@ -780,7 +991,7 @@
 
 *   [global\_racetrajectory\_optimization (⭐244)](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
 
-## [53. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [60. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Component Libraries
 
@@ -790,7 +1001,7 @@
 
 *   [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) by [@serhiikulykov](https://twitter.com/serhiikulykov)
 
-## [54. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [61. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 

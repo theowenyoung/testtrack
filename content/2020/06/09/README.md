@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 09, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -137,13 +137,23 @@
 
 *   [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components\&utm_medium=referral\&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
-## [10. Awesome V](/content/vlang/awesome-v/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Table
+
+*   [Smart React Grid](https://htmlelements.com/react/demos/grid/overview/) - Fast and feature-complete data grid with Material Design.
+
+### Chart
+
+*   [Smart React Chart](https://www.htmlelements.com/react/demos/chart/overview/) - Feature complete Charting library.
+
+## [11. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Libraries / Telegram
 
 *   [vgram (⭐118)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18 - Jun 24, 2018
 
-44 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -224,7 +224,13 @@
 
 *   [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
-## [21. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Fact Checking / Telegram
+
+*   [Captin Fact](https://captainfact.io/)
+
+## [22. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -232,7 +238,7 @@
     *   Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
     *   [Lectures and Assignments (⭐1.5k)](https://github.com/jaehyunp/stanfordacm)
 
-## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -260,7 +266,7 @@
 
 *   [Channel9](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) - YouTube
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -282,7 +288,7 @@
 
 *   [Awesome Public Datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
 
-## [24. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [25. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
@@ -292,7 +298,7 @@
 
 *   [Stack Overflow](https://stackoverflow.com/tags/dart)
 
-## [25. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [26. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Data Management
 
@@ -302,13 +308,13 @@
 
 *   [ember-router-scroll (⭐203)](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
-## [26. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [27. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
 *   [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
 
-## [27. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [28. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
@@ -318,7 +324,7 @@
 
 *   [KeystoneJS (⭐7.1k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chat
 
@@ -332,19 +338,19 @@
 
 *   [swift-protobuf (⭐4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
-## [29. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [30. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2012
 
 *   [Brian Leroux: **WTFJS**](https://www.youtube.com/watch?v=et8xNAc2ic8) \[18:26]
 
-## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
 *   [Trestle (⭐1.8k)](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
 
-## [31. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [32. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Performance
 
@@ -358,13 +364,13 @@
 
 *   [Symfony best practices](https://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) \[2014]
 
-## [32. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [33. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### Blogs
 
 *   `blog` [Heroku Blog](https://blog.heroku.com) — the official Heroku blog.
 
-## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -374,7 +380,7 @@
 
 *   [Project MyHouse](https://maxoffsky.com/research-progress/project-myhouse-a-smart-dollhouse-with-gesture-recognition/) - Smart Doll House with Gesture Recognition, using Raspberry Pi 3 or Pi Zero and PSMove motion controller.
 
-## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Poland 🇵🇱 / Gliwice
 
@@ -388,7 +394,7 @@ Webpage: <http://ogniwo.org/>
 | ---- | ----- | --------------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [Paulińska 28, first floor, 31-065 Kraków](https://goo.gl/maps/Xhwzcabr9Wp) | Mon-Sun 16:00-22:00 |
 
-## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [36. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
@@ -398,14 +404,20 @@ Webpage: <http://ogniwo.org/>
 
 *   [git-blame-someone-else (⭐9.4k)](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 
-## [36. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [37. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
 *   [awless (⭐4.9k)](https://github.com/wallix/awless) - A powerful, innovative and small surface CLI to manage AWS.
 *   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+
+### Books and Resources
+
+*   [Pure Bash Bible (⭐32k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Caching
 
@@ -415,7 +427,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [bitmex (⭐8)](https://github.com/nobrick/bitmex) - BitMEX client library for Elixir.
 
-## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -462,7 +474,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id418073146)
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
@@ -484,7 +496,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [mpngin (⭐31)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
 
-## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [42. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -518,7 +530,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
 
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [43. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Webmail
 
@@ -528,7 +540,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [RIPS Technologies](https://blog.ripstech.com/tags/security/) - Write-ups for PHP vulnerabilities.
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -539,7 +551,7 @@ Webpage: <http://ogniwo.org/>
 
 *   [Masked Text (⭐261)](https://github.com/benhurott/flutter-masked-text) <!--stargazers:benhurott/flutter-masked-text--> - Masked text with custom and monetary formatting by [Ben-hur Santos Ott](https://github.com/benhurott)
 
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -564,7 +576,7 @@ Webpage: <http://ogniwo.org/>
 *   [vue-page-visibility-awesome (⭐11)](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
 *   [vue-authplugin (⭐6)](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
-## [44. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [46. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Security / Other
 

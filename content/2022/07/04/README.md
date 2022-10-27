@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04, 2022
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,11 +80,23 @@
 
 *   [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Star Rating
+
+*   [react-rating (⭐155)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
 *   [xiyaowong/link-visitor.nvim (⭐14)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
+
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-tencent-oss (⭐7)](https://github.com/taosiqi/vite-plugin-tencent-oss) - Upload the production files bundled in the project to Tencent OSS, except for HTML.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,13 +109,19 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Electron
+
+*   [electron-vue-template (⭐192)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Creating a Generic Tree View Blazor Component](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/creating-a-generic-tree-view-blazor-component/ba-p/3640237) - October 4, 2022 - This article shows off a Blazor component that can display an object recursively in a tree view. The component was made as part as a project, FHIR Watch, a tool for comparing FHIR data from two different data sources: FHIR API Service and Dataverse. As such, it is particularly useful for displaying FHIR data.
 
-## [14. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [15. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Web3XR / Realms
 

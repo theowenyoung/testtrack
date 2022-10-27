@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,13 +56,94 @@
 *   Africa
     *   South Africa - [packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/README.md/packagist.co.za)
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Browser Extensions
+
+*   [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
+
+### Torrenting
+
+*   [xbit](https://xbit.pw) Magnet link repository
+*   [torrents.csv](https://gitlab.com/dessalines/torrents.csv) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
+
+### Streaming Sites / HD Streaming
+
+*   [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
+*   [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
+*   [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
+*   [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
+*   [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
+*   [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+
+### Streaming Sites / Big Media Libraries
+
+*   [5Movies](http://5movies.to/) Large collection dating as far back as 1990
+*   [2TwoMovies](https://two-movies.net/) Large collection dating as far back as 1895
+*   [CafeHulu](http://cafehulu.com/) Collection of movies/TV shows + many foreign films
+*   [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of movies and TV shows
+*   [Afdah](http://afdah.to/) Large collection dating as far back as 1920
+*   [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
+
+### Streaming Sites / TV
+
+*   [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
+*   [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
+
+### Streaming Sites / Anime
+
+*   [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
+
+### Streaming Sites / Sports Streaming
+
+*   [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
+*   [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
+*   [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
+*   [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
+*   [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
+*   [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
+*   [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
+*   [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
+*   [720pStream](http://www.720pstream.me/) Popular sports only, simple design
+
+### Streaming Sites / Specialty Sites
+
+*   [Dramago](http://www.dramago.com/) Drama movies/series
+*   [Daxiv Video](https://daxiv.com/) Primarily Chinese content
+*   [KingsofHorror](https://www.YouTube.com/user/TheKingsofHorror/) YouTube Horror
+*   [MutantSorority](https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) YouTube horror
+*   [TromaMovies](https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) YouTube horror
+*   [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
+*   [Rulu](https://www.rulu.co/) YouTube Red series
+*   [MioMio](http://www.miomio.tv/) Asian TV shows/anime
+
+### Streaming Sites / Third Party Hosts
+
+*   [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
+*   [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
+*   [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
+
+### Comicbooks / Third Party Hosts
+
+*   [Kindle Comic Converter](https://kcc.iosphe.re/) Comic and manga converter for ebook readers
+
+### Mobile Apps / Third Party Hosts
+
+*   [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
+
+### APKs / Third Party Hosts
+
+*   [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
+*   [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
+*   [Yalp Store (⭐2.2k)](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
+
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Talks
 
 *   [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo\&t=387s) - Inspiring talk by Zach Lieberman.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 

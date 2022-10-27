@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,7 +57,17 @@
 
 *   [Information Retrieval: A Survey](http://www.csee.umbc.edu/cadip/readings/IR.report.120600.book.pdf) - Ed Greengrass, 2000. (Comprehensive survey of Conventional Information Retrieval, before Deep Learning era).
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Machine Learning for Cyber Security (⭐5.5k)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
+  Description: Curated list of tools and resources related to the use of machine learning for cyber security
+
+
+
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Monitoring / Logging
 
@@ -71,7 +81,7 @@
 
 *   [awesome-honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
-## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 

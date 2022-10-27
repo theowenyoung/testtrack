@@ -1,73 +1,79 @@
 # Awesome List Updates on Jan 07 - Jan 13, 2019
 
-38 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [rshijack (⭐368)](https://github.com/kpcyrd/rshijack) - TCP connection hijacker, Rust rewrite of `shijack`.
+
+## [2. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### System / Navigation Demos
 
 *   [react-native-sms-retriever (⭐234)](https://github.com/Bruno-Furtado/react-native-sms-retriever) - SMS Retriever API (Android).
 
-## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [3. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Base Shells
 
 *   [xonsh](https://xon.sh/) - Python-ish, BASHwards-looking shell language and command prompt.
 
-## [3. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [4. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [soql-parser-js (⭐64)](https://github.com/paustint/soql-parser-js) - JavaScript library for parsing SOQL queries, composing SOQL queries, and formatting SOQL queries.
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32l4xx-hal`](https://crates.io/crates/stm32l4xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l4xx-hal.svg)
     *   Generic hal support for stm32l4 devices, has examples that can run on boards like the [Nucleo-L432KC](https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-l432kc.html), [Solo](https://solokeys.com/), and similar boards
 
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [go-to-definition (⭐218)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 
-## [6. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [7. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Community Ressources (mostly german language)
 
 *   [Verdrahtet](https://www.verdrahtet.info/) - News, Blog, Youtube, Tutorials, ...
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Password Management
 
 *   [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [ZamzamKit (⭐261)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
-## [9. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [10. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Dwarf (⭐1.1k)](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 
-## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Oh My Fullstack (⭐169)](https://github.com/oh-my-c0de/oh-my-fullstack) - Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express)
 
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Design
 
@@ -77,37 +83,37 @@
 
 *   [Django Jobs](https://djangojobs.net/jobs/)
 
-## [12. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [13. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Language Utilities
 
 *   [Fuzzy-CSV (⭐13)](https://github.com/kayr/fuzzy-csv) - Simple lightweight data processing library, useful for shaping/processing your tabular data before its consumed by another service or library.
 
-## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
 *   [Generator Antd Pro (⭐33)](https://github.com/codetrial/generator-antd-pro) - An easy way to build your Ant Design Pro application.
 
-## [14. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [15. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tools / IRC
 
 *   [Composer PreferLowest Checker (⭐17)](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 
-## [15. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [16. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [Hunting For A Web Developer Job... With Crushing Anxiety And No Self-Esteem](https://medium.com/@jameslave/hunting-for-a-web-developer-job-with-crushing-anxiety-and-no-self-esteem-3aa64d67a0a4) - By James Lave.
 
-## [16. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [17. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
 *   [Coherence (⭐28)](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
 
-## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
@@ -117,7 +123,7 @@
 
 *   [智能汽车安全攻防大揭秘](https://www.amazon.cn/dp/B075QZXY7W)This book first introduced some basic knowledge of security for automotive R\&D personnel, such as encryption and decryption, security authentication, digital signatures, common attack types, and methods. Then it introduced the working principles of some smart cars for security researchers, such as the automotive intranet. Protocol, network architecture, principle of X-By-Wire remote control system, common potential attack surface, etc. Finally, a detailed analysis of some actual automotive attack or security test cases, and defense analysis of the loopholes involved in the case during the analysis process.
 
-## [18. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [19. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C#, ASP .NET and .NET Core / More
 
@@ -128,20 +134,20 @@
 *   [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
 *   [Ahmad Awais](https://twitter.com/MrAhmadAwais/) - 🙌 Creator of Shades of Purple theme. Core Developer for WP/JS. OSS Dev Advocate.
 
-## [19. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [20. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Special Capabilities for Speeding up Android Test Initialization](https://appiumpro.com/editions/50)
 
-## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [IDR (⭐693)](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor
     is a decompiler of Delphi executable files and dynamic libraries.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Examples
 
@@ -289,7 +295,7 @@
 *   [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
 *   [vue-async-operations (⭐32)](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 
-## [22. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [23. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Brazil 🇧🇷 / Rio de Janeiro
 
@@ -318,19 +324,39 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ![](http://www.speedtest.net/result/7911413495.png)
 
-## [23. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [24. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Extensions/Libraries
 
 *   [react-hooks-screen-type (⭐15)](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### IPTV and DVR / Third Party Hosts
+
+*   [telly (⭐655)](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
+*   [xTeVe](https://xteve.de/) :star2: M3U Proxy for Plex DVR
+*   [IPTV Community](https://iptv.community/) Technology and IPTV discussion website, useful for finding an IPTV provider/reseller
+
+### PreDB Sites / Third Party Hosts
+
+*   [Urban Dictionary: predb](https://www.urbandictionary.com/define.php?term=predb) Urban Dictionary definition
+*   [PreDB.org](https://predb.org/)
+*   [PreDB.me](https://predb.me/)
+*   [PREdb](https://predb.ovh/)
+
+### Miscellaneous / Third Party Hosts
+
+*   [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
+*   [castnow (⭐3.7k)](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
+
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Photo and Video Galleries
 
 *   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Source Code (⭐23k)](https://github.com/photoprism/photoprism)) `MIT` `Go`
 
-## [25. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [27. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -341,13 +367,13 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [Hooks (⭐2.5k)](https://github.com/rrousselGit/flutter_hooks) <!--stargazers:rrousselGit/flutter_hooks--> - Advanced code sharing between widgets by [Remi Rousselet](https://github.com/rrousselGit)
 *   [Functional widget (⭐518)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
-## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### WPF
 
 *   [WPF (⭐6k)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 
-## [27. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / External Docs
 
@@ -365,7 +391,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 
-## [28. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [30. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
@@ -377,13 +403,13 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
 
-## [29. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [31. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Functional
 
 *   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
-## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Books
 
@@ -398,7 +424,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
 
-## [31. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [33. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Message Queues
 
@@ -409,7 +435,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### 3D / Other / unknown licence
 
@@ -439,7 +465,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [areadline (⭐7)](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 
-## [33. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [35. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
@@ -472,7 +498,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code (⭐22)](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) and watch [the talks' recording](https://vimeo.com/305197775)).
 *   [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080) - Classify a new example from a list of other examples (without definitive categories) and with low-data per classification task, but lots of data for lots of similar classification tasks - it seems better than siamese networks. To sum up: with Matching Networks, you can optimize directly for a cosine similarity between examples (like a self-attention product would match) which is passed to the softmax directly. I guess that Matching Networks could probably be used as with negative-sampling softmax training in word2vec's CBOW or Skip-gram without having to do any context embedding lookups.
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -498,13 +524,13 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site
 
-## [35. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [37. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Offensive / Cross Site Request Forgery
 
 *   [XSRFProbe (⭐790)](https://github.com/0xInfection/XSRFProbe) - The Prime CSRF Audit & Exploitation Toolkit by [@0xInfection](https://github.com/0xinfection).
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -515,7 +541,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. \[zlib]
 *   [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. \[BSD]
 
-## [37. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [39. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
@@ -561,7 +587,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [mtcnn (⭐499)](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
 *   [deephorizon (⭐34)](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
-## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [40. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Objective-C
 

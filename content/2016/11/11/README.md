@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 11, 2016
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,19 +19,72 @@
 *   [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
 *   [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request.
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [3. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Styleguide and Branding
+
+*   [Marvel](https://marvelapp.com/styleguide/overview/introduction)
+
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [FlarepointCRM (⭐2.1k)](https://github.com/Bottelet/Flarepoint-crm)
+
+  Description: Self-hosted CRM platform built with Laravel 5
+
+  Link: 
+
+
+- Name: [Ribbbon (⭐652)](https://github.com/canvasowl/ribbbon)
+
+  Description: A project management system for Artisans
+
+  Link: 
+
+
+- Name: [SЁCU (⭐25)](https://github.com/secusu/secusu)
+
+  Description: SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms.
+
+  Link: <https://secu.su/>
+
+
+- Name: [Confomo (⭐74)](https://github.com/mattstauffer/confomo)
+
+  Description: A service that facilitates meeting Twitter friends at conferences
+
+  Link: 
+
+
+- Name: [File Manager (⭐1.9k)](https://github.com/UniSharp/laravel-filemanager)
+
+  Description: A File manager (for CKEditor and TinyMCE) with multi-users support.
+
+  Link: 
+
+
+- Name: [FlyMyShop (⭐58)](https://github.com/aasisvinayak/flymyshop)
+
+  Description: An e-commerce platform for online merchants.
+
+  Link: <https://flymyshop.com>
+
+
+
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Code Analysis
 
 *   [Better Reflection (⭐1.1k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 
-## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [FloatingView (⭐1.8k)](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation.
 
-## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Web Frameworks
 
@@ -76,13 +129,13 @@
 *   [Official asyncio documentation](https://docs.python.org/3/library/asyncio.html) - Asynchronous I/O, event loop, coroutines and tasks.
 *   [Short well-written intro to asyncio](http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html) - Generators, Coroutines, Native Coroutines and async/await.
 
-## [6. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
+## [8. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
 ### Push Notifications
 
 *   [web-push-libs](https://github.com/web-push-libs) - A collection of useful libraries for web push in different technologies (Node.js, PHP, Python, etc.)
 
-## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 

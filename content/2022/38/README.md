@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19 - Sep 25, 2022
 
-46 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,7 +55,14 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [InputSourcePro](https://inputsource.pro/) - A tool for multi-language users. Automatically switch input language for different applications.
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Components / Image Editing
+
+*   [react-advanced-cropper (⭐122)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
+*   [react-mobile-cropper (⭐4)](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
+
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -596,39 +603,45 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) :copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.
 *   [XCode](https://developer.apple.com/xcode) :copyright: — XCode provides a pretty decent UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C).
 
-## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Auto Archiver (⭐158)](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
 
-## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [11. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Libraries / Game development
 
 *   [vraylib (⭐1)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 
-## [11. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Privacy and Encryption Tools / Telegram
+
+*   [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
+
+## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Editors / Mobile Editors
 
 *   [GoMap!!](http://gomaposm.com) - Feature-rich mobile editor for iOS. ([iOS](https://apps.apple.com/app/id592990211) / [Source Code (⭐212)](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
 *   [Every Door](https://every-door.app) - Every Door is an Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ([Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) / [iOS](https://apps.apple.com/app/id1621945342) / [Source Code (⭐145)](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [14. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Security
 
 *   [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
-## [13. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [15. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Articles
 
 *   [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - Sequel to »Why we should stop using Grunt & Gulp«.
 *   [Running cross-platform tasks via npm package scripts](https://exploringjs.com/nodejs-shell-scripting/ch_package-scripts.html) - The most comprehensive guide to using npm Scripts by Dr. Axel Rauschmayer.
 
-## [14. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [16. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Nodes / Image processing
 
@@ -650,13 +663,39 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
     *   [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
     *   [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Database connectors
+
+*   [djongo (⭐1.6k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
+
+### Resources / Books
+
+*   [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Divio](https://www.divio.com/)
+*   [Fly](https://fly.io)
+*   [Google Cloud](https://cloud.google.com/python/django/)
+*   [Heroku](https://www.heroku.com/)
+*   [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
+*   [Platform.sh](https://platform.sh/)
+*   [PythonAnywhere](https://www.pythonanywhere.com)
+*   [Railway](https://railway.app/)
+*   [Vercel](https://vercel.com/home)
+
+### Projects / Boilerplate
+
+*   [django-startproject (⭐76)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
+
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Logging
 
 *   [log (⭐13)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
 
-## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Health and Social Science
 
@@ -672,7 +711,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
-## [17. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [20. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Editors / LaTeX
 
@@ -683,7 +722,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home): Shipped with standard LaTeX installations. A lot of themes has been invented. Start editing with one click on [Overleaf](https://www.overleaf.com/)
 
-## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
@@ -697,7 +736,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [haskell-flake (⭐34)](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
 
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### IT Asset Management / Tools and web interfaces
 
@@ -707,19 +746,19 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code (⭐1.9k)](https://github.com/allegro/ralph), [Demo (⭐1.9k)](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
 *   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐6.9k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
-## [20. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Testing / Redux / ELM / Dependency Injection
 
 *   [flutter\_convenient\_test (⭐302)](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 
-## [21. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [24. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [Zenduty](https://www.zenduty.com) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
 
-## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -732,14 +771,14 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
     *   [candrew/netsim (⭐111)](https://github.com/canndrew/netsim) — A Rust library for network simulation and testing [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
     *   [jesusprubio/online (⭐113)](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
 
-## [23. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [26. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 *   [Rough.js](https://roughjs.com/) - Rough.js is a graphics library that lets you draw in a sketchy, hand-drawn-like, style
 
-## [24. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [27. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Articles / Wasm
 
@@ -754,7 +793,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐0)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
 
-## [25. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Version Control Systems
 
@@ -764,25 +803,33 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card\_file\_box: archived)*
 *   [Pro Git](http://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
 
-## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [29. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Terminal / Extensions
 
 *   [freshenv (⭐133)](https://github.com/raiyanyahya/freshenv) - Provision, share, manage local and cloud developer environments.
 
-## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [30. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Learning Platforms:
+
+- Website: <https://learn.microsoft.com/en-gb/training/>
+
+
+
+## [31. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### WIP Compilers / Bare metal / kernel development
 
 *   [sdc (⭐202)](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
 
-## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [32. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Miscellaneous / Angular
 
 *   [No-Code Shots](https://nocodeshots.com). A curated weekly newsletter that will bring you news, updates, and tips on how to improve your No-code skills.
 
-## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
@@ -793,19 +840,19 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [C# / Blazor Wolfenstein - Part 7 - Solid Walls, Doors and C# Observations](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_7_sold_walls_doors_and_csharp_observations/) - September 20, 2022 - Part 7 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐39)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
 *   C# / Blazor Wolfenstein - Part 6 - The Basic Raycaster[](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_6_the_basic_raycaster/) - September 18, 2022 - Part 6 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐39)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
 
-## [30. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [34. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Tutorials
 
 *   [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
 
-## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [35. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Grid (⭐666)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Coding Standards
 
@@ -813,7 +860,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [Misra C++ 2008](https://www.cppdepend.com/misra-cpp)
 *   [Autosar C++ 2014](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/18-10/AUTOSAR_RS_CPP14Guidelines.pdf)
 
-## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [37. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
@@ -829,13 +876,13 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [Brainboard](https://www.brainboard.co) - Visually Design, Deploy & Manage modern cloud infrastructures starting from any Cloud Provider - AWS, GCP, Azure :heavy\_dollar\_sign:
 
-## [34. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [38. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Build systems
 
 *   [rules\_appimage (⭐1)](https://github.com/lalten/rules_appimage) - Bazel rules to package any lang\_binary target as AppImage.
 
-## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
@@ -934,7 +981,26 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [Raneto](https://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. ([Source Code (⭐2.5k)](https://github.com/ryanlelek/Raneto)) `MIT` `Nodejs`
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vue-vite-tw-ts (⭐4)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
+
+### Templates / React
+
+*   [vite-reactts18-eslint-tailwindcss (⭐2)](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-virtual-mpa (⭐13)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
+
+### Open Source / Community
+
+*   [IslandJS (⭐143)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+*   [Vituum (⭐67)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+
+## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### zinit
 
@@ -964,7 +1030,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [carriage-return (⭐0)](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz's [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) with an added carriage return.
 *   [mzpt (⭐2)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐32k)](https://github.com/romkatv/powerlevel10k).
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
@@ -988,7 +1054,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [echasnovski/mini.nvim#mini.align (⭐1k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
 
-## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -1003,14 +1069,14 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 *   [Pi4J/pi4j-kotlin (⭐8)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
 
-## [39. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [44. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### .NET
 
 *   [Legerity (⭐33)](https://github.com/MADE-Apps/legerity) *(label: good first issue)* <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 *   [Legerity for Uno Platform (⭐14)](https://github.com/MADE-Apps/legerity-uno) *(label: good first issue)* <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [45. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -1089,7 +1155,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [Elixir Outlaws](https://elixiroutlaws.com)
 *   [Elixir Talk](https://soundcloud.com/elixirtalk)
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1109,13 +1175,54 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [Napkin](https://www.napkin.io/) - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.
 *   [Porter](https://getporter.dev/) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.
 
-## [42. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [47. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Bookmarking
+
+*   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
+*   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
+*   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
+*   [Shiori (⭐6.6k)](https://github.com/go-shiori/shiori)
+*   [LinkAce (⭐1.6k)](https://github.com/Kovah/LinkAce)
+*   [LinkDing (⭐2.4k)](https://github.com/sissbruecker/linkding)
+
+### Cloud Storage
+
+*   **Google Drive** - Google owned, so privacy policy is [very bad](https://tosdr.org/en/service/217). The data is stored in their remote servers where you lose control of it. They use trackers. No encryption available.
+*   **DropBox** - [Bad privacy policy](https://tosdr.org/en/service/270). The app has [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.dropbox.android/latest/) and requires many permissions.
+*   **OneDrive** - Microsoft owned, privacy policy is [very bad](https://tosdr.org/en/service/244). The data is stored in their remote servers where you lose control of it. They use trackers. No encryption available.
+*   [Peergos](https://peergos.org/) - Secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Open source and self-hostable.
+
+### File Management and Sharing
+
+*   **WeTransfer** - [Bad privacy policy](https://tosdr.org/en/service/214). Files are not e2e encrypted. Website has many analytics and trackers.
+*   **SendAnywhere** - No e2e encryption. Website has loads of analytics and trackers from Facebook, Google, Cloudflare...
+
+### Pastebin and Secret Sharing
+
+*   [Yopass (⭐981)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
+*   [PrivateBin (⭐4.4k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+### Sonic the Hedgehog
+
+*   [Sonic Robo Blast 2](https://www.srb2.org/) - Sonic Robo Blast 2 is a 3D open-source Sonic the Hedgehog fangame built using a modified version of the Doom Legacy port of Doom.
+
+### Third-Party owned
+
+*   [Mailfence](https://mailfence.com) - Secure and private email.
+*   [Skiff](https://skiff.com) - Privacy-first, end-to-end encrypted, open-source email.
+
+### Translation and Speech-to-Text
+
+*   [OpenAI Whisper (⭐13k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
+
+## [48. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [PyMongoExplain (⭐3)](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
 
-## [43. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [49. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Cars
 
@@ -1123,7 +1230,7 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
     <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
 
-## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -1134,13 +1241,13 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 *   [apispec (⭐26)](https://github.com/cxxxr/apispec) -  A Common Lisp library for handling Web API requests and responses. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   takes an OpenAPI3 yaml specification and allows to validate and parse HTTP request headers, parameters and bodies.
 
-## [45. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [51. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Tutorials and courses / Devops
 
 *   [Free Scala Courses](https://skillcombo.com/topic/scala/free/) - A curated list of free Scala courses.
 
-## [46. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Scientific Discovery
 

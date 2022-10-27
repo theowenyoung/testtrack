@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,25 @@
 
 *   [iTextField ⌨️ (⭐87)](https://github.com/benjaminsage/iTextField) - A fully-wrapped `UITextField` that works entirely in SwiftUI 🦅.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Framework bindings / integrations / Mouse Events
+
+*   [react-lottie-player (⭐344)](https://github.com/mifi/react-lottie-player) - [demo](https://mifi.github.io/react-lottie-player/) - Declarative lottie animation player.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Other Free Resources
 
 *   [simplebackups.io](https://simplebackups.io/) — Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, Backblaze...). Provides free plan for 1 backup.
 
-## [3. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [4. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Software that Uses Qt / New Functionality
 
 *   [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Non-linear video editing freeware with commercial plan used to create some Hollywood movies.
 
-## [4. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Libraries
 
@@ -34,7 +40,7 @@
 
 *   [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Websites / Blogs
 
@@ -44,19 +50,19 @@
 
 *   [Provider (⭐4.5k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Version Control
 
 *   [jupyter-nbrequirements (⭐14)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-datagrid (⭐152)](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 
-## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Generators / Meetups
 

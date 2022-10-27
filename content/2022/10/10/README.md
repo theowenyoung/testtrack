@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2022
 
-18 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,13 +102,19 @@
 
 *   [kubeval](https://kubeval.instrumenta.dev) — Validates your Kubernetes configuration files and supports multiple Kubernetes versions.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Books and Resources
+
+*   [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  - Reasonable advice about code style
+
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Metascience / Literature Mining
 
 *   [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454\&hl=en\&as_sdt=0,5)].
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -118,7 +124,7 @@
 
 *   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.4k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
 
-## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [14. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
@@ -147,7 +153,7 @@
 *   [File picker (⭐33)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 *   [Photo editor (⭐6)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
-## [14. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [15. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 
@@ -157,7 +163,7 @@
 
 *   [Docker Volume Backup (⭐542)](https://github.com/offen/docker-volume-backup) Backup Docker volumes locally or to any S3 compatible storage. By [@offen](https://github.com/offen)
 
-## [15. Awesome Go](/content/avelino/awesome-go/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
@@ -167,7 +173,19 @@
 
 *   [retry-go (⭐1.1k)](https://github.com/avast/retry-go) - Simple library for retry mechanism.
 
-## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-cp (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-external (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Provides a way of excluding dependencies from the runtime code and output bundles.
+*   [vite-plugin-mock-data (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
+*   [vite-plugin-reverse-proxy (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
+
+## [18. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### What is Magento?
 
@@ -367,13 +385,19 @@
 *   [Awesome Magento (⭐83)](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content
     by [sunel](https://github.com/sunel).
 
-## [17. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [19. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
+
+### Lightning / Tools
+
+*   [storage4sats (⭐1)](https://github.com/rottingcleaner/storage4sats) - Upload a file, pay with sats. No account, no ads.
+
+## [20. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mods / Technology
 
 *   [ComputerCraft](https://computercraft.cc) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 
-## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Graphical User Interfaces
 
@@ -382,6 +406,16 @@
 ### Parallel Programming
 
 *   [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
+
+## [22. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Teamworking Tools
+
+*   [See this section for Discord mods and alternative clients (⭐7.1k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
+
+### Translation and Speech-to-Text
+
+*   [Mozilla Translate](https://mozilla.github.io/translate/) - Open Source, runs model locally in your browser.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02 - Apr 08, 2018
 
-46 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -484,7 +484,13 @@
 *   [Ember Watch](https://twitter.com/EmberWatch)
 *   [Erik Bryn](https://twitter.com/ebryn)
 
-## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### DNS / Telegram
+
+*   [Amass (⭐1.7k)](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
+
+## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / Embedded World Conference 2018
 
@@ -494,25 +500,31 @@
 
 *   [Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.](https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20)
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Blogs • Websites / Other
 
 *   [CreativeApplications.Net \[CAN\]](http://creativeapplications.net/) - Famous digital art blog.
 
-## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Forensics
 
 *   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
-## [38. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [39. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
 *   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐122)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
-## [39. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [TypeGQL (⭐419)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+
+## [41. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -522,13 +534,13 @@
 
 *   [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 
-## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
 *   [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -540,19 +552,19 @@
 | ---- | ----- | ---------------------------------------------------------------------- | -------------- |
 | ✔    | ✔     | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am |
 
-## [42. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [44. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Goals
 
 *   [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
-## [43. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [45. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Esoteric languages
 
 *   [OnlyToday (⭐6)](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 
-## [44. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [46. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### JavaScript
 
@@ -571,7 +583,7 @@
 
 *   [Learn FFmpeg libav the Hard Way (⭐8.2k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 
-## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -581,7 +593,7 @@
 
 *   [GeneticSharp (⭐1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 
-## [46. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [48. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 

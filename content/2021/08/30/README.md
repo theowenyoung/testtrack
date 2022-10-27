@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 30, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,25 +18,31 @@
 
 *   [Static Hands (⭐31)](https://github.com/almogtavor/static-hands) - Super useful shortcuts with the CapsLock key that spare the need to move hands while typing. Super simple. No learning curve.
 
-## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Elm / Integrations
+
+*   [vite-plugin-elm (⭐103)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+
+## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Research Papers
 
 *   [The Connected Car - Ways to get unauthorized access and potential implications, 2018](https://www.computest.nl/documents/9/The_Connected_Car._Research_Rapport_Computest_april_2018.pdf)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Data Visualization on Maps
 
 *   [geoapify.com](https://www.geoapify.com/) - Vector and raster map tiles, geocoding, places, routing, isolines APIs. 3000 free requests / day.
 
-## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### General
 
 *   The [Internet of People](https://developer.iop.technology/) community is developing the IoP Stack™ for gatekeeper-free decentralized identity (DID), verifiable claims and a P2P communication and storage network independent of a single underlay network.
 
-## [6. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [7. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Bindings
 

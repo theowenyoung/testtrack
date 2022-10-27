@@ -1,30 +1,37 @@
 # Awesome List Updates on Nov 13, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [1. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Using WSL / Programming on WSL
+
+*   [Epic Development Environment Using Windows Subsystem for Linux](https://medium.com/@johnwoodruff91/epic-dev-environment-with-wsl-dc81e234ae61) - One developer's approach to their development environment using WSL1.
+*   [Far More Epic Development Environment using WSL2](https://dev.to/johnbwoodruff/far-more-epic-development-environment-using-wsl-2-439g)
+
+## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [Santa (⭐3.9k)](https://github.com/google/santa) - Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.
 
-## [2. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐12)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Enterprise Application Integrations
 
 *   [Zato](https://zato.io) - ESB, SOA, REST, APIs and Cloud Integrations in Python.
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
@@ -32,25 +39,25 @@
 *   💙 [Forms (⭐2.7k)](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 *   🛑🧩💙 [Custom Forms (⭐1.6k)](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Pagination / Barcode
 
 *   [iPages (⭐166)](https://github.com/benjaminsage/iPages) - Quickly implement swipable page views in SwiftUI 📝.
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Hiring Process
 
 *   [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
 
-## [7. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [8. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Metrics Monitor / Meetups
 
 *   [Bytes Matter Real User Monitoring](https://www.bytesmatter.io) - Full featured Real User Monitoring solution. Free tier for smaller sites. Includes monitoring for Google's Core Web Vitals.
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Debugging and Tracing
 
@@ -61,25 +68,25 @@
 
 *   [fields-ignition (⭐45)](https://github.com/azazdeaz/fields-ignition) - Generate random crop fields for Ignition Gazebo.
 
-## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Papers and Articles
 
 *   [2020: Evaluating the state-of-the-art of End-to-End Natural Language Generation: The E2E NLG challenge](https://www.sciencedirect.com/science/article/pii/S0885230819300919)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [object-visualizer (⭐208)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Games
 
 *   [SwiftFortuneWheel (⭐249)](https://github.com/sh-khashimov/SwiftFortuneWheel) - A cross-platform framework for games like a Wheel of Fortune.
 
-## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Large Source Code Examples
 
@@ -95,7 +102,7 @@
 *   [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
 *   [xen-api (⭐325)](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 

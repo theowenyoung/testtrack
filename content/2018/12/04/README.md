@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04, 2018
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -193,7 +193,31 @@
 *   [Python interview questions. Part II. Middle](https://luminousmen.com/post/7)
 *   [Python interview questions. Part III. Senior](https://luminousmen.com/post/8)
 
-## [9. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [is-wsl for Node (⭐168)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Tools / Free Indexers
+
+*   [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
+
+### DDL Link Sites / Free Indexers
+
+*   [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
+
+### Streaming Sites / Third Party Hosts
+
+*   [Qwemovies](https://www3.qwemovies.com/) OpenLoad
+
+### Miscellaneous / Third Party Hosts
+
+*   [serials](http://www.serials.ws/) Serial keys for software that may or may not work.
+
+## [11. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tools
 

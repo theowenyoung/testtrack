@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,19 +49,28 @@
 
 *   [vue-scroll-progressbar (⭐85)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
 
-## [5. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [Belati (⭐474)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
+*   [Pown Recon (⭐411)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
+
+## [6. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Dependency Injection
 
 *   [package: inject (⭐862)](https://github.com/google/inject.dart) - Compile-time dependency injection for Dart and Flutter
 
-## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Samsung Tizen / Official resources
 
 *   [Wits (⭐86)](https://github.com/Samsung/Wits) - A tool for reloading tv app's JavaScript/CSS without reinstalling the app every time you make a change.
 
-## [7. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Tools / General-purpose
 
@@ -90,13 +99,13 @@
 
 *   [certfuzz (⭐251)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
 
-## [8. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [9. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Alertmanager / Miscellaneous
 
 *   [Awesome Prometheus Alerting Rules (⭐4.3k)](https://github.com/samber/awesome-prometheus-alerts) - Awesome List of Prometheus alerting rules.
 
-## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Network
 
@@ -107,7 +116,7 @@
 *   [Showcase View (⭐18)](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - *Xamarin.Android* Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 *   [Animated Circle Loading View (⭐7)](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 

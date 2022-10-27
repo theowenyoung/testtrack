@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 06, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,14 @@
 
 *   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐57)](https://github.com/melisgl/mgl-mat) and [LLA (⭐87)](https://github.com/tpapp/lla).
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Similar Sites Search
+
+*   [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
+*   [SitesLike](http://www.siteslike.com) - Find similar websites by category
+
+## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Array
 
@@ -40,13 +47,13 @@
 
 *   [time-stamp (⭐110)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
 
-## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Ruby
 
 *   [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 

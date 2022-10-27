@@ -1,18 +1,24 @@
 # Awesome List Updates on Oct 08, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [CantHide](https://canthide.me) - CantHide finds previous locations by looking at a given social media account.
+
+## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Learning / General courses
 
 *   [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA\&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - A video course by Tim Roughgarden a Professor of Computer Science at Columbia University highlighting the fundamental principles, concepts and properties of Blockchain protocols.
 
-## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Books
 
@@ -22,7 +28,7 @@
 
 *   [Threat.Zone](https://app.threat.zone) - Cloud based threat analysis platform which include sandbox, CDR and interactive analysis for researchers.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -32,7 +38,7 @@
 
 *   [h0tk3y/kotlin-monads (⭐111)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
@@ -42,7 +48,7 @@
 
 *   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models made for game development.
 
-## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 

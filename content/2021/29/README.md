@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19 - Jul 25, 2021
 
-42 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -438,13 +438,21 @@
 
 *   **Craft + Craft Commerce Demos** - [craftcms.com/demo](https://craftcms.com/demo)
 
-## [12. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / YouTube
+
+*   [youtube-local (⭐264)](https://github.com/user234683/youtube-local): Browser-based client for watching Youtube anonymously and with greater page performance
+*   [yt-local](https://git.sr.ht/\~heckyel/yt-local): Browser-based client for watching Youtube anonymously without forcing javascript (Fork of [youtube-local (⭐264)](https://github.com/user234683/youtube-local))
+*   [SkyTube (⭐1.7k)](https://github.com/SkyTubeTeam/SkyTube): An open-source YouTube app for Android
+
+## [13. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) Alberto Sartori, Mauro Podda, Emanuele Botteri, Roberto Passera, Ferdinando Agresta, Alberto Arezzo. (2021)
 
-## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -458,7 +466,7 @@
 
 *   [PlantBoy (⭐0)](https://github.com/gb-archive/plantboy)
 
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [15. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
@@ -487,25 +495,25 @@
 *   [cl-cookieproject (⭐41)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
 
-## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [16. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Map / Image Picker
 
 *   [Map (⭐93)](https://github.com/xclud/flutter_map) <!--stargazers:xclud/flutter_map--> - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by [Mahdi K. Fard](https://github.com/xclud/)
 
-## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Mindfulness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Breathing (⭐46)](https://github.com/SeaDve/Breathing): Exercise your breathing.
 
-## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Coding Over Cocktails](https://www.torocloud.com/podcast) - A podcast produced by Toro Cloud tackling issues faced by enterprises as they manage the process of digital transformation, application integration, low-code application development, data management, and business process automation.
 
-## [18. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [19. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
@@ -531,25 +539,25 @@
 
 *   [Ladder](https://ladder.to/)
 
-## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-ucloud (⭐62)](https://github.com/ucloud/terraform-provider-ucloud) - Provider to manage UCloud resources.
 
-## [20. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [21. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Installation and Setup / Testing Tools
 
 *   [Lintier (⭐9)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
 
-## [21. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [22. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
 *   [tmux-nova (⭐60)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Forms
 
@@ -559,7 +567,7 @@
 
 *   [Deploy Now](https://deploynow.space) — Deploy smarter. Deploy faster. Deploy Now. - Deploy up to 3 web projects from your GitHub repository for free.
 
-## [23. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [24. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Code generators / Individual Podcast episodes
 
@@ -648,7 +656,7 @@
 
 *   [elm-light-table (⭐134)](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
-## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
@@ -658,19 +666,19 @@
 
 *   [MunifTanjim/nui.nvim (⭐610)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [VEML7700](https://crates.io/crates/veml7700) - I2C - Ambient light sensors - ![crates.io](https://img.shields.io/crates/v/veml7700.svg)
 
-## [26. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [27. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [gowarcserver (⭐6)](https://github.com/nlnwa/gowarcserver) - [BadgerDB (⭐11k)](https://github.com/dgraph-io/badger)-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 
-## [27. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [28. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
@@ -684,7 +692,13 @@
 
 *   [nbQA (⭐610)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Components / Color Picker
+
+*   [react-color (⭐52)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -694,7 +708,22 @@
 
 *   [vue-path-store (⭐2)](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
 
-## [29. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vitesse-lite (⭐665)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐1.6k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+
+### Templates / React
+
+*   [Tropical (⭐101)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@nabla/vite-plugin-eslint (⭐58)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
+
+## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Urban Observation
 
@@ -715,7 +744,7 @@
 
 *   [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications.
 
-## [30. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [33. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Tutorials / Other Tools
 
@@ -726,33 +755,33 @@
 *   [DogeAPI (⭐106)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 *   [JeffQL (⭐25)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 
-## [31. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
 *   [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option.
 
-## [32. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [35. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### Libraries / C++
 
 *   [msf\_gif (⭐175)](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs
 
-## [33. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [36. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [JAXopt (⭐582)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 *   [PIX (⭐285)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
-## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Godot Recipes](http://godotrecipes.com/) - A large collection of tutorials and techniques, both big and small.
 *   [Godot SQLite (⭐402)](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
 
-## [35. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -1024,13 +1053,13 @@
 
 
 
-## [36. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [39. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / AWS policy tools
 
 *   [ConsoleMe (⭐2.9k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -1041,7 +1070,7 @@
 *   [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
 *   [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
 
-## [38. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
@@ -1073,19 +1102,46 @@
 *   [bUnit, TDD, and Sci-fi with Egil Hansen](http://codingafterwork.com/2021/07/18/episode-59-bunit-tdd-and-sci-fi-with-egil-hansen/) - July 18, 2021 - In this episode, Jimmy and Jessica talk to Egil Hansen about bUnit, test-driven development, and Sci-fi. Duration: 72 minutes.
 *   [Blazor with Chris Sainty](https://unhandledexceptionpodcast.com/posts/0019-blazor/) - July 13, 2021 - In this episode, I was thrilled to be joined by Chris Sainty to chat all about Blazor! Blazor is a new .NET technology allowing you to build SPA-like frontend web UIs in C#! Very focused on developer productivity and componentisation - Blazor is certainly going to become my go-to for frontends moving forward! And chatting with Chris in this episode, has shown me even more reasons why Blazor is becoming so immensely popular.
 
-## [39. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [42. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Supported Distributions / Pengwin Enterprise
+
+*   [Pengwin Enterprise Homepage](https://www.whitewaterfoundry.com/pengwin-enterprise)
+
+### WSL Tools / X Servers
+
+*   [Xming open-source version](https://sourceforge.net/projects/xming/) - An older X server for Windows. Has not been updated since 2016.
+*   [Xming commercial version](http://www.straightrunning.com/XmingNotes/) - The current version of Xming, that is updated monthly. Donate at least £10 to have access to it. 💰
+
+### WSL Tools / For Managing WSL Installations
+
+*   [Ansible-WSL (⭐53)](https://github.com/Wintus/Ansible-WSL) - Provision WSL using Ansible. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
+
+### Books / Miscellaneous Tools
+
+*   [Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration](https://www.amazon.com/Hayden-Barnes-ebook/dp/B096TRZMW1)
+*   [Windows Subsystem for Linux: Tactics, Mindset and Tips](https://www.amazon.com/Windows-Subsystem-Linux-Tactics-Mindset/dp/1977718094)
+
+## [43. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Email Permutator](https://www.polished.app/email-permutator/)
+
+## [44. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
 
-## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Official Guides
 
 *   [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.
 
-## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -1107,7 +1163,7 @@
 
 *   [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alin23/Lunar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 

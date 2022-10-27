@@ -1,42 +1,84 @@
 # Awesome List Updates on Sep 20 - Sep 26, 2021
 
-33 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Other OS:
+
+*   [ReactOS](https://reactos.org/) - ReactOS is an operating system able to run Windows software, Windows drivers that looks-like Windows and is free and open source.
+
+## [2. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
 *   [scicloj.ml (⭐127)](https://github.com/scicloj/scicloj.ml)
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Image
 
 *   [ImageScript (⭐456)](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
-## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [Pi-Apps (⭐1k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Exfiltration Tools / Zealandia
+
+*   [QueenSono (⭐105)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
+
+## [6. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Editors
+
+*   [django-business-logic (⭐160)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
+*   [django-quill-editor (⭐136)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
+*   [django-tinymce (⭐1.1k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
+
+### Third-Party Packages / Forms
+
+*   [django-shapeshifter (⭐167)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+
+### Third-Party Packages / Search
+
+*   [django-admin-search (⭐55)](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+
+### Resources / Community
+
+*   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
+
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
 *   [xtd (⭐390)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Podcasts / Others
 
 *   [Daniel Roth on Web Development with .NET 6](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-web-development-with-net-6-episode-158) - September 13, 2021 - Azure DevOps Podcast, episode 158: Daniel Roth on Web Development with .NET 6. Daniel was last on the podcast over two years ago in episode 47 to discuss Blazor DevOps. In this episode, he and Jeffrey discuss web development with .NET 6.0. He shares the high points of what’s coming next for .NET 6.0, the major differences between .NET 5.0 and 6.0, what to look forward to with regards to Blazor, and his insights on WASM tooling, minimal APIs and hosting, and hot reload within .NET 6.0. Duration: 45 minutes.
 
-## [6. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [naive-ui-dashboard-template (⭐33)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-comlink (⭐71)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.1k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+
+## [10. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 
@@ -48,13 +90,13 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Peek.png)](https://bigzlabs.com/peek)
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
 *   [env0](https://env0.com) - Alternative to Terraform Cloud/Enterprise with OPA integration, custom flows and Terragrunt support :heavy\_dollar\_sign:
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### To third parties
 
@@ -65,7 +107,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 *   [archive (⭐29)](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause). A pure Common Lisp replacement for the `tar` program.
     *   see its recent fork [cl-tar](https://common-lisp.net/project/cl-tar/) (2021). [Announce](https://www.timmons.dev/posts/new-project-cl-tar.html).
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [13. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
@@ -75,38 +117,38 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - Graduate program in London which develops your arts practice through the expressive world of creative computation
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
 *   [LLVIP (⭐371)](https://github.com/bupt-ai-cz/LLVIP) - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
 *   [MSDA (⭐186)](https://github.com/bupt-ai-cz/Meta-SelfLearning) - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project\_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 
-## [11. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [15. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Software Engineering
 
 *   [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - Pitfalls to be mindful of when creating and documenting APIs.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [16. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [SRE Best Practices by InfraCloud](https://www.infracloud.io/blogs/sre-best-practices/)
 
-## [13. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [17. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Writings
 
 *   [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) - Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
 *   [DVClive (⭐73)](https://github.com/iterative/dvclive) - Python library for experiment metrics logging into simply formatted local files.
 
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -116,32 +158,38 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   🚀 [Next JS Boilerplate (⭐2.6k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 
-## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [20. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   [Integration (⭐99)](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 
-## [17. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [21. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / Policy models
 
 *   [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity.
 *   [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - How a simple authorization model based on roles is not enough and gets complicated fast due to product packaging, data locality, enterprise organizations and compliance.
 
-## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Component Collections / Material Design
+
+*   [refine (⭐4.1k)](https://github.com/pankod/refine) - [demo](https://example.refine.dev) - [docs](https://refine.dev/docs) - Build data-intensive applications in no time. It ships with Ant Design System, an enterprise-level UI toolkit.
+
+## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
 *   [LiveCharts2 (⭐2.2k)](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps, and gauges for .Net. LiveCharts2 supports WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
 
-## [19. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [24. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Data Analysis
 
 *   [Full-Text Search Engine (⭐2)](https://github.com/niklr/golem-fulltext-search) - A search engine service that goes through text files.
 
-## [20. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [25. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Citizen Automation and Development Platform
 
@@ -162,14 +210,14 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [Workato API Management](https://docs.workato.com/api-management.html) - Turn callable recipes into endpoints and organize the endpoints into API collections, making it easier for users to find and consume the endpoints through other recipes or third-party apps, without requiring access to your Workato account.
 
-## [21. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [26. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
 *   [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap by Simon Wardley. Oct 22, 2020.
 
-## [22. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Development and Design
 
@@ -195,7 +243,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [Blur-my-shell (⭐786)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 
-## [23. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -239,7 +287,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 
 
-## [24. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [29. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Analytics
 
@@ -257,7 +305,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
-## [25. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [30. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### General resources
 
@@ -463,37 +511,37 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
 
-## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Mobile / Angular
 
 *   [Flutter Croissants](https://flutter-croissants.com/). Receive every Monday all the news about Flutter and the world of mobility.
 
-## [27. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [32. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Programming
 
 *   [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 
-## [28. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [33. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Commercial courses / Devops
 
 *   [Foundations of Functional Programming in Scala](https://www.fp-tower.com/courses/foundations) - a professional video course with exercises covering covers functional principles, custom IO (effects) and functional design.
 
-## [29. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [34. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / German
 
 *   [ansible-ssm (⭐3)](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [BetterTouchTool](https://folivora.ai/) - Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -507,7 +555,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 *   [electron-vue3-flask (⭐18)](https://github.com/megasanjay/electron-vue3-flask) - An Electron & Vue.js application starter template that uses a python backend via Flask for desktop application building.
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
@@ -530,7 +578,7 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 *   `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
 *   `ECL-2.0` - [Educational Community License, Version 2.0](https://opensource.org/licenses/ECL-2.0)
 
-## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 

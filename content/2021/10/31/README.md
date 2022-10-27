@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,13 +66,19 @@
 *   [Ditox.js (⭐58)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
 *   [RxEffects (⭐27)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Infinite Scroll
+
+*   [af-virtual-scroll (⭐53)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
+
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
 *   [TaskoMask (⭐448)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

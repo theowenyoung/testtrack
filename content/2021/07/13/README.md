@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2021
 
-9 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,11 +67,39 @@
 
 *   [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### FIAT
+
+*   [Debitum (⭐55)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
+
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Get Started
+
+*   [create-vite (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+
+### Libraries / Community
+
+*   [vite-plugin-ssr](https://vite-plugin-ssr.com) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
+
+## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### SwiftUI
+
+*   [*SwiftUI Views Quick Start (FREE)* by Mark Moeykens](https://www.bigmountainstudio.com/free-swiftui-book)
+*   [*SwiftUI Views Mastery* by Mark Moeykens](https://www.bigmountainstudio.com/swiftui-views-book)
+*   [*Working with Data in SwiftUI* by Mark Moeykens](https://www.bigmountainstudio.com/data)
+
+### Combine
+
+*   [*Combine Mastery in SwiftUI* By Mark Moeykens](https://www.bigmountainstudio.com/combine)
 
 ---
 

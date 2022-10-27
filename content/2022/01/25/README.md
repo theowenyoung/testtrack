@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -138,7 +138,13 @@
 
 *   [C# Corner .NET Conference Day 1](https://www.youtube.com/watch?v=LpoYTZSMeG0) - ![duration](https://img.shields.io/badge/Duration:%20-390%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 24, 2022 - The first day of the conference kicks off with a keynote session by Scott Hunter. Day one is focused on front-end technologies (Blazor). [Conference website](https://dotnetconference.com).
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-dev-manifest (⭐6)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

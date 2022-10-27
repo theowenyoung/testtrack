@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,6 +77,12 @@
     the IAT of an unpacked / dumped PE32 malware.
 *   [ScyllaHide (⭐2.6k)](https://github.com/x64dbg/ScyllaHide) - An Anti-Anti-Debug library
     and plugin for OllyDbg, x64dbg, IDA Pro, and TitanEngine.
+
+## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / X Servers
+
+*   [GWSL](https://www.microsoft.com/store/apps/9NL6KD1H33V3) - An X server for Windows 10 with an app launcher, distro manager, shortcut creator, and ssh launcher.
 
 ---
 

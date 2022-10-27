@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,25 +12,31 @@
 
 *   [cdktg (⭐9)](https://github.com/hupe1980/cdk-threagile) - Agile Threat Modeling as Code.
 
-## [2. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Elm
+
+*   [vite-elm-spa (⭐4)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
+
+## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Community Resources
 
 *   [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Vexip UI (⭐360)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Community / Projects
 
 *   [AlgoTables (⭐3)](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -40,7 +46,7 @@
 
 *   [elmah.io](https://elmah.io/) — Error logging and uptime monitoring for web developers. Free Small Business subscription for open source projects.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Podcasts
 
@@ -50,13 +56,13 @@
 *   [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 *   [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Builder
 
 *   [dry-cli (⭐258)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Games
 
@@ -70,19 +76,19 @@
 
 *   [czg (⭐337)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
-## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Python
 
 *   [ODMantic (⭐701)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [lmburns/kimbox (⭐22)](https://github.com/lmburns/kimbox) - A colorscheme with a dark background, and vibrant foreground that is centered around the color brown. A modification of [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus).
 
-## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 

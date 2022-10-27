@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04 - Sep 10, 2017
 
-32 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -146,7 +146,19 @@
 
 *   [Holographic Embeddings for Graph Completion and Link Prediction (⭐0)](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
 
-## [18. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [18. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### ReactJS
+
+- Name: [Picatic - Ticketing Selling (⭐43)](https://github.com/picatic/picatic-examples/tree/master/react-checkout)
+
+  Description: Ticketing widget built with create-react-app
+
+  Link: <http://developer.picatic.com/>
+
+
+
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -164,20 +176,20 @@
 
 *   [DarkSkyCore (⭐55)](https://github.com/amweiss/dark-sky-core) - A .NET Standard wrapper for the [Dark Sky API](https://darksky.net/dev/docs).
 
-## [19. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References / Firefox Specific Tools/Debugger
 
 *   [WebVR Spec](https://w3c.github.io/webvr/) - The official W3C WebVR spec (legacy).
     *   [How to read WebVR Specs](https://dassur.ma/things/reading-specs/)
 
-## [20. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [21. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Productivity
 
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 
-## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Database
 
@@ -187,7 +199,7 @@
 
 *   [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
 
-## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Route 53
 
@@ -197,7 +209,7 @@
 
 *   [microapps/MoonMail :fire::fire::fire::fire: (⭐1.9k)](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Code Quality
 
@@ -207,13 +219,13 @@
 
 *   [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
 *   [Argh! (⭐1k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -223,13 +235,13 @@
 
 *   [CodeHub (⭐23k)](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
 
-## [26. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [27. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
 *   [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 
-## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -247,7 +259,7 @@
 
 *   [vue-scrollmonitor (⭐43)](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat [vue@2.2.x](https://github.com/vuejs/awesome-vue/blob/master/README.md/mailto:vue@2.2.x))
 
-## [28. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [29. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Icons
 
@@ -257,13 +269,13 @@
 
 *   [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
 *   [Laravel Zero - Console application (⭐3.1k)](https://github.com/laravel-zero/laravel-zero)
 
-## [30. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [31. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
@@ -273,7 +285,7 @@
 
 *   [Vert.x GraphQL Utils (⭐22)](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
 
-## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [32. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Lithuania 🇱🇹 / Vilnius
 
@@ -325,7 +337,7 @@ Webpage: <https://www.facebook.com/cafelinne/>
 | ---- | ----- | ------------------------------------------ | ---------- |
 | ✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden | 8–22       |
 
-## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 

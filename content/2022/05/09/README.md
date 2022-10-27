@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09, 2022
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,19 +37,26 @@
 *   [HASSH (⭐465)](https://github.com/salesforce/hassh) - Network fingerprinting standard which can be used to identify specific client and server SSH implementations.
 *   [JA3](https://ja3er.com/) - Extracts SSL/TLS handshake settings for fingerprinting and communicating about a given TLS implementation.
 
-## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+
+### Open Source Games
+
+*   ### Java
+    *   🔒 [Pixel Dungeon (⭐3.2k)](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+
+## [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions
 
 *   [Tags M2M (⭐20)](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M driven tags interface.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-dnd (⭐109)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -59,43 +66,49 @@
 
 *   [shtab (⭐207)](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Health / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Energize](https://codeberg.org/epinez/Energize) - Android app for tracking your food and nutrition easily and fast.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
 *   [genfuncs (⭐33)](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Text search
 
 *   [tantivy (⭐7.1k)](https://github.com/quickwit-oss/tantivy) \[[tantivy](https://crates.io/crates/tantivy)] — A horse-speed full-text search engine library written in Rust. [![Build Status](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml/badge.svg)](https://github.com/quickwit-oss/tantivy/actions/workflows/test.yml)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Session / Diagnostics
 
 *   [jedrzejboczar/possession.nvim (⭐146)](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
 
-## [11. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Google Fonts Replacements
+
+*   [coolLabs Fonts](https://fonts.coollabs.io/) - A privacy-friendly drop-in replacement for Google Fonts.
+
+## [13. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Online Courses
 
 *   [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [14. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / String utils
 
 *   [written (⭐1)](https://github.com/vixalien/written) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Literature Management
 
@@ -104,7 +117,7 @@
 *   [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
 *   [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Log Management
 

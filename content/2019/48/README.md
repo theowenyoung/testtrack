@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 02 - Dec 08, 2019
 
-47 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -311,19 +311,26 @@
 
 *   [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 
-## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [33. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Streaming Sites / Anime
+
+*   [Anime Kaizoku](https://animekaizoku.com/) Up to 1080p DDL links, mostly Google Drive
+*   [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
+
+## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
 *   [cl-yesql (⭐53)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
-## [34. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [35. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / German
 
 *   [T.A.D.S. boilerplate (⭐609)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
-## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -336,7 +343,7 @@
 *   [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org\&utm_medium=referral\&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
 *   [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org\&utm_medium=refferal\&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
 
-## [36. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [37. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Courses
 
@@ -346,13 +353,13 @@
 
 *   [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
-## [37. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [38. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / RPG
 
 *   [Darkness Dungeon (⭐242)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
@@ -402,7 +409,7 @@
 *   [jsbin.com](https://jsbin.com) — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).
 *   [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
 
-## [39. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [40. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -412,13 +419,19 @@
 *   [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
 *   [Working With Cookies](https://appiumpro.com/editions/96)
 
-## [40. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Conferences and Events / Europe
+
+*   [HoneyCON](https://honeycon.eu/) - Annual Security Conference in Guadalajara, Spain. Organized by the HoneySEC association.
+
+## [42. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Methodology / Scalability and Resilience
 
 *   [No silver bullet, by Brooks](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - Making a case for growing software in small increments :orange\_book:.
 
-## [41. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [43. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Blockchain utils / Swift
 
@@ -436,19 +449,19 @@
 
 *   [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 
-## [42. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [44. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Libraries
 
 *   [Cron Expression Descriptor (⭐789)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
-## [43. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [45. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
 *   [spotify-tui (⭐14k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
-## [44. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [46. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### IT Security
 
@@ -462,7 +475,7 @@
 
 *   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 
-## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [47. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Command Line
 
@@ -472,7 +485,7 @@
 
 *   [ViewInspector (⭐1.4k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
-## [46. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [48. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -484,7 +497,7 @@
 *   [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
 *   [terraform](https://www.terraform.io) Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 
-## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [PyWorldVocoder (⭐563)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat: (⭐563)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - Wrapper for Morise's World Vocoder.
 
-## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Medusa (⭐998)](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
+
+## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Academic
 
@@ -33,19 +39,19 @@
 *   [Buddhist Society of Western Australia](https://bswa.org/teachings/) - Dhamma talks by various monastics, including Ajahn Brahm.
 *   [SI Video Wiki](https://video.sirimangalo.org/) - Categorized selection of videos by Yuttadhammo Bhikkhu.
 
-## [3. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [4. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Third-party APIs
 
 *   [awscr-s3 (⭐79)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -64,13 +70,13 @@
 
 *   [Machine Learning Module (⭐440)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
 *   [Nipe (⭐1.5k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
-## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Datasets / Topic-specific
 
@@ -113,13 +119,13 @@
 
 *   [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
 
-## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Vert.x Event Bus Clients
 
 *   [Smalltalk (⭐9)](https://github.com/mumez/VerStix)- Event bus client for [Pharo Smalltalk](http://pharo.org/) using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

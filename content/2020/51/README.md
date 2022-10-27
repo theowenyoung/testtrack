@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2020
 
-61 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -203,43 +203,49 @@
 
 *   [jsweet (⭐1.3k)](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 
-## [14. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [LeakCheck](https://leakcheck.io/) - Data Breach Search Engine with 7.5B+ entries collected from more than 3000 databases. Search by e-mail, username, keyword, password or corporate domain name.
+
+## [15. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 
-## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### LSP Language Server Protocol Implementations
 
 *   [scry (⭐328)](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
-## [17. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [18. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Puzzle Games
 
 *   Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
 
-## [18. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [19. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Unofficial Godot builds / Godot version unknown
 
 *   [Raspberry Pi 4 builds (⭐214)](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM builds of Godot Engine for the Raspberry Pi 4.
 
-## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [20. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Disability Visibility Project](https://disabilityvisibilityproject.com/) - An online community dedicated to creating, sharing, and amplifying disability media and culture.
 
-## [20. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Online Ads
 
@@ -256,7 +262,7 @@
 *   [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://amzn.com/1422119157/?tag=kevideld-20) - Allows you to fully understand how to use financial data to make better decisions for your business.
 *   [Algebraic Models for Accounting Systems](https://amzn.com/9814287113/?tag=kevideld-20) - Advanced abstract algebra applied to the analysis of accounting systems.
 
-## [21. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Machine Learning
 
@@ -269,7 +275,7 @@
 
 *   [reticulate <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/reticulate/index.html) - Interface to 'Python'.
 
-## [22. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [23. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Preprocessing
 
@@ -349,7 +355,7 @@
 
 *   [Svelte](https://plugins.jetbrains.com/plugin/12375-svelte) - Syntax highlighting and support for JetBrains.
 
-## [23. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [24. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -363,7 +369,7 @@
 
 *   [Creative Technology (⭐189)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
-## [24. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [25. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Articles
 
@@ -374,7 +380,7 @@
 
 *   [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
 
-## [25. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [26. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### (Non-spatial) Transcriptomics / Gene expression matrices
 
@@ -382,31 +388,31 @@
 *   [MORPHEUS](https://software.broadinstitute.org/morpheus/) - Versatile matrix visualization and analysis software.
 *   [Clustergrammer](https://maayanlab.cloud/clustergrammer/) - Visualize high-dimensional data as interactive hierarchically clustered heatmaps.
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [HASH](https://hash.ai) - open source simulation and visualization platform.
 
-## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Localization
 
 *   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - Semi-automatically translate or synchronize .strings files or crossplatform-files from different languages.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Debugging
 
 *   [extrace (⭐33)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
-## [29. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [30. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [mundane (⭐1k)](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
 
-## [30. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [31. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -452,13 +458,19 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
-## [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Back-end API / Playground
+
+*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
+
+## [33. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
 *   [Receipt Manager (⭐119)](https://github.com/ReceiptManager/Application) <!--stargazers:ReceiptManager/Application--> - Receipt parser, manager and tracker by [Monolidth](https://github.com/monolidth)
 
-## [32. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [34. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Articles / Other Tools
 
@@ -469,19 +481,19 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
 *   [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - Develop and test an asynchronous API with FastAPI, Postgres, Pytest, and Docker using Test-Driven Development.
 
-## [33. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Containerization
 
 *   [ros-tooling/cross\_compile (⭐160)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
 
-## [34. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [36. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for computation / Blockchain projects for AI algorithms
 
 *   [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 
-## [35. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [37. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Standalone Code Points
 
@@ -526,7 +538,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
     they were mis-read or misinterpreted from other signs, when JIS was compiled
     from original printed text sources.
 
-## [36. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [38. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Static Websites
 
@@ -536,7 +548,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [aws-pdf-textract-pipeline (⭐126)](https://github.com/aeksco/aws-pdf-textract-pipeline) - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
 
-## [37. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Conferences and Events / South America
+
+*   [Hackers to Hackers Conference (H2HC)](https://www.h2hc.com.br/) - Oldest security research (hacking) conference in Latin America and one of the oldest ones still active in the world.
+
+## [40. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -550,7 +568,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -594,7 +612,35 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 
 
-## [39. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [42. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Infinite Scroll
+
+*   [@egjs/react-infinitegrid (⭐1.4k)](https://github.com/naver/egjs-infinitegrid/blob/master/packages/react-infinitegrid) - [npm](https://www.npmjs.com/package/@egjs/react-infinitegrid) - [demo](https://naver.github.io/egjs-infinitegrid/storybook/) - A module used to arrange card elements including content infinitely according to various layout types.
+
+### Notification
+
+*   [react-toast (⭐57)](https://github.com/moharnadreza/react-toast) - [demo](https://codesandbox.io/s/byqvk) - [docs (⭐57)](https://github.com/moharnadreza/react-toast/blob/main/README.md) - Minimal toast notifications.
+
+### Miscellaneous
+
+*   [fastcomments-react (⭐3)](https://github.com/fastcomments/fastcomments-react) - [demo](https://blog.fastcomments.com/\(12-30-2019\)-fastcomments-demo.html) - FastComments component for embedding a live comment thread on a page or SPA.
+*   [react-pulse-text (⭐12)](https://github.com/Kelsier90/React-Pulse-Text) - [demo/docs](https://kelsier90.github.io/React-Pulse-Text/) - Allows you to animate the text of any property of another component.
+*   [@restpace/schema-form (⭐30)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+
+### Device Input / Keyboard Events
+
+*   [useKeyCapture (⭐20)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
+
+### Data Store / Mouse Events
+
+*   [effector-react (⭐3.9k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+
+### Boilerplate / Mouse Events
+
+*   [react-enterprise-starter-kit (⭐70)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+
+## [43. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Emojis / Fonts
 
@@ -605,7 +651,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Crypto animal font (⭐3)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
 
-## [40. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [44. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Apps
 
@@ -656,20 +702,20 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 
-## [41. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [45. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Crash monitoring
 
 *   [Sentry (⭐592)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [42. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [46. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### IDE
 
 *   [Atom (⭐59k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
 *   [Brackets (⭐34k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
-## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -684,7 +730,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.
 
-## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -698,13 +744,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Tabby (⭐49)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0-only` `PHP`
 
-## [45. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [49. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
 *   [Hyper Light Drifter](https://heartmachine.com/hyper-light) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [50. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -718,7 +764,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [OPFython (⭐28)](https://github.com/gugarosa/opfython) - A Python-inspired implementation of the Optimum-Path Forest classifier.
 
-## [47. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [51. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / PHP
 
@@ -728,7 +774,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [termd (⭐54)](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [48. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [52. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -742,13 +788,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   🚀 [Starter Dashboard Layout (⭐174)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
-## [49. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [53. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Related awesomeness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Tromjaro Apps](https://www.tromjaro.com/apps/) - A curated collection of trade-free applications.
 
-## [50. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [54. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -762,7 +808,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Booster](https://www.booster.cloud/) - A CQRS, DDD and event-sourcing open-source framework that leverages all the infrastructure and uses high-level abstractions and conventions. It help users build advanved even-driven applications letting them focus on business logic exclusively.
 
-## [51. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [55. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Audio
 
@@ -854,7 +900,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 *   [Asm::X86](https://metacpan.org/pod/Asm::X86) - List of instructions and registers of x86-compatible processors, validating and converting instructions and memory references
 *   [ELF::Writer](https://metacpan.org/pod/ELF::Writer) - write and read executable ELF files
 
-## [52. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [56. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Languages and Environments
 
@@ -864,7 +910,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [padding (⭐4)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 
-## [53. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [57. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -888,13 +934,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [ADW-Charting](https://common-lisp.net/project/adw-charting/) - A simple chart drawing library written completely in Common Lisp. Also includes a backend to Google's chart service. BSD-like.
 
-## [54. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [58. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Books / Automation
 
 *   [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - by Raymond Camden and Brian Rinaldi
 
-## [55. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [59. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
@@ -904,7 +950,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 
-## [56. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [60. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Web Hosting
 
@@ -914,7 +960,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [CARTO](https://carto.com/help/getting-started/student-accounts/) \[FREE / DISCOUNT] - Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
 
-## [57. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Architecture and Design
 
@@ -924,25 +970,25 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [SA-SSD (⭐454)](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
 
-## [58. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [62. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 
 *   [FireEye's Sunburst Countermeasures (⭐549)](https://github.com/fireeye/sunburst_countermeasures) - Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.
 
-## [59. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [63. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Documentation / Scalability and Resilience
 
 *   [arc42](https://arc42.org/) - Template for documentation and communication of software and system architectures.
 
-## [60. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [64. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / WebAssembly
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
-## [61. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [65. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 

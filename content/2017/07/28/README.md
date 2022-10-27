@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 28, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,7 +97,13 @@
 *   [FLARE VM (⭐4.1k)](https://github.com/fireeye/flare-vm) - A fully customizable,
     Windows-based, security distribution for malware analysis.
 
-## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Side-channel Tools / Reverse Engineering Tools
+
+*   [ChipWhisperer](http://chipwhisperer.com) - Complete open-source toolchain for side-channel power analysis and glitching attacks.
+
+## [10. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Posts and Articles
 
@@ -197,7 +203,7 @@
 *   [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search.
 *   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 
@@ -207,13 +213,13 @@
 
 *   [Dratini (⭐37)](https://github.com/kevin0571/Dratini) - A neat network layer.
 
-## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Videos
 
 *   [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
 
-## [12. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [13. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Publications
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27, 2021
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,19 +26,30 @@
 
 *   [Bridgecrew](https://bridgecrew.io/) — Infrastructure as code (IaC) security powered by the open source tool - [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov). The core Bridgecrew platform is free for up to 50 IaC resources.
 
-## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Django / Community
+
+*   [django-vite (⭐181)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+
+### Ruby on Rails / Community
+
+*   [vite-plugin-ruby (⭐766)](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
+*   [Vite Ruby (⭐766)](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
+
+## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
 *   [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
 
-## [4. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [5. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Competitive Analysis / GDPR
 
 *   [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - All the latest accounts updates on DO.
 
-## [5. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Basics
 
@@ -73,7 +84,7 @@
 
 *   [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - All the latest billing updates on DO.
 
-## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [7. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Conferences
 
@@ -101,7 +112,7 @@
 *   [`Blog`](https://blog.vaticle.com)
 *   [`LinkedIn`](https://www.linkedin.com/company/vaticle)
 
-## [7. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [8. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### FPS
 
@@ -110,44 +121,50 @@
 *   [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 *   [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Business
 
 *   [Billing (⭐404)](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
 *   [redis-pro (⭐575)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Threat Intelligence / Telegram
+
+*   [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
+
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Marketing
 
 *   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
 *   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 
-## [11. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [13. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
 *   [OSnap (⭐108)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [vuemoji-picker (⭐54)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 
-## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [15. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / CLI Tools
 
 *   [Golocity (⭐6)](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
 
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [16. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Design
 
@@ -232,7 +249,7 @@
 
 *   [ODBC](https://docs.microsoft.com/en-us/sql/odbc/reference/odbc-overview) - Open Database Connectivity (ODBC) is a widely accepted application programming interface (API) for database access.
 
-## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Education
 

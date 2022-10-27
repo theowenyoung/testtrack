@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2022
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,19 +31,31 @@
 
 *   [collective.purgebyid (⭐4)](https://github.com/collective/collective.purgebyid) - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-mouse-select (⭐6)](https://github.com/andreizanik/react-mouse-select) - [Demo](https://andreizanik.github.io/react-mouse-select/) A component that allows selecting DOM elements by moving the mouse
+
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Newsletter
 
 *   [Open Source Updates for Swift Projects](https://www.getrevue.co/profile/ossp_updates/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
 
-## [6. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [7. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Showcases
 
 *   [Todo App with Playwright (⭐5)](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Language Tools / Telegram
+
+*   [Sentence Stack](https://sentencestack.com/) - Sentence search engine with grammar check, translation, and idiom detection.
+
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Groupware
 
@@ -57,19 +69,19 @@
 
 *   [code-server (⭐57k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown / LaTeX / Diagnostics
 
 *   [AckslD/nvim-FeMaco.lua (⭐168)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
 
-## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Books / Monograph
 
 *   [Goldreich. Randomized Methods in Computation](http://www.wisdom.weizmann.ac.il/\~oded/rnd.html) - The aim of the current course is to make the students familiar with some of randomized methods.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -92,7 +104,7 @@
 
 *   [apvarun/awesome-bun (⭐557)](https://github.com/apvarun/awesome-bun)
 
-## [11. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
+## [13. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
 ### Backoffice extensions / Form Builders
 
@@ -111,7 +123,7 @@
 
 *   [Konstrukt\*](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/) - Backoffice UI builder through code.
 
-## [12. Awesome Go](/content/avelino/awesome-go/README.md)
+## [14. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
@@ -129,13 +141,23 @@
 
 *   [usestdlibvars (⭐30)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Methodologies for Experiments / Virtual Reality
 
 *   [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***Media Psychology***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558\&hl=en\&as_sdt=0,5)]. A meta-analysis on the extent to which technologies need to be immersive in order to generate a sense of presence.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vitequality (⭐5)](https://github.com/cstuncsik/vitequality) - Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-jspm (⭐32)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
+
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 

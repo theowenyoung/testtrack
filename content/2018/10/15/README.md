@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,7 +20,128 @@
 
 *   [JustRemote](https://justremote.co)
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Browser Extensions
+
+*   [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
+*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
+
+### Password Vaults
+
+*   [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
+*   [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
+
+### Antivirus
+
+*   [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
+
+### Trackers / Public Trackers
+
+*   [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
+*   [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
+*   [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
+*   [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
+*   [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
+*   [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
+*   [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
+
+### Tracker Aggregators / Public Trackers
+
+*   [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
+
+### Tracker Invites / Public Trackers
+
+*   [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
+*   [/r/Invites](https://www.reddit.com/r/invites) Post wanted ads for private tracker invites here
+*   [getting\_into\_private\_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
+
+### Usenet Indexers / Paid Indexers
+
+*   [NZBgeek](https://nzbgeek.info/) Affordable Usenet indexer operating since 2014.
+
+### Usenet Indexers / Free Indexers
+
+*   [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
+*   [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
+*   [NZBKing](http://nzbking.com/) This service allows you to search and browse binary files that have been posted to Usenet newsgroups.
+
+### Usenet Clients / Free Indexers
+
+*   [SABnzbd](https://sabnzbd.org/) :star2: SABnzbd is an Open Source Binary Newsreader written in Python.
+*   [NZBget](https://nzbget.net/) Efficient Usenet downloader written in C++
+
+### DDL Search Engines and Crawlers / Free Indexers
+
+*   [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
+
+### DDL Link Sites / Free Indexers
+
+*   [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
+
+### Premium Link Generators / Free Indexers
+
+*   [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player
+
+### Premium Link Hosts / Free Indexers
+
+*   [Mega](https://mega.nz/) :star2:
+
+### Media Centre Applications / Third Party Hosts
+
+*   [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+
+### Plex Plugins / Third Party Hosts
+
+*   [Sub-Zero.bundle (⭐1.5k)](https://github.com/pannal/Sub-Zero.bundle) :star2: Subtitles for Plex, as good you would expect them to be. (*read*: [plans for a world without Plex plugins](https://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/))
+
+### Plex Requests / Third Party Hosts
+
+*   [Ombi](http://ombi.io/) :star2: Want a Movie or TV Show on Plex or Emby? Use Ombi!
+
+### Ebooks / Third Party Hosts
+
+*   [Calibre](https://calibre-ebook.com/) :star2: ebook management tool
+
+### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
+
+*   [Handbrake](https://handbrake.fr/) :star2: HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+*   [ffmpeg](https://ffmpeg.org/) A complete, cross-platform solution to record, convert and stream audio and video.
+
+### Cloud Storage / Third Party Hosts
+
+*   [rclone](https://rclone.org/) :star2: "rsync for cloud storage"
+
+### File Renaming and Tagging / Third Party Hosts
+
+*   [FileBot](https://www.filebot.net/) :star2: the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork. It's smart and just works.
+*   [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
+
+### APKs / Third Party Hosts
+
+*   [Mobilism Forum](https://forum.mobilism.org/index.php) :star2: Large forum of mobile apps and books
+
+### IRC Clients / Third Party Hosts
+
+*   [weechat (⭐2.6k)](https://github.com/weechat/weechat) :star2: The extensible chat client.
+
+### Piracy Blogs and News / Third Party Hosts
+
+*   [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+
+### Content Discovery / Third Party Hosts
+
+*   [Trakt.tv](https://trakt.tv/) :star2: a platform that does many things, but primarily keeps track of TV shows and movies you watch.
+
+### Dashboards and Homepages / Third Party Hosts
+
+*   [Organizr (⭐4k)](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
+
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -240,7 +361,7 @@
 
 
 
-## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [5. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Administration
 
@@ -268,7 +389,7 @@
 
 *   [GrandNode (⭐1.8k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authorization
 
@@ -316,7 +437,7 @@
 
 *   [google-cloud (⭐672)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
-## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -330,7 +451,7 @@
 
 *   [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 
@@ -340,7 +461,7 @@
 
 *   [Clearance (⭐3.6k)](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
 
-## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Videos
 
@@ -349,7 +470,7 @@
 *   [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
 *   [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Authentication
 
@@ -359,14 +480,14 @@
 
 *   [Kitsunebi (⭐240)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
-## [10. Bots](/content/hackerkid/bots/README.md)
+## [11. Bots](/content/hackerkid/bots/README.md)
 
 ### Tutorials / Go
 
 *   [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 *   [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginners-guide-to-your-first-bot)
 
-## [11. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [12. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 

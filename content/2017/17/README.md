@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24 - Apr 30, 2017
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -232,19 +232,29 @@
 
 *   [HTTP/2 showcase (⭐7)](https://github.com/aesteve/http2-showcase) - A simple demo, showing how HTTP/2 can drastically improve user experience when a huge latency is involved.
 
-## [18. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [18. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [Probable Wordlists (⭐7.7k)](https://github.com/berzerk0/Probable-Wordlists)
+
+  Description: Wordlists sorted by probability originally created for password generation and testing
+
+
+
+## [19. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Works with AVA
 
 *   [p-event (⭐391)](https://github.com/sindresorhus/p-event) - Promisify an event. [(Example) (⭐224)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)
 
-## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
 *   [PathPicker (⭐4.8k)](https://github.com/facebook/pathpicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 
-## [20. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
@@ -266,7 +276,7 @@
 
 *   [SimMetrics.Net (⭐91)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 
-## [21. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [22. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Heroku buildpacks / Gradient boosting
 
@@ -287,7 +297,7 @@
 *   <a name="octave"></a>
     [Octave](https://www.gnu.org/software/octave/)
 
-## [22. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
+## [23. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
 
 ### Related Awesome Lists / Plugins
 
@@ -295,7 +305,7 @@
 *   [awesome-love2d (⭐2.5k)](https://github.com/love2d-community/awesome-love2d)
 *   [awesome-gamedev (⭐13)](https://github.com/mbrukman/awesome-gamedev)
 
-## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### URI handling / Isomorphic web frameworks
 
@@ -305,25 +315,25 @@
 
 *   [Parinfer](https://shaunlebron.github.io/parinfer/) - Parinfer is a way to edit lisp code that helps to keep both the indentation and the parenthesis balanced. It is easy to start with and yet it offers advanced features à la Paredit. It is available on many editors (Emacs, Vim, Neovim, Atom, Sublime Text, Visual Studio Code, LightTable, CodeMirror,…).
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Let's Vue! - OpenLecture 2017.01 in Russian](https://youtu.be/7pmw5gvWAf8) on YouTube by Illya Klymov ([@xanf](https://github.com/xanf/))
 
-## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Package Management / Directory Navigation
 
 *   [dotdrop (⭐1.4k)](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 
-## [26. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Open-source sites / Lists
 
 *   [RTEI (⭐14)](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 
-## [27. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [28. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Network / NoSQL Databases
 
@@ -337,13 +347,13 @@
 *   [Net::CLI::Interact](https://metacpan.org/pod/Net::CLI::Interact) - Automates interactive programs.
 *   [Net::Appliance::Session](https://metacpan.org/pod/Net::Appliance::Session) - Automates interaction with appliances.
 
-## [28. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [29. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Utilities
 
 *   [ProtectedText](https://www.protectedtext.com/) - Online encrypted notepad with storage and no sign up.
 
-## [29. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [30. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Emojis / Fonts
 
@@ -372,7 +382,7 @@
 *   [twemoji (⭐15k)](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
 *   [vim-emoji (⭐592)](https://github.com/junegunn/vim-emoji) - Emoji in Vim
 
-## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -384,7 +394,7 @@
 *   [Joda-Time Android (⭐2.6k)](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 *   [True Time (⭐1.3k)](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
 
-## [31. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [32. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -394,7 +404,7 @@
 
 *   [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
 
-## [32. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [33. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Articles
 
@@ -413,7 +423,7 @@
 
 *   [Forrest (⭐338)](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -423,13 +433,13 @@
 
 *   [Conekta (⭐30)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 
-## [34. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [35. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
 *   [Beyond flux: going full cycle with FRP](https://clementd-files.cellar.services.clever-cloud.com/blog/frp-full-cycle-ncrafts.html) - by [Clément Delafargue](http://clementd.cleverapps.io/)
 
-## [35. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [36. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Articles
 
@@ -450,13 +460,13 @@
 
 *   [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 
-## [36. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 
-## [37. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [38. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Resources
 
@@ -466,7 +476,7 @@
 
 *   [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - Series of articles explaining the basics of compilers and interpreters and how to build one.
 
-## [38. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [39. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Image: Segmentation / Object Detection
 
@@ -480,7 +490,7 @@
 
 *   TACOTRON: Towards end-to-end speech synthesis (2017), Y. Wang et al. [\[pdf\]](https://arxiv.org/pdf/1703.10135.pdf)
 
-## [39. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [40. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Community
 
@@ -501,7 +511,7 @@
 *   [React (⭐196k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
-## [40. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,25 +84,31 @@
 
 *   [Arduino-CMake-Toolchain (⭐106)](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [10. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [WslShortcut](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/HanabishiRecca/WslShortcut) - Run WSL commands directly in Windows. Also allows to use WSL `git`/`node`/etc. in **Visual Studio Code** or another software. Combines functionality of utilities like [`wslgit`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/andy-5/wslgit), [`wslnodejs`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/snooopcatt/wslnodejs), [`wslexec`](https://github.com/sirredbeard/Awesome-WSL/blob/master//github.com/int128/wslexec) etc. with simpler usage. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Example Apps
 
 *   [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) *([GitHub Project (⭐6)](https://github.com/safdarjamal/vanilla-preact/))*.
 
-## [11. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [12. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Networks
 
 *   [Corda Pre-Production Network](https://corda.network/participation/preprod.html) - A UAT network providing a pre-production environment run by the Corda Network Foundation.
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Weather
 
@@ -118,13 +124,13 @@
 
 
 
-## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Graphics
 

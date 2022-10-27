@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2022
 
-9 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,25 @@
 
 *   [ultimator (⭐0)](https://github.com/Ultimator14/ultimator-zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874)-like theme. Includes decorators for current directory, `user@host`, python virtualenv, background jobs, last command exit status, and `git` status information. Requires [zsh-git-prompt (⭐0)](https://github.com/Ultimator14/zsh-git-prompt) plugin and Nerdfonts.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Vue / Routing
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [v-route-generate (⭐6)](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [tyro/arbitrater (⭐36)](https://github.com/tyro/arbitrater) - Arbitrater is a library for creating arbitrary (randomized) instances of classes by reflection for use in testing.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Building a sailing starter board with Rust (RTIC)](https://gill.net.in/posts/stm32-pcb-sailing-and-rust/) A step by step story/guide to build STM32 based PCB and program it with rust for fun and games.
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -38,19 +44,25 @@
 
 *   [ASP.NET Core updates in .NET 7 Preview 4](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-4) - May 10, 2022 - .NET 7 Preview 4 is now available and includes many great new improvements to ASP.NET Core. Article by Dan Roth from Microsoft.
 
-## [5. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Translations
 
 *   [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### File Management and Sharing
+
+*   [Blindsend (⭐141)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
+
+## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
 *   [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early access
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -60,13 +72,19 @@
 
 *   [nvim-treesitter/nvim-treesitter-context (⭐1.1k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
 
-## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [10. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Miscellaneous
 
 *   [authBroker (⭐4)](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Tag Input
+
+*   [tagify (⭐2.7k)](https://github.com/yairEO/tagify) - [demo & docs](https://yaireo.github.io/tagify/) - Lightweight, efficient Tags input component.
+
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### John Hopcroft / Commonsense Knowledgebase
 

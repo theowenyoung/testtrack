@@ -1,12 +1,52 @@
 # Awesome List Updates on May 22, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Meta Search
+
+*   [Swisscows](https://swisscows.com/)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [h8mail (⭐2.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐3.5k)](https://github.com/megadose/holehe)
+
+### Video Search and Other Video Tools / Telegram
+
+*   [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
+
+### Geospatial Research and Mapping Tools / Telegram
+
+*   [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
+*   [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+*   [Maxar](https://discover.digitalglobe.com/)
+*   [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
+*   [Zoom Earth](https://zoom.earth/)
+*   [SunCalc](https://www.suncalc.org/)
+
+### Other Tools / Telegram
+
+*   [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
+
+### OSINT Videos / Telegram
+
+*   [Bendobrown](https://www.youtube.com/c/Bendobrown)
+
+### OSINT Blogs / Telegram
+
+*   [Bellingcat](https://www.bellingcat.com/)
+*   [NixIntel](https://nixintel.info/)
+*   [Social Links](https://blog.sociallinks.io/)
+*   [eInvestigator](https://www.einvestigator.com/)
+*   [OSINT Techniques](https://www.osinttechniques.com/blog)
+
+## [2. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Finance
 
@@ -14,13 +54,13 @@
 
     <img src="https://github.com/wickenico/btc-usd-course.js/raw/main/img/bitcoin-usd-course-widget-small.png?raw=true" height="200"/>
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
 *   [Slack (38k+ users)](https://slack.kotlinlang.org/)
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
@@ -36,25 +76,25 @@
 
 
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### ORM
 
 *   [ObjectiveSql (⭐1.2k)](https://github.com/braisdom/ObjectiveSql) - ActiveRecord ORM for rapid development and convention over configuration.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tooling / Others
 
 *   [Publish-time Pre-render for Blazor Wasm (⭐128)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
-## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Policy enforcement
 
 *   [Conftest](https://conftest.dev/) - Utility to help you write tests against structured configuration data.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -68,7 +108,7 @@
 
 *   [vue-object-state (⭐7)](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Built Environment
 
@@ -103,7 +143,7 @@
 *   [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub (⭐7.4k)](https://github.com/Turfjs/turf).
 *   [GTFS-Js (⭐1)](https://github.com/WSDOT-GIS/GTFS-JS) - JavaScript library for working with GTFS data. Additional Information: Unlicense: WSDOT.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Translation Tools / File Sharing
 

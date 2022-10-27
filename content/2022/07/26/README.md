@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,13 @@
 
 *   [cimgui-love (⭐39)](https://github.com/apicici/cimgui-love) - LÖVE module for Dear ImGui obtained by wrapping cimgui (programmatically generated C-api) using LuaJIT FFI, easy to update to the latest Dear Imgui version.
 
-## [6. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [VRTTV (⭐30)](https://github.com/Drumpy/vrttv-boilerplate) - React + TypeScript + TailwindCSS + ESLint + Prettier + Husky + Conventional Commits + Gitmoji + GitHub Actions + Vercel Deploy.
+
+## [7. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Open source projects using TypeDB
 
@@ -120,7 +126,7 @@
 *   [`Discussion Forum`](https://forum.vaticle.com)
 *   [`Stack Overflow`](https://stackoverflow.com/questions/tagged/vaticle-typedb%20vaticle-typeql?sort=Newest\&edited=true)
 
-## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Social Platform APIs
 
@@ -129,25 +135,25 @@
 *   [twi (⭐5)](https://github.com/roj1512/twi) - Twitter API v2 client for Deno.
 *   [discordeno](https://discordeno.mod.land/) - Discord API library for Deno
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Caching
 
 *   [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 
-## [9. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2020
 
 *   [Black-Box Ripper: Copying black-box models using generative evolutionary algorithms](https://proceedings.neurips.cc/paper/2020/file/e8d66338fab3727e34a9179ed8804f64-Paper.pdf) - (NeurIPS) *Replicates the functionality of a black-box neural model, yet with no limit on the amount of queries (via a teacher/student scheme and an evolutionary search).*
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [katalon.com](https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free),TestCloud and Katalon Recorder.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Princeton / Commonsense Knowledgebase
 

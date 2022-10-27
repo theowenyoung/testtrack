@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -105,13 +105,25 @@
 
 *   [Fuck off as a Service (⭐2.9k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
-## [7. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### React Native
+
+- Name: [Civis Face](https://github.com/civisanalytics/CivisFace)
+
+  Description: An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly.
+
+  Link: [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA)
+
+
+
+## [8. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Tools / Third-Party Tools
 
 *   [linuxdeployqt (⭐1.7k)](https://github.com/probonopd/linuxdeployqt) [:octocat: (⭐1.7k)](https://github.com/probonopd/linuxdeployqt) - Lets you bundle your Qt based application as an AppDir or [AppImage](http://appimage.org), making it possible to ship it to users of many desktop Linux distributions. Similar to the official `windeployqt` and `macdeployqt` tools but for Linux.
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 

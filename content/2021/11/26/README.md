@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26, 2021
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,25 @@
 
 *   [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Vue / Loaders
+
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐9)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Carousel
+
+*   [swiper (⭐33k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Politics
 
 *   [MIT Election Lab](https://electionlab.mit.edu/data) - Election Lab is a clearinghouse for data sets that can fuel studies on elections and how they're conducted. Find election data and research tools produced by us and others.
 
-## [4. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [6. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Compressing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -113,6 +113,12 @@
 ### Open Source Repos / Kinesis
 
 *   [aws-fluent-plugin-kinesis :fire::fire: (⭐282)](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
+
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Collaboration and Project Management / Telegram
+
+*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐13)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 
 ---
 

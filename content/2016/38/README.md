@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19 - Sep 25, 2016
 
-40 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -157,7 +157,33 @@ git log --show-notes='*'
 
 *   [Screeenly (⭐404)](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 
-## [15. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [15. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Firebase
+
+- Name: [Friendlychat (⭐1.6k)](https://github.com/firebase/friendlychat)
+
+  Description: Firebase codelab for building a cross-platform chat app
+
+  Link: 
+
+
+- Name: [Friendlypix (⭐730)](https://github.com/firebase/friendlypix)
+
+  Description: FriendlyPix is a cross-platform Firebase example app
+
+  Link: 
+
+
+- Name: [Firefeed (⭐460)](https://github.com/firebase/firefeed)
+
+  Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
+
+  Link: 
+
+
+
+## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
@@ -171,13 +197,13 @@ git log --show-notes='*'
 *   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
-## [16. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [17. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [shrinkpack (⭐791)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Articles
 
@@ -185,7 +211,7 @@ git log --show-notes='*'
 *   [CppCon 2015 Presentation Materials (⭐1.7k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 *   [CppCon 2014 Presentation Materials (⭐2.2k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
 
-## [18. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [19. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Deployment
 
@@ -195,32 +221,32 @@ git log --show-notes='*'
 
 *   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
-## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [20. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Examples / Aurelia Articles
 
 *   [Built with Aurelia](http://builtwithaurelia.com/) \* Showcase of examples created by the Aurelia community.
 
-## [20. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [21. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Other tools / Hooks
 
 *   [hubot-influxdb-alerts (⭐10)](https://github.com/amwelch/hubot-influxdb-alerts) - Create and manage alerts in your chatroom using [hubot](https://hubot.github.com/) and influxdb
 
-## [21. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Multiple-view Computer Vision
 
 *   [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
 *   [Awesome 3D reconstruction list (⭐3.5k)](https://github.com/openMVG/awesome_3DReconstruction_list)
 
-## [22. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Tuna (⭐1.5k)](https://github.com/Theodeus/tuna) - An audio effects library.
 
-## [23. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [24. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -234,19 +260,19 @@ git log --show-notes='*'
 
 *   [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 
-## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Alliances / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
 
 *   [Bluetooth Special Interest Group](https://www.bluetooth.com/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 
-## [25. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [26. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / jQuery
 
 *   [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - Plenty of chart types rendering in SVG, Canvas, and VML.
 
-## [26. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [27. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / React
 
@@ -269,7 +295,7 @@ git log --show-notes='*'
 
 *   [Martin Wattenberg](https://twitter.com/wattenberg)
 
-## [27. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [28. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -305,50 +331,50 @@ git log --show-notes='*'
 
 *   [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
-## [28. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [29. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Other Awesome Lists
 
 *   [ci tools compare2 (⭐2)](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 *   [ci tools compare 3 (⭐3k)](https://github.com/ligurio/Continuous-Integration-services)
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Conferences & Meetups
 
 *   [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Date
 
 *   [DateHelper (⭐1.4k)](https://github.com/melvitax/DateHelper) - Simple date helper.
 
-## [31. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [Easy package management with Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
 
-## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [owocki/s3\_disk\_util :fire: (⭐168)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 
-## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [PyGraphistry (⭐1.7k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
 *   [ref (⭐423)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -375,7 +401,13 @@ git log --show-notes='*'
 
 *   [tg\_client (⭐12)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
-## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+
+### Styleguide and Branding
+
+*   [BBC](http://www.bbc.co.uk/gel)
+
+## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Viana do Castelo
 
@@ -405,7 +437,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ![](http://www.speedtest.net/result/5644569150.png)
 
-## [37. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -454,7 +486,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Wagtail Cookiecutter Foundation (⭐162)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
-## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [40. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Middlewares
 
@@ -464,7 +496,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Kahlan (⭐1.1k)](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -490,7 +522,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [react-aspnet-boilerplate (⭐284)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Web Frameworks
 

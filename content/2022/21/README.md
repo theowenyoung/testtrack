@@ -1,6 +1,6 @@
 # Awesome List Updates on May 23 - May 29, 2022
 
-43 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -297,13 +297,73 @@
     *   [scale-ts (⭐8)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
     *   [soramitsu/scale-codec-js-library (⭐1)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
 
-## [34. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [34. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### General Search
+
+*   [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites.
+*   [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
+*   [SurfCanyon](http://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
+
+### Pastebins
+
+*   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
+*   [Skidbin](https://skidbin.net/) - A dox style pastebin ran by hackers
+
+### Social Media Tools / Instagram
+
+*   [Osintgram (⭐5.3k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+
+### Social Media Tools / Telegram
+
+*   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
+
+## [35. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Plugin
 
 *   [tdengine\_hivemq (⭐0)](https://github.com/379547990/tdengine_hivemq) - HiveMQ to TDengine.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### :free: Free Courses / Chrome Extensions
+
+*   [List of free online courses about Typescript](https://skillcombo.com/topic/typescript/free)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [List of paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
+*   [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
+
+## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Electron
+
+*   [electron-vite-vue (⭐1.6k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+*   [electron-vite-react (⭐547)](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+*   [electron-vite-boilerplate (⭐158)](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+*   [electron-vite-quick-start (⭐44)](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+*   [electron-vite-template (⭐207)](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+*   [fast-vite-electron (⭐80)](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+*   [fast-vite-nestjs-electron (⭐96)](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+*   [vite-plugin-electron-quick-start (⭐25)](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
+*   [vite-electron-builder (⭐1.4k)](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+*   [vite-reactts-electron-starter (⭐174)](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
+*   [Vitectron (⭐12)](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-progress (⭐88)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-head (⭐3)](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
+
+### Libraries / Community
+
+*   [vavite (⭐191)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
@@ -323,7 +383,7 @@
 *   [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
 *   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.
 
-## [36. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [39. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -334,7 +394,7 @@
 *   [Getting started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/) - Introduces Ansible, provides installation instructions and gives an interactive walkthrough of Ansible's basic functionalities, like running Ansible playbooks and installing Ansible content.
 *   [Taking Ansible apart](https://steampunk.si/blog/taking-ansible-apart/) - Describes and shows how most commonly used Ansible components work.
 
-## [37. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [40. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Elixir Examples / React
 
@@ -344,13 +404,13 @@
 
 *   [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 
-## [38. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [41. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### App Examples
 
 *   [Live Wind Streaming](https://plot.ly/dash/gallery/live-wind-data/) - Continually queries a SQL database and displays live charts of wind speed and wind direction. [Source Code. (⭐2.6k)](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-wind-streaming)
 
-## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -360,7 +420,7 @@
 *   [headline (⭐99)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
 
-## [40. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [43. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -410,19 +470,35 @@ A curated list of resources to secure Electron.js-based applications.
 
 Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
-## [41. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [44. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Blue Team Path / Level 1 - Tools
 
 *   [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 
-## [42. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [45. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Visual Effects
 
 *   [gdx-graph (⭐11)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [46. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### 2FA
+
+*   [Gnome Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Open source two-factor authentication for Linux.
+
+### Self-hosted
+
+*   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
+*   [Immich (WIP) (⭐5.5k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+
+### Search Engines
+
+*   [librengine (⭐32)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### PDF
 

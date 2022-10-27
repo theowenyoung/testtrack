@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,25 +55,33 @@
 *   [Repher](https://repher.me) - Create a referral request for no more than 8 companies.
 *   [Refsy](https://refsy.io) - Sign up to join the engineering community as a job seeker or referrer.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Introduction
+
+*   [A short history of video coding](https://www.slideshare.net/vcodex/a-short-history-of-video-coding?from_m_app=ios)  - Video coding is an essential component of video streaming, digital TV, video chat and many other technologies. This presentation, an invited lecture to the US …
+*   [Eyevinn/streaming-onboarding (⭐383)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
+*   [leandromoreira/digital\_video\_introduction (⭐13k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
+
+## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Languages and Environments
 
 *   [MDX (⭐153)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
 *   [ntlm (⭐4)](https://github.com/spider-gazelle/ntlm) - NTLM authentication
 
-## [5. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [6. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [DNA Transcription Kata (⭐8)](https://github.com/nickdelgrosso/dna-transcription-kata)
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -83,7 +91,7 @@
 
 *   [Blazor WebAssembly Succinctly](https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly) - August 31, 2020 - Blazor is a framework for creating SPA webpages with either client-side or server-side architectures, using Razor technology written with the C# language. Because client-side Blazor with WebAssembly executes entirely on a user's browser, it’s very fast for many applications. In Blazor WebAssembly Succinctly, Michael Washington will take readers through the core elements of Blazor and then explore additional features by building a sample application. Free e-book.
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 

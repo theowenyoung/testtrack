@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2019
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,13 +67,20 @@
 *   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 *   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Server Side Swift
+
+*   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
+*   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
+
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -98,19 +105,19 @@
 *   [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
 *   [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist and XcodeProj libraries, articles.
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Currents: The Remote Developer Experience (July 2019)](https://blog.digitalocean.com/currents-july2019/)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
 *   [Lyra (⭐373)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
-## [11. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [12. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### UK / London
 
@@ -124,7 +131,7 @@
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Competition / Other
 
@@ -134,7 +141,7 @@
 
 *   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
@@ -144,7 +151,7 @@
 
 *   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.8k)](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Dictionaries
 
@@ -174,25 +181,25 @@
 
 
 
-## [15. Awesome Math](/content/rossant/awesome-math/README.md)
+## [16. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
-## [16. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [17. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [18. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [19. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Forensics
 

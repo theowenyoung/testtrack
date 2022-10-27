@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2017
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,19 +81,29 @@
 
 *   [ICOStats.com](https://icostats.com/) - Track & compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Red Teaming (⭐5k)](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+
+  Description: List of Awesome Red Team / Red Teaming Resources
+
+
+
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Mockoon](https://mockoon.com) - Mock servers in seconds.
 
-## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [9. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Blog & News
 
 *   [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Third party Guides
 
@@ -103,32 +113,32 @@
 
 *   [ARKit-Navigation (⭐290)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
-## [10. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Tools
 
 *   [SSHPry v2 (⭐365)](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social\&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [orleans (⭐8.9k)](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
-## [12. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
 *   ["Hopping on the CAN Bus" from BlackHat Asia 2015](https://www.blackhat.com/asia-15/briefings.html#hopping-on-the-can-bus) - A talk from BlackHat Asia 2015 that aims to enable the audience to "gain an understanding of automotive systems, but will also have the tools to attack them".
 *   [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) - DEFCON 23 talk Chris Valasek and Charlie Miller give their now famous talk on hacking into a Jeep remotely and stopping it dead in its tracks.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations) by [@udyuxdev](https://twitter.com/UdyUXDev)
 
-## [14. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [15. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Application Hosting / Third-party Service Integration
 

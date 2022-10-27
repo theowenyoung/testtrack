@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22 - Jan 28, 2018
 
-37 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -181,28 +181,39 @@
 
 *   [vue-scroll-stop (⭐41)](https://github.com/voxtobox/vue-scroll-stop) - Stops propagation scroll when edge reached.
 
-## [20. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Academic Resources and Grey Literature / Telegram
+
+*   [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
+
+### Offline Browsing / Telegram
+
+*   [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
+*   [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
+
+## [21. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Emojicode](http://www.emojicode.org) - Full-blown programming language consisting of emojis.
 *   [Fetlang (⭐1.5k)](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica.
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [externalsortinginjava (⭐230)](https://github.com/lemire/externalsortinginjava) - Sort very large files using multiple cores and an external-memory algorithm.
 *   [fast-uuid (⭐136)](https://github.com/jchambers/fast-uuid) - Java library for quickly and efficiently parsing and writing UUIDs.
 
-## [22. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [23. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
 *   [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
 *   [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
 
-## [23. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [24. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Videos
 
@@ -211,13 +222,13 @@
 *   [SaltConf16 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-sVwcRliUQ-VGDb2qvwpx_) - Video recordings of SaltConf16 presentations.
 *   [SaltConf17 - YouTube](https://www.youtube.com/playlist?list=PL9svBjLDUl_-8yJxp-nSlmM9KYEQH4fgj) - Video recordings of SaltConf17 presentations delivered by SaltStack customers and partners.
 
-## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Email
 
 *   [burnex (⭐62)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
@@ -231,7 +242,7 @@
 
 *   [Giraffe (⭐1.8k)](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
-## [26. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -251,7 +262,7 @@
 
 *   [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
 
-## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Applets / Design Tooling
 
@@ -262,26 +273,26 @@
 *   [Bibata (⭐846)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐908)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
-## [28. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [29. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Presentation / Extensions
 
 *   [mithril-slides (⭐22)](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
 
-## [29. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [30. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
 *   [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0\&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018)
 
-## [30. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [31. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [iOS-11-Framer (⭐42)](https://github.com/brentcas/iOS-11-Framer) - iOS 11 Design System GUI for Framer.
 *   [framer-moreutils (⭐31)](https://github.com/steveruizok/framer-moreutils) - Expand Utils with some handy helper functions.
 
-## [31. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [32. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Android
 
@@ -310,7 +321,7 @@
 *   [How to use scientific calculator?](https://www.youtube.com/watch?v=3GfuVDtGhWo)
 *   [Scott Flansburg, the human calculator](https://www.youtube.com/watch?v=WhtvLpi8Z1M)
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Store
 
@@ -332,7 +343,7 @@
 
 *   [GradientLoadingBar (⭐765)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
-## [33. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [34. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -367,20 +378,20 @@
 *   [d3-inertia (⭐57)](https://github.com/Fil/d3-inertia) - An extension to d3-drag that continues the mouse movement with some inertia
 *   [react-simple-maps (⭐2.7k)](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo \[map, geo]
 
-## [34. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [35. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
 *   [en\_GB (⭐3)](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - British Language Package.
 
-## [35. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [36. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
 *   [MultiDocker (⭐40)](https://github.com/marty90/multidocker)\
     Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [37. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Security
 
@@ -394,7 +405,7 @@
 
 *   [Pidcat (⭐4.6k)](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
 
-## [37. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 

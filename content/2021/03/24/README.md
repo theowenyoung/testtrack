@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 24, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -139,7 +139,17 @@
 
 *   [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 
-## [10. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Obscure Topics in Objective-C, Swift, and Cocoa* by NSHipster](https://gumroad.com/l/nshipster-third-edition)
+
+### Objective-C
+
+*   [*Obscure Topics in Cocoa & Objective-C* by NSHipster](https://gumroad.com/l/nshipster)
+
+## [11. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### URL Routers
 

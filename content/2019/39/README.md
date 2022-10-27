@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 30 - Oct 06, 2019
 
-58 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -670,7 +670,25 @@
 
 *   [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
 
-## [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [36. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Stremio / Third Party Hosts
+
+*   [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
+
+### Music Downloading / Third Party Hosts
+
+*   [chimera](https://notabug.org/Aesir/chimera) Multiple source terminal-based music downloader with audio search engine
+
+### Software / Third Party Hosts
+
+*   [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+
+## [37. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -680,7 +698,7 @@
 
 *   [go-orbit-db (⭐270)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
-## [37. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [38. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Swift / Angular
 
@@ -706,13 +724,13 @@
 
 *   [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 
-## [38. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [39. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Open Source Projects
 
 *   [FlubuCore (⭐816)](https://github.com/dotnetcore/FlubuCore) - Cross platform build automation tool for building projects and executing deployment scripts using C# code.
 
-## [39. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [40. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Internationalization
 
@@ -724,7 +742,7 @@
 *   [Uuseg (⭐15)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
 *   [Uutf (⭐28)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
-## [40. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [41. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Resources / Books
 
@@ -784,20 +802,20 @@
 *   [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.
 *   [Precept (⭐644)](https://github.com/CoNarrative/precept) – A declarative programming framework.
 
-## [41. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [42. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Simplify Android deobfuscator (⭐4k)](https://github.com/CalebFenton/simplify)
 *   [Andromeda (⭐667)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Payment and Billing Integration
 
 *   [currencystack.io](https://currencystack.io/) — Production-ready real-time exchange rates for 154 currencies.
 
-## [43. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [44. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / PyTorch
 
@@ -827,13 +845,13 @@
 
 *   [sklearn-evaluation (⭐336)](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Documentation / Runner
 
 *   [codecrumbs (⭐2.6k)](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
 
-## [45. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [46. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Spell Checking and Linting
 
@@ -846,7 +864,7 @@
 *   [write-good (⭐4.7k)](https://github.com/btford/write-good) - Naive linter for English
     prose.
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [47. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / UI Helpers
 
@@ -866,7 +884,7 @@
 *   Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
 *   Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
-## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [48. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -876,7 +894,7 @@
 
 *   [:octopus: React Native Boilerplate ★551 (⭐3.3k)](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 
-## [48. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [49. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Legal text
 
@@ -919,7 +937,7 @@
 *   [Awesome: Security (⭐223k)](https://github.com/sindresorhus/awesome#security)
 *   [Awesome: Humane Tech (⭐2.8k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
 
-## [49. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -955,13 +973,19 @@
 *   [Query Experiment Tracking Results From Weights & Biases (⭐57)](https://github.com/machine-learning-apps/wandb-action)
 *   [Run Parameterized Jupyter Notebooks (⭐49)](https://github.com/yaananth/run-notebook)
 
-## [50. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
+## [51. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Windows Utilities / Web Exploitation Books
+
+*   [WinPwn (⭐2.5k)](https://github.com/SecureThisShit/WinPwn) - Internal penetration test script to perform local and domain reconnaissance, privilege escalation and exploitation.
+
+## [52. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
 ### Google Ad Manager
 
 *   [Google Ad Manager Fundamentals](https://skillshop.exceedlms.com/student/path/17117-drive-advertising-revenue-with-google-ad-manager) - Google Academy videos about Ad Manager (you should login to see the videos).
 
-## [51. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [53. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -983,13 +1007,13 @@
 
 *   [modern-node (⭐238)](https://github.com/sheerun/modern-node) - Toolkit for creating node modules with Jest, Prettier, ESLint, and Standard.
 
-## [52. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [54. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
 
-## [53. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [55. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
@@ -1003,7 +1027,7 @@
 *   [PDPU Scheduler (⭐11)](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
 *   [karaoke (⭐11)](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
 
-## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [56. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -1041,25 +1065,25 @@
 *   [Cytodata (⭐41)](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
 *   [Advertising (⭐74)](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
-## [55. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [57. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Integrations
 
 *   [@riotjs/custom-elements (⭐33)](https://github.com/riot/custom-elements) - Simple API to create vanilla custom elements with Riot.js.
 
-## [56. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [58. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Testing
 
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
 
-## [57. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [59. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Database
 
 *   [DB4O-GPL ★8 (⭐25)](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
-## [58. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [60. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 

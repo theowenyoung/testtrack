@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -72,25 +72,31 @@
 *   [Green Tunnel (⭐3k)](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites.
 *   [Wikiless](https://wikiless.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/orenom/Wikiless)  - Alternative Wikipedia front-end focused on privacy and anti-censorship.
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### HLS / Talks Presentations Podcasts
+
+*   [soldiermoth/hlsq (⭐64)](https://github.com/soldiermoth/hlsq)  - A CLI for adding some color to your HLS manifests along with some basic filtering
+
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
 *   [Picat Language IDE (⭐1)](https://github.com/andrzejolszak/picat-blazor-monaco-ide/) - ![last commit](https://img.shields.io/github/last-commit/andrzejolszak/picat-blazor-monaco-ide?style=flat-square\&cacheSeconds=86400) IDE for the [Picat logic programming language](http://picat-lang.org/) based on the Monaco Editor. [Demo](https://andrzejolszak.github.io/picat-blazor-monaco-ide/PicatBlazorMonaco/publish/wwwroot/).
 
-## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
 *   [TallyArbiter](http://tallyarbiter.com/) - Cross-platform Tally interfacer & tally lights for any camera via phones or low-cost hardware.
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   🧩 [Perspective (⭐74)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -201,7 +207,7 @@
 
 
 
-## [8. Magictools](/content/ellisonleao/magictools/README.md)
+## [9. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 

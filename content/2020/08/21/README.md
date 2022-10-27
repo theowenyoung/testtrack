@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 21, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,7 +37,19 @@
 
 *   [lean (⭐6.7k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
-## [6. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Official Resources
+
+*   [Awesome Vue (⭐67k)](https://github.com/vuejs/awesome-vue)
+
+### Apps/Websites / Community
+
+*   [Icônes (⭐2.6k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐59)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Todo Example (⭐24)](https://github.com/beary/vite-example) - Todo app with routing and state management.
+
+## [7. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -54,7 +66,7 @@
 
     ChargePoint operates a open electric vehicle (EV) charging network and makes technology used in it.
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Business
 
@@ -64,14 +76,14 @@
 
 *   [Money Tracker (⭐46)](https://github.com/jerichoi224/MoneyTracker) - Money Tracker by [Daniel Choi](https://github.com/jerichoi224).
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Penetration Testing
 
 *   [setoolkit (⭐8.1k)](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
 *   [sqlmap (⭐25k)](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
-## [9. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Package suites
 
@@ -299,26 +311,26 @@
 *   [Comunidad de Desarolladores de Software en Bioinformática](https://comunidadbioinfo.github.io/) - A community of bioinformaticians centered in Latin America
 *   [COMBINE](https://combine.org.au/) - An Austrialian group for bioinformatics students
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Security
 
 *   [cloudsploit/scans :fire::fire::fire::fire: (⭐2.4k)](https://github.com/cloudsploit/scans) - Detects security risks.
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Find "Hidden" Remote Jobs with Google Search](https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link\&sk=3bc251fed25dddd4c1a024ae4dd58e30)
 *   [How I Got a Full Time Remote Job in Two Weeks](https://igotpassion.net/get-remote-job/)
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
 *   [Dough (⭐518)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [14. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 

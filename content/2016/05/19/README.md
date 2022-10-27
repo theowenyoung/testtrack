@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2016
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,34 @@
 
 *   [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Offline / Visual Studio
+
+*   [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
+    *   [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
+*   [NodeJS Tools for Visual Studio (⭐1.8k)](https://github.com/Microsoft/nodejstools)
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
+*   [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+*   [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
+*   [TypeScript Sublime Plugin (⭐1.7k)](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
+*   [Atom TypeScript (⭐1.1k)](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
+*   [TypeScript Interactive Development Environment for Emacs (⭐1.4k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
+*   [TypeScript Syntax for VIM (⭐1.8k)](https://github.com/leafgarland/typescript-vim)
+
+### Online / Playground
+
+*   [TypeScript playground-on-ace (⭐88)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
+*   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
+*   [Codepen](http://codepen.io/) (Select TypeScript)
+*   [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
+*   [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
+
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Other Awesome Lists
 
@@ -53,7 +80,7 @@
 
 *   [MenuItemKit (⭐838)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
-## [4. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### ImageNet Classification
 
@@ -155,38 +182,38 @@
 
 *   \[CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
 *   [eikon (⭐11)](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 
-## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
 *   [nagios-plugin-mongodb (⭐350)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Miscellaneous
 
 *   [noCAPTCHA (⭐339)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / PHP SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### REST and API
 
 *   [ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
 
-## [10. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [11. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Eddystone by Google
 
@@ -210,7 +237,7 @@
 
 *   [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 
-## [11. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [12. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Open Courses
 
@@ -352,14 +379,14 @@
 
 
 
-## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Books
 
 *   [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 *   [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 
-## [13. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### GUI / Custom Controls
 
@@ -398,7 +425,7 @@
 
 *   [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
-## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 

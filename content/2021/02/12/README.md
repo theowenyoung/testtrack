@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12, 2021
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,7 +76,13 @@
 
 
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Academic Papers and Material / Third Party Hosts
+
+*   [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
+
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tutorials
 
@@ -97,7 +103,7 @@
 
 *   [Using .NET 5 with the Raspberry Pi](https://www.slideshare.net/PGallagher69/using-net-5-with-the-raspberry-pi) - January 28, 2021 - Using .NET 5 with the Raspberry Pi, on Slideshare.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -107,7 +113,7 @@
 
 *   [softdevteam/grmtools (⭐294)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Web frameworks / Isomorphic web frameworks
 
@@ -116,26 +122,48 @@
 *   [Interactive SSR (⭐31)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
     *   it is not unlike Phoenix LiveView or Hotwire.
 
-## [6. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [7. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
 *   [Audi A2D2 Dataset](https://www.a2d2.audi) - The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.
     *   [Paper :newspaper:](https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf)
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Applications / Web
 
 *   [Builder Book App (⭐3.3k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
 
-## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
 *   [Databunker](https://databunker.org/) - API based personal data or PII storage service built to comply with GDPR and CCPA.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [Vitesse (⭐6.2k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
+*   [vite-ts-tailwind-starter (⭐272)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-rsw (⭐290)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+*   [vite-imagetools (⭐350)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+
+### React / Framework
+
+*   [vite-plugin-react-pages (⭐293)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-image (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

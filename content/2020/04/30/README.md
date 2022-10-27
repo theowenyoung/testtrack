@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2020
 
-22 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -153,26 +153,33 @@
 
 *   [Skeema](https://www.skeema.io) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
 
-## [19. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
+## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [xclip-xsel-WSL (⭐47)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
+    . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [20. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
 ### Datasets / Raw Images
 
 *   [RxRx1](https://www.rxrx.ai/rxrx1) - RxRx1 is a set of 125,514 high-resolution 512x512 6-channel fluorescence microscopy images of human cells under 1,108 genetic perturbations in 51 experimental batches across four cell types.  The images were produced by Recursion Pharmaceuticals in their labs in Salt Lake City, Utah.  Researchers will use this dataset for studying and benchmarking methods for dealing with biological batch effects, as well as areas in machine learning such as domain adaptation, transfer learning, and k-shot learning.
 *   [RxRx19](https://www.rxrx.ai/rxrx19) - RxRx19 is the first morphological dataset that demonstrates the rescue of morphological effects of COVID-19.
 
-## [20. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [21. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-modal-selector ★249 (⭐350)](https://github.com/peacechen/react-native-modal-selector) - A cross-platform (iOS / Android), selector/picker component for React Native that is highly customizable and supports sections.
 
-## [21. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [22. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [Gazette (⭐451)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
-## [22. Public Apis](/content/public-apis/public-apis/README.md)
+## [23. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Environment
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -131,7 +131,26 @@
 
 *   [Tricking Postgres into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [Piped (⭐3.2k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
+    *   Official instance: <https://piped.kavin.rocks>
+    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.2k)](https://github.com/TeamPiped/Piped/wiki/Instances)
+    *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐13)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
+
+### Overview / Reddit
+
+*   [Troddit (⭐331)](https://github.com/burhan-syed/troddit): A web client for Reddit
+    *   Official instance: <https://www.troddit.com>
+
+### Overview / Google Search
+
+*   [Searx (⭐12k)](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
+    *   Public instances: <https://searx.space>
+
+## [7. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Blockchain
 
@@ -149,25 +168,25 @@
 
 *   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
-## [7. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [8. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Libraries
 
 *   [WireUI (⭐704)](https://github.com/wireui/wireui) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components
 
-## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [Insomnia](https://insomnia.rest) - Build APIs that work.
 
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Community Resources
 
 *   [Context Mapping by ddd-crew (⭐633)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -197,13 +216,13 @@
 
 
 
-## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Websites
 
 *   [all AI news](https://allainews.com/)
 
-## [12. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 

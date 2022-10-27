@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [repman.io](https://repman.io) & [repman-io/repman (⭐428)](https://github.com/repman-io/repman) - A Private PHP Package Repository Manager & Packagist Proxy.
 
-## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Logging
+
+*   [django-guid (⭐283)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+
+## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -28,13 +34,13 @@
 
 *   [Pocket Casts](https://www.pocketcasts.com/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://play.pocketcasts.com/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/au/app/pocket-casts/id414834813)
 
-## [4. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [5. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Other
 
 *   [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - Subreddit for FBA sellers.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
@@ -52,25 +58,25 @@
 
 *   [MoinMoin](https://moinmo.in/) - Advanced, easy to use and extensible WikiEngine with a large community of users. ([Source Code (⭐126)](https://github.com/moinwiki/moin-1.9)) `GPL-2.0` `Python`
 
-## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
 *   [Wokwi Elements (⭐104)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [bayeso (⭐70)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Videos
 
 *   [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -100,13 +106,13 @@
 
 
 
-## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Minesweeper (⭐23)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 

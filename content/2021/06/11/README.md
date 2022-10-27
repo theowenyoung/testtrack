@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,31 +29,37 @@
 
 *   [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
 
-## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-dts (⭐446)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
 *   [Synth (⭐935)](https://github.com/getsynth/synth) - Open Source test data generator.
 
-## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat hunting
 
 *   [Threat Bus (⭐228)](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
 
-## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
 *   [Beekeeper Studio (⭐12k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [michaelbull/kotlin-result (⭐688)](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Graphic Displays
 
@@ -67,7 +73,7 @@
 
 *   [corporaexplorer](https://kgjerde.github.io/corporaexplorer/) - Dynamic exploration of text collections
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Snippet / Diagnostics
 
@@ -89,7 +95,7 @@
 
 *   [mhartington/formatter.nvim (⭐649)](https://github.com/mhartington/formatter.nvim) - A format runner for Neovim written in Lua.
 
-## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Long-read Assembly / Tools
 
@@ -98,7 +104,7 @@
 *   **[hifiasm (⭐292)](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
 *   **[wtdbg2 (⭐456)](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
-## [11. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [12. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Tools
 

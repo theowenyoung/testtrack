@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13 - Jun 19, 2022
 
-47 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,7 +47,13 @@
 
 *   [MovieLab (⭐50)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Tools / Ironsworn
+
+*   [Starforged Sectors Discord Bot (⭐0)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
+
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -66,7 +72,7 @@
 
 *   [Donators from Gitcoin](https://gitcoin.co/grants/5980/about-rss?tab=contributions)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -138,19 +144,19 @@
 
 *   [bruit-io (⭐60)](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
 
-## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
 *   [Tim Roughgarden. Foundations of Blockchains](https://timroughgarden.github.io/fob21/) - The science and technology of blockchain protocols and the applications built on top of them, with an emphasis on fundamental principles rather than specific protocols. - See also [Lecture Videos](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
 *   [tiny-routes (⭐7)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### RPC
 
@@ -158,13 +164,13 @@
 *   [CoreRPC (⭐69)](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
 *   [BloomRPC (⭐8.7k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
 *   [UTM](https://mac.getutm.app/) - UTM is an easy-to-use GUI for QEMU and can run ARM64, x64 and other VMs on M1 Macs. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/utmapp/UTM)
 
-## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Troubleshooting / Easier sharing of deep learning models and demos
 
@@ -176,13 +182,13 @@
         *   You can put models in containers with just Python and YAML.
     *   There's an API for Replicate to run predictions for you
 
-## [14. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [15. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Others
 
 *   [Auto-QChem (⭐48)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 
-## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Security
 
@@ -192,7 +198,13 @@
 *   [WhatWeb (⭐4.2k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
-## [16. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [17. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Photo / Image
+
+*   [react-photo-album (⭐81)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+
+## [18. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
@@ -206,19 +218,73 @@
 
 *   [Common Readme (⭐364)](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
 *   [scicloj.ml (⭐127)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
-## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [20. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+
+### Game Engines
+
+*   ### Awesome Collections
+    *   📚 [CoolEngines (⭐13)](https://github.com/JohnClarking/CoolEngines) - Awesome list for open source graphic & game engine.
+    *   📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
+*   ### Commercial
+    *   💰 [AppGameKit Studio](https://www.appgamekit.com/studio) - Easy, quick and powerful programming.
+    *   💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
+    *   💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. \[[Awesome Construct (⭐50)](https://github.com/ConstructCommunity/awesome-construct#readme)]
+    *   💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
+    *   💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
+    *   💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
+    *   💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
+    *   💸 [NeoAxis](https://www.neoaxis.com) [:octocat: (⭐74)](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
+    *   💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat: (⭐231)](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
+    *   💸 [PlayCanvas](https://playcanvas.com) [:octocat: (⭐7.8k)](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. \[[Awesome PlayCanvas (⭐172)](https://github.com/playcanvas/awesome-playcanvas#readme)]
+    *   💸 [ShiVa](https://shiva-engine.com) - 3D game and application development suite.
+    *   💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. \[[Developer Website](http://fireflytech.org)]
+    *   💸 [Stencyl](https://www.stencyl.com/) [:octocat: (⭐169)](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
+
+### Learning
+
+*   ### Engine Development
+    *   #### Blog Articles
+        *   📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
+        *   📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
+    *   #### Books
+        *   📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
+*   ### Game Development
+    *   #### Awesome Collections
+        *   📚 [Awesome Gamedev (⭐1.8k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free resources for making games.
+        *   📚 [GameDev-Resources (⭐2.7k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
+        *   📚 [Magictools (⭐10k)](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
+        *   🌎 [Open Source Libraries](https://opensourcelibs.com) - Massive collection of the world's best open source software.
+    *   #### Books
+        *   📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
+        *   📚 [Game Programming Patterns](https://gameprogrammingpatterns.com) - Patterns found in games that make code easier to understand.
+    *   #### Developer Portals
+        *   🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
+        *   🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
+        *   🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
+*   ### Graphical User Interface
+    *   📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
+*   ### Programming
+    *   📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
+    *   🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
+    *   📚 [Every Programmer Should Know (⭐64k)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
+    *   📚 [Games of Coding (⭐1.5k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+    *   🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
+    *   📚 [Learn to Program (⭐2.6k)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
+    *   📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated once a month.
+
+## [21. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 
 *   [Modeling Inter-Signal Arrival Times for Accurate Detection of CAN Bus Signal Injection Attacks](https://dl.acm.org/citation.cfm?id=3064816)
 
-## [19. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [22. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Programming Language
 
@@ -228,7 +294,7 @@
 
 *   [Awesome Quality Assurance Roadmap (⭐1.2k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
 
-## [20. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [23. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### FRAME Pallets
 
@@ -238,31 +304,201 @@
 
 *   [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - A toml parser and checker to avoid common errors in Substrate projects.
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+- : [Bold (Bridge Design System)](https://bold.bridge.ufsc.br/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐60)](https://github.com/laboratoriobridge/bold)
+
+
+- : [Bolt Design System](https://boltdesignsystem.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐262)](https://github.com/boltdesignsystem/bolt)
+
+
+- : [Brighte Spark Design System](https://spark.brighte.com.au/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐24)](https://github.com/Brighte-Labs/spark-web)
+
+
+- : [BuzzFeed Solid](https://solid.buzzfeed.com/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐133)](https://github.com/buzzfeed/solid)
+
+
+- : [Cloudflare](https://cloudflare.github.io/cf-ui/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐1.3k)](https://github.com/cloudflare/cf-ui)
+
+
+- : [eBay Skin](https://ebay.github.io/skin/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐159)](https://github.com/eBay/skin)
+
+
+- : [Elastic UI Framework](https://elastic.github.io/eui/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐5.4k)](https://github.com/elastic/eui)
+
+
+- : [Enigma Boundless](https://boundless.js.org/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐236)](https://github.com/enigma-io/boundless)
+
+
+- : [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐14k)](https://github.com/microsoft/fluentui)
+
+
+- : [Foundation](https://get.foundation/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐29k)](https://github.com/foundation/foundation-sites)
+
+
+- : [Louder Than Ten Manual](https://www.louderthanten.com/manual)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 
+
+  Source code \*: 
+
+
+- : [Mail.ru Group Paradigm](https://design.mail.ru/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: 
+
+
+- : [Sky Toolkit](https://www.sky.com/toolkit)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐133)](https://github.com/sky-uk/toolkit)
+
+
+
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Actionsflow](https://actionsflow.github.io/docs/) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. ([Source Code (⭐2.6k)](https://github.com/actionsflow/actionsflow)) `MIT` `Docker/Nodejs`
 
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Domain and IP Research / Telegram
+
+*   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
+
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
 *   [Harbeth (⭐148)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
-## [23. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Elm
+
+*   [elm\_vite\_tailwind\_template (⭐8)](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-optimizer (⭐9)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
+*   [vite-plugin-esmodule (⭐11)](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
+
+### Frameworks / Community
+
+*   [Rakkas (⭐704)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react](https://img.shields.io/badge/-React-4ab2cf)
+
+### Open Source / Community
+
+*   [Nhost (⭐4.6k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+
+## [29. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IO / ADC
 
 *   [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 ADC/DAC, I2C interface.
 
-## [24. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [30. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [Who's That Pokémon? (⭐0)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
 
-## [25. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Email
 
@@ -276,7 +512,7 @@
 
 *   [gotemplate.io](https://gotemplate.io/) - Online tool to preview `text/template` templates live.
 
-## [26. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [32. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -329,7 +565,7 @@
 *   [HomeSpan (⭐627)](https://github.com/HomeSpan/HomeSpan) - A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.
 *   [LedFx (⭐706)](https://github.com/LedFx/LedFx) - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
 
-## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -341,19 +577,19 @@
 *   [paxton (⭐0)](https://github.com/p1xt4n/ohmyzsh-theme-paxton) - Inspired by powerline. Includes segments for `git` branch, time, last command exit status and current directory. Requires a powerline-compatible font.
 *   [yellow-sea-diamonds (⭐0)](https://github.com/jimratliff/yellow-sea-diamonds-zsh-theme) - Includes decorations for `git` status, current directory, active python virtual environment, and the exit status of the last command run.
 
-## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [34. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼 [Tails Devtools (⭐137)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.
 
-## [29. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [35. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
@@ -370,7 +606,7 @@
 
 *   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐102)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -398,19 +634,19 @@
 *   [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
 *   [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
 
-## [32. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [38. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Security (art. 32)
 
 *   [Anonymisation, pseudonymisation and privacy enhancing technologies guidance](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
-## [33. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [39. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
 
-## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -425,19 +661,19 @@
 *   [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-3.aspx) - June 8, 2022 - A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3. [Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx).
 *   [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx) - February 17, 2022 - This article shows how to create a full-stack web application using Blazor WebAssembly and GraphQL with SQL Server as our database.
 
-## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [Cyclops (⭐62)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
 
-## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [42. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Services / Cloud robotics
 
 *   [robolaunch](https://www.robolaunch.io/)
 
-## [37. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [43. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Reading
 
@@ -445,20 +681,20 @@
 
     <img src="https://github.com/brianseidman/scriptable-pocket-widget/raw/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
 
-## [38. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [44. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Related / Other
 
 *   [How They Load Test (⭐17)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
 *   [Load Testing Toolkit (⭐70)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
-## [39. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Screen 13 (⭐87)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 
-## [40. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -476,7 +712,7 @@
     *   [Vulkan-WSIWindow (⭐100)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
     *   [Screen 13 (⭐87)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
 
-## [41. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [47. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -494,7 +730,7 @@
 
 *   [Remult (⭐1.4k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
-## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -504,13 +740,19 @@
 
 *   [m-demare/attempt.nvim (⭐56)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
-## [43. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Networking
 
 *   [SNMP (⭐14)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
-## [44. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [diod (⭐61)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+
+## [51. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -525,19 +767,19 @@
 
 *   [reflex (⭐25)](https://github.com/Industrial/reflex) - React Framework for Deno and Oak.
 
-## [45. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [52. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Camera
 
 *   [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [Touca (⭐108)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
-## [47. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [54. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Installing
 

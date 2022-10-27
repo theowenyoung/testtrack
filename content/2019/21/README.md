@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27 - Jun 02, 2019
 
-48 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -272,19 +272,25 @@
 
 *   [Eric Evans DDD Cargo Sample (⭐781)](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
 
-## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Telegram Piracy / Third Party Hosts
+
+*   [Piracy Links Portal](https://t.me/PiracyLinks) Official invite links portal for piracy groups & channels.
+
+## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### E-Commerce and Payments
 
 *   [SquareConnect (⭐41)](https://github.com/square/connect-ruby-sdk) - Square's SDK for payments and other Square APIs.
 
-## [16. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / VIM
 
 *   [Unstable language server for neovim](https://gist.github.com/meirish/639e6def0f352f63fef662dce3ca2f98)
 
-## [17. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [18. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -295,32 +301,132 @@
 
 *   [Streaming Shared Preferences (⭐238)](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
 
-## [18. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [19. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
 *   [Serverless Instant Checkout Links with Square](https://developer.squareup.com/blog/serverless-instant-checkout-links-with-square/) - An example showing how to build serverless instant checkout links backed by Square APIs.
 
-## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Sympy](https://www.sympy.org/)
 *   [Sagemath](http://www.sagemath.org/)
 
-## [20. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [21. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Vue Enterprise Boilerplate   [↗](https://awesomestacks.dev/vue-enterprise-boilerplate) / Resources
 
 *   [Vuex](https://vuex.vuejs.org/) - [🐙 (⭐28k)](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
 
-## [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
 
-## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [23. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+
+### Books and Resources
+
+*   [The Bash-Hackers Wiki](http://wiki.bash-hackers.org/doku.php) - Human-readable documentation of any kind about GNU Bash
+*   [Bash beginner's mistakes](http://wiki.bash-hackers.org/scripting/newbie_traps) (by the Bash-Hackers Wiki)
+*   [Bash Guide](http://mywiki.wooledge.org/BashGuide) - A bash guide for beginners. (by Lhunath)
+*   [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath)
+*   [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them
+*   [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual
+*   [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
+*   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
+*   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) (by Machtelt Garrels)
+*   [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
+*   [bash-handbook (⭐5.1k)](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply
+*   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
+*   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+*   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+*   [learnyoubash (⭐663)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
+
+### Command-Line Productivity
+
+*   [aliases (⭐439)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
+*   [bashhub (⭐1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+*   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+*   [commacd (⭐334)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+*   [has (⭐473)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [hstr (⭐3.3k)](https://github.com/dvorka/hstr) - Bash History Suggest Box
+*   [qfc (⭐548)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+
+### Customization
+
+*   [bash-git-prompt (⭐6.3k)](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
+*   [bash-powerline (⭐839)](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
+*   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
+*   [git-prompt (⭐324)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
+*   [gittify (⭐60)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+*   [liquidprompt (⭐4.2k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+*   [mysql-colorize (⭐91)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
+*   [oh-my-git (⭐3.6k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
+*   [progress-bar.sh (⭐202)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif).
+*   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
+*   [bash-sensible (⭐1.9k)](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
+
+### Data
+
+*   [BigBash (⭐269)](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
+
+### For Developers
+
+*   [bocker (⭐10k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+*   [git-sh (⭐725)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+
+### Downloading and Serving
+
+*   [balls (⭐838)](https://github.com/jneen/balls) - Bash on Balls
+*   [bashttpd (⭐1.4k)](https://github.com/avleen/bashttpd) - A web server written in Bash
+*   [Dropbox-Uploader (⭐6.4k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
+*   [ngincat (⭐164)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+*   [xiringuito (⭐1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors
+
+### Applications
+
+*   [bashblog (⭐1.4k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
+*   [pushbullet-bash (⭐227)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+*   [todo.sh (⭐5.1k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
+*   [cheapci (⭐176)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
+
+### Games
+
+*   [bash2048 (⭐849)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+*   [minesweeper (⭐48)](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+*   [solitaire](https://opensource-usability.blogspot.com/2016/10/solitaire-in-bash-script.html) - Bash implementation of solitaire
+
+### Website
+
+*   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos (⭐191)](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
+*   [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands
+
+### Shell Package Management
+
+*   [bash-it (⭐13k)](https://github.com/Bash-it/bash-it) - A community Bash framework
+*   [basher (⭐971)](https://github.com/basherpm/basher) - A package manager for shell scripts
+*   [bpkg (⭐1.7k)](https://github.com/bpkg/bpkg) - A lightweight bash package manager
+*   [homeshick (⭐1.9k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
+
+### Community
+
+*   [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow
+*   [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
+*   [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
+*   [#bash](https://webchat.freenode.net/?channels=bash) - IRC channel on freenode. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
+
+## [24. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Books
+
+*   :books: :fire: [TypeScript Quickly](https://www.manning.com/books/typescript-quickly) Learn modern TypeScript and build your own blockchain; Supporting code samples :octocat:[yfain/getts (⭐106)](https://github.com/yfain/getts)
+*   :books: [Angular Development with Typescript, Second Edition (MEAP October 2017)](https://www.manning.com/books/angular-development-with-typescript-second-edition) Angular Development with Typescript, Second Edition is an intermediate-level tutorial that introduces Angular and TypeScript to developers comfortable with building web applications using other frameworks and tools. (by Yakov Fain and Anton Moiseev; Manning)
+
+## [25. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
@@ -330,26 +436,26 @@
 
 *   [Keycloak Dev Bookmarks](http://bookmarks.dev/search?q=keycloak) - Use the tag [keycloak](https://www.bookmarks.dev/tagged/keycloak)
 
-## [23. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [26. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
 *   [tqdm (⭐23k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and iterables.
 
-## [24. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [27. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
 *   [CMakeCooking](https://github.com/hakuch/CMakeCooking) - Flexible development environments for CMake projects with external dependencies
     . [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
-## [25. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [28. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Python
 
@@ -361,7 +467,7 @@
 
 *   [cl-gearman (⭐22)](https://github.com/taksatou/cl-gearman) - a library for the [Gearman](http://gearman.org/) distributed job system. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
@@ -388,7 +494,7 @@
 
 *   [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 
-## [28. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [31. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -398,7 +504,7 @@
 
 *   [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull requests
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Firebase
 
@@ -412,45 +518,45 @@
 
 *   [ATGValidator (⭐51)](https://github.com/altayer-digital/ATGValidator) - Rule based validation framework with form and card validation support for iOS.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32l0xx-hal`](https://crates.io/crates/stm32l0xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l0xx-hal.svg)
     *   HAL implementation for the the STMicro STM32L0xx family of microcontrollers
 
-## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
 *   [PixelKit](http://pixelkit.net/) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 
-## [32. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [35. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Related Awesome Lists / Mocking
 
 *   [Awesome Annotation Processing (⭐324)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
-## [33. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Capturing Audio Output During Testing: Part 1](https://appiumpro.com/editions/69)
 *   [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
 
-## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [37. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Tockler (⭐625)](https://github.com/MayGo/tockler) - Tracks your time.
 
-## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [38. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [DeleteFB (⭐2.7k)](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
 
-## [36. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
@@ -498,7 +604,7 @@
 *   [rOpenHealth](https://github.com/rOpenHealth) Public health data
 *   [rOpenSci](https://ropensci.org) Open science
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
@@ -520,7 +626,7 @@
 
 *   [Drogon (⭐8.1k)](https://github.com/an-tao/drogon) - A C++14/17 based, high-performance HTTP application framework. \[MIT]
 
-## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [41. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -531,7 +637,7 @@
 
 *   [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 
-## [39. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [42. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Official resources
 
@@ -564,7 +670,13 @@
 
 *   [GitHub Design System](https://primer.github.io/storybook/)
 
-## [40. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [43. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Architecture
+
+*   [*Design Patterns by Tutorials* by Joshua Greene, Jay Strawn](https://store.raywenderlich.com/products/design-patterns-by-tutorials)
+
+## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -588,20 +700,20 @@
 
 *   [Product Management (⭐860)](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
-## [41. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [45. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@antirez](https://github.com/antirez), [Redis (⭐57k)](https://github.com/antirez/redis)
     *   "The struggles of an open source maintainer" ([post](http://antirez.com/news/129))
 *   [@feross](http://github.com/feross), [WebTorrent (⭐27k)](https://github.com/webtorrent/webtorrent)
     *   "Recap of the `funding` experiment" ([post](https://feross.org/funding-experiment-recap/))
     *   "What I learned from WebTorrent: Lessons learned from starting and running a P2P open source project" ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent))
 
-## [42. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [46. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### News
 
 *   [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - A discussion of CircuitPython for the core developers of Python, PyCon 2019.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
@@ -611,32 +723,32 @@
 
 *   [spectator](https://gitlab.com/arctic-fox/spectator) - Feature rich spec framework that uses the modern expect syntax
 
-## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [48. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Styling / Navigation Demos
 
 *   [react-native-tailwindcss (⭐543)](https://github.com/TVke/react-native-tailwindcss) - A react native styling system based on TailwindCSS.
 
-## [45. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [49. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
 *   [LaraShout](https://larashout.com/)
 
-## [46. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [50. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Frameworks / Angular
 
 *   [Web Components With Angular Ivy In 6 Steps](https://www.softwarearchitekt.at/post/2019/05/18/web-components-custom-elements-with-angular-ivy-in-6-steps.aspx)
 
-## [47. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [51. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [ipfs-deploy (⭐1.1k)](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 *   [ipfs-video-gateway](https://ipfs.video) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface. [Source (⭐35)](https://github.com/bneijt/ipfs-video-gateway)
 
-## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 

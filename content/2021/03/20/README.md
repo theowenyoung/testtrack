@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -87,7 +87,13 @@
 *   [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.
 *   [ServiceNow Developer Program](https://developer.servicenow.com/) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*iOS App Distribution & Best Practices* by Keegan Rush, Pietro Rea](https://www.raywenderlich.com/books/ios-app-distribution-best-practices/v1.0.ea1)
+
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 

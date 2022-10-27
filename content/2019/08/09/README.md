@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -440,7 +440,13 @@
 *   [Ember runloop handbook (⭐370)](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember.js runloop.
 *   [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember.js front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
-## [5. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### SwiftUI
+
+*   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
+
+## [6. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Controllers
 
@@ -450,7 +456,7 @@
 
 *   [Shape Drawer (⭐146)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 

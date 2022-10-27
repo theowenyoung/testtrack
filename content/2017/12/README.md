@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20 - Mar 26, 2017
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -546,7 +546,19 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Fuck off as a Service (⭐2.9k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
-## [45. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [45. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### React Native
+
+- Name: [Civis Face](https://github.com/civisanalytics/CivisFace)
+
+  Description: An app for exploring facial recognition using react-native, AWS Rekognition, and AWS Polly.
+
+  Link: [Demo](https://www.youtube.com/watch?v=hBKbCzUa5aA)
+
+
+
+## [46. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Tools / Third-Party Tools
 
@@ -560,7 +572,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by [Lee Zhi Eng](https://www.zhieng.com) [:octocat: (⭐94)](https://github.com/PacktPublishing/Qt5-C-GUI-Programming-Cookbook) - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.  The source code used in the book is available for free.
 
-## [46. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Resources / Custom Dialog
 

@@ -1,24 +1,30 @@
 # Awesome List Updates on Sep 29, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Educational
+
+*   [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
 *   [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Ticketing
 
 *   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐89)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 
-## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Authentication & Identity
 
@@ -29,7 +35,7 @@
 *   [Statuspal](https://statuspal.io) - Public/Private status pages for services with integrations.
 *   [instatus](https://instatus.com) - Minimalist Jamstack status page.
 
-## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### 0 - Meta-Lists
 
@@ -553,7 +559,7 @@
 
 *   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
-## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
@@ -564,19 +570,19 @@
 *   📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Open-source component library built with Tailwind CSS.
 *   🧩 [Tailwind Datepicker (⭐98)](https://github.com/themesberg/tailwind-datepicker) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [HPParallaxHeader (⭐38)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
-## [7. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [8. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [Application Containers: Kubernetes and Docker from Scratch](https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Security Tools / File Sharing
 
@@ -590,6 +596,12 @@
 
 *   [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github\&utm_medium=referral\&utm_campaign=githubproject) - Your New Favorite Free Ad Blocker for macOS and iOS: Stop seeing annoying ads in Safari. Open websites faster. Browse the web more safely.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1491889901?pt=444218\&ct=GitHub\&mt=8)
 *   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8) - All-in-one Disk Cleaning Manager: Clean up your Mac and optimize its performance. Run a quick scan now to verify what's taking up your storage. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8)
+
+## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Security Education Courses / Reverse Engineering Tools
+
+*   [Roppers Academy Training](https://www.hoppersroppers.org/training.html) - Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF.
 
 ---
 

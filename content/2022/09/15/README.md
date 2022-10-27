@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,25 +80,63 @@
 
 *   [Elixir Foundation](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT) - Learn Elixir by building a practical example. Learn how GenServer, Agents and many other elixir primitives work.
 
-## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-zip-pack (⭐1)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+
+## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Community / Talk
 
 *   [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [Vitectron (⭐12)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
-## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Run Elm / Outdated Boilerplates
 
 *   [Elm Watch (⭐86)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### File Search
+
+*   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly avilable in a Google Drive.
+
+### People Investigations / Telegram
+
+*   [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
+*   [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
+
+### Job Search Resources / Telegram
+
+*   [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
+
+### Domain and IP Research / Telegram
+
+*   [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
+*   [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
+*   [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
+*   [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+*   [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
+*   [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
+
+### VPN Services / Telegram
+
+*   [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
+
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -108,13 +146,13 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/) - September 14, 2022 - .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [7. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [9. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Books / Hellonext
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Relational Database Drivers
 

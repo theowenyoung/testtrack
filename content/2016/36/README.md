@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05 - Sep 11, 2016
 
-37 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -240,13 +240,92 @@
 
 *   [fpgaboy (⭐83)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
-## [24. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [24. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+
+### Stock
+
+*   [Illusion](http://illusion.scene360.com/)
+*   [Unsplash](https://unsplash.com/)
+*   [Stokpic](http://stokpic.com/)
+*   [Death to Stock](http://deathtothestockphoto.com/)
+*   [imcreator](http://imcreator.com/)
+*   [Little Visuals](http://littlevisuals.co/)
+
+### Color
+
+*   [Colordot](https://color.hailpixel.com/)
+*   [Color Claim](http://colorclaim.tumblr.com/)
+*   [Color Code](http://www.colourco.de/)
+*   [Nippon Colors](http://nipponcolors.com/)
+*   [ColorDrop](https://colordrop.io/)
+
+### Icon and Logo
+
+*   [icon54](https://icon54.com)
+*   [icons8](https://icons8.com/)
+*   [icon dock](http://icondock.com/)
+*   [FLATICON](http://www.flaticon.com/)
+*   [logofaves](http://logofaves.com/)
+*   [Logo of the day](http://logooftheday.com/)
+*   [Game Icons](http://game-icons.net/)
+*   [Material Design Icons](https://materialdesignicons.com/)
+
+### Styleguide and Branding
+
+*   [Mozilla](https://www.mozilla.org/en-US/styleguide/)
+*   [Mailchimp](http://ux.mailchimp.com/patterns/)
+*   [Yelp](https://www.yelp.com/styleguide)
+*   [Dropbox](https://www.dropbox.com/branding)
+*   [Spotify](https://developer.spotify.com/design/)
+*   [Ubuntu](http://design.ubuntu.com/)
+*   [Channel4](http://styleguides.channel4.com/E4_StyleGuide.pdf)
+*   [Twitter](https://brand.twitter.com/)
+*   [Nike Pro](http://manualcreative.com/project/nike-pro-services/)
+*   [Medium](https://www.behance.net/gallery/7226653/Medium-Brand-Development)
+*   [Linkedin](https://brand.linkedin.com/)
+*   [Red Cross](http://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf)
+*   [buffer](https://buffer.com/style-guide)
+*   [VSCO](http://vsco.co/id/journal/p/1)
+*   [WhatsApp](https://www.whatsappbrand.com/)
+
+### Tutorial
+
+*   [CreativeLive](https://www.creativelive.com/)
+*   [DevDojo](https://devdojo.com/)
+
+### Book
+
+*   [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books\&ie=UTF8\&qid=1473096298\&sr=1-2\&keywords=Universal+Methods+of+Design)
+*   [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/ref=pd_sim_14_3?ie=UTF8\&psc=1\&refRID=2NG71RWR7MKGXE1B8GZ3)
+*   [Don't Make Me Think](https://www.amazon.com/gp/product/0321965515/ref=as_li_qf_sp_asin_il_tl?ie=UTF8\&camp=1789\&creative=9325\&creativeASIN=0321965515\&linkCode=as2\&tag=office03a70-20\&linkId=PF4EASLP4EM62N73)
+*   [About Face: The Essentials of Interaction Design](https://www.amazon.com/gp/product/1118766571/ref=as_li_qf_sp_asin_il_tl?ie=UTF8\&camp=1789\&creative=9325\&creativeASIN=1118766571\&linkCode=as2\&tag=office03a70-20\&linkId=I5TMKUXHZ43SHHPE)
+*   [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830)
+*   [Simple and Usable Web, Mobile, and Interaction Design](https://www.amazon.com/gp/product/0321703545)
+*   [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
+*   [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702)
+*   [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+*   [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
+*   [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
+*   [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
+
+### Conference and Festival
+
+*   [The AIGA Design Conference](http://designconference.aiga.org/#!/)
+*   [Interaction](http://interaction16.ixda.org/)
+*   [Service Design Days](http://servicedesigndays.com/)
+
+### Podcast
+
+*   [99% INVISIBLE](http://99percentinvisible.org/)
+*   [Adventures in Design](http://www.adventuresindesignmarket.com/)
+
+## [25. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
-## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Ruby Clients
 
@@ -256,7 +335,7 @@
 
 *   [resty (⭐6.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Label / Barcode
 
@@ -266,7 +345,7 @@
 
 *   [Switch (⭐146)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
 
-## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Template Engine
 
@@ -277,7 +356,7 @@
 *   Spacemacs
     *   [crystal-spacemacs-layer (⭐12)](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -288,13 +367,13 @@
 *   [Limebean](https://nick-lucas.github.io/LimeBean/) - Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
 *   [SqlFu (⭐229)](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
 
-## [29. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
 *   [SwiftFuse](https://github.com/YugoCode/SwiftFuse/blob/master/README.md) - Tutorial on how to use Swift with Fuse.
 
-## [30. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [31. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
@@ -308,7 +387,7 @@
 
 *   [CAN Simulator (⭐57)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐154)](https://github.com/carloop/simulator)
 
-## [31. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [32. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Educational / Graphs and Visualization
 
@@ -318,7 +397,7 @@
 
 *   [Farm Hack](http://farmhack.org/tools) - A project for producing open farm tools.
 
-## [32. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Hamburg
 
@@ -345,13 +424,13 @@ Webpage: <http://www.deysbreeker.nl/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------- |
 | ✔    | ✔     | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM |
 
-## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [34. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 
-## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -373,7 +452,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 *   [Periodic Table of Network Centrality](http://schochastics.net/sna/periodic.html) - Interactive periodic table of centrality indices.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
@@ -396,13 +475,13 @@ Webpage: <http://www.deysbreeker.nl/>
 
 *   [silent\_video (⭐12)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. \[Own LGPL or GPL]
 
-## [37. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [38. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Videos / OpenOffice
 

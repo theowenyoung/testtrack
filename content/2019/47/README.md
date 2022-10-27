@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25 - Dec 01, 2019
 
-48 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,45 +31,78 @@
 
 *   [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework (⭐20k)](https://github.com/apache/incubator-mxnet)
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Custom Scrollbar
+
+*   [react-shadow-scroll (⭐26)](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
+
+### Boilerplate / Mouse Events
+
+*   [create-react-dependency (⭐27)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
+
+## [6. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   [Getting started with Deno](https://dev.to/wuz/getting-started-with-deno-e1m)
 *   [Write a small API using Deno](https://dev.to/kryz/write-a-small-api-using-deno-1cl0)
 
-## [6. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
+## [7. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/week/README.md)
 
 ### U.S. West / University of California, Irvine
 
 *   [Admission to UCI Cognitive Sciences Ph.D. program. GRE general test required to: 4859](https://www.cogsci.uci.edu/graduate/program.php#apply)
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
 *   [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
 
-## [8. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [9. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### Germany / Düsseldorf, Berlin and Munich
 
 *   [Beyond tellerrand](https://beyondtellerrand.com) - An affordable event about web design, development, creativity, design and much more with multiple events throughout the year.
 
-## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Realizers
 
 *   [Genl (⭐22)](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 *   [JSrealB (⭐17)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
 
-## [10. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [prelude.ts (⭐355)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+
+### Typescript Project Starters
+
+*   :octocat: [Next-Postgres-With-Typescript (⭐18)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
+
+### Types / Playground
+
+*   [ts-types-utils (⭐55)](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
+
+### Back-end API / Playground
+
+*   :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
+
+### Badges / Chrome Extensions
+
+*   [TypeScript Badges (⭐39)](https://github.com/ellerbrock/typescript-badges/)
+    [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
+
+## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Blogs / Other
 
 *   [Nikita Sobolev](https://sobolevn.me/)
 
-## [11. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [13. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Data Structures and Algorithms
 
@@ -87,18 +120,18 @@
 
 *   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
 
-## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Extensions
 
 *   [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 
-## [13. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [15. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@pgbovine](https://github.com/pgbovine), [Python Tutor](https://github.com/pgbovine/OnlinePythonTutor)
     *   "Python Tutor Software Development Philosophy" ([video](https://www.youtube.com/watch?v=sVtXLdBRfyE))
     *   "Ten years and nearly ten million users: my experience being a solo maintainer of open-source software in academia" ([post](http://pgbovine.net/python-tutor-ten-years.htm))
 
-## [14. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [16. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Research Overviews
 
@@ -121,13 +154,13 @@
 *   [Zaklab](http://zaklab.org) - Group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics (Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below).
 *   [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) - Led by Drs. George Hripcsak and Noémie Elhadad.
 
-## [15. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [17. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Dashboards / Custom Cards
 
 *   [RGB Light Card (⭐323)](https://github.com/bokub/rgb-light-card) - Colorful buttons to control your RGB Lights.
 
-## [16. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [18. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
@@ -146,20 +179,20 @@
 
 *   [Charset Enigma (⭐9)](https://github.com/ms301/charset-enigma). `[Delphi]` Delphi charset detector Community Edition
 
-## [17. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [19. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### High Availability / Miscellaneous
 
 *   [Cortex (⭐4.9k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long-term Prometheus.
 *   [Thanos (⭐11k)](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 
-## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### API / Runner
 
 *   [Bearer.sh (⭐23)](https://github.com/Bearer/bearer-js) - Universal API client that supports OAuth / API Key / Basic / etc.
 
-## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [21. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
@@ -173,7 +206,7 @@
 
 *   [Earth (⭐1.2k)](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 
-## [20. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [22. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Crypto
 
@@ -204,7 +237,7 @@
 
 *   [The bug bounty program that changed my life](http://10degres.net/the-bug-bounty-program-that-changed-my-life/) - Written by [Gwen](http://10degres.net/).
 
-## [21. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
+## [23. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
 
 ### Unofficial Resources / Personal Home Pages
 
@@ -221,43 +254,43 @@
 
 *   [GoSplunk](https://gosplunk.com/) - Search Engine for Splunk Queries split by sourcetype and use-case.
 
-## [22. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [24. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Honeypots / Supply chain security
 
 *   [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
 
-## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Domain Analysis / Other Resources
 
 *   [Spyse](https://spyse.com/) - subdomains, whois, realted domains, DNS, hosts AS, SSL/TLS info,
 
-## [24. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [26. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### CFP
 
 *   [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
 
-## [25. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [27. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 
-## [26. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [28. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
 
-## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [29. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Videos / Other Tools
 
 *   [Building a Complex Application with Web Components and LitElement](https://www.youtube.com/watch?v=x9YDQUJx2uw)
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
@@ -279,7 +312,7 @@
 
 *   [OEMentions (⭐48)](https://github.com/omar14/OEMentions) - An easy way to add mentions to uitextview like Facebook and Instagram.
 
-## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [31. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Refactoring
 
@@ -287,13 +320,13 @@
 *   [Bowler](https://pybowler.io/) - Safe code refactoring for modern Python.
 *   [Rope (⭐1.4k)](https://github.com/python-rope/rope) -  Rope is a python refactoring library.
 
-## [30. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [32. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / PyTorch
 
 *   [Catalyst (⭐3k)](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
-## [31. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [33. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
@@ -307,13 +340,13 @@
 
 *   [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint.
 
-## [32. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [34. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Philippine / Swift
 
 *   [Telegram](https://t.me/wavesDevPh) - Telegram Waves Developers Philippines.
 
-## [33. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [35. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Playlists
 
@@ -323,13 +356,13 @@
 
 *   [Elm Japan](https://elmjapan.org/)
 
-## [34. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [36. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / LaTeX Profile
 
 *   [LaTeXing (⭐77)](https://github.com/LaTeXing/LaTeXing) — an extension for which makes your life easier and more comfortable while creating your documents.
 
-## [35. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [37. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### WordPress / Essential Plugins
 
@@ -342,19 +375,19 @@
 *   [WPGraphQL Lock (⭐21)](https://github.com/valu-digital/wp-graphql-lock) - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
 *   [QL Search (⭐11)](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL.
 
-## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
 *   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐3.6k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
-## [37. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [39. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [Heedy (⭐353)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
-## [38. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [40. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Other / unknown licence
 
@@ -362,7 +395,7 @@
 *   [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada\_KALINDA is a sort of Mac Plus like OS written in Ada95.
 *   [cxos (⭐34)](https://github.com/ajxs/cxos) - Ada Operating System development example.
 
-## [39. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [41. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / General Purpose
 
@@ -478,7 +511,7 @@
 *   [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
 *   [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 
-## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [42. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Books
 
@@ -486,7 +519,7 @@
 *   [Bible.Js CLI (⭐262)](https://github.com/BibleJS/BibleApp) - Bible.
 *   [SpeedRead (⭐57)](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -516,7 +549,7 @@
     implementation of the Python's os.path module. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   [mmap (⭐26)](https://github.com/Shinmera/mmap) - Portable mmap file memory mapping utility library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [42. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [44. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -543,7 +576,6 @@
 *   [Immer (⭐24k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
 *   [DerivableJS (⭐512)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
 *   [collectable (⭐257)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-*   [prelude.ts (⭐355)](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
 *   [TSTL (⭐505)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 
 ### Libraries / Algebraic Data Types
@@ -555,7 +587,7 @@
 *   [Pratica (⭐314)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
 *   [Tifi](https://github.com/mobily/tifi) - Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both `undefined` and `null`. Tifi is inspired by the OCaml/Reason utilities for the option data type. +CT, +TS.
 
-## [43. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [45. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -569,26 +601,78 @@
 
 *   [Radio Nukular](https://www.radionukular.de/) - Mainly (but not limited to) movies, video games and comics.
 
-## [44. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf) :small\_orange\_diamond:<sup>PDF</sup> - The serverless computing abstraction exposes several low-level operational details that make it hard for programmers to write and reason about their code. This paper sheds light on this problem by presenting λ, an operational semantics of the essence of serverless computing.
 
-## [45. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [47. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 *   [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
-## [46. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [48. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Architecture
+
+*   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
+
+## [49. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 
-## [47. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [50. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Torrenting
+
+*   [magnetico (⭐2.8k)](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
+
+### Open Directories / Free Indexers
+
+*   [andesite (⭐76)](https://github.com/nektro/andesite) Easily manage access to your open directory through OAuth2
+*   [OpenDirectoryDownloader (⭐799)](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [Varken (⭐1k)](https://github.com/Boerderij/Varken) Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend
+
+### Kodi / Third Party Hosts
+
+*   [Seren](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/f6ukyfr?utm_source=share\&utm_medium=web2x) :star2: Streaming addon which works with Premiumize and Real-Debrid to stream torrents with the appropriate provider package instantly, and behaves similarly to Netflix, with autoplay and Up Next integration
+*   [Recommended Addons - November 2019](https://www.reddit.com/r/Addons4Kodi/comments/dt4kg2/recommended_addons_november_2019/) Latest working Kodi addons compiled into one place
+*   [Gaia](https://gaiakodi.com/) Grants the ability to instantly watch high-quality files via cached torrents from Real-Debrid or Premiumize.
+
+### Gaming / Third Party Hosts
+
+*   [MachineGunnur/GOG-Games (⭐8)](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
+
+### Software / Third Party Hosts
+
+*   [/s/sjain\_guides](https://saidit.net/s/sjain_guides) Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more
+
+### Comicbooks / Third Party Hosts
+
+*   [Omnibus (⭐131)](https://github.com/fireshaper/Omnibus) Search for and download comics that are added to GetComics.info easily
+
+### IPTV and DVR / Third Party Hosts
+
+*   [iptv-org/iptv (⭐57k)](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world
+*   [fastocloud (⭐13)](https://github.com/fastogt/fastocloud) IPTV/Video cloud admin panel for servers
+
+### Telegram Piracy / Third Party Hosts
+
+*   [Raymond's Piracy Group](https://t.me/raymondfreesoftware) A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
+
+### Miscellaneous / Third Party Hosts
+
+*   [netflix-proxy (⭐3.4k)](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
+
+## [51. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
@@ -599,7 +683,7 @@
 
 *   [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 
-## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [52. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 

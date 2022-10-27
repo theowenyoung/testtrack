@@ -1,6 +1,6 @@
 # Awesome List Updates on May 05, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -127,7 +127,13 @@
 
 *   [NFStream (⭐864)](https://github.com/nfstream/nfstream): is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
-## [10. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Open Source / Community
+
+*   [Slidev (⭐23k)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
+
+## [11. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ### Components
 

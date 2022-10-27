@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 16, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,19 +40,33 @@
 
 *   [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - Answers the question »What is a Pure Function?« epicly.
 
-## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [MIT-2014-2015-YEARBOOK (⭐3)](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK)
+
+  Description: E-YearBook for 2014/2015 UNILAG MIT students
+
+  Link: [http://unilagmitfaces.ml](http://unilagmitfaces.ml/)
+
+  : 
+
+
+
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
 *   [Laraveles](http://laraveles.com/blog/) (ES)
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Third-party APIs
 
 *   [boto3 (⭐7.6k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 

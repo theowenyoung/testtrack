@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2017
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -156,13 +156,45 @@
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Stock
+
+*   [Raumrot](https://www.howtostartanllc.org/free-stock-photos/)
+
+### Color
+
+*   [Hello Color](http://jxnblk.com/hello-color/)
+*   [uiGradients](https://uigradients.com/)
+
+### Styleguide and Branding
+
+*   [Starbucks](https://www.starbucks.com/static/reference/styleguide/)
+*   [IBM](https://www.ibm.com/design/language/)
+*   [Atlassian](https://www.atlassian.design/)
+*   [Youtube](https://www.youtube.com/yt/about/brand-resources/)
+*   [Vimeo](https://press.vimeo.com/brand-guidelines)
+*   [Instagram](https://en.instagram-brand.com/)
+
+### Tutorial
+
+*   [greyscalegorilla](https://greyscalegorilla.com/)
+
+### Award
+
+*   [D\&AD](https://www.dandad.org/)
+
+### Conference and Festival
+
+*   [SemiPermanent](https://www.semipermanent.com)
+
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
 *   [gifu (⭐2.8k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
-## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [9. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Databases
 
@@ -192,7 +224,7 @@
 *   [JSON-populate (⭐142)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐598)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [9. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [10. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Development Tools / Code Editors
 
@@ -671,26 +703,26 @@
 *   [Localytics (⭐10)](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 *   [Testflight (⭐26)](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
-## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
 *   [Post-Incident Reviews: Learning from Failure for Improved Incident Responses](https://victorops.com/oreilly-post-incident-review/)
 
-## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [13. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
@@ -700,7 +732,13 @@
 
 *   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐7)](https://github.com/ComputerScienceHouse/keycloak-docker)
 
-## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [15. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
+
+## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
@@ -723,7 +761,7 @@
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

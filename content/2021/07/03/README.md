@@ -1,18 +1,24 @@
 # Awesome List Updates on Jul 03, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
 *   [simple\_rpc (⭐61)](https://github.com/kostya/simple_rpc) - RPC Server and Client for Crystal. Implements msgpack-rpc protocol
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -42,7 +48,7 @@
 
 
 
-## [3. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [4. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### TypeScript / More
 
@@ -56,13 +62,13 @@
 
 *   [Visual Studio Code API](https://code.visualstudio.com/api) section of [Official Documentation](https://code.visualstudio.com/docs)
 
-## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Networks
 
 *   [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
 
-## [5. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authentication / Multi-Factor
 
@@ -72,7 +78,7 @@
 
 *   [11 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) - Some basic tips on the login form.
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Engineering to Management Transition
 
@@ -110,7 +116,7 @@
 
 *   [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/) - “If you know what problem you're solving and you know how to solve it, a bureaucratic organization will do. Stick with what you know. If you're writing software, that's a generative activity. You need a high-resilience org chart. Fewer boxes, more flexibility.”
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Finance / Currencies
 
@@ -120,7 +126,13 @@
 
 *   [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - A multi-states US initiative to automate and standadize sales tax accounting and collection.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-jet-reboot (⭐197)](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
+
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 

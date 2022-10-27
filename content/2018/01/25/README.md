@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,18 @@
 
 *   [Laravel Enso (⭐1k)](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 
-## [5. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Academic Resources and Grey Literature / Telegram
+
+*   [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
+
+### Offline Browsing / Telegram
+
+*   [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
+*   [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
+
+## [6. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 

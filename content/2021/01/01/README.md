@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,6 +96,12 @@
 ### Helix
 
 *   [Sitecore Helix Examples (⭐72)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
+
+## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Models
+
+*   [django-mptt (⭐2.7k)](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 
 ---
 

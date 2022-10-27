@@ -1,18 +1,28 @@
 # Awesome List Updates on Feb 11, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vite-vue-tailwind-v3 (⭐4)](https://github.com/huibizhang/template-vite-vue-tailwind-v3) - Starter template for Vue3 + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+
+### Templates / React
+
+*   [vite-react-tailwind-v3 (⭐5)](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+
+## [2. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Related
 
 *   [Analytics without cookies](https://www.gocookieless.com/)
 
-## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [3. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Libraries / Go
 
@@ -49,7 +59,7 @@
 
 *   [ireasoning/MIB Browser](http://ireasoning.com/mibbrowser.shtml) - This tool allows users to load standard, proprietary MIBs, and even some mal-formed MIBs. It also allows them to issue SNMP requests to retrieve agent's data, or make changes to the agent. Free for personal use.
 
-## [3. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [4. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -67,37 +77,44 @@
 
 
 
-## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Web Exploitation / Web shells and C2 frameworks
+
+*   [Merlin (⭐4.1k)](https://github.com/Ne0nd0g/merlin) - Cross-platform post-exploitation HTTP/2 Command and Control server and agent written in Golang.
+*   [SharPyShell (⭐705)](https://github.com/antonioCoco/SharPyShell) - Tiny and obfuscated ASP.NET webshell for C# web applications.
+
+## [6. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
 *   [T3X](https://t3x.org/t3x/#t3x7) - A small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language by Nils M. Holm.
 
-## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
 *   [tmux-modal (⭐91)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
-## [6. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
 *   [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
 *   [gpanders/editorconfig.nvim (⭐218)](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin for Neovim written in Fennel.
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Languages and Environments
 
@@ -107,7 +124,7 @@
 
 *   [eslint-interactive (⭐113)](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 
-## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Quantum Complexity / Lecture Videos Playlists
 
@@ -117,13 +134,13 @@
 
 *   [Henry Yuen. The Complexity of Entanglement. Fall 2020](https://www.henryyuen.net/fall2020/complexity_of_entanglement_notes.pdf) - Focuses on cutting edge topics in quantum information that relate to Complexity of Entanglement. - see this [class](https://www.henryyuen.net/classes/fall2020/) also
 
-## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [PGMax (⭐58)](https://github.com/vicariousinc/PGMax) - A framework for building discrete Probabilistic Graphical Models (PGM's) and running inference inference on them via JAX. <img src="https://img.shields.io/github/stars/vicariousinc/pgmax?style=social" align="center">
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Authentication and OAuth
 
@@ -211,7 +228,7 @@
 
 *   [AnyCable](http://anycable.io) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Applications in AI
 

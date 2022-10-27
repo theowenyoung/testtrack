@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,13 @@
 *   [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
 *   [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 
-## [3. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Date / Time picker
+
+*   [react-datepicker2 (⭐224)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
+
+## [4. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md)
 
 ### SVG
 
@@ -104,7 +110,7 @@
 *   [Keyframer](http://alexberg.in/keyframer/) - Tool that help visualize animation components and output the code required.
 *   [CSS Animation Kit](http://angrytools.com/css/animation/) - Select any predefined samples from top panel. Below samples there is a timeline of @keyframes. Timeline has 101 keyframes ( 0% to 100%) direction from left to right. Highlighted keyframe indicate that some style is assigned to that point. You can add new style at selected point.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Source Code Repos
 
@@ -446,7 +452,7 @@
 
 *   [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
 
-## [5. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [6. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Books
 
@@ -456,19 +462,19 @@
 
 *   \[A journey through OKRs] (<https://www.hotpmo.com/blog/a-journey-through-okr>) : An introduction to OKRs and their application in portfolio project management.
 
-## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
 *   [Next Cookie (⭐189)](https://github.com/tokuda109/next-cookie) - Cookie serializer and deserializer library for Next.js.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Talks
 
 *   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### File Manipulation
 
@@ -478,7 +484,7 @@
 
 *   :strawberry: [Queue plugin (⭐282)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
-## [9. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Tools and Plugins
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 06, 2022
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,13 +61,25 @@
 
 *   [Livewire](https://laravel-livewire.com/) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-electron (⭐170)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
+
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Editable data grid / spreadsheet
+
+*   [fortune-sheet (⭐1.5k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
+
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
 *   [Sequel Ace (⭐5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04, 2022
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,7 +56,13 @@
 
 
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Ironsworn Foes & Fights](https://drive.google.com/drive/folders/1tB_Hyw_b1GEtTV5MRugL-YmNP74NfJUp) - An Ironsworn hack adding more mechanical context to fights
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### ZSH on Windows / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -71,13 +77,13 @@
 
 *   [snowflake (⭐2)](https://github.com/angelina-tsuboi/snowflake-zsh-theme) - An elegant, simple, and neat ZSH theme including an aesthetically pleasing cool color palette that harmonizes with dark themes.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
 *   [gaborvecsei/cryptoprice.nvim (⭐15)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 
-## [5. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### JavaScript References
 
@@ -88,7 +94,7 @@
 
 *   [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 
-## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -118,13 +124,13 @@
 
 *   [FUU (⭐39)](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
 *   [redislabs](https://redislabs.com/try-free/) - Free 30MB redis instance
 
-## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
@@ -134,7 +140,7 @@
 
 *   [deno.land](https://denoland-ckb.deno.dev/)
 
-## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
@@ -144,7 +150,13 @@
     *   [jax-resnet (⭐77)](https://github.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
     *   [Parallax (⭐156)](https://github.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Security
+
+*   [DJ Checkup](https://djcheckup.com) - Runs several checks on your deployed Django site to check for common security mistakes.
+
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 
@@ -154,7 +166,7 @@
 
 *   [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=14477085725208589393\&hl=en\&as_sdt=0,5)].
 
-## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Explore another notebook / What just happened?
 
@@ -172,11 +184,18 @@
     *   [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
     *   [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews)
 
-## [12. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [14. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
 *   [CSS Checker (⭐536)](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
+
+## [15. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / Reddit
+
+*   [junipf/reddit-frontend (⭐19)](https://github.com/junipf/reddit-frontend): A reddit front-end written in React
+    *   Official instance: <https://jpf-reddit.netlify.app>
 
 ---
 

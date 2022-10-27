@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,7 +76,13 @@
 
 *   [PrivacyFlash Pro (⭐138)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
-## [9. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Side-channel Tools / Reverse Engineering Tools
+
+*   [SGX-Step (⭐353)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
+
+## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Data Management
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07, 2019
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,13 +44,19 @@
 
 *   [Visualizing sound in Go with SDL](https://mlesniak.com/post/2018/09/13/go-guitar-/-visualize-sound/)
 
-## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Buttons
+
+*   [react-awesome-button (⭐1.1k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
+
+## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Videos
 
 *   [EmberFest 2019](https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx)
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Theming and Customization
 
@@ -61,14 +67,14 @@
 *   [strip-json-comments-cli (⭐57)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 *   [GROQ (⭐154)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
-## [7. Awesome Python](/content/vinta/awesome-python/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GraphQL
 
 *   [tartiflette-aiohttp (⭐60)](https://github.com/tartiflette/tartiflette-aiohttp/) - An `aiohttp`-based wrapper for Tartiflette to expose GraphQL APIs over HTTP.
 *   [tartiflette-asgi (⭐101)](https://github.com/tartiflette/tartiflette-asgi/) - ASGI support for the Tartiflette GraphQL engine.
 
-## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Other
 
@@ -105,7 +111,7 @@
 
 *   [Node Tools extension (⭐7)](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 
-## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Privacy, Security and Cryptography / Others
 
@@ -124,13 +130,13 @@
 
 *   [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 
-## [10. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### RESTful
 
 *   [REST API (⭐80)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
-## [11. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Dependency Injection
 
@@ -140,7 +146,7 @@
 
 *   [Telegram chat (id-ID)](https://t.me/dart_web)
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -150,6 +156,12 @@
 
 *   [garage (⭐1.5k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
 *   [metaworld (⭐782)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
+
+## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / Terminals
+
+*   [Windows Terminal (⭐86k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

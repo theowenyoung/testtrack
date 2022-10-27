@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -224,7 +224,50 @@
 
 *   [pydiogment (⭐72)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐72)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
-## [13. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [13. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Stock
+
+*   [Pexels](https://www.pexels.com/) "The best free stock photos & videos shared by talented creators."
+*   [UI Faces](https://uifaces.co/) UI Faces aggregates thousands of avatars which you can carefully filter to create your perfect personas or just generate random avatars.
+
+### Color
+
+*   [Gradienta](https://gradienta.io/) Multicolor CSS Gradients, JPG Downloads, 100% Free!
+*   [Veranda Color](https://verandacolor.com) Browse color palettes made by other designers, generate and submit your own.
+
+### Icon and Logo
+
+*   [CoreUI Icons](http://coreui.io/icons/) Premium designed free icon set with marks in SVG, Webfont and raster formats.
+
+### Toolkit
+
+*   [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins (⭐3.4k)](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
+
+### Prototyping
+
+*   [Protopie](https://www.protopie.io/) Interactive prototypes with simple triggers, connects to phone features like vibration, proximity, and camera.
+
+### Mockup
+
+*   [Smartmockups app](https://smartmockups.com/) The #1 tool for creating stunning marketing images.
+*   [Device Shots](https://deviceshots.com) is a tool that helps you create beautiful device mockups to share on social media platforms, with the screenshot of your website or mobile application, for free.
+
+### User Testing
+
+*   [Maze Design](http://maze.design) is a great way to conduct user interviews
+
+### Read and Digest
+
+*   [1stwebdesigner](https://1stwebdesigner.com) By web design professionals, for web design professionals. We're on a mission to help you build a better web.
+*   [A List Apart](https://alistapart.com/) has been discussing design, development and meaning of web content since 1997 and remains a great resource for designers and programmers alike.
+
+### Styleguide and Branding
+
+*   [Uber](https://medium.com/uber-design)
+*   [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
+
+## [14. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Xamarin.Forms
 

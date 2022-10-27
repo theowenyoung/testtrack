@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,7 +13,13 @@
 *   [vue2-gmap-custom-marker (⭐130)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
 *   [vue-leaflet-custom-marker (⭐3)](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
 
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Open Source / Community
+
+*   [îles (⭐821)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+
+## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Books / iOS
 
@@ -28,25 +34,25 @@
 *   [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - Learn how to interact with a special Raspberry Pi version of minecraft using APIs, the GPIO pins, your programs, and so much more.
 *   [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - A useful book of experiments to use with the Sense HAT and how use it to it's full potential.
 
-## [3. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [4. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Community / UI
 
 *   [YouTube](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA)
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
 *   [uutils/coreutils (⭐13k)](https://github.com/uutils/coreutils) — A cross-platform Rust rewrite of the GNU coreutils \[[![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open source tool designed to collect real-time metrics.Great fast growing product. It can also be found in github!
 
-## [6. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [7. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Languages
 
@@ -138,43 +144,43 @@
 
 *   [Cyberduck (⭐2k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Libs
 
 *   [makallio85/YamlRoute plugin (⭐6)](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Game Development
 
 *   [libktx/ktx (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
 
-## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Platforms
 
 *   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 
-## [10. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [11. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Middleware
 
 *   [Apache Kyuubi (⭐1.3k)](https://github.com/apache/incubator-kyuubi) <img src="https://img.shields.io/github/last-commit/apache/incubator-kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
 
-## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Miscellaneous
 
 *   [Filterms (⭐3)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Presentations / XML
 
 *   [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Containers
 

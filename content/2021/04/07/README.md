@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 07, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,24 @@
 
 *   [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Drone](https://drone.io/)
+
+  Description: Continuous Integration service
+
+  Features: [Source code (⭐26k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
+
+  Supported repositories: GitHub, GitLab, Gitea, BitBucket, Google Code, Custom
+
+  Documentation: [Documentation](http://docs.drone.io/)
+
+  Price: [Pricing (enterprise)](https://drone.io/enterprise/) - free self hosting - Open Source
+
+  Stars: [![Stars](https://img.shields.io/github/stars/drone/drone.svg)](https://github.com/drone/drone)
+
+
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -34,43 +51,43 @@
 
 *   [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts
 
-## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Blogs / Other
 
 *   [Automation Panda](https://automationpanda.com/)
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Books
 
 *   [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [adskalman](https://crates.io/crates/adskalman): Kalman filter and Rauch-Tung-Striebel smoothing implementation. ![crates.io](https://img.shields.io/crates/v/adskalman.svg)
 
-## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Command-Line Tools / Newsletters
 
 *   [nix-tree (⭐243)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [vue-sh-cli (⭐7)](https://github.com/ddosdor/vue-sh-cli) - A CLI for generating Vue components, views, store modules & unit tests. Supports Vue 3 components template and Typescript.
 
-## [11. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+## [12. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ### Applications
 
@@ -80,7 +97,7 @@
 
 *   [saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 
-## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 

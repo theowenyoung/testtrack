@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12, 2017
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,17 @@
 
 *   [Fluent Assertions (⭐3k)](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### VueJS
+
+- Name: [Attendant (⭐78)](https://github.com/phppirate/attendant)
+
+  Description: Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron
+
+
+
+## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### References
 

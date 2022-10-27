@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,13 +36,19 @@
 
 *   [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) \[35:11]
 
-## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+
+## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
 *   [Emitter (⭐3.4k)](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Keyboard
 
@@ -88,7 +94,7 @@
 *   [DocumenterXcode (⭐32)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 *   [XVim2 (⭐2.3k)](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 
-## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### People to Follow
 
@@ -98,7 +104,7 @@
 
 *   [Recreating legendary 8-bit games music with Web Audio API](https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
@@ -108,13 +114,13 @@
 
 *   [PopMenu (⭐1.4k)](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
 *   [ENet (⭐2.2k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 
@@ -124,7 +130,7 @@
 
 *   [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

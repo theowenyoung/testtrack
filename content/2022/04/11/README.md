@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2022
 
-13 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,24 @@
 *   [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [chrome-extension-boilerplate-react-vite (⭐203)](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Desktop
+
+*   [Whoami Project (⭐1.5k)](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
+
+### Video and Audio Conferencing / Alternative clients/modifications of Discord:
+
+*   [WebCord (⭐655)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐1.8k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐1.8k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
+
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
@@ -94,7 +111,13 @@
 
 *   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐149)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [Sub3 Suite (⭐305)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line utilities
 
@@ -104,19 +127,19 @@
 
 *   [bullmq (⭐2.9k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-drawing-grid (⭐2)](https://github.com/MLongz/VueDrawingGrid) - A simple drawing grid lets you create pixel arts using HTML5 canvas.
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Media
 
 *   [Movies App (⭐110)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -129,13 +152,13 @@
 *   [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730\&hl=en\&as_sdt=0,5)].
 *   [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105\&hl=en\&as_sdt=0,5)].
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Templates
 
 *   [axum-yew-setup (⭐77)](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
 
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 

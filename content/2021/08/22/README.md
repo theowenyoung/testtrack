@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2021
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [MiloszKrajewski/stateful4k (⭐31)](https://github.com/MiloszKrajewski/stateful4k) - State Machine Construction Kit for Kotlin
 
-## [4. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Types / Playground
+
+*   [getmytypes (⭐8)](https://github.com/halchester/getmytypes) - Install @types files into your devDependencies.
+
+## [5. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 

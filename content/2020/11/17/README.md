@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 17, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -111,7 +111,13 @@
 
 *   [vue-schedule-board (⭐15)](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Phone Number Research / Telegram
+
+*   [PhoneInfoga (⭐7.7k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+
+## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Build tools
 
@@ -133,13 +139,13 @@
 
 *   [Glue (⭐1)](https://github.com/vinscom/glue) - Proven and opinionated programming, and configuration model for Java and Vert.x based applications. Inspired from ATG Nucleus, provides powerful layer base configuration management using simple properties file.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Articles
 
 *   [CppCon 2020 Presentation Materials (⭐1.6k)](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
 
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [15. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -147,7 +153,7 @@
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/SICKSensors)
     *   [GitHub organization :octocat:](https://github.com/SICKAG)
 
-## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### APM
 

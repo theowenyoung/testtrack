@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,19 @@
 
 *   [@ZYSzys](https://github.com/ZYSzys)
 
-## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Online / Playground
+
+*   [TypeScript playground](https://agentcooper.github.io/typescript-play/) by @agentcooper, supports multiple TS versions and compiler targets
+
+## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Database Drivers
 
 *   [aioinflux (⭐157)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
-## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
@@ -54,7 +60,7 @@
 *   [Raw Vulkan](https://alain.xyz/blog/raw-vulkan) - Overview on how to program a Vulkan application from the ground up.
 *   [Tutorial by Overv](https://vulkan-tutorial.com/) and [its github repository (⭐2.3k)](https://github.com/Overv/VulkanTutorial). \[CC BY-SA 4.0]
 
-## [7. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [8. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Data Management
 

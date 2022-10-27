@@ -1,18 +1,26 @@
 # Awesome List Updates on Dec 20, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### OSINT Videos / Telegram
+
+*   [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
+*   [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
+*   [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
+
+## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Videos
 
 *   [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - A simple and understandable introduction of functional proramming in javascript.
 
-## [2. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Hardware Support
 
@@ -61,13 +69,13 @@
     *   [gl\_vk\_bk3dthreaded (⭐79)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
     *   [gl\_vk\_supersampled (⭐57)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 
-## [3. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [4. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Quick References
 
 *   [bestmomo/laravel5-3-example (⭐225)](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.
 
-## [4. Awesome R](/content/qinwf/awesome-R/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Spatial
 
@@ -77,13 +85,13 @@
 *   [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps
 *   [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Neural Networks
 
 *   [Data Driven Code (⭐26)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
-## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Syntax Highlighter / OpenOffice
 

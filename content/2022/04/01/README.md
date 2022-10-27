@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 01, 2022
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,20 +88,32 @@
 *   [algo-builder (⭐129)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
 *   [algo-builder-templates (⭐20)](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-qrcode (⭐46)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
 *   [Ansible (⭐705)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Component Collections / Material Design
+
+*   [lens-ui (⭐2)](https://github.com/luciancaetano/lens-ui) - [docs (⭐2)](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
+
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 *   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐50)](https://github.com/flowersteam/TeachMyAgent)].
 
-## [11. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Libraries / JavaScript
 

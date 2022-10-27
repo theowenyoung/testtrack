@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -64,7 +64,13 @@
 
 *   [hl (⭐92)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
 
-## [6. Typography](/content/deanhume/typography/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐41k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
+## [7. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -82,7 +88,7 @@
 
 *   This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
-## [7. Bots](/content/hackerkid/bots/README.md)
+## [8. Bots](/content/hackerkid/bots/README.md)
 
 ### General
 

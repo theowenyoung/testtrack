@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 20 - Dec 26, 2021
 
-48 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -467,13 +467,19 @@
 
 *   [XKCP (⭐481)](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Bladesworn](https://drive.google.com/file/d/1HUyXWTDGdLddZygFyPt-NHAhUVGobwxJ/view?usp=sharing) - A simplified Blades in the Dark ruleset for Ironsworn
+
+## [8. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Hooks
 
 *   [yew-hooks (⭐90)](https://github.com/jetli/yew-hooks) - Custom Hooks library for Yew, inspired by [streamich/react-use (⭐34k)](https://github.com/streamich/react-use) and [alibaba/hooks (⭐11k)](https://github.com/alibaba/hooks).
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Forms
 
@@ -482,7 +488,7 @@
 *   [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account, 100 responses per month, 10 elements per survey.
 *   [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
 
-## [9. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Websites
 
@@ -564,7 +570,7 @@
 
 *   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 
-## [10. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [11. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Books
 
@@ -574,7 +580,7 @@
 
 *   [uMap](https://umap.openstreetmap.fr/en/) - Create and embed personalized maps, based on the great [OpenStreetMap](https://openstreetmap.org) dataset.
 
-## [11. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [12. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -584,7 +590,7 @@
 
 *   [Best Practices for NoSQL Database Design (2012)](https://softwareengineering.stackexchange.com/q/158790/) - A couple answers and links for NoSQL database design.
 
-## [12. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
+## [13. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
 
 ### Books and Papers
 
@@ -615,13 +621,13 @@
 
 *   [Amazon Lex](https://aws.amazon.com/lex/) - An AWS service for building conversational interfaces for applications using voice and text.
 
-## [13. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [14. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Overlays / Webinterface
 
 *   [nixpkgs-wayland (⭐286)](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 
@@ -631,31 +637,31 @@
 
 *   [Restructuring revisited II. An information processing theory of restructuring and insight](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9450.1984.tb01005.x) - ***Scandinavian Journal of Psychology***, 1984. \[[All Versions](https://scholar.google.com/scholar?cluster=1821980539002417470\&hl=en\&as_sdt=0,5)].
 
-## [15. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [16. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Troubleshooting / Risks - some starting points
 
 *   **["Rules of Machine Learning: Best Practices for \[Reliable\] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices.
 
-## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Misc
 
 *   [ToolJet (⭐14k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
-## [17. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
+## [18. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
 ### :pencil:   Lists
 
 *   [Slack Emojis](https://emoji.gg) - Unofficial directory of custom emojis for Slack
 
-## [18. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [19. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [kics (⭐1.2k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
 
-## [19. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
@@ -663,13 +669,13 @@
 *   [Dijkstra map for Godot (⭐56)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
 *   [Discord.gd (⭐82)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 
-## [20. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Relayboard Control (⭐2)](https://github.com/leinir/relayboard-control) - A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.
 
-## [21. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [22. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
@@ -683,19 +689,19 @@
 
 *   [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.
 
-## [22. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [23. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Database Version Control
 
 *   [Rumba RDBM](https://www.dbinvent.com/) Database migration tool, plain-SQL, and declarative definition supported.
 
-## [23. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Theming and Customization
 
 *   [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 
-## [24. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [25. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Educational
 
@@ -703,19 +709,19 @@
 *   [Slim 4 - GraphQL](https://odan.github.io/2021/08/12/slim-graphql.html) - Creating a modern HTTP APIs usig GraphQL.
 *   [Slim 4 - ReactPHP](https://odan.github.io/2021/08/14/slim-reactphp.html) - Slim in combination with ReactPHP for the performance boost.
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / OpsWorks
 
 *   [opsworks-example-cookbooks :fire: (⭐99)](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
 
-## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [27. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Format Checking
 
 *   [pdb-tools (⭐220)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 
-## [27. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [28. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Recommended reading / Blockchain, AI and Machine Learning
 
@@ -726,20 +732,20 @@
 *   [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
 *   [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
 
-## [28. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [29. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Other Lists
 
 *   [Awesome Event IDs (⭐382)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
-## [29. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Data Mapping Solution
 
 *   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
 *   [JSLT (⭐489)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
 
-## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -875,13 +881,13 @@
 
 
 
-## [31. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [32. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Utilities
 
 *   [Junction](https://junction.sonny.re/) - Junction lets you choose the application to open files and links. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
@@ -891,7 +897,20 @@
 
 *   [ipychart (⭐62)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
-## [33. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [34. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+- : [Vimeo Design System](https://vimeo.github.io/iris/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐35)](https://github.com/vimeo/iris)
+
+
+
+## [35. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -900,19 +919,19 @@
 *   [k6 introduces browser automation and Prometheus support in k6 OSS](https://grafana.com/blog/2021/11/24/k6-introduces-browser-automation-and-prometheus-support-in-k6-oss/) - From the Grafana blog: feature announcements at ObservabilityCON 2021.
 *   [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - From the Grafana blog: a summary of Executive Director of Platform Engineering at JPMorgan Chase, Vinodh Ravi's talk at ObservabilityCON 2021.
 
-## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Blogs
 
 *   [Logit.io Blog](https://logit.io/blog) - Resources on log management, SRE and devOps.
 
-## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [ldelossa/litee.nvim (⭐286)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
-## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Database
 
@@ -923,13 +942,13 @@
 
 *   [Jire/Strukt (⭐67)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -939,13 +958,23 @@
 
 *   [hami-vuex (⭐19)](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 
-## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [vorot93/libmdbx-rs (⭐34)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
-## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### People Investigations / Telegram
+
+*   [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
+
+### Company Research / Telegram
+
+*   [OpenOwnership Register](https://register.openownership.org/)
+
+## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### SVG / Barcode
 
@@ -955,7 +984,7 @@
 
 *   [CardTabBar (⭐154)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Books
 
@@ -965,25 +994,25 @@
 
 *   [ULogViewer (⭐74)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
-## [42. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [45. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
 *   [React Jobs](https://reactjsjob.com)
 
-## [43. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [46. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Playgrounds
 
 *   [Bitauth IDE](https://ide.bitauth.com/) – An interactive development environment for Bitcoin contracts.
 
-## [44. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [47. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Machine Learning Extension
 
 *   [MLflow](https://mlflow.org/docs/latest/python_api/mlflow.spark.html#module-mlflow.spark) <img src="https://img.shields.io/github/last-commit/mlflow/mlflow.svg"> - Machine learning orchestration platform.
 
-## [45. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [48. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
@@ -993,7 +1022,7 @@
 
 *   [Prisma Client Python (⭐838)](https://github.com/RobertCraigie/prisma-client-py)
 
-## [46. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [49. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Resources
 
@@ -1003,7 +1032,7 @@
     *   [Overview of Polkadot and its Design Considerations](https://arxiv.org/abs/2005.13456.pdf)
         *   [Chinese Translation (⭐30)](https://github.com/AmadeusGB/Overview-of-Polkadot) (by community)
 
-## [47. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [50. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
@@ -1040,7 +1069,125 @@
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-## [48. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [51. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Call to Action
+
+*   Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
+*   Just create an [issue (⭐2.9k)](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+
+### Overview / YouTube
+
+*   [Invidious (⭐8.6k)](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
+    *   Home page: <https://invidious.io>
+    *   Invidious instances (Github): [https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md (⭐177)](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
+    *   Invidious instances API: <https://api.invidious.io>
+    *   Installation guide for self-hosting: <https://docs.invidious.io/Installation.md>
+*   [CloudTube](https://git.sr.ht/\~cadence/cloudtube): Alternative front-end for Invidious
+    *   Official instance: <https://tube.cadence.moe>
+    *   Installation guide for self-hosting: <https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md>
+*   [FreeTube (⭐6k)](https://github.com/FreeTubeApp/FreeTube): Open source YouTube desktop player for privacy on Windows, Mac and Linux
+*   [Invuedious (⭐24)](https://github.com/bocchilorenzo/invuedious): An alternative frontend for invidious built with vue.js
+    *   Official instance: [https://bocchilorenzo.github.io/invuedious/](https://bocchilorenzo.github.io/invuedious)
+*   [TubeSync (⭐808)](https://github.com/meeb/tubesync): TubeSync is a PVR (personal video recorder) for YouTube. It syncs YouTube channels and playlists to a locally hosted media server
+*   [TubeArchivist (⭐1.8k)](https://github.com/bbilly1/tubearchivist): A self hosted YouTube media server
+*   [ytfzf (⭐2.8k)](https://github.com/pystardust/ytfzf): A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl
+
+### Overview / Reddit
+
+*   [Teddit](https://codeberg.org/teddit/teddit): Alternative Reddit front-end focused on privacy - Lightweight, no ads, no JavaScript, unofficial API
+    *   Official instance: <https://teddit.net>
+    *   Public instances: [https://github.com/teddit-net/teddit#instances (⭐167)](https://github.com/teddit-net/teddit#instances)
+    *   [Github mirror repository (⭐167)](https://github.com/teddit-net/teddit)
+    *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Teddit](https://teddit.net/r/privacy)
+*   [Libreddit (⭐3.6k)](https://github.com/spikecodes/libreddit): Alternative front-end for Reddit. Themed around Reddit's new design - Lightweight, no JavaScript, no ads, no tracking
+    *   Official instance: [libredd.it](https://libredd.it)
+    *   Public instances: [https://github.com/spikecodes/libreddit#instances (⭐3.6k)](https://github.com/spikecodes/libreddit#instances)
+*   [Xeddit (⭐10)](https://github.com/ErlingMK/Xeddit): A Xamarin.Forms app for Reddit
+    *   Official instance: [xeddit.com](https://www.xeddit.com)
+    *   Example: /r/Privacy on [Reddit](https://www.reddit.com/r/privacy) and [Xeddit](https://www.xeddit.com/r/privacy)
+*   [Stealth](https://gitlab.com/cosmosapps/stealth): Account-free, privacy-oriented, and feature-rich Reddit client
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit)
+*   [Infinity (⭐2.3k)](https://github.com/Docile-Alligator/Infinity-For-Reddit): Reddit client for Android
+    *   Available on [F-Droid](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit)
+*   [Slide (⭐1.7k)](https://github.com/ccrama/Slide): Open source, ad free Reddit browser for Android
+    *   Available on [F-Droid](https://f-droid.org/en/packages/me.ccrama.redditslide)
+
+### Overview / Instagram
+
+*   [Bibliogram](https://sr.ht/\~cadence/bibliogram): Bibliogram is an alternative front-end for Instagram
+    *   Unfortunately, Bibliogram is being discontinued. See <https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram>
+    *   Official instance: <https://bibliogram.art>
+    *   Public instances: <https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md>
+    *   Example: Troy Hunt on [Instagram](https://www.instagram.com/troyhunt) and [Bibliogram](https://bibliogram.art/u/troyhunt)
+
+### Overview / Spotify
+
+*   [Spotiqueue (⭐73)](https://github.com/toothbrush/Spotiqueue): Minimalistic queue-oriented macOS-native client for Spotify, with Guile Scheme scriptability
+*   [spot (⭐1.6k)](https://github.com/xou816/spot): Gtk/Rust native Spotify client for the GNOME desktop. Only works with premium accounts
+
+### Overview / Google Search
+
+*   [Whoogle Search (⭐6.4k)](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine for Google
+    *   Public instances: [https://github.com/benbusby/whoogle-search#public-instances (⭐6.4k)](https://github.com/benbusby/whoogle-search#public-instances)
+
+### Overview / Google Translate
+
+*   [Lingva Translate (⭐738)](https://github.com/TheDavidDelta/lingva-translate): Alternative front-end for Google Translate, serving as a free and open-source translator with over a hundred languages available
+    *   Official instance: [lingva.ml](https://lingva.ml)
+    *   Public instances: [https://github.com/TheDavidDelta/lingva-translate#instances (⭐738)](https://github.com/TheDavidDelta/lingva-translate#instances)
+*   [SimplyTranslate](https://sr.ht/\~metalune/SimplyTranslate): Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. Supports Google Translate, DeepL, ICIBA and LibreTranslate.
+    *   Official instance: [simplytranslate.org](https://simplytranslate.org)
+    *   Home page and public instances: <https://simple-web.org/projects/simplytranslate.html>
+*   [SimplyTranslate Mobile (⭐89)](https://github.com/ManeraKai/simplytranslate_mobile): Unofficial Android client of SimplyTranslate.
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile)
+*   [InstaLate](https://gitlab.com/concept1tech/instalate): Distraction-free translation for Android, to be used directly from within any app. Supports Beolingus, DeepL, Dict.cc, GNU CIDE, Heinzelnisse, LibreTranslate, Linguee, WikDict and Wiktionary.
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.concept1tech.instalate)
+*   [DeepL Android (⭐268)](https://github.com/sakusaku3939/DeepLAndroid): Unofficial Android client for DeepL
+    *   Available on [F-Droid](https://f-droid.org/en/packages/com.example.deeplviewer)
+
+### Overview / Facebook
+
+*   [SlimSocial (⭐239)](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
+*   [Frost (⭐870)](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
+
+### Overview / Apple AirPlay
+
+*   [RPiPlay (⭐4.4k)](https://github.com/FD-/RPiPlay): An open-source AirPlay mirroring server for the Raspberry Pi. Supports iOS 9 and up.
+*   [air-pi-play (⭐1.3k)](https://github.com/rahul-thakoor/air-pi-play): Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
+
+### Overview / Hacker News
+
+*   [Hackerweb (⭐1.2k)](https://github.com/cheeaun/hackerweb): A simply readable Hacker News web app
+    *   Official instance: <https://hackerweb.app>
+    *   About Hackerweb: <https://hackerwebapp.com>
+*   [Hckrnws (⭐37)](https://github.com/rajatkulkarni95/hckrnws): A custom front-end for a better reading experience of HackerNews
+    *   Official instance: <https://www.hckrnws.com>
+
+### Overview / Other services
+
+*   [vaultwarden (⭐19k)](https://github.com/dani-garcia/vaultwarden): Password manager. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop): Similar to Apple's Airdrop but in your browser. A Progressive Web App for local file sharing
+*   [hedgedoc (⭐3.3k)](https://github.com/hedgedoc/hedgedoc): Collaborative markdown editor. A platform to write and share markdown
+*   [etherpad-lite (⭐13k)](https://github.com/ether/etherpad-lite): Collaborative rich text editor. A modern really-real-time collaborative document editor
+*   [gitea (⭐33k)](https://github.com/go-gitea/gitea): Lightweight git server. Git with a cup of tea, painless self-hosted git service
+
+### Redirection / Other services
+
+*   [Farside (⭐291)](https://github.com/benbusby/farside): Farside provides links that automatically redirect to working instances of privacy-oriented alternative frontends, such as Nitter, Libreddit, etc. This allows for users to have more reliable access to the available public instances for a particular service, while also helping to distribute traffic more evenly across all instances and avoid performance bottlenecks and rate-limiting.
+*   [UntrackMe](https://framagit.org/tom79/nitterizeme): UntrackMe transforms Twitter, YouTube, Instagram, Reddit and Medium and Wikipedia links to links of open source, privacy friendly front-ends. Converts Google Maps links to OpenStreetMap links. Removes tracking parameters from any url. Then delegates the action to other apps that are capable of handling them. (Android app)
+
+### Related projects / Other services
+
+*   [Matrix.org's Synapse (⭐10k)](https://github.com/matrix-org/synapse): End-to-end-encrypted messaging. Matrix reference homeserver. See also [matrix.org](https://matrix.org).
+
+## [52. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Typescript Project Starters
+
+*   :octocat: [samchon/backend (⭐518)](https://github.com/samchon/backend) - TypeScript backend template project using the [NestJS](https://nestjs.com) ([nestia (⭐386)](https://github.com/samchon/nestia)) and [TypeORM](https://typeorm.io) ([safe-typeorm (⭐174)](https://github.com/samchon/safe-typeorm)). It helps newbie backend developers through the derived example projects. Also, it even supports the non-distruptive update system in the process level through the [pm2](https://pm2.keymetrics.io/).
+
+## [53. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / MIDI
 

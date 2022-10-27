@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 08, 2018
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,7 +25,32 @@
 
 *   [stb-image (⭐20k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
-## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Link Sites / Free Indexers
+
+*   [480mkv](http://480mkv.com/) 480p DDL for TV Shows
+
+### Streaming Sites / Big Media Libraries
+
+*   [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
+
+### Streaming Sites / Third Party Hosts
+
+*   [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
+*   [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
+*   [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
+*   [IceFilms](http://www.icefilms.info/) Openload, FileUpload
+*   [1Movies](http://1movies.nl) Openload, FServer
+*   [WatchFullMovie](http://watchfullmovie.co) Openload
+*   [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
+*   [WatchFree](https://watchfree.at/) Openload, FServer
+
+### Manga / Third Party Hosts
+
+*   [NineAnime](https://www.nineanime.com/) Updated/Active Manga Site
+
+## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Resources / Videos
 

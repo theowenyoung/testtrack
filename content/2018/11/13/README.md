@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,18 @@
 *   [aenigma (⭐174)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 
-## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Windows 10 Privacy
+
+*   [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
+
+### Decentralised Networks
+
+*   [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+*   [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+
+## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Parallelism
 
@@ -34,50 +45,50 @@
     *   [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
     *   [SPOC (⭐122)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
-## [4. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [5. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Tools and Plugins
 
 *   [fx (⭐15k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 
-## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
 *   [badtouch (⭐334)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
 *   [sniffglue (⭐895)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Butterfly Server .NET (⭐264)](https://github.com/firesharkstudios/butterfly-server-dotnet) - Allows building real-time web apps and native apps with minimal effort. Define a Web API and Subscription API that automatically synchronizes datasets across connected clients.
 
-## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [8. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Static Analysis Tools
 
 *   [JAADAS (⭐327)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
 *   [facil.io (⭐1.6k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
-## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
 *   [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 
-## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
 *   [Nextron (⭐2.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 

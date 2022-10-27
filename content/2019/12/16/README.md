@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 16, 2019
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,17 +30,33 @@
 
 *   [BigChem](http://bigchem.eu/alllectures) - All lectures of [BigChem](http://bigchem.eu/) (A Horizon 2020 MSC ITN EID project, which provides innovative education in large chemical data analysis.)
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Reverse Engineering
+
+*   [*Advanced Apple Debugging & Reverse Engineering* by Derek Selander](https://store.raywenderlich.com/products/advanced-apple-debugging-and-reverse-engineering)
+
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Development Environment
 
 *   [GitHub Actions (⭐20k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Android Malware Sandbox (⭐230)](https://github.com/Areizen/Android-Malware-Sandbox)
+
+## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Audio / Web
+
+*   [ReplayGain - Audacity Forum](https://forum.audacityteam.org/viewtopic.php?t=63067)  -
+
+### Vendors / Dolby
+
+*   [Hybrik API Reference](https://docs.hybrik.com/api/v1/HybrikAPI.html?#getting-started)  -
 
 ---
 

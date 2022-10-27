@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27 - Jan 02, 2021
 
-48 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,7 +96,13 @@
 
 *   [smartcorelib/smartcore (⭐351)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [@zougt/vite-plugin-theme-preprocessor (⭐120)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+
+## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
@@ -114,7 +120,69 @@
 
 *   [fixed-fft](https://crates.io/crates/fixed-fft): Fixed-point Fast Fourier Transform - [![Crates.io](https://img.shields.io/crates/v/fixed-fft.svg)](https://crates.io/crates/fixed-fft)
 
-## [14. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [15. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+- Name: [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
+
+  Description: Bitbucket Pipelines & Deployments
+
+  Features: [Documentation](https://bitbucket.org/product/guides/basics/four-starting-steps)
+
+  Supported repositories: BitBucket
+
+  Documentation: -
+
+  Price: [Free with limitations](https://bitbucket.org/product/pricing)
+
+  Stars: 
+
+
+- Name: [SonarQube](https://www.sonarqube.org/)
+
+  Description: "Thousands of automated Static Code Analysis rules, protecting your app on multiple fronts"
+
+  Features: 29 Languages: Java, Kotlin, C#, VB.NET, C, C++, JavaScript, TypeScript, php, Python, Terraform, CloudFormation, ABAP, Apex, COBOL, CSS, Flex, Go, HTML, Objective-C, PL/I, PL/SQL, RPG, Ruby, Scala, Swift, T-SQL, VB6, XML
+
+  Supported repositories: GitHub, Azure DevOps, Bitbucket, GitLab, Docker Support, Your IDE
+
+  Documentation: [Documentation](https://docs.sonarqube.org/latest/)
+
+  Price: [Free - with upgrade options](https://www.sonarqube.org/downloads/)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bleenco/abstruse.svg)](https://github.com/SonarSource/sonarqube/)
+
+
+- Name: [SurplusCI](https://surplusci.com/)
+
+  Description: Affordable dedicated runners for your CI pipeline builds, usable with your current CI platform.
+
+  Features: Languages: PHP, JavaScript, TypeScript, Flow, CSS, SCSS, Less, Vue.js, Python
+
+  Supported repositories: GitHub, GitLab
+
+  Documentation: [Documentation](https://surplusci/)
+
+  Price: [Free trial runner & runners start at $12/month](https://surplusci.com)
+
+  Stars: 
+
+
+- Name: [Travis CI](https://travis-ci.org/)
+
+  Description: Hosted continuous integration service for open source and private projects.
+
+  Features: Languages: C, C++, Clojure, D, Erlang, Go, Groovy, Haskell, Java, Javascript (with Node.js), Objective-C, Perl, PHP, Python, Ruby, Rust, Scala. [Source code (⭐8.3k)](https://github.com/travis-ci/travis-ci) is available.
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](http://docs.travis-ci.com/user/getting-started/)
+
+  Price: [Pricing](https://travis-ci.com/pricing)
+
+  Stars: 
+
+
+
+## [16. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Community plugins
 
@@ -124,7 +192,13 @@
 
 *   [Zalo login (⭐3)](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Remult (⭐1.4k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
+
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -134,25 +208,25 @@
 
 *   [Tippy.vue (⭐17)](https://github.com/thecodewarrior/Tippy.vue) - Nesting-free [Tippy.js](https://atomiks.github.io/tippyjs/) directive/component for Vue 3. A drop-in addition with no structural or style changes required. Supports both individual and singleton tooltips.
 
-## [16. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [19. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / GIS
 
 *   [Apache Sedona (⭐1.2k)](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
 
-## [17. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
 
 *   [Computability - An introduction to recursive function theory](http://poincare.matf.bg.ac.rs/\~zarkom/Book_Math__Cutland_Computability.pdf) - Nigel Cutland (University of Hull)
 
-## [18. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [jest-image-snapshot (⭐3.5k)](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher that performs image comparisons using [pixelmatch](https://www.npmjs.com/package/pixelmatch)
 
-## [19. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+## [22. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
 ### Libraries / APIs & Web Services
 
@@ -179,7 +253,7 @@
 
 *   [LeagueDirector (⭐634)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 
-## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -187,19 +261,19 @@
 *   [ChemicalX (⭐571)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 *   [Deepchecks (⭐2.1k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [d-max/dsl-logger (⭐3)](https://github.com/d-max/dsl-logger) - Simple DSL for logging with logger abstraction layer
 
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [ProgressIndicatorView (⭐63)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
-## [23. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [26. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Finance
 
@@ -207,7 +281,7 @@
 
     <img src="https://user-images.githubusercontent.com/6323217/147655180-c4d3041c-58c1-4108-b001-29e01767025d.png" height="200"/>
 
-## [24. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -217,7 +291,7 @@
 
 *   🧩 [HyperUI](https://hyperui.dev/) - Open source marketing and ecommerce Tailwind CSS components.
 
-## [25. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [28. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
@@ -231,7 +305,7 @@
 
 *   [nix-alien (⭐127)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
-## [26. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [29. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Data Structures and Algorithms
 
@@ -242,7 +316,15 @@
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [yarn](https://yarnpkg.com/) - NodeJS dependency manager.
 
-## [27. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [30. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Charts:
+
+- Website: [ECharts](https://echarts.apache.org/)
+
+
+
+## [31. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Testing
 
@@ -277,20 +359,20 @@
 *   ACF Docker Images on [Amazon ECR](https://gallery.ecr.aws/adobe/coldfusion) and [Docker Hub](https://hub.docker.com/u/adobecoldfusion) - Official Docker images from Adobe
 *   Lucee Docker Images [Docker Hub](https://hub.docker.com/u/lucee) - Official Docker images from Lucee
 
-## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Misc
 
 *   [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 
-## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
 *   [fftw.cr (⭐11)](https://github.com/firejox/fftw.cr) - Bindings for [FFTW](https://fftw.org/) library
 *   [wasmer-crystal (⭐62)](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
 
-## [30. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [34. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -301,13 +383,13 @@
 
 *   [Google Cloud Run](https://cloud.google.com/run) ([example (⭐134)](https://github.com/anthonycorletti/cloudrun-fastapi))
 
-## [31. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [35. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Functions as a Service
 
 *   [Autocode](https://autocode.com) - Autocode turns functions into scalable web services in an instant, no configuration required; serverless hosting available with an in-browser IDE, an API library that’s easy to use, and seamlessly managed authentication.
 
-## [32. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [36. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Low Code Application Platform
 
@@ -334,14 +416,14 @@
 
 *   [Zenity](https://zenity.io/blog) - Low Code security and governance.
 
-## [33. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [37. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Password Manager
 
 *   [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
 *   [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
 
-## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [38. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community
 
@@ -381,7 +463,7 @@
 *   [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube channel with weekly live streams covering Terraform news, reviews, interviews, Q\&A, live coding, and some hacking with Terraform.
 *   [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - Example of using Kitchen-Terraform to test our Terraform code that creates a Google Compute.
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
@@ -391,7 +473,7 @@
 
 *   [Speediness](https://sindresorhus.com/speediness) - Check your internet speed. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1596706466)
 
-## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Email
 
@@ -595,7 +677,7 @@
 
 
 
-## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Git Tools
 
@@ -605,7 +687,7 @@
 
 *   [CSharpier (⭐404)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐44k)](https://github.com/prettier/prettier) printing process.
 
-## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [42. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -621,7 +703,13 @@
 *   [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
 *   [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Audio
+
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐3.8k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+
+## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -654,13 +742,13 @@
 *   [livesession.io](https://livesession.io/) — 5,000 sessions/month free for 1 website
 *   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for 1 website
 
-## [40. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [45. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / General-purpose
 
 *   [FireCracker (⭐621)](https://github.com/blst-security/firecracker) - BLST CLI tool takes your HTTP logs, uses them to map your API flows and find risks.
 
-## [41. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [46. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
@@ -676,13 +764,13 @@
 *   [BLAKE3 (⭐3.6k)](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
 *   [rage (⭐1.6k)](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
 
-## [42. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [47. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Provider Resources / Miscellaneous
 
 *   [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price.
 
-## [43. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [48. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Books
 
@@ -701,20 +789,20 @@
 
 *   [Orochi (⭐135)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
 
-## [44. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [49. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Learning Resources
 
 *   [Drovio](https://www.drovio.com/github-students/) \[FREE] - Remote pair programming and team collaboration tool. Free Standard subscription while you're a student, to be renewed every 6 months.
 
-## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [luisiacc/gruvbox-baby (⭐191)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
 *   [titanzero/zephyrium (⭐13)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with TreeSitter support.
 
-## [46. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [51. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### [Prof. Andrew Ng's *Machine Learning* on Coursera](https://www.coursera.org/learn/machine-learning) / Tips for this course
 
@@ -745,13 +833,13 @@
 *   **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ\&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
     *   Some course notes about it: [ashishpatel26/Andrew-NG-Notes (⭐1.4k)](https://github.com/ashishpatel26/Andrew-NG-Notes)
 
-## [47. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
+## [52. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
 
 ### Platforms
 
 *   [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
 
-## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 

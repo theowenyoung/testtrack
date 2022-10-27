@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03 - Apr 09, 2017
 
-41 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,25 +43,35 @@
 
 *   [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
 
-## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Awesome Repositories
+
+- Repository: [Hacking (⭐9.1k)](https://github.com/carpedm20/awesome-hacking)
+
+  Description: List of awesome Hacking tutorials, tools and resources
+
+
+
+## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
 *   [TRADFRI2MQTT (⭐79)](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
 
-## [7. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [8. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Secret key cryptography
 
 *   [Recomendation for Block Cipher modes of operation: Methods and Techniques](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf).
 
-## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [9. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### IDEs, Editors, and Plugins
 
 *   [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) - Chrome Extension that adds direct links to module import statements on GitHub.
 
-## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Design
 
@@ -71,7 +81,7 @@
 
 *   [whoishiring.io](https://whoishiring.io/)
 
-## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [11. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California   <a id="california">  </a>
 
@@ -91,13 +101,25 @@
 | ---- | ----- | ----------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM |
 
-## [11. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [12. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
 *   [dropwizard-money (⭐1)](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard
 
-## [12. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Openlaravel (⭐110)](https://github.com/ammezie/openlaravel)
+
+  Description: A collection of open source projects built using Laravel
+
+  Link: <http://openlaravel.com>
+
+
+
+## [14. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Developer
 
@@ -109,20 +131,20 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/macosKernelPanic.png)](http://doomlaser.com/kernel-panic-screensaver/)
 
-## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [pg\_migrate (⭐26)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
-## [14. Tips](/content/git-tips/tips/week/README.md)
+## [16. Tips](/content/git-tips/tips/week/README.md)
 ## Checkout a commit prior to a day ago
 
 ```sh
 git checkout master@{yesterday}
 ```
 
-## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -130,19 +152,19 @@ git checkout master@{yesterday}
     *   A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
     *   [Syllabus (⭐5.1k)](https://github.com/yandexdataschool/Practical_RL#syllabus)
 
-## [16. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [18. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
 *   [asyncpgsa (⭐403)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 
-## [17. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [19. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Sass Deprecate (⭐271)](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation.
 
-## [18. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [20. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
@@ -156,7 +178,7 @@ git checkout master@{yesterday}
 
 *   [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 
-## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -200,13 +222,13 @@ git checkout master@{yesterday}
 
 *   [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
 
-## [20. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [22. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Miscellaneous / Utility Packs
 
 *   [edit-script (⭐9)](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping.
 
-## [21. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [23. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines / On-line APIs
 
@@ -234,26 +256,26 @@ git checkout master@{yesterday}
 *   2007
     *   *Decision Tree Learning in Ruby* by [Ilya Grigorik](https://twitter.com/igrigorik) <sup>\[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>
 
-## [22. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [24. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Devices / NoSQL Databases
 
 *   [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices conneted via serial port
 *   [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) - Control Onkyo/Integra AV equipment via LAN or Serial
 
-## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [ava (⭐20k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
-## [24. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [26. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Papers
 
 *   [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf) - Paper introducing a core distributed memory abstraction.
 
-## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
@@ -263,13 +285,13 @@ git checkout master@{yesterday}
 
 *   [RateMeMaybe (⭐97)](https://github.com/nspo/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 
-## [26. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [28. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [package-size (⭐417)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
-## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Translation Tools / File Sharing
 
@@ -279,13 +301,13 @@ git checkout master@{yesterday}
 
 *   [alternativeTo](http://alternativeto.net/) - Also a very nice community. If you are looking for some alternative apps **FOR** Windows or another platform, check this site.
 
-## [28. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [30. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -295,7 +317,7 @@ git checkout master@{yesterday}
 
 *   [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. \[MIT]
 
-## [30. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
+## [32. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
 ### Update & Publish
 
@@ -367,7 +389,7 @@ $ git config --global merge.tool meld
 
     $ git mergetool
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -381,13 +403,13 @@ $ git config --global merge.tool meld
 
 *   [mnemonix (⭐35)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
-## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐611)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
-## [33. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [35. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Python
 
@@ -411,13 +433,13 @@ $ git config --global merge.tool meld
 
 *   [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
-## [34. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [36. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [CNN visualization using Tensorflow (⭐776)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
 
-## [35. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [37. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Books
 
@@ -425,13 +447,13 @@ $ git config --global merge.tool meld
 *   [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
 *   [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
-## [36. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [38. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Utilities
 
 *   [Audion (⭐304)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
-## [37. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [39. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -441,7 +463,7 @@ $ git config --global merge.tool meld
 
 *   [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js (⭐15k)](https://github.com/plotly/plotly.js)
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -455,14 +477,14 @@ $ git config --global merge.tool meld
 
 *   [NSpec (⭐249)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 
-## [39. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [41. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Language
 
 *   [CrossPascal (⭐40)](https://github.com/BeRo1985/crosspascal). `[Delphi]` Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
     // *Quite interesting project though seems abandoned*
 
-## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [42. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -485,7 +507,7 @@ $ git config --global merge.tool meld
 
 *   [Swift Windows Switcher (⭐318)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
-## [41. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [43. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2018
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -91,7 +91,13 @@
 
 *   **[Contributors (⭐126k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DC++ / Third Party Hosts
+
+*   [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
+
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -120,7 +126,7 @@
 *   [The Remote Jobseeker’s Handbook](https://cobyism.com/remotejobseeker/).
     by Coby Chapple (GitHub), 2016.
 
-## [8. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [9. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Economics on GitHub / Economists
 
@@ -138,44 +144,44 @@
 *   [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 *   [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Books
 
 *   [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
 
-## [10. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Web Frameworks
 
 *   [uvicorn (⭐5.8k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
-## [11. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
+## [12. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
 ### Documentation
 
 *   [Overview (⭐2.9k)](https://github.com/tc39/proposal-observable)
 *   [Specification](https://tc39.github.io/proposal-observable/)
 
-## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   [DVC (⭐11k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
-## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [14. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### CPU profile
 
 *   [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
 
-## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [15. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Interesting Readings
 
@@ -185,7 +191,7 @@
 
 *   [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 
-## [16. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [17. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Accessibility / Web payments
 
@@ -196,7 +202,7 @@
 *   [Web Accessibility Evaluation Tools List from W3](http://www.w3.org/WAI/ER/tools/)
 *   [Pa11y - automated accessibility testing](http://pa11y.org/)
 
-## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,31 +65,42 @@
 
 *   [pure (⭐29)](https://github.com/purely-functional/eslint-plugin-pure) - Enforce pure functions (without side effects).
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Rollup Plugins / Presets
+
+*   [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - Compatibility list for official rollup plugins.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-beep (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+*   [@rollup/plugin-inject (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
 *   [Patrowl (⭐508)](https://github.com/Patrowl/PatrowlManager) - Open Source, Smart and Scalable Security Operations Orchestration Platform. `AGPL-3.0` `Python`
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [SRAM23x](https://crates.io/crates/sram23x) - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post](https://blog.a1w.ca/p/rust-embedded-driver-microchip-23x-sram) - ![crates.io](https://img.shields.io/crates/v/sram23x.svg)
 
-## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [10. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Libraries / Others
 
 *   [go-mcu (⭐11)](https://github.com/matiasinsaurralde/go-mcu) - Golang package for interacting with NodeMCU-based boards.
 
-## [10. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [11. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Web Frameworks / Coverage
 
 *   [Kelp](https://metacpan.org/pod/Kelp) - Plack-focused Perl web framework
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 

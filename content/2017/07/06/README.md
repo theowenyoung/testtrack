@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -296,6 +296,22 @@
 *   2011
     *   *Clustering in Ruby* by [Colin Drake](https://twitter.com/colinfdrake) <sup>\[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)]</sup>
     *   *Text Classification using Support Vector Machines in Ruby* by [Rimas Silkaitis](https://twitter.com/neovintage) <sup>\[[post](http://neovintage.org/2011/11/14/text-classification-using-support/)]</sup>
+
+## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
+
+### Network Tools / Network Reconnaissance Tools
+
+*   [dnsenum (⭐458)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐101)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
+*   [passivedns-client (⭐188)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns (⭐1.5k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+*   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,6 +109,16 @@
 ### Components & Libraries / Utilities
 
 *   [vite-svg-loader (⭐255)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-headings (⭐43)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
+
+### Miscellaneous / Lazy Load
+
+*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 11 - Nov 17, 2019
 
-46 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -164,13 +164,19 @@
 
 *   [Visualizing sound in Go with SDL](https://mlesniak.com/post/2018/09/13/go-guitar-/-visualize-sound/)
 
-## [18. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Buttons
+
+*   [react-awesome-button (⭐1.1k)](https://github.com/rcaferati/react-awesome-button) - [demo](https://caferati.me/demo/react-awesome-button) - 3D animated 60fps buttons with load progress and social share actions.
+
+## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Videos
 
 *   [EmberFest 2019](https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx)
 
-## [19. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [20. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -207,7 +213,7 @@
 
 *   [Node Tools extension (⭐7)](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 
-## [20. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [21. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Privacy, Security and Cryptography / Others
 
@@ -226,7 +232,7 @@
 
 *   [WolframAlpha](https://www.wolframalpha.com) - Powerful computational knowledge engine. See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) for help on how to plot graphs.
 
-## [21. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [22. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### RESTful
 
@@ -236,7 +242,7 @@
 
 *   [Shopping Cart (⭐3)](https://github.com/sinbadxiii/phalcon-cart) - Simple cart for online store
 
-## [22. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [23. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Dependency Injection
 
@@ -246,7 +252,7 @@
 
 *   [Telegram chat (id-ID)](https://t.me/dart_web)
 
-## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -257,19 +263,31 @@
 *   [garage (⭐1.5k)](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research
 *   [metaworld (⭐782)](https://github.com/rlworkgroup/metaworld) - An open source robotics benchmark for meta- and multi-task reinforcement learning
 
-## [24. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### WSL Tools / Terminals
+
+*   [Windows Terminal (⭐86k)](https://github.com/microsoft/terminal) - The new open-source Windows Terminal. ![github\_project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [openapi-generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
-## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [27. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### DDL Link Sites / Free Indexers
+
+*   [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
+
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [DevOpsDays Chicago 2019 - The Art of SLOs](https://youtu.be/Dfnbw5dJQ5I)
 
-## [26. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [29. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Building
 
@@ -289,7 +307,7 @@
 
 *   [SchematicWebViewer (⭐38)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 
-## [27. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [30. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Related awesome-lists
 
@@ -297,7 +315,7 @@
 *   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
 *   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
 
-## [28. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
@@ -305,13 +323,13 @@
 *   [pg\_monz (⭐162)](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 *   [ZabbixDBA (⭐80)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
-## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
 *   [Blazor Tour of Heroes (⭐17)](https://github.com/georgemathieson/blazor-tour-of-heroes) - Blazor Tour of Heroes, using [Blazor-State (⭐370)](https://github.com/TimeWarpEngineering/blazor-state)(State Management architecture utilizing the MediatR pipeline) for the Redux style state.
 
-## [30. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [33. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -391,19 +409,19 @@
 *   [cefdebug (⭐167)](https://github.com/taviso/cefdebug) - Minimal code to connect to a CEF debugger by [@taviso](https://github.com/taviso).
 *   [ctftool (⭐1.6k)](https://github.com/taviso/ctftool) - Interactive CTF Exploration Tool by [@taviso](https://github.com/taviso).
 
-## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Podcasts
 
 *   [Distributed](https://distributed.blog/podcast/) - Interview podcast by Matt Mullenweg. Focused on the benefits and challenges of distributed work and recruiting people around the globe.
 
-## [32. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [35. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Productivity
 
 *   [Todoist (⭐315)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -413,7 +431,7 @@
 
 *   [Golang Desktop Embedder (⭐5.5k)](https://github.com/go-flutter-desktop/go-flutter) <!--stargazers:go-flutter-desktop/go-flutter--> - Golang embedder for desktop by [Pierre Champion](https://github.com/pchampio)
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -423,14 +441,14 @@
 
 *   [Spidr (⭐697)](https://github.com/postmodern/spidr) - A versatile Ruby web spidering library that can spider a site, multiple domains, certain links or infinitely. Spidr is designed to be fast and easy to use.
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [38. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Nitro 🚀 (⭐245)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
 *   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐82)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
-## [36. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [39. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### General
 
@@ -472,7 +490,7 @@
 *   The [Refuge Project](http://refuge.io/) aims to provide a fully decentralized and opensource data platform. It is built in Erlang and includes [RCouch (⭐68)](https://github.com/refuge/rcouch), a static distribution of couchdb using rebar, and [Coffer (⭐23)](https://github.com/refuge/coffer), a blob server.
 *   [Tavern](https://tavern.com/) is a distributed, anonymous, unblockable network designed to ensure that no one is silenced, censored, or cut off from the rest of the world
 
-## [37. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [40. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -490,7 +508,7 @@
 
 *   [Send a Push Notification via Pushbullet (⭐6)](https://github.com/ShaunLWM/action-pushbullet)
 
-## [38. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [41. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Datasets
 
@@ -531,7 +549,7 @@
 *   [nalgene (⭐54)](https://github.com/spro/nalgene) - Natural language generation language.
 *   [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output.
 
-## [39. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [42. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
@@ -542,7 +560,7 @@
 
 *   [The Contagion Outbreak Monitor](https://www.contagionlive.com/outbreak-monitor) - An interactive map of human bloodborne or foodborne outbreaks in the past two years. Targeted to practitioners and clinicians.
 
-## [40. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [43. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Theming and Customization
 
@@ -557,13 +575,13 @@
 *   [strip-json-comments-cli (⭐57)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 *   [GROQ (⭐154)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 
-## [41. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [44. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - Strategy games from the Apple App Store.
 
-## [42. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [45. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Asynchronous Programming
 
@@ -618,7 +636,7 @@
 *   [waitress (⭐1.1k)](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
 *   [werkzeug (⭐6.2k)](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
-## [43. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -635,7 +653,7 @@
 
 *   [OpenAPI (⭐25k)](https://github.com/OAI/openapi-specification/) - The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for REST APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 
-## [44. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [47. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Articles / Other external resources
 
@@ -655,7 +673,7 @@
 *   [How to painlessly set up your Ruby on Rails dev environment with Docker](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
 *   [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
 
-## [45. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
@@ -668,7 +686,54 @@
 *   [mailspoof (⭐78)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 *   [phishing\_catcher (⭐1.4k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
-## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Anonymity Tools
+
+*   [Metadata Anonymization Toolkit (MAT)](https://0xacab.org/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats, written in Python3.
+
+### Anonymity Tools / Tor Tools
+
+*   [Tails](https://tails.boum.org/) - Live operating system aiming to preserve your privacy and anonymity.
+
+### Conferences and Events / Asia
+
+*   [HITB](https://conference.hitb.org/) - Deep-knowledge security conference held in Malaysia and The Netherlands.
+*   [Nullcon](http://nullcon.net/website/) - Annual conference in Delhi and Goa, India.
+*   [SECUINSIDE](http://secuinside.com) - Security Conference in Seoul.
+
+### Conferences and Events / Europe
+
+*   [44Con](https://44con.com/) - Annual Security Conference held in London.
+*   [Hack.lu](https://hack.lu/) - Annual conference held in Luxembourg.
+*   [Infosecurity Europe](http://www.infosecurityeurope.com/) - Europe's number one information security event, held in London, UK.
+*   [SteelCon](https://www.steelcon.info/) - Security conference in Sheffield UK.
+*   [Swiss Cyber Storm](https://www.swisscyberstorm.com/) - Annual security conference in Lucerne, Switzerland.
+*   [Troopers](https://www.troopers.de) - Annual international IT Security event with workshops held in Heidelberg, Germany.
+
+### Conferences and Events / North America
+
+*   [AppSecUSA](https://appsecusa.org/) - Annual conference organized by OWASP.
+*   [Black Hat](http://www.blackhat.com/) - Annual security conference in Las Vegas.
+*   [CarolinaCon](https://carolinacon.org/) - Infosec conference, held annually in North Carolina.
+*   [DEF CON](https://www.defcon.org/) - Annual hacker convention in Las Vegas.
+*   [DerbyCon](https://www.derbycon.com/) - Annual hacker conference based in Louisville.
+*   [SummerCon](https://www.summercon.org/) - One of the oldest hacker conventions in America, held during Summer.
+
+### Conferences and Events / South America
+
+*   [Ekoparty](http://www.ekoparty.org) - Largest Security Conference in Latin America, held annually in Buenos Aires, Argentina.
+
+### Conferences and Events / Zealandia
+
+*   [CHCon](https://chcon.nz) - Christchurch Hacker Con, Only South Island of New Zealand hacker con.
+
+### File Format Analysis Tools / Zealandia
+
+*   [ExifTool](https://www.sno.phy.queensu.ca/\~phil/exiftool/) - Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
+*   [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Python tool to explore PDF files in order to find out if the file can be harmful or not.
+
+## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 

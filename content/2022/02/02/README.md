@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,17 @@
 
 *   [`r0f1/datascience`](https://github.com/r0f1/datascience) — "A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks."
 
-## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Anti-tracking / Alternative clients/modifications of Discord:
+
+*   [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker. Easy on CPU and memory.
+*   [ClearURLs (⭐3.3k)](https://github.com/ClearURLs/Addon) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet and sharing links.
+*   [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+*   [Cookie Autodelete (⭐1.4k)](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - When a tab closes, any cookies not being used are automatically deleted. Prevent tracking by other cookies and add only the ones you trust.
+*   [Smart Referer](https://gitlab.com/smart-referrer/smart-referer/-/blob/master/README.md) - Automatically hide HTTP and JavaScript Referer for cross-domain requests.
+
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -87,20 +97,20 @@
 *   [php-static-analysis-tools (⭐2.6k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
 *   [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) — A list of tools for static code analysis.
 
-## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Internationalisation / Checkbox
 
 *   [@tolgee/svelte (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
 *   [Cyber Security Career Guide](https://www.manning.com/books/cyber-security-career-guide) - Kickstart a career in cyber security by learning how to adapt your existing technical and non-technical skills. (early access, published continuously, final release Summer 2022)
 *   [Secret Key Cryptography](\[https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods. (early access, published continuously, final release Summer 2022)
 
-## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -280,13 +290,19 @@
 *   [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - Machine learning hybrid cloud platform that harvests thousands of file types at scale, speeds threat detection through machine learning binary analysis, and continuously monitors an index of over 10B files for future threats.
 *   [Unpckarc](https://web.archive.org/web/20191218043307/http://www.woodmann.com/crackz/Tools/) - Packed executables detection tool relying on several heuristics.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### i18n / Mouse Events
+
+*   [@tolgee/react (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Advanced graphics rendering
 
 *   [Shaders](https://wolfenrain.medium.com/flutter-shaders-an-initial-look-d9eb98d3fd7a) - Fragment shaders, set it up, how it works and making it work by [Jochum van der Ploeg](https://twitter.com/wolfenrain)
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
@@ -296,14 +312,14 @@
 
 *   [racum/rust-djangohashers (⭐51)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] — A Rust port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style. [![build badge](https://api.travis-ci.org/Racum/rust-djangohashers.svg?branch=master)](https://travis-ci.org/Racum/rust-djangohashers)
 
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Authentication
 
 *   [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
 *   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐94k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Code Formatting
 

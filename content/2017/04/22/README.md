@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,13 +71,23 @@
 *   [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
 *   [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
 
-## [5. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [CVE PoC (⭐3k)](https://github.com/qazbnm456/awesome-cve-poc)
+
+  Description: List of CVE Proof of Concepts (PoCs)
+
+
+
+## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Clones
 
 *   [PX8 (⭐875)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

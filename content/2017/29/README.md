@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17 - Jul 23, 2017
 
-48 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -415,7 +415,39 @@
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+
+### Stock
+
+*   [Raumrot](https://www.howtostartanllc.org/free-stock-photos/)
+
+### Color
+
+*   [Hello Color](http://jxnblk.com/hello-color/)
+*   [uiGradients](https://uigradients.com/)
+
+### Styleguide and Branding
+
+*   [Starbucks](https://www.starbucks.com/static/reference/styleguide/)
+*   [IBM](https://www.ibm.com/design/language/)
+*   [Atlassian](https://www.atlassian.design/)
+*   [Youtube](https://www.youtube.com/yt/about/brand-resources/)
+*   [Vimeo](https://press.vimeo.com/brand-guidelines)
+*   [Instagram](https://en.instagram-brand.com/)
+
+### Tutorial
+
+*   [greyscalegorilla](https://greyscalegorilla.com/)
+
+### Award
+
+*   [D\&AD](https://www.dandad.org/)
+
+### Conference and Festival
+
+*   [SemiPermanent](https://www.semipermanent.com)
+
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -442,7 +474,7 @@
 
 *   [SwipeCellKit (⭐5.9k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
-## [36. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [37. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -472,7 +504,7 @@
 *   [JSON-populate (⭐142)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐598)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -483,13 +515,13 @@
 
 *   [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Documentation
 
@@ -516,7 +548,17 @@
 
 *   [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol\&oq=inurl%3A\&client=ubuntu\&sourceid=chrome\&ie=UTF-8)
 
-## [40. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [SPARTA](https://sparta.secforce.com/) - Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
+
+## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -545,14 +587,14 @@
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [libdill (⭐1.6k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
 *   [libmill (⭐2.6k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -569,7 +611,7 @@
 *   [vue-deepset (⭐93)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 *   [jsx-v-model (⭐154)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 
-## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [45. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -583,13 +625,13 @@
 
 *   [Restforce (⭐737)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
-## [44. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
 
-## [45. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [47. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -1095,13 +1137,13 @@
 *   [Localytics (⭐10)](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 *   [Testflight (⭐26)](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 
-## [46. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [48. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 
-## [47. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -1111,7 +1153,7 @@
 
 *   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
-## [48. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [50. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 

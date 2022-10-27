@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2015
 
-23 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -177,7 +177,34 @@
 
 *   [yaml\_elixir (⭐145)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
-## [18. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
+*   :octocat: [Microsoft/TypeScript on Github (⭐85k)](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+*   :octocat:[The official TypeScript Roadmap (⭐85k)](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+*   :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
+
+### Build Systems / Playground
+
+*   [Grunt](http://gruntjs.com/) tasks:
+    *   [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
+
+### Module Bundlers / Playground
+
+*   [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
+    *   :scroll: [TypeScript and webpack](http://www.jbrantly.com/typescript-and-webpack/) - How to configure Webpack for TypeScript with source map support
+
+### Mobile / Playground
+
+*   :octocat: [NativeScript (⭐22k)](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+
+### Web / Playground
+
+*   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
+
+## [19. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### NoSQL
 
@@ -204,7 +231,7 @@
 
 *   [RHadoop (⭐762)](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 
-## [19. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [20. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Android tools / Misc
 
@@ -226,7 +253,7 @@
 *   [NYT Graphics](https://twitter.com/nytgraphics)
 *   [Visualizing](https://twitter.com/VisualizingOrg)
 
-## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [21. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Functional Programming
 
@@ -242,13 +269,13 @@
 
 *   [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 
-## [21. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [22. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [Android Scripting (⭐2.3k)](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
 
-## [22. Tips](/content/git-tips/tips/week/README.md)
+## [23. Tips](/content/git-tips/tips/week/README.md)
 ## List of all files changed in a commit
 
 ```sh
@@ -348,7 +375,7 @@ git worktree add -b <branch-name> <path> <start-point>
 git worktree add --detach <path> HEAD
 ```
 
-## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 

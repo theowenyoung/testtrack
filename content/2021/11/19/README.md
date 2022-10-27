@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 19, 2021
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,13 @@
 
 *   [sbt-derivation (⭐27)](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Logging
+
+*   [DRF-API-Logger (⭐157)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
+
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Dependency Injection
 
@@ -44,13 +50,13 @@
 
 *   [spoptchev/scientist (⭐79)](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
 
-## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### JavaScript / More
 
 *   [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Official Guides
 
@@ -61,7 +67,7 @@
 
 *   [Cely (⭐163)](https://github.com/cely-tools/Cely) - A Plug-n-Play login framework.
 
-## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Specifications
 
@@ -641,7 +647,13 @@
 *   [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 *   [learning-graphql (⭐923)](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Line Awesome](https://icons8.com/line-awesome) - Is a free alternative for Font Awesome 5.11.2. It consists of \~1380 flat icons that offer complete coverage of the main Font Awesome icon set
+
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Meta-Level Considerations / Gestalt
 

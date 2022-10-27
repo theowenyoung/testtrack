@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,26 +45,58 @@
 
 *   `⚠ ` - Depends on a proprietary service outside the user's control
 
-## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Pastebins
+
+*   [hastebin](https://www.toptal.com/developers/hastebin/)
+*   [paste.centos](https://paste.centos.org)
+
+### Books and Reading / Telegram
+
+*   [Bookbrowse](https://www.bookbrowse.com)
+*   [Bookish](https://bookish.netgalley.com)
+*   [Bookscovery](https://www.bookscovery.com)
+*   [Calibre](https://www.calibre-ebook.com)
+*   [How Long To Read](https://howlongtoreadthis.com)
+*   [Shepherd](https://www.shepherd.com)
+*   [The Story Graph](https://www.thestorygraph.com)
+
+### Bookmarking / Telegram
+
+*   [BookmarkOS](https://bookmarkos.com)
+
+### Slide Show and Presentation Tools / Telegram
+
+*   [schnaq](https://schnaq.com)
+
+### Collaboration and Project Management / Telegram
+
+*   [Ideaflip](http://ideaflip.com)
+*   [Kommon](http://www.inkommon.com)
+*   [Lattice](https://www.lattice.com)
+*   [Where.team](https://www.where.team)
+
+## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Learning / Crash Courses
 
 *   [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - Proof of Stake Blockchain Efficiency Framework.
 *   [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - Understanding Algorand's working principles and its efficiency.
 
-## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
 *   [Dile Components (⭐24)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [fccf (⭐310)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Entry Point
 
@@ -78,7 +110,7 @@
 
 *   [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Analogy / Literature Visualization
 

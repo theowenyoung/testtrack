@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -164,7 +164,17 @@
     examples of customizable word statistics powered by
     [words\_counted (⭐156)](https://github.com/abitdodgy/words_counted).
 
-## [6. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography)
+
+  Description: Cryptography resources and tools
+
+
+
+## [7. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Miscellaneous
 
@@ -183,7 +193,7 @@
 
 *   [OneUpdater (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 
-## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [8. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### The Concept
 
@@ -285,20 +295,20 @@
 *   [Make the web work for everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) - Plea to developers to consider browser differences and build a resilient web.
 *   [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/) - Research on why in 1.1% of page visits JavaScript isn't loaded.
 
-## [8. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [9. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
 *   [Nilearn (⭐898)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
 *   [DIPY (⭐548)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
 
-## [9. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Security
 
 *   [BeEF](http://beefproject.com) - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
 
-## [10. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [11. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Libraries
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,14 +13,20 @@
 *   [PAYONE (⭐26)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 *   [Stripe (⭐45)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
-## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Link Sites / Free Indexers
+
+*   [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
+
+## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Open Source Threat Intelligence / Other Resources
 
 *   [MetaDefender Threat Intelligence Feed](https://www.opswat.com/developers/threat-intelligence-feed) -
     List of the most looked up file hashes from MetaDefender Cloud.
 
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Bug Reporting
 
@@ -30,7 +36,7 @@
 
 *   [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 
-## [4. Awesome C](/content/inputsh/awesome-c/README.md)
+## [5. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Resources
 
@@ -44,20 +50,20 @@
 
 *   [utf8proc (⭐828)](https://github.com/JuliaStrings/utf8proc) - Small, clean library for processing UTF-8 Unicode data. [`License`](https://github.com/JuliaStrings/utf8proc/blob/master/LICENSE.md)
 
-## [5. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [6. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Cheat Sheets / Hylomorphisms in the Wild
 
 *   [The Hitchhiker's Guide to Morphisms](https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
 
-## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Swift programming / iOS
 
 *   [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
-## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 

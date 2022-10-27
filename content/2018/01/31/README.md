@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -72,6 +72,12 @@
 ### Tips for Researchers / HTML+CSS+JS
 
 *   Check the [Academic Resources and Grey Literature List (⭐11k)](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List (⭐11k)](https://github.com/jivoi/awesome-osint) for search engines to search for papers.
+
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Academic Resources and Grey Literature / Telegram
+
+*   [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 
 ---
 

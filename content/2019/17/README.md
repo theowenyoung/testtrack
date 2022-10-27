@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 29 - May 05, 2019
 
-52 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -338,7 +338,13 @@
 
 *   [crystal-web-framework-stars (⭐49)](https://github.com/isaced/crystal-web-framework-stars) - Web frameworks for Crystal, most starred on Github
 
-## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Online Resources / Other Lists Online
+
+*   [Awesome Shodan Queries (⭐3.5k)](https://github.com/jakejarvis/awesome-shodan-queries) - Awesome list of useful, funny, and depressing search queries for Shodan.
+
+## [18. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -353,19 +359,19 @@
 
 *   *[Online Social Networks and Media](https://www.journals.elsevier.com/online-social-networks-and-media/)* (Elsevier, gated).
 
-## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [Rubble (⭐391)](https://github.com/jonas-schievink/rubble): A pure-Rust embedded BLE stack ![crates.io](https://img.shields.io/crates/v/rubble.svg)
 
-## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Examples
 
 *   [Medicine Inventory (⭐0)](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
 
-## [20. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [21. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
@@ -375,13 +381,13 @@
 
 *   [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-## [21. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
 *   [servest (⭐745)](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 
-## [22. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [23. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
@@ -391,19 +397,19 @@
 
 *   [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
 
-## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
 *   [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 
-## [25. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [26. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Guides
 
@@ -443,13 +449,13 @@
 
 *   [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running YouTube live show about electronics, information often on during an "Adafruit IO Update" segment. New compatible hardware during "New New New" segment.
 
-## [26. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [27. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-picker-modal-view (⭐193)](https://github.com/pankod/react-native-picker-modal-view) - React Native Module to select item picker modal.
 
-## [27. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [28. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### User Interface
 
@@ -464,13 +470,13 @@
     *   [makorel (⭐8)](https://github.com/sagotch/makorel) – Release OPAM packages easily.
     *   [esy (⭐787)](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
-## [28. Bots](/content/hackerkid/bots/week/README.md)
+## [29. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [Java (⭐1.3k)](https://github.com/pengrad/java-telegram-bot-api)
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -488,19 +494,19 @@
 
 *   [ASP.NET Core Developer Roadmap (⭐13k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019.
 
-## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Flutter / Custom Dialog
 
 *   [Booster (⭐4.2k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
-## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 
-## [32. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -510,7 +516,7 @@
 
 *   [Example for passing custom URL parameters to a Keycloak theme for dynamic branding (⭐24)](https://github.com/dteleguin/keycloak-dynamic-branding)
 
-## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [34. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Articles
 
@@ -526,17 +532,17 @@
 
 *   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐296)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
 
-## [34. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
     *   "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 
-## [35. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Librefox (⭐1.6k)](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -552,13 +558,13 @@
 *   [Hyperscan (⭐3.9k)](https://github.com/intel/hyperscan) - Hyperscan is a high-performance multiple regex matching library by Intel. Provides simultaneous matching of large numbers of regexps (up to tens of thousands). Typically used in a DPI library stack. \[BSD]
 *   [PIRE (⭐320)](https://github.com/yandex/pire) - Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). \[LPGL v3.0]
 
-## [37. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [38. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
 *   [Sematext Agent (⭐11)](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/) to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or [Sematext Cloud](https://sematext.com/cloud/)
 
-## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -569,7 +575,7 @@
 *   [EventSourcing](https://dddeurope.com/2020/#eventsourcing) - A new event for the CQRS/EventSourcing community
 *   [DDD Foundations](https://dddeurope.com/2020/#foundations) - A curated conference for DDD newcomers
 
-## [39. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [40. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
@@ -617,13 +623,13 @@
 *   [The Product Coalition](https://productcoalition.com/) (*using [Slack](https://slack.com/)*)
 *   [Product Collective](https://productcollective.com/) (*using [Slack](https://slack.com/)*)
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Media & Document Management
 
 *   [Laravolt Avatar (⭐1.6k)](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
 
-## [41. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [42. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Vue SPA with Laravel   [↗](https://awesomestacks.dev/vue-spa-with-laravel) / Resources
 
@@ -634,13 +640,24 @@
 *   [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 *   [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
-## [42. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [43. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Database
+
+*   [*Realm: Building Modern Swift Apps with Realm Database* by Marin Todorov](https://store.raywenderlich.com/products/realm-building-modern-swift-apps-with-realm-database)
+
+### Other Awesome Lists
+
+*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
+
+## [44. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2019
 
 *   [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) \[36:44]
 
-## [43. Guides](/content/NARKOZ/guides/week/README.md)
+## [45. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / C
 
@@ -666,13 +683,13 @@
 
 *   [Commit messages guide (⭐6.5k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
-## [44. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
 *   [Vue.js Demo App (⭐46)](https://github.com/ishanvyas22/cakephpvue-spa) - A CakePHP + VueJS single page application skeleton.
 
-## [45. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [47. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
@@ -682,31 +699,31 @@
 
 *   [Grails Diary](https://grydeske.dk/news/index) - Particulary useful for Grails developers
 
-## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UITableView / Barcode
 
 *   [WLEmptyState (⭐316)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
-## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [49. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [MiraiML (⭐25)](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
 
-## [48. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [test-crawler (⭐22)](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 
-## [49. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [51. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
 *   [Memento Labs](https://mementolabs.io) - Personalized health and wellness action plans using wearables & A/B testing.
 
-## [50. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [52. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 
@@ -723,13 +740,13 @@
 *   [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations.
 *   [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥.
 
-## [51. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [53. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Functional Libraries
 
 *   [Functional Fortran (⭐364)](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
-## [52. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [54. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15, 2021
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,24 @@
 
 *   [Lorien (⭐3.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
-## [3. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Thundra Foresight](https://thundra.io/foresight)
+
+  Description: A visibility tool into CI pipelines by spotting test failures in no time.
+
+  Features: Languages: Java
+
+  Supported repositories: GitHub, TeamCity, Bitbucket, Gitlab, Jenkins, CircleCI, TravisCI
+
+  Documentation: [Documentation](https://foresight.docs.thundra.io/)
+
+  Price: Free
+
+  Stars: 
+
+
+
+## [4. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Adversary Emulation
 
@@ -71,19 +88,19 @@
 *   [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) - Kroll Artifact Parser and Extractor (KAPE) by Eric Zimmerman. A triage tool that finds the most prevalent digital artifacts and then parses them quickly. Great and thorough when time is of the essence.
 *   [MEERKAT (⭐357)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based triage and threat hunting for Windows.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Other References / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   The [ZSH Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](https://grml.org/zsh/zsh-lovers.html) are indispensable.
 
-## [5. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [Thundra Foresight](https://www.thundra.io/foresight) - A visibility tool into your test suites by spotting test failures in no time.
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Backend / Redux / ELM / Dependency Injection
 
@@ -96,13 +113,13 @@
 *   [MacOS UI (⭐1k)](https://github.com/GroovinChip/macos_ui) <!--stargazers:GroovinChip/macos_ui--> - Widgets and themes implementing the current macOS design language by [Groovin Chip](https://twitter.com/GroovinChip)
 *   [Ubuntu Yaru (⭐211)](https://github.com/ubuntu/yaru.dart) <!--stargazers:ubuntu/yaru.dart--> - Distinct look and feel of the Ubuntu Desktop by [Ubuntu](https://github.com/ubuntu)
 
-## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [8. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
 
-## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Analytics
 
@@ -450,7 +467,7 @@
 
 *   [ampy (⭐608)](https://github.com/scientifichackers/ampy) - MicroPython Tool - Utility to interact with a MicroPython board over a serial connection.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Completion / Diagnostics
 
@@ -460,19 +477,25 @@
 
 *   [kvrohit/substrata.nvim (⭐83)](https://github.com/kvrohit/substrata.nvim) - A cold, dark color scheme for Neovim written in Lua ported from [arzg/vim-substrata (⭐176)](https://github.com/arzg/vim-substrata) theme.
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.uneasy.win/> by [胜之不易](https://uneasy.win/) <sup>[70](https://t.me/s/aboutrss/70)</sup> ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https://rsshub.uneasy.win)
 
-## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [12. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Data Structure
 
 *   [quetie (⭐110)](https://github.com/TomerAberbach/quetie) - Just the cutest and tiniest queue/deque implementation!
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-federation (⭐650)](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
+
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -572,7 +595,7 @@
 
 
 
-## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tutorials
 

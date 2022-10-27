@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -108,14 +108,20 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [TF-Agents (⭐2.4k)](https://github.com/tensorflow/agents) - A library for Reinforcement Learning in TensorFlow. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
-## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Apps/Websites / Community
+
+*   [Layoutit Grid (⭐1.3k)](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
+
+## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / "System" bindings
 
 *   [ROS2-Integration-Service (⭐12)](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
 *   [soss (⭐50)](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -125,13 +131,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [vue-axillo (⭐7)](https://github.com/Scrum/vue-axillo) - Composable Axios for REST API with query notation GraphQL.
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### YAML
 
 *   [ymlr (⭐11)](https://github.com/ufirstgroup/ymlr) - A YAML encoder for Elixir.
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
@@ -141,19 +147,19 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 *   [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Showcases / XML
 
 *   [GitHub Profile Trophy (⭐3k)](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
 
-## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Libraries and Tools / JavaScript
 
 *   [Cohda Wireless](https://cohdawireless.com/) - V2X DSRC Radio and Software
 
-## [17. Awesome Python](/content/vinta/awesome-python/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Websites
 
@@ -162,13 +168,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
     *   [Pythonic News](https://news.python.sc/)
     *   [What the f\*ck Python! (⭐32k)](https://github.com/satwikkansal/wtfpython)
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
 *   [Boost.Beast (⭐3.5k)](https://github.com/boostorg/beast) :zap: - HTTP and WebSocket built on Boost.Asio in C++11. \[BSL-1.0] [website](https://www.boost.org/libs/beast)
 
-## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Books
 

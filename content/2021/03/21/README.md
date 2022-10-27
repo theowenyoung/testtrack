@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,7 +50,14 @@
 
 *   [SIF scripts to install Publishing Service (⭐1)](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
 
-## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*iOS 14 Programming for Beginners:* by by Ahmad Sahar](https://www.amazon.com/iOS-14-Programming-Beginners-building/dp/1800209746)
+*   [*Beginning iPhone Development with Swift 5* by Wallace Wang](https://www.amazon.com/Beginning-iPhone-Development-Swift-Exploring/dp/1484248643)
+
+## [8. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
@@ -65,7 +72,7 @@
 *   [The Changelog 218](https://changelog.com/podcast/218) - Elm with Evan Czaplicki and Richard Feldman
 *   [The Changelog 191](https://changelog.com/podcast/191/) - Elm and Functional Programming with Richard Feldman.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 

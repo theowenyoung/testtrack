@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -130,7 +130,15 @@
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
     *   [GitHub repository :octocat: (⭐957)](https://github.com/osrf/gazebo)
 
-## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Canvas
+
+*   [react-konva (⭐4.8k)](https://github.com/konvajs/react-konva) - React Konva is a JavaScript library for drawing complex canvas graphics with bindings to the Konva Framework.
+*   [react-sketch (⭐575)](https://github.com/tbolis/react-sketch) - A Sketch tool for React based applications, backed-up by FabricJS
+*   [react-sketch-canvas (⭐203)](https://github.com/vinothpandian/react-sketch-canvas) - [Demo](https://vinoth.info/react-sketch-canvas/?path=/story/*) Freehand vector drawing tool for React using SVG as canvas. Accepts input from Mouse, touch, and graphic tablets
+
+## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Image Optimizers / Meetups
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03, 2022
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,25 +61,31 @@
 
 *   [Slim Validation (⭐158)](https://github.com/DavidePastore/Slim-Validation) - A validation library for the Slim Framework.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [Birdspotter](https://birdspotter.net) - A tool to automate Twitter searches.
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Status / Uptime pages
 
 *   [Vigil](https://crates.io/crates/vigil-server) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). ([Demo](https://status.crisp.chat/), [Source Code (⭐1.3k)](https://github.com/valeriansaliou/vigil)) `MPL-2.0` `Rust/Docker`
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Product Configurators
 
 *   [Iconic Nordic Rooms](https://www.inr.se/planera-badrum/planera-badrum-verktyg-3d/) - Shower and sink configurators.
 
-## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [Eqxvision (⭐48)](https://github.com/paganpasta/eqxvision) - Equinox version of Torchvision. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -93,6 +99,12 @@
 ### Applications / System tools
 
 *   [trippy (⭐93)](https://github.com/fujiapple852/trippy) - A network diagnostic tool [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
+
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-document (⭐0)](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
 
 ---
 

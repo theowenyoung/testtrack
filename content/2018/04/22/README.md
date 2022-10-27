@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22, 2018
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,25 @@
 
 *   [Boilerplate with Webpack (⭐53)](https://github.com/fstanis/webextensions-webpack-boilerplate) Using Webpack JS module manager
 
-## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Privacy and Encryption Tools / Telegram
+
+*   [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
+
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Django
+
+- Name: [Mayan EDMS](https://gitlab.com/mayan-edms/mayan-edms)
+
+  Description: Django based document management system with OCR, indexing, full text searching, previewing and more
+
+  Link: <https://www.mayan-edms.com/>
+
+
+
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / AST
 
@@ -266,7 +284,7 @@
 *   [So Ember 2017](https://www.youtube.com/watch?v=UpUtVGW43hY\&list=PLXOJZupxSq204IxtG80UfIW-gU0IxAScY)
 *   [Wicked Good Ember 2016](https://www.youtube.com/playlist?list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G)
 
-## [3. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -281,7 +299,7 @@
 
 *   [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) - Short overview of equivalent python functions for switchers.
 
-## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Build tools, setup and CI
 
@@ -293,13 +311,13 @@
 
 *   [Groovy's source (⭐4.7k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 
-## [5. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tools
 
 *   [Molten (⭐208)](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 
-## [6. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ### Movies / The Lord of the Rings
 

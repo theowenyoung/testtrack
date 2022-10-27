@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27 - Sep 02, 2018
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -303,25 +303,31 @@
 
 *   [AntsDB](http://antsdb.com/) - AntsDB is a low latency, high concurrency, MySQL compliant SQL layer for HBase.
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Books
+
+*   :books: [Learning TypeScript 2.x 2nd Ed.](https://www.learningtypescript.com) by Remo H. Jansen
+
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Version control / Metric & Metric Collection
 
 *   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
-## [12. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Live Demos
 
 *   [Draft drag and drop demo for mobile browser (⭐15)](https://github.com/jan4984/draft-dnd-example)
 
-## [13. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [14. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [flextGL (⭐193)](https://github.com/mosra/flextgl) - Minimal Vulkan header/loader generator and [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) about it.
 
-## [14. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [15. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) / More
 
@@ -329,7 +335,7 @@
 
     ![Intellisense CSS class names](https://i.imgur.com/5crMfTj.gif)
 
-## [15. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [16. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
@@ -339,32 +345,32 @@
 
 *   [ElixirLangMoscow](http://elixir-lang.moscow/) - Russian Elixir community
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [sha1collisiondetection (⭐1.2k)](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. \[MIT]
 *   [Tink (⭐13k)](https://github.com/google/tink) - A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. \[Apache-2.0]
 
-## [18. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [19. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Nipe (⭐1.5k)](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
 
-## [19. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [20. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / ROS Industrial Conference 2016
 
 *   ROS 2.0 AND OPC UA: A STATUS UPDATE [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/58235f2eb8a79be587899891/1478713139775/ROS-I-Conf2016-day1-09-keinert.pdf)
 
-## [20. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
@@ -380,7 +386,7 @@
 *   [variableinspector (⭐941)](https://github.com/lckr/jupyterlab-variableInspector) - Variable inspector extension that shows variables and their values.
 *   [voyager (⭐274)](https://github.com/altair-viz/jupyterlab_voyager) - Extension to view CSV and JSON data in [Voyager](http://vega.github.io/voyager/).
 
-## [21. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [22. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
@@ -390,14 +396,14 @@
 
 *   [Emoji Selector (⭐413)](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Automating Custom Alert Buttons on iOS](https://appiumpro.com/editions/31)
 *   [Finding Elements By Image, Part 1](https://appiumpro.com/editions/32)
 
-## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -417,45 +423,45 @@
 
 *   [PredictionBuilder (⭐9)](https://github.com/denissimon/prediction-builder-swift) - A library for machine learning that builds predictions using a linear regression.
 
-## [24. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [25. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### DApp directories / Services
 
 *   [DappRadar](https://dappradar.com/eos-dapps)
 
-## [25. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [26. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [TypeScript composite monorepo (⭐125)](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 
-## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Texas Instruments
 
 *   [`tm4c123x`](https://crates.io/crates/tm4c123x) Peripheral access API for TM4C123x microcontrollers (generated using svd2rust)
 *   [`tm4c129x`](https://crates.io/crates/tm4c129x) Peripheral access API for TM4C129x microcontrollers (generated using svd2rust)
 
-## [27. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Barcelona](https://www.meetup.com/dddbcn/)
 
-## [28. Guides](/content/NARKOZ/guides/week/README.md)
+## [29. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / Bots
 
 *   [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 *   [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
-## [29. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [30. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### SSRF
 
 *   [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - Written by [@0xacb](https://twitter.com/0xacb).
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
@@ -469,7 +475,7 @@
 
 *   [Testavior (⭐41)](https://github.com/geeklearningio/Testavior) - Testavior is a lightweight solution to help you develop Behavior Tests for ASP.NET Core.
 
-## [31. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [32. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
@@ -481,7 +487,7 @@
 
 *   [ThreatIngestor (⭐601)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
-## [32. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [33. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Community
 
@@ -546,7 +552,7 @@
 *   [User Scripts (⭐803)](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
 *   [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
-## [33. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [34. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Newsletters / Other
 
@@ -555,20 +561,20 @@
     Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
     Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
-## [34. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [35. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Enterprise™ (⭐1.5k)](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 *   [Rockstar (⭐69)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [tomimick/tm-nextjs-starter (⭐49)](https://github.com/tomimick/tm-nextjs-starter) - A minimal starter/demo with basic CRUD, axios/localstorage, MobX, SASS, static site export, live demo
 
-## [36. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -586,26 +592,26 @@
 
 *   [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information.
 
-## [37. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [38. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Other Useful Tools and Libraries
 
 *   [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
 
-## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Email
 
 *   [Elastic Email plugin (⭐4)](https://github.com/sprintcube/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
 
-## [39. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [40. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 *   [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 
-## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -615,38 +621,38 @@
 
 *   [ember-cli-extended-resolver](https://www.npmjs.com/package/ember-cli-extended-resolver) - This addons allows to modify default files structure to be more feature-grouped.
 
-## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [42. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
 *   [How to use React Native Navigation v2 with Redux and Google Analytics](https://www.codingsavvy.com/2018/08/react-native-navigation-v2-with-redux.html)
 
-## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [43. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
 
-## [43. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [44. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Presentations / Hylomorphisms in the Wild
 
 *   [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE\&t=3s) - Zainab Ali's Introductory talk presented at LambdaWorld.
 
-## [44. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [45. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Community / Mesh tools
 
 *   [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
 *   [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
 
-## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [FIRST Robotics Competition (⭐83)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
-## [46. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [47. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
@@ -660,7 +666,7 @@
 *   [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Introduction to Clojure one function at a time
 *   [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
 
-## [47. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [48. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Articles
 

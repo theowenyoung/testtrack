@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 16, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [TypeScript: The Complete Developer's Guide](https://www.udemy.com/typescript-the-complete-developers-guide/) (Udemy)
+
+## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
@@ -32,31 +38,31 @@
 *   [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source (⭐4.9k)](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
 *   [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source (⭐2.6k)](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
 
-## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [3. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Idiomatic examples
 
 *   [Dash recipes (⭐934)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Cryptography
 
 *   [SecurityDriven.Inferno](https://github.com/thangchung/awesome-dotnet-core/blob/master/README.md/github.com/sdrapkin/SecurityDriven.Inferno) - Hig level crypto library used .Net primitives, has been professionally audited.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 
 *   [BigARTM (⭐630)](https://github.com/bigartm/bigartm) - topic modelling platform.
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Creating GIFs
 
 *   [ScreenToGif (⭐19k)](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
 
-## [6. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [7. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -67,7 +73,7 @@
 *   [Firmware Slap (⭐447)](https://github.com/ChrisTheCoolHut/Firmware_Slap) - Discovering vulnerabilities in firmware through concolic analysis and function clustering.
 *   [Radare2 (⭐17k)](https://github.com/radare/radare2) - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Articles / Interoperability
 

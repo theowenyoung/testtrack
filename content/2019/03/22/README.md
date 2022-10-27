@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,7 +47,17 @@
 
 *   [Vim (⭐3)](https://github.com/gootorov/q-sharp.vim)
 
-## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Torrenting
+
+*   [mgnet.me](http://mgnet.me/) Magnet URI shortener
+
+### Telegram Piracy / Third Party Hosts
+
+*   [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
+
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
@@ -57,14 +67,14 @@
 
 *   [Cascade Deleting Relationships in Ember Data](https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html)
 
-## [4. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [5. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Case Studies
 
 *   [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
 *   [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
 
-## [5. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Research Papers
 

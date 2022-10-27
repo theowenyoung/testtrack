@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,7 +50,13 @@
 
 *   [Awesome Azure Static Web Apps (⭐67)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-apple-signin-auth (⭐68)](https://github.com/A-Tokyo/react-apple-signin-auth) -  Apple signin for React using the official Apple JS SDK.
+
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Algorithms / Asymmetric encryption
 

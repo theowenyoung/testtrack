@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30 - Jan 05, 2019
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -822,7 +822,17 @@
 
 *   [pgtune (⭐992)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
-## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Components / Date / Time picker
+
+*   [react-datepicker2 (⭐224)](https://github.com/mberneti/react-datepicker2) - [demo](https://mberneti.github.io/react-datepicker2/) - [docs](https://mberneti.github.io/react-datepicker2/) A simple and reusable datepicker component (with persian jalali calendar support).
+
+### Data Store / Mouse Events
+
+*   [resourcerer (⭐75)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
+
+## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Museums • Galleries / Other
 
@@ -830,7 +840,7 @@
 *   [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
 *   [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / External Components Integration
 
@@ -843,32 +853,32 @@
 *   [ember-render-helpers (⭐20)](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` as template helpers.
 *   [ember-truth-helpers (⭐701)](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
 
-## [35. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [36. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Galleries
 
 *   [Dash Data Dashboards and Apps](https://www.dashboardom.com/) - Collection of data dashboards with real life data, for various topics, as well as a few apps for online marketing built with Dash.
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [37. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Code examples / Custom Dialog
 
 *   [Android Modular Architecture (⭐2.3k)](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
 
-## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Hardware
 
 *   [NFCPassportReader (⭐568)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
-## [38. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [39. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
     (Python, MIT, [GitHub (⭐1.5k)](https://github.com/pyvista/pyvista))
 
-## [39. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [40. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Blogs
 
@@ -883,19 +893,19 @@
 
 *   [Leon Nicholls](https://twitter.com/TheLeonNicholls) - Google Developer Relations Engineer
 
-## [40. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [41. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
 *   [3DreamEngine (⭐231)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
 *   [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org\&utm_medium=referral\&utm_campaign=OutreachB15894fivedollar) by Dave Berning (November 2019)
 
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 

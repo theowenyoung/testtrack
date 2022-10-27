@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05 - Feb 11, 2018
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -618,19 +618,29 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [46. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [46. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Social Media Tools / VKontakte
+
+*   [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
+
+### OCR Tools / Telegram
+
+*   [OCRmyPDF (⭐7.5k)](https://github.com/jbarlow83/OCRmyPDF/)
+
+## [47. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [packed-printer (⭐36)](https://github.com/cgrand/packed-printer)
 
-## [47. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [48. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Coach - Reinforcement Learning Coach by Intel® AI Lab (⭐2.2k)](https://github.com/NervanaSystems/coach)
 
-## [48. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [49. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
@@ -642,13 +652,13 @@ Webpage: <https://edinburghhacklab.com/>
 
 *   [3scale](https://www.3scale.net/) - Nginx based API gateway to integrate internal and external API services with 3scale's API Management Platform.
 
-## [49. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [50. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Quipper](https://www.mathstat.dal.ca/\~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 

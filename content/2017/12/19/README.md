@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,7 +35,13 @@
 *   [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework (⭐8.4k)](https://github.com/caffe2/caffe2)
 *   [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web (⭐8.5k)](https://github.com/PAIR-code/deeplearnjs)
 
-## [2. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Startpages / Telegram
+
+*   [start.me](https://www.start.me)
+
+## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
@@ -83,19 +89,19 @@
 *   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 *   [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 
-## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
 *   [Chimp (⭐787)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
 *   [sentences (⭐335)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
-## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Web Applications
 
@@ -105,7 +111,7 @@
 
 *   [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

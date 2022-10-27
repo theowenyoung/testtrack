@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,13 +13,19 @@
 *   [morph (⭐537)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
-## [2. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Chart
+
+*   [react-chartjs-2 (⭐5.4k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
+
+## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Validation / Paid Books
 
 *   [jQuery-form-validation (⭐33)](https://github.com/bnabriss/jquery-form-validation) - Validatie html forms using Laravel syntax.
 
-## [3. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [4. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI algorithms / Blockchain projects for AI algorithms
 
@@ -30,13 +36,13 @@
 
 *   [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
-## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Learning
 
 *   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Newsletters
 

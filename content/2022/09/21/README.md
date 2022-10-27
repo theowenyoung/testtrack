@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2022
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,19 +81,57 @@
 
 *   [Mechanize (⭐26)](https://github.com/gushonorato/mechanize) - Build web scrapers and automate interaction with websites in Elixir with ease!
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-reactts18-eslint-tailwindcss (⭐2)](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
+
+### Open Source / Community
+
+*   [IslandJS (⭐143)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Testing / Redux / ELM / Dependency Injection
 
 *   [flutter\_convenient\_test (⭐302)](https://github.com/fzyzcjy/flutter_convenient_test) <!--stargazers:fzyzcjy/flutter_convenient_test--> - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by [fzyzcjy](https://github.com/fzyzcjy)
 
-## [9. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Cloud Storage
+
+*   **Google Drive** - Google owned, so privacy policy is [very bad](https://tosdr.org/en/service/217). The data is stored in their remote servers where you lose control of it. They use trackers. No encryption available.
+*   **DropBox** - [Bad privacy policy](https://tosdr.org/en/service/270). The app has [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.dropbox.android/latest/) and requires many permissions.
+*   **OneDrive** - Microsoft owned, privacy policy is [very bad](https://tosdr.org/en/service/244). The data is stored in their remote servers where you lose control of it. They use trackers. No encryption available.
+*   [Peergos](https://peergos.org/) - Secure and private space online where you can store, share and view your photos, videos, music and documents. Also includes a calendar, news feed, task lists, chat and email client. Open source and self-hostable.
+
+### File Management and Sharing
+
+*   **WeTransfer** - [Bad privacy policy](https://tosdr.org/en/service/214). Files are not e2e encrypted. Website has many analytics and trackers.
+*   **SendAnywhere** - No e2e encryption. Website has loads of analytics and trackers from Facebook, Google, Cloudflare...
+
+### Pastebin and Secret Sharing
+
+*   [Yopass (⭐981)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
+*   [PrivateBin (⭐4.4k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+### Sonic the Hedgehog
+
+*   [Sonic Robo Blast 2](https://www.srb2.org/) - Sonic Robo Blast 2 is a 3D open-source Sonic the Hedgehog fangame built using a modified version of the Doom Legacy port of Doom.
+
+### Third-Party owned
+
+*   [Mailfence](https://mailfence.com) - Secure and private email.
+*   [Skiff](https://skiff.com) - Privacy-first, end-to-end encrypted, open-source email.
+
+## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [Zenduty](https://www.zenduty.com) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
@@ -102,20 +140,20 @@
     *   [candrew/netsim (⭐111)](https://github.com/canndrew/netsim) — A Rust library for network simulation and testing [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
     *   [jesusprubio/online (⭐113)](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
 
-## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [isomerjs](http://jdan.github.io/isomer/) - An isometric graphics library for HTML5 canvas
 *   [Rough.js](https://roughjs.com/) - Rough.js is a graphics library that lets you draw in a sketchy, hand-drawn-like, style
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Organizing conceptual knowledge in humans with a gridlike code](http://behavioralhealth2000.com/wp-content/uploads/2017/01/Organizing-conceptual-knowledge-in-humans-with-a-gridlike-code.pdf) - ***Science***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=10995575332310321503\&hl=en\&as_sdt=0,5)]. Original findings suggest that global relational codes may be used to organize nonspatial conceptual representations and that these codes may have a hexagonal gridlike pattern when conceptual knowledge is laid out in two continuous dimensions.
 
-## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Articles / Wasm
 
@@ -130,7 +168,7 @@
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐0)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Version Control Systems
 

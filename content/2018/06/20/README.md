@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,7 +59,13 @@
 
 *   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.6k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP`
 
-## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Fact Checking / Telegram
+
+*   [Captin Fact](https://captainfact.io/)
+
+## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Algorithms
 
@@ -67,13 +73,13 @@
     *   Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
     *   [Lectures and Assignments (⭐1.5k)](https://github.com/jaehyunp/stanfordacm)
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [swift-protobuf (⭐4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -85,7 +91,7 @@
     *   [msgpack-cli (⭐791)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
     *   [MessagePack-CSharp (⭐4.2k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 14, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -140,13 +140,19 @@
 
 *   [Ernest Davis](https://cs.nyu.edu/\~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Boilerplate / Mouse Events
+
+*   [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
+
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
 *   [Skia (⭐6.9k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
@@ -171,14 +177,14 @@
 *   [ebpfkit-monitor (⭐78)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
 *   [Bad BPF (⭐274)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
 
-## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Publications / Books
 
 *   [The Networknomicon, or SNMP Mastery by Abdul Alhazred and Michael W. Lucas](https://mwl.io/nonfiction/networking#networknomicon) - The Simple Network Management Protocol, SNMP, empowers you to invoke ancient standards from the void. SNMP exposes the secrets of your network and servers, and--if you're careless--reconfigures them into unspeakable nightmares. It exposes your inadequate brain to the vast alien dimensions underlying modern computing.
 *   [SNMP Mastery by Michael W. Lucas](https://mwl.io/nonfiction/networking#snmp) - SNMP, Simple Network Management Protocol, Four lies in one acronym?
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -194,7 +200,7 @@
 
 
 
-## [11. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [12. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Binary Serialization
 

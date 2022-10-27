@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,25 +52,31 @@
 
 *   [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - Lots of wisdom about space program management.
 
-## [7. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### React / Loaders
+
+*   [vite-plugin-svgr (⭐180)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+
+## [8. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 
 ### Principles within bigger Design Systems
 
 *   [Apple Human Interface Principles](https://developer.apple.com/design/human-interface-guidelines/)
 
-## [8. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [9. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Files
 
 *   [@reactioncommerce/file-collections (⭐19)](https://github.com/reactioncommerce/reaction-file-collections) - Reaction FileCollections is a set of NPM packages that provide the ability to support file uploads, storage, and downloads in Node and Meteor apps, and in browser JavaScript.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [shtab.app](https://shtab.app/) - Project management service that makes collaboration in the office and remotely transparent with tracker based on AI.
 
-## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Standards / Custom Elements
 
@@ -80,13 +86,13 @@
 
 *   [From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path)
 
-## [11. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
+## [12. Awesome Mastodon](/content/tleb/awesome-mastodon/README.md)
 
 ### Clients
 
 *   [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 
-## [12. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [13. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Firmware
 

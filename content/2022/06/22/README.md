@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22, 2022
 
-16 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,13 +62,25 @@
 *   [ls (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-ls) - Adds some more aliases for `ls`.
 *   [ls (zpm-zsh) (⭐72)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
 
-## [9. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Vue / Transformers
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-md-preview (⭐128)](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
+
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Animation / Syntax Highlight
+
+*   [react-ts-typewriter (⭐11)](https://github.com/gerardmarquinarubio/ReactTypewriter) - [demo](https://codesandbox.io/s/react-typewriter-example-mgyclf) - Easy to use and customizable typewriter effect for any text.
+
+## [11. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [britecharts (⭐3.7k)](https://github.com/britecharts/britecharts) - Client-side reusable charting library \[bar, line, donut, sparkline, step]
 
-## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [12. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Maps / Web Maps
 
@@ -79,13 +91,13 @@
 
 *   [Komoot](https://www.komoot.com/) - A route planner and navigation app specializing in hiking and cycling. ([Android](https://market.android.com/details?id=de.komoot.android), [iOS](https://itunes.apple.com/de/app/id447374873?mt=8) / [Wiki](https://wiki.openstreetmap.org/wiki/Komoot))
 
-## [11. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions
 
 *   [Cloudinary Upload Interface (⭐2)](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - Simple interface for upload/read cloudinary image.
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
@@ -99,25 +111,31 @@
 
 *   [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code (⭐1k)](https://github.com/bludit/bludit)) `MIT` `PHP`
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### RPC
 
 *   [gRPC UI (⭐3.6k)](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Typetta (⭐57)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
+
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Formatting / Diagnostics
 
 *   [cappyzawa/trim.nvim (⭐48)](https://github.com/cappyzawa/trim.nvim) - This plugin trims trailing whitespace and lines.
 
-## [15. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [18. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### RPG
 
 *   [OpenNox (⭐195)](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 

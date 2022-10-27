@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14 - Aug 20, 2017
 
-38 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,25 @@
 
 *   [Mongoid (⭐3.9k)](https://github.com/mongodb/mongoid) - An ODM (Object-Document-Mapper) framework for MongoDB in Ruby.
 
-## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Antvel (⭐645)](https://github.com/ant-vel/App)
+
+  Description: Laravel eCommerce
+
+  Link: <http://antvel.com>
+
+
+
+## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow (⭐244)](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 
-## [3. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [4. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Scientific / XML
 
@@ -26,25 +38,25 @@
 *   [mir-algorithm (⭐209)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
 *   [mir-random (⭐30)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
-## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [CNTK - Microsoft Cognitive Toolkit (⭐17k)](https://github.com/Microsoft/CNTK)
 
-## [5. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Recommender Systems
 
 *   [libffm (⭐1.6k)](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM).
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [ML-From-Scratch (⭐22k)](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
 
-## [7. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [8. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Code Coverage
 
@@ -130,7 +142,7 @@
 *   [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 *   [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [9. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
@@ -144,13 +156,13 @@
 
 *   [Goreplay (⭐16k)](https://github.com/buger/goreplay) - A tool for capturing and replaying live HTTP traffic into a test environment.
 
-## [9. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [10. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / Official Resources
 
 *   [Docker Hub](https://hub.docker.com/r/typelead/eta/) - Docker repo for Eta.
 
-## [10. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [11. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -159,43 +171,49 @@
 *   [venn.js (⭐955)](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
 *   [visavail (⭐280)](https://github.com/flrs/visavail) - Time data availability visualization
 
-## [11. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [12. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Community
 
 *   [Mozilla Discourse](https://discourse.mozilla.org/c/add-ons) - Discussions.
 
-## [12. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [13. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / C#
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
-## [13. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [14. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Books / Transactions
 
 *   [HBase: The Definitive Guide](http://shop.oreilly.com/product/0636920014348.do) - Comprehensive guide to HBase.
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Scala SDK
 
 *   [seratch/AWScala :fire::fire::fire: (⭐731)](https://github.com/seratch/AWScala)
 
-## [15. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 
 *   [A Vulnerability in Modern Automotive Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Voltron (⭐5.8k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
+
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
 *   [libui (⭐10k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
 
-## [17. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [19. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Server
 
@@ -210,7 +228,7 @@
 *   [Official Appium Docker Images (⭐452)](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
 *   [Appium Docker Images (⭐5k)](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
 
-## [18. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [20. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Community
 
@@ -218,19 +236,19 @@
 *   [Gitter Chat Channel](https://gitter.im/dart-lang/home)
 *   [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
 
-## [19. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [Open AWS guide (⭐33k)](https://github.com/open-guides/og-aws)
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Parsing
 
 *   [pest-parser/pest (⭐3.3k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
 
-## [21. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [23. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Code Editors / HTML+CSS+JS
 
@@ -241,7 +259,7 @@
     *   [Vundle (⭐23k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
     *   [vimrc from amix (⭐28k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
-## [22. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [24. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Tutorials
 
@@ -253,7 +271,7 @@
 *   [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - Comparision between the tracing systems inspectIT and Zipkin.
 *   [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - Introduction into inspectIT's cross-JVM tracing.
 
-## [23. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
@@ -318,7 +336,7 @@
 *   [Valadoc](https://valadoc.org/) - Documentation about Vala.
 *   [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
-## [24. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [26. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Parsing
 
@@ -349,7 +367,7 @@
 
 *   [The Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide)
 
-## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -363,13 +381,13 @@
 
 *   [wttr.in (⭐20k)](https://github.com/chubin/wttr.in) - :partly\_sunny: The right way to check the weather (curl wttr.in)
 
-## [26. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [28. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools
 
 *   [ssh-ping (⭐847)](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social\&label=stars)](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh\_config
 
-## [27. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [29. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
@@ -392,13 +410,13 @@
 *   [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat: (⭐3.2k)](https://github.com/jakevdp/WhirlwindTourOfPython) - fast-paced introduction to Python essentials, aimed at researchers and developers.
 *   [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat: (⭐2.9k)](https://github.com/scipy-lectures/scipy-lecture-notes) - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
 
-## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Blogs
 
 *   [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -417,7 +435,7 @@
 
 *   [vue-gaspard (⭐7)](https://github.com/lucaperret/vue-gaspard) - DOM helpers plugin for Vue.js
 
-## [30. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [32. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
@@ -462,7 +480,7 @@
 
 *   [CanvasPaint](http://sigilmaster.com/) - Clone of Microsoft Paint in HTML, CSS, and JavaScript.
 
-## [31. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [33. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
@@ -496,13 +514,13 @@
 *   [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Several documentaries on Buddhism in the late 1900s.
 *   [Wat Marp Jan (วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
 
-## [32. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
 *   [On Generative Algorithms](http://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
 
-## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -541,7 +559,7 @@
 
 *   [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir) - Bring Elixir into your company, with real-life strategies from the people who built Elixir and use it successfully at scale. This book has all the information you need to take your application from concept to production (2017).
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
@@ -551,7 +569,7 @@
 
 *   [Spreads (⭐382)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams.
 
-## [35. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [37. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Tools/Debugging
 
@@ -571,7 +589,7 @@
 *   [WebVR Slack](http://webvr-slack.herokuapp.com/)
 *   [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
-## [36. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Screencasts
 
@@ -581,7 +599,7 @@
 
 *   [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -604,7 +622,7 @@
 *   [FluxCapacitor (⭐123)](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 *   [Highlighter (⭐931)](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 
-## [38. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

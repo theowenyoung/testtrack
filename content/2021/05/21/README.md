@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -124,19 +124,127 @@
 
 *   [shohi/neva (⭐11)](https://github.com/shohi/neva) - A Neovim version manager written in Lua.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Encryption
+
+*   [Stegcloak](https://stegcloak.surge.sh/) - Hide secrets with invisible characters in plain text securely using passwords.
+*   [Veracrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, macOS and Linux.
+*   [Hat.sh](https://hat.sh/) - A Free, Fast, Secure and Serverless File Encryption.
+
+### Cloud Storage
+
+*   [Seafile](https://www.seafile.com/en/home/) - High performance file syncing and sharing. It includes a Wiki, WYSIWYG editing and other knowledge management features.
+*   [Syncthing](https://syncthing.net/) - Continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+*   [Rclone](https://rclone.org/) - Rclone is a command line program to manage files on cloud storage. It is a feature rich alternative to cloud vendors' web storage interfaces and like the tools listed above enables encryption for encrypting files in the cloud.
+
+### File Management and Sharing
+
+*   [Blaze](https://blaze.now.sh/) - A fast, p2p and radically different way to transfer files.
+*   [Send](https://gitlab.com/timvisee/send) - Simple, private file sharing. (Mozilla Send Fork)
+*   [Lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let's Upload that FIle — File sharing software.
+*   [Croc (⭐21k)](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
+*   [Dat-cp (⭐299)](https://github.com/tom-james-watson/dat-cp) - Copy files between hosts on a network using the peer-to-peer Dat network.
+*   [QRcp (⭐8.9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+
+### Decentralized
+
+*   [Matrix (Protocol)](https://matrix.org/) - An open network for secure, decentralized communication.
+    *   [Element](https://element.io/) - All-in-one secure chat app for teams, friends and organisations. Keeps conversations in your control, safe from data-mining and ads. End-to-end encryption.
+*   [Jabber / XMPP (Protocol)](https://xmpp.org/) - The universal and open messaging standard. Tried and tested. Independent. Privacy-focused. E2E encrypted.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Conversations](https://conversations.im/) - Jabber/XMPP client for Android 4.0+ smartphones that has been optimized to provide a unique mobile experience.
+    *   [AstraChat](https://astrachat.com/) - Another XMPP client.
+*   [DeltaChat](https://delta.chat/) - Chat over encrypted e-mail.
+
+### Centralized
+
+*   [Threema](https://threema.ch/en) - The messenger that puts security and privacy first. Pay once, chat forever. No collection of user data. Open Source client.
+*   [Status](https://status.im/) - Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology.
+
+### P2P
+
+*   [Tox](https://tox.chat/) - Tox is easy-to-use software that connects you with friends and family without anyone else listening in.
+*   [Briar](https://briarproject.org/) - Peer-to-peer encrypted messaging and forums.
+*   [Tinfoil Chat (⭐943)](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
+
+### Mail Services
+
+*   Gmail
+*   Outlook
+*   Yandex Mail
+*   Yahoo! Mail
+
+### Third-Party owned
+
+*   [Tutanota](https://tutanota.com/) - Secure email for everybody. Open Source.
+
+### Smart TV
+
+*   [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
+*   [Kodi](https://kodi.tv/) - It is an entertainment hub that brings all your digital media together into a beautiful and user friendly package. It is 100% free and open source, very customisable and runs on a wide variety of devices.
+*   [OSMC](https://osmc.tv/) - OSMC is a free and open source media center built for the people, by the people.
+*   [RaspberryCast (⭐840)](https://github.com/vincelwt/RaspberryCast) - Transform your Raspberry Pi into a streaming device. Cast videos from mobile devices or computers to your TV.
+
+### Audio
+
+*   [Subsonic](https://www.subsonic.org/pages/index.jsp) - Your complete, personal music streamer.
+*   [Ampache](https://ampache.org/) - A web based audio/video streaming application and file manager.
+*   [Koel](https://koel.dev/) - a personal music streaming server that works.
+*   [Nuclear](https://nuclear.js.org/) - Modern music player focused on streaming from free sources.
+*   [Navidrome](https://navidrome.org/) - Lightweight, fast and self-contained personal music streamer.
+
+### Android
+
+*   [GrapheneOS](https://grapheneos.org/) - GrapheneOS is an open source privacy and security focused mobile OS with Android app compatibility.
+*   [CalyxOS](https://calyxos.org/) - CalyxOS lets you have your cake and eat it too, with  "Privacy by Design".
+*   [LineageOS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform.
+*   [Replicant](https://www.replicant.us/) - A free software mobile operating system putting the emphasis on freedom and privacy/security.
+
+### Based on Linux
+
+*   [UBPorts](https://www.ubports.com/) - Ubuntu Touch is the touch-friendly mobile version of Ubuntu.
+*   [postmarketOS](https://postmarketos.org/) - Touch optimised and pre-configured version of Alpine Linux.
+*   [PureOS](https://www.pureos.net/) - Operating system developed by purism for the Librem 5.
+*   [Plasma Mobile](https://www.plasma-mobile.org/) - Plasma, in your pocket. Privacy-respecting, open source and secure phone ecosystem.
+*   [mobian](https://mobian-project.org/) - Debian for mobile.
+
+### Payments
+
+*   Visa / Mastercard
+*   WeChat
+*   \_insertBigTechHere\_Pay
+*   [Monero](https://www.getmonero.org/) - Monero is cash for a connected world. It's fast, private, untraceable and secure.
+*   Cash - Use person-to-person payments using physical notes and coins.
+*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. You need to be really careful when using Bitcoin so you don't leave any traces that can later be used against you to harm your privacy. [See aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8).
+
+### FIAT
+
+*   [ProExpense (⭐77)](https://github.com/arduia/ProExpense/) - A simple free finance note to safely record daily expenses.
+*   [Nextcloud Cospend](https://apps.nextcloud.com/apps/cospend) - A group/shared budget manager inspired by the great IHateMoney.
+    *   [MoneyBuster](https://gitlab.com/eneiluj/moneybuster/) - Android client for Nextcloud Cospend and [IHateMoney](https://ihatemoney.org/) servers.
+
+### CRYPTO
+
+*   [Rotki (⭐1.9k)](https://github.com/rotki/rotki) - An awesome portfolio tracking, analytics, accounting and tax reporting application that protects your privacy.
+
+### Uncategorized
+
+*   [Skymap](https://skymaponline.net/) - Open online planetarium program.
+*   [Hetty (⭐5k)](https://github.com/dstotijn/hetty) - Hetty is an HTTP toolkit for security research. It aims to be an open-source alternative to Burp Suite Pro.
+
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Text processing
 
 *   [fancy-regex/fancy-regex (⭐284)](https://github.com/fancy-regex/fancy-regex) \[[fancy-regex](https://crates.io/crates/fancy-regex)] - Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
 
-## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / OpenStreetMap
 
@@ -156,7 +264,7 @@
 
 *   [OSMnx (⭐3.9k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 

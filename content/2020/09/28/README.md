@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,13 +59,19 @@
 
 *   [How shitty job crush your soul, then lead to burnout](https://news.ycombinator.com/item?id=7789438) - “Burnout is a very serious situation. If you burn yourself out hard, it will be difficult to be effective at any future job you go to, even if it is ostensibly a wonderful job. Treat burnout like a physical injury.”
 
-## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Academic Papers and Material / Third Party Hosts
+
+*   [Sci-Hub](https://sci-hub.se/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
+
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [TSIC](https://crates.io/crates/tsic) - GPIO - TSIC 306 temperature sensor driver - [Intro blog post](https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/) ![crates.io](https://img.shields.io/crates/v/tsic.svg)
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Authentication & Identity
 
@@ -101,31 +107,31 @@
 
 *   [Applitools](https://applitools.com/) - Automated visual testing.
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / Other / unknown licence
 
 *   [ada4cmake (⭐3)](https://github.com/mosteo/ada4cmake) - CMake macros for simple gnat project inclusion.
 
-## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍 [tailzilla.app](https://tailzilla.app) - Online playground for Tailwind CSS.
 
-## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [10. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
 *   [gatling-sbt-plugin (⭐104)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 
-## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Related awesomeness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
 
-## [11. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
+## [12. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
 ### Documentation
 
@@ -135,19 +141,19 @@
 
 *   [Octo (⭐554)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 
-## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Remote Styles with Remote Config (⭐64)](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 
-## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Feature management
 
 *   [Unleash (⭐6.5k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
-## [14. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [15. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 

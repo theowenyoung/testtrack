@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2020
 
-22 awesome lists updated today.
+25 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [ Andrej Karpathy ](https://karpathy.ai/)
 
-## [2. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous / Lazy Load
+
+*   [component-controls (⭐72)](https://github.com/ccontrols/component-controls) - [demo](https://component-controls.com) - [docs](https://component-controls.com/tutorial) - A next-generation tool to create blazing-fast documentation sites.
+
+## [3. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Books / Books for Algorithms
 
@@ -24,7 +30,13 @@
 
 
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Detect It Easy(DiE) (⭐4.1k)](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
@@ -48,7 +60,7 @@
 *   [Functional Programming in Kotlin - Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano](https://www.manning.com/books/functional-programming-in-kotlin)
 *   [Programming Kotlin - Stephen Samuel, Stefan Bocutiu](https://www.packtpub.com/application-development/programming-kotlin)
 
-## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
@@ -56,19 +68,19 @@
 *   [Latinas in computing](https://latinasincomputing.org/) - A community created by and for the Latinas in Computing with a mission of promoting their representation and success in computing-related fields.
 *   [Latinas in tech](https://www.latinasintech.org/) - a non-profit organization with the aim to connect, support, and empower Latina women working in tech. We work hand in hand with top technology companies to create safe spaces for learning, mentorship and recruitment.
 
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [The SRE I Aspire to Be](https://www.youtube.com/watch?v=KnC2eRUZMKY)
 
-## [7. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [9. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### Design systems of some "known" companies
 
@@ -172,7 +184,7 @@
 
 *   [How To Build a Design System | UXPin](https://www.youtube.com/watch?v=h0MqkRJdaao) - Will teach you how to build a UX Design System using the UX Pin prototyping & design platform.
 
-## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [10. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Official resources
 
@@ -188,25 +200,39 @@
 
 *   [terraform.py (⭐443)](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / APIs
+
+*   [django-tastypie (⭐3.8k)](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
+
+### Third-Party Packages / Views
+
+*   [django-easy-audit (⭐499)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
+
+### Projects / Boilerplate
+
+*   [djangox (⭐1.4k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Other Free Resources
 
 *   [smsreceivefree.com](https://smsreceivefree.com/) — Provides free temporary and disposable phone numbers.
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Key-value Data Model
 
 *   [Graviton (⭐404)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -225,7 +251,7 @@
 
 *   [react-native-colibri ★5 (⭐10)](https://github.com/nidorx/react-native-colibri) - React Native Generic UI Components.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
@@ -252,7 +278,7 @@
 *   [vue-cli-plugin-mock (⭐27)](https://github.com/xuxihai123/vue-cli-plugin-mock) - Vue CLI Plugin to mock http request
 *   [vue-cli-plugin-ci (⭐10)](https://github.com/P0ppoff/vue-cli-plugin-ci) - Vue CLI Plugin to generate CI agent config file to start project with CI
 
-## [14. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [17. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Conferences / Slides
 
@@ -263,19 +289,19 @@
 *   [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 *   [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon : the new must-know PHP framework
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Product Configurators
 
 *   [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 
-## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [PyGrid (⭐605)](https://github.com/OpenMined/PyGrid/) - Peer-to-peer network of data owners and data scientists who can collectively train AI models using PySyft
 
-## [17. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [20. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Anti-Spam
 
@@ -285,7 +311,7 @@
 
 *   [Portswigger](https://portswigger.net) - PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools & identify the very latest vulnerabilities.
 
-## [18. Awesome Indie](/content/mezod/awesome-indie/README.md)
+## [21. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
 ### Communities / Other
 
@@ -312,19 +338,19 @@
 
     "The world's biggest conference for the world's smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
 
-## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
 *   [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **\[$]**
 
-## [20. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [23. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
 *   [Git-Scanner (⭐271)](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
-## [21. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [24. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ionic
 
@@ -335,7 +361,7 @@
 
 *   [Top SharePoint Interview Questions and Answers](https://intellipaat.com/blog/interview-question/sharepoint-interview-questions/)
 
-## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 

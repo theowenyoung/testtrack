@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,14 +20,24 @@
 *   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star: :star:
 *   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star:
 
-## [2. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Specialty Search Engines
+
+*   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
+
+### Other Tools / Telegram
+
+*   [BeVigil-CLI (⭐53)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+
+## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Multipurpose Engines
 
 *   [ruby-spacy (⭐34)](https://github.com/yohasebe/ruby-spacy) —
     Wrapper module for spaCy NLP library via [PyCall (⭐866)](https://github.com/mrkn/pycall.rb).
 
-## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
@@ -37,25 +47,25 @@
 
 *   [Coq keyword on Zenodo](https://zenodo.org/search?q=keywords%3A%22Coq%22)
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
 *   [mqtt-client.cr (⭐3)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 
 *   [kvstore.io](https://www.kvstore.io/) — Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [nanika (⭐0)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -67,7 +77,7 @@
 *   [dkandalov/pomodoro-tm (⭐126)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
 *   [emedinaa/kotlin-mvvm (⭐453)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
-## [8. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
@@ -78,7 +88,7 @@
 
 *   [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election) - Tool to predict nominated proof-of-stake elections.
 
-## [9. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+## [10. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
 ### Honeypots
 
@@ -99,7 +109,27 @@
 
     *   [SentryPeer (⭐115)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Capsulecorp Pentest (⭐521)](https://github.com/r3dy/capsulecorp-pentest)
+
+  Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
+
+
+- Repository: [Real-time Communications hacking & pentesting resources (⭐215)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+
+  Description: Covers VoIP, WebRTC and VoLTE security related topics
+
+
+- Repository: [Reinforcement Learning for Cyber Security (⭐130)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+
+  Description: List of awesome reinforcement learning for security resources
+
+
+
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -109,19 +139,19 @@
 
 *   [rustfmt (⭐4.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/dissolv/id1640893012)
 
-## [12. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [14. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 
 *   [EnvVar (⭐23k)](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Theory of Concepts
 

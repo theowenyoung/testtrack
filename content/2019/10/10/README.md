@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2019
 
-21 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -115,19 +115,25 @@
 
 *   [Orangetool (⭐101)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
-## [14. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Combine
+
+*   [*Combine: Asynchronous Programming with Swift* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/combine-asynchronous-programming-with-swift)
+
+## [15. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
-## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Example Projects
 
 *   [Keycloak Theme Development Kit (⭐48)](https://github.com/anthonny/kit-keycloak-theme)
 
-## [16. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [17. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Bruteforcers
 
@@ -144,13 +150,13 @@
 *   [Mzfr (⭐109)](https://github.com/mzfr/ctf-writeups/) - CTF competition write-ups by mzfr
 *   [SababaSec (⭐15)](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 
-## [18. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [19. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### React Native / Misc
 
@@ -168,7 +174,7 @@
 
 *   [Data Visualization Society](https://www.datavisualizationsociety.com/) - The Data Visualization Society is an organization dedicated to fostering community for data visualization professionals.
 
-## [19. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [20. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / DSL
 
@@ -178,17 +184,27 @@
 
 *   [Cloud Dataflow](https://cloud.google.com/dataflow/)\[Java, Python, SQL, Scala] - Google's managed stream and batch data processing engine. Supports running Beam pipelines.
 
-## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Scripting
 
 *   [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 
-## [21. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Monitoring & Observability & Alerting
 
 *   [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
+
+## [23. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Input Types
+
+*   [react-payment-inputs (⭐293)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+
+### Form Logic / Mouse Events
+
+*   [react-hook-form (⭐31k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ---
 

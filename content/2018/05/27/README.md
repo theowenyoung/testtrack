@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,7 +81,13 @@
 
 *   [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
 
-## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [Interactive TypeScript AST Viewer](https://ast.carlosroso.com/) - Write TypeScript snippets and explore its AST.
+
+## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Websites / Wiki
 

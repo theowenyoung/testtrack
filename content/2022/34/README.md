@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2022
 
-41 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,13 +16,19 @@
 
 *   [Electron (⭐208)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
-## [2. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Reference Lists
+
+*   [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossary of keywords, operators, statements and directives
+
+## [3. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
 ### Applications & Tools / Tournaments management
 
 *   [Foldy Sheet (⭐1)](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
 
-## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [4. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -36,14 +42,14 @@
 *   :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star: :star:
 *   :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star:
 
-## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [5. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
 *   [ruby-spacy (⭐34)](https://github.com/yohasebe/ruby-spacy) —
     Wrapper module for spaCy NLP library via [PyCall (⭐866)](https://github.com/mrkn/pycall.rb).
 
-## [5. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [6. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Frameworks
 
@@ -53,13 +59,13 @@
 
 *   [Coq keyword on Zenodo](https://zenodo.org/search?q=keywords%3A%22Coq%22)
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
 *   [mqtt-client.cr (⭐3)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
-## [7. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [8. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Honeypots
 
@@ -80,7 +86,27 @@
 
     *   [SentryPeer (⭐115)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Awesome Repositories
+
+- Repository: [Capsulecorp Pentest (⭐521)](https://github.com/r3dy/capsulecorp-pentest)
+
+  Description: Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis
+
+
+- Repository: [Real-time Communications hacking & pentesting resources (⭐215)](https://github.com/EnableSecurity/awesome-rtc-hacking)
+
+  Description: Covers VoIP, WebRTC and VoLTE security related topics
+
+
+- Repository: [Reinforcement Learning for Cyber Security (⭐130)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+
+  Description: List of awesome reinforcement learning for security resources
+
+
+
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -90,25 +116,39 @@
 
 *   [rustfmt (⭐4.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [Dissolv](https://www.7sols.com/dissolv/) - Hide and close inactive apps. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/dissolv/id1640893012)
 
-## [10. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [12. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
 *   [Matano (⭐450)](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [13. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Specialty Search Engines
+
+*   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
+
+### Books and Reading / Telegram
+
+*   [BingeBooks](https://www.bingebooks.com)
+
+### Other Tools / Telegram
+
+*   [BeVigil-CLI (⭐53)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+
+## [14. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring Services / Other
 
 *   [Discover Docker courses](https://bestcourses.io/results?q=docker\&size=n_20_n) - Easily discover Docker courses from various popular online learning platforms.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Logging
 
@@ -129,7 +169,13 @@
     *   [BoltDoggy/deno#dpm (⭐11)](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
     *   [dpmland/dpm (⭐39)](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
 
-## [13. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [16. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Web Exploitation / Web path discovery and bruteforcing tools
+
+*   [DotDotPwn](https://dotdotpwn.blogspot.com/) - Directory traversal fuzzer.
+
+## [17. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 
@@ -139,19 +185,34 @@
 
 *   [joffref/opa-middleware (⭐5)](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
 *   🚀 [AstroWind (⭐238)](https://github.com/onwidget/astrowind) - Production ready and SEO-friendly template to start a website using Astro and Tailwind CSS.
 
-## [15. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [19. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### No email verification, accepting monero
+
+*   [Crypton](https://crypton.sh/) - Secure SMS Sim Card in the cloud. (Based in Iceland)
+*   [Virtualsim](https://virtualsim.net/) - Virtualsim provides physical SIM cards leasing for SMS verifications. (Based in Ukraine)
+
+### Email verification required, accepting monero
+
+*   [Onlinesim](https://onlinesim.ru/) - Receive SMS online to virtual phone number. (Based in Russia)
+
+### Email verification required, accepting crypto
+
+*   [SmsPVA](https://smspva.com/) - SmsPVA is a service providing a phone number you can send any SMS on and get a text of it. (Based in France)
+
+## [20. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Projects Using Seed
 
 *   [CalcuPi](https://dvjn.github.io/CalcuPi) - A beautiful Monte Carlo simulation for approximating the value of pi.
 
-## [16. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [21. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Support
 
@@ -180,7 +241,7 @@
 *   [Typechain-Polkadot (⭐7)](https://github.com/Supercolony-net/typechain-polkadot) - Hepls users to generate typescript types from contract ABIs (ink!) and generate runtime code to interact with contracts and deploy them.
 *   [Polkaholic.io](https://polkaholic.io) - Multi-chain block explorer with API and DeFi support across 40+ parachains.
 
-## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [22. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -190,7 +251,7 @@
 
 *   [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 
-## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [23. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Development / C/C++
 
@@ -200,7 +261,7 @@
 
 *   [TEALrb (⭐6)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts.
 
-## [19. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [24. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration
 
@@ -210,32 +271,32 @@
 
 *   [directus-auto-migrate (⭐40)](https://github.com/dstoyanoff/directus-auto-migrate) - A CLI to automatically generate Directus migrations based on the changes in a real instance. (no longer maintained, feature added to core)
 
-## [20. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [25. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Feature Engineering / General
 
 *   [Feature Engine (⭐1.1k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### ORM
 
 *   [bun (⭐1.6k)](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 
-## [22. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [27. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
 *   [Solid (⭐79)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
 
-## [23. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [28. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Tab Size on GitHub (⭐283)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 
 Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
-## [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -251,7 +312,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [kawaii (⭐0)](https://github.com/LeonidPilyugin/kawaii-oh-my-zsh/) - Has terminal and virtual console modes. Includes decorators for username, directory, last command exit status, timestamp and `git` status.
 *   [nanika (⭐0)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
-## [25. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [30. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Training/Documentation
 
@@ -260,26 +321,44 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
     *   [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
     *   [Tutorial for Humanities researchers about how to explore Arquivo.pt](https://sobre.arquivo.pt/en/tutorial-for-humanities-researchers-about-how-to-use-arquivo-pt/)
 
-## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [31. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Jax in Action](https://www.manning.com/books/jax-in-action) - A book about The JAX numerical computing library.
 
-## [27. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [32. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Design
 
 *   [Moon Modeler](https://www.datensen.com) - Data modeling tool for both noSQL and relational databases. Available for Windows, Linux and macOS.
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Security Newsletters (⭐326)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
 *   [Awesome Censys Queries (⭐53)](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries.
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vanilla
+
+*   [vite-tailwind-stimulus-starter (⭐1)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+
+### Templates / React
+
+*   [react-vite-ts-boilerplate (⭐27)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-zip-file (⭐3)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-browserslist-useragent (⭐8)](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
+
+## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
@@ -293,7 +372,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [NetArchTest (⭐672)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 
-## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -307,13 +386,25 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [nvim-lua/kickstart.nvim (⭐502)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Snippets.Ninja (⭐57)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
-## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Go
+
+- Name: [Kopia](https://kopia.io/)
+
+  Description: Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice.
+
+  Link: [https://github.com/kopia/kopia (⭐2.3k)](https://github.com/kopia/kopia)
+
+
+
+## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Writing
 
@@ -345,13 +436,24 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
-## [33. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [40. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Fixinator](https://fixinator.app) :copyright: — Static security code analysis for ColdFusion or CFML code. Designed to work within a CI pipeline or from the developers terminal.
 
-## [34. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [41. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Chrome Extensions:
+
+- Website: [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)
+
+
+- Website: [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+
+
+## [42. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Swift / Angular
 
@@ -361,13 +463,24 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [@cossacklabs](https://twitter.com/cossacklabs).
 
-## [35. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [43. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-iterative (⭐257)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
-## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [44. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Interview
+
+*   [*Ace the iOS Interview Release* by Aryaman Sharda](https://aryamansharda.gumroad.com/l/tcvck)
+
+### Contributors
+
+*   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
+*   [Big Mountain Studio](https://github.com/bigmountainstudio)
+
+## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -390,7 +503,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [dkandalov/pomodoro-tm (⭐126)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
 *   [emedinaa/kotlin-mvvm (⭐453)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -425,7 +538,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [kvstore.io](https://www.kvstore.io/) — Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour
 *   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as Wordpress, Drupal or Magento. reSmush.it is the most used image optimization API with more than 7 billions images already treated, and is still Free of charge.
 
-## [38. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Coding platforms
 
@@ -440,7 +553,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [Resolve (⭐28)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
-## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [48. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
@@ -455,7 +568,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [Wagtail Secret Sharing (⭐4)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐3)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
-## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Bundlers
 
@@ -474,7 +587,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [Dexie.js (⭐8.5k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
 
-## [41. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [50. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Cloud Computing
 

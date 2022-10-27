@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 06, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,6 +46,32 @@ git config --global --unset <entry-name>
 ### Key-value Data Model
 
 *   [TiKV (⭐12k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
+
+## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Katana (⭐380)](https://github.com/themsaid/katana)
+
+  Description: Laravel static site/blog generator with markdown support
+
+  Link: 
+
+
+- Name: [CoasterCMS (⭐393)](https://github.com/web-feet/coastercms)
+
+  Description: Coaster CMS Project
+
+  Link: <http://www.coastercms.org>
+
+
+- Name: [Statamic](https://github.com/statamic)
+
+  Description: Flat File CMS
+
+  Link: <https://statamic.com>
+
+
 
 ---
 

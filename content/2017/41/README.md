@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09 - Oct 15, 2017
 
-48 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -390,7 +390,27 @@ Notes:
 *   [Deep Learning](http://www.deeplearningbook.org/) - Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/\~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
 
-## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [34. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [Adversarial Machine Learning (⭐1.6k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+
+  Description: Curated list of awesome adversarial machine learning resources
+
+
+- Repository: [AI Security (⭐1.1k)](https://github.com/RandomAdversary/Awesome-AI-Security)
+
+  Description: Curated list of AI security resources
+
+
+- Repository: [Web Security (⭐8.8k)](https://github.com/qazbnm456/awesome-web-security)
+
+  Description: Curated list of Web Security materials and resources
+
+
+
+## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -404,13 +424,13 @@ Notes:
 
 *   [Usable Security Course](https://pt.coursera.org/learn/usable-security) - Usable Security course at coursera. Quite good for those looking for how security and usability intersects.
 
-## [35. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [36. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
 *   [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: (⭐1.5k)](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 
-## [36. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [37. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Javascript
 
@@ -430,26 +450,32 @@ Notes:
 
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
-## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Books
+
+*   :books: [Angular 2 Development with TypeScript (2016)](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
+
+## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
 *   [eb-py-flask-signup :fire::fire: (⭐268)](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
 
-## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
 *   [SnapVX (⭐62)](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Standard Libraries
 
 *   [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
 
-## [40. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [42. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
@@ -463,7 +489,7 @@ Notes:
 
 *   [mqttclpro (⭐90)](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app.
 
-## [41. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [43. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Blog Posts
 
@@ -471,7 +497,7 @@ Notes:
 *   [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) - by **Sam Jarman**
 *   [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
@@ -493,7 +519,7 @@ Notes:
 
 *   [Closures (⭐1.7k)](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 
-## [43. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [45. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Windows Managers / Other Desktop Environments
 
@@ -509,7 +535,7 @@ Notes:
 *   [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
 *   [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.
 
-## [44. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [46. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
@@ -520,7 +546,7 @@ Notes:
 *   [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI) - Black Hat talk by Jonathan Petit. Automated and connected vehicles are the next evolution in transportation and will improve safety, traffic efficiency and driving experience. This talk will be divided in two parts: 1) security of autonomous automated vehicles and 2) privacy of connected vehicles. 2015
 *   [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw) - Black Hat talk By Charlie Miller and Chris Valasek. Automotive security concerns have gone from the fringe to the mainstream with security researchers showing the susceptibility of the modern vehicle to local and remote attacks. Discussion of vehicle attack surfaces. 2014.
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [47. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
@@ -544,7 +570,7 @@ Notes:
 
 *   [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 
-## [46. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [48. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Philosophy And Psychology
 
@@ -651,13 +677,13 @@ Notes:
 
 
 
-## [47. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [49. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Software that Uses Qt / New Functionality
 
 *   [Vuo](https://vuo.org) [:octocat: (⭐96)](https://github.com/vuo/vuo) — Realtime visual programming language for interactive media.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 

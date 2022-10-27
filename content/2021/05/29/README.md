@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -185,7 +185,13 @@
 
 *   [java-opengl-labs/modern-jogl-examples (⭐96)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 
-## [6. Awesome V](/content/vlang/awesome-v/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Audio
+
+*   [dzr (⭐91)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+
+## [7. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Libraries / Command line interface (CLI) / Terminal / Shell
 

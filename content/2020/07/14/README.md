@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,17 @@
 
 *   [structlog](https://www.structlog.org/en/stable/) - Structured logging made easy.
 
-## [4. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Trackers / Public Trackers
+
+*   [Torrentz2](https://torrentz2.is/) A good replacement of the defunct Torrentz.eu [other](https://torrentsmirror.com/) [mirrors](https://torrentz.pl/)
+
+### Miscellaneous / Third Party Hosts
+
+*   [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+
+## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
@@ -34,20 +44,20 @@
 
 *   [Heroku Playwright Example (⭐18)](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-ics (⭐15)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Logging / Third-party APIs
 
 *   ⭐ [log4cl (⭐61)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Image Processing
 
@@ -57,7 +67,7 @@
 
 *   [waymo-open-dataset (⭐2k)](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Libraries / Class Based
 
@@ -67,13 +77,13 @@
 
 *   [reactify-wc (⭐147)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
 *   [version\_tools (⭐8)](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
 
-## [10. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -83,7 +93,7 @@
 
 *   [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
@@ -101,7 +111,7 @@
 
 *   [Analyzing Big Data](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html)
 
-## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Service meshes
 

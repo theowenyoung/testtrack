@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,7 +99,21 @@
 *   [Blazor.Grids (⭐20)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
 *   [Blazor.TreeViews (⭐51)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
-## [12. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [12. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Tinre (⭐52)](https://github.com/devpri/tinre)
+
+  Description: A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS.
+
+  Link: [https://github.com/devpri/tinre (⭐52)](https://github.com/devpri/tinre)
+
+  : 
+
+
+
+## [13. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Algorithms and AI
 

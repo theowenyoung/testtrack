@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -145,6 +145,16 @@
 ### Scanning / Sub Domain Enumeration
 
 *   [Nuclei (⭐10k)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
+
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-admin-interface (⭐1.2k)](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
+
+### Third-Party Packages / Forms
+
+*   [django-floppyforms (⭐809)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,13 @@
 
 *   [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 
-## [5. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [Thin Backend (⭐1k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
+
+## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Blog Posts
 
@@ -55,14 +61,14 @@
 
 *   [Codementor Events](https://www.codementor.io/events) - Curated listed of tech events and year-round developer-centered virtuao events.
 
-## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Java Examples / React
 
 *   [graphql-java-kickstart-federation-example (⭐7)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
 *   [dgs-federation-example (⭐75)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
 
-## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -120,7 +126,7 @@
 *   [Uundo](https://www.sac.sk/download/pack/uundo.zip) - Universal Undo - Universal Unpacker.
 *   [UUP](https://www.sac.sk/download/pack/uup14.zip) - Universal exe-file UnPacker.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Stream Processing
 
@@ -134,7 +140,7 @@
 
 *   [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 
-## [9. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [10. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 
@@ -145,13 +151,24 @@
 *   [fastapi-gino-arq-uvicorn (⭐335)](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - Template for a high-performance async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 *   [fastapi-alembic-sqlmodel-async (⭐156)](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
 
-## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
 *   [ConCert (⭐74)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
 
-## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Analytics
+
+*   [Swetrix](https://swetrix.com) - Privacy-focused, fully cookieless and opensource (and selfhostable) web-analytics service.
+
+### Third-party
+
+*   [Ente](https://ente.io/) - End-to-end encrypted storage for photos and videos. Open source clients.
+*   [Stingle Photos](https://stingle.org/) - Open source solution that provides strong security, privacy and encryption to backup your photos.
+
+## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Manuals
 
@@ -171,13 +188,13 @@
 
 *   [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IaaS
 
 *   [Tebi](https://tebi.io/) - S3 compatibility object storage.Free 25 GB storage and 250GB outbound transfer.
 
-## [13. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [15. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
 

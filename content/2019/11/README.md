@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18 - Mar 24, 2019
 
-45 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -131,13 +131,131 @@ Free
 
 *   [BinData (⭐38)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
-## [14. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Browser Extensions
+
+*   [Anti-Paywall (⭐628)](https://github.com/nextgens/anti-paywall) A browser extension that maximizes the chances of bypassing paywalls
+
+### Password Vaults
+
+*   [Buttercup](https://buttercup.pw/) Another open source password manager with desktop, mobile, and browser clients.
+
+### Torrenting
+
+*   [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
+
+### Seedboxes / WebTorrent Clients
+
+*   [SeedSync (⭐251)](https://github.com/ipsingh06/seedsync) SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+
+### DDL Search Engines and Crawlers / Free Indexers
+
+*   [Orion](https://orionoid.com/) :star2: Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
+
+### Streaming Sites / Sports Streaming
+
+*   [footybite](https://www.footybite.com/) Soccer streaming site.
+
+### Streaming Sites / Third Party Hosts
+
+*   [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
+
+### Plex Plugins / Third Party Hosts
+
+*   [SuperPLEX](https://normantheidiot.neocities.org/superplex/) A website dedicated to Plex Plugins.
+
+### Plex Requests / Third Party Hosts
+
+*   [MediaButler (⭐3)](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [PlexMissingEpisodes (⭐42)](https://github.com/MysticRyuujin/PlexMissingEpisodes) Scan Plex library for missing episodes using TheTVDB#
+*   [Gaps (⭐514)](https://github.com/JasonHHouse/Gaps) Find the missing movies in your Plex Server
+*   [PlexRecs (⭐30)](https://github.com/nwithan8/PlexRecs) A Discord bot that provides movie and TV show recommendations from your Plex library
+*   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield
+
+### Gaming / Third Party Hosts
+
+*   [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
+
+### ROMs / Third Party Hosts
+
+*   [Emulator.Games](https://emulator.games/) Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
+*   ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) Reddit guide and userscript created by /u/estel\_smith to allow you to easily download ROMs from Emulator.Games.
+
+### Spotify / Third Party Hosts
+
+*   [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332\&t=2950704) Modded APK with no ads.
+
+### Audiobooks / Third Party Hosts
+
+*   [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye
+*   [AudioBooks.Cloud](https://audiobooks.cloud/) DDL links for lots of audiobooks.
+*   [Tokybook](https://tokybook.com/) Free audiobook streaming site.
+
+### Fonts, Icons, and Graphics / Third Party Hosts
+
+*   [gallery-dl (⭐5.7k)](https://github.com/mikf/gallery-dl) Command-line program to download image-galleries and -collections from several image hosting sites
+
+### Automation / Third Party Hosts
+
+*   [Nefarious](https://lardbit.github.io/nefarious/) Nefarious is a web application that helps you download movies and TV shows.
+
+### Mobile Apps / Third Party Hosts
+
+*   [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) A popular Android app for watching IPTV on Android set-top boxes.
+*   [Fildo](https://fildo.net/android/en/#) Android music streaming app which fetches files from third party MP3 search engines.
+
+### Streaming Apps / Third Party Hosts
+
+*   [AniméGlare](https://animeglare.xyz/)
+*   [AniméVibe](http://animevibe.tv/)
+*   [ApolloTV](https://apollotv.xyz/)
+*   [BeeTV](http://beetvapk.me/)
+*   [Cinema](https://cinemaapk.com/)
+*   [CKayTV](http://ckaytv.com/)
+*   [Cyberflix](https://cybercloud.media/) Terrarium clone
+*   [DreamTV](http://dream-tv.xyz/) Terrarium clone
+*   [Morph TV](http://titaniumtv.xyz/Morph2.apk) Morpheus fork
+*   [PhoenixTV](https://tinyurl.com/y7z5zct8) Morpheus fork
+*   [TitaniumTV](http://titaniumtv.xyz/) Terrarium clone
+*   [TVZion](https://tvzionapp.live/)
+*   [UnlockMyTV](https://unlockmytv.com/) Cinema clone ad-free
+
+### Discord Servers / Third Party Hosts
+
+*   [APK'S 2 Day](https://discord.gg/2qWqzN8) This is a discord server that acts as a hub for numerous streaming apps.
+
+### IPTV and DVR / Third Party Hosts
+
+*   [IPTV Providers list](https://docs.google.com/spreadsheets/d/1ehpk3OCkqj4QgF71v410avGpGC5bQ_lOLl5ppRb3Q9s/edit) A recently created list of 40+ IPTV providers with notes
+
+### Stream Synchronisation / Third Party Hosts
+
+*   [Netflix Party](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa/related) Netflix Party is a Chrome extension for watching Netflix remotely with other users.
+*   [\&chill](https://andchill.tv/) Watch videos with people.
+
+### Telegram Piracy / Third Party Hosts
+
+*   [@MusicHuntersBot](https://t.me/MusicHuntersBot) Another music downloader bot
+*   [@DeezerMusicBot](https://t.me/DeezerMusicBot) Music bot which downloads tracks from Deezer
+*   [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
+
+### Miscellaneous / Third Party Hosts
+
+*   [Multiup](https://multiup.org/) Website which allows you to upload files to several different file hosting websites.
+*   [DirtyWarez](https://dirtywarez.org/) Lists top warez sites with Alexa rankings and other metadata.
+*   [MacGuffin (⭐84)](https://github.com/hwkns/macguffin) Automated tools for handling Scene and P2P film releases.
+
+## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Hikaku (⭐182)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 
-## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Theory
 
@@ -147,7 +265,7 @@ Free
 
 *   [do (⭐25)](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
-## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -163,13 +281,28 @@ Free
 
 
 
-## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [18. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Supported Distributions / Pengwin
+
+*   [Pengwin GitHub (⭐1.4k)](https://github.com/WhitewaterFoundry/Pengwin) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   Because Pengwin is based on Debian, most Debian and Ubuntu documentation also applies to Pengwin.
+
+### Supported Distributions / Pengwin Enterprise
+
+*   [Pengwin Enterprise GitHub (⭐58)](https://github.com/WhitewaterFoundry/Pengwin-Enterprise) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### Unofficial Distributions / AlmaLinux OS
+
+*   [wsldl (⭐1.3k)](https://github.com/yuk7/wsldl) - General purpose WSL installer and launcher. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [19. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [ipfs-common](https://github.com/arsyun) - Some common tools, 1.CID to human readable cid, 2.cid and block name convert, 3. read the leveldb tools. [Source (⭐3)](https://github.com/arsyun/ipfs-common)
 
-## [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Social Media
 
@@ -179,7 +312,7 @@ Free
 
 *   [clog (⭐772)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -202,7 +335,7 @@ Free
 *   [vue-direction (⭐36)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 *   [vue-unique-id (⭐48)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 
-## [20. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [22. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 
@@ -262,13 +395,13 @@ Free
 *   [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 *   [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 
-## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [SRE Adoption Report](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering)
 
-## [22. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [24. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
@@ -284,7 +417,7 @@ Free
 
 *   [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/).
 
-## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
@@ -292,7 +425,7 @@ Free
     automated threat intel pipelines sourcing from Twitter, RSS, GitHub, and
     more.
 
-## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Utils / Third-party APIs
 
@@ -300,7 +433,7 @@ Free
     a Common Lisp library offering a way of spawning threads and being
     informed when one any of them crash and die. [MIT](https://opensource.org/licenses/MIT).
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
@@ -316,13 +449,13 @@ Free
 
 *   [light-cli (⭐14)](https://github.com/rudihorn/light-cli): a lightweight heapless cli interface ![crates.io](https://img.shields.io/crates/v/light_cli.svg)
 
-## [26. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [28. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Frontend Tools / Terraform
 
 *   [Runs a WebPageTest audit and prints the results as commit comment (⭐53)](https://github.com/JCofman/webPagetestAction)
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -337,13 +470,13 @@ Free
 
 *   [Workflow Core (⭐4.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
 *   [FusionPBX](https://www.fusionpbx.com/) - Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code (⭐593)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
-## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [31. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -353,7 +486,7 @@ Free
 
 *   [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Data Management
 
@@ -363,7 +496,7 @@ Free
 
 *   [ember-style-modifier (⭐31)](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style.
 
-## [31. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [33. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
@@ -371,14 +504,14 @@ Free
 *   [arrow functions (⭐288)](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions.
 *   [no-loops (⭐114)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
 
-## [32. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-i18next (⭐3.8k)](https://github.com/isaachinman/next-i18next) - The easiest way to translate your NextJs apps.
 *   [Serverless Framework plugin for Next.js (⭐3.9k)](https://github.com/danielcondemarin/serverless-nextjs-plugin) - Deploy serverless applications with ease.
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -407,32 +540,32 @@ Free
 
 *   [30 Seconds of C++ (⭐1.2k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
-## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [36. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings / Other / unknown licence
 
 *   [boehmgc-ada (⭐5)](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
 
-## [35. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [37. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake-examples (⭐977)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [36. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [38. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [nnn (⭐15k)](https://github.com/jarun/nnn) - Tiny, lightning fast, feature-packed file manager.
 *   [tiv (⭐1.2k)](https://github.com/stefanhaustein/TerminalImageViewer) - Text mode terminal image viewer.
 
-## [37. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [39. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
 *   [JupyterWith (⭐376)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 
-## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [40. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
@@ -442,7 +575,13 @@ Free
 
 *   [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - Audit a Windows host's root certificate store against Microsoft's [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Ghidra](https://www.ghidra-sre.org/) - Suite of free software reverse engineering tools developed by NSA's Research Directorate originally exposed in WikiLeaks's "Vault 7" publication and now maintained as open source software.
+
+## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Utilities / Game Engine resources
 
@@ -452,19 +591,19 @@ Free
 
 *   [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quick generation for BLoC templates files by context menu by [Gorniv](https://github.com/gorniv).
 
-## [40. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [43. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
 
-## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [44. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### People / Twitter
 
 *   [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 
-## [42. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [45. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
@@ -474,7 +613,7 @@ Free
 
 *   [Pi Audio Monitor (⭐93)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
-## [43. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
@@ -485,7 +624,7 @@ Free
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 *   [Blog](https://blog.npmjs.org)
 
-## [44. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [47. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -493,7 +632,7 @@ Free
 *   [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 *   [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 
-## [45. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [48. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 

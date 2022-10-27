@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2020
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,13 @@
 
 
 
-## [6. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Protocol Analyzers and Sniffers
+
+*   [netsniff-ng (⭐1k)](https://github.com/netsniff-ng/netsniff-ng) - Swiss army knife for network sniffing.
+
+## [7. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Blog posts and opinions
 
@@ -81,31 +87,43 @@
 
 *   [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open-source metric analytics & visualization suite *tutorial by Prometheus*.
 
-## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### API Gateway / Symfony2
 
 *   [WSO2 API Management (⭐643)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 
-## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Java
 
 *   [mongo-queue-java (⭐35)](https://github.com/yonderblue/mongo-queue-java) - Java message queue on top of MongoDB
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Version Control / Git
 
 *   [git-all-branches (⭐2)](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 
-## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Automation / DSL
 
 *   [Ruby-JMeter (⭐744)](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Books / Miscellaneous Tools
+
+*   [Learn Windows Subsystem for Linux](https://www.apress.com/gp/book/9781484260371) - A Practical Guide for Developers and IT Professionals
+
+## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
+
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -553,19 +571,19 @@
 *   Benchmarks
     *   [TeXitoi/benchmarksgame-rs (⭐69)](https://github.com/TeXitoi/benchmarksgame-rs) — Rust implementations for the [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) [![build badge](https://api.travis-ci.org/TeXitoi/benchmarksgame-rs.svg?branch=master)](https://travis-ci.org/TeXitoi/benchmarksgame-rs)
 
-## [12. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [15. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Interfaces
 
 *   [Koalas (⭐3.2k)](https://github.com/databricks/koalas) <img src="https://img.shields.io/github/last-commit/databricks/koalas.svg"> - Pandas DataFrame API on top of Apache Spark.
 
-## [13. Awesome Indie](/content/mezod/awesome-indie/README.md)
+## [16. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
 ### Books / Not specific to indie founders:
 
 *   **[Zero to Sold](http://zerotosoldbook.com/)** \[$] by [Arvid Kahl](https://thebootstrappedfounder.com/about-me/). How Arvid and his partner Danielle started, ran, and sold the bootstrapped EdTech SaaS FeedbackPanda, with everything that worked, should have worked, and didn't work.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Quality of Life Improvements
 

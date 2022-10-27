@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 23, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,14 +88,20 @@
 
 *   [marine\_button (⭐40)](https://github.com/hapo31/marine_button) - Play 宝鐘マリン's voice on web. \[日本語]
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-vant-mobile (⭐92)](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
+
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [mb2](https://devctm.com) - A poker server with a Yew client. Click the `Demo` button and then `Start` to see the client.
 *   [Puzzle Cube (⭐4)](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 

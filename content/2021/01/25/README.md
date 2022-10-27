@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -135,13 +135,19 @@
 
 *   [Authentication in Blazor WebAssembly Hosted Applications](https://code-maze.com/authentication-in-blazor-webassembly-hosted-applications/) - January 22, 2021 - Authentication in Blazor WebAssembly Hosted Applications, by Code Maze. [Source code (⭐9)](https://github.com/CodeMazeBlog/blazor-wasm-hosted-security/tree/blazor_wasm_hosted_authentication) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-hosted-security?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-hosted-security?style=flat-square\&cacheSeconds=86400).
 
-## [15. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### PDF Management / Telegram
+
+*   [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
+
+## [16. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Databases / Data Sources
 
 *   [anime-offline-database (⭐547)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
-## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [17. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
@@ -149,7 +155,7 @@
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 *   [medium-stat-box (⭐33)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
-## [17. Awesome Python](/content/vinta/awesome-python/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### WSGI Servers
 

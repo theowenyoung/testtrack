@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,6 +47,12 @@
 ### In Portuguese
 
 *   [99Vidas](http://99vidas.com.br/) - Nostalgia, diversão e muita opinião sobre videogames.
+
+## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Unofficial Distributions / AlmaLinux OS
+
+*   [CentWSL (⭐1k)](https://github.com/yuk7/CentWSL) - CentOS as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

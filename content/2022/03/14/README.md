@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2022
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -226,7 +226,13 @@
 
 *   [MONAI (⭐3.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 
-## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vite-boot (⭐50)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
+
+## [13. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Introductory / Lecture Videos Playlists
 
@@ -236,7 +242,7 @@
 
 *   [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Official Resources
 
@@ -255,7 +261,7 @@
 
 *   [terraform-compliance (⭐1.2k)](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 
-## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [15. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### More ways to "Dive into Machine Learning" / Aside: Bayesian Statistics and Machine Learning
 
@@ -267,13 +273,13 @@
 *   [Machine Learning for Software Engineers, by Nam Vu (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
 *   [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Methodologies for Experiments / Human-Machine Comparison
 
 *   [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593\&hl=en\&as_sdt=0,5)].
 
-## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

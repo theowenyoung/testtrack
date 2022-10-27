@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 16, 2022
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,43 +36,49 @@
 
 *   [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS and GKE Kubernetes clusters in one free and open-source framework.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Games
+
+*   [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [ddev (⭐0)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐1.5k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
 
-## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [Kotlin/kotlinx.atomicfu (⭐611)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
-## [8. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques
 
 *   [MoonBounce: the dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468) - An in-depth write up about one particular UEFI bootkit.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Standard APIs
 
 *   [OData](https://www.odata.org/) - An open protocol that allows the creation and consumption of queryable and interoperable REST APIs in a simple and standard way.
 
-## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2021
 
@@ -151,19 +157,25 @@
 
 *   [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-orm (⭐114)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
 *   [ThePrimeagen/harpoon (⭐1.3k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
-## [13. Awesome Go](/content/avelino/awesome-go/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Username Check / Telegram
+
+*   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
+
+## [15. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Trees
 
@@ -173,13 +185,13 @@
 
 *   [mailx (⭐5)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Representation / Commonsense Knowledgebase
 
 *   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9033452473914228535)].
 
-## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -210,7 +222,7 @@
 *   [Awesome Data Science Ideas (⭐613)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐73)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 

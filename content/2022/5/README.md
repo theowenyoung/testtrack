@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31 - Feb 06, 2022
 
-51 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -2777,7 +2777,32 @@
 
 *   [Tricking Postgres into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
 
-## [22. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [22. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / YouTube
+
+*   [Piped (⭐3.2k)](https://github.com/TeamPiped/Piped): An alternative privacy-friendly YouTube frontend which is efficient by design - Lightweight, no ads, no tracking
+    *   Official instance: <https://piped.kavin.rocks>
+    *   List of public instances: [https://github.com/TeamPiped/Piped/wiki/Instances (⭐3.2k)](https://github.com/TeamPiped/Piped/wiki/Instances)
+    *   Installation guide for self-hosting: [https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md (⭐13)](https://github.com/TeamPiped/Documentation/blob/main/content/docs/self-hosting/index.md)
+
+### Overview / Reddit
+
+*   [Troddit (⭐331)](https://github.com/burhan-syed/troddit): A web client for Reddit
+    *   Official instance: <https://www.troddit.com>
+
+### Overview / Instagram
+
+*   [Barinsta](https://github.com/austinhuang0131/barinsta): Open-source alternative Instagram client for Android
+    *   On July 26, 2021, Austin Huang (maintainer of Barinsta) received a cease & desist letter from Perkins Coie LLP, a law firm representing Facebook. As a result, Barinsta is no longer maintained or distributed. More information can be found at [https://github.com/mendel5/alternative-front-ends/issues/28 (⭐2.9k)](https://github.com/mendel5/alternative-front-ends/issues/28) and <https://austinhuang.me/barinsta> .
+    *   Fork of Barinsta: <https://codeberg.org/avalos/barinsta> - "This fork is unofficial unless community decides otherwise. C\&D letters will be ignored."
+
+### Overview / Google Search
+
+*   [Searx (⭐12k)](https://github.com/searx/searx): Searx is a free privacy-respecting internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity
+    *   Public instances: <https://searx.space>
+
+## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Blockchain
 
@@ -2795,39 +2820,39 @@
 
 *   [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source.
 
-## [23. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [24. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Insomnia](https://insomnia.rest) - Build APIs that work.
 
-## [24. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [25. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [Context Mapping by ddd-crew (⭐633)](https://github.com/ddd-crew/context-mapping) - 	Context Mapping Cheatsheet and Starter Kit by ddd-crew.
 
-## [25. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [26. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Websites
 
 *   [all AI news](https://allainews.com/)
 
-## [26. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [27. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [webaudio-tinysynth (⭐181)](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
 *   [web-audio-beat-detector (⭐0)](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
 
-## [27. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [28. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Libraries
 
 *   [Livewire PowerGrid (⭐882)](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid ⚡ creates modern, powerful and easy to customize Datatables.
 *   [WireUI (⭐704)](https://github.com/wireui/wireui) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components
 
-## [28. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [29. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
@@ -2849,7 +2874,17 @@
 
 *   [`r0f1/datascience`](https://github.com/r0f1/datascience) — "A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks."
 
-## [29. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [30. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Anti-tracking / Alternative clients/modifications of Discord:
+
+*   [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker. Easy on CPU and memory.
+*   [ClearURLs (⭐3.3k)](https://github.com/ClearURLs/Addon) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet and sharing links.
+*   [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+*   [Cookie Autodelete (⭐1.4k)](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - When a tab closes, any cookies not being used are automatically deleted. Prevent tracking by other cookies and add only the ones you trust.
+*   [Smart Referer](https://gitlab.com/smart-referrer/smart-referer/-/blob/master/README.md) - Automatically hide HTTP and JavaScript Referer for cross-domain requests.
+
+## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -2902,14 +2937,14 @@
 *   [php-static-analysis-tools (⭐2.6k)](https://github.com/exakat/php-static-analysis-tools) — A reviewed list of useful PHP static analysis tools
 *   [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) — A list of tools for static code analysis.
 
-## [30. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [32. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Cyber Security Career Guide](https://www.manning.com/books/cyber-security-career-guide) - Kickstart a career in cyber security by learning how to adapt your existing technical and non-technical skills. (early access, published continuously, final release Summer 2022)
 *   [Secret Key Cryptography](\[https://www.manning.com/books/secret-key-cryptography) - A book about cryptographic techniques and Secret Key methods. (early access, published continuously, final release Summer 2022)
 
-## [31. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [33. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -3089,32 +3124,38 @@
 *   [Titanium Platform](https://www.reversinglabs.com/products/malware-analysis-platform) - Machine learning hybrid cloud platform that harvests thousands of file types at scale, speeds threat detection through machine learning binary analysis, and continuously monitors an index of over 10B files for future threats.
 *   [Unpckarc](https://web.archive.org/web/20191218043307/http://www.woodmann.com/crackz/Tools/) - Packed executables detection tool relying on several heuristics.
 
-## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### i18n / Mouse Events
+
+*   [@tolgee/react (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/react) - [docs](https://tolgee.io/docs/web/using_with_react/installation) – Web-based localization tool enabling users to translate directly in the React app they develop
+
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced graphics rendering
 
 *   [Shaders](https://wolfenrain.medium.com/flutter-shaders-an-initial-look-d9eb98d3fd7a) - Fragment shaders, set it up, how it works and making it work by [Jochum van der Ploeg](https://twitter.com/wolfenrain)
 
-## [33. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [36. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Authentication
 
 *   [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
 *   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐94k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Formatting
 
 *   [niceql (⭐295)](https://github.com/alekseyl/niceql) - A dependentless SQL and SQL errors formatting and colorizing. ActiveRecord seemless integration.
 
-## [35. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [38. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Plugins
 
 *   [Sponge (⭐80)](https://github.com/andreiborisov/sponge) - Clean command history from typos automatically.
 
-## [36. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [39. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Grid
 
@@ -3128,7 +3169,7 @@
 
 *   [@tolgee/svelte (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -3143,7 +3184,7 @@
 
 *   [racum/rust-djangohashers (⭐51)](https://github.com/racum/rust-djangohashers) \[[djangohashers](https://crates.io/crates/djangohashers)] — A Rust port of the password primitives used in the Django Project. It doesn't require Django, only hashes and validates passwords according to its style. [![build badge](https://api.travis-ci.org/Racum/rust-djangohashers.svg?branch=master)](https://travis-ci.org/Racum/rust-djangohashers)
 
-## [38. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [41. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Services / IRC
 
@@ -3170,38 +3211,38 @@
     *   [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
     *   [Lessons Learned Building the Composer Internals (2018)](http://slides.seld.be/?file=2018-04-20+Lessons+Learned+Building+the+Composer+Internals.html)
 
-## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [tiagovla/tokyodark.nvim (⭐258)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim 0.5 and above.
 
-## [40. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [43. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Akka Streams (⭐13k)](https://github.com/akka/akka) \[Scala] - stream processing library on Akka Actors.
 *   [Daggy (⭐136)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
 
-## [41. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [44. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Other Frameworks
 
 *   [Rapid Open Hardware Development (ROHD) Framework (⭐226)](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
 
-## [42. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [macroquad (⭐1.7k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 
-## [43. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [46. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Other / Package managers
 
 *   [ynuwenhof/zigbraten (⭐0)](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
 
-## [44. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [47. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Control Panels
 
@@ -3211,7 +3252,17 @@
 
 *   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall.
 
-## [45. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [48. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / DDoS Tools
+
+*   [D(HE)ater (⭐122)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
+
+### Privilege Escalation Tools / Web application and resource analysis tools
+
+*   [LOLBAS (Living Off The Land Binaries and Scripts)](https://lolbas-project.github.io/) - Documents binaries, scripts, and libraries that can be used for "Living Off The Land" techniques, i.e., binaries that can be used by an attacker to perform actions beyond their original purpose.
+
+## [49. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Tools / Smart Contracts
 
@@ -3219,7 +3270,7 @@
 *   [aqua-compiler (⭐0)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 *   [algoml (⭐20)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
 
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [50. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -3230,7 +3281,7 @@
 
 *   [ChefBoost (⭐357)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -3240,7 +3291,7 @@
 
 *   [TerminusX](https://terminusdb.com/) — Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.
 
-## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [52. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -3264,13 +3315,13 @@
 
 *   [Année Politique Suisse](https://anneepolitique.swiss/) - Sources on developments in Swiss politics and society.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-promise-dialog (⭐32)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
-## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [54. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / WebSocket
 
@@ -3284,7 +3335,7 @@
 
 *   [A short introduction to Deno](https://devs.krd/about-deno).
 
-## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Blockchain
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2022
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -100,19 +100,25 @@
 
 *   [Raneto](https://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. ([Source Code (⭐2.5k)](https://github.com/ryanlelek/Raneto)) `MIT` `Nodejs`
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-virtual-mpa (⭐13)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
+
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [which-jspm (⭐0)](https://github.com/zkuzmic/which-jspm/) - Adds `npm`, `yarn` or `pnpm` to the end of your prompt depending on what lockfile(s) it detects in the current directory.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
 *   [AckslD/messages.nvim (⭐54)](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -122,14 +128,14 @@
 
 *   [Pi4J/pi4j-kotlin (⭐8)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
 
-## [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [9. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### .NET
 
 *   [Legerity (⭐33)](https://github.com/MADE-Apps/legerity) *(label: good first issue)* <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 *   [Legerity for Uno Platform (⭐14)](https://github.com/MADE-Apps/legerity-uno) *(label: good first issue)* <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Actors
 
@@ -204,7 +210,7 @@
 *   [Elixir Outlaws](https://elixiroutlaws.com)
 *   [Elixir Talk](https://soundcloud.com/elixirtalk)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -215,13 +221,24 @@
 *   [Napkin](https://www.napkin.io/) - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.
 *   [Porter](https://getporter.dev/) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.
 
-## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Bookmarking
+
+*   Pocket (Formerly Read It Later) - [Bad privacy policy](https://tosdr.org/en/service/384). [Apps have trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ideashower.readitlater.pro/latest/) and requires many permissions.
+*   Evernote Web Clipper -  [Bad privacy policy](https://tosdr.org/en/service/207). [Apps have many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.evernote/latest/) and require too many permissions.
+*   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
+*   [Shiori (⭐6.6k)](https://github.com/go-shiori/shiori)
+*   [LinkAce (⭐1.6k)](https://github.com/Kovah/LinkAce)
+*   [LinkDing (⭐2.4k)](https://github.com/sissbruecker/linkding)
+
+## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Python
 
 *   [PyMongoExplain (⭐3)](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
 
-## [12. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [14. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Cars
 
@@ -229,19 +246,19 @@
 
     <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [15. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
 *   🆕 [cl-gtk4 (⭐105)](https://github.com/bohonghuang/cl-gtk4) -  GTK4/Libadwaita/WebKit binding for Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [14. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [16. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Tutorials and courses / Devops
 
 *   [Free Scala Courses](https://skillcombo.com/topic/scala/free/) - A curated list of free Scala courses.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Scientific Discovery
 

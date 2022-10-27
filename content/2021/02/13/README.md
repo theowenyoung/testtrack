@@ -1,12 +1,18 @@
 # Awesome List Updates on Feb 13, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Geospatial Research and Mapping Tools / Telegram
+
+*   [Map Maker](https://maps.co)
+
+## [2. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Articles / Other external resources
 
@@ -81,31 +87,31 @@
 *   [A fixture-based approach to interface testing in Rails](https://evilmartians.com/chronicles/a-fixture-based-approach-to-interface-testing-in-rails)
 *   [Five Practices for Robust Ruby on Rails Applications](https://www.cloudbees.com/blog/five-practices-for-robust-ruby-on-rails-applications/)
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [atomist.com](https://atomist.com/) — A quicker and more convenient way to automate a variety of development tasks. Now in beta.
 
-## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
 *   [SVGrepo](https://www.svgrepo.com/) - Download free SVG Vectors for commercial use.
 
-## [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [5. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Conferences
 
 *   [Data Council](https://www.datacouncil.ai/about) Data Council is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
 
-## [5. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Platforms
 
 *   [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -115,7 +121,7 @@
 
 *   [Olaris](https://gitlab.com/olaris/olaris-server) - Olaris is an open-source, community driven, media manager and transcoding server. `GPL-3.0` `Go`
 
-## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Effect
 
@@ -127,7 +133,14 @@
 
 
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Loader
+
+*   [react-spinners (⭐2.4k)](https://github.com/davidhu2000/react-spinners) - A collection of loading spinner components for react.
+*   [react-content-loader (⭐13k)](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook's cards loading).
+
+## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### SXA (Sitecore Experience Accelerator)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -173,7 +173,13 @@
 *   [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
 *   [Predix](https://predix.io/) - Industrial microservices platform.
 
-## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-compression-plugin (⭐8)](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
+
+## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Internationalisation / Checkbox
 
@@ -181,7 +187,7 @@
 *   [svelte-i18n (⭐816)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
 *   [sveltekit-i18n (⭐169)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Toolkit
 

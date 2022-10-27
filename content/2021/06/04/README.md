@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,19 +34,25 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 | ---- | ----- | ------------------------------------------------------------------------------ | ------------------------------------------------- |
 | ✔    | ✔     | [R. 25 de Abril 210, 4835-400 Silvares](https://goo.gl/maps/nQwiW3qHkvUkJz46A) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00 |
 
-## [3. Awesome Math](/content/rossant/awesome-math/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Canvas
+
+*   [react-heat-map (⭐82)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+
+## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Analysis / Complex Analysis
 
 *   [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/\~ws442/complex.pdf) - Wilhelm Schlag
 
-## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### GEO
 
 *   [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -90,7 +96,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 
 
-## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Databases / ORMs
 
@@ -107,7 +113,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [Running FastAPI applications in production](https://stribny.name/blog/fastapi-production/) - Use Gunicorn with systemd for production deployments.
 *   [Streaming video with FastAPI](https://stribny.name/blog/fastapi-video/) - Learn how to serve video streams.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
@@ -118,25 +124,59 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Databunker (⭐1k)](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
-## [8. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [9. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Programming Language Design Patterns
+
+*   Java
+    *   [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
+    *   [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
+    *   [design-patterns (⭐78k)](https://github.com/iluwatar/java-design-patterns)
+    *   [effective-java patterns (⭐1.2k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
+    *   [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
+    *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
+*   Node
+    *   [Real world design patterns with Node.js (⭐168)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
+*   Object Oriented
+    *   [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
+    *   [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+    *   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+*   Python
+    *   [design-patterns (⭐35k)](https://github.com/faif/python-patterns)
+    *   [PyPattyrn (⭐1.6k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+
+### Serverless Architecture
+
+*   [serverless-patterns-collection](https://serverlessland.com/patterns) - Serverless Patterns Collection.
+*   [serverless-design-patterns-and-best-practices](https://www.packtpub.com/free-ebook/serverless-design-patterns-and-best-practices/9781788620642)
+
+### DevOps & containers
+
+*   [kubernetes patterns book](https://k8spatterns.io/)
+*   [cdk patterns](https://cdkpatterns.com/) - cdk patterns.
+*   [CDK Construct Catalog](https://awscdk.io/) - CDK construct catalog.
+
+## [10. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### PlaygroundBooks
 
 *   [Accessible Reality (⭐23)](https://github.com/aheze/AccessibleReality) - for learning the basics of ARKit through interactive lessons. 🍁
 
-## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Games
 
 *   [Golem Fleet Battle Simulator (⭐2)](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator) - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.
 
-## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [12. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authentication / Password-less
 
 *   [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/) - Passwords are not the be-all and end-all of user authentication. This article tries to tell you why.
 
-## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 

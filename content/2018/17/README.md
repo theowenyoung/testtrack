@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23 - Apr 29, 2018
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -143,13 +143,19 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) \[35:11]
 
-## [13. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Tools / Playground
+
+*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+
+## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
 *   [Emitter (⭐3.4k)](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Keyboard
 
@@ -195,7 +201,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [DocumenterXcode (⭐32)](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension.
 *   [XVim2 (⭐2.3k)](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 
-## [15. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [16. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### People to Follow
 
@@ -205,7 +211,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Recreating legendary 8-bit games music with Web Audio API](https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api)
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
@@ -215,7 +221,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [PopMenu (⭐1.4k)](https://github.com/CaliCastle/PopMenu) - 😎 A cool and customizable popup style action sheet for iOS.
 
-## [17. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [18. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -225,25 +231,25 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [19. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [any.run](https://app.any.run/) - Online interactive sandbox.
 
-## [19. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
+## [20. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
 
 ### Tools
 
 *   [ledger-autosync (⭐231)](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank.
 
-## [20. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [21. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Testing
 
 *   [Expectations (⭐388)](https://github.com/clojure-expectations/expectations)
 
-## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Getting started
 
@@ -271,7 +277,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI\&t=2057s) by Lars. [Code (⭐0)](https://github.com/specialunderwear/haunted-wagtail).
 *   [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI\&t=2278s) by Maarten Kling.
 
-## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -294,7 +300,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [SecurityHeaders (⭐467)](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
 
-## [23. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
+## [24. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/week/README.md)
 
 ### Energy Applications / Guidance
 
@@ -306,19 +312,19 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [PopChest](https://popchest.com) - Incentivized distributed video platform.
 *   [Civil](https://joincivil.com) - Decentralized newsmaking platform.
 
-## [24. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [25. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Other Resources / Other Types of Support
 
 *   [Detroit Future City: A Field Guide to Working with Lots](https://dfc-lots.com/resources/) - Guides for urban agriculture from Detroit.
 
-## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [26. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-1password (⭐213)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
-## [26. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [27. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
@@ -328,7 +334,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [cmake-checks-cache (⭐60)](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [27. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -340,7 +346,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [v-dialogs (⭐126)](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
 *   [label-edit (⭐22)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
-## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -354,13 +360,13 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Broccoli read
 
@@ -370,19 +376,19 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [Global Ember Meetup](https://vimeo.com/globalembermeetup)
 
-## [31. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [32. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Ruby / Misc
 
 *   [steam-trade (⭐8)](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
 
-## [32. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [33. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Online tools
 
 *   [Extends Class](https://extendsclass.com/json-diff.html) - Diff tool to compare two files.
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
@@ -396,19 +402,19 @@ Naver Map: <http://naver.me/FjThMRso>
 
 *   [ENet (⭐2.2k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
-## [34. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [35. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Asset Management
 
 *   [Assets plugin (⭐3)](https://github.com/mirko-pagliai/cakephp-assets) - Dynamic and "on the fly" asset files.
 
-## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Podcasts / ROSCon 2015
 
 *   [Everything about ROS 2 with Dirk Thomas (from 16th minute onwards)](http://www.theconstructsim.com/rdp-012-all-about-ros2-with-dirk-thomas/)
 
-## [36. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [37. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017) _by   [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))  \_ [3.9] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
 
@@ -417,7 +423,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [An Unwelcome Quest](https://www.goodreads.com/book/show/23249416-an-unwelcome-quest) \[3.98]
 *   [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) \[3.61]
 
-## [37. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [38. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Satire / [Discworld](https://en.wikipedia.org/wiki/Discworld)     *by [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett)*
 
@@ -430,7 +436,7 @@ Naver Map: <http://naver.me/FjThMRso>
 *   [Making Money](https://www.goodreads.com/book/show/116296.Making_Money) \[4.2]
     How Terry Pratchett consistently came up with good stories is beyond me. This one is also good, particularly for how TP envisions banks and automatons. - [@RichardLitt](https://github.com/RichardLitt)
 
-## [38. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [39. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Reconnaissance / OSINT - Open-Source Intelligence
 

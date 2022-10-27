@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -139,6 +139,35 @@
 *   [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
 *   [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 *   [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
+
+## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Handesk (⭐1.2k)](https://github.com/BadChoice/handesk)
+
+  Description: A Powerful Laravel Help Desk and Lead Management App.
+
+  Link: 
+
+
+- Name: [Multitrust (⭐1.2k)](https://github.com/BadChoice/handesk)
+
+  Description: Latest roles and permission for multi-auth or single-auth.
+
+  Link: <https://hellolaravel.org/mk/multitrust/>
+
+
+
+### Android
+
+- Name: [Easy Diary (⭐309)](https://github.com/hanjoongcho/aaf-easydiary)
+
+  Description: This is a diary application optimized to user experience.
+
+  Link: <https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary>
+
+
 
 ---
 

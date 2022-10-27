@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07 - Nov 13, 2016
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -391,13 +391,66 @@
 *   [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
 *   [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - Past newswire/paper datasets (DUC 2001 - DUC 2007) are available upon request.
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [7. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+
+### Styleguide and Branding
+
+*   [Marvel](https://marvelapp.com/styleguide/overview/introduction)
+
+## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [FlarepointCRM (⭐2.1k)](https://github.com/Bottelet/Flarepoint-crm)
+
+  Description: Self-hosted CRM platform built with Laravel 5
+
+  Link: 
+
+
+- Name: [Ribbbon (⭐652)](https://github.com/canvasowl/ribbbon)
+
+  Description: A project management system for Artisans
+
+  Link: 
+
+
+- Name: [SЁCU (⭐25)](https://github.com/secusu/secusu)
+
+  Description: SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms.
+
+  Link: <https://secu.su/>
+
+
+- Name: [Confomo (⭐74)](https://github.com/mattstauffer/confomo)
+
+  Description: A service that facilitates meeting Twitter friends at conferences
+
+  Link: 
+
+
+- Name: [File Manager (⭐1.9k)](https://github.com/UniSharp/laravel-filemanager)
+
+  Description: A File manager (for CKEditor and TinyMCE) with multi-users support.
+
+  Link: 
+
+
+- Name: [FlyMyShop (⭐58)](https://github.com/aasisvinayak/flymyshop)
+
+  Description: An e-commerce platform for online merchants.
+
+  Link: <https://flymyshop.com>
+
+
+
+## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [FloatingView (⭐1.8k)](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation.
 
-## [8. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [10. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Web Frameworks
 
@@ -442,19 +495,19 @@
 *   [Official asyncio documentation](https://docs.python.org/3/library/asyncio.html) - Asynchronous I/O, event loop, coroutines and tasks.
 *   [Short well-written intro to asyncio](http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html) - Generators, Coroutines, Native Coroutines and async/await.
 
-## [9. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [11. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Push Notifications
 
 *   [web-push-libs](https://github.com/web-push-libs) - A collection of useful libraries for web push in different technologies (Node.js, PHP, Python, etc.)
 
-## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [12. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 
 *   [Ginger Grid (⭐31)](https://github.com/erwstout/ginger/) - A Flexbox grid framework named after a cute dog.
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Code Analysis
 
@@ -468,25 +521,25 @@
 
 *   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community special.
 
-## [12. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [14. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
 *   [Sync Settings (⭐279)](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
 
-## [13. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [15. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Projects
 
 *   [phunt (⭐108)](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [lambci/lambci :fire::fire::fire::fire::fire: (⭐4k)](https://github.com/lambci/lambci) - A continuous integration system built on Lambda.
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Starter Kits / Workflow
 
@@ -500,19 +553,19 @@
     *   [A walk-through for an ASP.NET Authorization Lab (⭐1.1k)](https://github.com/blowdart/AspNetAuthorizationWorkshop)
     *   [Authentication in ASP.NET Core](https://stormpath.com/blog/authentication-asp-net-core)
 
-## [16. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [18. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [Fuse Pokedex (⭐6)](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 
-## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [19. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 
-## [18. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [20. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
@@ -541,13 +594,19 @@
 *   [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 *   [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
-## [19. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [21. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Other / Event listeners for fonts loading on a web page
 
 *   [Command line font-manager (⭐17)](https://github.com/alyssais/font)
 
-## [20. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :octocat: [Type search](https://aka.ms/typings), search for typings on npm
+
+## [23. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / Angular
 
@@ -557,7 +616,7 @@
 
 *   [JQuery-linechart (⭐42)](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
-## [21. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
@@ -567,26 +626,26 @@
 
 *   [Meetup](https://www.meetup.com/topics/jquery/) - Get involved locally.
 
-## [22. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [25. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
 
-## [23. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [26. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Resources / Tutorials
 
 *   [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
 
-## [24. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [27. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Articles
 
 *   [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
 *   [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 
-## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [28. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
@@ -666,13 +725,13 @@
 *   [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog.
 *   [select \* from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
 *   [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Device
 
@@ -686,7 +745,7 @@
 
 *   [DateTimePicker (⭐1.8k)](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -737,7 +796,7 @@
 *   [abacus (⭐62)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐64)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
-## [29. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [32. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -767,13 +826,13 @@
 *   [libsass (⭐4.3k)](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 *   [node-sass (⭐8.2k)](https://github.com/sass/node-sass) - Node.js bindings to libsass.
 
-## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [electron-about-window (⭐396)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
-## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Japan 🇯🇵 / Tokyo
 
@@ -825,7 +884,7 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 | ---- | ----- | ------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00 |
 
-## [32. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [35. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Community Resources
 

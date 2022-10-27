@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25 - Mar 31, 2019
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -445,7 +445,26 @@
 
 
 
-## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Torrenting
+
+*   [mgnet.me](http://mgnet.me/) Magnet URI shortener
+
+### Plex Requests / Third Party Hosts
+
+*   [Mellow (⭐200)](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+
+### ROMs / Third Party Hosts
+
+*   [Romulation.net](https://www.romulation.net/) Collection of \~28,000 console game ROMs
+*   [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
+
+### Telegram Piracy / Third Party Hosts
+
+*   [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
+
+## [12. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -455,20 +474,20 @@
 
 *   [Cascade Deleting Relationships in Ember Data](https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html)
 
-## [12. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [13. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Case Studies
 
 *   [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
 *   [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
 
-## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 
 *   [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
 
-## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [15. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -478,19 +497,19 @@
 
 *   [Valetudo (⭐3.6k)](https://github.com/Hypfer/Valetudo) - Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - SiteSucker is a Macintosh application that automatically downloads websites from the Internet. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
 
-## [16. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [17. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
 
-## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [18. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -503,7 +522,7 @@
     *   [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
     *   [Migrating from OpenGLES to Vulkan](https://www.imgtec.com/downloads/download-info/migrating-from-opengl-es-to-vulkan/)
 
-## [18. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [19. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
@@ -519,25 +538,25 @@
 
 *   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/\~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 
-## [19. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [20. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
-## [20. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [21. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Articles
 
 *   [Being helpful isn’t the same as being clear](https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251): A useful note to understand the local culture when implementing OKR.
 
-## [21. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [22. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Integrations
 
 *   [remount (⭐610)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
-## [22. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [23. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Mathematics / SpriteKit
 
@@ -598,7 +617,7 @@
 *   [Rubik's Cube (⭐17)](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁
 *   [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.
 
-## [23. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [24. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
@@ -608,7 +627,7 @@
 
 *   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
-## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
@@ -632,7 +651,7 @@
 *   [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
 *   [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
 
-## [25. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [26. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Annotation tools
 
@@ -641,13 +660,13 @@
 *   [LabelME](http://labelme.csail.mit.edu/Release3.0/)
 *   [gtmaker (⭐10)](https://github.com/sanko-shoko/gtmaker)
 
-## [26. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [27. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 
-## [27. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [28. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Coding Contests and Solutions / Official resources
 
@@ -667,13 +686,13 @@
 *   [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
 *   [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
 
-## [28. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [29. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Package Repositories
 
 *   [bandersnatch (⭐327)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
-## [29. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [30. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -688,7 +707,7 @@
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/) – Tutorial on how to use the ImageMagick library in Swift.
 
-## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Date and Time Processing
 
@@ -698,25 +717,25 @@
 
 *   [Health Monitor Rails (⭐177)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Realm
 
 *   [RealmWrapper (⭐69)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 
-## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
 *   [Babylon iOS Interview Questions (⭐393)](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 
-## [33. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [34. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Transport-layer defenses / Threat signature packages and collections
 
 *   [MITMEngine (⭐602)](https://github.com/cloudflare/mitmengine) - Golang library for server-side detection of TLS interception events.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -726,19 +745,19 @@
 
 *   [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. \[MIT]
 
-## [35. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [36. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Utilities
 
 *   [sarimarton/powercycle](https://powercycle.js.org) - Static VDOM composition and React-like development on top of Cycle.js
 
-## [36. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [37. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How to Pick the Right Locator Strategy](https://appiumpro.com/editions/60)
 
-## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### E-Commerce and Payments
 
@@ -752,7 +771,7 @@
 
 *   [Sleet (⭐280)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
-## [38. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [39. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
@@ -766,7 +785,7 @@
 
 *   [KorTE Template Engine (⭐71)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
 
-## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [40. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -776,7 +795,7 @@
 
 *   [F# for JavaScript Devs](https://dev.to/rametta/f-for-js-devs-2b88) - Showcasing the similarities between F# and JavaScript
 
-## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database
 
@@ -790,7 +809,7 @@
 
 *   [System.CommandLine (⭐2.9k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
 
-## [41. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [42. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -800,7 +819,7 @@
 
 *   [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 
-## [42. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [43. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 

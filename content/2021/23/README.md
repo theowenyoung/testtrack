@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07 - Jun 13, 2021
 
-44 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,14 +80,20 @@
 
 *   [Gym OpenAI](https://gym.openai.com/) - Game toolkit for reinforcement learning algorithms.
 
-## [9. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [interface-forge](https://www.npmjs.com/package/interface-forge) - Test data factories using TypeScript types and interfaces
+
+## [10. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### High-Level Frameworks / Multi-accounts setup
 
 *   [Orkestra (⭐41)](https://github.com/knowsuchagency/orkestra) - An event-driven alternative to Airflow built on the AWS CDK and Step Functions.
 *   [SST (⭐9.3k)](https://github.com/serverless-stack/serverless-stack) - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
 
-## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -98,13 +104,13 @@
 *   [Keycloak on AWS (⭐107)](https://github.com/aws-samples/keycloak-on-aws)
 *   [aws-cdk construct library that allows you to create KeyCloak on AWS in TypeScript or Python (⭐62)](https://github.com/aws-samples/cdk-keycloak)
 
-## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Urban Planning Tools and Platforms
 
 *   [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment.
 
-## [12. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [13. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
@@ -115,31 +121,31 @@
 *   [Zeek](https://zeek.org/): (formerly Bro) is an open source software platform that provides compact, high-fidelity transaction logs, file content, and fully customized output to analysts, from the smallest home office to the largest, fastest research and commercial networks. From the FAQ:
     "Zeek provides a comprehensive platform for network traffic analysis, with a particular focus on semantic security monitoring at scale. While often compared to classic intrusion detection/prevention systems, Zeek takes a quite different approach by providing users with a flexible framework that facilitates customized, in-depth monitoring far beyond the capabilities of traditional systems. With initial versions already in operational deployment during the mid ‘90s, Zeek finds itself grounded in more than 20 years of research. For more information, see the Zeek Overview and our promotional document, Why Choose Zeek?."
 
-## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
 
-## [14. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [15. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Synth (⭐935)](https://github.com/getsynth/synth) - Open Source test data generator.
 
-## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Threat intelligence / Threat hunting
 
 *   [Threat Bus (⭐228)](https://github.com/tenzir/threatbus) - Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.
 
-## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [17. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
 *   [Beekeeper Studio (⭐12k)](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 
-## [17. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
@@ -153,7 +159,7 @@
 
 *   [corporaexplorer](https://kgjerde.github.io/corporaexplorer/) - Dynamic exploration of text collections
 
-## [18. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [19. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Long-read Assembly / Tools
 
@@ -162,45 +168,55 @@
 *   **[hifiasm (⭐292)](https://github.com/chhylp123/hifiasm)** - A haplotype-resolved assembler for accurate Hifi reads.
 *   **[wtdbg2 (⭐456)](https://github.com/ruanjue/wtdbg2)** -  A fuzzy Bruijn graph approach to long noisy reads assembly
 
-## [19. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [20. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Tools
 
 *   [Splunk App for Corda](https://github.com/splunkdlt/splunk-app-for-corda) - Splunk official integration app for Corda monitoring.
 
-## [20. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [21. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Network Statistics
 
 *   [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
 *   [Golem Stats backend (⭐1)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 
-## [21. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-dts (⭐446)](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+
+### Apps/Websites / Community
+
+*   [vite-vue3-lowcode (⭐2k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
+
+## [23. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Books / Single Topics
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 
-## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [CD74HC4067](https://crates.io/crates/cd74hc4067) - GPIO - 16-channel digital and analog multiplexer - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-the-CD74HC4067) - [github (⭐1)](https://github.com/barafael/cd74hc4067-rs) - ![crates.io](https://img.shields.io/crates/v/cd74hc4067.svg)
 *   [HC-12](https://crates.io/crates/hc12-at) - SERIAL - Wireless serial transceiver module - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-the-HC12-serial-radio-module/) - [github (⭐1)](https://github.com/barafael/hc12-at-rs) - ![crates.io](https://img.shields.io/crates/v/hc12-at.svg)
 
-## [23. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [25. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [DFIRTrack (⭐406)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
-## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [26. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-rancher2 (⭐197)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -211,7 +227,7 @@
 
 *   [Paiza](https://paiza.cloud/en/) — Develop Web apps in Browser without having the need to setup anything. Free Plan offers 1 server with 24 hours lifetime and 4 hours running time per day with 2 CPU cores, 2 GB RAM and 1 GB storage.
 
-## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -251,19 +267,60 @@
 *   [shfmt (⭐5.1k)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 *   [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
-## [27. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [29. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Libraries
 
 *   [go-mcproto (⭐31)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
-## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Vue.js
 
 *   [List of 300 VueJS Interview Questions (⭐1.8k)](https://github.com/sudheerj/vuejs-interview-questions)
 
-## [29. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [31. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Components / Markdown Editor
+
+*   [react-simplemde-editor (⭐643)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.7k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-md-editor (⭐1.1k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+
+## [32. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+
+### Programming Language Design Patterns
+
+*   Rust
+    *   [design-patterns](https://rust-unofficial.github.io/patterns/)
+
+### Cloud Architecture
+
+*   [saas tenant isolation strategies](https://d1.awsstatic.com/whitepapers/saas-tenant-isolation-strategies.pdf) - Isolating Resources in a Multi-Tenant Environment
+*   [design patterns for multi-tenancy](https://www.nagarro.com/en/blog/architectural-design-patterns-aws-multi-tenancy) - Architectural design patterns for multi-tenancy on AWS
+
+### Databases and Storage
+
+*   SQL
+    *   [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
+    *   [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
+    *   [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
+    *   [red-gate](https://www.red-gate.com/simple-talk/sql/database-administration/five-simple-database-design-errors-you-should-avoid) -  five simple database design errors you should avoid.
+    *   [talend](https://www.talend.com/blog/2017/05/05/data-model-design-best-practices-part-1) - Data model design best practices.
+    *   [sqlcheck (⭐2.2k)](https://github.com/jarulraj/sqlcheck) - Anti-patterns in SQL queries.
+    *   [Data warehouse patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/) - ETL and ELT design patterns for lake house architecture using Amazon Redshift
+*   NOSQL
+    *   [nosql resilience patterns](https://www.ebayinc.com/stories/blogs/tech/practical-nosql-resilience-design-pattern-for-the-enterprise) - Practical NoSQL resilience design pattern for the enterprise.
+    *   [nosql-patterns](https://dzone.com/articles/introduction-nosql-patterns) - Pragmatic Programming Techniques.
+    *   [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
+    *   [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+    *   [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
+    *   [Redis design patterns](https://redislabs.com/redis-best-practices/introduction/)
+    *   [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
+*   Storage
+    *   [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
+    *   [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance
+
+## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Asymmetric encryption
 
@@ -274,7 +331,7 @@
 
 *   [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A dashboard of most active cryptocurrencies discussed on Reddit.
 
-## [30. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -287,13 +344,13 @@
 *   [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - Tutorial on the different ways to write an MCMC sampler in JAX along with speed benchmarks.
 *   [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - Tutorial on how to add a progress bar to compiled loops in JAX using the `host_callback` module.
 
-## [31. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [35. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Social
 
 *   [ig-latest-post.js (⭐165)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
-## [32. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [36. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
@@ -307,7 +364,7 @@
 
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 
-## [33. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [37. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
@@ -683,13 +740,13 @@
 *   :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 *   :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 
-## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [38. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
 
-## [35. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [39. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
@@ -699,7 +756,7 @@
 
 *   [proto-repl (Atom)](https://atom.io/packages/proto-repl)
 
-## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Community-Supported Agriculture (CSA)
 
@@ -716,7 +773,7 @@
 *   [Flame (⭐3.1k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
 *   [Jmz HomeProxy (⭐18)](https://github.com/jmztaylor/homelab_proxy) - A simple and clean dashboard for self hosted services. `GPL-3.0` `PHP`
 
-## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -730,7 +787,7 @@
 
 *   [dananas/kotlin-glsl (⭐34)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -740,7 +797,7 @@
 
 *   [@adamdehaven/vue-custom-tooltip (⭐59)](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 :tada: customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
 
-## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -759,19 +816,19 @@
 
 *   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
-## [40. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [44. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
 *   [Light Wallet (⭐37)](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
 
-## [41. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [45. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [ansible-navigator (⭐189)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
-## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -816,7 +873,7 @@
 
 *   [mhartington/formatter.nvim (⭐649)](https://github.com/mhartington/formatter.nvim) - A format runner for Neovim written in Lua.
 
-## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -938,7 +995,7 @@
 
 
 
-## [44. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 

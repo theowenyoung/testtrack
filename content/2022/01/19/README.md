@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -467,7 +467,13 @@
 
 *   [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - Both research and lecture notes on many topics, Including Diffusions on foliated manifold, Stochastic Calculus, Global analysis in Dirichlet spaces, and more.
 
-## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Open Source / Community
+
+*   [Astro (⭐22k)](https://github.com/withastro/astro) - Modern Static Site Builder.
+
+## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### NFT Marketplaces / Wallets
 

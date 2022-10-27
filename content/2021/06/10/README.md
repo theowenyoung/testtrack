@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2021
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,11 +75,23 @@
 
 *   [Flame (⭐3.1k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
 
-## [7. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Apps/Websites / Community
+
+*   [vite-vue3-lowcode (⭐2k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
+
+## [8. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Books / Single Topics
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
+
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Markdown Editor
+
+*   [react-md-editor (⭐1.1k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 ---
 

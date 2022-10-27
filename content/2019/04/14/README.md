@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 14, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -64,13 +64,23 @@
 
 
 
-## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Hacker Roadmap (⭐9.9k)](https://github.com/sundowndev/hacker-roadmap)
+
+  Description: A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
+
+
+
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
 *   [BassoonTracker (⭐850)](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
 
-## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### JavaScript / EmberJS
 

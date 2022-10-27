@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,19 +55,59 @@
 
 *   [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Encryption
+
+*   [Picocrypt (⭐886)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
+
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
 *   [kotlin-graphics/assimp (⭐82)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [fast-crud (⭐371)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+
+### Templates / React
+
+*   [react-vite-admin (⭐136)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+
+### React / Presets
+
+*   [vite-preset-react (⭐38)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-virtual (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+
+### Rollup Plugins / Community
+
+*   Check the [Awesome Rollup list (⭐2k)](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+
+### Adobe Experience Manager / Community
+
+*   [AEM Vite (⭐17)](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
+
+### Craft CMS / Community
+
+*   [Craft Vite (⭐35)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+
+### Apps/Websites / Community
+
+*   [vue3-realworld-example-app (⭐592)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
@@ -78,7 +118,7 @@
 *   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
 *   [Sshwifty (⭐1.3k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web.
 
-## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Code Generators
 
@@ -97,19 +137,19 @@
 *   [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
 *   [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
-## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
 *   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
 
-## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Video
 

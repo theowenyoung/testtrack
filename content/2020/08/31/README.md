@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,7 +90,13 @@
 
 *   [Nyxo ★12 (⭐232)](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / APIs
+
+*   [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
+
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 

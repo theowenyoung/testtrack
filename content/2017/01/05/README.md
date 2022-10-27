@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,6 +43,16 @@
 ### Third-party APIs
 
 *   [terjira (⭐801)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+
+## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Cyber Skills (⭐2.2k)](https://github.com/joe-shenouda/awesome-cyber-skills)
+
+  Description: Curated list of hacking environments where you can train your cyber skills legally and safely
+
+
 
 ---
 

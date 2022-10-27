@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11 - Feb 17, 2019
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,19 +19,25 @@
 
 *   [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 
-## [3. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [3. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Supported Distributions / Fedora Remix for WSL
+
+*   [Fedora Project Documentation](https://docs.fedoraproject.org/)
+
+## [4. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [Orca (⭐3.9k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 
-## [4. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [5. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Overview
 
 *   [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 
-## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Personalization
 
@@ -51,7 +57,7 @@
 
 *   [Travel Guide (⭐27)](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Tutorials / Tools
 
@@ -60,39 +66,39 @@
     *   [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
     *   [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
-## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Quick References • Cheatsheets / Other
 
 *   [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
 *   [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
 
-## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Industry / Firmwares for ESP based Devices
 
 *   [spicierModbus2mqtt (⭐35)](https://github.com/mbs38/spicierModbus2mqtt) - Modbus master which publishes register values via MQTT.
 
-## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [MetaDefender Cloud](https://metadefender.opswat.com/) - Scan a file, hash, IP, URL or
     domain address for malware for free.
 
-## [10. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [11. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Video
 
 *   [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
 
-## [11. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Package Management
 
@@ -102,7 +108,7 @@
 
 *   [NETworkManager (⭐3.1k)](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
-## [13. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Components / Other / unknown licence
 
@@ -131,19 +137,19 @@
 
 *   [ada-bfd (⭐7)](https://github.com/stcarrez/ada-bfd) - Ada BFD is an Ada binding for the GNU Binutils BFD library. It allows to read binary ELF, COFF files by using the GNU BFD.
 
-## [14. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [15. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [not-paid.js (⭐9.5k)](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
 
-## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tutorials
 
 *   [Newgrounds Medals Tutorial (⭐12)](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - a little tutorial to add Newgrounds Medals to PICO-8 games.
 
-## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -160,19 +166,19 @@
 
 *   [Webbidevaus.fi](https://webbidevaus.fi/) - Weekly podcast about web-development. Hosted by Antti Mattila and Riku Rouvila.
 
-## [17. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Beam Coder (⭐320)](https://github.com/Streampunk/beamcoder) - Node.js native bindings to FFmpeg, with support for asynchronous processing via promises and streams.
 
-## [18. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
 
-## [19. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [20. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Community Ressources (mostly german language)
 
@@ -205,14 +211,14 @@
 *   [IP-Symcon](https://www.symcon.de/) - 💵
 *   [Mediola](https://www.mediola.com/) - 💵
 
-## [20. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [21. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Japanese
 
 *   [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 *   [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
 
-## [21. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [22. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### E-Commerce / Provided by the Host
 
@@ -222,25 +228,25 @@
 
 *   [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.
 
-## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Tools / Ruby
 
 *   [Domain Storytelling](http://www.domainstorytelling.org/) - a knowledge-crunching technique that helps the people involved to familiarize themselves with the domain and work out a model that expresses their shared understanding. Available as a [print-out template](http://www.domainstorytelling.org/images/DST_Whiteboard-Kit.pdf), as well as open-source online tool, [WPS Modeler](https://www.wps.de/modeler) ([source (⭐546)](https://github.com/wps/domain-story-modeler)).
 
-## [23. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [24. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Continuous Integration
 
 *   [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
 
-## [24. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
 *   [homebridge-webos-tv (⭐556)](https://github.com/merdok/homebridge-webos-tv) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) which allows you to control your webOS TV.
 
-## [25. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -320,7 +326,7 @@
 
 
 
-## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
@@ -333,7 +339,7 @@
 
 *   [base16-godot (⭐26)](https://github.com/Calinou/base16-godot) - All [base16 (⭐86)](https://github.com/chriskempson/base16) themes.
 
-## [27. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Caching
 
@@ -347,7 +353,7 @@
 
 *   [FF4J (⭐1.1k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 
-## [28. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [29. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
@@ -357,13 +363,13 @@
 
 *   [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
 *   [ecto\_shortuuid (⭐23)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐35)](https://github.com/gpedic/ex_shortuuid).
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -378,7 +384,7 @@
 
 *   [NuKeeper (⭐532)](https://github.com/NuKeeperDotNet/NuKeeper) - Automagically update nuget packages in .NET projects.
 
-## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [32. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / PHP
 
@@ -386,7 +392,7 @@
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [yadm (⭐84)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
-## [32. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [33. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -401,7 +407,7 @@
 *   [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 *   [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - Linux ports of games, game-related utilities.
 
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -569,7 +575,7 @@
 *   MacUpdate：<https://www.macupdate.com/>
 *   Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-## [34. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [35. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Articles
 
@@ -578,7 +584,7 @@
 *   [How I wrote my own 3D game engine and shipped a game with it in 20 months](https://kircode.com/post/how-i-wrote-my-own-3d-game-engine-and-shipped-a-game-with-it-in-20-months)
 *   [Building 42 games within a year — Insane game development](https://medium.com/@mknol/building-42-games-within-a-year-insane-game-development-5340d506068f)
 
-## [35. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [36. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -672,13 +678,13 @@
 
 *   [WinSparkle](https://winsparkle.org) and its [Delphi wrapper (⭐19)](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS.
 
-## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [TailorMade (⭐273)](https://github.com/jogboms/tailor_made) <!--stargazers:jogboms/tailor_made--> - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
-## [37. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [38. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -698,7 +704,7 @@
 *   [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
 *   [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
-## [38. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [39. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Reading Material
 
@@ -708,7 +714,7 @@
 
 *   [Binance](https://www.binance.com) — Exchange the world.
 
-## [39. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [40. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Provisioning
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,25 +27,31 @@
 
 *   [ModernCppStarter (⭐2.9k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐4.3k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
 
-## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Projects / Boilerplate
+
+*   [django-docker-heroku-template (⭐30)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
+
+## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2012
 
 *   [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazor Highcharts (⭐22)](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square\&cacheSeconds=86400) A port of the popular Highcharts library. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 
-## [5. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Reference Projects
 
 *   [bounded-disturbances (⭐41)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
 
-## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
@@ -57,19 +63,19 @@
 
 *   [louketo-proxy (FKA Gatekeeper) (⭐944)](https://github.com/louketo/louketo-proxy)
 
-## [7. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
+## [8. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
 ### Demos
 
 *   [Lumen API demo (⭐859)](https://github.com/liyu001989/lumen-api-demo)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
 *   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐642)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 

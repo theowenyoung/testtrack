@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 14, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,19 @@
 
 *   [iTerm2 + Oh-My-ZSH: Supercharge Your Mac Terminal](https://catalins.tech/improve-mac-terminal) - Catalin Pit's tutorial on getting started with Oh-My-ZSH on macOS.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Electron / Integrations
+
+*   [electron-vite (⭐284)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/rasmus.nvim (⭐54)](https://github.com/kvrohit/rasmus.nvim) - A dark color scheme for Neovim written in Lua ported from [rsms/sublime-theme (⭐155)](https://github.com/rsms/sublime-theme) theme.
 
-## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
@@ -52,7 +58,7 @@
 *   [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
 *   [Load Testing Your API with Postman](https://k6.io/blog/load-testing-with-postman-collections/) - How to use Postman collections to load test your API.
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Complexity & Information Theory / Visual Complexity
 
@@ -62,13 +68,13 @@
 
 *   [Individual differences among deep neural network models](https://kriegeskortelab.zuckermaninstitute.columbia.edu/sites/default/files/content/MehrerKietzmann_2020_NatureComms.pdf) - ***Nature Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=8259893575188417318\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [BetterMouse](https://better-mouse.com) - Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers.
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
@@ -78,7 +84,7 @@
 
 *   [milvus](https://milvus.io) – Milvus is [open source (⭐14k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
-## [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
@@ -97,6 +103,13 @@
 ### Registry Manager / IRC
 
 *   [https://github.com/slince/composer-registry-manager (⭐494)](https://github.com/slince/composer-registry-manager) - The plugin helps you to switch between different composer repositories.
+
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Video and Audio Conferencing / Alternative clients/modifications of Discord:
+
+*   [BetterDiscord](https://betterdiscord.app/) - A client modification for Discord, also you need to install a [DoNotTrack](https://betterdiscord.app/plugin/DoNotTrack) plugin to block trackers.
+*   [Kernel (⭐70)](https://github.com/kernel-mod/electron) - A super small and fast Electron client mod with the most capability, also you need to install a [Discord Utilities (⭐4)](https://github.com/slow/discord-utilities) package to block trackers.
 
 ---
 

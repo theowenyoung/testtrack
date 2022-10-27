@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 22, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Projects / Boilerplate
+
+*   [launchr (⭐175)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+
+## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Comprehensive R Tutorials
 
@@ -18,7 +24,7 @@
 
 *   [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
 
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
@@ -28,7 +34,7 @@
 
 *   🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 
-## [3. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [4. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Simulators / Object detection and object tracking
 
@@ -50,19 +56,19 @@
 *   [Awesome SLAM datasets :octocat: (⭐1.1k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
 *   [Awesome vehicle security and car hacking :octocat: (⭐2.2k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Node.js management
 
 *   [fnm (⭐9.1k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
-## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Publishing
 
 *   [Publishing Service Azure Templates (⭐2)](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -89,19 +95,19 @@
 
 *   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [97 Things Every SRE Should Know](https://www.oreilly.com/library/view/97-things-every/9781492081487/)
 
-## [8. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Tools
 
 *   [Visual Novel OCR (⭐52)](https://github.com/leminhyen2/Visual-Novel-OCR) - Japanese optical character recognition for visual novels. \[English]
 
-## [9. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [10. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Projects / LoRa
 
@@ -111,7 +117,7 @@
 
 *   [CanAirIO SensorLib (⭐25)](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### HTTP
 
@@ -121,7 +127,7 @@
 
 *   [Quickenshtein (⭐185)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
-## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 

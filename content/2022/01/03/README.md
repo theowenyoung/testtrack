@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -137,25 +137,42 @@
 
 *   [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab that introduces various aspects of the language and applies them to simple ML problems.
 
-## [7. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-twig (⭐12)](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
+
+## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Logos
 
 *   [VectorLogoZone (⭐297)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
-## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Misc
 
 *   [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
 *   [booperlv/nvim-gomove (⭐144)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Archive of Icons
+
+*   [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with over 76,000 icons indexed.
+*   [LogoSear.ch](https://logosear.ch/search.html) - SVG logo search engine with over 200,000 logos indexed.
+
+### Generic
+
+*   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
+
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Data Visualization / Runner
 

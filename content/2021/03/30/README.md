@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 30, 2021
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,32 +29,38 @@
 
 *   [nixduino (⭐32)](https://github.com/boredom101/nixduino) - Nix-based tool to help build Arduino sketches.
 
-## [4. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / Miscellaneous Tools
+
+*   [Files (⭐25k)](https://github.com/files-community/Files) - A modern file explorer that supports WSL filesystem. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [5. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### AUR Helpers / Other
 
 *   [arch-audit](https://gitlab.com/ilpianista/arch-audit) - A utility like pkg-audit based on Arch Security Team data.
 
-## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Machine Learning
 
 *   [DL4S (⭐82)](https://github.com/palle-k/DL4S) - Deep Learning for Swift: Accelerated tensor operations and dynamic neural networks based on reverse mode automatic differentiation for every device that can run Swift.
 *   [SwiftCoreMLTools (⭐129)](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift.
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
 *   [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
 *   [BudgetBudy (⭐20)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Text Analysis
 
@@ -81,13 +87,13 @@
 
 
 
-## [9. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Sequence Alignment / Clustering
 
 *   **[MMseqs2 (⭐792)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -97,25 +103,25 @@
 
 *   [Microsoft PowerBI](https://powerbi.com) — Business Insights & Analytics by Microsoft. Free Plan offers limited use with 1 Million User licenses.
 
-## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [12. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / String
 
 *   [pluralize (⭐1)](https://github.com/DaniAkash/pluralizer) - A very tiny library to pluralize words
 
-## [12. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Services
 
 *   [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer. [Source](https://github.com/FleekHQ)
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [Deploying Blazor WebAssembly to GitHub Pages](https://www.youtube.com/watch?v=k2twnElIFzw) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 30, 2021 - The .NET Docs Show - Deploying Blazor WebAssembly to GitHub Pages. What's better than Blazor? How about Blazor and a free place to host your Blazor app? In this episode, community member Niels Swimberghe shows the panel how to deploy Blazor apps to GitHub Pages.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -133,7 +139,13 @@
 
 *   [Microsoft Remote Deskto‪p](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [15. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [16. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Reddit
+
+*   [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
+
+## [17. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 

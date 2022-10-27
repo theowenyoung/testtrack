@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -115,13 +115,19 @@
     *   [Async flavor (⭐278)](https://github.com/testdrivenio/fastapi-crud-async)
     *   [Sync Flavor (⭐56)](https://github.com/testdrivenio/fastapi-crud-sync)
 
-## [8. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
+
+## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Media
 
 *   [Screenshot Plugin ★21 (⭐33)](https://github.com/wilsonvargas/ScreenshotPlugin) - A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### News / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 

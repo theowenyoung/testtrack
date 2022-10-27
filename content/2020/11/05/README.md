@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 05, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,19 +109,25 @@
 
 *   [Symfony Components](https://symfony.com/components) - The components that make Symfony.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Tools / Free Indexers
+
+*   [Mega.nz IDM Downloader](https://web.archive.org/web/20200629125743/https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) Unlimited downloading from Mega.nz with IDM.
+
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Reactive Programming / Runner
 
 *   [concent (⭐1.1k)](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
 
-## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Utilities
 
 *   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 
-## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Science and Medicine
 
@@ -156,13 +162,13 @@
 
 
 
-## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### System / Navigation Demos
 
 *   [react-native-system-setting (⭐386)](https://github.com/c19354837/react-native-system-setting)- Provides some system setting APIs iOS and Android.
 
-## [16. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [17. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Helpful links / Other
 

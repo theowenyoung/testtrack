@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,14 +34,20 @@
 
 *   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / DDoS Tools
+
+*   [D(HE)ater (⭐122)](https://github.com/Balasys/dheater) - D(HE)ater sends forged cryptographic handshake messages to enforce the Diffie-Hellman key exchange.
+
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Tools / Smart Contracts
 
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [aqua-compiler (⭐0)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
@@ -52,13 +58,13 @@
 
 *   [ChefBoost (⭐357)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
 *   [TerminusX](https://terminusdb.com/) — Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.
 
-## [8. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -82,13 +88,13 @@
 
 *   [Année Politique Suisse](https://anneepolitique.swiss/) - Sources on developments in Swiss politics and society.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-promise-dialog (⭐32)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / WebSocket
 
@@ -98,7 +104,7 @@
 
 *   [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 

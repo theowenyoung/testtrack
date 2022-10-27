@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -240,7 +240,18 @@
 
 *   [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 
-## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [minci (⭐24)](https://github.com/kristapsdz/minci)
+
+  Description: minimal self-hosted CI
+
+  Features: Languages: any
+
+  Supported repositories: 
+
+
+
+## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Audio
 
@@ -255,13 +266,13 @@
 *   [FontIconEditor (⭐50)](https://github.com/lminuti/FontIconEditor). `[Delphi]` Simple component editor that allow you to add icons to a TImageList from a font. You can use any font you want.
 *   [IconFontsImageList (⭐185)](https://github.com/EtheaDev/IconFontsImageList). `[Delphi]` Extended ImageList for Delphi (VCL & FMX) to simple use and manage Icon Fonts (with GDI+ support)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
 *   [Kigs framework (⭐69)](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. \[MIT] [website](https://kigs-framework.org/)
 
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Libraries / Integrations
 
@@ -271,7 +282,7 @@
 
 *   [Web Components Codemods (⭐6)](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
@@ -294,7 +305,7 @@
 
 *   [FDBarGauge (⭐25)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Project setup / Collection View Layout
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,7 +75,13 @@
 
 
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Windows Utilities / Web Exploitation Books
+
+*   [ctftool (⭐1.6k)](https://github.com/taviso/ctftool) - Interactive Collaborative Translation Framework (CTF) exploration tool capable of launching cross-session edit session attacks.
+
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Geolocation
 
@@ -85,7 +91,7 @@
 
 *   :strawberry: [Http/Adapter/Cake library (⭐3)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.4k)](https://github.com/php-http/httplug) HTTP client abstraction.
 
-## [9. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [10. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Carbon Reduction
 

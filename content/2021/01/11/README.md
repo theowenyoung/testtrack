@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,49 +19,55 @@
 *   [Promotion Text Kata (⭐1)](https://github.com/nealhu/promotion-text-kata)
 *   [Args Kata (⭐0)](https://github.com/nealhu/args-kata)
 
-## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Table
+
+*   [react-table (⭐20k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
+
+## [4. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
 *   [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
 *   [Modulight (⭐5)](https://github.com/StardustDL/delights) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/delights?style=flat-square\&cacheSeconds=86400) A light modular framework aimed to be low intrusive based on dependency injection for Blazor. Support lazy loading and prerendering for javascript, css stylesheets, and assemblies. Built with the new features introduced in .NET 5 such as WebAssembly Lazy Loading and Javascript Isolation.
 
-## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
 
-## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### .Net Libraries
 
 *   [NBitcoin (⭐1.7k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
 *   [PlotNeuralNet (⭐18k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 
-## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tutorials / iOS
 
 *   [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
-## [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Preprocessing
 
 *   [svelte-preprocess (⭐1.4k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
-## [10. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Awesome Lists
 

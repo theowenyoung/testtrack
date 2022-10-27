@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03 - Sep 09, 2018
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -235,7 +235,13 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Collaboration and Project Management / Telegram
+
+*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐13)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
+
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -245,25 +251,25 @@
 
 *   [ESTabBarController (⭐4.8k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File Upload
 
 *   [PaperClip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
-## [20. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
-## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [Taskist (⭐793)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -277,7 +283,7 @@
 
 *   [vue2-scrollspy (⭐135)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 
-## [23. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [24. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / C
 
@@ -287,13 +293,13 @@
 
 *   [CanCat (⭐159)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
-## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [25. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [HTTP Leaks (⭐1.7k)](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 
-## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -303,7 +309,7 @@
 
 *   [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 
-## [26. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [27. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Gists
 
@@ -352,7 +358,7 @@
 
 *   [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
 
-## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -389,7 +395,7 @@
 *   [md2png (⭐24)](https://github.com/weaming/md2png) - Convert markdown to PNG image
 *   [whales (⭐348)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -399,7 +405,7 @@
 
 *   [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CLI
 
@@ -413,13 +419,13 @@
 
 *   [danilop/yas3fs :fire::fire::fire: (⭐628)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 
-## [30. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [31. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
 *   [American Monk: Bhante Subhūti](http://americanmonk.org/) - Monk with roots in the Sri Lanka and Myanmar Forest Traditions.
 
-## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
@@ -435,7 +441,7 @@
 *   PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?\&c=Framework+%3A%3A+Jupyter)
     is the PyPI trove classifier for Jupyter projects.
 
-## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -449,14 +455,14 @@
 
 *   [DPPM (⭐105)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
-## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [34. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Cat-or-dog (⭐31)](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
 *   [Forex Rates (⭐45)](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -479,7 +485,7 @@
 
 *   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
@@ -501,19 +507,19 @@
 *   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
 *   [NCrontab (⭐731)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [bimap (⭐22)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
-## [37. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [38. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Queues
 
 *   [Enqueue (⭐2.1k)](https://github.com/php-enqueue/enqueue-dev) -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
 
-## [38. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [39. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Wiki
 

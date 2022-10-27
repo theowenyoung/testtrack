@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2019
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [PSKit Query (⭐34)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
 
-## [2. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [n8n.io (⭐26k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+
+## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Application / Server-Side Request Forgery
 
@@ -21,43 +27,49 @@
 *   [Hackxor](http://hackxor.net/) - Realistic web application hacking game - Written by [@albinowax](https://twitter.com/albinowax).
 *   [Portswigger Web Security Academy](https://portswigger.net/web-security) - Free trainings and labs - Written by [PortSwigger](https://portswigger.net/).
 
-## [3. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Museums & Collections
 
 *   [Denver Museum of Nature and Science](https://science.dmns.org/integrative-collections/dmns-zoology-collections/) - Collection of mammalian ecto- and endo- parasites primarily focused on the Rocky Mountain and Great Plains regions of the United States. Accessible through [Arctos](http://arctos.database.museum/SpecimenSearch.cfm).
 
-## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Web / Other
 
 *   [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
 
-## [5. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Cloud and storage
 
 *   [Nextcloud](https://nextcloud.com) is a selfhosted, federated alternative to Google Docs/Office365 et all. It syncs and lets you share files but it's over 200 community-contributed apps add chat and audio/video calls, calendar/contact, mail, maps, Tasks, collaborative document editing, Kanban board, password manager, bookmarks, audio player and many more. It is easy to install and manage (as far as servers go...) and extremely secure.
 
-## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
 *   [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [RocketSkill App Android Interview Questions (⭐7)](https://github.com/mindash/android-structured-interview)
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### ARKit
+
+*   [*Beginning ARKit for iPhone and iPad* by Wallace Wang](https://www.amazon.com/Beginning-ARKit-iPhone-iPad-Development/dp/1484241010)
+
+## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
 *   [Bitmap (⭐150)](https://github.com/renancaraujo/bitmap) <!--stargazers:renancaraujo/bitmap--> - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by [Renan C. Araújo](https://github.com/renancaraujo)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
@@ -73,7 +85,7 @@
     *   Notifications - 1 million delivery options per month, 1000 emails sent per month
     *   Full, detailed list - <https://www.oracle.com/cloud/free/>
 
-## [10. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -85,7 +97,7 @@
 
 *   [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [13. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
@@ -111,19 +123,25 @@
 
 *   [Alchemist Camp](https://alchemist.camp) - Alchemist.Camp has many hours of free, project-based Elixir-learning screencasts.
 
-## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Logic / Mouse Events
+
+*   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+
+## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Community / Artists
 
 *   [eBoy](http://hello.eboy.com/eboy/) - German, pixel art group founded in 1997 by Kai Vermehr, Steffen Sauerteig and Svend Smital. They are regarded as the “Godfathers of Pixel Art”.
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
 *   [How to get started with Cloud Firestore on React Native](https://invertase.io/blog/getting-started-with-cloud-firestore-on-react-native)
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,7 +56,70 @@
 
 *   [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Password Vaults
+
+*   [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
+
+### Antivirus
+
+*   [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
+*   [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
+
+### Trackers / Semi-Private Trackers
+
+*   [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
+
+### Trackers / Public Trackers
+
+*   [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
+
+### Torrent Clients / Public Trackers
+
+*   [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
+*   [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [QuickBox IO](https://quickbox.io/) Seedbox installer script
+
+### Tracker Frameworks / Seedbox Setup Tools and Guides
+
+*   [NexusPHP (⭐398)](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
+
+### DDL Link Sites / Free Indexers
+
+*   [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
+*   [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
+
+### Repacks / Third Party Hosts
+
+*   [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+
+### Ebooks / Third Party Hosts
+
+*   [b-ok](http://b-ok.xyz/) Free ebook library
+
+### Manga / Third Party Hosts
+
+*   [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
+*   [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
+*   [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
+*   [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) Download manga titles named F to K.
+*   [Madokami L-Q](https://archive.org/download/Madokami.Manga.L-Q) Download manga titles named L to Q.
+*   [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) Download manga titles named R to Z.
+*   [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
+
+### Discord Servers / Third Party Hosts
+
+*   [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
+
+### Content Discovery / Third Party Hosts
+
+*   [Letterboxd](https://letterboxd.com/) Your life in film
+
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
@@ -83,13 +146,13 @@
 
 *   [node-casbin (⭐2k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
 *   [CleanArchitectureRxSwift (⭐3.5k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 
-## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Security
 

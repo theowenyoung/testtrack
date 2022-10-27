@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2018
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,13 +84,38 @@
 
 *   [Yay (⭐8.4k)](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Userscripts
+
+*   [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
+*   [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
+
+### Tracker Aggregators / Public Trackers
+
+*   [rats-search (⭐1.2k)](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
+
+### Audiobooks / Third Party Hosts
+
+*   [AAXtoMP3 (⭐1k)](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
+
+### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
+
+*   [DVD Decrypter](http://dvddecrypter.org.uk/) The original unofficial DVD Decrypter mirror since June 7th, 2005.
+
+### File Renaming and Tagging / Third Party Hosts
+
+*   [Beets (⭐11k)](https://github.com/beetbox/beets) beets is a music library manager
+*   [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
+*   [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows
+
+## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Urteile & Gesetze (⭐17)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
-## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### RESTful API
 
@@ -117,19 +142,19 @@
 
 *   [Calva (VSCode) (⭐1.2k)](https://github.com/BetterThanTomorrow/calva)
 
-## [13. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Serverless Framework Plugins
 
 *   [S3 Deploy (⭐58)](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
 
-## [14. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [15. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2018
 
 *   [Laurie Voss: **npm and the Future of JavaScript**](https://www.youtube.com/watch?v=Qa4dxW-Qi2s) \[55:00]
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Cryptography
 
@@ -137,7 +162,7 @@
 *   [multiformats (⭐45)](https://github.com/multiformats/cs-multihash) - A general purpose hashing library, but a library to encode/decode Multihashes which is a "container" describing what hash algorithm the digest is calculated with.
 *   [nsec (⭐293)](https://github.com/ektrah/nsec) - NSec is a new cryptographic library for .NET Core based on libsodium.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -147,7 +172,7 @@
 
 *   [Getting to Know Vue.js](https://www.apress.com/us/book/9781484237809) by Brett Nelson, Apress. (August 2018)
 
-## [17. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [18. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Systems / Subtypes of QA
 

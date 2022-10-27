@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [GNU social](https://gnu.io/social/) - Social communication software for both public and private communications. ([Source Code](https://notabug.org/diogo/gnu-social)) `AGPL-3.0` `PHP`
 
-## [3. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Hosting / IaaS (Infrastructure-as-a-Service)
+
+*   [Hetzner](https://www.hetzner.com/)
+
+## [4. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Tutorial Websites
 
@@ -30,19 +36,19 @@
 
 
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Continuous Integration & Continuous Deployment
 
 *   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform  ([Source Code (⭐4k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [NanoGui (⭐1.1k)](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. \[BSD]
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -52,7 +58,7 @@
 
 *   [BalmUI (⭐415)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

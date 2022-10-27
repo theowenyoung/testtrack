@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 25 - Jul 01, 2018
 
-48 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -259,7 +259,22 @@
 
 *   [ROS 2 and DDS for IoT devices with HaoChih Lin (from 5th minute onwards)](http://www.theconstructsim.com/rdp-017-ros-2-dds-iot-haochih/)
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+
+### General Architecture
+
+*   [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
+
+### Micro services & Distributed Systems
+
+*   [microservices](http://microservices.io/patterns) - A pattern language for microservices.
+*   [enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html) - Patterns and Best Practices for Enterprise Integration.
+
+### DevOps & containers
+
+*   [kubernetes (⭐2k)](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
+
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### API / Runner
 
@@ -269,7 +284,7 @@
 
 *   [particles.js (⭐26k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
-## [15. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [16. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Broccoli read
 
@@ -304,7 +319,7 @@
 
 *   [Ember-cli In-Repo Addons with Jacob Bixby](https://www.youtube.com/watch?v=VYrMs1Zzpqs)
 
-## [16. Guides](/content/NARKOZ/guides/week/README.md)
+## [17. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 
@@ -314,7 +329,7 @@
 
 *   [Node.js Style Guide (⭐4.9k)](https://github.com/felixge/node-style-guide#readme)
 
-## [17. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [18. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Initiatives/Programs / Academy/Camp
 
@@ -322,13 +337,13 @@
 
     BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
-## [18. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [19. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Sweet.apex (⭐43)](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
-## [19. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Community / Particles
 
@@ -338,7 +353,7 @@
     *   [London, United Kingdom](https://www.meetup.com/WebGL-Workshop-London/)
     *   [New York, NY](https://www.meetup.com/NYC-WebGL-Developers/)
 
-## [20. Awesome](/content/craftcms/awesome/week/README.md)
+## [21. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Performance and Testing
 
@@ -348,19 +363,19 @@
 
 *   [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) by Sean Smith/Caffeine Creations - `29 June 2018`
 
-## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Bots
 
 *   [Telegrammer (⭐275)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
-## [22. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [23. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### ReactJS
 
 *   [XSS via a spoofed React element](http://danlec.com/blog/xss-via-a-spoofed-react-element) - Written by [Daniel LeCheminant](http://danlec.com/).
 
-## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
@@ -370,31 +385,31 @@
 
 *   [mass-spec (⭐7)](https://github.com/c910335/mass-spec) - Web API testing library
 
-## [24. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [25. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Text and Numbers
 
 *   [ejsv](https://github.com/patternmatched/ejsv) - Erlang JSON schema validator.
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-jquery-mask (⭐19)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.6k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
 
-## [26. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [27. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standa](https://www.npmjs.com/package/standa)** standard without JSX rules.
 
-## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [28. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### GTD-Task Manager / Enterprise Git Service
 
 *   [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Password Management
 
@@ -404,32 +419,38 @@
 
 *   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 
-## [29. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [30. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
 *   [Cattāri Brahmavihārā](https://cattaribrahmavihara.com/) - Father of three in NYC who maintains a daily practice.
 *   [Dhamma Reflections](https://dhammareflections.wordpress.com/) - Lay disciple's insights in practicing the early Buddhist teachings.
 
-## [30. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / JavaScript
 
 *   [CASL Mongoose (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
-## [31. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [32. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
 
-## [32. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [33. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Domain and IP Research / Telegram
+
+*   [Pulsedive](https://pulsedive.com)
+
+## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -443,13 +464,13 @@
 
 *   [nhibernate-core (⭐2k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
 
-## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐2.5k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#`
 
-## [35. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [37. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Genomics
 
@@ -460,7 +481,7 @@
 
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 
-## [36. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [38. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
@@ -474,13 +495,13 @@
 
 *   [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
 
-## [37. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [39. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Slate (⭐26k)](https://github.com/ianstormtaylor/slate) - Rich text editor built on top of React and Immutable
 
-## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
@@ -526,19 +547,19 @@
 
 *   [Launcher Icons (⭐1.6k)](https://github.com/franzsilva/flutter_launcher_icons) - Generate your launcher icons easily by [Mark O'Sullivan](https://github.com/MarkOSullivan94) and [Franz Silva](https://github.com/franzsilva)
 
-## [39. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [41. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Modules
 
 *   [YCM (⭐43)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐442)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [40. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [42. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x health check (⭐10)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
-## [41. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [43. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@alyssais](https://github.com/alyssais), [Homebrew (⭐34k)](https://github.com/Homebrew/brew)
     *   "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
 *   [@amjith](https://github.com/amjith), [pgcli (⭐11k)](https://github.com/dbcli/pgcli)
@@ -549,7 +570,7 @@
 *   [@tbrisker](https://github.com/tbrisker), [Foreman (⭐2.3k)](https://github.com/theforeman/foreman)
     *   "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -564,7 +585,7 @@
 
 *   [mlens (⭐756)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
-## [43. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [45. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
@@ -572,13 +593,13 @@
 *   [aurelia-slickgrid (⭐116)](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 *   [casl-aurelia (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) \* Permissions management plugin which allows to integrate Aurelia and CASL
 
-## [44. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [46. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [tools.trace (⭐339)](https://github.com/clojure/tools.trace)
 
-## [45. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [47. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
@@ -592,7 +613,7 @@
 
 *   [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
 
-## [46. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [48. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -603,7 +624,7 @@
 
 *   [AutoSleep](http://autosleep.tantsissa.com/) - Automatically tracks your sleep via your Apple Watch (iOS).
 
-## [47. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [49. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -611,7 +632,7 @@
 *   [VHostScan (⭐984)](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 *   [SubFinder (⭐6.4k)](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
-## [48. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [50. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 

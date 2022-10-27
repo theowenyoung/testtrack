@@ -1,12 +1,65 @@
 # Awesome List Updates on Apr 09, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [1. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Archive of Icons
+
+*   [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
+*   [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
+*   [svg-icon (⭐978)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+*   [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
+*   [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
+
+### Generic
+
+*   [Devicon](https://konpa.github.io/devicon/) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
+*   [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+*   [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
+*   [Glyphicons](http://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
+*   [Govicons](http://govicons.io/) - Gov Icons is a font and CSS toolkit with 115 government themed icons.
+*   [icoMoon](https://icomoon.io) - 490+ free Icons.
+*   [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
+*   [Ionicons](http://ionicons.com/) - The premium icon font for Ionic Framework.
+*   [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
+*   [Octicons](https://octicons.github.com/) - All GitHub's icons.
+*   [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
+*   [Google Material Design Icons, by Google](https://design.google.com/icons/) - Official Google Material Design Icons.
+*   [pictonic](https://pictonic.co) - Over 260+ free icons.
+*   [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
+
+### Map / Countries
+
+*   [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
+*   [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
+
+### Social
+
+*   [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
+*   [Zocial (⭐189)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
+
+### Weather
+
+*   [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
+*   [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
+*   [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
+
+### Merchants
+
+*   [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
+*   [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
+
+### Tools
+
+*   [fontello](http://fontello.com/) - Icon fonts generator.
+*   [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
+
+## [2. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Electron React Boilerplate   [↗](https://awesomestacks.dev/electron-react-boilerplate) / Resources
 
@@ -69,7 +122,7 @@
 *   [Tutorial: Fullstack React Native with GraphQL and Authentication](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a/)
 *   [Guide: Hasura GraphQL Engine One-click App on DigitalOcean Marketplace](https://docs.hasura.io/1.0/graphql/manual/guides/deployment/digital-ocean-one-click.html)
 
-## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Application Skeleton
 
@@ -103,13 +156,13 @@
 
 *   [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) - Phalcon Framework Documentation
 
-## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [4. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Code check/review, debug
 
 *   [Spider (⭐108)](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -198,7 +251,7 @@
 
 *   [Rust Subreddit](https://www.reddit.com/r/rust/) — A subreddit(forum) where rust related questions, articles and resources are posted and discussed
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
@@ -208,13 +261,13 @@
 
 *   [Magic Enum (⭐3.1k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
-## [6. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Libraries / Windows registry
 
 *   [windows-registry-node (⭐103)](https://github.com/CatalystCode/windows-registry-node) - Access/modify the Windows registry and set file associations.
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Animations
 
@@ -229,26 +282,26 @@
 *   [EmberConf 2019 Links and Notes (⭐8)](https://github.com/dknutsen/emberconf-2019)
 *   [Blog Post for an Ambitious Framework](https://blog.201-created.com/blog-post-for-an-ambitious-framework-d7e9248893fa)
 
-## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
 *   [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
-## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / Full-Stack
 
 *   [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
 
-## [11. Awesome Math](/content/rossant/awesome-math/README.md)
+## [12. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Category Theory
 
@@ -271,7 +324,7 @@
 
 *   [Theory of Functions of a Real Variable](http://www.math.harvard.edu/\~shlomo/docs/Real_Variables.pdf) - Shlomo Sternberg
 
-## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### MOOCs
 

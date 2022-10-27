@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07 - Oct 13, 2019
 
-75 awesome lists updated this week.
+80 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -158,7 +158,13 @@
 
 *   [CppCon 2019 Presentation Materials (⭐1.1k)](https://github.com/CppCon/CppCon2019) - CppCon 2019 Presentation Materials.
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Web / Playground
+
+*   :octocat: [n8n.io (⭐26k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+
+## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Application / Server-Side Request Forgery
 
@@ -167,7 +173,7 @@
 *   [Hackxor](http://hackxor.net/) - Realistic web application hacking game - Written by [@albinowax](https://twitter.com/albinowax).
 *   [Portswigger Web Security Academy](https://portswigger.net/web-security) - Free trainings and labs - Written by [PortSwigger](https://portswigger.net/).
 
-## [12. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [13. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
@@ -213,25 +219,31 @@
 *   [Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie](https://www.zobodat.at/publikation_series.php?id=1351) - 23 open access volumes (1971-2001) of the scientific journal of the Austrian Society for Tropical Medicine and Parasitology.
 *   [Parasitologia Hungarica](http://publication.nhmus.hu/parasitologia/bannales.php?volume=1) - 31 open-access volumes (1960-1998) of Parasitologia Hungarica, a scientific journal hosted by the Hungarian Natural History Museum.
 
-## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Web / Other
 
 *   [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
 
-## [14. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [15. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
 *   [Nextcloud](https://nextcloud.com) is a selfhosted, federated alternative to Google Docs/Office365 et all. It syncs and lets you share files but it's over 200 community-contributed apps add chat and audio/video calls, calendar/contact, mail, maps, Tasks, collaborative document editing, Kanban board, password manager, bookmarks, audio player and many more. It is easy to install and manage (as far as servers go...) and extremely secure.
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### ARKit
+
+*   [*Beginning ARKit for iPhone and iPad* by Wallace Wang](https://www.amazon.com/Beginning-ARKit-iPhone-iPad-Development/dp/1484241010)
+
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -247,7 +259,7 @@
     *   Notifications - 1 million delivery options per month, 1000 emails sent per month
     *   Full, detailed list - <https://www.oracle.com/cloud/free/>
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -332,7 +344,7 @@
 
 *   [Alchemist Camp](https://alchemist.camp) - Alchemist.Camp has many hours of free, project-based Elixir-learning screencasts.
 
-## [18. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [20. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -342,31 +354,37 @@
 
 *   [eBoy](http://hello.eboy.com/eboy/) - German, pixel art group founded in 1997 by Kai Vermehr, Steffen Sauerteig and Svend Smital. They are regarded as the “Godfathers of Pixel Art”.
 
-## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [21. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Tools
 
 *   [Ember Unused Components (⭐47)](https://github.com/vastec/ember-unused-components) - This script searches for unused components in your Ember project
 
-## [20. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [22. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Chat & Messaging / ORM
 
 *   [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) - Add push notifications in your Android chat apps in Kotlin with the help of CometChat Pro and Firebase Cloud Messaging (FCM).
 
-## [21. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [23. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Aggregators & Dashboards
 
 *   [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
 
-## [22. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [24. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Forms
 
 *   [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
-## [23. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Streaming Sites / Cartoons
+
+*   [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
+
+## [26. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 
@@ -377,7 +395,7 @@
 *   [Agile Architecture Pt. 1, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) - How do we work with architecture in a agile world 🎥.
 *   [Agile Architecture Pt. 2, by Allen Holub](https://www.youtube.com/watch?v=txbS0WJC1bo) - How do we work with architecture in a agile world 🎥.
 
-## [24. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -393,14 +411,14 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ![](https://www.speedtest.net/result/8644645756.png)
 
-## [25. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Blogs / Randomized Algorithms
 
 *   [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
 *   [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -447,13 +465,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Swift for Tensorflow (⭐6.1k)](https://github.com/tensorflow/swift) - a next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
 
-## [27. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [30. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
-## [28. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [31. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools / Repair or Validate CSV
 
@@ -469,13 +487,13 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 *   [PSKit Query (⭐34)](https://github.com/dfinke/PSKit#sql-query) — Powershell module lets you run simple queries over objects, including imported with csv
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
 *   [DuctTape (⭐170)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
-## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -490,26 +508,26 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
-## [31. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [34. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
 *   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [32. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [35. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [Unicons (⭐1.2k)](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 
-## [33. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [36. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
 *   [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 *   [Jami](https://jami.net/) - Client for Jami, a secure communication tool.
 
-## [34. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [37. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -519,20 +537,30 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
-## [35. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [38. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / United Kingdom
 
 *   [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking and real-time job vacancy statistics.
 
-## [36. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [39. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Tools
 
 *   [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 *   [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 
-## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [40. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Awesome Repositories
+
+- Repository: [Asset Discovery (⭐1.5k)](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
+
+  Description: List of resources which help during asset discovery phase of a security assessment engagement
+
+
+
+## [41. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Search engine and framework
 
@@ -543,7 +571,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 
-## [38. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
@@ -672,13 +700,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [39. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [43. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Source (⭐553)](https://github.com/sourcejs/Source)
 
-## [40. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [44. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
@@ -688,20 +716,20 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [mypyc (⭐14k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
-## [41. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next & Now 2.0 Typescript template (⭐38)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 *   [nextjs-mongodb-app (⭐1.3k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
-## [42. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [46. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Other
 
 *   [Tizen Studio development references (⭐4)](https://github.com/claromes/tizenstudio) - Documents focused on web apps for Smart TVs e Professional Monitors, based in personal researches.
 
-## [43. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
+## [47. Awesome Imba](/content/koolamusic/awesome-imba/week/README.md)
 
 ### Resources / Official Resources
 
@@ -739,13 +767,13 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [Weather App (⭐3)](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 *   [Top Down Shooter (⭐9)](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 
-## [44. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [48. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Cancer
 
 *   [ExploSig](http://explosig.lrgr.io) - Interactive visualization of mutational signatures and clinical data.
 
-## [45. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [49. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -759,7 +787,7 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [DataHackers](https://datahackers.com.br/podcast) - Podcast mensal que traz profissionais da ciência de dados para falar do mercado de trabalho, carreira e novidades.
 *   [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 
-## [46. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [50. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -778,7 +806,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [CommonMark (⭐4.7k)](https://github.com/commonmark/commonmark-spec) - C implementation of the CommonMark spec. [`Various Licenses`](https://github.com/commonmark/commonmark-spec/blob/master/LICENSE)
 
-## [47. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [51. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Ruby
 
@@ -786,13 +814,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
     Rails Girls Summer of Code is a global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
-## [48. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [52. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2016
 
 *   [Anjana Vakil: **Learning Functional Programming with JavaScript**](https://www.youtube.com/watch?v=e-5obm1G_FY) \[29:56]
 
-## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -1130,7 +1158,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 
 
-## [50. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [54. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -1174,13 +1202,23 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 *   [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 
-## [51. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [55. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Responsive / Syntax Highlight
+
+*   [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
+
+### Form Logic / Mouse Events
+
+*   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React JS.
+
+## [56. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Planning-roadmaps.md)
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [57. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
@@ -1191,7 +1229,7 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [Remote.Linq (⭐227)](https://github.com/6bee/Remote.Linq) - Remote Linq is a small and easy to use - yet very powerful - library to translate LINQ expression trees to strongly typed, serializable expression trees and vice versa.
 *   [Vanara (⭐1.2k)](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 
-## [53. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [58. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### Conferences
 
@@ -1202,13 +1240,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Find Voice Jobs](https://www.findvoicejobs.com) - Website to find jobs in VUI Domain
 
-## [54. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [59. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Tools / update
 
 *   [pre-commit (⭐9k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-## [55. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [60. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -1243,14 +1281,14 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   Chain React 2019: [Playlist](https://www.youtube.com/watch?v=zEjqDWqeDdg\&list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9)
 
-## [56. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [61. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - Baby monitor including custom case, server, and client source code. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 *   [Smart Security Camera](https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/) - Using OpenCV, Twilio and a WebCam/picam.
 
-## [57. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [62. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
@@ -1273,19 +1311,19 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 
-## [58. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [63. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Miscellaneous
 
 *   [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
-## [59. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [64. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Microsoft Windows
 
 *   [PyWin32 (⭐4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
-## [60. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
+## [65. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
 
 ### Community Resources and Blogs
 
@@ -1295,44 +1333,44 @@ Webpage: <https://https://www.costa.co.uk/>
     *   [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Subreddit about Qlik Sense.
     *   [/r/QlikView](https://www.reddit.com/r/qlikview/) - Subreddit about QlikView.
 
-## [61. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [66. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Nigeria](http://www.laravelnigeria.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 
-## [62. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [67. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Typescript Seed Projects / Aurelia + Electron Examples
 
 *   [aurelia-chrome-extension-seed (⭐0)](https://github.com/PraveenGandhi/aurelia-chrome-extension-seed) \* Aurelia chrome extension seed
 
-## [63. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [68. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Dashboards / Themes
 
 *   [Slate (⭐86)](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanila looks from seangreen2.
 
-## [64. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [69. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Talks
 
 *   [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvaIaYMd0o) - By Lena Reinhard.
 *   [Survival Tips For Women In Tech](https://www.pscp.tv/w/1BdGYepvvLQGX) - By Patricia Aas.
 
-## [65. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [70. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Virtualization / Metric & Metric Collection
 
 *   [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 
-## [66. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [71. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 
-## [67. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [72. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
@@ -1342,7 +1380,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
 
-## [68. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [73. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Penetration testing
 
@@ -1353,7 +1391,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 
-## [69. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [74. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
@@ -1367,13 +1405,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Oddworks](https://gitlab.com/oddnetworks/oddworks/core) - Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. `MIT` `Nodejs`
 
-## [70. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [75. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-accessible-modal (⭐18)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 
-## [71. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [76. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -1388,13 +1426,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 
-## [72. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [77. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
 *   [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 
-## [73. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [78. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -1412,7 +1450,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Upload files to any OpenStack Swift service provider (⭐1)](https://github.com/iksaku/openstack-swift-action)
 
-## [74. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [79. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Document
 
@@ -1425,7 +1463,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 
-## [75. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [80. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Office
 

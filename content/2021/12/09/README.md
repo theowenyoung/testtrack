@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,13 @@
 *   [GitLab GraphQL API Style Guide](https://docs.gitlab.com/ee/development/api_graphql_styleguide.html) - This document outlines the style guide for the GitLab GraphQL API.
 *   [Yelp GraphQL Guidelines](https://yelp.github.io/graphql-guidelines/) - This repo contains documentation and guidelines for a standardized and mostly reasonable approach to GraphQL (at Yelp).
 
-## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Geospatial Research and Mapping Tools / Telegram
+
+*   [SAS Planet](http://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
+
+## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -114,43 +120,43 @@
     Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies.  Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
 *   [LAMW (⭐189)](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [Million (⭐5.3k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 
-## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Vorago
 
 *   [`va108xx`](https://egit.irs.uni-stuttgart.de/rust/va108xx) - ![crates.io](https://img.shields.io/crates/v/va108xx.svg)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
 *   [gbprod/cutlass.nvim (⭐81)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
 
-## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [12. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [WikiTruth](https://wikitruth.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Wasm
 
 *   [trunk-action (⭐14)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
 *   [Equinox (⭐621)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
-## [14. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [15. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Web
 

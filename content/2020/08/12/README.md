@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,26 +50,43 @@
 
 *   [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen\&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
 
-## [6. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [builds.sr.ht](https://builds.sr.ht)
+
+  Description: Continuous Integration services for [sourcehut](https://sourcehut.org), the hacker's forge
+
+  Features: [open-source](https://git.sr.ht/\~sircmpwn/builds.sr.ht); supports many Linux distros, BSDs and even Plan9; runs anonymous jobs that aren't tied to a repository; post-build triggers for email, webhooks, etc.; powerful API for complex build scenarios; git and mercurial support; SSH login after build failures
+
+  Supported repositories: any supported by [dispatch.sr.ht](https://dispatch.sr.ht) (GitHub, GitLab etc.), [git.sr.ht](https://git.sr.ht), [hg.sr.ht](https://hg.sr.ht)
+
+  Documentation: [Documentation](https://man.sr.ht/builds.sr.ht)
+
+  Price: [Free and donation based ($2-$10/month) plans](https://man.sr.ht/billing-faq.md)
+
+  Stars: 
+
+
+
+## [7. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Books :books: / 2015
 
 *   [Every Layout: Relearn CSS Layout](https://every-layout.dev/) – Solving responsive layout problems using algorithmic design.
 
-## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [8. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Support Tables
 
 *   [Is Houdini ready yet?](https://ishoudinireadyyet.com/) - Overview of support for Houdini (low-level APIs exposing parts of the CSS rendering engine) across browsers.
 
-## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Fediverse / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [PeerTube](https://joinpeertube.org/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Chocobozzz/PeerTube) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/framasoft/peertube/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
 *   [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.feneas.org/socialhome/socialhome) - A federated personal profile with social networking functionality.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -79,19 +96,19 @@
 
 *   [vue-digital-transform (⭐56)](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
-## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Libraries
 
 *   [simdjson (⭐16k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
-## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Tributary (⭐5)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 

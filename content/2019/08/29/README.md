@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29, 2019
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,44 +12,56 @@
 
 *   [Admission to UCLA Interdepartmental Ph.D. program in Neuroscience. GRE general test required to: R4837 Field code: 0213](http://neuroscience.ucla.edu/admissions)
 
-## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Anti-virus Evasion Tools / Tor Tools
+
+*   [CarbonCopy (⭐1.1k)](https://github.com/paranoidninja/CarbonCopy) - Tool that creates a spoofed certificate of any online website and signs an Executable for AV evasion.
+
+## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Forensics
 
 *   [Meerkat (⭐357)](https://github.com/TonyPhipps/Meerkat) - PowerShell-based Windows artifact collection for threat hunting and incident response.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [nushell (⭐21k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [5. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Software and Tools
 
 *   [aShop](https://ashop.co) - Effortless microsites for Amazon Sellers. Marketing tool that delivers branded store experience to bring more business and maximize profits.
 *   [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Date and Time
 
 *   [PyTime (⭐146)](https://github.com/shinux/PyTime) - An easy-to-use Python module which aims to operate date/time/datetime by string.
 
-## [6. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Articles
 
 *   [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) Short article about tooling and personal elements of code review, from an ex-Facebook engineer.
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Swift
+
+*   [*Pro Swift* by Paul Hudson](https://www.hackingwithswift.com/store/pro-swift)
+
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Linting
 
 *   [Run Go lint checks on PR event (⭐10)](https://github.com/ArangoGutierrez/GoLinty-Action)
 
-## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Setup a Packagist Mirror / IRC
 
@@ -59,7 +71,7 @@
 
 *   [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
@@ -100,13 +112,13 @@
 
 *   References for Go were mostly cut-and-pasted from [gopherdata (⭐793)](https://github.com/gopherdata/resources/tree/master/tooling)
 
-## [10. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / PyTorch
 
 *   [PyToune (⭐533)](https://github.com/GRAAL-Research/pytoune) - A Keras-like framework and utilities for PyTorch.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -116,13 +128,13 @@
 
 *   [JqueryDataTablesServerSide (⭐210)](https://github.com/fingers10/JqueryDataTablesServerSide) - ASP.NET Core Server Side Processing library for Jquery DataTables with Multiple Column Filtering, Sorting and Pagination at database level with Excel Export and TagHelper support.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Form Widgets / Other
 
 *   [analytics (⭐1.8k)](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Learning and Courses
 

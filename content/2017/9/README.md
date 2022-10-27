@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 27 - Mar 05, 2017
 
-50 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -241,7 +241,75 @@
 
 *   [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
 
-## [21. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [21. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### React Native
+
+- Name: [Yahoo Finance (⭐2k)](https://github.com/7kfpun/FinanceReactNative)
+
+  Description: iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android). Data is pulled from Yahoo Finance.
+
+  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.kfpun.finance)
+
+
+- Name: [Pokemon Go Clone (⭐12)](https://github.com/VctrySam/Pokemon)
+
+  Description: Pokemon Go in React Native.
+
+  Link: [Demo](https://youtu.be/RG6FFL2ny3s)
+
+
+- Name: [BBC News (⭐205)](https://github.com/joeltrew/BBCNews-React-Native)
+
+  Description: An unofficial basic implementation of the BBC News app built using React Native.
+
+  Link: 
+
+
+- Name: [FC Barca App](https://github.com/VctrySam/FCBarca)
+
+  Description: FC Barcelona in React Native.
+
+  Link: [Demo](https://youtu.be/PIk_u2cHKjE)
+
+
+- Name: [AirBnb Clone](https://github.com/VctrySam/AirBnb)
+
+  Description: An Airbnb Clone in React Native.
+
+  Link: [Demo](https://www.youtube.com/watch?v=CJLBFYHb4f8)
+
+
+- Name: [Assemblies (⭐360)](https://github.com/buildreactnative/assemblies)
+
+  Description: A developer-focused Meetup clone built with React Native.
+
+  Link: 
+
+
+- Name: [21mobile (⭐162)](https://github.com/sonnylazuardi/21mobile)
+
+  Description: Cinema 21 movie schedule app built with react native, graphql, redux
+
+  Link: [21mobile.sonnylab.com](http://21mobile.sonnylab.com)
+
+
+- Name: [Dribbble (⭐2k)](https://github.com/catalinmiron/react-native-dribbble-app)
+
+  Description: Dribbble app built with React Native
+
+  Link: 
+
+
+- Name: [Snapchat Clone](https://github.com/VctrySam/SnapChat)
+
+  Description: SnapChat clone written with React Native
+
+  Link: [Demo](https://www.youtube.com/watch?v=sStf_ZbTXss)
+
+
+
+## [22. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Books
 
@@ -266,7 +334,7 @@
 
 *   [Spark with Scala Gitter channel](https://gitter.im/spark-scala/Lobby) - "*A place to discuss and ask questions about using Scala for Spark programming*" started by [@deanwampler](https://github.com/deanwampler).
 
-## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Java VM / Java
 
@@ -276,7 +344,7 @@
 
 *   [JSON Schema](http://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents.
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -286,13 +354,13 @@
 
 *   [mongodb\_ecto (⭐348)](https://github.com/michalmuskala/mongodb_ecto) - MongoDB adapter for Ecto.
 
-## [24. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [25. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [Macchina M2](http://macchina.cc/guide/m2) - Macchina 2.0 is a complete overhaul of our 1.X generation of Macchina. The goals are still the same: Create an easy-to-use, fully-open, and super-compatible automotive interface.
 
-## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [26. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Settings management
 
@@ -311,7 +379,7 @@
 *   [Extending The Functionality of Email Forms in Wagtail](https://posts-by.lb.ee/dev-wagtail-extending-the-functionality-of-email-forms-232c8469ac97)
 *   [Wagtail: 2 Steps for Adding Pages Outside of the CMS](https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/)
 
-## [26. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Belgium 🇧🇪 / Brussels
 
@@ -326,13 +394,13 @@ Webpage: <https://metalab.at>
 | ---- | ----- | ------------------------------------------------- | ------------------------------------------- |
 | ✔    | ✔     | [Rathausstraße 6, 1010 Wien](https://metalab.at/) | All time as long as a Key member is present |
 
-## [27. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [28. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [AnyChart-jQuery (⭐12)](https://github.com/AnyChart/AnyChart-jQuery) - Plugin for easily using AnyChart JavaScript charting library with jQuery.
 
-## [28. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [29. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -343,69 +411,69 @@ Webpage: <https://metalab.at>
 *   [dht-rpc (⭐146)](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/\~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
 *   [dns-discovery (⭐189)](https://github.com/mafintosh/dns-discovery) – Discovery peers in a distributed system using regular dns and multicast dns.
 
-## [29. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [30. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Other
 
 *   [pyramid\_retry (⭐6)](https://github.com/Pylons/pyramid_retry) - pyramid\_retry is an execution policy for Pyramid that wraps requests and can retry them a configurable number of times under certain "retryable" error conditions before indicating a failure to the client.
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 
-## [31. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Online Build System
 
 *   [flow.ci](https://flow.ci/) - flow\.ci, hosted continuous integration and delivery service for innovators who shape the future.
 
-## [32. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [33. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standard-focus](https://www.npmjs.com/package/standard-focus)** - Focus on one error at a time.
 
-## [33. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [34. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Books
 
 *   [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
 
-## [34. Computer Science](/content/ossu/computer-science/week/README.md)
+## [35. Computer Science](/content/ossu/computer-science/week/README.md)
 
 ### Congratulations / Which programming languages should I use?
 
 *   Look for a job as a developer!
 *   Check out the [readings](https://github.com/ossu/computer-science/blob/master/README.md/extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 
-## [35. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [36. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [DPKT (⭐952)](https://github.com/kbandla/dpkt): Python packet creation/parsing library.
 
-## [36. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [37. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Image and Language / Video Captioning
 
 *   TAU / USC \[[paper](https://arxiv.org/pdf/1612.06950.pdf)]
     *   Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization, arXiv:1612.06950.
 
-## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
 *   [raven.cr (⭐112)](https://github.com/sija/raven.cr) - Raven is a client for [Sentry (⭐32k)](https://github.com/getsentry/sentry)
 
-## [38. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [39. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Toran Proxy / IRC
 
 *   [ToranProxy](https://toranproxy.com/) (deprecated) - In addition to providing a composer repository ToranProxy acts as a proxy server for Packagist and GitHub.
 
-## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
@@ -415,7 +483,7 @@ Webpage: <https://metalab.at>
 
 *   [PJ Blog (⭐2.8k)](https://github.com/jcc/blog/)
 
-## [40. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [41. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
@@ -423,20 +491,20 @@ Webpage: <https://metalab.at>
 *   [timber (⭐9.8k)](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 *   [LoggingInterceptor (⭐1.3k)](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
 
-## [41. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [42. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-preact-init (⭐8)](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 
-## [42. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [43. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Building deep neural nets with h2o and rsparkling that predict arrhythmia of the heart](https://shiring.github.io/machine_learning/2017/02/27/h2o) Feb 27, 2017
 *   [Predicting food preferences with sparklyr (machine learning)](https://shiring.github.io/machine_learning/2017/02/19/food_spark) Feb 19, 2017
 
-## [43. Jstips](/content/loverajoel/jstips/week/README.md)
+## [44. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
@@ -446,7 +514,7 @@ Webpage: <https://metalab.at>
 *   [Slackbot (⭐19)](https://github.com/radibit/js-tips-slack-bot)
 *   [iOS App](https://goo.gl/Y9WiBc)
 
-## [44. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
@@ -468,20 +536,20 @@ Webpage: <https://metalab.at>
 
 *   [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Cloud-based bi-directional monitoring and messaging hub
 
-## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
 *   [SecurityDriven.Inferno (⭐537)](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
-## [46. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [47. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Art and Science Spaces / Other
 
 *   [Center for Science and the Imagination](http://csi.asu.edu/) - A collaboration between artists and scientists at Arizona State University.
 *   [STEM to STEAM](http://stemtosteam.org/) - An initiative out of Rhode Island School of Design to bring more art and design into STEM education.
 
-## [47. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
+## [48. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
 
 ### Amsterdam
 
@@ -495,7 +563,7 @@ Webpage: <https://metalab.at>
 
 *   [Design by Fire Café](https://www.designbyfire.nl) - Conferences and Gatherings on Interaction Design.
 
-## [48. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [49. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tutorials / Basics
 
@@ -503,13 +571,28 @@ Webpage: <https://metalab.at>
 *   [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 *   [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
 
-## [49. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [50. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [PayloadsAllTheThings (⭐42k)](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+  Description: List of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+
+- Repository: [RFSec-ToolKit (⭐1.3k)](https://github.com/cn0xroot/RFSec-ToolKit)
+
+  Description: Collection of Radio Frequency Communication Protocol Hacktools
+
+
+
+## [51. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 
 *   [Waffle Grid](https://lucasgruwez.github.io/waffle-grid) - An easy to use flexbox grid system
 
-## [50. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [52. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Presentations
 

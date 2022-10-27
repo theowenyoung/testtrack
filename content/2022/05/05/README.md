@@ -1,6 +1,6 @@
 # Awesome List Updates on May 05, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -182,6 +182,17 @@
 ### Font
 
 *   [Befonts](https://befonts.com/) - Provides several unqiue fonts for personal or commercial use.
+
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vanilla
+
+*   [vite-vanilla-ts-lib-starter (⭐65)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-webfont-dl (⭐82)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+*   [vite-plugin-babel-compiler (⭐21)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 
 ---
 

@@ -1,12 +1,24 @@
 # Awesome List Updates on Dec 16, 2021
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Books
+
+*   [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
+
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### React / Community
+
+*   [CRA migration guide (⭐47)](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
+
+## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 
@@ -24,7 +36,7 @@
 *   [Coding a basic WGAN in PyTorch by Edward Raff](https://youtu.be/7VRdaqMDalQ)
 *   [Training a Reinforcement Learning Agent by Miguel Morales](https://youtu.be/8TMT-gHlj_Q)
 
-## [2. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -59,7 +71,7 @@
 *   [Andrei Kashcha](https://twitter.com/anvaka)
 *   [Jan Žák](https://twitter.com/zakjan)
 
-## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18 - Dec 24, 2017
 
-30 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -168,7 +168,17 @@
 *   [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework (⭐8.4k)](https://github.com/caffe2/caffe2)
 *   [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web (⭐8.5k)](https://github.com/PAIR-code/deeplearnjs)
 
-## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [19. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Startpages / Telegram
+
+*   [start.me](https://www.start.me)
+
+### Note-taking / Telegram
+
+*   [Calculist](https://app.calculist.io/)
+
+## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -216,13 +226,13 @@
 *   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 *   [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 
-## [20. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [Chimp (⭐787)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
-## [21. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [22. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -245,13 +255,13 @@
 *   [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 *   [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 
-## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [simplebeerservice :fire::fire: (⭐314)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
-## [23. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [24. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
@@ -261,19 +271,30 @@
 
 *   [uuid (⭐13k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 
-## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### CLI and REPL
+
+*   Use [ts-node (⭐11k)](https://github.com/TypeStrong/ts-node) to run scripts or REPL
+*   How to make executable typescript scripts:
+    1.  Make sure you have `npx` (shipped with `npm >= 5.2`) and `typescript` package is installed
+    2.  Add this [shebang](https://en.wikipedia.org/wiki/Shebang_\(Unix\)) as first line to your script: `#!npx ts-node`
+    3.  Make script executable: `chmod +x script.ts`
+    4.  Run directly: `./script.ts` :)
+
+## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   [TokenVerify plugin (⭐9)](https://github.com/mosaxiv/cakephp-token-verify) - Easily issue tokens that can be used for mail authentication.
 
-## [25. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [27. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
@@ -295,13 +316,13 @@
 
 *   [xBehave.net (⭐387)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
 
-## [27. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [29. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
 *   [stempeg (⭐71)](https://github.com/faroit/stempeg) [:octocat: (⭐71)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
-## [28. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [30. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
@@ -311,7 +332,7 @@
 
 *   [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -321,7 +342,7 @@
 
 *   [sentences (⭐335)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 

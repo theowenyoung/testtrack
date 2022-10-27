@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 28, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,30 @@
 
 *   [Flask-Shell2HTTP (⭐125)](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-ts-nameof (⭐12)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐455)](https://github.com/dsherret/ts-nameof) in TypeScript.
+
+## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [flow.ci](https://github.com/flowci)
+
+  Description: Self-Hosted, powerful and user-friendly CI/CD server
+
+  Features: All Languages, Docker & K8s, High Availability, Parallel Build, Statistic
+
+  Supported repositories: GitHub, GitLab, Gitee, Gogs
+
+  Documentation: [Documentation (⭐736)](https://github.com/flowci/docs)
+
+  Price: [Open Source (⭐413)](https://github.com/flowci/docker-install)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
+
+
+
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
@@ -41,7 +64,7 @@
 
 *   [changedetection.io (⭐6.2k)](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Messaging and Streaming
 
@@ -51,32 +74,32 @@
 
 *   [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
 
-## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [9. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Reference Projects
 
 *   [k6-bitbucket-pipelines-example (⭐0)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Yaml
 
 *   [mini-yaml (⭐151)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
 *   [yaml-cpp (⭐3.7k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Productivity
 
 *   [Journapi (⭐6)](https://github.com/ChangJoo-Park/journapi_flutter) - Bullet journal application made with Flutter and GetX. by [ChangJoo Park](https://github.com/ChangJoo-Park)
 
-## [10. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [12. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Pre-trained Computer Vision Models
 
 *   [List of Computer Vision models (⭐28)](https://github.com/shubham-shahh/Open-Source-Models) These models are trained on custom objects
 
-## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 

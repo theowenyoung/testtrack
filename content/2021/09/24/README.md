@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24, 2021
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,19 +48,45 @@
 
 *   [vue-use-model-helpers (⭐3)](https://github.com/sergiocarracedo/vue-use-model-helpers) - Helper to map properties to local Ref using Composition API for Vue 2.x and 3
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Editors
+
+*   [django-business-logic (⭐160)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
+*   [django-quill-editor (⭐136)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
+*   [django-tinymce (⭐1.1k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
+
+### Third-Party Packages / Forms
+
+*   [django-shapeshifter (⭐167)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+
+### Resources / Community
+
+*   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [xtd (⭐390)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Podcasts / Others
 
 *   [Daniel Roth on Web Development with .NET 6](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-web-development-with-net-6-episode-158) - September 13, 2021 - Azure DevOps Podcast, episode 158: Daniel Roth on Web Development with .NET 6. Daniel was last on the podcast over two years ago in episode 47 to discuss Blazor DevOps. In this episode, he and Jeffrey discuss web development with .NET 6.0. He shares the high points of what’s coming next for .NET 6.0, the major differences between .NET 5.0 and 6.0, what to look forward to with regards to Blazor, and his insights on WASM tooling, minimal APIs and hosting, and hot reload within .NET 6.0. Duration: 45 minutes.
 
-## [7. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [naive-ui-dashboard-template (⭐33)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-comlink (⭐71)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.1k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+
+## [9. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 
 ### More
 

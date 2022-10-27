@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,7 +25,13 @@
 
 *   [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
 
-## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-swipe-to-delete-ios (⭐32)](https://github.com/arnaudambro/react-swipe-to-delete-ios) - [demo](https://arnaudambro.github.io/react-swipe-to-delete-ios/) - To delete an item in a list the same way iOS does.
+
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
@@ -41,14 +47,14 @@
 
 *   [datasets-games (⭐6)](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 
 *   [cJSON (⭐8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐16k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
-## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / a11y
 
@@ -404,7 +410,7 @@
 *   [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL) - Videos of the sessions from EmberConf 2019.
 *   [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js.
 
-## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Connected TVs
 
@@ -463,13 +469,13 @@
 *   [Canal+](https://developers.canal-plus.com/) - CANAL+ Open Source Community.
 *   [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) - What's happening with engineering and developers at YouTube.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community
 
 *   [Lisp Discord Server](https://discord.gg/hhk46CE)
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Games
 

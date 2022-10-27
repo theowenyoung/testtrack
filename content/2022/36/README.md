@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05 - Sep 11, 2022
 
-48 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,7 +74,40 @@
 
 *   [korandoru/setup-zig (⭐2)](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 
-## [10. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Code Search
+
+*   [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
+
+### Username Check / Telegram
+
+*   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
+
+### Domain and IP Research / Telegram
+
+*   [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
+*   [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
+*   [DNS History](https://completedns.com/dns-history/)
+
+### Browsers / Telegram
+
+*   [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
+
+### Infographics and Data Visualization / Telegram
+
+*   [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
+*   [D3js](https://d3js.org) - is a powerful data visualization javascript library.
+
+### Communication Tools / Telegram
+
+*   [Telegram](https://telegram.org) - is a secure and fast cloud-based mobile and desktop messaging platform.
+
+### Social Network Analysis / Telegram
+
+*   [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
+
+## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2018
 
@@ -84,20 +117,20 @@
 
 *   [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace](https://mislove.org/publications/Amazon-WWW.pdf) - (WWW) [(Code)](http://personalization.ccs.neu.edu) *Develops a methodology for detecting algorithmic pricing, and use it empirically to analyze their prevalence and behavior on Amazon Marketplace.*
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
 *   [bzip3 (⭐426)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Resilience and Natural Hazards
 
 *   [Climate Engine](https://climateengine.com/) - Provides data and insights to support financial and operational resilience for a changing planet across a variety of climate related hazards.
 *   [Jupiter Intelligence](https://jupiterintel.com/) - Provides global high resolution climate projections out to 2100 for a variety of hazards (flood, precipitation, wind, heat/cold, wildfire, thunderstorms, drought) as well as asset-level estimates of damage and financial loss.
 
-## [13. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [14. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
@@ -105,19 +138,19 @@
     *   [Paper 📰](https://arxiv.org/abs/2203.10168)
     *   [GitHub repository :octocat: (⭐39)](https://github.com/utiasASRL/pyboreas)
 
-## [14. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [15. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
 *   [nixpkgs-hammering (⭐152)](https://github.com/jtojnar/nixpkgs-hammering) - An opinionated linter for Nixpkgs package expressions.
 
-## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [16. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Streamiz (⭐315)](https://github.com/LGouellec/kafka-streams-dotnet) \[C#] - a .Net Stream Processing Library for Apache Kafka
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -127,25 +160,25 @@
 
 *   [matcha (⭐19)](https://github.com/christhekeele/matcha) - First-class match specifications for Elixir.
 
-## [17. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [18. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Casual
 
 *   Hyper Hexagon - [Web version](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
 
-## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [19. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Routers / Checkbox
 
 *   [@danielsharkov/svelte-router (⭐7)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 
-## [19. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [20. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
 *   [PCAPdroid (⭐726)](https://github.com/emanuele-f/PCAPdroid): PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
 
-## [20. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [21. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Articles / Other external resources
 
@@ -162,13 +195,13 @@
 *   [cypress\_on\_rails (⭐350)](https://github.com/shakacode/cypress-on-rails) - A gem to use cypress.io with your rails application. [:red\_circle:](https://rubygems.org/gems/cypress_on_rails)
 *   [shakapacker (⭐240)](https://github.com/shakacode/shakapacker) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 
-## [21. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [22. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
 *   [ffplayout (⭐251)](https://github.com/ffplayout/ffplayout) - Rust and FFmpeg based playout from folder or playlists.
 
-## [22. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [23. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
@@ -176,19 +209,19 @@
 *   :free: [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 *   :free: [SpriteKit](https://developer.apple.com/documentation/spritekit) - Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 
-## [23. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [24. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Quantum Computing
 
 *   [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
 
-## [24. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [25. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
 
-## [25. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [26. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Processing
 
@@ -198,13 +231,13 @@
 
 *   [Hime Display (⭐75)](https://github.com/TSKI433/hime-display) - Universal desktop model displayer for Live2D, Spine, MMD and VRoid. \[English/中文/日本語]
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Files and directories / Third-party APIs
 
 *   [file-notify (⭐18)](https://github.com/shinmera/file-notify) - a cross-platform library for file change detection. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [27. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [28. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Data Validation and Serialization / OAuth
 
@@ -218,7 +251,7 @@
 
 *   [FlaskCon](https://twitter.com/flaskcon) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
 
-## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [29. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Best Practices / Other Tools
 
@@ -228,7 +261,7 @@
 
 *   [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -276,32 +309,38 @@
 
 *   [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPL-2.1` `PHP`
 
-## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Analogy / Literature Visualization
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)].
 
-## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [32. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Useful Apps / iOS
 
 *   **RaspController** - Allows you to easily manage your Raspberry Pi remotely, control the GPIO ports, send commands directly through the terminal and so much more. [iOS](https://apps.apple.com/app/raspcontroller/id1584315865)
 
-## [32. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [33. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [FireSageJS (⭐0)](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
 
-## [33. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [34. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
 *   [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-bullet-msg (⭐2)](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
+
+## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -315,19 +354,19 @@
 
 *   [okso.app](https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
 
-## [35. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [37. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
-## [36. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [38. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Standalone Tools / Misc
 
 *   [steam-desktop-authenticator-multiplatform (⭐5)](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -337,7 +376,7 @@
 
 *   [temir (⭐891)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 
-## [38. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [40. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Security Audits / Wallets
 
@@ -348,25 +387,25 @@
 *   [Immunebytes](https://www.immunebytes.com) - Secure your Algorand Smart Contract with credible security auditing solutions.
 *   [KudelskiSecurity](https://kudelskisecurity.com) - Move your blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.
 
-## [39. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [41. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Ethernet
 
 *   [Official wiznet5k (⭐0)](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - Driver for the WIZnet5x00 series of Ethernet controllers.
 
-## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Formatting / Diagnostics
 
 *   [MunifTanjim/prettier.nvim (⭐87)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration for Neovim.
 
-## [41. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [JAXFit (⭐10)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 
-## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Databases Implemented in Go
 
@@ -376,13 +415,30 @@
 
 *   [bytebase (⭐4.1k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
-## [43. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [45. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+- Name: [Betterscan](https://www.betterscan.io)
+
+  Description: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)
+
+  Features: Docker
+
+  Supported repositories: Git
+
+  Documentation: [Documentation](https://betterscan.io)
+
+  Price: Open Source and PRO version
+
+  Stars: [![Stars](https://img.shields.io/github/stars/marcinguy/betterscan-ce.svg)](https://github.com/marcinguy/betterscan-ce/)
+
+
+
+## [46. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - Setting up distributed execution with k6-operator and Argo workflows.
 
-## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -400,7 +456,7 @@
 
 *   [thyme (chenhao-ye) (⭐17)](https://github.com/chenhao-ye/thyme) - Seasoning for shells. Based on [bira (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme), [gnzh (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/gnzh.zsh-theme), and [bullet-train (⭐2.7k)](https://github.com/caiogondim/bullet-train.zsh/blob/master/bullet-train.zsh-theme).
 
-## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### TensorFlow / General-Purpose Machine Learning
 
@@ -410,7 +466,7 @@
 
 *   [MLEM (⭐520)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
-## [46. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Async processing
 
@@ -425,7 +481,7 @@
 *   [jme-clj (⭐115)](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
 *   [play-cljc (⭐442)](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 
-## [47. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -437,11 +493,29 @@
 *   [Troubleshooting .NET Blazor WASM Debugging](https://khalidabuhakmeh.com/troubleshooting-dotnet-blazor-wasm-debugging) - August 30, 2022 - Troubleshooting .NET Blazor WASM Debugging.
 *   [Authenticate Blazor WebAssembly with Azure Static Web Apps](https://anthonychu.ca/post/blazor-auth-azure-static-web-apps/) - July 22, 2022 - Azure Static Web Apps is a great place to host Blazor WebAssembly apps. Among Static Web Apps' many features, it has built-in support for authentication using social logins. In this article, we'll look at how we can take advantage of Static Web Apps Authentication in our Blazor WebAssembly apps. By Anthony Chu, from Microsoft.
 
-## [48. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [51. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Business/Finance / Angular
 
 *   [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
+
+## [52. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-admin-sortable2 (⭐539)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+
+### Third-Party Packages / Forms
+
+*   [django-bleach (⭐89)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
+
+### Third-Party Packages / Models
+
+*   [django-streamfield (⭐70)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
+
+### Third-Party Packages / Task Queues
+
+*   [flower (⭐5.4k)](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 
 ---
 

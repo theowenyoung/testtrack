@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -223,25 +223,45 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [react-hooks-screen-type (⭐15)](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### IPTV and DVR / Third Party Hosts
+
+*   [telly (⭐655)](https://github.com/tellytv/telly) IPTV proxy for Plex Live written in Golang
+*   [xTeVe](https://xteve.de/) :star2: M3U Proxy for Plex DVR
+*   [IPTV Community](https://iptv.community/) Technology and IPTV discussion website, useful for finding an IPTV provider/reseller
+
+### PreDB Sites / Third Party Hosts
+
+*   [Urban Dictionary: predb](https://www.urbandictionary.com/define.php?term=predb) Urban Dictionary definition
+*   [PreDB.org](https://predb.org/)
+*   [PreDB.me](https://predb.me/)
+*   [PREdb](https://predb.ovh/)
+
+### Miscellaneous / Third Party Hosts
+
+*   [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
+*   [castnow (⭐3.7k)](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
+
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
 *   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Source Code (⭐23k)](https://github.com/photoprism/photoprism)) `MIT` `Go`
 
-## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Widgets / Redux / ELM / Dependency Injection
 
 *   [Functional widget (⭐518)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### WPF
 
 *   [WPF (⭐6k)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 

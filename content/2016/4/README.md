@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -251,26 +251,36 @@ git config --global help.autocorrect 1
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [12. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [Raphaël](http://icons.marekventur.com/)
+
+### Social
+
+*   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
+
+## [13. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
-## [13. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Boilerplates / Brunch Plugins
 
 *   [es6-jspm-gulp-boilerplate (⭐137)](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
-## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -337,7 +347,7 @@ git config --global help.autocorrect 1
 
 *   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 
-## [16. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [17. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### General
 
@@ -350,7 +360,7 @@ git config --global help.autocorrect 1
 
 *   [Marionette Form View (⭐78)](https://github.com/viverae/marionette.formview)
 
-## [17. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
@@ -365,14 +375,14 @@ git config --global help.autocorrect 1
 
 *   [git2r (⭐190)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
-## [18. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [19. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Salesforce ReactJS SPA Starter (⭐16)](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 *   [ForceSpinner (⭐8)](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
-## [19. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [20. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -388,7 +398,7 @@ git config --global help.autocorrect 1
 
 *   [Dtanks (⭐11)](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
 
-## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
@@ -398,13 +408,13 @@ git config --global help.autocorrect 1
 
 *   [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
 
-## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   [CakeAdmin plugin (⭐29)](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area.
 
-## [22. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Basics
 
@@ -494,19 +504,19 @@ git config --global help.autocorrect 1
 
 *   [BetterWorks](http://www.producthunt.com/tech/betterworks)
 
-## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios \[Simplified BSD]
 
-## [24. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [25. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [tesla-streamer (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 
-## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
@@ -524,7 +534,7 @@ git config --global help.autocorrect 1
 *   [benchmark.js (⭐5.3k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐556)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Tracking / ORM
 
@@ -538,13 +548,13 @@ git config --global help.autocorrect 1
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [27. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -563,7 +573,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [29. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [30. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -596,7 +606,7 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
@@ -606,7 +616,7 @@ git config --global help.autocorrect 1
 
 *   [tz-format (⭐9)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [32. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -617,7 +627,7 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -629,13 +639,13 @@ git config --global help.autocorrect 1
 *   [hn-cli (⭐455)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 *   [whereami (⭐151)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [33. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [34. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [35. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -643,7 +653,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [35. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [36. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -651,7 +661,7 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -684,7 +694,7 @@ git config --global help.autocorrect 1
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -706,7 +716,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [38. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [39. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

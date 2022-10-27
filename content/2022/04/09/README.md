@@ -1,12 +1,18 @@
 # Awesome List Updates on Apr 09, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / Discord
+
+*   [gtkcord4 (⭐307)](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+
+## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Build and Package / Other / unknown licence
 
@@ -39,38 +45,38 @@
 *   [whitakers-words (⭐211)](https://github.com/mk270/whitakers-words) - William Whitaker's WORDS, a Latin dictionary.
 *   [ada-chess](http://www.adachess.com/) - Chess engine written in Ada.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [wait-for (⭐4)](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [more-hooks-for-git (⭐0)](https://github.com/capsulescodes/more-hooks-for-git) - Adds extra hooks for `git add`, `git diff` and `git status`.
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Tools / Smart Contracts
 
 *   [tealang (⭐37)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Cloud management solutions
 
 *   [Pulumi](https://www.pulumi.com/) — Modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
 *   [terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [@vuepic/vue-datepicker (⭐388)](https://github.com/Vuepic/vue-datepicker) - The most complete date picker solution for Vue 3
 
-## [7. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage consumption tools / Package managers
 

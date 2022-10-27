@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2021
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,19 +46,25 @@
 
 *   [ZSH Unplugged (⭐132)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
-## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / For Managing WSL Installations
+
+*   [WSL GUI Tool (⭐58)](https://github.com/emeric-martineau/wsl-gui-tool) - A graphical tool to manage (run, stop, import, export...) WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### eBPF Workflow: Tools and Utilities / oxidebpf
 
 *   [oxidebpf (⭐89)](https://github.com/redcanaryco/oxidebpf) - A pure Rust library for managing eBPF programs, designed for security use cases. The featureset is more limited than other libraries but emphasizes stability across a wide range of kernels and backwards-compatible compile-once-run-most-places.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-flip-countdown (⭐41)](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Explanation
 
@@ -411,19 +417,36 @@
 
 *   [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569\&secret=f5e85a) - ***Farrar Straus Giroux***, 2011. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=3255681708785115121)].
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
 
-## [10. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [11. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Articles
 
 *   [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
 
-## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [12. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Woodpecker](https://woodpecker.laszlo.cloud/)
+
+  Description: Continuous Integration service
+
+  Features: Woodpecker is a community fork of the [Drone CI](https://github.com/drone) system.
+
+  Supported repositories: GitHub, GitLab, Gitea, BitBucket, Custom
+
+  Documentation: [Documentation](https://woodpecker-ci.github.io/docs/intro)
+
+  Price: Free Open Source (Apache License 2.0)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/laszlocph/woodpecker.svg)](https://github.com/laszlocph/woodpecker/)
+
+
+
+## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 
@@ -499,7 +522,7 @@
 *   [Square Payments (⭐2)](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 *   [Sumup (⭐1)](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 
-## [12. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 

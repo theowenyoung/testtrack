@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 30, 2021
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,21 @@
 *   [Blazor.Ionic (⭐26)](https://github.com/kukks/Blazor.Ionic) - ![GitHub stars](https://img.shields.io/github/stars/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/kukks/Blazor.Ionic?style=flat-square\&cacheSeconds=86400) Ionic framework integration for Blazor.
 *   [Blazor Controls Toolkit](https://blazorct.azurewebsites.net/) - Complete toolset for implementing commercial business applications. It includes the equivalent of all Bootstrap JavaScript components, all html5 input types with widgets fallbacks, advanced editable components like DataGrid, TreeView, DetailView, ModalDetail, DetailList. All components have default customizable templates, and support virtualizazion and Drag & Drop. Component rendering is meta-data driven, so component configuration is in part automatic, and in part can be driven with data annotations. The toolset includes also query tools, to issue complex local or remote queries, changes-tracking tools to send only the changed records to the server, advanced validation attributes, globalization tools, "Behaviors" that modify existing components, state management and save, and more.
 
-## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Coding Challenge Platforms:
+
+- Website: <https://www.codementor.io/projects>
+
+
+
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
 *   [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 
-## [8. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [9. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Tutorials
 
@@ -76,13 +84,19 @@
 *   [Twitter](https://twitter.com/videolan) - The official VideoLAN Twitter account.
 *   [Reddit](https://www.reddit.com/r/vlc) - Unofficial VLC community on Reddit.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-mock-server (⭐27)](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
+
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
 *   [Horahora (⭐732)](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`
 
-## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Code Quality
 

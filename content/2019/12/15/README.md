@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2019
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,6 +23,12 @@
 ### SEO
 
 *   [Phalcon meta tags (⭐12)](https://github.com/izica/phalcon-meta-tags) - Tools for work with meta tags.
+
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Trackers / Semi-Private Trackers
+
+*   [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
 ---
 

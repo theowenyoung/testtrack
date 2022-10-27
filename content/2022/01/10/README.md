@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -105,19 +105,25 @@
 
 *   [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 
-## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### FIAT
+
+*   [Budget Zen](https://budgetzen.net) - Simple and Encrypted Budget Management.
+
+## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Books
 
 *   [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
 
-## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Development / Newsletters
 
 *   [robotnix (⭐354)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Third party Guides
 
@@ -136,25 +142,25 @@
 *   [AsyncLocationKit (⭐66)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [STLocationRequest (⭐640)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / GUI
 
 *   [emilk/egui (⭐11k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 
-## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / To-Do Lists
 
 *   [Super Productivity](https://super-productivity.com) - Cross-platform todo list app with integrated Timeboxing and time tracking capabilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/johannesjo/super-productivity) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12)
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Integrations
 

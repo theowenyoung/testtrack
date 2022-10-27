@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and receive DHCP packets
 
-## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Loader
+
+*   [react-spinners-css (⭐304)](https://github.com/JoshK2/react-spinners-css) - Amazing collection of react spinners components.
+
+## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
@@ -29,7 +35,7 @@
 
 *   [IBM Q Community](https://community.qiskit.org/) - IBM Q Community page with list of upcoming events and latest programs.
 
-## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -39,19 +45,19 @@
 
 *   [Node.js - Automatically run the `format` and/or `lint` script used by the package (⭐34)](https://github.com/MarvinJWendt/run-node-formatter)
 
-## [5. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tutorials
 
 *   [Binary save system](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/) - Custom game save system that supports various data types
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for Node.js, Java, Go and Ruby.
 
-## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Reinforcement Learning / NLP
 

@@ -1,37 +1,66 @@
 # Awesome List Updates on Apr 12, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Decentralised Networks
+
+*   [Loki (⭐1.2k)](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+*   [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
+
+### Download Managers / Free Indexers
+
+*   [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+
+### DDL Link Sites / Free Indexers
+
+*   [movidy](https://movidy.co) Links for movies and shows in Spanish
+
+### Windows / Third Party Hosts
+
+*   [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
+
+### APKs / Third Party Hosts
+
+*   [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
+*   [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid.
+
+### File Sharing Tools / Third Party Hosts
+
+*   [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [DW1000](https://crates.io/crates/dw1000) - SPI - Radio transceiver (IEEE 802.15.4 and position tracking) - [Article](https://braun-embedded.com/dw1000/) - ![crates.io](https://img.shields.io/crates/v/dw1000.svg)
 
-## [2. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Books / Animation
 
 *   [Pixel logic](https://gumroad.com/l/pixel-logic) - Pixel Logic is an in-depth pixel art tutorial book.
 *   [Make Your Own Pixel Art](https://nostarch.com/pixelart) - Walks you step-by-step through the available tools, pixel art techniques, the importance of shapes, colors, shading, and how to turn your art into animation.
 
-## [3. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [4. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Tools
 
 *   [wext-manifest-loader (⭐20)](https://github.com/abhijithvijayan/wext-manifest-loader) - Webpack loader that lets you specify `manifest.json` properties to appear only in specific browsers.
 
-## [4. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [5. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Debug
 
 *   [tracy (⭐4.4k)](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
 
-## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mods / Performance
 
@@ -94,7 +123,7 @@
 *   [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) - This mod adds multiple new textures to lots of blocks in the game, adding a wide variety of textures. (For editing units smaller than blocks see Chisel and Bits.)
 *   [FAWE](https://intellectualsites.github.io/download/fawe.html) - Stands for Fast Async WorldEdit. Based upon WorldEdit, it is simply faster, and adds lots more tools (i.e. brushes) to work with.
 
-## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Courses & Books & Blogs
 

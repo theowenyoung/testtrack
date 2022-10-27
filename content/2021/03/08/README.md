@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2021
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -98,7 +98,13 @@
 
 *   [Foci](https://fociai.com/) - Wearable (clip) that is automatically tracking focus, flow, relaxation, fatigue and stress.
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Adobe CC / Third Party Hosts
+
+*   [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
+
+## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Real-Time Kernel
 
@@ -108,7 +114,7 @@
 
 *   [awesome CAN (⭐690)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Others
 
@@ -118,13 +124,13 @@
 
 *   [Razor Pages has Components too don't you know](https://jonhilton.net/razor-pages-components/) - March 2, 2021 - Razor Pages has Components too don't you know.
 
-## [9. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [10. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Videos
 
 *   [How Can We Complete a Knowledge Graph?](https://www.youtube.com/watch?v=nYDi1_UaFtU\&list=PLtEF8_xCPklbGuaOANOJHZ8cvbo65LN2I)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -134,19 +140,36 @@
 
 *   [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting unlimited users, 0.5 GB storage and 1 GB RAM per app. Also Studio and Studio Pro IDEs are allowed in free tier.
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [yew-train-ticket (⭐4)](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.wkfg.me/> by [@三丰](https://t.me/junbaor) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.wkfg.me%2F)
 
-## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Infinite Scroll
+
+*   [react-window (⭐13k)](https://github.com/bvaughn/react-window) - [demo](https://react-window.now.sh/) - React components for efficiently rendering large lists and tabular data
+
+### Form Components / Rich Text Editor
+
+*   [edtr-io (⭐695)](https://github.com/edtr-io/edtr-io) - [demo](https://edtr.io/) - [docs](https://edtr.io/docs/getting-started) - WYSIWYG in-line web editor with plugins.
+*   [remirror (⭐1.9k)](https://github.com/remirror/remirror) - [demo](https://remirror.io/playground) - [docs](https://remirror.io/docs) - ProseMirror toolkit for React.
+*   [slate (⭐26k)](https://github.com/ianstormtaylor/slate) - [demo](http://slatejs.org/) - [docs](https://docs.slatejs.org/) - A completely customizable framework for building rich text editors.
+*   [smartblock (⭐254)](https://github.com/appleple/smartblock) - [demo](https://appleple.github.io/smartblock/) - [docs](https://appleple.github.io/smartblock/get-started) - Block based WYSIWYG editor based on ProseMirror.
+
+### Meta Tags / Mouse Events
+
+*   [react-helmet-async (⭐1.6k)](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
+
+## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Frontend
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,19 +65,25 @@
 
 *   [TEALrb (⭐6)](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts.
 
-## [6. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vanilla
+
+*   [vite-tailwind-stimulus-starter (⭐1)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+
+## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration
 
 *   [Nuxtus](https://nuxtus.com) - Provides a Nuxt boilerplate and set of tools to automatically create Nuxt pages from Directus Collections.
 
-## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Feature Engineering / General
 
 *   [Feature Engine (⭐1.1k)](https://github.com/feature-engine/feature_engine) - Feature engineering package with sklearn like functionality. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### ORM
 

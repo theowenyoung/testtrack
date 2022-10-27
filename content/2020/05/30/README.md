@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,24 @@
 
 *   [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
-## [2. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [RazorOps](https://razorops.com/)
+
+  Description: RazorOps is a Container-Native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes
+
+  Features: Languages: Docker, Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Java, etc
+
+  Supported repositories: GitHub, BitBucket, GitLab, Webhooks
+
+  Documentation: [Documentation](https://docs.razorops.com/)
+
+  Price: [Pricing - Free for Open Source, Free plan with limitations](https://razorops.com/pricing/)
+
+  Stars: 
+
+
+
+## [3. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### TDD/BDD
 
@@ -26,7 +43,7 @@
 
 *   [VSMac-CodeDistribution (⭐8)](https://github.com/ademanuele/VSMac-CodeDistribution) - A Visual Studio for Mac extension that visualises code distribution between projects. Particularly useful for Xamarin projects to understand the amount of code shared between platforms.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -42,13 +59,13 @@
 
 
 
-## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Testing Tools
 
 *   [Cucumber (⭐6)](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Networking
 
@@ -58,19 +75,19 @@
 
 *   [Playwright (⭐280)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
-## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Automation
 
 *   [autopilot (⭐438)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Search
 
 *   [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
 
-## [8. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [9. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Numbers
 
@@ -78,20 +95,20 @@
 *   [is-finite (⭐18)](https://github.com/sindresorhus/is-finite) - [`Number.isFinite`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite)
 *   [is-integer (⭐12)](https://github.com/parshap/js-is-integer) - [`Number.isInteger`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger)
 
-## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Text & Rich Content / Image Picker
 
 *   [Zefyr (⭐2.1k)](https://github.com/memspace/zefyr) <!--stargazers:memspace/zefyr--> - Soft & gentle rich text editor by [Memspace (⭐2.1k)](https://github.com/memspace/zefyr)
 *   [TeX (⭐216)](https://github.com/shah-xad/flutter_tex) <!--stargazers:shah-xad/flutter_tex--> - Render Mathematics Equations with full HTML and JavaScript support by [Shahzad Akram](https://github.com/shah-xad)
 
-## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
 *   [yuniql (⭐326)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
-## [11. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [12. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Programming Languages / C
 
@@ -116,19 +133,19 @@
 *   [Think DSP (⭐3k)](https://github.com/AllenDowney/ThinkDSP) ([Site](https://greenteapress.com/wp/think-dsp/), cc-nc) - introduction to Digital Signal Processing in Python
 *   [Python re(gex)? (⭐1.3k)](https://github.com/learnbyexample/py_regular_expressions) ([Site (⭐1.3k)](https://github.com/learnbyexample/py_regular_expressions/blob/master/py_regex.md), cc-nc-sa) - step by step guide to learning Python regular expressions
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-file-toolbar-menu (⭐112)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
-## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Jamstack Sites Showcase
 
 *   [ProtonDB](https://www.protondb.com) - React/MaterialUI/Firebase hosted on Netlify since August 2018. Prominent in Linux gaming community.
 
-## [14. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [15. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Editors and IDEs
 
@@ -138,7 +155,7 @@
 
 *   [WSLab (⭐994)](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 
-## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 

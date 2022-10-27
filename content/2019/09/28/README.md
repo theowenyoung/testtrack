@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,7 +74,17 @@
 *   [1-minute guide to real constants in Python](https://sobolevn.me/2018/07/real-python-contants) - Full tutorial about `Final` constants and inheritance.
 *   [Simple dependent types in Python](https://sobolevn.me/2019/01/simple-dependent-types-in-python) - Full tutorial about `Literal` types.
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Software / Third Party Hosts
+
+*   [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [tut4dl](https://tut4dl.com/) Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
+
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / STMicroelectronics
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01, 2020
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -266,31 +266,615 @@
 
 *   [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
 
-## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous / Mouse Events
+
+*   [react-universal-hooks (⭐177)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
+
+## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Resources
 
 *   [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and English version available.
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
+
+  Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
+
+  Features: Languages: everything that can be installed on Linux
+
+  Supported repositories: GitHub, GitLab, BitBucket, Gogs
+
+  Documentation: [Documentation (⭐853)](https://github.com/bleenco/abstruse/tree/master/docs)
+
+  Price: [Open Source](https://abstruse.bleenco.io)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bleenco/abstruse.svg)](https://github.com/bleenco/abstruse)
+
+
+- Name: [App Center](https://appcenter.ms/signup?utm_source=GitHub\&utm_medium=Azure)
+
+  Description: CI Platform. It connects with Hockeyapp where you can store installers and send their by email
+
+  Features: Compatible with Android, iOS, Xamarin, React Native, Unity, Cordova, macOS, tvOS
+
+  Supported repositories: GitHub, BitBucket, VSTS
+
+  Documentation: [Documentation](https://docs.microsoft.com/en-us/appcenter/)
+
+  Price: [Free with limitations](https://appcenter.ms/#pricing)
+
+  Stars: 
+
+
+- Name: [Appveyor](https://ci.appveyor.com)
+
+  Description: AppVeyor automates building, testing and deployment of .NET applications.
+
+  Features: Languages: C#, Xamarin, F#, VB.NET, C/C++, Node.js, Ruby, TypeScript, Go, Java, Python, Perl, Erlang
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](http://www.appveyor.com/docs)
+
+  Price: [Free with limitations](http://www.appveyor.com/pricing)
+
+  Stars: 
+
+
+- Name: [Assertible](https://assertible.com/)
+
+  Description: Automated post-deployment testing and web service monitoring
+
+  Features: [Example Integrations (⭐10)](https://github.com/assertible/deployments)
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://assertible.com/docs)
+
+  Price: [Free with limitations](https://assertible.com/plans)
+
+  Stars: 
+
+
+- Name: [AWS CodeBuild](https://aws.amazon.com/codebuild/)
+
+  Description: Fully managed continuous integration service in AWS
+
+  Features: Docker
+
+  Supported repositories: AWS S3, AWS CodeCommit, Github, Bitbucket
+
+  Documentation: [Documentation](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
+
+  Price: [First 100 minutes per month for free, pay-as-you-go later](https://aws.amazon.com/codebuild/pricing)
+
+
+- Name: [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) (formerly Visual Studio Team Services)
+
+  Description: Cloud-based collaboration services for version control, agile planning, continuous delivery, and analytics application for Visual Studio, Eclipse, Xcode.
+
+  Features: 
+
+  Supported repositories: Azure DevOps, GitHub, Custom
+
+  Documentation: [Documentation](https://docs.microsoft.com/en-us/azure/devops/index?view=azure-devops)
+
+  Price: [Free](https://visualstudio.microsoft.com/free-developer-offers/) with [monthly build limits](https://docs.microsoft.com/en-us/azure/devops/organizations/billing/buy-more-build-vs?view=azure-devops)
+
+  Stars: 
+
+
+- Name: [Bamboo](https://www.atlassian.com/software/bamboo)
+
+  Description: Bamboo is a continuous integration and continuous deployment server
+
+  Features: 
+
+  Supported repositories: Bitbucket (for Bitbucket Cloud), Stash (for Bitbucket Server), Git, GitHub (for GitHub and GitHub Enterprise), Mercurial, Subversion, CVS, Perforce, Custom via plugins
+
+  Documentation: [Documentation](https://confluence.atlassian.com/bamboo/getting-started-with-bamboo-289277283.html?_ga=2.160145277.1739207425.1573055585-984459647.1572881977)
+
+  Price: Full Atlassian stack for 10 users: 10$/year ( 100% of payments to charity)
+
+  Stars: 
+
+
+- Name: [Bitrise](http://bitrise.io/)
+
+  Description: Mobile Continuous Integration and Delivery.
+
+  Features: [Source code (⭐757)](https://github.com/bitrise-io/bitrise) is available
+
+  Supported repositories: GitHub, BitBucket, Gitlab, Custom
+
+  Documentation: [Documentation](http://devcenter.bitrise.io/)
+
+  Price: [Free with limitations](https://www.bitrise.io/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bitrise-io/bitrise.svg)](https://github.com/bitrise-io/bitrise)
+
+
+- Name: [Buddy](https://buddy.works)
+
+  Description: Continuous Integration and Deployment
+
+  Features: Languages: .NET/C#, C/C++, Clojure, Elixir, Go, Haskell, Java, Javascript, Node.JS, PHP, Python, React Native, Ruby, Scala
+
+  Supported repositories: GitHub, Bitbucket, Gitlab, Custom
+
+  Documentation: [Documentation](https://buddy.works/docs)
+
+  Price: [Free with limitations](https://buddy.works/pricing)
+
+  Stars: 
+
+
+- Name: [Buildkite](https://buildkite.com/)
+
+  Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
+
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐690)](https://github.com/buildkite/agent)
+
+  Supported repositories: GitHub, Bitbucket, GitLab, Custom
+
+  Documentation: [Documentation](https://buildkite.com/docs/guides/getting-started)
+
+  Price: [14-day Trial](https://buildkite.com/pricing), [Free for Education, Open Source](https://buildkite.com/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
+
+
+- Name: [CDS (⭐4k)](https://github.com/ovh/cds)
+
+  Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+  Features: Languages: everything
+
+  Supported repositories: Github, Bitbucket Server, Gitlab
+
+  Documentation: [Documentation](https://ovh.github.io/cds/)
+
+  Price: [Free Open Source (⭐4k)](https://github.com/ovh/cds)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
+
+
+- Name: [Codacy](https://www.codacy.com/)
+
+  Description: Automated code reviews & code analytics
+
+  Features: Languages: Scala, Java, JavaScript, Python, Ruby, PHP, Apex, JSP, XML, Velocity, VisualForce, C#, JSON, Kotlin, Markdown
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://support.codacy.com/hc/en-us)
+
+  Price: [Free for open-source projects](https://www.codacy.com/pricing)
+
+  Stars: 
+
+
+- Name: [Code Climate](https://www.codeclimate.com/)
+
+  Description: Hosted platform to continuously measure and monitor code quality
+
+  Features: Languages: Ruby, Javascript, PHP
+
+  Supported repositories: GitHub, Custom
+
+  Documentation: [Documentation](http://docs.codeclimate.com/)
+
+  Price: [14-day Trial](https://codeclimate.com/pricing)
+
+  Stars: 
+
+
+- Name: [CodeFresh](https://codefresh.io/)
+
+  Description: Codefresh is a Docker-native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes
+
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Java, etc
+
+  Supported repositories: GitHub, BitBucket, GitLab, Webhooks
+
+  Documentation: [Documentation](https://docs.codefresh.io/)
+
+  Price: [Pricing](https://codefresh.io/pricing/)
+
+  Stars: 
+
+
+- Name: [Codemagic](https://codemagic.io/)
+
+  Description: Dedicated CI/CD for Flutter mobile, web and desktop projects.
+
+  Features: 
+
+  Supported repositories: GitHub, BitBucket, GitLab, Custom
+
+  Documentation: [Documentation](https://docs.codemagic.io/)
+
+  Price: 500 build minutes for free each month [Pricing](https://codemagic.io/pricing/)
+
+  Stars: 
+
+
+- Name: [Codeship](https://www.codeship.io/)
+
+  Description: One more cloud based CI service: running tests and deployment
+
+  Features: Languages: Dart, Elixir, Go, Java and JVM based languages, PHP, Python, Node.JS, Ruby
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://www.codeship.io/documentation) [Free ebook](http://ebooks.codeship.io/efficiency-in-development-workflows-by-codeship/)
+
+  Price: [Free for opensource projects or 100 builds per month](https://www.codeship.io/pricing)
+
+  Stars: 
+
+
+- Name: [Concourse CI](https://concourse-ci.org/)
+
+  Description: Self-hosted CI solution written in Golang
+
+  Features: 
+
+  Supported repositories: GitHub, generic oAuth
+
+  Documentation: [Documentation](https://concourse-ci.org/docs.html)
+
+  Price: Free (Open source)
+
+  Stars: 
+
+
+- Name: [Coveralls](https://coveralls.io)
+
+  Description: Coveralls works with your continuous integration server to give you test coverage history and statistics.
+
+  Features: Languages: Ruby, Javascript, Python, PHP, C, Objective-C, Scala, GO
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://docs.coveralls.io/)
+
+  Price: [Free for opensource projects](https://coveralls.io/pricing)
+
+  Stars: 
+
+
+- Name: [Coverity](http://www.coverity.com)
+
+  Description: Code analysis, test analysis
+
+  Features: Languages: C/C++, Java, C#
+
+  Supported repositories: 
+
+  Documentation: None
+
+  Price: [Free for opensource projects](http://softwareintegrity.coverity.com/free-trial-coverity.html)
+
+  Stars: 
+
+
+- Name: [Ebert](https://ebertapp.io/)
+
+  Description: Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
+
+  Features: Languages: Apex, C, Clojure, CoffeeScript, CSS, Elixir, Go, Haskell, Haxe, JavaScript, Markdown, PHP, Python, Ruby, SCSS, Shell, Swift, Vim script.
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://ebertapp.io/docs)
+
+  Price: [100% free for public repositories on GitHub](https://ebertapp.io/#pricing)
+
+  Stars: 
+
+
+- Name: [Evergreen (⭐367)](https://github.com/evergreen-ci/evergreen)
+
+  Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
+
+  Features: 
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation (⭐367)](https://github.com/evergreen-ci/evergreen/wiki)
+
+  Price: 
+
+  Stars: [![Stars](https://img.shields.io/github/stars/evergreen-ci/evergreen.svg)](https://github.com/evergreen-ci/evergreen)
+
+
+- Name: [GitLab](https://about.gitlab.com/product/continuous-integration/)
+
+  Description: GitLab is a single application for the entire DevOps lifecycle
+
+  Features: Languages: everything that can be installed on Linux. Compatible with Linux, Windows, Android and iOS
+
+  Supported repositories: GitLab, GitHub, Bitbucket
+
+  Documentation: [Documentation](https://docs.gitlab.com/ee/ci/README.html)
+
+  Price: [Open Source](https://about.gitlab.com/install/) plus [Free with limitations](https://about.gitlab.com/pricing/#gitlab-com) hosted version
+
+  Stars: 
+
+
+- Name: [GitGud](https://gitgud.io/)
+
+  Description: Free & Reliable Git hosting site powered by GitLab
+
+  Features: Everything that GitLab does but for free
+
+  Supported repositories: GitLab, Bitbucket, GitHub, Gitea, Clone by URL
+
+  Documentation: [Documentation](https://docs.gitlab.com/ee/ci/README.html)
+
+  Price: [Completely Free](https://gitgud.io/users/sign_in)
+
+  Stars: 
+
+
+- Name: [GitHub Actions](https://github.com/features/actions)
+
+  Description: Automate your workflow from idea to production
+
+  Features: Workflows run in Linux, macOS, Windows, and containers on GitHub-hosted servers
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
+
+  Price: Free for Open Source and free with limits for private repositories
+
+  Stars: 
+
+
+- Name: [Hound CI](https://houndci.com/)
+
+  Description: Hound integrates with your existing workflow by reviewing and commenting on code.
+
+  Features: Languages: Bash, Elixir, Go, HAML, JavaScript, CoffeeScript, TypeScript, Markdown, PHP, Python, Ruby, Sass/SCSS, Swift
+
+  Supported repositories: GitHub
+
+  Documentation: 
+
+  Price: [Public repositories for free](https://houndci.com/)
+
+  Stars: 
+
+
+- Name: [Hydra](https://nixos.org/hydra/)
+
+  Description: Nix-based continuous build system
+
+  Features: 
+
+  Supported repositories: 
+
+  Documentation: [Documentation](https://nixos.org/hydra/manual/)
+
+  Price: Opensource (GNU GPLv3)
+
+  Stars: 
+
+
+- Name: [Jenkins](https://jenkins.io/)
+
+  Description: With thousands of plugins to choose from, Jenkins can help teams to automate any task that would otherwise put a time-consuming strain on your software team.
+
+  Features: Languages: Embedded, PHP, Python, Ruby, Java, Android, C/C++.
+
+  Supported repositories: Any VCS that supports git, mercurial, cvs, subversion
+
+  Documentation: [Documentation](https://jenkins.io/doc/)
+
+  Price: [Open Source (⭐20k)](https://github.com/jenkinsci/jenkins)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins.svg)](https://github.com/jenkinsci/jenkins)
+
+
+- Name: [Peakflow](https://www.peakflow.io/)
+
+  Description: CI builds, error reporting and uptime monitoring
+
+  Features: Languages: Ruby, PHP, Javascript and anything you can set up yourself.
+
+  Supported repositories: Github
+
+  Documentation: [Documentation](https://www.peakflow.io/en/faq)
+
+  Price: [Free for private projects](https://www.peakflow.io/en)
+
+  Stars: 
+
+
+- Name: [Previs (⭐319)](https://github.com/PaulRosset/previs)
+
+  Description: Use Travis configuration to run stuff locally in a clean environment.
+
+  Features: Everything that Travis support or almost
+
+  Supported repositories: Your computer, it's running locally!
+
+  Documentation: [Documentation (⭐319)](https://github.com/PaulRosset/previs)
+
+  Price: It's free! Since you are hosting everything locally on your computer!
+
+  Stars: [![Stars](https://img.shields.io/github/stars/PaulRosset/previs.svg)](https://github.com/PaulRosset/previs)
+
+
+- Name: [Probo.CI](https://probo.ci/)
+
+  Description: Continuous Collaboration -  break down the barriers between software developers and the other stakeholders involved in a software development project
+
+  Features: Underlying engine is OSS, offers several Ubuntu base images, asset pre-upload helps build speed.
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://docs.probo.ci/)
+
+  Price: 2 month free trial then starts at $30. [Pricing](https://probo.ci/pricing/)
+
+  Stars: 
+
+
+- Name: [Saucelabs](https://saucelabs.com/)
+
+  Description: Automated testing in the cloud for CI
+
+  Features: 
+
+  Supported repositories: 
+
+  Documentation: [Documentation](https://docs.saucelabs.com/)
+
+  Price: [14-day Trial](https://saucelabs.com/pricing)
+
+  Stars: 
+
+
+- Name: [Scrutinizer](https://scrutinizer-ci.com/)
+
+  Description: Build quality software, better
+
+  Features: [Sources](https://github.com/scrutinizer-ci) are available
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://scrutinizer-ci.com/docs/)
+
+  Price: [14-day Trial](https://scrutinizer-ci.com/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/scrutinizer-ci/scrutinizer.svg)](https://github.com/scrutinizer-ci/scrutinizer)
+
+
+- Name: [Semaphore](https://semaphoreci.com/)
+
+  Description: Hosted continuous integration and delivery solution for open source and private projects.
+
+  Features: Ruby, Node.js, JavaScript, Go, Clojure, Elixir, Erlang, Java, PHP, Scala, C/C++
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://docs.semaphoreci.com/)
+
+  Price: [Free for Open Source, pay only for what you use, first $20 every month on Semaphore (up to 1,300 service minutes)](https://semaphoreci.com/pricing)
+
+  Stars: 
+
+
+- Name: [Sider](https://sider.review/)
+
+  Description: Increase code review efficiency and deliver products with confidence. Sider helps development teams accomplish more, allowing them to deliver more value to their customers.
+
+  Features: [Supported Analysis Tools](https://sider.review/en/features/tools)
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://help.sider.review/)
+
+  Price: [Free 14-day trial for private repositories, and forever free for open source](https://sider.review/pricing)
+
+  Stars: 
+
+
+- Name: [StyleCI](https://styleci.io/)
+
+  Description: The Web Coding Style Service, used by [Cachet](https://cachethq.io/) and [Laravel](https://laravel.com/).
+
+  Features: Languages: PHP, JavaScript, TypeScript, Flow, CSS, SCSS, Less, Vue.js, Python
+
+  Supported repositories: GitHub, BitBucket, GitLab
+
+  Documentation: [Documentation](https://docs.styleci.io/)
+
+  Price: [Free for opensource projects](https://styleci.io)
+
+  Stars: 
+
+
+- Name: [TeamCity](https://www.jetbrains.com/teamcity/)
+
+  Description: A Java-based build management and continuous integration server from JetBrains.
+
+  Features: Support [wide variety of web browsers and build tools](https://confluence.jetbrains.com/display/TCD10/Supported+Platforms+and+Environments#SupportedPlatformsandEnvironments-BuildRunners)
+
+  Supported repositories: Git, Subversion, Perforce, Team Foundation Server, Mercurial, CVS, SourceGear Vault 6 and 7, Borland StarTeam 6 and up, IBM Rational ClearCase, Base and UCM modes, Microsoft Visual SourceSafe 6 and 2005
+
+  Documentation: [Documentation](https://confluence.jetbrains.com/display/TCD10/TeamCity+Documentation)
+
+  Price: [Free with limitations](https://www.jetbrains.com/teamcity/buy/#license-type=new-license)
+
+  Stars: 
+
+
+- Name: [Wercker](https://app.wercker.com)
+
+  Description: Continuous delivery platform
+
+  Features: 
+
+  Supported repositories: Docker Hub
+
+  Documentation: [Documentation](https://devcenter.wercker.com/)
+
+  Price: 
+
+  Stars: 
+
+  : 
+
+
+- Name: [Zuul](https://zuul-ci.org)
+
+  Description: A Project Gating System
+
+  Features: Self-Hosted, Open Source CI/CD Platform, Gating
+
+  Supported repositories: GitHub, Gerrit, Pagure
+
+  Documentation: [Documentation](https://zuul-ci.org/docs/zuul)
+
+  Price: [Open Source](https://zuul-ci.org)
+
+  Stars: 
+
+
+
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
 *   [ESP (⭐477)](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Third Party APIs
 
 *   [CloudflareDeploy Plugin (⭐1)](https://github.com/challgren/cakephp-cloudflare-deploy) - Useful console commands for deploying CakePHP apps using Cloudflare.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Cryptography
 
 *   [cmac (⭐2)](https://github.com/spider-gazelle/cmac) - Crystal implementation of Cipher-based Message Authentication Code (CMAC)
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Media
 
@@ -300,13 +884,13 @@
 
 *   [AdvanceDLSupport (⭐451)](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 
-## [12. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [15. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Build Tools to set up performance budget
 

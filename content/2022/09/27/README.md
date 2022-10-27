@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,31 +37,46 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archiving related topics, scholarly work, and academic trip reports.
 
-## [6. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Android Launcher
+
+*   [Bliss Launcher](https://f-droid.org/en/packages/foundation.e.blisslauncher/) - The default launcher of the /e/ Android-based OS.
+    It allows users to easily create and browse group of apps and it displays notification badges on app icons.
+
+### Cloud Storage
+
+*   [Proton Drive](https://proton.me/drive) - End-to-end encrypted Swiss vault for your files that protects your data. [Read this article over Climate activist arrest](https://protonmail.com/blog/climate-activist-arrest/).
+
+### Self-Hosted
+
+*   [Mailcow: dockerized (⭐5.6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+
+## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Other Lists / Help
 
 *   [upb-lea/awesome-open-source-power-electronics (⭐25)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   [txtai (⭐2.7k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
 *   [Open Source Games (⭐735)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
 *   [desdic/greyjoy.nvim (⭐11)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
@@ -71,13 +86,13 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### GUI
 
 *   [TDengineGUI (⭐7)](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 

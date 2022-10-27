@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01 - Nov 07, 2021
 
-53 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -268,7 +268,64 @@
 
 *   [TestCafe globals (⭐15)](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
 
-## [20. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [20. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+- : [CA Technologies Mineral UI](https://mineral-ui.netlify.app/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐552)](https://github.com/mineral-ui/mineral-ui)
+
+
+- : [City of Boston Fleet](https://patterns.boston.gov/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐17)](https://github.com/CityOfBoston/digital)
+
+
+- : [Semi Design](https://semi.design/en-US)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐6.3k)](https://github.com/DouyinFE/semi-design)
+
+
+- : [Singapore Government Design System](https://www.designsystem.tech.gov.sg/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐80)](https://github.com/govtechsg/sgds)
+
+
+- : [VMware Clarity Design System](https://clarity.design/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐6.5k)](https://github.com/vmware/clarity)
+
+
+
+## [21. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -278,7 +335,7 @@
 
 *   [AppImage Sandboxing Project (⭐14)](https://github.com/mgord9518/aisap) - Golang library to help sandbox AppImages with bwrap.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Common Section / Angular
 
@@ -288,7 +345,7 @@
 
 *   [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
 
-## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Hybrid
 
@@ -315,13 +372,13 @@
 *   [Microsoft Publishes New Documentation for Blazor, ASP.NET Core](https://visualstudiomagazine.com/articles/2021/11/04/new-aspnet-core-docs.aspx) - November 4, 2021 - Microsoft published new documentation for its .NET 6 web-dev component, ASP.NET Core, including the red-hot Blazor framework.
 *   [Blazor Hybrid Web Apps with .NET MAUI](https://www.codemag.com/article/2111092) - October 29, 2021 - Blazor Hybrid Web Apps with .NET MAUI.
 
-## [23. Awesome](/content/craftcms/awesome/week/README.md)
+## [24. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Organizations Using Craft / Tutorials
 
 *   [Canary Media](https://www.canarymedia.com/)
 
-## [24. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [25. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
@@ -334,53 +391,59 @@
 *   [Dune](https://dune.build) - Composable and opinionated build system for OCaml and Coq (former jbuilder).
 *   [opam](https://opam.ocaml.org) - Flexible and Git-friendly package manager for OCaml and Coq with multiple compiler support.
 
-## [25. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [26. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Daemons / Self-hosted
 
 *   [Ergo (⭐1.8k)](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support).
 *   [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source (⭐158)](https://github.com/robustirc/robustirc/))
 
-## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [27. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [artart222/CodeArt (⭐802)](https://github.com/artart222/CodeArt) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built in `:CodeArtUpdate` command for updating it.
 *   [shaeinst/roshnivim (⭐113)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
-## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [28. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Quantum Computing with Amazon Braket SDK](https://www.manning.com/liveprojectseries/quantum-computing-with-amazon-braket-sdk-ser) - Manning liveProject series that introduces Braket API and guides the learner through implementation of several simple algorithms.
 *   [Quantum Computing with Microsoft QDK](https://www.manning.com/liveprojectseries/quantum-computing-with-five-projects) - Manning liveProject series that guides the learner through implementation of a variety of protocols and algorithms using Microsoft QDK.
 
-## [28. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [29. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Uncategorized
 
 *   [Vignette (⭐399)](https://github.com/vignetteapp/vignette) - The open source VTuber software. \[English]
 
-## [29. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [30. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Social Network
 
 *   [Skyfeed (⭐86)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
-## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [31. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Getting Started
 
 *   [ARHeadsetKit Tutorials (⭐73)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue2-gmap-custom-marker (⭐130)](https://github.com/eregnier/vue2-gmap-custom-marker) - Vue google map custom marker component
 *   [vue-leaflet-custom-marker (⭐3)](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
 
-## [32. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Open Source / Community
+
+*   [îles (⭐821)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+
+## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Books / iOS
 
@@ -409,7 +472,7 @@
 *   [Retro Gaming with Raspberry Pi](https://magpi.raspberrypi.com/books/retro-gaming) - A guide on how to setup your Raspberry Pi to play classic games, and how to make your own games.
 *   [The Official Raspberry Pi Handbook 2021](https://magpi.raspberrypi.com/books/handbook-2021) - A guide to help you get the most of your Raspberry Pi computer, essential information, project ideas, tutorials, and reviews.
 
-## [33. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [35. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Languages
 
@@ -501,44 +564,44 @@
 
 *   [Cyberduck (⭐2k)](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
 
-## [34. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [36. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Libs
 
 *   [makallio85/YamlRoute plugin (⭐6)](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
-## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Game Development
 
 *   [libktx/ktx (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
 *   [korlibs/KorGE (⭐1.5k)](https://github.com/korlibs/KorGE) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 
-## [36. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [38. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms
 
 *   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 
-## [37. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [39. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Middleware
 
 *   [Apache Kyuubi (⭐1.3k)](https://github.com/apache/incubator-kyuubi) <img src="https://img.shields.io/github/last-commit/apache/incubator-kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
 
-## [38. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [40. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / Miscellaneous
 
 *   [Filterms (⭐3)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
 
-## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Presentations / XML
 
 *   [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 
-## [40. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
+## [42. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
 ### Auth / Basic Auth and Session-based (for HTML Endpoints)
 
@@ -548,13 +611,13 @@
 
 *   [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 
-## [41. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [43. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📁 [Red Pixel Themes](https://redpixelthemes.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -586,13 +649,13 @@
 
 *   [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks. It is a free, public service.
 
-## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [45. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity) - A book about how SSI empowers us to receive digitally-signed credentials, store them in private wallets, and securely prove our online identities. (early access, published continuously, final release fall 2021)
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -614,13 +677,13 @@
 
 *   [w4/chartered (⭐117)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
-## [45. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Database
 
 *   [Jexia DataSet](https://jexia.com) - REST API Schema & Schemaless cloud data storage with built-in validators, relations, aggregation functions.
 
-## [46. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [48. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
@@ -640,7 +703,7 @@
 
 *   [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 
-## [47. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [49. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
@@ -667,13 +730,13 @@
 *   [Twitter](https://twitter.com/NodeRED)
 *   [YouTube](https://www.youtube.com/channel/UCQaB8NXBEPod7Ab8PPCLLAA)
 
-## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Advanced
 
 *   [Programming Algorithms in Lisp](https://link.springer.com/book/10.1007/978-1-4842-6428-7) - Updated version of "[Programming Algorithms](https://leanpub.com/progalgs)"; A comprehensive guide to writing efficient programs with data structures and algorithms in Lisp.
 
-## [49. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [51. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -683,19 +746,19 @@
 
 *   [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 
-## [50. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [52. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Declarative Authorisation Middleware (⭐52)](https://github.com/joindeed/prisma-auth)
 
-## [51. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [53. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [Tidepools](http://tidepools.co) is being developed within the [Red Hook Mesh Network](http://oti.newamerica.net/blogposts/2013/case_study_red_hook_initiative_wifi_tidepools-78575), for addressing local, social incentives for mesh use. An Open Source, Collaborative, Mobile Mapping & Social Hub, Reflecting Community Needs & Culture through Custom Apps, Time-based Maps, & Data Feeds.
 
-## [52. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [54. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Algorithms & Data Structures
 
@@ -706,7 +769,7 @@
 *   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐66)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
 *   [CI/CD with Docker and Kubernetes Book (⭐155)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
-## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 16, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,19 +59,32 @@
 *   [mypy-pycharm-plugin (⭐300)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.4k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
-## [3. Colorful](/content/Siddharth11/Colorful/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-restart (⭐79)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐70)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [OpenInWSL (⭐61)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [5. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 
 *   [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, Youtube, Bing, Baidu, Walmart and many other engines. Free plan includes 100 successful API calls per month.
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 
@@ -101,7 +114,7 @@
 
 
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS Extensions / Outline Processor Markup Language
 
@@ -195,31 +208,31 @@
 
 *   [Chris Abraham's Podcast Collection](https://chrisabraham.com/opml/view) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
-## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [9. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Libraries
 
 *   [jshn](https://openwrt.org/docs/guide-developer/jshn) - JSON parsing and generation library in for shell scripts (Ash/Bash)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [QuickTok (⭐24)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
-## [9. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [11. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
 *   [gamja](https://sr.ht/\~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/\~emersion/gamja)) `Web`
 
-## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Office
 
 *   [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 

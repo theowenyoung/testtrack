@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -265,6 +265,16 @@
 ### IDEs / SRAM
 
 *   [Pyboard File Manager (⭐3)](https://github.com/joewez/PyboardFileManager) - Pyboard File Manager: Windows GUI for Pyboard.py compatible devices.
+
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-wasm-pack (⭐118)](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack (⭐4.6k)](https://github.com/rustwasm/wasm-pack), the simple way.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-require (⭐20)](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 
 ---
 

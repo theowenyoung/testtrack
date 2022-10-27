@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,7 +54,21 @@
 
 *   [httpin (⭐119)](https://github.com/ggicci/httpin) - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vite-vue3-typescript-webcomponent (⭐7)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-chunk-split (⭐85)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-redirect (⭐0)](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
+
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Neural-Symbolic AI
 

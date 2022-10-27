@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,7 +54,14 @@
 
 *   [RQRCode (⭐1.7k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### tvOS
+
+*   [*tvOS Apprentice* by Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
+*   [*Developing for Apple TV using tvOS and Swift* by Gary Bennett, Brad Lees, Stefan Kaczmarek](https://www.apress.com/gp/book/9781484217146)
+
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
@@ -94,25 +101,25 @@
 
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### General
 
 *   [Demo](https://blazor-demo.github.io/) - Official basic demo website.
 
-## [11. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [12. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Events
 
 *   [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
-## [12. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [13. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Projects / InfoSec
 
 *   [ESP32Marauder (⭐972)](https://github.com/justcallmekoko/ESP32Marauder) - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 

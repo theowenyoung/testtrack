@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -79,7 +79,13 @@
 
 *   [Vaex (⭐7.4k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
-## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [9. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Command-Line Productivity
+
+*   [bashhub-server (⭐249)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+
+## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Development / Python
 
@@ -94,13 +100,13 @@
 
 *   [NFDomains](https://nf.domains/) - Algorand name service and marketplace for Non-Fungible Domains (NFDs) — unique, readable aliases for wallet addresses.
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Inverse Reinforcement Learning
 
 *   [Inverse Constrained Reinforcement Learning](https://proceedings.mlr.press/v139/malik21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Inverse+Constrained+Reinforcement+Learning+S+Malik\&btnG=)].
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Feature Flags
 

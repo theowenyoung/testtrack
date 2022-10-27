@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2022
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,25 +12,43 @@
 
 *   [Fixinator](https://fixinator.app) :copyright: — Static security code analysis for ColdFusion or CFML code. Designed to work within a CI pipeline or from the developers terminal.
 
-## [2. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Chrome Extensions:
+
+- Website: [GitHunt](https://chrome.google.com/webstore/detail/githunt/khpcnaokfebphakjgdgpinmglconplhp?hl=en)
+
+
+- Website: [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
+
+
+## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Swift / Angular
 
 *   [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
 
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-iterative (⭐257)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Contributors
+
+*   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
+*   [Big Mountain Studio](https://github.com/bigmountainstudio)
+
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [saschpe/log4k (⭐11)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
@@ -41,7 +59,7 @@
 *   [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
 *   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as Wordpress, Drupal or Magento. reSmush.it is the most used image optimization API with more than 7 billions images already treated, and is still Free of charge.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Coding platforms
 
@@ -56,7 +74,7 @@
 
 *   [Resolve (⭐28)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
-## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Media
 
@@ -71,14 +89,14 @@
 *   [Wagtail Secret Sharing (⭐4)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐3)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
 *   [Terser (⭐7.4k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐12k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
 
-## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Cloud Computing
 

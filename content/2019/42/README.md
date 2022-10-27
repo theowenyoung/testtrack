@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21 - Oct 27, 2019
 
-73 awesome lists updated this week.
+76 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -311,7 +311,17 @@
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. WWCpde connects amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
 
-## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [27. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Conferences and Events / North America
+
+*   [National Cyber Summit](https://www.nationalcybersummit.com/) - Annual US security conference and Capture the Flag event, held in Huntsville, Alabama, USA.
+
+### Online Resources / Other Lists Online
+
+*   [AWS Tool Arsenal (⭐7.5k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
+
+## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -326,38 +336,38 @@
 *   [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
 *   [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
 
-## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Anti Forensics (⭐233)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
-## [29. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [30. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Data Structures and Modeling
 
 *   [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices (as of 2018) of structuring your data if your database uses JSON.
 
-## [30. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [31. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Graphics / Image Conversion
 
 *   [pastel (⭐4.3k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
-## [31. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [32. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 *   [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) - By Jenny Lay-Flurrie.
 
-## [32. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [33. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2019
 
 *   [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) \[25:42]
 
-## [33. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [34. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -469,7 +479,7 @@
 *   [libnfc (⭐1.3k)](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 *   [ncurses](https://www.gnu.org/software/ncurses/) - Coloured terminal UI library. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 
-## [34. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [35. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -495,7 +505,7 @@
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 *   [Arm - PerfDoc (⭐111)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
-## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [36. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@ashfurrow](https://github.com/ashfurrow), [Moya (⭐14k)](https://github.com/moya/moya)
     *   "Building Open Source Communities" ([slides](https://speakerdeck.com/ashfurrow/building-open-source-communities))
 *   [@hzoo](https://github.com/hzoo), [Babel (⭐42k)](https://github.com/babel/babel)
@@ -505,7 +515,7 @@
     *   "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
     *   "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_\&v=_iToM2KC0QE), [slides](https://hzoo.github.io/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
@@ -515,7 +525,7 @@
 
 *   [amazon-kinesis-client-nodejs :fire::fire: (⭐279)](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
 
-## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -529,7 +539,7 @@
 
 *   [Admob Flutter (⭐415)](https://github.com/kmcgill88/admob_flutter) - Admob plugin that shows banner ads using native platform views by [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -557,7 +567,7 @@
 *   [Foursquare](https://developer.foursquare.com/) - Location discovery, venue search, and context-aware content from Places API and Pilgrim SDK.
 *   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
 
-## [39. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [40. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -573,7 +583,7 @@
 *   [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 *   [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 
-## [40. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [41. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
@@ -583,7 +593,7 @@
 
 *   [Firecode](https://www.firecode.io/) - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
 
-## [41. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [42. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 
@@ -593,13 +603,13 @@
 
 *   [BGUG (⭐84)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-## [42. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [43. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Databases
 
 *   [SQLite4S (⭐29)](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
 
-## [43. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [44. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -611,33 +621,33 @@
 
 *   [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
 
-## [44. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [45. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### MOOCs
 
 *   [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 
-## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### ORM / Database / Datamapping
 
 *   [Fetchable plugin (⭐0)](https://github.com/riesenia/cakephp-fetchable) - Behavior for fetching entities from cache / memory.
 
-## [46. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [47. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-kis-oidc (⭐8)](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library (⭐2.4k)](https://github.com/IdentityModel/oidc-client-js).
 *   [aurelia-telemetry (⭐1)](https://github.com/manuel-guilbault/aurelia-telemetry)
 
-## [47. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [48. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Books / Other Resources
 
 *   [Learning Malware Analysis](https://www.packtpub.com/networking-and-servers/learning-malware-analysis) - Learning Malware Analysis: Explore the concepts, tools, and techniques to analuze and investigate Windows malware
 *   [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering) - Mastering Reverse Engineering: Re-engineer your ethical hacking skills
 
-## [48. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [49. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -647,7 +657,7 @@
     *   [Lecture Videos](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
     *   [Lecture Notes](https://webpages.uncc.edu/\~jmconrad/EducationalMaterials/index.html)
 
-## [49. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [50. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Introspection
 
@@ -655,13 +665,20 @@
 *   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.3k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
-## [50. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [51. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Server Side Swift
+
+*   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
+*   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
+
+## [52. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [51. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [53. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -705,7 +722,7 @@
 *   [Stéphane Peter](https://github.com/sponsors/megastep) - AudioKit contributor, Makeself and other libraries and projects.
 *   [Tim Oliver](https://github.com/sponsors/TimOliver) - Multitude of iOS libraries and various contribution to the iOS ecosystem.
 
-## [52. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [54. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -715,7 +732,7 @@
 
 *   [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
 
-## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [55. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -729,7 +746,7 @@
 
 *   [IKOS (⭐1.7k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
-## [54. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [56. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### UK / London
 
@@ -743,7 +760,7 @@
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [55. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [57. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Competition / Other
 
@@ -753,7 +770,7 @@
 
 *   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -783,19 +800,19 @@
 
 
 
-## [57. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [59. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [58. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [60. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [59. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [61. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Converters
 
@@ -830,7 +847,7 @@
 
 *   [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 
-## [60. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [62. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -840,14 +857,24 @@
 
 *   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
-## [61. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [63. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [Icofont](https://icofont.com/) - 2100+ free icons to spice up your creative designs.
+
+### Tools
+
+*   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
+
+## [64. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Katalyst](https://katalyst.codurance.com/)
 *   [The Beverages Prices Refactoring Kata (⭐1)](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
 
-## [62. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [65. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -877,7 +904,7 @@
 
 *   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
 
-## [63. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [66. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -887,7 +914,7 @@
 
 *   [Canvas (⭐3k)](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
 
-## [64. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [67. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Data binding
 
@@ -909,7 +936,7 @@
 
 *   [Android Architecture Blueprints (⭐42k)](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
 
-## [65. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [68. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Algorithm
 
@@ -928,7 +955,7 @@
 *   [SwiftCop (⭐542)](https://github.com/andresinaka/SwiftCop) - A validation library which inspired by the clarity of Ruby On Rails Active Record validations.
 *   [SwiftFormat (⭐6.2k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
-## [66. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [69. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -959,7 +986,7 @@
 
 *   [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
 
-## [67. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [70. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Official Resources
 
@@ -987,7 +1014,7 @@
 *   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 *   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
-## [68. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [71. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
@@ -999,7 +1026,7 @@
 
 *   [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) - Ian Stewart
 
-## [69. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [72. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Water
 
@@ -1029,7 +1056,7 @@
 
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 
-## [70. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [73. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Forensics
 
@@ -1045,7 +1072,7 @@
 
 *   [HackThisSite (⭐216)](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
 
-## [71. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [74. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1055,7 +1082,7 @@
 
 *   [crecto (⭐339)](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
 
-## [72. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [75. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1074,7 +1101,7 @@
 
 *   [Action For Semantic Release (⭐328)](https://github.com/cycjimmy/semantic-release-action)
 
-## [73. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [76. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / IDE
 

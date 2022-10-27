@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -137,13 +137,34 @@
 
 *   [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 
-## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [6. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Programming Language Design Patterns
+
+*   Closure
+    *   [design-patterns](https://arturoherrero.com/closure-design-patterns/)
+
+### General Architecture
+
+*   [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
+
+### Front-End Development
+
+*   \[front-End Architecture]
+    *   [mv\*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
+    *   [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
+
+### Security
+
+*   [martinfowler](https://www.martinfowler.com/articles/web-security-basics.html) - Web-security-basics.
+
+## [7. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
 *   [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Exceptions
 
@@ -158,7 +179,7 @@
 *   [Razor (⭐885)](https://github.com/aspnet/Razor) - Parser and code generator for CSHTML files used in view pages for MVC web apps.
 *   [RazorLight (⭐1.3k)](https://github.com/toddams/RazorLight) - Template engine based on Microsoft's Razor parsing engine for .NET Core.
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudWatch
 

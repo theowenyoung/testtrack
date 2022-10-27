@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,6 +36,12 @@
 ### Contents / CLI
 
 *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
 
 ---
 

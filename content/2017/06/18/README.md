@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,13 @@
 *   [Pokémon Pinball (⭐111)](https://github.com/pret/pokepinball)
 *   [Pokémon TCG (⭐180)](https://github.com/pret/poketcg)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Network Reconnaissance Tools
+
+*   [CloudFail (⭐1.7k)](https://github.com/m0rtem/CloudFail) - Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Authentication
 
@@ -38,13 +44,13 @@
 
 *   [Rust Design Patterns (⭐6.3k)](https://github.com/rust-unofficial/patterns)
 
-## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Social, Economic and Political Networks
 
 *   [Linkage](https://linkage.fr/) - Online tool to visualize and model networks with textual edges.
 
-## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Articles
 

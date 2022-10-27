@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24 - May 30, 2021
 
-51 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -449,7 +449,13 @@
 
 *   [ada-actions (⭐18)](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions
 
-## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [21. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / YouTube
+
+*   [ytmdl (⭐2.5k)](https://github.com/deepjyoti30/ytmdl): A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, LastFM, Deezer, Gaana etc.
+
+## [22. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Compression
 
@@ -457,13 +463,13 @@
 *   [Zip](https://crystal-lang.org/api/Compress/Zip.html) - readers and writers of zip format (Crystal stdlib)
 *   [Zlib](https://crystal-lang.org/api/Compress/Zlib.html) - readers and writers of zlib format (Crystal stdlib)
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Third Party APIs
 
 *   [tradehub (⭐3)](https://github.com/anhmv/tradehub-elixir) - An Elixir client library for the Tradehub blockchain.
 
-## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -473,25 +479,25 @@
 
 *   [tanvirtin/vgit.nvim (⭐395)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin for Neovim to enhance your git experience.
 
-## [24. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [25. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Monitoring & Quality Control
 
 *   [MXF Inspect (⭐21)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Payment / Barcode
 
 *   [TPInAppReceipt (⭐503)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
-## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Windows 10 ARM](https://worproject.ml/) - Community maintained Windows 10 on Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [27. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [28. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
@@ -527,7 +533,7 @@
 
 *   [superseriousstats (⭐88)](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
 
-## [28. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [29. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Golem
 
@@ -658,19 +664,19 @@
 
 *   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 
-## [29. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [30. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
 *   [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
 
-## [30. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [31. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
 *   [giscus (⭐3.2k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 
-## [31. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [32. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / Haskell
 
@@ -681,21 +687,21 @@
 
 *   [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
 
-## [32. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [33. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 *   [RASEL (⭐5)](https://github.com/Nakilon/rasel) - Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.
 
-## [33. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [34. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Starters/Boilerplates / Other external resources
 
 *   [rails\_api\_base (⭐280)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
 *   [rails\_hotwire\_base (⭐64)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
-## [34. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [35. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
@@ -705,7 +711,7 @@
 
 *   [Symfony 5 DDD ES CQRS backend (⭐958)](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate) - DDD, CQRS and Event Sourcing app using Symfony and PHP 8.
 
-## [35. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [36. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms
 
@@ -715,7 +721,7 @@
 
 *   [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/) - Real-time preview how the translations will look like in your mobile app or web. No need to wait for the next deployment.
 
-## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [37. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Official Links
 
@@ -734,7 +740,45 @@
 *   [kotlin-graphics/assimp (⭐82)](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 *   [java-opengl-labs/modern-jogl-examples (⭐96)](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 
-## [37. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [fast-crud (⭐371)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+
+### Templates / React
+
+*   [react-vite-admin (⭐136)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-vconsole (⭐40)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+
+### React / Presets
+
+*   [vite-preset-react (⭐38)](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-virtual (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+
+### Rollup Plugins / Community
+
+*   Check the [Awesome Rollup list (⭐2k)](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+
+### Adobe Experience Manager / Community
+
+*   [AEM Vite (⭐17)](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
+
+### Craft CMS / Community
+
+*   [Craft Vite (⭐35)](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+
+### Apps/Websites / Community
+
+*   [vue3-realworld-example-app (⭐592)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+
+## [39. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
@@ -745,7 +789,7 @@
 *   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
 *   [Sshwifty (⭐1.3k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web.
 
-## [38. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Code Generators
 
@@ -764,37 +808,64 @@
 *   [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
 *   [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
 
-## [39. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [41. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Tutorials
 
 *   [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack\_Franklin.
 
-## [40. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [42. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [SketchUp](https://www.sketchup.com/) - Easy to use interactive 3D modeling software for planning and design applications. Supported by a rich asset library for creating neighborhood designs.
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 
 *   [x265](https://bitbucket.org/multicoreware/x265_git/src) - Open h.265 video codec implementation. \[GPL2] [website](https://x265.readthedocs.io/en/master/)
 
-## [42. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Encryption
+
+*   [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
+*   [Picocrypt (⭐886)](https://github.com/HACKERALERT/Picocrypt/) - A very small (hence "Pico"), very simple, yet very secure file encryption tool.
+
+### Desktop
+
+*   [Thunderbird](https://www.thunderbird.net) - A free customizable open source email client.
+
+### Video and Audio
+
+*   [Stremio](https://www.stremio.com/) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
+
+### Audio
+
+*   [dzr (⭐91)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+
+### Payments
+
+*   Bank payments (wire, SEPA, etc)
+
+### FIAT
+
+*   [My Expenses (⭐481)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+
+## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 
-## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [OpenVisionAPI](https://github.com/openvisionapi) - Open source computer vision API based on open source models.
 
-## [44. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [47. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)     *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)*   \[4.6]
 
@@ -802,7 +873,7 @@
 *   [Oathbringer](https://www.goodreads.com/book/show/34002132-oathbringer) \[4.73] :fire:
 *   [Rhythm of War](https://www.goodreads.com/book/show/49021976-rhythm-of-war) \[4.63]
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -824,7 +895,7 @@
 
 *   [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. Free plan includes 10 sources and 100.000 hits per month.
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -836,13 +907,13 @@
 
 *   [vue-layout-system (⭐31)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
-## [47. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [50. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / File Sharing
 
 *   [Mega](https://mega.nz/) - 50 GB of secure free storage (in which 35 GB will expire after 30 days). Files are encrypted client-side. More (non-permanent) space can be claimed from achievements.
 
-## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -900,13 +971,13 @@
 
 
 
-## [49. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [52. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
 *   [editor-info (⭐4)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 
-## [50. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [53. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Dynamic Analysis
 
@@ -932,7 +1003,7 @@
 
 *   [SpectralOps](https://spectralops.io) - *Spectral* - Automated code security, secrets, tokens and sensitive data scanning.
 
-## [51. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [54. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Events
 
@@ -941,6 +1012,12 @@
 ### Companies with "remote DNA"
 
 *   [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
+
+## [55. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Forums and Discussion Boards Search / Telegram
+
+*   [LinkBase](https://link-base.org/)
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14, 2016
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -21,7 +21,13 @@
 
 *   [Parsey (⭐56)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
 
-## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Styleguide and Branding
+
+*   [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+
+## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 

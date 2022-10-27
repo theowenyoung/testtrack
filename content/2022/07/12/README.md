@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2022
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -105,6 +105,14 @@ Installs: 136 | Stars: 22 | Last update: n/a
 ### Projects
 
 *   [Rust Audio (⭐23)](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
+
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-multi-pages (⭐6)](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName.
+*   [vite-plugin-html-template-mpa (⭐3)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
+*   [vite-plugin-vconsole-mpa (⭐3)](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 
 ---
 

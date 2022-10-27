@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02, 2020
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,19 +24,29 @@
 
 *   [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
 
-## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Using WSL / Other WSL Uses
+
+*   [Arduino setup checklist](https://yanivpaz.com/2020-04-13-arduino-wsl1/) - Checklist to connect Arduino board from WSL 1.
+
+### WSL Tools / Terminals
+
+*   [Terminator](https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156) - Feature-rich tabbed terminal. Requires X server.
+
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### OS and Kernels / Other / unknown licence
 
 *   [cubit (⭐69)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
 *   [dynamic-mixins (⭐25)](https://github.com/rpav/dynamic-mixins) - simple, dynamic class combination. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [6. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [7. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Filesystem
 
@@ -56,7 +66,7 @@
 
 *   [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/)
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -165,17 +175,23 @@
 
 *   [Cookiecutter-Django-Vue (⭐546)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Mock / Barcode
 
 *   [Mockingbird (⭐180)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [Mocklets](https://mocklets.com) - a HTTP-based mock API simulator, which helps simulate APIs for faster parallel development and more comprehensive testing, with lifetime free tier.
+
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Carousel
+
+*   [keen-slider (⭐3.6k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
 
 ---
 

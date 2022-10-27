@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,26 +90,163 @@
 *   Translations:
     *   [Chinese (⭐11)](https://github.com/Iamlars/awesome-jquery/tree/chinese) - Chinese translation of Awesome jQuery.
 
-## [4. Awesome Python](/content/vinta/awesome-python/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Koel (⭐14k)](https://github.com/phanan/koel)
+
+  Description: A personal music streaming server that works
+
+  Link: <http://koel.phanan.net>
+
+
+- Name: [Laravel Tricks (⭐970)](https://github.com/CodepadME/laravel-tricks)
+
+  Description: Laravel Tips and Tricks
+
+  Link: <http://laravel-tricks.com>
+
+
+- Name: [Larasites](https://github.com/we-are-next/larasites.com)
+
+  Description: Showcasing the best websites made with Laravel & Lumen
+
+  Link: <https://www.larasites.com>
+
+
+- Name: [Flarum (⭐13k)](https://github.com/flarum/flarum)
+
+  Description: Delightfully simple forum software
+
+  Link: <http://flarum.org>
+
+
+- Name: [AsgardCMS (⭐764)](https://github.com/AsgardCms/Platform)
+
+  Description: A modular multilingual CMS built with Laravel 5
+
+  Link: <http://asgardcms.com>
+
+
+- Name: [KodiCMS (⭐162)](https://github.com/KodiCMS/kodicms-laravel)
+
+  Description: The CMS built on Laravel 5.2
+
+  Link: <http://laravel.kodicms.ru>
+
+
+- Name: [BoostrapCMS (⭐2.5k)](https://github.com/BootstrapCMS/CMS)
+
+  Description: A PHP CMS powered by Laravel 5 and Sentry
+
+  Link: 
+
+
+- Name: [Deployer (⭐884)](https://github.com/REBELinBLUE/deployer)
+
+  Description: A free and open source deployment tool
+
+  Link: <http://phpdeployment.org>
+
+
+- Name: [PHPhub (⭐1.8k)](https://github.com/summerblue/phphub)
+
+  Description: Chinese PHP Community
+
+  Link: <http://phphub.org>
+
+
+- Name: [Techademia (⭐15)](https://github.com/andela-fokosun/Checkpoint4)
+
+  Description: Organize Your Youtube Videos to Learn
+
+  Link: <http://techademia.herokuapp.com>
+
+
+- Name: [Laravel.com (⭐457)](https://github.com/laravel/laravel.com)
+
+  Description: Official Website and Documentation of Laravel
+
+  Link: <https://laravel.com>
+
+
+
+### Rails
+
+- Name: [SprintApp (⭐302)](https://github.com/macfanatic/SprintApp)
+
+  Description: Time tracking and Project Management App
+
+  Link: <http://www.sprintapp.com>
+
+
+
+### Meteor
+
+- Name: [Rocket.Chat (⭐34k)](https://github.com/RocketChat/Rocket.Chat)
+
+  Description: A web chat platform
+
+  Link: <https://rocket.chat>
+
+
+- Name: [ColourCode](https://github.com/tamino-martinius/colourco.de)
+
+  Description: An online colour code app
+
+  Link: <http://www.colourco.de>
+
+
+- Name: [ReactionCommerce (⭐12k)](https://github.com/reactioncommerce/reaction)
+
+  Description: A JavaScript Ecommerce App
+
+  Link: <https://reactioncommerce.com>
+
+
+- Name: [CoderMania (⭐48)](https://github.com/Elfoslav/codermania)
+
+  Description: An E-Learning Platform
+
+  Link: <http://www.codermania.com>
+
+
+- Name: [Telescope (⭐172)](https://github.com/TelescopeJS/Telescope)
+
+  Description: Lauch Sites Easily
+
+  Link: <http://www.telescopeapp.org>
+
+
+- Name: [Loop Pulse (⭐9)](https://github.com/clionelabs/looppulse.web.manage)
+
+  Description: Data Analysis Platform
+
+  Link: <http://www.looppulse.com>
+
+
+
+## [5. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Third-party APIs
 
 *   [facebook-sdk (⭐2.7k)](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK.
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Articles
 
 *   [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
 
-## [6. Tips](/content/git-tips/tips/README.md)
+## [7. Tips](/content/git-tips/tips/README.md)
 ## Instantly browse your working repository in gitweb.
 
 ```sh
 git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 ```
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Network / Other Resources
 

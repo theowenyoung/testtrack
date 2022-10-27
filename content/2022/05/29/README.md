@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29, 2022
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 *   [kotlin-telegram-bot/kotlin-telegram-bot (⭐590)](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) - A wrapper for the Telegram Bot API written in Kotlin.
 
-## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-head (⭐3)](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
+
+## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals and Ephemera / Manuals
 

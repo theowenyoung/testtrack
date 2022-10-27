@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 27 - Jul 03, 2016
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -224,7 +224,19 @@ git blame <file-name>
 
 *   [Brisk Forms (⭐42)](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 
-## [25. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Laraadmin (⭐1.5k)](https://github.com/dwijitsolutions/laraadmin)
+
+  Description: CRM for quickstart Admin based applications
+
+  Link: [http://laraadmin.com](http://laraadmin.com/)
+
+
+
+## [26. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Sysevent provider
 
@@ -274,13 +286,13 @@ git blame <file-name>
 
 *   [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Clojure SDK
 
 *   [Repo :fire::fire::fire: (⭐968)](https://github.com/mcohen01/amazonica)
 
-## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Emulators
 
@@ -291,7 +303,7 @@ git blame <file-name>
 
 *   [DragListView (⭐654)](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.
 
-## [28. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [29. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
@@ -301,19 +313,19 @@ git blame <file-name>
 
 *   [The Psychology of Color in Marketing and Branding](https://medium.com/swlh/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0)
 
-## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Clojure
 
 *   [Interview cake Clojure solutions (⭐117)](https://github.com/DerekCuevas/interview-cake-clj)
 
-## [30. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [31. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
 *   [Bingo Board (⭐32)](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
 
-## [31. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [32. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
@@ -323,7 +335,7 @@ git blame <file-name>
 
 *   [tommy-the-runner/cyclejs-ace-editor ★0 (⭐1)](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace (⭐1k)](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 
-## [32. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -341,57 +353,57 @@ git blame <file-name>
 
 *   [FakeItEasy (⭐1.3k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
 
-## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Museeks (⭐1.3k)](https://github.com/KeitIG/museeks) - Music player.
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
 *   [jscpd (⭐2.8k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 *   [atmo (⭐816)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
-## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
 *   [Plastic (⭐509)](https://github.com/sleimanx2/plastic) - Fluently mapping and searching Elasticsearch
 
-## [36. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Functional Mumbo Jumbo – ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html) – A beginner-friendly introduction to Algebraic Data Types.
 
-## [37. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [38. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 *   [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 
-## [38. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [39. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Graph Databases
 
 *   [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 
-## [40. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [41. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Italiano (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 
-## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
@@ -436,14 +448,14 @@ git blame <file-name>
 *   [MalSploitBase (⭐496)](https://github.com/misterch0c/malSploitBase) - A database
     containing exploits used by malware.
 
-## [42. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [43. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Resources / Articles
 
 *   Roger Clarke: [Open source software and open content as models for eBusiness](http://www.rogerclarke.com/EC/Bled04.html)
 *   Shereef Bishay: [The open enterprise manifesto](http://www.opencompany.org/resources/whitepaper.pdf)
 
-## [43. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [44. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
@@ -455,7 +467,7 @@ git blame <file-name>
 *   [Greasy Fork](https://greasyfork.org/)
 *   [OpenUserJS](https://openuserjs.org/)
 
-## [44. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [45. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -466,7 +478,7 @@ git blame <file-name>
 *   [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 *   [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 
-## [45. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [46. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Languages, Protocols, Browser APIs
 
@@ -476,13 +488,13 @@ git blame <file-name>
 
 *   **[Buttons](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/user-interface-components/buttons.md)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
 
-## [46. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [47. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
 *   [Apache Mynewt](https://mynewt.apache.org/) - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
@@ -492,7 +504,7 @@ git blame <file-name>
 
 *   [SwiftLinkPreview (⭐1.3k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 
-## [48. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [49. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 

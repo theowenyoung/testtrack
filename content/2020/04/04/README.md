@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2020
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,13 @@
 
 *   [orhun/kmon (⭐1.6k)](https://github.com/orhun/kmon) — Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
 
-## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Hash Cracking Tools / Zealandia
+
+*   [GoCrack (⭐1k)](https://github.com/fireeye/gocrack) - Management Web frontend for distributed password cracking sessions using hashcat (or other supported tools) written in Go.
+
+## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Stalled Development
 
@@ -87,13 +93,13 @@
     [Repo (⭐2.9k)](https://github.com/Chalarangelo/mini.css)
     \| #SCSS
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
 *   [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
 
-## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [8. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Database
 
@@ -103,19 +109,25 @@
 
 *   [Open-Show-Apps (⭐100)](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps) - Open, restore or minimize the desired Window's or Chrome's Apps. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=63579\&p=272220#p272220)
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Security
 
 *   [Vault](https://github.com/passlock/Vault) - Safe place for your encryption keys.
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [cfncluster :fire::fire::fire: (⭐714)](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
-## [10. Awesome R](/content/qinwf/awesome-R/README.md)
+## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / WSL Utilities
+
+*   [pinentry-wsl-ps1 (⭐80)](https://github.com/diablodale/pinentry-wsl-ps1) - Store passwords for gpg-agent in Windows Credential Manager ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [12. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Database Management
 

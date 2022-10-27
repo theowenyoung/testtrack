@@ -1,24 +1,30 @@
 # Awesome List Updates on Jul 29, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [Angular (⭐84k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+
+## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Videos / YouTube Channels
 
 *   [Bodhisaddha Forest Monastery](https://www.youtube.com/channel/UCCNZfA9m6Q8DZ7V192QMu1Q) - Life at a forest monastery.
 
-## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Web Applications
 
 *   [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT (⭐42k)](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 
-## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
@@ -46,7 +52,7 @@
 *   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
 *   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
-## [4. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [5. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Clients
 
@@ -136,7 +142,7 @@
 *   [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - The inspiration for HBase.
 *   [Apache Hadoop Goes Realtime at Facebook](https://pdfs.semanticscholar.org/865a/215390cd49af9e4941e03107120e631dcaa0.pdf) - How Facebook deployed HBase to production.
 
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Post-Mortem
 

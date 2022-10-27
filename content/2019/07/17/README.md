@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -136,6 +136,17 @@
 ### Projects / Swift
 
 *   [WavesAffi (⭐1)](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
+
+## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+
+### Threat Intelligence / Telegram
+
+*   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+*   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 
 ---
 

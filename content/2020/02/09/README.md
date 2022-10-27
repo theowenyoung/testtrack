@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,7 +59,27 @@
 
 *   [Snapcast (⭐4.7k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
 
-## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Subtitles and Captions / Web
+
+*   [glut23/webvtt-py (⭐125)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [opencoconut/webvtt-ruby (⭐53)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
+*   [osk/node-webvtt (⭐74)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+
+### HDR10, HLG, Dolby Vision / Slack Groups
+
+*   [Encode HDR with VP9](https://developers.google.com/media/vp9/hdr-encoding)  - Hands on tutorial of using ffmpeg to do hdr encoding
+*   [Frequently Asked Questions on High Dynamic Range and Hybrid Log-Gamma](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_FAQ.pdf)  - FAQ regarding HDR by BBC R\&D
+*   [HLG vs PQ Systems for HDR Television](https://www.displaydaily.com/article/display-daily/hlg-vs-pq-systems-for-hdr-television)  - Article explaining hlg vs pq in depth.
+*   [High Dynamic Range Television and Hybrid Log-Gamma - BBC R\&D](https://www.bbc.co.uk/rd/projects/high-dynamic-range)  - BBC R\&D HDR project page.
+*   [Perceptual Quantiser (PQ) to Hybrid Log-Gamma (HLG) Transcoding](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_PQ_HLG_Transcode_v2.pdf)  - In depth break down on converting from pq to hlg
+*   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
+*   [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As\&feature=share)  - This talk aims to shed light on colorspaces - what they are, how and why they work, why we should care about handling edge cases properly. Starting with hist...
+*   [bbc/qtff-parameter-editor (⭐109)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
+*   [id3as/ffmpeg-libvpx-HDR-static (⭐13)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
+
+## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tutorials
 
@@ -70,7 +90,7 @@
 
 *   [Writing a custom Salt Grain](https://blog.badgerops.net/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Clone / Preferences
 

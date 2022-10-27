@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2021
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -78,19 +78,46 @@
 *   [Blazor Anchor Tag Scroll To](https://nu-codyanhorn-tech.azurewebsites.net/blog/blazor-anchor-tag-scroll-to) - July 9, 2021 - This article goes over an issue with Blazor applications and scrolling to a hash anchor on the current page.
 *   [Thoughts on Microsoft, and Blazor](https://www.mistergoodcat.com/post/thoughts-on-microsoft-and-blazor) - July 2, 2021 - Thoughts on Microsoft, and Blazor, by Peter Kuhn aka Mister Goodcat.
 
-## [9. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Supported Distributions / Pengwin Enterprise
+
+*   [Pengwin Enterprise Homepage](https://www.whitewaterfoundry.com/pengwin-enterprise)
+
+### WSL Tools / X Servers
+
+*   [Xming open-source version](https://sourceforge.net/projects/xming/) - An older X server for Windows. Has not been updated since 2016.
+*   [Xming commercial version](http://www.straightrunning.com/XmingNotes/) - The current version of Xming, that is updated monthly. Donate at least £10 to have access to it. 💰
+
+### WSL Tools / For Managing WSL Installations
+
+*   [Ansible-WSL (⭐53)](https://github.com/Wintus/Ansible-WSL) - Provision WSL using Ansible. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [Raft WSL](https://www.microsoft.com/store/apps/9MSMJQD017X7) - Raft is a Windows Subsystem for Linux (WSL) distribution manager in native C#/XAML. 💰
+
+### Books / Miscellaneous Tools
+
+*   [Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration](https://www.amazon.com/Hayden-Barnes-ebook/dp/B096TRZMW1)
+*   [Windows Subsystem for Linux: Tactics, Mindset and Tips](https://www.amazon.com/Windows-Subsystem-Linux-Tactics-Mindset/dp/1977718094)
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Email Permutator](https://www.polished.app/email-permutator/)
+
+## [11. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
 *   [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Official Guides
 
 *   [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
@@ -104,7 +131,7 @@
 
 *   [BlackHole (⭐9.7k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 

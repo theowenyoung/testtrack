@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2020
 
-13 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -201,13 +201,19 @@
 *   [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs): A VGA signal generator and font renderer for VGA-less microcontrollers. Used by [Monotron (⭐185)](https://github.com/thejpster/monotron) to generate 48 by 36 character display using 3 SPI peripherals and a timer. ![crates.io](https://img.shields.io/crates/v/vga-framebuffer.svg)
 *   [wyhash](https://crates.io/crates/wyhash): A fast, simple and portable hashing algorithm and random number generator. - ![crates.io](https://img.shields.io/crates/v/wyhash.svg)
 
-## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### ROMs / Third Party Hosts
+
+*   [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) Wiki page from gametechwiki.com with more links
+
+## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Utilities
 
 *   [GPaste (⭐614)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -217,20 +223,20 @@
 
 *   [SapphireDb (⭐393)](https://github.com/SapphireDb/SapphireDb) - Server implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
 
-## [5. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
+## [6. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 
 ### Courses
 
 *   [Cakewalk - Build an engaging Alexa Skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk) - Build an enaging Alexa Skill from scratch right up to certification.
 
-## [6. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [7. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Others
 
 *   [FizzBuzzEnterpriseEdition (⭐18k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - Simple FizzBuzz game implemented under the most strict enterprise standards.
 *   [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) - Operating System concept based on random actions and rewards/punishments.
 
-## [7. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [8. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Frameworks
 
@@ -276,7 +282,7 @@
 *   [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
 *   [Coq subreddit](https://www.reddit.com/r/coq/)
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Unofficial
 
@@ -286,14 +292,41 @@
 
 *   [crystal-zsh (⭐28)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Authentication
 
 *   [BlazorBoilerplate (⭐1.6k)](https://github.com/enkodellc/blazorboilerplate) - ![stars](https://img.shields.io/github/stars/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/enkodellc/blazorboilerplate?style=flat-square\&cacheSeconds=86400) Real World Admin Dashboard / Starter kit with IdentityServer4 Material Design. [Demo](https://blazorboilerplate.com).
 *   [BlazorWithIdentity (⭐342)](https://github.com/stavroskasidis/BlazorWithIdentity) - ![stars](https://img.shields.io/github/stars/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorWithIdentity?style=flat-square\&cacheSeconds=86400) A sample project showcasing a Blazor app using EF Core with Identity authentication.
 
-## [10. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [11. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Unifiedtransform (⭐2.5k)](https://github.com/changeweb/Unifiedtransform)
+
+  Description: A School Management Software.
+
+  Link: <https://changeweb.github.io/Unifiedtransform/>
+
+  : 
+
+
+
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Image Editing
+
+*   [react-easy-crop (⭐22)](https://github.com/ricardo-ch/react-easy-crop) - Component to crop/rotate images/videos with easy interactions. Touch friendly.
+
+## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*iOS 12 Programming Fundamentals with Swift* by Matt Neuburg](https://www.amazon.com/iOS-12-Programming-Fundamentals-Swift/dp/1492044555/)
+*   [*iOS 13 Programming Fundamentals with Swift* by Matt Neuburg](https://www.oreilly.com/library/view/ios-13-programming/9781492074526/)
+
+## [14. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Documentation
 
@@ -360,20 +393,20 @@
 
 *   [Corda developer blog](https://lankydan.dev) - A very helpful blog from a Corda developer.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Data Visualization / Runner
 
 *   [Chart.js (⭐59k)](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Courses
 
 *   [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
 *   [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
 
-## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 

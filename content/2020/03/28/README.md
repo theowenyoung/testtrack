@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2020
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,13 +25,23 @@
 *   [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 *   [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 
-## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Embedded and IoT Security (⭐944)](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
+
+  Description: A curated list of awesome resources about embedded and IoT security
+
+
+
+## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Frontend Tools / Terraform
 
 *   [Setup Mint (⭐9)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 
-## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Analytics
 

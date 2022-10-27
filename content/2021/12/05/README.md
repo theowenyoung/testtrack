@@ -1,12 +1,18 @@
 # Awesome List Updates on Dec 05, 2021
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [1. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Shell Script Development
+
+*   [bash-modules (⭐94)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+
+## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Getting Help
 
@@ -16,7 +22,7 @@
 
 *   [Dagon (⭐248)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -30,14 +36,14 @@
 
 *   [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keepassxreboot/keepassxc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [False](http://strlen.com/false-language) - Heavily obfuscated language with a minimal implementation.
 *   [Haifu](http://www.dangermouse.net/esoteric/haifu.html) - Designed with the core values of Eastern philosophy in mind.
 
-## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Utility-based
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -347,6 +347,12 @@ Webpage: <http://www.borealcoffee.ch/>
 ### CMS / Blogs
 
 *   [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
+
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Mind Mapping, Concept Mapping and Idea Generation Tools / Telegram
+
+*   [MindMup](https://www.mindmup.com/)
 
 ---
 

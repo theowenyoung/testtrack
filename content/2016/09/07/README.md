@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -91,13 +91,86 @@
 
 *   [fpgaboy (⭐83)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
-## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [10. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Stock
+
+*   [Illusion](http://illusion.scene360.com/)
+*   [Unsplash](https://unsplash.com/)
+*   [Stokpic](http://stokpic.com/)
+*   [Death to Stock](http://deathtothestockphoto.com/)
+*   [imcreator](http://imcreator.com/)
+*   [Little Visuals](http://littlevisuals.co/)
+
+### Color
+
+*   [Colordot](https://color.hailpixel.com/)
+*   [Color Claim](http://colorclaim.tumblr.com/)
+*   [Color Code](http://www.colourco.de/)
+*   [Nippon Colors](http://nipponcolors.com/)
+
+### Icon and Logo
+
+*   [icon54](https://icon54.com)
+*   [icons8](https://icons8.com/)
+*   [icon dock](http://icondock.com/)
+*   [logofaves](http://logofaves.com/)
+*   [Logo of the day](http://logooftheday.com/)
+
+### Styleguide and Branding
+
+*   [Mozilla](https://www.mozilla.org/en-US/styleguide/)
+*   [Mailchimp](http://ux.mailchimp.com/patterns/)
+*   [Yelp](https://www.yelp.com/styleguide)
+*   [Dropbox](https://www.dropbox.com/branding)
+*   [Spotify](https://developer.spotify.com/design/)
+*   [Ubuntu](http://design.ubuntu.com/)
+*   [Channel4](http://styleguides.channel4.com/E4_StyleGuide.pdf)
+*   [Twitter](https://brand.twitter.com/)
+*   [Nike Pro](http://manualcreative.com/project/nike-pro-services/)
+*   [Medium](https://www.behance.net/gallery/7226653/Medium-Brand-Development)
+*   [Linkedin](https://brand.linkedin.com/)
+*   [Red Cross](http://www.redcross.org/images/MEDIA_CustomProductCatalog/m6440103_BrandPoster.pdf)
+*   [buffer](https://buffer.com/style-guide)
+*   [VSCO](http://vsco.co/id/journal/p/1)
+*   [WhatsApp](https://www.whatsappbrand.com/)
+
+### Tutorial
+
+*   [CreativeLive](https://www.creativelive.com/)
+
+### Book
+
+*   [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=sr_1_2?s=books\&ie=UTF8\&qid=1473096298\&sr=1-2\&keywords=Universal+Methods+of+Design)
+*   [Universal Methods of Design](https://www.amazon.com/Universal-Methods-Design-Innovative-Effective/dp/1592537561/ref=pd_sim_14_3?ie=UTF8\&psc=1\&refRID=2NG71RWR7MKGXE1B8GZ3)
+*   [Don't Make Me Think](https://www.amazon.com/gp/product/0321965515/ref=as_li_qf_sp_asin_il_tl?ie=UTF8\&camp=1789\&creative=9325\&creativeASIN=0321965515\&linkCode=as2\&tag=office03a70-20\&linkId=PF4EASLP4EM62N73)
+*   [About Face: The Essentials of Interaction Design](https://www.amazon.com/gp/product/1118766571/ref=as_li_qf_sp_asin_il_tl?ie=UTF8\&camp=1789\&creative=9325\&creativeASIN=1118766571\&linkCode=as2\&tag=office03a70-20\&linkId=I5TMKUXHZ43SHHPE)
+*   [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830)
+*   [Simple and Usable Web, Mobile, and Interaction Design](https://www.amazon.com/gp/product/0321703545)
+*   [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
+*   [Designing Interfaces](https://www.amazon.com/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702)
+*   [100 Things Every Designer Needs to Know About People](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535)
+*   [The UX Book: Process and Guidelines for Ensuring a Quality User Experience](https://www.amazon.com/UX-Book-Guidelines-Ensuring-Experience/dp/0123852412)
+*   [Thinking with Type](https://www.amazon.com/gp/product/1568989695/)
+*   [The Elements of Graphic Design](https://www.amazon.com/Elements-Graphic-Design-Second/dp/1581157622/)
+
+### Conference and Festival
+
+*   [The AIGA Design Conference](http://designconference.aiga.org/#!/)
+*   [Interaction](http://interaction16.ixda.org/)
+*   [Service Design Days](http://servicedesigndays.com/)
+
+### Podcast
+
+*   [99% INVISIBLE](http://99percentinvisible.org/)
+
+## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [Carloop](https://www.carloop.io/) - Open source development kit that makes it easy to connect your car to the Internet. Lowest cost car hacking tool that is compatible with SocketCAN and can-utils.  No OBD-II to serial cable required.
 
-## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [12. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Ruby Clients
 

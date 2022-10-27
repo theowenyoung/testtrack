@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,6 +54,21 @@
 
 *   [File Scanning Framework (⭐258)](https://github.com/EmersonElectricCo/fsf) -
     Modular, recursive file scanning solution.
+
+## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Resource List (⭐269)](https://github.com/FuzzySecurity/Resource-List)
+
+  Description: Collection of useful GitHub projects loosely categorised
+
+
+- Repository: [Reverse Engineering (⭐1.7k)](https://github.com/onethawt/reverseengineering-reading-list)
+
+  Description: List of Reverse Engineering articles, books, and papers
+
+
 
 ---
 

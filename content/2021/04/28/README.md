@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 28, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -126,6 +126,12 @@
 *   [IntersectionObserver WebApi](https://codyanhorn.tech/blog/blazor/2021/04/24/Blazor-IntersectionObserver-WebApi.html) - April 24, 2021 - This article will go over the IntersectionObserver WebApi and how to use it within the context of a Blazor application. [Source code (⭐2)](https://github.com/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver) ![stars](https://img.shields.io/github/stars/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver?style=flat-square\&cacheSeconds=86400). [Demo](https://proud-coast-03b6fa410.azurestaticapps.net/).
 *   [Introducing KlipTok](https://jeffreyfritz.com/2021/04/introducing-kliptok/) - April 20, 2021 - Introducing KlipTok – Social Media fun for Twitch Clips.
 *   [An Easier Blazor Debounce](https://blog.jeremylikness.com/blog/an-easier-blazor-debounce/) - April 12, 2021 - Tick-free bouncing. [Source code (⭐9)](https://github.com/JeremyLikness/BlazorDebounce) ![stars](https://img.shields.io/github/stars/JeremyLikness/BlazorDebounce?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeremyLikness/BlazorDebounce?style=flat-square\&cacheSeconds=86400).
+
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vivu (⭐55)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
 ---
 

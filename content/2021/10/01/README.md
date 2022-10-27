@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,20 +49,26 @@
 *   [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 *   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vitespa (⭐35)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+
+## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
 *   [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
 *   [InfluxDB](https://www.influxdata.com/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
 *   [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 
-## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Books
 
@@ -124,13 +130,13 @@
 *   [cli-mandelbrot (⭐76)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 *   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
 *   [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -160,13 +166,13 @@
 
 
 
-## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 
-## [14. Magictools](/content/ellisonleao/magictools/README.md)
+## [15. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 

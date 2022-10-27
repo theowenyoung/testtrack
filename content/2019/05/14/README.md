@@ -1,12 +1,38 @@
 # Awesome List Updates on May 14, 2019
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [1. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Functional Swift
+
+*   [*Functional Swift* by Chris Eidhof, Florian Kugler, Wouter Swierstra](https://www.objc.io/books/functional-swift)
+
+### Architecture
+
+*   [*App Architecture* by Chris Eidhof, Matt Gallagher, Florian Kugler](https://www.objc.io/books/app-architecture)
+
+### Data Structures and Algorithms
+
+*   [*Data Structures and Algorithms* by Kelvin Lau, Vincent Ngo](https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift)
+
+### Database
+
+*   [*Core Data* by Florian Kugler, Daniel Eggert](https://www.objc.io/books/core-data/)
+
+### Machine Learning
+
+*   [*Machine Learning by Tutorials* by Matthijs Hollemans, Audrey Tam, Chris LaPollo](https://store.raywenderlich.com/products/machine-learning-by-tutorials)
+
+### Testing
+
+*   [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
+
+## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Drawers
 
@@ -30,31 +56,37 @@
 *   [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
 *   [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Scripting
 
 *   [BESEN (⭐195)](https://github.com/BeRo1985/besen). `[Delphi]` `[FPC]` Complete ECMAScript Fifth Edition Implementation in Object Pascal, which is compilable with Delphi >=7 and Free Pascal >= 2.5.1 (maybe also 2.4.1).
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Books
+
+*   :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mail Transfer Agents
 
 *   [Maildrop](https://gitlab.com/markbeeson/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
 
-## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [6. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Dataset / Web
 
 *   [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
 *   [Buck (⭐8.4k)](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. \[Apache]
 
-## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Monitoring / Firmwares for ESP based Devices
 
@@ -64,7 +96,7 @@
 
 *   [mqtt2mongodb (⭐15)](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
 
-## [7. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
+## [9. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 
 ### Examples
 
@@ -75,7 +107,7 @@
 
 *   [react-fetch-hook (⭐348)](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Development Environment
 
@@ -84,13 +116,13 @@
     *   [Cheat Sheet (⭐37k)](https://github.com/tiimgreen/github-cheat-sheet#readme)
     *   [Pinned Gists (⭐1.5k)](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### SaaS
 
 *   [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 

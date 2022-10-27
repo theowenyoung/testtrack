@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12, 2022
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -98,13 +98,56 @@
 *   [Build an interactive todo list with Blazor in minutes](https://www.youtube.com/watch?v=YhAxMpOtVQU) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 28, 2022 - In this tutorial we'll learn how to create a todo list with Blazor and improve the page using Bootstrap.
 *   [Blazor for ABSOLUTE beginners in 21 Minutes](https://www.youtube.com/watch?v=MhQpGbLxeF0) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 22, 2022 - In this tutorial you will learn the basics of building a website with Blazor and how the default Blazor project template works. If you have any problems feel free to leave a comment and I will try and get back to you. I've also added some notes below that you might find useful.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Media Streaming Platforms
+
+*   **Amazon Prime** - [Bad privacy policy](https://tosdr.org/en/service/2444). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.amazonvideo.livingroom/latest/). Many permissions are required for a streaming app.
+*   **Netflix** - [Bad privacy policy](https://tosdr.org/en/service/185). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.amazonvideo.livingroom/latest/). Many permissions are required for a streaming app.
+*   **Disney Plus** - [Very bad privacy policy](https://tosdr.org/en/service/2745). Apps have [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.amazonvideo.livingroom/latest/). Many permissions are required for a streaming app.
+*   **Plex** - [Dubitous privacy policy](https://tosdr.org/en/service/1567). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.plexapp.android/latest/). Way too many permissions are required for a streaming app.
+*   **Spotify** - [Very bad privacy policy](https://tosdr.org/en/service/225). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/). Way too many permissions are required for a streaming app.
+*   **SoundCloud** - [Dubitous priavcy policy](https://tosdr.org/en/service/276). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.soundcloud.android/latest/). Way too many permissions are required for a streaming app.
+
+### Notes and Tasks
+
+*   [Notesnook](https://notesnook.com/) - Open source zero knowledge private note taking.
+
+### Music Recognition
+
+*   Shazam - It's under [Apple's privacy policy](https://tosdr.org/en/service/158). The android app [has a few Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.shazam.android/latest/).
+*   SoundHound - Has way too many [trackers](https://reports.exodus-privacy.eu.org/en/reports/com.melodis.midomiMusicIdentifier.freemium/latest/) for a music recognition app.
+*   Musicxmatch - The app [has trackers](https://reports.exodus-privacy.eu.org/en/reports/com.musixmatch.android.lyrify/latest/) and requires a dangerous amount of permissions.
+*   [SongRec (⭐764)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+*   [SongID Telegram Bot (⭐36)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
+
+### Video and Audio Conferencing
+
+*   **Zoom** - [Very bad privacy policy](https://tosdr.org/en/service/2198). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/us.zoom.videomeetings/latest/). Many permissions required.
+*   **Skype** - [Very bad privacy policy](https://tosdr.org/en/service/244). Apps have [Google and Microsoft trackers](https://reports.exodus-privacy.eu.org/en/reports/com.skype.insiders/latest/). Way too many permissions required.
+*   **Google Meet** - [Very bad privacy policy](https://tosdr.org/en/service/217). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.google.android.apps.tachyon/latest/) embeded (as it is a Google app). Way too many permissions required.
+*   **Whatsapp** - [Bad privacy policy](https://tosdr.org/en/service/198). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.whatsapp/latest/) and most probably Facebook trackers embeded (as it is a Facebook app). Way too many permissions required.
+*   **Instagram** - [Very bad privacy policy](https://tosdr.org/en/service/219). Apps have [Facebook trackers](https://reports.exodus-privacy.eu.org/en/reports/com.instagram.android/latest/). Way too many permissions required.
+*   **Discord** - [Very bad privacy policy.](https://tosdr.org/en/service/536). Apps have [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.discord/latest/). Many permissions required.
+*   [Jami](https://jami.net/) - P2P audio and video conferences.
+*   [Jitsi Meet](https://meet.jit.si/) - More secure, more flexible, and completely free video conferencing. **No account needed, no installation needed**.
+*   [Mirotalk P2P](https://p2p.mirotalk.com/) - Free WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
+*   [PeerCalls](https://peercalls.com/) - Group peer to peer video calls for everyone written in Go and TypeScript.
+
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [viterjs-template (⭐9)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
+*   [vite-react-universal-template (⭐9)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Mobx + ESlint + Prettier+Husky, and APIs auto importing.
+
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
 *   [nanobench (⭐851)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
 
-## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 

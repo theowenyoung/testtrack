@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,25 +24,31 @@
 
 *   [Cloudflare Workers Starter Kit (⭐34)](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Search Engines
+
+*   [librengine (⭐32)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+
+## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### VPN / Metric & Metric Collection
 
 *   [Headscale (⭐8.5k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
 
-## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-plugin-playerctl (⭐8)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
 *   [SwiftUI Atom Properties (⭐190)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
@@ -52,31 +58,31 @@
 
 *   [saveourtool/diktat (⭐403)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Communications / Pragmatics
 
 *   [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***Philosophical Studies***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257\&hl=en\&as_sdt=0,5)].
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Driver layer
 
 *   [odrive\_ros2\_control (⭐121)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
 
-## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Community / Projects
 
 *   [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-easy-data-table (⭐172)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -91,7 +97,13 @@
 *   [David Ortinau on .NET MAUI](https://herdingcode.com/herding-code-246-david-ortinau-on-net-maui/) - May 27, 2022 - Jon Galloway talks to David Ortinau about [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui). Duration: 41 minutes. [YouTube video](https://www.youtube.com/watch?v=OyqzWAivI7I).
 *   [The Unhandled Exception Podcast: Microsoft Build 2022](https://unhandledexceptionpodcast.com/posts/0037-build/) - May 25, 2022 - Microsoft have just had their annual Build conference - which comes with a whole host of exciting announcements and discussions about hot programming topics in the Microsoft developer space. And each year, I long for a podcast episode to come out straight after Build, overviewing them! Well, this year - this podcast aims to do just that! In this episode, I was joined by both Scott Hunter and Gaurav Seth to chat about various topics. Check out the links below for a guide to what we discussed. Duration: 71 minutes.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Libraries / Community
+
+*   [vavite (⭐191)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Flutter Related and Building IOS Apps without Mac
 

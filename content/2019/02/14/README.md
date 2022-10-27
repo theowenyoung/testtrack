@@ -12,11 +12,17 @@
 
 *   [Haskell Style Guide](https://kowainik.github.io/posts/2019-02-06-style-guide)
 
-## [2. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
-### Projects
+### Firebase
 
-*   [PriceTrack (⭐94)](https://github.com/duyetdev/pricetrack) - API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
+- Name: [PriceTrack (⭐94)](https://github.com/duyetdev/pricetrack)
+
+  Description: API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
+
+  Link: 
+
+
 
 ## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

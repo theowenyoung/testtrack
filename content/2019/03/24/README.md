@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 24, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,6 +69,17 @@
 ### File Hosting/Sharing / Others
 
 *   [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
+
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Plex Requests / Third Party Hosts
+
+*   [Mellow (⭐200)](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
+
+### ROMs / Third Party Hosts
+
+*   [Romulation.net](https://www.romulation.net/) Collection of \~28,000 console game ROMs
+*   [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
 
 ---
 

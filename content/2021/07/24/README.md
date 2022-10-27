@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24, 2021
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,20 @@
 
 *   [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 
-## [2. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vitesse-lite (⭐665)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐1.6k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+
+## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [L0garithmic/FastColabCopy (⭐17)](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -122,7 +129,7 @@
 *   [Transactional Client](https://www.enterpriseintegrationpatterns.com/patterns/messaging/TransactionalClient.html) - How can a client control its transactions with the messaging system?
 *   [Wire Tap](https://www.enterpriseintegrationpatterns.com/patterns/messaging/WireTap.html) - How do you inspect messages that travel on a point-to-point channel?
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -163,7 +170,7 @@
 
 
 
-## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 27, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,24 @@
 
 *   [AgensGraph](http://www.agensgraph.com/) - a new generation multi-model graph database for the modern complex data environment.
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [4. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Stock
+
+*   [butdoesitfloat](http://butdoesitfloat.com/)
+
+### Styleguide and Branding
+
+*   [Snapchat](https://www.snapchat.com/brand-guidelines#general-usage-guidelines)
+*   [Atlassian](https://atlassian.design/)
+
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 
 *   [Vert.x Web Accesslog (⭐23)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
-## [5. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Music
 

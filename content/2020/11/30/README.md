@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -95,31 +95,37 @@
 
 *   [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Browser Extensions
+
+*   [Universal Bypass](https://github.com/Sainan/Universal-Bypass) Universal Bypass automatically skips annoying link shorteners.
+
+## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 
-## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### CAD Specific / KiCad
 
 *   [kicad-exports (⭐72)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Backend / Navigation Demos
 
 *   [react-native-blob-courier ★8 (⭐106)](https://github.com/edeckers/react-native-blob-courier) - Efficiently download and upload blobs on native thread
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [10. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Operating systems / Build system (ROS2)
 
 *   [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to support AUTOSAR in the future.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -128,13 +134,13 @@
 *   [BlazorFluentUI (⭐747)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
 *   [BootstrapBalzor (⭐1.2k)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://argozhang.github.io/)).
 
-## [11. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Dashboards / Custom Cards
 
 *   [Thermostat Card (⭐671)](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - Thermostat control card that looks like a Nest Thermostat.
 
-## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -158,19 +164,19 @@
 *   [Flax - a neural network ecosystem for JAX that is designed for flexibility (⭐3.7k)](https://github.com/google/flax)
 *   [QuickVision (⭐49)](https://github.com/Quick-AI/quickvision)
 
-## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Plotter Art For Sale / Ephemera
 
 *   [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-show-more-text (⭐6)](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 
-## [15. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [16. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Case Studies
 

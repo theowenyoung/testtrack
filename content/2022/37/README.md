@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2022
 
-43 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,7 +80,19 @@
 
 *   [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 
-## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### C#
+
+- Name: [Libation (⭐572)](https://github.com/rmcrackan/Libation)
+
+  Description: Audible Audiobook manager and library.
+
+  Link: [https://github.com/rmcrackan/Libation (⭐572)](https://github.com/rmcrackan/Libation)
+
+
+
+## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Articles
 
@@ -111,7 +123,7 @@
 
 *   [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA)
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -235,31 +247,31 @@
 *   [ElixirLibs](https://elixirlibs.com) - A curated list of Elixir libraries
 *   [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search
 
-## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [13. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Community / Talk
 
 *   [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [Vitectron (⭐12)](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
-## [14. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [15. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Run Elm / Outdated Boilerplates
 
 *   [Elm Watch (⭐86)](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
-## [15. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [16. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Books / Hellonext
 
 *   [Shape Up](https://basecamp.com/shapeup) - By Ryan Singer.
 
-## [16. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Metric & Metric Collection
 
@@ -269,13 +281,13 @@
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
     *   [VictoriaMetrics (⭐7.3k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
-## [17. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [18. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Biomedical Text Sources
 
 *   [CORD-19 (⭐110)](https://github.com/allenai/cord19) - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Register / Diagnostics
 
@@ -316,19 +328,19 @@
 *   [awesome-vim (⭐1.7k)](https://github.com/akrawchyk/awesome-vim#tools) - Short list of Vim plugins and helpful guides.
 *   [vim-plugin-list (⭐24)](https://github.com/altermo/vim-plugin-list) - List of Vim and Neovim plugins.
 
-## [19. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [20. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 
 *   [Regula](https://regula.dev/) - Checks infrastructure as code templates (Terraform, CloudFormation, K8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego.
 
-## [20. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [21. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Charts
 
 *   [ember-highcharts (⭐140)](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
 
-## [21. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [22. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -338,26 +350,26 @@
 
 *   [Zenwalk GNU Linux](http://www.zenwalk.org/) - Is "AppImage ready" and distributes some applications in AppImage format.
 
-## [22. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
+## [23. Awesome Funny Markov](/content/sublimino/awesome-funny-markov/week/README.md)
 
 ### Web and Tech
 
 *   [Phaker News](http://namuol.github.io/phaker-news/) - Another spin on Hacker News.
 *   [Your Swimsuit Jumped Over Its Own Weathercock, You Liar!](https://patchydollgames.itch.io/yourswimsuit) - A dating sim about the futility of dating sims.
 
-## [23. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [24. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
 
-## [24. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Assets
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [25. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [26. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### IDE and editors
 
@@ -375,19 +387,74 @@
 *   [Visual Studio .NET Tips and Tricks](http://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
 *   [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
 
-## [26. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [27. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
 *   [leap (⭐6)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
-## [27. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Specialty Search Engines
+
+*   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+
+### File Search
+
+*   [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly avilable in a Google Drive.
+
+### People Investigations / Telegram
+
+*   [JailBase](https://www.jailbase.com/) - is an information site that allows you to search for arrested persons you might know, and even get notified if someone you know gets arrested.
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
+*   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
+*   [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
+
+### Job Search Resources / Telegram
+
+*   [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
+
+### Domain and IP Research / Telegram
+
+*   [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
+*   [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
+*   [Majestic](https://majestic.com) - Find out who links to your website.
+*   [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
+*   [OpenLinkProfiler](http://www.openlinkprofiler.org/)
+*   [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
+*   [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
+*   [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
+*   [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
+*   [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
+*   [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
+
+### Web History and Website Capture / Telegram
+
+*   [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
+
+### VPN Services / Telegram
+
+*   [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
+
+### Image and Photo Editing / Telegram
+
+*   [Gimp](http://www.gimp.org) - is a free and open-source cross-platform image editor software that can be used as an alternative for Adobe Photoshop.
+*   [TinyPNG](https://tinypng.com) - is a tool that can be used to compress various images formats in to smaller size.
+
+### Privacy and Encryption Tools / Telegram
+
+*   [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
+
+## [29. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
 *   [Fields2Cover (⭐49)](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 
-## [28. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
@@ -436,7 +503,7 @@
 *   [Games With Go](https://www.youtube.com/watch?v=9D4yH7e_ea8\&list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) - A video series teaching programming and game development.
 *   [GopherCoding](https://gophercoding.com/) - Collection of code snippets and tutorials to help tackle every day issues.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -480,7 +547,7 @@
 
 *   [Short{Paste} (⭐14)](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader. `MIT` `Docker`
 
-## [30. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -490,7 +557,7 @@
 
 *   [RAPT](https://rapt-fema.hub.arcgis.com/pages/data) - The Resilience Analysis & Planning Tool (RAPT) gives everyone easy access to important community data and analysis tools related to community resilience. The community resilience indicators in the RAPT were pulled from the Community Resilience Indicator Analysis (CRIA).
 
-## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [33. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
@@ -501,7 +568,7 @@
 *   [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 *   [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - Improved manual visual regression testing with the PerfectPixel chrome plugin.
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -522,13 +589,13 @@
 
 *   [cravend (⭐0)](https://github.com/cravend/theme) - Includes `hostname` decorator (only in active `ssh` sessions) and `git` status decorations.
 
-## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [RationalityFrontline/kevent (⭐9)](https://github.com/RationalityFrontline/kevent) - A powerful in-process event dispatcher based on Kotlin and Coroutines.
 
-## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [36. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Bayesian Induction
 
@@ -551,45 +618,45 @@
 
 *   [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159\&hl=en\&as_sdt=0,5)].
 
-## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [37. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Conversion
 
 *   [postman2jmx (⭐128)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 *   [convert-postman-jmeter (⭐6)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 
-## [36. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [38. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Libraries
 
 *   [morphologica (⭐134)](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
 
-## [37. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [39. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
 *   [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 
-## [38. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [40. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-postgres (⭐3)](https://github.com/seamapi/ava-postgres) - get a fresh Postgres database for every test
 
-## [39. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [41. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Exit Intent Popup
 
 *   [Embedery](https://www.embedery.com) - Popups to engage visitors.
 
-## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Gaming Software / System Related Tools
 
 *   [Porting Kit](http://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [RPCS3](https://rpcs3.net) - The Open-source PlayStation 3 Emulator [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RPCS3/rpcs3)
 
-## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [43. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### .NET Conf - .NET 7 launch! (November 8-10, 2022).
 
@@ -606,7 +673,58 @@
 
 *   [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/) - September 14, 2022 - .NET 7 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Media Streaming Platforms
+
+*   **Amazon Prime** - [Bad privacy policy](https://tosdr.org/en/service/2444). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.amazonvideo.livingroom/latest/). Many permissions are required for a streaming app.
+*   **Netflix** - [Bad privacy policy](https://tosdr.org/en/service/185). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.amazonvideo.livingroom/latest/). Many permissions are required for a streaming app.
+*   **Disney Plus** - [Very bad privacy policy](https://tosdr.org/en/service/2745). Apps have [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.amazon.amazonvideo.livingroom/latest/). Many permissions are required for a streaming app.
+*   **Plex** - [Dubitous privacy policy](https://tosdr.org/en/service/1567). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.plexapp.android/latest/). Way too many permissions are required for a streaming app.
+*   **Spotify** - [Very bad privacy policy](https://tosdr.org/en/service/225). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/). Way too many permissions are required for a streaming app.
+*   **SoundCloud** - [Dubitous priavcy policy](https://tosdr.org/en/service/276). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.soundcloud.android/latest/). Way too many permissions are required for a streaming app.
+
+### Notes and Tasks
+
+*   [Notesnook](https://notesnook.com/) - Open source zero knowledge private note taking.
+
+### Music Recognition
+
+*   Shazam - It's under [Apple's privacy policy](https://tosdr.org/en/service/158). The android app [has a few Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.shazam.android/latest/).
+*   SoundHound - Has way too many [trackers](https://reports.exodus-privacy.eu.org/en/reports/com.melodis.midomiMusicIdentifier.freemium/latest/) for a music recognition app.
+*   Musicxmatch - The app [has trackers](https://reports.exodus-privacy.eu.org/en/reports/com.musixmatch.android.lyrify/latest/) and requires a dangerous amount of permissions.
+*   [SongRec (⭐764)](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+*   [SongID Telegram Bot (⭐36)](https://github.com/smcclennon/SongID) - A Telegram bot that can identify music in audio/video files you send it.
+
+### Video and Audio Conferencing
+
+*   **Zoom** - [Very bad privacy policy](https://tosdr.org/en/service/2198). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/us.zoom.videomeetings/latest/). Many permissions required.
+*   **Skype** - [Very bad privacy policy](https://tosdr.org/en/service/244). Apps have [Google and Microsoft trackers](https://reports.exodus-privacy.eu.org/en/reports/com.skype.insiders/latest/). Way too many permissions required.
+*   **Google Meet** - [Very bad privacy policy](https://tosdr.org/en/service/217). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.google.android.apps.tachyon/latest/) embeded (as it is a Google app). Way too many permissions required.
+*   **Whatsapp** - [Bad privacy policy](https://tosdr.org/en/service/198). Apps have [Google trackers](https://reports.exodus-privacy.eu.org/en/reports/com.whatsapp/latest/) and most probably Facebook trackers embeded (as it is a Facebook app). Way too many permissions required.
+*   **Instagram** - [Very bad privacy policy](https://tosdr.org/en/service/219). Apps have [Facebook trackers](https://reports.exodus-privacy.eu.org/en/reports/com.instagram.android/latest/). Way too many permissions required.
+*   **Discord** - [Very bad privacy policy.](https://tosdr.org/en/service/536). Apps have [various trackers](https://reports.exodus-privacy.eu.org/en/reports/com.discord/latest/). Many permissions required.
+*   [Jami](https://jami.net/) - P2P audio and video conferences.
+*   [Jitsi Meet](https://meet.jit.si/) - More secure, more flexible, and completely free video conferencing. **No account needed, no installation needed**.
+*   [Mirotalk P2P](https://p2p.mirotalk.com/) - Free WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
+*   [PeerCalls](https://peercalls.com/) - Group peer to peer video calls for everyone written in Go and TypeScript.
+
+### Anti-tracking / Alternative clients/modifications of Discord:
+
+*   ~~[Privacy Redirect (⭐1.5k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐1.6k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+
+## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [viterjs-template (⭐9)](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Material UI + Axios + ESLint + Prettier.
+*   [vite-react-universal-template (⭐9)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Mobx + ESlint + Prettier+Husky, and APIs auto importing.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-zip-pack (⭐1)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
+
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
@@ -616,7 +734,7 @@
 
 *   [Boost.Interprocess](https://www.boost.org/doc/libs/1_80_0/doc/html/interprocess.html) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). \[Boost] [website](https://www.boost.org/)
 
-## [43. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [47. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 

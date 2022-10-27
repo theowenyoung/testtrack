@@ -1,12 +1,21 @@
 # Awesome List Updates on May 15, 2022
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Company Research / Telegram
+
+*   [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
+*   [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses.
+*   [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
+*   [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
+
+## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Art
 
@@ -16,14 +25,14 @@
 
 *   [Hatsumi](https://www.hatsumivr.com/) - A design studio developing experiences at the intersection of healthcare and art.
 
-## [2. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [LogSeq](https://opencollective.com/logseq) - Knowledge management
 *   [Memcode](https://www.patreon.com/memcode) - Platform for flashcards
 
-## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [4. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Compound
 
@@ -77,18 +86,30 @@
 *   [MCPINN (⭐2)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
 *   [TransformerCPI (⭐80)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
 *   [unscan](https://unscan.co) - Free API to scan images for NSFW and files for malware. 100 requests per second.
 
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Making operational work more visible](https://github.com/readme/guides/ops-work-visible)
+
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-resolve (⭐3)](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
+*   [vite-plugin-dynamic-import (⭐36)](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
+*   [vite-plugin-commonjs (⭐21)](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+
+### Rust / Community
+
+*   [create-rust-app (⭐947)](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
 ---
 

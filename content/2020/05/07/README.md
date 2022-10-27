@@ -1,18 +1,35 @@
 # Awesome List Updates on May 07, 2020
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Colorful](/content/Siddharth11/Colorful/README.md)
+## [1. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [continuousphp](https://continuousphp.com/)
+
+  Description: Continuous Integration and deployment for projects written in PHP
+
+  Features: Languages: PHP
+
+  Supported repositories: GitHub, BitBucket, GitLab
+
+  Documentation: [Documentation](https://continuousphp.com/documentation/)
+
+  Price: [Free for Open source and educational projects](https://continuousphp.com/plans/)
+
+  Stars: 
+
+
+
+## [2. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 
 *   [Tints and Shades](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 
-## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Guides / Best Practices
 
@@ -26,7 +43,7 @@
 
 *   [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -36,7 +53,7 @@
 
 *   [SQLMap (⭐25k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Debugging
 
@@ -46,13 +63,13 @@
 
 *   [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard -> SwiftUI Converter is a converter to convert .storyboard and .xib to SwiftUI.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Webserver / Barcode
 
 *   [Corvus (⭐42)](https://github.com/apodini/corvus) :penguin: - Web framework to build REST APIs with a declarative syntax.
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Email
 
@@ -62,17 +79,23 @@
 
 *   [crenv (⭐232)](https://github.com/crenv/crenv) - Crystal version manager
 
-## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [RudderStack (⭐3.3k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Twilio Fax (⭐5)](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
+
+## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Conferences and Events / Asia
+
+*   [HITCON](https://hitcon.org/) - Hacks In Taiwan Conference held in Taiwan.
 
 ---
 

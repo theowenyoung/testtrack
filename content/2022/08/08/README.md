@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2022
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -87,26 +87,38 @@
 
 *   [mix.nvim (⭐17)](https://github.com/brendalf/mix.nvim) - Mix wrapper plugin for Neovim.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-mern-template (⭐6)](https://github.com/apicgg/vite-mern-template) - React 18 + TypeScript + Vite + Redux Toolkit + ESLint + React Router DOM + Axios + React Icons + React Toastify + Express + Mongoose.
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Resources / Web programming
 
 *   [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explore/rust) - A curated list of Rust libraries, authors, kits, tutorials & learning resources on kandi
 
-## [7. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Image Search / Telegram
+
+*   [PImEyes](https://pimeyes.com)
+
+## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Python / React
 
 *   [graphql-core (⭐450)](https://github.com/graphql-python/graphql-core) - GraphQL implementation for Python based on GraphQL.js v16.3.0 reference implementation
 
-## [8. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [10. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Tools
 
 *   [k6-junit (⭐6)](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 *   [k6-expect (⭐1)](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 

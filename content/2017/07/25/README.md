@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2017
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,7 +85,17 @@
 
 *   [SharpNetSH (⭐59)](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Vulnerability Research (⭐861)](https://github.com/re-pronin/awesome-vulnerability-research)
+
+  Description: List of resources about Vulnerability Research
+
+
+
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Templating
 
@@ -100,7 +110,7 @@
 
 *   [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
 
-## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Audio and Video
 
@@ -158,13 +168,13 @@
 
 *   [followupthen](https://www.followupthen.com/) - Easiest way to setup email reminders.
 
-## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
@@ -174,37 +184,37 @@
 
 *   [Android Hive Tutorials](https://www.androidhive.info) - Very good tutorials for beginners.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Markdown / Third-party APIs
 
 *   [3bmd (⭐73)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
 *   [Robotusers/Tactician plugin (⭐8)](https://github.com/robotusers/cakephp-tactician) - Tools for Tactician command bus integration.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Castle.Core (⭐1.9k)](https://github.com/castleproject/Core) - Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter <http://www.castleproject.org>.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Templating Engines / Runner
 
 *   [Pug (⭐21k)](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / IDEs
 
 *   [gnome-builder](https://wiki.gnome.org/Apps/Builder) native support for rust and cargo since Version 3.22.2
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Animation
 

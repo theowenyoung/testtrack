@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -303,14 +303,26 @@
 
 *   [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. \[LGPL]
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [Kitematic (⭐12k)](https://github.com/docker/kitematic)
+
+  Description: Visual Docker Container Management on Mac & Windows
+
+  Link: [https://github.com/docker/kitematic (⭐12k)](https://github.com/docker/kitematic)
+
+
+
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [AspNetCore Extension Library (⭐163)](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
 *   [Eighty (⭐36)](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,13 +22,63 @@
 
 *   [SerAPI (⭐108)](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
 
-## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Official Content
+
+*   [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
+
+### Community
+
+*   [Discord](https://discord.gg/8bRuZwK) - Official discord server for Ironsworn
+*   [Reddit](https://www.reddit.com/r/Ironsworn/) - Ironsworn subreddit
+
+### Translations / Ironsworn
+
+*   [French by Thomas Pereira](http://ironsworn.pbta.fr/) - Ironsworn rulebook and references in French
+*   [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
+
+### Tools / Ironsworn
+
+*   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom assets
+*   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
+*   [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
+*   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
+*   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
+*   [Ironsworn for Foundry VTT (⭐43)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+*   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
+*   [Starforged for Foundry VTT (⭐14)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
+*   [TheOracle (⭐27)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
+
+### Resources / Ironsworn
+
+*   [DataForged (⭐123)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐80)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
+
+### Hacks and homebrew / Ironsworn
+
+*   [Bloodsworn](http://www.atlas-rpg.com/bloodsworn/) - A tabletop roleplaying game in which you play the role of a vampire
+*   [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
+*   [Iron in the Blood](https://www.drivethrurpg.com/product/309460/Iron-in-the-Blood) - Supplement in which in which you play vampires struggling through the epochs of time
+*   [Ironcrunch](https://www.patreon.com/SamuelRondon/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
+*   [Ironsworn Flavor Packs](http://www.playeveryrole.com/?p=592) - Japanese, South American and Norse setting card packs
+*   [Ironsworn: Badlands](https://kstetson.itch.io/ironsworn-badlands) - Western setting supplement
+*   [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
+
+### Projects without URLs / Ironsworn
+
+*   From the [Ironsworn Discord](https://discord.gg/8bRuZwK)
+    *   Eldersworn - A Cthulhu Mythos hack
+    *   Witchstorm - Fantasy supplement that brings a framework for a more casual casting of magic
+
+## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
 *   [tmuxake (⭐7)](https://github.com/nkh/tmuxake) A side-pane manager for tmux
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Functional programming
 
@@ -43,13 +93,13 @@
 
 *   [RecordParser (⭐156)](https://github.com/leandromoh/recordparser) - Library to help reading and writing CSV and Flat files with zero heap allocation.
 
-## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [UMA 2.0 : User Managed Access - how to use it with bash](https://blog.please-open.it/uma/)
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -93,7 +143,7 @@
 
 
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown / LaTeX / Diagnostics
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2021
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [ImagePut (⭐41)](https://github.com/iseahound/ImagePut) - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Collaboration Tools / Malware Analysis Books
+
+*   [Reconmap](https://reconmap.org/) - Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [Statvoo Analytics](https://analytics.statvoo.com/) — Forever FREE Customer Analytics for ALL your websites, with Unlimited Events per month
 
-## [3. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [4. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
@@ -30,37 +36,37 @@
 
 *   [coq-dpdgraph (⭐79)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [pearxteam/kpastebin (⭐10)](https://github.com/pearxteam/kpastebin) - Multiplatform Kotlin library to interact with the pastebin.com API
 
-## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
 *   [tfe-state-explorer (⭐17)](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
-## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Articles
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Vue-Admin-Template (⭐6)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
 *   [One Second Diary (⭐89)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
-## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
@@ -107,19 +113,97 @@
 
 *   [Awesome Microsoft Power Platform (⭐42)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
-## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
+*   [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
+
+## [12. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Governance
 
 *   [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vite-tauri-template (⭐188)](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
+*   [vue-vite-h5 (⭐40)](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
+*   [Vitesome (⭐148)](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
+*   [vite-ts-vue3-todo (⭐43)](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
+*   [vitailse (⭐101)](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
+
+### Templates / Vue 2
+
+*   [vite-ts-vue2-todo (⭐43)](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
+
+### Templates / React
+
+*   [Vitamin (⭐260)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+*   [vitejs-template-react-rescript (⭐61)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
+*   [vite-reactts17-chakra-jest-husky (⭐29)](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
+*   [vite-reactts-tailwind-rtk-eslint (⭐22)](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
+*   [vite-react-tailwind-template (⭐18)](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
+*   [vite-react-ts-tailwind-firebase-starter (⭐167)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
+
+### Templates / Svelte
+
+*   [sttv (⭐95)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
+
+### Templates / Elm
+
+*   [vite-elm-template (⭐70)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [unplugin-icons (⭐1.9k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [rollup-plugin-critical (⭐59)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-template (⭐88)](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
+*   [vite-plugin-virtual-html (⭐29)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
+*   [vite-plugin-require-context (⭐123)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
+*   [vite-plugin-commonjs (⭐123)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
+*   [vite-plugin-global-style (⭐94)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-mkcert (⭐200)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+*   [vitawind (⭐95)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
+*   [unplugin-auto-import (⭐1.5k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
+*   [vite-plugin-inspect (⭐634)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+
+### Vue / Integrations
+
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐534)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+
+### Vue / Helpers
+
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐2.3k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐8)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
+
+### Rollup Plugins / Covered by default in Vite
+
+*   [@rollup/plugin-typescript (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
+
+### Apps/Websites / Community
+
+*   [Context Note (⭐567)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
+
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Compiler Design
 
 *   [Introduction to Compilers and Language Design](https://www3.nd.edu/\~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 

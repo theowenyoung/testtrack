@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 02, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,13 @@
 
 *   [W3C WoT](https://www.w3.org/WoT/) - The W3C Working Group for the Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. By providing standardized metadata and other re-usable technological building blocks, W3C WoT enables easy integration across IoT platforms and application domains.
 
-## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [8. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Micro services & Distributed Systems
+
+*   [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
+
+## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 

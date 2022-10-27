@@ -1,18 +1,37 @@
 # Awesome List Updates on Nov 20, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [1. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Learning / Books
+
+*   [Communicating Pictures](https://www.elsevier.com/books/communicating-pictures/bull/978-0-12-405906-1)  - 2014-06-20 (1st Edition). Bull, David.
+*   [Data Broadcasting: Understanding the ATSC Data Broadcast Standard](https://www.amazon.com/dp/0071375902/)  - 2001-04-16 (1st Edition). Chernock, Richard; Crinon, Regis; Mick, John.
+*   [Digital Television: MPEG-1, MPEG-2 and Principles of the DVB System](https://www.amazon.com/dp/0340691905/)  - 1997-07-11. Benoit, Herve.
+*   [Digital Television: Technology and Standards](https://www.amazon.com/dp/0470147830/)  - 2007-09-17. Arnold, John; Frater, Michael; Pickering, Mark.
+*   [Digital Video and HD: Algorithms and Interfaces](https://www.amazon.com/dp/0123919266/)  - 2012-02-07 (2nd Edition). Poynton, Charles.
+*   [High Efficiency Video Coding (HEVC): Algorithms and Architectures (Integrated Circuits and Systems)](https://www.amazon.com/gp/product/3319068946/)  - 2014-09-03. Budagavi, Madhukar; Sze, Vivienne; Sullivan, Gary.
+*   [High Efficiency Video Coding: Coding Tools and Specification (Signals and Communication Technology)](https://www.amazon.com/gp/product/3662442752/)  - 2014-10-08. Wien, Mathias.
+*   [Introduction to Digital Audio Coding and Standards](https://www.amazon.com/dp/1402073577/)  - 2002-12-31. Bosi, Marina; Goldberg, Richard.
+*   [Producing Streaming Video for Multiple Screen Delivery](https://www.amazon.com/gp/product/0976259540/)  - 2013-04-01. Ozer, Jan.
+*   [The MPEG Handbook](https://www.amazon.com/dp/024080578X/)  - 2004-11-15 (2nd Edition). Watkinson, John.
+*   [The MPEG-4 Book](https://www.amazon.com/MPEG-4-Book-Fernando-Pereira/dp/0130616214/)  - 2002-07-20. Ebrahimi, Touradj; Pereira, Fernando.
+*   [Transporting Compressed Digital Video](https://www.amazon.com/dp/140207011X/)  - 2002-03-31. Chen, Xuemin.
+*   [Video Compression Handbook](https://www.amazon.com/dp/0134866215/)  - 2018-07-03 (2nd Edition). Beach, Andy; Owen, Aaron.
+*   [Video Encoding by the Numbers: Eliminate the Guesswork from your Streaming Video](https://www.amazon.com/Video-Encoding-Numbers-Eliminate-Guesswork/dp/0998453005/)  - 2016-12-28. Ozer, Jan.
+
+## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Health / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/OpenTracksApp/OpenTracks) - A sport tracking application that completely respects your privacy.
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 
@@ -28,19 +47,19 @@
 
 
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [x5-gmaps (⭐102)](https://github.com/xon52/x5-gmaps) - lightweight Google Maps plugin for Vue 2.x
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Graviton Editor (⭐932)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
-## [5. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -98,43 +117,43 @@
 *   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
 *   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme)
 
-## [6. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
+## [7. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
 ### Introduction
 
 *   [Fintech and big tech credit: a new database](https://www.bis.org/publ/work887.pdf) - This Working Paper by the Bank of International Settlements, while not as focused on credit risk, maps the conditions for and niches occupied by alternative credit, be it provided by fintechs or big tech companies.
 
-## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
 *   [TR19: Automotive Penetration Testing with Scapy](https://www.youtube.com/watch?v=7D7uNqPWrXw) - Overview on how Scapy can be used for automotive penetration testing at Troopers Conference 2019.
 
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### High Performance
 
 *   [cpp11 (⭐172)](https://github.com/r-lib/cpp11) - cpp11 is a header-only R package that helps R package developers handle R objects with C++ code. It's similar to Rcpp but with different design trade-offs and features.
 
-## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [10. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Realtime applications
 
 *   [Jupylet (⭐173)](https://github.com/nir/jupylet) [:octocat: (⭐173)](https://github.com/nir/jupylet) - Subtractive, additive, FM, and sample-based sound synthesis.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Decentralized Systems
 
 *   [Substrate (⭐581)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
-## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Effect
 
 *   [Clay Containers (⭐411)](https://github.com/mcaubrey/clay_containers) <!--stargazers:mcaubrey/clay_containers--> - Neumorphic widget primitives to serve as the foundation of your own designs by [Michael Charles](https://github.com/mcaubrey).
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Frameworks / Navigation Demos
 

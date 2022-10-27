@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,27 @@
 
 *   [Keimeno (⭐13)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Drag and Drop
+
+*   [react-drag-sizing (⭐12)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+
+### Form Components / Rich Text Editor
+
+*   [react-editor (⭐52)](https://github.com/fritx/react-editor) - Simple richtext editor that can insert images and HTML.
+
+### Framework bindings / integrations / Mouse Events
+
+*   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 
@@ -40,19 +54,19 @@
 
 
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
 *   [Database Tools (⭐2.4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
-## [6. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [7. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Code editors
 
 *   [CodeJar](https://medv.io/codejar/) - CodeJar is a micro code editor for the browser
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Pages / Code Coverage
 
@@ -62,13 +76,13 @@
 
 *   [Publish Docker Images to the Amazon Elastic Container Registry (ECR) (⭐16)](https://github.com/appleboy/docker-ecr-action)
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 
 *   [glsl\_trace (⭐27)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 

@@ -1,12 +1,19 @@
 # Awesome List Updates on Sep 24, 2022
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Image Editing
+
+*   [react-advanced-cropper (⭐122)](https://github.com/advanced-cropper/react-advanced-cropper) - A react cropper library to create the cropper exactly suited for your website design.
+*   [react-mobile-cropper (⭐4)](https://github.com/advanced-cropper/react-mobile-cropper) - A ready-to-use image cropping library highly inspirited by popular Android croppers. Based on `react-advanced-cropper`.
+
+## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -547,20 +554,20 @@
 *   [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) :copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.
 *   [XCode](https://developer.apple.com/xcode) :copyright: — XCode provides a pretty decent UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C).
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Web frameworks / Clack plugins
 
 *   [apispec (⭐26)](https://github.com/cxxxr/apispec) -  A Common Lisp library for handling Web API requests and responses. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   takes an OpenAPI3 yaml specification and allows to validate and parse HTTP request headers, parameters and bodies.
 
-## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Auto Archiver (⭐158)](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
 
-## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Human Concept Representation
 

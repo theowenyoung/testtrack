@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,13 @@
 
 *   [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early access
 
-## [3. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to “impersonate” other non-superuser accounts.
+
+## [4. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / PHP
 
@@ -30,32 +36,32 @@
 
 *   [base16.nix (⭐72)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐86)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [kubecolor (trejo08) (⭐2)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
 *   [kubectl-config-switcher (⭐0)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Built Environment
 
 *   [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdiciplinary common operating platform for civic systems.
 
-## [6. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2020
 
 *   [Auditing radicalization pathways on YouTube](https://dl.acm.org/doi/pdf/10.1145/3351095.3372879) - (FAT\*) *Studies the reachability of radical channels from each others, using random walks on static channel recommendations.*
 
-## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Other tools / Misc
 
 *   [Graphviz](https://graphviz.org/) - Open source graph visualization command line tool and library. From input text to SVG,PDF,interactive web graph browser.
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
@@ -217,7 +223,7 @@
 *   [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 *   [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
 
-## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Tools / CLIs
 
@@ -249,13 +255,13 @@
     *   [mib2c](https://net-snmp.sourceforge.io/docs/man/mib2c.html) - A MIB conversion utility that can translate MIB structures into other forms, such as C-code.
     *   [mib2c-update](https://net-snmp.sourceforge.io/docs/man/mib2c-update.html) - This a script to merge custom code into updated mib2c code.
 
-## [10. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [11. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Videos
 
 *   [Getting started with Ansible](https://youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - YouTube tutorial series by LearnLinuxTV.
 
-## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
@@ -342,7 +348,7 @@
 *   [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) \[FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 *   [Arduino Education](https://www.arduino.cc/education/github-students) \[FREE] - Empower scientists and artists of the future with creative STEM programs.Free Arduino Create Maker plan for 6 months and discounts on selected hardware.
 
-## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Code Quality
 
@@ -369,7 +375,7 @@
 
 *   [eslint-define-config (⭐128)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
-## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [14. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Resource Packs / Building
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,13 @@
 
 *   🎨🧬 [Themeable (⭐30)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
 
-## [5. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-ali-oss (⭐7)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+
+## [6. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
 ### Architecture
 
@@ -40,7 +46,7 @@
 *   [Towards a Practice of Token Engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca) - How do we design tokenized ecosystems, their incentives and how do we analyze or verify them?
 *   [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves) - What bonding curves are and their potential applications.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 

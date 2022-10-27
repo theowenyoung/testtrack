@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -63,19 +63,25 @@
 
 *   [cpp-boilerplate (⭐271)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / VKontakte
+
+*   [Snradar](http://snradar.azurewebsites.net) - Search pictures by time and location they were taken
+
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Debugging
 
 *   [packed-printer (⭐36)](https://github.com/cgrand/packed-printer)
 
-## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 
 *   [Coach - Reinforcement Learning Coach by Intel® AI Lab (⭐2.2k)](https://github.com/NervanaSystems/coach)
 
-## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### API Gateway / Symfony2
 
@@ -83,13 +89,13 @@
 *   [Tyk API Gateway (⭐7.8k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐1.8k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 
-## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
 *   [Quipper](https://www.mathstat.dal.ca/\~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 

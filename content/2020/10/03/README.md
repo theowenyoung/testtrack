@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2020
 
-24 awesome lists updated today.
+28 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,7 +39,23 @@
 
 *   [Sacred (⭐3.9k)](https://github.com/IDSIA/sacred) - Python tool to help  you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
 
-## [3. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [angr](https://angr.io/) - Platform-agnostic binary analysis framework.
+
+### Steganography Tools / Social Engineering Tools
+
+*   [StegOnline](https://stegonline.georgeom.net/) - Web-based, enhanced, and open-source port of StegSolve.
+
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / HD Streaming
+
+*   [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
+
+## [5. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
 ### Emulator/interpreter development
 
@@ -54,7 +70,7 @@
 
 *   [chip8-multiply (⭐2)](https://github.com/jdeeny/chip8-multiply) - Multiplication routines for CHIP-8, written in Octo.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -70,7 +86,7 @@
 
 
 
-## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 
@@ -80,25 +96,41 @@
 
 *   :strawberry: [Itosho/EasyQuery plugin (⭐26)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 
-## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [8. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Utilities
 
 *   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :free: Free Courses / Chrome Extensions
+
+*   [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
+
+## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Boxicons](https://boxicons.com/) - Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
+*   [Eva Icons](https://akveo.github.io/eva-icons) - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+*   [Jam Icons](https://jam-icons.com/) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
+*   [Remix Icon](https://remixicon.com/) - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+*   [Themify Icons](https://themify.me/themify-icons) - Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
+
+## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / WordPress
 
 *   [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 
-## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [12. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Blogs / Eagle
 
 *   [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
 
-## [9. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [13. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Blogs
 
@@ -108,13 +140,13 @@
 
 *   [neuroSummerSchools (⭐191)](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 
-## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
@@ -124,43 +156,43 @@
 
 *   [Nextatic (⭐41)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
 *   [nCine (⭐757)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
 *   [Netswift (⭐23)](https://github.com/MrSkwiggs/Netswift) - A type-safe, high-level networking solution.
 
-## [14. Awesome Python](/content/vinta/awesome-python/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Machine Learning
 
 *   [gym (⭐29k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [vue-stack-cesium (⭐13)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 
-## [16. Awesome Internships](/content/lodthe/awesome-internships/README.md)
+## [20. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
 ### Mock interview platforms
 
 *   [Pramp](https://www.pramp.com) - Practice mock interviews with friends and professionals.
 
-## [17. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [21. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [Rambdax (⭐192)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
-## [18. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Useful Apps / Android
 
@@ -168,7 +200,7 @@
 *   **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 *   **TeamViewer** - Remote into Raspberry Pi while you are on the road!. [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 
-## [19. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [23. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
@@ -176,7 +208,7 @@
 *   [The Tail at Scale Revisited](https://billduncan.org/the-tail-at-scale-revisited/)
 *   [Defining SLOs for services with dependencies](https://cloud.google.com/blog/products/gcp/defining-slos-for-services-with-dependencies-cre-life-lessons)
 
-## [20. Awesome Math](/content/rossant/awesome-math/README.md)
+## [24. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Algebra / Analytic Number Theory
 
@@ -190,13 +222,13 @@
 
 *   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/\~jos/mdft) - Julius O. Smith III (Stanford University)
 
-## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [25. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Other / iOS
 
 *   📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.
 
-## [22. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Math
 
@@ -206,14 +238,14 @@
 
 *   [mime-type-check (⭐5)](https://github.com/RocktimSaikia/mime-type-check) - Get the MIME type of a file by its extension.
 
-## [23. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [27. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Operating systems
 
 *   [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 *   [Tiny OS (⭐1.3k)](https://github.com/tinyos/tinyos-main) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 
-## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Resources
 

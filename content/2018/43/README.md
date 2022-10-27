@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22 - Oct 28, 2018
 
-68 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -746,19 +746,163 @@
 
 *   [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
-## [63. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [63. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Self-hosted VPNs
+
+*   [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
+
+### Torrenting
+
+*   [peerflix Google Search](https://www.google.com/search?q=peerflix+site%3Aherokuapp.com) Searches Heroku-deployed instances of Peerflix for streaming torrents
+
+### Trackers / Private Trackers
+
+*   [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
+*   [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
+*   [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
+*   [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
+*   [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
+*   [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
+*   [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
+*   [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
+*   [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
+*   [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
+*   [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
+*   [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
+*   [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
+*   [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
+*   [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
+*   [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
+*   [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
+
+### Tracker Proxies / Public Trackers
+
+*   [Jackett (⭐8.1k)](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
+
+### Torrent Clients / Public Trackers
+
+*   [peerflix (⭐6k)](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
+
+### Torrent Clients / WebTorrent Clients
+
+*   [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
+*   [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
+*   [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
+*   [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
+*   [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
+
+### Download Managers / Free Indexers
+
+*   [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
+*   [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
+
+### DDL Tools / Free Indexers
+
+*   [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+*   [annie (⭐19k)](https://github.com/iawia002/annie) Fast, simple and clean video downloader
+*   [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
+*   [ripme (⭐3.2k)](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
+*   [rdcli (⭐103)](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
+*   [get\_iplayer (⭐1.7k)](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
+*   [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
+
+### FTP Indexers / Free Indexers
+
+*   [Davos (⭐131)](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
+
+### DDL Search Engines and Crawlers / Free Indexers
+
+*   [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
+
+### DDL Link Sites / Free Indexers
+
+*   [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
+*   [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
+
+### Premium Link Generators / Free Indexers
+
+*   [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
+
+### Premium Link Hosts / Free Indexers
+
+*   [OpenLoad](https://openload.co/)
+
+### Media Centre Applications / Third Party Hosts
+
+*   [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [Kitana (⭐387)](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
+
+### Music / Third Party Hosts
+
+*   [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+*   [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
+*   [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
+*   [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
+
+### Music Streaming / Third Party Hosts
+
+*   [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
+*   [mp3Clan](http://mp3guild.com/) Free music streaming
+*   [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
+*   [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
+*   [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
+*   [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
+*   [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
+*   [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
+
+### Music Downloading / Third Party Hosts
+
+*   [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
+
+### iTunes / Third Party Hosts
+
+*   [forked-daapd](https://ejurgensen.github.io/forked-daapd/) Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+
+### Ebooks / Third Party Hosts
+
+*   [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
+*   [COPS (⭐1.3k)](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
+*   [Calibre-Web (⭐7.7k)](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+### Audiobooks / Third Party Hosts
+
+*   [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
+
+### IRC / Third Party Hosts
+
+*   [ZNC (⭐1.9k)](https://github.com/znc/znc) An advanced IRC bouncer
+
+### IRC Clients / Third Party Hosts
+
+*   [Shout (⭐3.7k)](https://github.com/erming/shout) The self-hosted web IRC client
+*   [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
+*   [TheLounge](https://hub.docker.com/r/linuxserver/thelounge/) TheLounge (a fork of shoutIRC) is a web IRC client that you host on your own server.
+
+### Piracy Blogs and News / Third Party Hosts
+
+*   [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
+
+## [64. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Lorem Ipsum (⭐39)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
-## [64. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [65. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
 *   [Mixin (⭐1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
-## [65. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [66. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -773,7 +917,7 @@
 *   [pgbadger (⭐2.8k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 *   [sqlcheck (⭐2.2k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
-## [66. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [67. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -828,7 +972,7 @@
 
 *   [nano (⭐414)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 
-## [67. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [68. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
@@ -836,7 +980,7 @@
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 *   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
-## [68. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [69. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,7 +57,13 @@
 
 *   [Get Commit Difference Count Between Two Branches (⭐5)](https://github.com/jessicalostinspace/commit-difference-action)
 
-## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [sub-events (⭐30)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
+
+## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Data Collection
 

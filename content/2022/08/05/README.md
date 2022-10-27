@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 05, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,7 +25,13 @@
 
 *   [Shader Park](https://shaderpark.com/) - A JavaScript library for creating interactive procedural 2D and 3D shaders.
 
-## [2. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Carousel
+
+*   [react-awesome-slider (⭐2.6k)](https://github.com/rcaferati/react-awesome-slider) - [demo](https://fullpage.caferati.me/) - Fullpage, 3D animated, 60fps media and content slider/carousel.
+
+## [3. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
@@ -37,7 +43,7 @@
 *   [Scramjet Python (⭐27)](https://github.com/scramjetorg/framework-python) - \[Python] functional reactive stream programming framework written from scratch operating on object, string and buffer streams.
 *   [Scramjet C++ (⭐2)](https://github.com/scramjetorg/framework-cpp) - \[C++] functional reactive stream programming framework written on top of Node.js object streams.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -65,7 +71,7 @@
 
 *   [Coder](https://coder.com/) - Remote development machines on your own infrastructure. ([Source Code (⭐2.5k)](https://github.com/coder/coder)) `AGPL-3.0` `Go`
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -90,7 +96,7 @@
 
 *   [Intent-based Capacity Planning and Autoscaling with Kubernetes](https://www.squadcast.com/blog/intent-based-capacity-planning-and-autoscaling-with-kubernetes)
 
-## [5. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [6. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Content and utilities for content
 
@@ -115,19 +121,19 @@
 *   Invest the time & money to customize an existing add-ons to better fit your needs.
 *   Create a new add-on that does exactly what you need.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / ETL
 
 *   [Hevo](https://hevodata.com/) - Hevo Data is a Fully Automated, No-code Data Pipeline Platform supports 150+ ready-to-use integrations across Databases, SaaS Applications, Cloud Storage, SDKs, and Streaming Services.
 
-## [7. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [8. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Related
 
 *   [EU Alternatives](https://dasprive.be/eu-alternatives/)
 
-## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
@@ -141,19 +147,19 @@
 
 *   [Asymmetrik FHIR API Server (⭐329)](https://github.com/bluehalo/node-fhir-server-core) - A secure REST implementation for the HL7 FHIR Specification.
 
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Platforms
 
 *   [Layer0](https://layer0.co) - All-in-one Jamstack platform focused on large, dynamic websites and best-in-class performance through an integrated CDN, EdgeJS, predictive prefetching, and performance monitoring.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Nipashe](https://nipashe.netlify.app/) -"Nipashe" is a Swahili word that means "Inform me". Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
 
-## [11. Awesome Go](/content/avelino/awesome-go/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 

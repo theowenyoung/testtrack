@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21 - Mar 27, 2016
 
-28 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -197,25 +197,344 @@
 
 *   [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 
-## [14. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Invoice Ninja (⭐6.7k)](https://github.com/invoiceninja/invoiceninja)
+
+  Description: Invoice Generation System
+
+  Link: <https://www.invoiceninja.com>
+
+
+- Name: [Faveo (⭐978)](https://github.com/ladybirdweb/faveo-helpdesk)
+
+  Description: Helpdesk Ticketing System
+
+  Link: <http://www.faveohelpdesk.com>
+
+
+- Name: [Timegrid (⭐875)](https://github.com/timegridio/timegrid)
+
+  Description: Online Reservation Platform
+
+  Link: [https://demo.timegrid.io](https://demo.timegrid.io/)
+
+
+- Name: [Laravel.io (⭐2.2k)](https://github.com/laravelio/laravel.io)
+
+  Description: Laravel Community Portal
+
+  Link: <http://laravel.io>
+
+
+- Name: [Attendize (⭐3.5k)](https://github.com/Attendize/Attendize)
+
+  Description: Ticket selling and event management platform
+
+  Link: <https://www.attendize.com>
+
+
+- Name: [PyroCMS (⭐3.1k)](https://github.com/pyrocms/pyrocms)
+
+  Description: PHP CMS
+
+  Link: <https://www.pyrocms.com>
+
+
+- Name: [WardRobeCMS (⭐16)](https://github.com/wardrobecms/wardrobe)
+
+  Description: A minimal blogging application
+
+  Link: <http://wardrobecms.com>
+
+
+- Name: [MicroweberCMS (⭐2.5k)](https://github.com/microweber/microweber)
+
+  Description: Drag and Drop CMS and online shop
+
+  Link: <https://microweber.com>
+
+
+- Name: [TypiCMS (⭐1.1k)](https://github.com/TypiCMS/Base)
+
+  Description: Multilingual and modular CMS built with Laravel 5.2
+
+  Link: 
+
+
+- Name: [FullyCMS (⭐479)](https://github.com/sseffa/fullycms)
+
+  Description: Multi Language Content Management System
+
+  Link: 
+
+
+- Name: [LaraShop (⭐73)](https://github.com/ZENLIX/LaraShop)
+
+  Description: A Simple PHP Shop CMS
+
+  Link: <http://it-toys.com>
+
+
+- Name: [92five (⭐1.1k)](https://github.com/chintanbanugaria/92five)
+
+  Description: Self-hosted Project Management App
+
+  Link: <http://92fiveapp.com>
+
+
+- Name: [Paperwork (⭐7.9k)](https://github.com/twostairs/paperwork)
+
+  Description: OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+
+  Link: <http://paperwork.rocks>
+
+
+- Name: [Podcastwala (⭐142)](https://github.com/modestkdr/Podcastwala)
+
+  Description: Podcast System
+
+  Link: 
+
+
+- Name: [Laravel Snippets (⭐329)](https://github.com/basco-johnkevin/laravelsnippets)
+
+  Description: A repository of useful code snippets for Laravel PHP framework
+
+  Link: 
+
+
+- Name: [Freelancer Notes (⭐51)](https://github.com/porimol/freelancer-notes)
+
+  Description: Freelancer Notes
+
+  Link: 
+
+
+- Name: [Critter (⭐59)](https://github.com/msurguy/critterapp)
+
+  Description: Mini-twitter-like app
+
+  Link: <http://demos.maxoffsky.com/critter>
+
+
+- Name: [Cachet (⭐13k)](https://github.com/CachetHQ/Cachet)
+
+  Description: Open Source Status Page System
+
+  Link: [https://cachethq.io (⭐13k)](https://github.com/CachetHQ/Cachet)
+
+
+- Name: [Scrumwala (⭐254)](https://github.com/modestkdr/Scrumwala)
+
+  Description: Your very own Scrum/Agile web app for personal use
+
+  Link: 
+
+
+- Name: [SnipeIT (⭐6.9k)](https://github.com/snipe/snipe-it)
+
+  Description: IT Asset/license Management System
+
+  Link: <http://snipeitapp.com>
+
+
+- Name: [Neontsunami (⭐2)](https://github.com/dwightwatson/neontsunami)
+
+  Description: Personal Website and blog
+
+  Link: <http://www.neontsunami.com>
+
+
+- Name: [Nahid.co (⭐22)](https://github.com/nahid/nahid.co)
+
+  Description: Personal Portfolio and blog project
+
+  Link: <http://nahid.co>
+
+
+- Name: [Laramap](https://github.com/laramap/laramap.com)
+
+  Description: A Map of Laravel Developers
+
+  Link: <https://laramap.com>
+
+
+- Name: [Learn Party (⭐10)](https://github.com/andela-jkariuki/checkpoint-four-learn-party)
+
+  Description: A Dead Simple Learning Management System
+
+  Link: <https://learn-party.herokuapp.com>
+
+
+- Name: [BookStack (⭐10k)](https://github.com/ssddanbrown/BookStack)
+
+  Description: A platform to create documentation/wiki content
+
+  Link: <https://www.bookstackapp.com>
+
+
+- Name: [Gruik (⭐331)](https://github.com/grena/gruik)
+
+  Description: An open-source markdown note-taking web app
+
+  Link: <http://gruik.io>
+
+
+
+### Rails
+
+- Name: [Helpy](http://helpy.io)
+
+  Description: Mobile First Helpdesk Application
+
+  Link: <http://helpy.io>
+
+
+- Name: [Coderwall (⭐863)](https://github.com/coderwall/coderwall-legacy)
+
+  Description: Professional network for Software
+
+  Link: [engineers (⭐863)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
+
+
+- Name: [Sharetribe (⭐2.2k)](https://github.com/sharetribe/sharetribe)
+
+  Description: A Marketplace Platform
+
+  Link: <https://www.sharetribe.com>
+
+
+- Name: [Spina (⭐12)](https://github.com/denkGroot/Spina)
+
+  Description: A beautiful CMS for Rails Developers
+
+  Link: <http://www.spinacms.com>
+
+
+- Name: [Loomio (⭐2.1k)](https://github.com/loomio/loomio)
+
+  Description: Make decisions together
+
+  Link: <https://www.loomio.org>
+
+
+- Name: [Rails port of OpenstreetMap (⭐1.6k)](https://github.com/openstreetmap/openstreetmap-website)
+
+  Description: Open Street Map
+
+  Link: <http://www.openstreetmap.org>
+
+
+- Name: [Help](https://github.com/netguru/help)
+
+  Description: Small help request system
+
+  Link: 
+
+
+- Name: [OpenSourceBilling](http://www.opensourcerails.com/open-source-billing)
+
+  Description: Beautiful Simple Billing Software
+
+  Link: <http://opensourcebilling.org>
+
+
+- Name: [Hours (⭐1k)](https://github.com/DefactoSoftware/Hours)
+
+  Description: Time registration that doesn't suck
+
+  Link: <https://happyhours.io>
+
+
+- Name: [OpenProject (⭐6.1k)](https://github.com/opf/openproject)
+
+  Description: Project Management System
+
+  Link: <https://www.openproject.org>
+
+
+- Name: [Huginn (⭐37k)](https://github.com/cantino/huginn)
+
+  Description: Agent system that perform tasks online for you
+
+  Link: 
+
+
+- Name: [Discourse (⭐37k)](https://github.com/discourse/discourse)
+
+  Description: A Platform for Community Discussion
+
+  Link: <http://www.discourse.org>
+
+
+- Name: [Squash (⭐961)](https://github.com/SquareSquash/web)
+
+  Description: Collection of tools that helps developers find and kill bugs
+
+  Link: <http://squash.io>
+
+
+- Name: [Eventx (⭐19)](https://github.com/andela/eventx)
+
+  Description: Event Management System without Hassle
+
+  Link: <http://www.eventtx.com>
+
+
+- Name: [Fulcrum (⭐1.5k)](https://github.com/fulcrum-agile/fulcrum)
+
+  Description: Agile Project Management Tool
+
+  Link: <http://wholemeal.co.nz/projects/fulcrum.html>
+
+
+- Name: [RedMine (⭐2.5k)](https://github.com/edavis10/redmine)
+
+  Description: Project Management Application
+
+  Link: <http://www.redmine.org>
+
+
+- Name: [Diaspora (⭐13k)](https://github.com/diaspora/diaspora)
+
+  Description: Distributed Social Network
+
+  Link: <https://diasporafoundation.org>
+
+
+
+### Django
+
+- Name: [Shoop (⭐1.9k)](https://github.com/shoopio/shoop)
+
+  Description: E-commerce Platform
+
+  Link: <https://shoop.io>
+
+
+
+## [15. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [yaraprocessor (⭐94)](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
-## [15. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [d3.chart.sankey (⭐105)](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 
-## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 
 *   [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_34)
 
-## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [18. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
@@ -234,43 +553,43 @@
 
 *   [is-generator (⭐15)](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
-## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Before Dawn (⭐160)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
-## [19. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [20. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [reagent-forms (⭐337)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
-## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [21. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Remote Management / Metric & Metric Collection
 
 *   [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 
-## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Infrastructure
 
 *   [php-pm (⭐6.4k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
-## [22. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [23. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
 *   [mongodb-tools (⭐290)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Permissions / Barcode
 
 *   [Permission (⭐2.9k)](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 
-## [24. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [25. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Contracts
 
@@ -280,7 +599,7 @@
 
 *   [No Starch Press](https://www.nostarch.com/writeforus.htm)
 
-## [25. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [26. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
@@ -298,19 +617,19 @@
 *   [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
 *   [GitHub Issues (⭐47k)](https://github.com/ReactiveX/RxJava/issues)
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
 *   [DGraph (⭐19k)](https://github.com/dgraph-io/dgraph) - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
 
-## [27. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [28. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Wavesurfer.js (⭐6.5k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 

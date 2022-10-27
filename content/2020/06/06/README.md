@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2020
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,13 @@
 *   [Podcast.\_\_init\_\_](https://podcastinit.com/)
 *   [Running in Production](https://runninginproduction.com/)
 
-## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### 🇷🇺 Russian books
+
+*   [*Язык Swift. Самоучитель* - Айк Харазян](https://www.ozon.ru/context/detail/id/33701486/)
+
+## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -42,13 +48,26 @@
 *   [Externals](https://externals.io/) - PHP internal discussions.
 *   [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) - Watch the latest PHP [RFCs](https://wiki.php.net/rfc).
 
-## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
-### Apps
+### WSL Tools / Miscellaneous Tools
 
-*   [Feednext (⭐236)](https://github.com/feednext/feednext) - An open source social media application.
+*   [wsl2-ssh-pageant (⭐312)](https://github.com/BlackReloaded/wsl2-ssh-pageant) - A bridge between Windows Pageant and WSL2.
+*   [WinCryptSSHAgent (⭐405)](https://github.com/buptczq/WinCryptSSHAgent) - Using a Yubikey for SSH Authentication on Windows Seamlessly.  Supports WSL and WSL2.
 
-## [4. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [Feednext (⭐236)](https://github.com/feednext/feednext)
+
+  Description: A central source of object reviewing
+
+  Link: <https://feednext.io>
+
+
+
+## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Official resources
 
@@ -59,31 +78,31 @@
 *   [Jenkins Salt API Plugin](https://plugins.jenkins.io/saltstack/) - This plugin sends a SaltStack API message as a build step.
 *   [Rundeck (⭐7)](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Method-specific
 
 *   *[The Book of Trees. Visualizing Branches of Knowledge](https://papress.com/products/the-book-of-trees-visualizing-branches-of-knowledge)*, by Manuel Lima - Hundreds of beautiful tree diagrams, from all periods of history (2014).
 
-## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Yew-WebRTC-Chat (⭐105)](https://github.com/codec-abc/Yew-WebRTC-Chat) - A simple WebRTC chat made with Yew.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vuesence-cloud-sync-button (⭐8)](https://github.com/altrusl/vuesence-cloud-sync-button) - Animated button which also serves as a cloud synchronization progress bar
 
-## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
 *   [jamhub (⭐29)](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 

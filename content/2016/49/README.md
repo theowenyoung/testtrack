@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05 - Dec 11, 2016
 
-38 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -162,13 +162,25 @@
 
 *   [js-schema (⭐392)](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [18. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Laravel GitScrum (⭐2.8k)](https://github.com/renatomarinho/laravel-gitscrum)
+
+  Description: GitScrum is a project to help developer team.
+
+  Link: 
+
+
+
+## [19. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Other / Other Resources
 
 *   [Forensics (⭐2.2k)](https://github.com/Cugu/awesome-forensics)
 
-## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -179,13 +191,13 @@
 *   [Atypical Combinations and Scientific Impact](http://science.sciencemag.org/content/342/6157/468) (*Science*, 2013).
 *   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (*Scientometrics*, 2013).
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Build Systems
 
 *   [Conan](https://conan.io/) - C/C++ Package Manager, open sourced. \[MIT]
 
-## [21. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [22. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -200,25 +212,25 @@
     *   This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.
     *   [Lectures Notes/Assignments](http://web.mit.edu/6.005/www/fa16/)
 
-## [22. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [23. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Articles
 
 *   ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vuex For The Clueless — The Missing Primer On Vue’s Application Data Store](https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af#.2j25xpfui)
 
-## [24. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [25. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Testing
 
 *   [phalcon-docker-nginx (⭐25)](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
 
-## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -237,7 +249,7 @@
 
 *   [dress (⭐61)](https://github.com/veelenga/dress) - Cli app that makes your stdout fancy.
 
-## [26. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [27. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
@@ -250,7 +262,7 @@
 *   [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - A bioart studio-lab at SUNY Buffalo.
 *   [MIT Media Lab](http://www.media.mit.edu/) - An interdisciplinary art, science and technology research center that is part of the Massachusetts Institute of Technology.
 
-## [27. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [28. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Polyglot
 
@@ -296,13 +308,13 @@
 *   [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Understanding software ecosystems: a strategic modeling approach.
 *   [Your Server as a Function](http://monkey.org/\~marius/funsrv.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Describes three abstractions which combine to present a powerful programming model for building safe, modular, and efficient server software: Composable futures, services and filters.
 
-## [28. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [29. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Community
 
 *   [Telegram](https://telegram.me/symfony_php) - Symfony group on Telegram.
 
-## [29. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [30. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing
 
@@ -329,38 +341,38 @@
     Linear Algebra, Visualization and Scientific Computing for Ruby.
 *   [iRuby (⭐728)](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
 
-## [30. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [31. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Examples
 
 *   [OKR Goals Examples](https://www.atiim.com/okr-goals-examples/): A comprehensive list of OKR goal examples for all kind of teams and levels.
 
-## [31. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [32. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Documentation
 
 *   [An introduction to distributed systems (⭐8.2k)](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (author of Jepsen).
 
-## [32. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [WebGL Lessons — ThreeJS Shaders (⭐353)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
 *   [ThreeJS post-proces example (⭐25)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
-## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Science and Data analysis
 
 *   [predict.cr (⭐17)](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
 
-## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [35. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -373,19 +385,19 @@
     *   [How to export HTML to PDF in ASP.NET Core](https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce)
     *   [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 
-## [36. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [37. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
 *   [CARTO (⭐2.6k)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 
-## [37. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [38. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Programming / JavaScript
 
 *   [Vue.js Jobs](https://vuejobs.com/)
 
-## [38. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
@@ -426,6 +438,16 @@
 ### Appendix of Core Services / Developer Tools
 
 *   [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
+
+## [40. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [Linux Kernel Exploitation (⭐4.4k)](https://github.com/xairy/linux-kernel-exploitation)
+
+  Description: A bunch of links related to Linux kernel fuzzing and exploitation
+
+
 
 ---
 

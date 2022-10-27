@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,19 +66,25 @@
 
 
 
-## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Network
+
+*   [*Guide to Swift Codable* by Flight School (Matt)](https://flight.school/books/codable/)
+
+## [8. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - Federal Gazette, Administrative Case Law of the Federal Authorities and more documents from the Swiss Federal Archives.
 
-## [8. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Testing
 
 *   [pytest-mypy-testing (⭐20)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 
-## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Frameworks / Angular
 
@@ -92,7 +98,7 @@
 
 *   [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp\_dev](https://twitter.com/webcomp_dev)
 
-## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [11. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Libraries
 
@@ -106,7 +112,7 @@
 
 *   [Qwiic\_TOF\_Module\_RFD77402 (⭐1)](https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402) - Qwiic TOF Module (RFD77402) time-of-flight rangefinding module.
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Code Analysis and Metrics
 
@@ -120,7 +126,7 @@
 
 *   [stripe.cr (⭐41)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
@@ -130,13 +136,13 @@
 
 *   [vscode-deno (⭐1.3k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [implot (⭐2.7k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
-## [14. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [15. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Books
 

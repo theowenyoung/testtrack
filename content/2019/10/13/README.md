@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2019
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,13 @@
 
 *   [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. \[LGPL v3 and zlib]
 
-## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Date / Time picker
+
+*   [react-timezone-select (⭐80)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
@@ -55,7 +61,7 @@
 *   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
 *   [GBCamcorder (⭐81)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 
-## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### History
 
@@ -69,17 +75,23 @@
 
 
 
-## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [10. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 *   [@brianc](https://github.com/brianc), [node-postgres (⭐11k)](https://github.com/brianc/node-postgres)
     *   "Creating and maintaining node-postgres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
 *   [@mpdehaan](https://github.com/mpdehaan), [Ansible (⭐55k)](https://github.com/ansible/ansible), [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)
     *   "Michael DeHaan on creating Ansible and SourceOptics" ([interview](https://www.sourcesort.com/interview/michael-dehaan-on-creating-ansible-and-sourceoptics))
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [yabai (⭐13k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+
+## [12. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Hash Cracking Tools / Zealandia
+
+*   [hate\_crack (⭐1.4k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
 
 ---
 

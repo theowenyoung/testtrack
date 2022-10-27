@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 10, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,13 +40,73 @@
 
 *   [Organizr (⭐4k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 
-## [4. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Email
+
+*   [Cock.li](https://cock.li/) Yeah it's mail with cocks
+
+### Trackers
+
+*   [Bravo List](http://www.bvlist.com/) Tracker directory
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
+*   [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
+*   [OVH](https://www.ovh.com/world/) Large cloud server provider
+*   [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
+
+### Usenet / Seedbox Setup Tools and Guides
+
+*   [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [NowShowing (⭐72)](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+
+### Kodi / Third Party Hosts
+
+*   [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
+*   [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
+*   [Sparkle (⭐40)](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
+*   [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
+
+### Gaming / Third Party Hosts
+
+*   [SmartSteamEmu (⭐342)](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
+
+### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
+
+*   [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
+
+### Streaming Apps / Third Party Hosts
+
+*   [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
+
+### Content Discovery / Third Party Hosts
+
+*   [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+
+### Dashboards and Homepages / Third Party Hosts
+
+*   [Logarr (⭐254)](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+
+### Miscellaneous / Third Party Hosts
+
+*   [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
+
+## [5. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 
 ### Other Resources
 
 *   [Built Environment Innovation Design](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) - Lists professional design disciplines associated with built environment ventures and describes their roles (part of an open source project based learning challenge curricula).
 
-## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
@@ -81,13 +141,13 @@
 *   [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
 *   [Fable Ant Design (⭐23)](https://github.com/evilz/fable-ant-design) - Ant Design bindings for Fable Elmish.
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blog posts
 
 *   [Launching TriggerMesh](https://triggermesh.com/2018/11/01/launching-triggermesh/) - TriggerMesh (serverless management platform on top of knative) announcement blog post.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IoC
 

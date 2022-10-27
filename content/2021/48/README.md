@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29 - Dec 05, 2021
 
-44 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -285,7 +285,27 @@
 
 *   [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Validation / Playground
+
+*   [ts-codec (⭐8)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
+
+## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@vitejs/plugin-legacy (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
+
+### Vue / Integrations
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [@vitejs/plugin-vue-jsx (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+
+### Svelte / Integrations
+
+*   [vite-plugin-svelte (⭐563)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+
+## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -304,13 +324,13 @@
 
 *   [ethanholz/nvim-lastplace (⭐167)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
-## [21. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [23. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼🌍 [Inspect Flow](https://inspectflow.io) - The complete developer tool for Tailwind CSS.
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -328,7 +348,7 @@
 
 *   [FlatSharp (⭐288)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
-## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Databases & Spreadsheets
 
@@ -338,7 +358,7 @@
 
 *   [swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
-## [24. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [26. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++ / More
 
@@ -348,25 +368,31 @@
 
 *   [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
-## [25. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [27. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Generation
 
 *   [captcha-api](https://captcha-api.akshit.me) - Free, fast and reliable Captcha API POWERED BY AI
 
-## [26. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [28. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [SVT Encore (⭐219)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
 
-## [27. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [29. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Nano Stores (⭐2k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### UI Animation / Syntax Highlight
+
+*   [react-voodoo (⭐10)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
+
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -395,13 +421,13 @@
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
 *   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
 
-## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Blogs
 
 *   [Quantumfy](https://quantumfyed.com/) - Snippets on the latest quantum computing news and quantum infographics.
 
-## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [33. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / Angular
 
@@ -411,7 +437,7 @@
 
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 
-## [31. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [34. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Notebooks and IDEs
 
@@ -434,7 +460,7 @@
 
 *   [Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark](https://cs.stanford.edu/\~matei/papers/2018/sigmod_structured_streaming.pdf) - Structured Streaming is a new high-level streaming API, it is a declarative API based on automatically incrementalizing a static relational query.
 
-## [32. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [35. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra from Relational / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -463,13 +489,25 @@
 
 *   [Working with .NET and Cassandra/DataStax Enterprise](https://www.youtube.com/watch?v=7W1tOmfREnw) - Getting a C# .NET core application started to work against a Cassandra or DSE database.
 
-## [33. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [36. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Board
 
 *   Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess), [iOS](https://apps.apple.com/us/app/omnichess/id1593756511) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
 
-## [34. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [37. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+
+### Command-Line Productivity
+
+*   [sshrc (⭐106)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+
+### Shell Script Development
+
+*   [bashly (⭐1.3k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+*   [bash-modules (⭐94)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+
+## [38. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Code
 
@@ -485,13 +523,13 @@
 *   Fork [this repository (⭐489)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
-## [35. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [39. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
 *   [CertiGraph (⭐10)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 
-## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [40. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -505,7 +543,7 @@
 
 *   [spolnik/JAlgoArena (⭐35)](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java.
 
-## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
@@ -516,7 +554,7 @@
 
 *   [GlobalAppTesting engineering](https://gat.engineering) - GlobalAppTesting's engineering blog with materials on practical DDD and CQRS.
 
-## [38. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [42. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Community
 
@@ -526,13 +564,13 @@
 
 *   [webpack-target-webextension (⭐33)](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [imbalanced-ensemble (⭐152)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -549,13 +587,13 @@
 
 *   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐7)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
-## [41. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
 *   [Playwright (⭐44k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
-## [42. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [46. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Backoffice extensions
 
@@ -577,7 +615,7 @@
 
 *   [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - Fast and easy way to setup search for your website.
 
-## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -592,7 +630,7 @@
 *   [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keepassxreboot/keepassxc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/strongbox-password-safe/Strongbox) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/strongbox/id1270075435?mt=12)
 
-## [44. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Harvard / Commonsense Knowledgebase
 

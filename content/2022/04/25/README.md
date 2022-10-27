@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -129,13 +129,25 @@
 
 *   [Fleet (⭐2.2k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Twitter
+
+*   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
+
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [ViTauri (⭐22)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
 *   [iceoryx (⭐952)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 

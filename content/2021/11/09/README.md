@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,7 +23,24 @@
 
 *   [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Agola](https://agola.io)
+
+  Description: Self-Hosted, Open Source CI/CD Platform
+
+  Features: Languages: everything
+
+  Supported repositories: GitHub, GitLab, Gitea
+
+  Documentation: [Documentation](https://agola.io/doc/)
+
+  Price: [Open Source (⭐1.2k)](https://github.com/agola-io/agola)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/agola-io/agola.svg)](https://github.com/agola-io/agola)
+
+
+
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### URL Shorteners
 
@@ -39,19 +56,19 @@
 
 
 
-## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
 *   [ockam (⭐2.6k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 
-## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [sntpc](https://crates.io/crates/sntpc): Rust SNTP client to get a timestamp from NTP servers. - ![crates.io](https://img.shields.io/crates/v/sntpc)
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -61,7 +78,7 @@
 
 *   [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - Kubernetes-native API Gateway.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -75,7 +92,7 @@
 
 *   [harlem (⭐435)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -89,7 +106,7 @@
 
 *   [Astra](https://www.datastax.com/products/datastax-astra/) — Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)
 
-## [9. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [10. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Websites / Web
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 16 - Dec 22, 2019
 
-51 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -209,7 +209,40 @@
 
 *   [Seed (⭐181)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
-## [21. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [21. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Learning
+
+*   [Adding Alternate Media to a Playlist | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/adding_alternate_media_to_a_playlist)  -
+*   [Back to Basics: Encoding Definition and Adaptive Bitrate](https://bitmovin.com/encoding-definition-bitrates/?utm_campaign=Newsletter\&utm_medium=email&_hsenc=p2ANqtz-8MPFxhR7snQrxPYM7Bl3UTEMgOh5ZXoDQCHjLl9lkskqE0IfBhEuz3us39Br-lvA_CnyNmQl6L5wqO6iKOfAJ8HznenQ&_hsmi=79678208\&utm_content=79677632\&utm_source=hs_email\&hsCtaTracking=b8eb0e0a-f292-435e-8b99-719b75d81412%7C367afa65-d810-4c2e-aa2c-c87e897a8942)  -
+*   [Creating a Master Playlist | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/creating_a_master_playlist#overview)  -
+*   [HLS Authoring Specification for Apple Devices | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/hls_authoring_specification_for_apple_devices)  -
+*   [Live Playlist (Sliding Window) Construction | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/live_playlist_sliding_window_construction)  -
+*   [Understanding the HTTP Live Streaming Architecture | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/understanding_the_http_live_streaming_architecture)  -
+*   [Video on Demand Playlist Construction | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/video_on_demand_playlist_construction)  -
+
+### HLS / Talks Presentations Podcasts
+
+*   [HLS | Bento4](https://www.bento4.com/developers/hls/)  -
+*   [Protocol Extension for Low-Latency HLS (Preliminary Specification) | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/protocol_extension_for_low-latency_hls_preliminary_specification#3291001)  -
+
+### DASH / Talks Presentations Podcasts
+
+*   [mp4dash | Bento4](https://www.bento4.com/documentation/mp4dash/)  -
+
+### Encoding / Talks Presentations Podcasts
+
+*   [Bento4 | Fast, Modern Tools and C++ Class Library for all your MP4 and DASH media format needs](https://www.bento4.com/)  -
+
+### FFMPEG / Web
+
+*   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
+
+### Testing / Dolby
+
+*   [HTTP Live Streaming (HLS) - Artillery.io Docs](https://artillery.io/docs/plugin-hls/)  -
+
+## [22. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
@@ -219,7 +252,13 @@
 
 *   [Maxim Koretskyi: **JSConf EU: A sneak peek into super optimized code in JS frameworks**](https://www.youtube.com/watch?v=_VHNTC67NR8) \[23:20]
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [23. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-simple-chatbot (⭐1.5k)](https://github.com/LucasBassetti/react-simple-chatbot) - [demo (⭐0)](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
+
+## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -229,19 +268,19 @@
 
 *   [How to Include Latency in SLO-Based Alerting](https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/)
 
-## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [25. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
 *   [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineering designs. (Formats: gif,vrml,wrl,stp,sat)
 
-## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [ICanHasDotnetCore (⭐70)](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard.
 
-## [25. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [27. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### AAAI 2020
 
@@ -279,13 +318,27 @@
 *   [ELI5 (⭐261)](https://github.com/facebookresearch/ELI5)
     *   Paper: <https://arxiv.org/abs/1907.09190>
 
-## [26. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [28. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html) - Inherently evil multithreaded language designed for Necromancers.
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Trackers / Semi-Private Trackers
+
+*   [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
+
+### Streaming Sites / HD Streaming
+
+*   [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
+
+### Ebooks / Third Party Hosts
+
+*   [ReadAnyBook](https://readanybook.com/) Free online reading.
+
+## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Security / Angular
 
@@ -293,7 +346,7 @@
 *   [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116\&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
 *   [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
 
-## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [31. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI
 
@@ -318,32 +371,32 @@
 
 *   [Chris Richardson](https://twitter.com/crichardson) - Software architect, consultant, and serial entrepreneur, Java Champion, JavaOne Rock Star, \*POJOs in Action- author.
 
-## [29. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Math / Other / unknown licence
 
 *   [mandelbrot-ascii (⭐2)](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
-## [30. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [33. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
 *   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐1.7k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
 
-## [31. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
+## [34. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/week/README.md)
 
 ### Germany / Hamburg
 
 *   [Wirefly](https://www.wirefly.world/) - The first tech & arts festival of its kind in Germany ⪢ 4 days of ✓ talks ✓ music ✓ events ✓ food ✓ camping - all that and more at a unique venue on the beach! **(August)**
 
-## [32. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [35. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [Boxicons (⭐2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Chemistry
 
@@ -357,7 +410,7 @@
 
 *   [autodiff (⭐1.1k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
 
-## [34. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [37. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
@@ -367,13 +420,13 @@
 
 *   [toplevel (⭐14)](https://github.com/HKalbasi/eslint-plugin-toplevel) - An eslint plugin for disallow side effect at module toplevel.
 
-## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [CodeceptJS UI (⭐75)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
-## [36. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
+## [39. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
 ### Community
 
@@ -385,7 +438,7 @@
 *   [FalconLibrary (⭐28)](https://github.com/FRC5190/FalconLibrary) - A library for programming robots in Kotlin, made by Team 5190.
 *   [Lib5K (⭐6)](https://github.com/frc5024/lib5k) - A robotics library developed by team 5024
 
-## [37. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [40. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools
 
@@ -396,44 +449,44 @@
 *   [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 *   [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 
-## [38. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [41. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [Apache Heron (incubating) (⭐3.6k)](https://github.com/apache/incubator-heron) \[Java] - a realtime, distributed, fault-tolerant stream processing engine from Twitter.
 
-## [39. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [42. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [PPLM (⭐969)](https://github.com/uber-research/PPLM) - Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.
 
-## [40. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [43. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Client management
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) - Inventory, deployment and network scan.
 
-## [41. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [44. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Social Media
 
 *   [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
 
-## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [45. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Shopping
 
 *   [Rapidinho (⭐189)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
-## [43. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Create an Outlook Calendar Event using Microsoft Graph (⭐10)](https://github.com/anoopt/ms-graph-create-event)
 
-## [44. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [47. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
@@ -445,7 +498,7 @@
 *   [M3DB (⭐4.3k)](https://github.com/m3db/m3) - Scalable long-term remote storage for Prometheus.
 *   [VictoriaMetrics (⭐7.3k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Cost-effective easy to operate remote storage for Prometheus.
 
-## [45. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [48. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
@@ -530,7 +583,7 @@
 *   [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 *   [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 
-## [46. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [49. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
@@ -548,19 +601,19 @@
 
 *   [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
-## [47. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [50. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
 
-## [48. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [51. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Other
 
 *   [cmake-language-server (⭐183)](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [52. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Apple TV
 
@@ -603,7 +656,7 @@
 
 *   [Swift Tutorials by Jameson Quave](https://jamesonquave.com/blog/tutorials/)
 
-## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Polls and Events
 
@@ -613,7 +666,7 @@
 
 *   `CECILL-B` - [CEA CNRS INRIA Logiciel Libre](https://spdx.org/licenses/CECILL-B.html)
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 

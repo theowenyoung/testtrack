@@ -1,31 +1,38 @@
 # Awesome List Updates on Feb 26, 2016
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :free: Free Courses / Chrome Extensions
+
+*   [Angular Applications with TypeScript](https://mva.microsoft.com/en-US/training-courses/angular-applications-with-typescript-14330) (Microsoft Virtual Academy)
+*   [AngularJS with TypeScript made easy](https://www.youtube.com/watch?v=OZxnFB0yQHs) (SSW TV)
+
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Frameworks / Other
 
 *   [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 
-## [2. Tips](/content/git-tips/tips/README.md)
+## [3. Tips](/content/git-tips/tips/README.md)
 ## Skip staging area during commit.
 
 ```sh
 git commit --only <file_path>
 ```
 
-## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Delphi
 
 *   [TMongoWire (⭐97)](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
 
-## [4. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Containers
 

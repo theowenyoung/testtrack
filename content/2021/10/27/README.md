@@ -1,12 +1,22 @@
 # Awesome List Updates on Oct 27, 2021
 
-11 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Cloud Platform Attack Tools / Malware Analysis Books
+
+*   [Cloud Container Attack Tool (CCAT)](https://rhinosecuritylabs.com/aws/cloud-container-attack-tool/) - Tool for testing security of container environments.
+*   [CloudHunter (⭐51)](https://github.com/belane/CloudHunter) - Looks for AWS, Azure and Google cloud storage buckets and lists permissions for vulnerable buckets.
+*   [Cloudsplaining](https://cloudsplaining.readthedocs.io/) - Identifies violations of least privilege in AWS IAM policies and generates a pretty HTML report with a triage worksheet.
+*   [Endgame](https://endgame.readthedocs.io/) - AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account.
+*   [GCPBucketBrute (⭐339)](https://github.com/RhinoSecurityLabs/GCPBucketBrute) - Script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated.
+
+## [2. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Getting started
 
@@ -27,25 +37,31 @@
 *   [browser-extension-template (⭐610)](https://github.com/fregante/browser-extension-template) - Barebones boilerplate with parcel, options handler and auto-publishing.
 *   [generator-web-extension (⭐259)](https://github.com/webextension-toolbox/generator-web-extension) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Blazor Native Interop with SkiaSharp](https://www.youtube.com/watch?v=lVWQkpcVEWQ\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-91%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 26, 2021 - [SkiaSharp (⭐3k)](https://github.com/mono/SkiaSharp) is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. In this edition of the Blazor community standup learn more about SkiaSharp, from Matthew Leibowitz. [Community links](https://www.theurlist.com/blazor_community_standup_october_2021).
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Other Resources / Other Technology Resource Aggregators
 
 *   [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 
-## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Machine Learning
 
 *   [Approaching Almost Any Machine Learning Problem (⭐3.4k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 
-## [5. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Icons
+
+*   [react-icomoon (⭐138)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
+
+## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Design Patterns / Scalability and Resilience
 
@@ -57,7 +73,7 @@
 
 *   [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -355,13 +371,13 @@
 
 
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Storage / Database
 
 *   [uSQLite (⭐35)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
-## [8. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Functional Programming
 
@@ -371,13 +387,13 @@
 
 *   [decline (⭐564)](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vitailse (⭐101)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Database
 
@@ -425,7 +441,18 @@
         *   [bonifaido/rust-zookeeper (⭐165)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper. [![build badge](https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master)](https://travis-ci.org/bonifaido/rust-zookeeper)
         *   [krojew/rust-zookeeper (⭐15)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Self-Hosted
+
+*   [Mail-in-a-box (⭐11k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+*   [Docker mail server (⭐9.8k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
+
+### Video and Audio
+
+*   [Dim (⭐3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
+
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2018
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,13 +30,19 @@
 
 *   [Processing](https://pi.processing.org/get-started/) - Processing Development Environment running on Raspberry Pi.
 
-## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [ee-ts (⭐117)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+
+## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Smog Alert App (⭐9)](https://github.com/Bartozzz/smog-alert-app) – provides real-time air pollution data all around the world and shows nearby polluters.
 
-## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 

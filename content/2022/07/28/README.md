@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 28, 2022
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -21,19 +21,28 @@
 
 *   [EtherCalc](https://ethercalc.net/) - Web spreadsheet. ([Source Code (⭐2.8k)](https://github.com/audreyt/ethercalc)) `CPAL-1.0/Artistic-2.0` `Nodejs`
 
-## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### VPNs / Alternative clients/modifications of Discord:
+
+*   Closed source VPN apps such as Surfshark or NordVPN may be less trustworthy as nobody can be sure how they handle your data. Also, paying with Credit Card will get you identified on the payment. Furthermore, if you need to give your email it will also identify you if this same email has been used in other services.
+*   [Mullvad VPN](https://mullvad.net)
+*   [IVPN](https://ivpn.net)
+*   [SPN](https://safing.io/)
+
+## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Extensions
 
 *   [`@lit-app/state`](https://www.npmjs.com/package/@lit-app/state) - Lean and simple global State management for Lit 2.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Privacy (⭐3.1k)](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -43,7 +52,7 @@
 
 *   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -53,26 +62,32 @@
 
 *   [TWiN](https://this-week-in-neovim.org) - TWiN (this-week-in-neovim.org) is dedicated to providing weekly news about Neovim and its ecosystem.
 
-## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [Todaytagz](https://todaytagz.com)
+
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Logging
 
 *   [sentry\_deno (⭐11)](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / DSL
 
 *   [h0tk3y/regex-dsl (⭐78)](https://github.com/h0tk3y/regex-dsl) - A Kotlin DSL for regular expressions
 
-## [8. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
+## [10. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
 ### Example projects
 
 *   [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/gaming/xcom) - XCOM 2 is a massive sci-fi strategy game where humanity must respond to a growing alien threat. Explore data about the XCOM 2 technology tree using TypeDB and TypeQL.
 *   [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/software/github) - GitHub, the site you're on right now, is a vast pool of heavily interconnected data. See this example that integrates TypeDB and TypeQL into a GUI.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
@@ -84,13 +99,23 @@
 *   [ClassFly UI - XAML vs Blazor - Part 1 - XAML](https://kymphillpotts.com/maui-ui-july.html) - July 23, 2022 - This serie of article compares the approaches of XAML vs Blazor. The same application will be create using XAML and Blazor to discover the pros and cons. The part 1 focuses on XAML.
 *   [Dependency Injection Scopes in Blazor](https://www.thinktecture.com/blazor/dependency-injection-scopes-in-blazor/) - May 31, 2022 - The dependency injection system is a big part of how modern ASP.NET Core works internally: It provides a flexible solution for developers to structure their projects, decouple their dependencies, and control the lifetimes of the components within an application. In Blazor - a new part of ASP.NET Core - however, the DI system feels a bit odd, and things seem to work a bit differently than expected. This article will explain why this is not only a feeling but indeed the case in the first place and how to handle the differences in order to not run into problems later on.
 
-## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [12. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Editor plugins
 
 *   [MarioAriasC/zig-support (⭐42)](https://github.com/MarioAriasC/zig-support) - Language support for JetBrains IDEs (IntelliJ, CLion and others)
 
-## [11. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Laravel / Community
+
+*   [Laravel Livewire Plugin (⭐175)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
+
+### CodeIgniter / Community
+
+*   [codeigniter-vite (⭐35)](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
+
+## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
@@ -127,13 +152,13 @@
 *   [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2) - By Charles Bell. ISBN 9781484281345.
 *   [Python for Microcontrollers: Getting Started with MicroPython](https://www.mheducation.com.au/python-for-microcontrollers-getting-started-with-micropython-9781259644535-aus) - By Donald Norris. ISBN 9781259644535.
 
-## [12. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [15. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Libraries / Filesystem
 
 *   [global-cache-dir (⭐4)](https://github.com/ehmicky/global-cache-dir) - Get the global OS-specific cache directory.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -151,7 +176,7 @@
 
 *   [NextDNS](https://nextdns.io/) - The new firewall for the modern Internet. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/nextdns/id1464122853)
 
-## [14. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Supply Chain Security / Ruby
 

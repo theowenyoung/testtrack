@@ -1,19 +1,27 @@
 # Awesome List Updates on Jun 02, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [1. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Illustrations:
+
+- Website: <https://www.artify.co/vector-illustrations>
+
+
+
+## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [Hayabusa (⭐793)](https://github.com/Yamato-Security/hayabusa) - Hayabusa is a Windows event log fast forensics timeline generator and threat hunting tool created by the Yamato Security group in Japan.
 *   [WELA (⭐459)](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
 
-## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Prometheus
 
@@ -23,7 +31,7 @@
 
 *   [Pigsty (⭐717)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
@@ -119,13 +127,13 @@
 
 *   [PHP Internals Book](https://www.phpinternalsbook.com/) - An online book about PHP internals, written by three core developers.
 
-## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [5. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Examples / Showcases
 
 *   [Official Examples (⭐112)](https://github.com/directus/examples) - Integration examples with Directus.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
@@ -147,7 +155,7 @@
 
 *   [Directus (⭐160)](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -162,13 +170,13 @@
 *   [Lem (⭐1.3k)](https://github.com/cxxxr/lem) - a ready to use, Emacs-like, Slime-based
     editor tailored for Common Lisp development out of the box, as well as other programming languages. With ncurses and Electron interfaces. [MIT](https://opensource.org/licenses/MIT). See also: an [opengl frontend (⭐33)](https://github.com/pupcraft/lem-opengl), [Lem in Docker (⭐4)](https://github.com/40ants/lem-docker), [lem-pareto (⭐17)](https://github.com/40ants/lem-pareto).
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### GUI
 
 *   [gio](https://gioui.org) - Gio is a library for writing cross-platform immediate mode GUI-s in Go. Gio supports all the major platforms: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD and WebAssembly.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Validation
 
@@ -178,19 +186,19 @@
 
 *   [vjames19/kotlin-futures (⭐81)](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 
-## [9. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
+## [10. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
 ### Layout / Grid
 
 *   [CSS Grid](https://cssgrid.io) - Learn CSS grid with Wes Bos - Free 4 hours video course, 25 Videos.
 
-## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Frameworks
 
 *   [Astro (⭐43)](https://github.com/ota-meshi/eslint-plugin-astro) - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
 
-## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [12. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 

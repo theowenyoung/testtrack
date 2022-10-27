@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,25 +46,31 @@
 
 *   [Tracim (⭐180)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 
-## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Books
+
+*   [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
+
+## [7. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Framework
 
 *   [cone.app (⭐9)](https://github.com/conestack/cone.app) - A comprehensive web application stub on top of Pyramid.
 
-## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Free Content
 
 *   [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Python SDK
 
 *   [botocore :fire::fire::fire::fire: (⭐1.2k)](https://github.com/boto/botocore)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

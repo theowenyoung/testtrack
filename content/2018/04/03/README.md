@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐122)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
-## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [TypeGQL (⭐419)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
+
+## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
@@ -34,7 +40,7 @@
 
 *   [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 

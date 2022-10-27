@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 06 - Sep 12, 2021
 
-53 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -182,13 +182,24 @@
 
 *   [Learn dbatools in a Month of Lunches](https://www.manning.com/books/learn-dbatools-in-a-month-of-lunches) - Learn how to automate SQL Server with PowerShell and the awesome dbatools module.
 
-## [21. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [21. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### WSL Tools / Terminals
+
+*   [Tabby](https://tabby.sh/) - A terminal for a more modern age. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### WSL Tools / WSL Utilities
+
+*   [vim-wsl-copy-paste (⭐7)](https://github.com/Konfekt/vim-wsl-copy-paste) -  Adds mappings in Vim to write and read on the Windows clipboard.
+    . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [22. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0) - Why video games will become a new battleground for the soul of a country by Simon Wardley. Sep 8, 2021.
 
-## [22. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [23. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
@@ -198,19 +209,19 @@
 
 *   [Github Discussions (⭐20k)](https://github.com/avajs/ava/discussions)
 
-## [23. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [24. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
 
-## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [25. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [Shisho (⭐340)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
-## [25. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [26. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Financial
 
@@ -228,13 +239,13 @@
 
 *   [flowable (⭐5.8k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
-## [26. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [27. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Formatters / Testing Tools
 
 *   [SARIF](https://www.npmjs.com/package/@microsoft/eslint-formatter-sarif) - Generate a results in a SARIF format so it can be imported into tools like GitHub Advanced Security.
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -244,19 +255,25 @@
 
 *   [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - Learn the essentials of machine learning by completing a carefully designed set of real-world projects.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+
+### VPN
+
+*   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
+
+## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mathematics
 
 *   [Vim.Math3d (⭐66)](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
 
-## [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [31. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Jekyll Starter (⭐5)](https://github.com/shenlu89/jekyll-tailwindcss-starter) - Jekyll starter using Tailwind CSS
 
-## [30. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [32. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -266,7 +283,7 @@
 
 *   [Awesome Sustainable VPS](https://codeberg.org/jonatasbaldin/awesome-sustainable-vps) - A list of sustainable VPS (Virtual Private Servers) providers.
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Blogging Platforms
 
@@ -335,7 +352,7 @@
 *   [Pootle](https://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code (⭐1.4k)](https://github.com/translate/pootle)) `GPL-3.0` `Python`
 *   [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code (⭐3.2k)](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python`
 
-## [32. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [34. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Tutorials and Examples
 
@@ -346,7 +363,7 @@
 *   [libpng (⭐0)](https://github.com/edadma/libpng) - Bindings for the [libpng](http://www.libpng.org/) C reference library for reading and writing PNGs.
 *   [libcairo (⭐1)](https://github.com/edadma/libcairo) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics C library.
 
-## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Serialization
 
@@ -356,13 +373,13 @@
 
 *   [Rasalexman/KDispatcher (⭐63)](https://github.com/Rasalexman/KDispatcher) - Simple and light-weight event dispatcher for Kotlin
 
-## [34. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
+## [36. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
 
 ### Introduction
 
 *   [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning)
 
-## [35. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Authentication & Authorization
 
@@ -420,7 +437,7 @@
 
 
 
-## [36. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [38. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Users and Authentication
 
@@ -452,7 +469,7 @@
 *   [Vue](https://github.com/meteor-vue) - Working with Vue and Meteor (plus single-file components & apollo support).
 *   [Svelte (⭐26)](https://github.com/zodern/melte) - Build cybernetically enhanced web apps with Meteor and Svelte.
 
-## [37. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [39. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / Policy models
 
@@ -464,7 +481,7 @@
 
 *   [Cerbos (⭐679)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
-## [38. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [40. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
@@ -474,7 +491,7 @@
 
 *   [Optimizing payments with machine learning](https://dropbox.tech/machine-learning/optimizing-payments-with-machine-learning) - Describes a classic payment workflow, then how machine learning can replace hard-coded business rules and fine-tune the payment failures/retries loop to increase the success rates of charges.
 
-## [39. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [41. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering / Engineering Practices
 
@@ -494,7 +511,7 @@
 *   [The SaaS Org Chart](https://sacks.substack.com/p/the-saas-org-chart) - Blueprints of an organization at each stage of its 50/125/400/1000-employees stages, with typical ratios and ARR.
 *   “If you have dealt with large, completely incompetent organizations and wondered how the hell they actually keep going - theres your answer. If built correctly it's genuinely difficult to mess things up.” ([source](https://news.ycombinator.com/item?id=20533922)). I.e. the structure of the organization is quintessential to its longevity.
 
-## [40. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [42. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Machine Learning
 
@@ -514,13 +531,13 @@
 
 *   [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 
-## [41. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [43. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Market Tools & Utilities
 
 *   [The Coin Perspective](https://thecoinperspective.com) — Helps you put different coins in perspective, comparing marketcaps, supplies and prices.
 
-## [42. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [44. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Getting Started
 
@@ -530,7 +547,7 @@
 
 *   [MeterSphere (⭐8.4k)](https://github.com/metersphere/metersphere/blob/master/README-EN.md) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -550,7 +567,7 @@
 
 *   [tjdevries/gruvbuddy.nvim (⭐83)](https://github.com/tjdevries/gruvbuddy.nvim) - Gruvbox colors.
 
-## [44. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [46. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -561,19 +578,19 @@
 
 *   [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from multiple databases and services.
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [47. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
 *   [Rounded Loading Button (⭐206)](https://github.com/chrisedg87/flutter_rounded_loading_button) <!--stargazers:chrisedg87/flutter_rounded_loading_button--> - Button with a loading indicator, complete with success and error animations by [Chris Edgington](https://twitter.com/ChrisTheEdg)
 
-## [46. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [48. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Video Games
 
 *   [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) - All the things you have not considered implementing for your doors in games.
 
-## [47. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [49. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### High-Level Frameworks / Multi-accounts setup
 
@@ -583,7 +600,7 @@
 
 *   [Recommended AWS CDK project structure for Python applications](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/) - By Alex Pulver.
 
-## [48. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [50. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Home Improvements
 
@@ -607,7 +624,7 @@
 
 *   [Bunq Greencard](https://www.bunq.com/easygreen) - Dutch online-only bank with a credit card which plants trees for the money you spend.
 
-## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### HTTP
 
@@ -617,13 +634,13 @@
 
 *   [xtdb (⭐2k)](https://github.com/xtdb/xtdb): bitemporal database for SQL, Datalog & graph queries
 
-## [50. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [52. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Localization / Barcode
 
 *   [Locheck (⭐70)](https://github.com/Asana/locheck) - Validate .strings and .stringsdict files for errors
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -651,7 +668,7 @@
 *   [pinia-undo (⭐22)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
 *   [pinia-xstate (⭐27)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
@@ -670,7 +687,7 @@
 *   [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline  with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression. Limit free tier has 3000 uploads, 3 GB traffic and 3 GB storage.
 *   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 100 Gb, 5 devices, 500 Gb referral bonus (365 days account inactivity).
 
-## [53. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [55. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### More Resources / Social Impact
 

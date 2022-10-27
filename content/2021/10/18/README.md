@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [vue-mars3d (⭐37)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Tools / Ironsworn
+
+*   [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
+
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Games
 
@@ -25,38 +31,38 @@
 
 *   [Photino (⭐395)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
 
-## [3. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
+## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
 ### Resources / Toolkits and Frameworks
 
 *   [Formidable](https://www.formidablejs.org/) - Imba Framework for Rapid API Development.
 *   [Imba Shell (⭐13)](https://github.com/donaldp/imba-shell) - Interactive debugger and REPL for Imba.
 
-## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
 *   [Zover](http://www.mgc.ac.cn/cgi-bin/ZOVER/main.cgi) - A conglomeration of the previous bat ([DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/README.md/www.mgc.ac.cn/DBatVir)) and rodent virus ([DRodVir](http://www.mgc.ac.cn/DRodVir/)) databases with the addition of mosquito- and tick- borne viruses. Database is described [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab862/6389491?login=true).
 
-## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Software Engineering
 
 *   [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - A better sourced article on the difficulty of implementing search engines.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Alert / Barcode
 
 *   [Toast-Swift (⭐182)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
-## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Common Section / Angular
 
 *   [GIMTEC](https://www.gimtec.io/). The weekly newsletter I wish I had when I finished my development bootcamp.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
@@ -66,7 +72,7 @@
 
 *   [LemmyNet/lemmy (⭐6.8k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Machine Learning
 
@@ -96,20 +102,20 @@
 
 
 
-## [10. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Tools you'll need / Cloud-based options
 
 *   [Deepnote](https://deepnote.com/) allows for real-time collaboration
 *   [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
-## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [12. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Open Chemistry](https://opencollective.com/open-chemistry) - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.
 
-## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

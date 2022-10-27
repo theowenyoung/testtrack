@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2022
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -439,63 +439,82 @@
     *   [Honeypot research papers (⭐17)](https://github.com/shbhmsingh72/Honeypot-Research-Papers) - PDFs of research papers on honeypots.
     *   [vEYE](https://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - Behavioral footprinting for self-propagating worm detection and profiling.
 
-## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / Hacker News
+
+*   [Hackers (⭐621)](https://github.com/weiran/Hackers): a native iOS app for Hacker News
+    *   Available to download on the Apple AppStore: <https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901>
+
+### Overview / Other services
+
+*   [MediathekViewWeb (⭐730)](https://github.com/mediathekview/mediathekviewweb): Video content of German public-service television broadcasters (e.g. ARD, ZDF)
+    *   Official instance: [mediathekviewweb.de](https://mediathekviewweb.de)
+*   [PrivateBin (⭐4.4k)](https://github.com/PrivateBin/PrivateBin): Zero knowledge encrypted paste-bin. A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES
+
+## [4. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Business
 
 *   [CLDR currency definitions (⭐613)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
-## [4. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [HPDDM (⭐88)](https://github.com/hpddm/hpddm) - High-performance unified framework for domain decomposition methods.
     (C++, LGPL 3, GitHub)
 
-## [5. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [6. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / Task Automation
 
 *   [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 
-## [6. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
+## [7. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
 ### Platforms
 
 *   [Dasha](https://dasha.ai/) - Conversational AI platform as a service with a strong focus on voice.
 *   [Dialogflow](https://cloud.google.com/dialogflow) - Lifelike Conversational AI with state-of-the-art virtual agents by Google.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Graphics
 
 *   [kotlin-graphics/gli (⭐29)](https://github.com/kotlin-graphics/gli) - g-truck gli port, image library
 
-## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [9. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Videos
 
 *   [The anatomy of the Get-Help command in PowerShell](https://www.youtube.com/watch?v=cEswNaXxJ9g) - Software Engineer Tyler Leonhardt introduces the Powershell help system.
 
-## [9. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :free: Free Courses / Chrome Extensions
+
+*   [Why program in TypeScript?](https://www.youtube.com/watch?v=1TW9SdHIiXI) an overview of the main syntax constructs focusing on the benefits of using TypeScript as opposed to coding in JavaScript
+
+## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### BAM File Utilities / Structural variant callers
 
 *   **[Somalier (⭐172)](https://github.com/brentp/somalier)** - Fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs. \[ [paper-2020](https://pubmed.ncbi.nlm.nih.gov/32664994) ]
 
-## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [12. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
 *   [GitHub Readme Stats (⭐47k)](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Debugging
 
 *   [NetShears](https://github.com/divar-ir/NetShears.git) - Allows developers to intercept and monitor HTTP/HTTPS requests and responses. It also could be configured to show gRPC calls.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Environment
 
@@ -539,13 +558,13 @@
 
 
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Security Tools / File Sharing
 
 *   [Mana Security](https://www.manasecurity.com/) - vulnerability management app for individuals. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/manasecurity/mana-security-app)
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 

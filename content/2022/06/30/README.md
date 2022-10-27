@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 30, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [data-diff (⭐1.8k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### OctoberCMS / Community
+
+*   [Vitewind (⭐9)](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
+
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -38,37 +44,37 @@
 
 *   [gakonst/ark-circom (⭐113)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Forms
 
 *   [gbind (⭐8)](https://github.com/bdjimmy/gbind) - Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation
 
-## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
 *   [Keycloak Python Client (⭐8)](https://github.com/keycloak-client/keycloak-client)
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [dirty\_cat (⭐619)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [argon-dashboard-vue3 (⭐121)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [3 reasons why I've created yet another library for the downloading on Blazor apps](https://dev.to/j_sakamoto/3-reasons-why-ive-created-yet-another-library-for-the-downloading-on-blazor-apps-2cpk) - June 29, 2022 - 3 reasons why I've created yet another library for the downloading on Blazor apps.
 
-## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Health
 
@@ -78,13 +84,13 @@
 
 *   [Regrid](https://regrid.com/) - A leading provider of land parcels and location context data for your maps, apps and spatial analysis.
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Workflows
 
 *   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

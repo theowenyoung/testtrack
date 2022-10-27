@@ -1,84 +1,90 @@
 # Awesome List Updates on May 10 - May 16, 2021
 
-38 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Integrations with Third Party Services / Mouse Events
+
+*   [react-google-autocomplete (⭐321)](https://github.com/ErrorPro/react-google-autocomplete) - Google Places API components and hooks.
+
+## [2. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Text Editor Plugins
 
 *   [nvim-jqx (⭐171)](https://github.com/gennaro-tedesco/nvim-jqx) - Browse and query json files in neovim from the quickfix window. (Lua)
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Logging
 
 *   [fmtlog (⭐410)](https://github.com/MengRao/fmtlog) - A performant fmtlib-style logging library with latency in nanoseconds. \[MIT]
 
-## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
 *   [helm-secrets (⭐746)](https://github.com/jkroepke/helm-secrets) - Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.
 
-## [4. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [5. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Model Explainability
 
 *   [Regulatory learning: How to supervise machine learning models? An application to credit scoring](https://www.sciencedirect.com/science/article/pii/S2405918817300648) - The arrival of Big Data strategies is threatening the latest trends in financial regulation related to the simplification of models and the enhancement of the comparability of approaches chosen by financial institutions. Indeed, the intrinsic dynamic philosophy of Big Data strategies is almost incompatible with the current legal and regulatory framework as illustrated in this paper. Besides, the model selection may also evolve dynamically forcing both practitioners and regulators to develop libraries of models, strategies allowing to switch from one to the other as well as supervising approaches allowing financial institutions to innovate in a risk mitigated environment.
 
-## [5. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
 *   [PKCE Explained](https://www.loginradius.com/engineering/blog/pkce/) - “PKCE is used to provide one more security layer to the authorization code flow in OAuth and OpenID Connect.”
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Database
 
 *   [usql (⭐7.6k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [8. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [priyavrat-misra/xrays-and-gradcam (⭐36)](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
 
-## [8. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IO / ADC
 
 *   [MicroPython-ADC\_Cal (⭐12)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [redond-it (⭐3)](https://github.com/jazcarate/redond-it) - Remove the sharp edges of your website.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
 *   [FrontAid](https://frontaid.io/) — Headless CMS that stores JSON content directly in your own Git repository. No restrictions.
 
-## [12. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [13. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
 *   [re3 (⭐1.3k)](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -89,43 +95,49 @@
 
 *   [code\_signing (⭐5)](https://github.com/benknowles/code_signing) - Signing and verifying BEAM files with Ed25519 signatures.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Samaya (⭐4)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
-## [15. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [16. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [Adonis (⭐163)](https://github.com/eidellev/inertiajs-adonisjs)
 
-## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [17. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Preact Transitioning (⭐27)](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 
-## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [18. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Uniswap](https://uniswap.org/) - Decentralized Trading Protocol built on Ethereum. [Source](https://github.com/Uniswap)
 
-## [18. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / React
+
+*   [vite-template-react (⭐33)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+
+## [20. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Case Studies
 
 *   [Get moving with Microsoft’s FAST web components](https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html)
 
-## [19. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [21. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Localization and State Estimation / Lidar and Point Cloud Processing
 
 *   [libRSF (⭐172)](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
 
-## [20. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [22. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Docs
 
@@ -141,7 +153,7 @@
 *   [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
 *   [flutter\_vlc\_player (⭐374)](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 
-## [21. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [23. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Computer Science
 
@@ -155,7 +167,7 @@
     *   [JAX (⭐756)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
     *   [XAI (⭐52)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
-## [22. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [24. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Distributions
 
@@ -231,13 +243,13 @@
 
 *   [TeXnique](https://texnique.xyz) - A LaTeX Typesetting Game.
 
-## [23. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [25. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
 *   [Thumbnailer for AppImages (⭐5)](https://github.com/mttbernardini/appimage-thumbnailer) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
 
-## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -251,7 +263,7 @@
 
 *   [Keycloak Last Login Date Event Listener (⭐19)](https://github.com/ThoreKr/keycloak-last-login-event-listener)
 
-## [25. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [27. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Blogs
 
@@ -261,13 +273,13 @@
 
 *   [SharePoint2019Commands (⭐3)](https://github.com/sassdawe/SharePoint2019Commands) - PowerShell module to help you auto-load all SharePoint 2019 cmdlets.
 
-## [26. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [28. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
 *   [Agstack](https://agstack.org) - Open-Source Digital Infrastructure for the Agriculture Ecosystem
 
-## [27. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [29. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Packages
 
@@ -275,7 +287,7 @@
 *   [web-monetization-video-ads](https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share) - Automated redistribution of funds to a community via smart contracts. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 
-## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -286,7 +298,7 @@
 
 *   🚀 [Gatsby Starter + TypeScript (⭐76)](https://github.com/ecklf/gatsby-typescript-tailwind) - Gatsby starter using Tailwind CSS and TypeScript.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Document Management
 
@@ -300,13 +312,13 @@
 
 *   [Vaultwarden (⭐19k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
 
-## [30. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Eclipse Ditto™](https://eclipse.org/ditto/) - Eclipse Ditto is a framework for building so called "digital twins". It provides a cloud based representation and APIs to interact with connected physical devices. Ditto provides built-in authorization, search and connectivity capabilities to integrate with foreign systems like MQTT brokers, HTTP endpoints and Apache Kafka.
 
-## [31. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [33. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 
@@ -316,7 +328,7 @@
 
 *   [Flutters (⭐178)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-## [32. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -402,7 +414,7 @@
 
 
 
-## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Official Links
 
@@ -615,20 +627,30 @@
 *   [kotlin-graphics/imgui (⭐500)](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 *   [openrndr/openrndr (⭐656)](https://github.com/openrndr/openrndr) - OPENRNDR, a framework for creative coding in Kotlin. Accelerated 2D and 3D graphics, vector graphics, shaders and animation
 
-## [34. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Middleware
 
 *   [Eclipse Zenoh (⭐555)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
 *   [Eclipse Zenoh-Plugin-DDS (⭐74)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
 
-## [35. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [37. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Booking
 
 *   [Cogsworth Scheduler](https://get.cogsworth.com/) - Online Scheduler for business with a powerful API.
 
-## [36. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Specialty Search Engines
+
+*   [Intelligence X](https://intelx.io/tools)
+
+### Expert Search / Telegram
+
+*   [Licenseplates](http://www.worldlicenseplates.com/)
+
+## [39. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Tutorials
 
@@ -645,7 +667,7 @@
 
 *   [eslint-plugin-svelte (⭐52)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
-## [37. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Books
 
@@ -669,7 +691,7 @@
 
 *   [SemGrep](https://semgrep.dev/) - *r2c* - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
 
-## [38. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [41. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Personalization
 

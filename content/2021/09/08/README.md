@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,6 +59,12 @@
 ### Python / Computer Vision
 
 *   [computer-vision-in-action (⭐1.7k)](https://github.com/Charmve/computer-vision-in-action) - as known as `L0CV`, is a new generation of computer vision open source online learning media, a cross-platform interactive learning framework integrating graphics, source code and HTML. the L0CV ecosystem — Notebook, Datasets, Source Code, and from Diving-in to Advanced — as well as the L0CV Hub.
+
+## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### VPN
+
+*   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 
 ---
 

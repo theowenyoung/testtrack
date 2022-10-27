@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04 - Apr 10, 2016
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -246,26 +246,97 @@ git checkout --orphan <branch_name>
 
 *   [TiKV (⭐12k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 
-## [24. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [24. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Katana (⭐380)](https://github.com/themsaid/katana)
+
+  Description: Laravel static site/blog generator with markdown support
+
+  Link: 
+
+
+- Name: [CoasterCMS (⭐393)](https://github.com/web-feet/coastercms)
+
+  Description: Coaster CMS Project
+
+  Link: <http://www.coastercms.org>
+
+
+- Name: [Statamic](https://github.com/statamic)
+
+  Description: Flat File CMS
+
+  Link: <https://statamic.com>
+
+
+
+### Django
+
+- Name: [Django-CMS (⭐8.9k)](https://github.com/divio/django-cms)
+
+  Description: Easy to use and developer friendly CMS
+
+  Link: <http://www.django-cms.org>
+
+
+- Name: [Django-fiber (⭐665)](https://github.com/ridethepony/django-fiber)
+
+  Description: A simple, user-friendly CMS for all your Django projects
+
+  Link: <http://ridethepony.org>
+
+
+- Name: [Feincms (⭐842)](https://github.com/feincms/feincms)
+
+  Description: A Django-based CMS with a focus on extensibility and concise code
+
+  Link: <http://www.feincms.org>
+
+
+- Name: [Mezzanine (⭐4.5k)](https://github.com/stephenmcd/mezzanine)
+
+  Description: CMS framework for Django
+
+  Link: <http://mezzanine.jupo.org>
+
+
+- Name: [Wagtail (⭐13k)](https://github.com/torchbox/wagtail)
+
+  Description: A Django content management system focused on flexibility and user experience
+
+  Link: <http://wagtail.io>
+
+
+- Name: [Django-leonardo (⭐96)](https://github.com/django-leonardo/django-leonardo)
+
+  Description: CMS for everyone, easy to deploy and scale, robust modular system with many packages
+
+  Link: <https://www.leonardo-cms.org>
+
+
+
+## [25. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_36):metal:
 
-## [25. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [26. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### General
 
 *   `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
 
-## [26. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [27. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / PHP
 
 *   [Facebook WebDriver (⭐4.7k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
 *   [Selenium Setup (⭐27)](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
 
-## [27. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [28. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / ListView
 
@@ -275,13 +346,13 @@ git checkout --orphan <branch_name>
 
 *   [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
 
-## [28. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [29. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
 *   [Mining visualization](http://www.yogh.io/#mine:last)
 
-## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [30. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -313,7 +384,7 @@ git checkout --orphan <branch_name>
 
 
 
-## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Documentation
 
@@ -323,13 +394,13 @@ git checkout --orphan <branch_name>
 
 *   [Myrtille (⭐1.4k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
-## [31. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [32. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Use / Platforms
 
 *   **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 
-## [32. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [33. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Studying / Useful Materials
 
@@ -360,7 +431,7 @@ git checkout --orphan <branch_name>
 
 *   [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
@@ -374,7 +445,7 @@ git checkout --orphan <branch_name>
 
 *   [TextAttributes (⭐2.2k)](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
-## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -392,7 +463,7 @@ git checkout --orphan <branch_name>
 
 *   [exrm\_deb (⭐75)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 
-## [35. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [36. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Free and Open Source Libraries
 
@@ -402,7 +473,7 @@ git checkout --orphan <branch_name>
 *   [Smoothie Charts (⭐2.2k)](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 *   [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 
-## [36. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [37. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tutorials
 
@@ -453,7 +524,7 @@ git checkout --orphan <branch_name>
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
 *   [vim-tmux (⭐319)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
-## [37. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -700,7 +771,7 @@ git checkout --orphan <branch_name>
 
 *   [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## [38. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [39. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

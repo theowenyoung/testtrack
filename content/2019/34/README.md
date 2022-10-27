@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26 - Sep 01, 2019
 
-47 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -244,7 +244,13 @@
 
 *   [Boss (⭐361)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
-## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [20. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### Testing
+
+*   [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
+
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -272,19 +278,19 @@
 
 *   [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. BSD.
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [Twill (⭐2.9k)](https://github.com/area17/twill)
 
-## [22. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [23. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Frameworks / Graph
 
 *   [NebulaGraph (⭐8.1k)](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
 
-## [23. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [24. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Research Overviews
 
@@ -329,25 +335,25 @@
 *   [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
 *   [UMLS Semantic Network](https://semanticnetwork.nlm.nih.gov/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447396/) - Lists of 133 semantic types and 54 semantic relationships covering biomedical concepts and vocabulary. Is the Metathesaurus too complex for your needs? Try this. Does not require UTS account to download.
 
-## [24. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Teaches functional programming from first principles using real-world scenarios.
 
-## [25. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [26. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Books
 
 *   [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity) teaches functional programming from first principles. It uses JavaScript for all code examples and it uses real-world scenarios. By [Eric Normand](https://github.com/ericnormand) (2019)
 
-## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Playlist - Programando en Blazor](https://www.youtube.com/playlist?list=PL0kIvpOlieSNdIPZbn-mO15YIjRHY2wI9) - \[Spanish] Series of videos about Blazor.
 
-## [27. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [28. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -355,7 +361,7 @@
 
     Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
-## [28. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [29. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -365,7 +371,17 @@
 
 *   [NGINX Conference 2018 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXe_Vc708VKvr5KJ4gnf1WxS)
 
-## [29. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Notification
+
+*   [react-notifications-component (⭐1.2k)](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
+
+### Parallax / Syntax Highlight
+
+*   [react-parallax-tilt (⭐553)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+
+## [31. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Related Resources / Gradient boosting
 
@@ -374,7 +390,7 @@
 *   <a name="xgboost"></a>
     [XGBoost (⭐23k)](https://github.com/dmlc/xgboost)
 
-## [30. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -408,7 +424,7 @@
 *   [Telegram Group](https://t.me/FlutterTR)
 *   [Github](https://github.com/flutterturkey)
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -434,7 +450,7 @@
 
 *   [Simple-URL-Shortener (⭐30)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
 
-## [32. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [34. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Git Hook Scripts / commit-msg
 
@@ -485,13 +501,33 @@
 
 *   [Git hooks and practical uses. Yes, even on Windows.](http://www.youtube.com/watch?feature=player_embedded\&v=fMYv6-SZsSo\&t=140s)
 
-## [33. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [35. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Streams
 
 *   [random-bytes-readable-stream (⭐74)](https://github.com/sindresorhus/random-bytes-readable-stream) - Cross-platform `fs.createReadStream('/dev/urandom')`.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Image Search / Telegram
+
+*   [Lycos Image Search](http://search.lycos.com)
+
+### Infographics and Data Visualization / Telegram
+
+*   [LocalFocus](https://www.localfocus.nl)
+*   [Visualize Free](http://visualizefree.com)
+
+### Productivity Tools / Telegram
+
+*   [Leechblock NG](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng)
+
+### Other Tools / Telegram
+
+*   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
+    *   [pygreynoise (⭐134)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
@@ -509,44 +545,44 @@
 
 *   [MultiSelectSegmentedControl (⭐278)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
-## [35. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Interactive learning / Single Topics
 
 *   [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 
-## [36. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [39. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Auditing Tools
 
 *   [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
 *   [OPENRNDR](https://openrndr.org/) \[Cross-platform] - Open source library for creative coding written in Kotlin.
 
-## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [BoomBox (⭐217)](https://github.com/nbeede/BoomBox) - Automatic deployment of Cuckoo
     Sandbox malware lab using Packer and Vagrant.
 
-## [39. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [42. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Manjaro](https://manjaro.org/download/) - Friendly, open-source Linux distribution for Raspberry Pi.
 
-## [40. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [43. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Platforms / Other external resources
 
 *   [Nanobox (⭐1.6k)](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth\_africa:](https://nanobox.io).
 
-## [41. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [44. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -556,31 +592,31 @@
 
 *   [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
 
-## [42. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
 *   [ember-local-storage (⭐217)](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
 
-## [43. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### APM
 
 *   [NewRelic plugin (⭐12)](https://github.com/jippi/cakephp-newrelic/tree/cake3) - A complete plugin that enables full New Relic integration for a CakePHP application, including CLI naming, exceptions sending, custom timings, etc.
 
-## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### I18n And L10n / Runner
 
 *   [ttag (⭐300)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 
-## [45. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Browser extensions
 
 *   [Netflix Hangouts](https://netflixhangouts.com) - Watch Netflix at work by making it look like you’re on a conference call.
 
-## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [49. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -594,11 +630,17 @@
 
 *   [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 
-## [47. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [50. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Time
 
 *   [Code Time](https://www.software.com/) - Time-tracking for VS Code, Atom, Sublime Text, and other editors
+
+## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Procedurem (⭐16)](https://github.com/ImVexed/Procedurem) - A Small (2kb) And Performant Bi-Directional RPC Library Using WebSockets.
 
 ---
 

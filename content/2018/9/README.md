@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26 - Mar 04, 2018
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -525,19 +525,48 @@
 
 *   [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x demo
 
-## [38. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### React Native
+
+- Name: [Whatsapp Clone](https://github.com/VctrySam/whatsapp)
+
+  Description: Whatsapp Clone app built with React Native
+
+  Link: [Demo](https://youtu.be/UQYsVd-rI54)
+
+
+- Name: [London React (⭐51)](https://github.com/JoeStanton/london-react)
+
+  Description: React Native app for the London React Meetup
+
+  Link: 
+
+
+
+### C#
+
+- Name: [MySQL Database Library (⭐4)](https://github.com/Ezeji/MySQL-Database-Library)
+
+  Description: C# tool for seamless MySQL connection and CRUD operations
+
+  Link: <https://medium.com/@franklinezeji/mysql-database-library-for-c-developers-4bec985dc009>
+
+
+
+## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
 *   [Open Playout Automation (⭐141)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
-## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
 *   Public Datasets [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets).
 
-## [40. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [41. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Articles & Tutorials / Overall Topics
 
@@ -549,7 +578,7 @@
 
 *   [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### OSINT
 

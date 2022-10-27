@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,7 +65,17 @@
 
 *   [CDK (⭐1.6k)](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Official Resources
+
+*   [Release Notes (⭐49k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+
+### Open Source / Community
+
+*   [VitePress (⭐6k)](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
+
+## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### HTTP
 
@@ -75,7 +85,7 @@
 *   [kvlt (⭐70)](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
 *   [aleph (⭐2.4k)](https://github.com/clj-commons/aleph) : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Docs / Online Playgrounds
 

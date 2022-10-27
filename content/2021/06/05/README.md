@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -94,7 +94,14 @@
 
 *   [septum (⭐348)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
-## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Rich Text Editor
+
+*   [react-codemirror (⭐597)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
+*   [react-monacoeditor (⭐192)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
+
+## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 

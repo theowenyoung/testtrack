@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,7 +57,42 @@
 
 
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+- : [CA Technologies Mineral UI](https://mineral-ui.netlify.app/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐552)](https://github.com/mineral-ui/mineral-ui)
+
+
+- : [City of Boston Fleet](https://patterns.boston.gov/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 
+
+  Source code \*: [:octocat: (⭐17)](https://github.com/CityOfBoston/digital)
+
+
+- : [VMware Clarity Design System](https://clarity.design/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐6.5k)](https://github.com/vmware/clarity)
+
+
+
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
@@ -67,13 +102,13 @@
 
 *   [Void (⭐144)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐144)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
 
-## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [9. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Software and Tools
 
 *   [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

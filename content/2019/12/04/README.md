@@ -1,37 +1,43 @@
 # Awesome List Updates on Dec 04, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Back-end API / Playground
+
+*   :octocat: [Libstack](https://libstack.io) - A collection of various modules to create Typescript server easily and ready to be deployed on Docker.
+
+## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-nordvpn (⭐14)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
-## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Augmented Reality
 
 *   [Geolocator (⭐1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
 *   [Permission Handler (⭐1.7k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
-## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / File Management
 
 *   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐7k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 
-## [4. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [5. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Official
 
 *   [Corda website](https://www.corda.net/)
 
-## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
@@ -41,7 +47,7 @@
 
 *   [Saiku Analytics](https://www.meteorite.bi/) - Open source analytics platform.
 
-## [6. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Client libraries / C/C++
 
@@ -51,7 +57,7 @@
 
 *   [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Linting
 
@@ -61,13 +67,13 @@
 
 *   [Assume AWS role (⭐22)](https://github.com/nordcloud/aws-assume-role/)
 
-## [8. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [9. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Places / Monasteries
 
 *   [Sitavana](https://birken.ca/) - Forest Monastary, Kamloops, British Columbia - Forest Tradition monastery with Ajahn Sona as abbot.
 
-## [9. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
+## [10. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
 ### Tools, Platforms, and Services / Repos for Specific Datasets
 

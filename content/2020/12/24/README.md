@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,21 @@
 
 *   [PixelCraft](https://rgab1508.github.io/PixelCraft/) - Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 
-## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Taskord](https://gitlab.com/taskord/taskord)
+
+  Description: Get things done socially with community of makers.
+
+  Link: <https://taskord.com>
+
+  : 
+
+
+
+## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Memory managers
 
@@ -43,7 +57,7 @@
 *   [PascalUtils (⭐19)](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
 *   [libPasC-Algorithms (⭐14)](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
 
-## [6. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [7. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Education
 
@@ -57,13 +71,13 @@
 
 
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) - Philips Hue light management in the menu bar with multi-room support. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [9. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 

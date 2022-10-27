@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -70,13 +70,23 @@
 *   [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
 *   [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Table
+
+*   [react-data-table (⭐1.6k)](https://github.com/jbetancur/react-data-table-component) - [demo/docs](https://jbetancur.github.io/react-data-table-component/?) - accessible, responsive, themable, declaratively configurable table with sorting, selectable rows, expandable rows, pagination
+
+### i18n / Mouse Events
+
+*   [js-lingui (⭐3.5k)](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
+
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [CodeNotary.io](https://www.codenotary.io/) — Open Source platform with indelible proof to notarize code, files, directories or container
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 

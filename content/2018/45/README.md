@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 05 - Nov 11, 2018
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -121,13 +121,92 @@
 
 *   [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
 
-## [14. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [14. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Email
+
+*   [Cock.li](https://cock.li/) Yeah it's mail with cocks
+
+### Trackers
+
+*   [Bravo List](http://www.bvlist.com/) Tracker directory
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
+*   [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
+*   [OVH](https://www.ovh.com/world/) Large cloud server provider
+*   [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [DockSTARTer (⭐1.8k)](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
+
+### Tracker Frameworks / Seedbox Setup Tools and Guides
+
+*   [Torrent-Tracker-Platforms (⭐354)](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+
+### Usenet / Seedbox Setup Tools and Guides
+
+*   [Usenet-Uploaders (⭐158)](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+*   [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
+
+### Plex Plugins / Third Party Hosts
+
+*   [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
+*   [FMoviesPlus.bundle (⭐52)](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [NowShowing (⭐72)](https://github.com/ninthwalker/NowShowing) Generates an email and web page of Plex recently added content
+
+### Kodi / Third Party Hosts
+
+*   [Yoda](http://supremacy.org.uk/zip/repo/) Another solid Exodus/Covenant fork, and this time it's from S-media.
+*   [Exodus Redux](https://www.reddit.com/r/Addons4Kodi/comments/9tasx5/requests_recommendations_basics_november_2018/e8uti6w) The newest Exodus fork around, paired with LambdaScrapers.
+*   [Sparkle (⭐40)](https://github.com/iwannabelikemike/plugin.video.sparkle) Kodi addon for finding acestream links
+*   [Plexus](http://fusion.tvaddons.co/) Plexus is used in conjunction with Sparkle to play Ace Stream links.
+
+### Gaming / Third Party Hosts
+
+*   [SmartSteamEmu (⭐342)](https://github.com/MAXBURAOT/SmartSteamEmu) Steam emulator
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [tpget](https://github.com/0x6a73/tpget) Tutorialspoint downloader
+
+### Movie Automation / Third Party Hosts
+
+*   [Watcher (⭐277)](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+
+### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
+
+*   [DVDFab](https://www.dvdfab.cn/) DVD ripping tool
+
+### Streaming Apps / Third Party Hosts
+
+*   [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
+
+### Content Discovery / Third Party Hosts
+
+*   [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+
+### Dashboards and Homepages / Third Party Hosts
+
+*   [Logarr (⭐254)](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+
+### Miscellaneous / Third Party Hosts
+
+*   [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
+*   [Privacy.com](https://privacy.com/) Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
+
+## [15. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Prototype Tools
 
 *   [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 
-## [15. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -143,7 +222,7 @@
 
 
 
-## [16. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [17. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Posts / Other
 
@@ -151,29 +230,29 @@
 
     A guide to the complex world of modern software business: everything from UX design to marketing and writing, with a list of resources to start with each topic.
 
-## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Sony
 
 *   [`prussia`](https://github.com/ZirconiumX/prussia) - SDK for the PlayStation 2.
 
-## [18. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [19. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@fatih](https://github.com/fatih), [vim-go (⭐15k)](https://github.com/fatih/vim-go)
     *   "Taking an indefinite sabbatical from my projects" ([post](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/))
 
-## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
 *   [move-file (⭐183)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
-## [20. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [21. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - Infographic highlights of nationally representative surveys of ICT access and use by households and individuals in the public domain in 16 developing countries of the Global South.
 
-## [21. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [22. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -183,31 +262,31 @@
 
 *   [Transferwise](https://transferwise.com/gb/business/international-payroll-via-batch-payments) - Easy way to pay remote employees.
 
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
 *   [clack-static-asset-middleware (⭐1)](https://github.com/fisxoj/clack-static-asset-middleware) - a cache-busting static asset middleware for the clack. [MIT](https://opensource.org/licenses/MIT).
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Numbers
 
 *   [Brick\Math (⭐1.4k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 
-## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [25. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [chart-parts (⭐596)](https://github.com/Microsoft/chart-parts) - A flexible, React-friendly, Grammar of Graphics for data visualization
 
-## [25. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [26. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Simulating Incoming Phone Calls On Android](https://appiumpro.com/editions/42)
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Elixir / General-Purpose Machine Learning
 
@@ -217,20 +296,20 @@
 
 *   [Thampi (⭐9)](https://github.com/scoremedia/thampi) - Machine Learning Prediction System on AWS Lambda
 
-## [27. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [28. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [It's Time To Talk About Mental Illness In Indie Development](https://www.engadget.com/2018/04/04/mental-illness-indie-take-this-kate-edwards-mike-wilson) - By Jessica Conditt.
 
-## [28. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [29. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) Nov 07, 2018
 *   [Machine Learning With H2O — Hands-On Guide for Data Scientists](https://dzone.com/articles/machine-learning-with-h2o-hands-on-guide-for-data) Jun 27, 2018
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -252,13 +331,13 @@
 
 *   [Organizr (⭐4k)](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`
 
-## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Table/Grid / Other
 
 *   [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
 
-## [31. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [32. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Food-related projects
 
@@ -273,13 +352,13 @@
 *   [tacofancy (⭐1.3k)](https://github.com/sinker/tacofancy) - Community-driven taco repo. stars stars stars.
 *   [cookbook (⭐10)](https://github.com/jlinder/cookbook) - Delicious food. Mostly wheat or gluten free.
 
-## [32. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [33. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Cheat sheets
 
 *   [Salt Commands cheat sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet) - List of common Salt commands.
 
-## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [34. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
@@ -289,7 +368,7 @@
 
 *   The [Decentralized Library of Alexandria](https://www.alexandria.io/) is an open-source standard in active development to allow users to publish and distribute original content themselves, from music to videos to feature films, 3d printable inventions, recipes, books and just about anything else.
 
-## [34. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [35. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -303,19 +382,19 @@
 
 *   [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
 
-## [35. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [36. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [Nosqlclient (⭐3.4k)](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 
-## [37. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
@@ -327,7 +406,7 @@
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 *   [TriggerMesh](https://triggermesh.com) - Serverless cloud with a library of event triggers to enable hybrid cloud and workload portability.
 
-## [38. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -370,25 +449,25 @@
 
 *   [sinew (⭐157)](https://github.com/metrumresearchgroup/sinew) - Generate roxygen2 skeletons populated with information scraped from the function script.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
 *   [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
 
-## [40. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [41. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [xfce-screenshooter-ipfs-support (⭐7)](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
 
-## [41. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [42. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Database
 
 *   [Leya - MySQL API (⭐16)](https://github.com/kevgk/Leya) - by kevgk - Work with MySQL databases in autohotkey, without exposing server credentials to the client.
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [43. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Reporting
 
@@ -423,13 +502,13 @@
 
 *   [Rin (⭐316)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
-## [43. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [44. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [10deploys](https://www.10deploys.com/) - São discutidas as origens, tendências, influências e os conceitos por trás do DevOps com o objetivo de ajudar organizações a se transformarem em organizações de alto desempenho.
 
-## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -440,7 +519,7 @@
 
 *   [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) - GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. \[LGPL v2.1+]
 
-## [45. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [46. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
@@ -484,7 +563,7 @@
 *   [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
 *   [Fable Ant Design (⭐23)](https://github.com/evilz/fable-ant-design) - Ant Design bindings for Fable Elmish.
 
-## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Camera / Barcode
 
@@ -506,19 +585,19 @@
 
 *   [PaperOnboarding (⭐3.2k)](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider.
 
-## [47. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [48. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
 *   [WebDriverManager (⭐2.1k)](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
 
-## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [49. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CLI
 
 *   [Gosleap (⭐20)](https://github.com/koriroys/gosleap) - Make Ryan Gosling jump across your screen.
 
-## [49. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [50. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### IO/Storage
 
@@ -532,7 +611,7 @@
 
 *   [Xamarin.Forms.EntryAutoComplete (⭐40)](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
 
-## [50. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [51. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS
 
@@ -548,14 +627,14 @@
 *   [Social Mapper (⭐3.4k)](https://github.com/SpiderLabs/social_mapper) - Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) by [@SpiderLabs](https://github.com/SpiderLabs).
 *   [espi0n/Dockerfiles (⭐36)](https://github.com/espi0n/Dockerfiles) - Dockerfiles for various OSINT tools by [@espi0n](https://github.com/espi0n).
 
-## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IoC
 
 *   [DryIoc (⭐779)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 *   [Stashbox (⭐112)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
-## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [53. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,19 +56,26 @@
 
 *   [Bootstrap Icons (⭐6.4k)](https://github.com/twbs/icons#readme) - SVG icons custom designed and built for Bootstrap components. ([Website](https://icons.getbootstrap.com/))
 
-## [6. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [Gigacourse](https://gigacourse.com/)
+*   [Desire Course](https://desirecourse.net/)
+
+## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Bolt](https://slack.dev/bolt/concepts) (JavaScript, Node.js)
 
-## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob) - Written by [@AntoGarand](https://twitter.com/AntoGarand).
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / MSP430
 
@@ -79,13 +86,13 @@
 *   [`msp430fr2x5x-hal`](https://crates.io/crates/msp430fr2x5x-hal)
     *   HAL implementation for the MSP430FR2x5x family of microcontrollers
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
 *   [Material-UI (⭐155)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
-## [10. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Tools
 

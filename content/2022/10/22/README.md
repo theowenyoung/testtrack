@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -127,13 +127,19 @@
 
 *   [human-essentials (⭐302)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Desktop / Alternative clients/modifications of Discord:
+
+*   [Brave](https://brave.com/) - Brave offers a pretty good out-of-the-box set of privacy and tracker protections.
+
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654\&hl=en\&as_sdt=0,5)]. Proposing a domain-general method to extract context-dependent relationships from word embeddings: ‘semantic projection’ of word-vectors onto lines that represent multiple dimensions of features, which recovers human judgements across various object categories and properties.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -160,13 +166,13 @@
 *   [QLMarkdown (⭐593)](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 *   [Syntax Highlight (⭐1.6k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. - ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Machine Learning
 

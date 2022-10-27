@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,6 +53,16 @@
 ### CI / Miscellaneous
 
 *   [run-gatling (⭐2)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
+
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Get Started
+
+*   [create-electron-vite (⭐24)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-unocss-to-uni (⭐9)](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
 
 ---
 

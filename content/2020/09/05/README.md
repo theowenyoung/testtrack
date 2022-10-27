@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 05, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [django-configurations (⭐939)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
+
+## [2. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ### Cancer
 
@@ -68,19 +74,19 @@
 *   [Snake Oil Supplements](http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet/) - Scientific evidence for popular health supplements.
 *   [SieveSifter](http://sieve.fredhutch.org/viz/index.html?study=VTN503\&protein=gag\&reference=MRK_B_Ad5) - Tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials.
 
-## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Utilities / Game Engine resources
 
 *   [Fontify (⭐86)](https://github.com/westracer/fontify) <!--stargazers:westracer/fontify--> - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by [Igor Kharakhordin](https://github.com/westracer)
 
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Authentication
 
 *   [Grant (⭐3.7k)](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -102,14 +108,14 @@
 
 *   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐18k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
-## [5. Awesome Internships](/content/lodthe/awesome-internships/README.md)
+## [6. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
 ### Practice platforms
 
 *   [LeetCode](https://leetcode.com) - Practice your coding skills by solving more than 800+ questions.
 *   [HackerRank](https://www.hackerrank.com) - Companies host coding challenges there.
 
-## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 

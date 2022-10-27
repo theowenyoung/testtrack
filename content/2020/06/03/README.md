@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,31 +12,37 @@
 
 *   [AssetsAudioPlayer (⭐645)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 
-## [2. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Architecture
+
+*   [*Swift Design Patterns* by Paul Hudson](https://www.hackingwithswift.com/store/swift-design-patterns)
+
+## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Vector Creation
 
 *   [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - An [Observable](https://observablehq.com/) notebook collection full of plotter-oriented work.
 
-## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
 *   [ShareX integration (⭐376)](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX is a file upload and manipulation tool that has a custom integration with IPFS
 
-## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [An Open Source AutoML Benchmark](https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf) Peter Gijsbers, Erin LeDell, Sebastien Poirier, Janek Thomas, Berndt Bischl, Joaquin Vanschoren. (2019)
 
-## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/) - Analyse eines ERP-Systems mit Wardley Maps und strategischem Domain-driven Design. Jun 2, 2020.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
@@ -46,7 +52,7 @@
 
 *   [Raspberry Pi](https://www.raspberrypi.org/) <sup>[640](https://t.me/s/aboutrss/640)</sup>
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
@@ -68,7 +74,7 @@
 
 *   [AnimatedCardInput (⭐39)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Component Libraries
 
@@ -78,7 +84,7 @@
 
 *   [Custom Web Shadow Elements, or Whatever…](https://vimeo.com/364370506) by [@aerotwist](https://twitter.com/aerotwist)
 
-## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
@@ -89,7 +95,7 @@
 
 *   [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations).
 
-## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Security
 
@@ -99,7 +105,7 @@
 *   [Security (⭐1.8k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 *   [xss (⭐48)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 

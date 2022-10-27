@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,19 @@
 
 *   [Design systems (⭐487)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
-## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Paginator
+
+*   [paginated (⭐20)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
+
+## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### SaaS
 
 *   [Twilio](https://www.twilio.com/blog/twilio-perks-students-and-educators-now-available-github-education)\[CREDIT] - Free $50 USD in Twilio API credits & Exclusive in-game items in TwilioQuest for student via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
@@ -66,13 +72,13 @@
 *   [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 *   [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 
-## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Studies
 
 *   [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) - Performance of Svelte and other top javascript frameworks.
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Others
 

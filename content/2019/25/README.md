@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24 - Jun 30, 2019
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,85 +48,91 @@
 
 *   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock) - An efficient blocker add-on for various browsers. Fast, potent, and lean.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Logic / Mouse Events
+
+*   [surveyjs (⭐3.4k)](https://github.com/surveyjs/survey-library) - The advanced Survey and Form library
+
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Modern web apps with Blazor](https://media.aspitalia.com/events/VS2019-Blazor.media) - \[Italian] Video about Blazor.
 
-## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [A practical guide to writing more functional Javascript](https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71) - A step by step guide to convert imperative JavaScript to more declarative, functional JavaScript.
 
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [trilogy (⭐243)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
-## [10. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [11. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Misc
 
 *   [XKCD](https://xkcd.com/)
 
-## [11. Guides](/content/NARKOZ/guides/week/README.md)
+## [12. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 
 *   [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
-## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [13. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
 *   [salt-sproxy (⭐102)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
 
-## [13. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [14. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Videos
 
 *   [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) - PromCon 2016: The Prometheus Time Series Database - Björn Rabenstein.
 
-## [14. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [15. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Books / Hellonext
 
 *   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/) - By Jake Knapp, John Zeratsky, Braden Kowitz.
 
-## [15. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [16. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Books
 
 *   [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r) Rami Krispin. (2019)
 
-## [16. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [17. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### News
 
 *   [Five Things You Didn't Know Python Could Do](https://www.youtube.com/watch?v=HNrMjH9Yuv4) - YouTube video, June 19, 2019.
 
-## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [18. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Stacks (⭐2.9k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
 *   [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
 
-## [19. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [20. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Applications / Command Line Tools
 
 *   [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) - Initial configurations for molecular dynamics simulations by packing optimization.
 
-## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
@@ -148,13 +154,13 @@
 
 *   Kafka [awesome-kafka (⭐156)](https://github.com/monksy/awesome-kafka).
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Articles
 
 *   [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
 
-## [22. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [23. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### RESTful API with Java and Spring Boot   [↗](https://awesomestacks.dev/res-tful-api-with-java-and-spring-boot) / Resources
 
@@ -166,7 +172,7 @@
 
 *   [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
 
-## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### .Net Core
 
@@ -199,7 +205,7 @@
     common tasks at the REPL (print documentation, print external symbols,
     call hooks when loading a package,…). [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -246,19 +252,19 @@
 
 *   [ex\_nric (⭐2)](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Security
 
 *   [Netflix/bless :fire::fire::fire::fire::fire: (⭐2.7k)](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Knowledge Management Tools
 
 *   [My Mind (⭐3k)](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 
-## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Hiring
 
@@ -276,14 +282,14 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐8.7k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [30. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Books
 
@@ -299,13 +305,13 @@
 
 *   [QS Ledger (⭐809)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Examples
 
 *   [Rust Package Registry (⭐2.3k)](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -316,13 +322,13 @@
 *   [react-native-google-pay ★2 (⭐84)](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 *   [react-native-apay ★2 (⭐50)](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
 
-## [32. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [API Security in Action](https://www.manning.com/books/api-security-in-action) - Book covering API security including secure development, token-based authentication, JSON Web Tokens, OAuth 2, and Macaroons. (early access, published continuously, final release summer 2020)
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Dependency Injection
 
@@ -341,7 +347,7 @@
 *   [PanSlip (⭐100)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 *   [SamuraiTransition (⭐274)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
-## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Seattle, WA   <a id="seattle-wa">  </a>
 
@@ -355,7 +361,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 | ---- | ----- | ------ | ----------------------------------------------------------------------- | -------------------------------------------------- |
 | open | ✔     | ✔      | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00 |
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -365,7 +371,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 *   [Polkadot (⭐6.3k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
 *   [Substrate (⭐7.5k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
-## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / UI Helpers
 
@@ -380,19 +386,19 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 *   [Matrix2 (⭐20)](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
 *   [Embla Carousel (⭐2.7k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
-## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 

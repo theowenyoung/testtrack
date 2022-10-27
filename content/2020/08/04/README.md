@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -166,14 +166,23 @@
 *   [Ericsson Research](https://discourse.ros.org/t/transport-priority-qos-policy-to-solve-ip-flow-ambiguity-while-requesting-5g-network-qos/15332) - Connect ROS2 applications to 5G networks for M2M communication.
 *   [synapticon](https://www.synapticon.com/technology) - ROS compatible motion control and drive products with efforts to support ROS2.
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [14. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - Official open source SVG icon library for Bootstrap.
+*   [teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons designed to fit in the smallest places.
+*   [DevUI Icons, by Huawei Cloud (⭐18)](https://github.com/DevCloudFE/devui-icons) - DevUI font icons.
+*   [Ant Design Icons, by Ant Financial](https://ant.design/components/icon/) - ⭐ Ant Design SVG Icons.
+
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### API / Runner
 
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 *   [SWR (⭐24k)](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 
-## [15. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [16. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 

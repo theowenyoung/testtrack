@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 14, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,25 +12,35 @@
 
 *   [Turtle (⭐4)](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
 
-## [2. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Using WSL / Programming on WSL
+
+*   [Badass Terminal](https://jessicadeen.com/badass-terminal-wsl-macos-and-ubuntu-dotfiles-update/)
+
+### WSL Tools / WSL Utilities
+
+*   [wsl-gui-bins (⭐35)](https://github.com/Konfekt/wsl-gui-bins) -  Start common GUI applications under WSL as under Linux. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [3. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Servers
 
 *   [ShellHub (⭐982)](https://github.com/shellhub-io/shellhub) [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social\&label=stars)](https://github.com/shellhub-io/shellhub) - A *SSH* gateway for remotely accessing any Linux device behind firewall and NAT.
 
-## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Semantic Versioning
 
 *   [Cut Release Branch (⭐9)](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
 
-## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   Khronos [Vulkan samples (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Samples) \[[LICENSE (⭐2.7k)](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 
-## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
@@ -45,7 +55,7 @@
 
 *   [Magento 2 Ngrok (⭐46)](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Hybrid
 
@@ -56,7 +66,7 @@
 
 *   [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
@@ -74,7 +84,7 @@
 
 *   [ConcentricOnboarding (⭐916)](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -92,38 +102,38 @@
 
 *   [Mindmup.com](https://www.mindmup.com/) — Unlimited mind maps for free, and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
 
-## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Type Theory and Mathematics
 
 *   [Analysis (⭐136)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 
-## [10. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Networking
 
 *   [httpx (⭐9.5k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐48k)](https://github.com/psf/requests) compatible API.
 
-## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Community
 
 *   [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - Subscribe [here](https://bit.ly/2QlF0Wx). Newsletter [archive](https://bit.ly/2P9MEPu).
 
-## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Miscellaneous
 
 *   [yGuard (⭐254)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
-## [13. Awesome Python](/content/vinta/awesome-python/README.md)
+## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Logging
 
 *   [loguru (⭐13k)](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 
-## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

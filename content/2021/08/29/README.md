@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,6 +68,12 @@
 ### Backend / Redux / ELM / Dependency Injection
 
 *   [NETCoreSync (⭐64)](https://github.com/aldycool/NETCoreSync) - Centralized database synchronization framework for multiple clients, built on top of [Moor (⭐1.7k)](https://github.com/simolus3/moor) library by [Aldy J](https://github.com/aldycool)
+
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
 
 ---
 

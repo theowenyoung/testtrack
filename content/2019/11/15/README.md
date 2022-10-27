@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,19 @@
 
 *   [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - Provides various Material Design inspired themes.
 
-## [5. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Meteor
+
+- Name: [titra (⭐303)](https://github.com/kromitgmbh/titra)
+
+  Description: An open source project time-tracking app
+
+  Link: <https://titra.io/>
+
+
+
+## [6. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Books / About Qlik Sense
 
@@ -55,7 +67,7 @@
 *   [QlikView Scripting](https://books.google.com/books/about/QlikView_Scripting.html?id=wng3ngEACAAJ\&redir_esc=y) - By Matt Floyd.
 *   [QlikView Server and Publisher](https://books.google.com/books/about/QlikView_Server_and_Publisher.html?id=gDOhAgAAQBAJ\&redir_esc=y) - By Stephen Redmond.
 
-## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -65,37 +77,37 @@
 
 *   [Publish module to Puppet Forge (⭐8)](https://github.com/barnumbirr/action-forge-publish)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [Okta (⭐60)](https://github.com/okta/okta-aspnet) - Hosted, enterprise-grade platform for modern identity.
 
-## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [IPSE](https://www.ipse.io/) - A search engine for the IPFS network.
 
-## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Microservices
 
 *   [Apache ServiceComb Java Chassis (⭐1.8k)](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Additional resources / Hellonext
 
 *   [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
-## [11. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [12. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Buenos Aires](https://paperswelove.org/buenos-aires/)
 
-## [12. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [13. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Integrations / Transactions
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,22 @@
 
 *   [Dim (⭐3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager fueled by dark forces. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere. `GPL-2.0` `Rust`
 
-## [4. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [4. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [ytdl-gui (⭐224)](https://github.com/JaGoLi/ytdl-gui): A simple-to-use, cross-platform graphical interface for youtube-dl
+*   [uYouPlus (⭐3.3k)](https://github.com/qnblackcat/uYouPlus): uYouPlus (uYou+) is an alternative YouTube app for Apple's iOS and iPadOS
+*   [SmartTubeNext (⭐7.6k)](https://github.com/yuliskov/SmartTubeNext): SmartTubeNext is an advanced YouTube app for Android TVs and TV boxes, free and open source. It is not a live TV client and does not support "YouTube TV"
+*   [ytcc (⭐141)](https://github.com/woefe/ytcc): Command line tool to keep track of your favorite playlists on YouTube and many other places. Can import youtube subscriptions from Google Takeout and provide them as an RSS feed for your favorite reader
+*   [smtube (⭐29)](https://github.com/smplayer-dev/smtube): Stand-alone YouTube video player
+    *   Website: <https://www.smtube.org>
+    *   SMTube is part of SMPlayer
+    *   SMPlayer website: <https://www.smplayer.info>
+    *   SMPlayer repository: [https://github.com/smplayer-dev/smplayer (⭐300)](https://github.com/smplayer-dev/smplayer)
+*   [minitube (⭐305)](https://github.com/flaviotordini/minitube): Lightweight youtube client with a kid-friendly interface. Can make playlists from search keywords
+
+## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -62,7 +77,7 @@
 *   [Open Collective](https://opencollective.com/) - Enables groups to quickly set up a collective, raise funds and manage them transparently.
 *   [OSHWA Certification](https://certification.oshwa.org/) -  Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 
-## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Command Line / XML
 
@@ -72,43 +87,43 @@
 
 *   [gfm (⭐2)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 
-## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [LibRedirect](https://libredirect.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/libredirect/libredirect) - A simple extension that redirects to alternative privacy-friendly frontends.
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / VSCode
 
 *   [optio-labs/teal-debugger-extension (⭐14)](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
 
-## [8. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [9. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / How To Read a Paper
 
 *   [Advice on reading academic papers](https://userpages.umbc.edu/\~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 
-## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [10. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX formulas on the web
 
 *   [xhub (⭐69)](https://github.com/nschloe/xhub) - Browser extension that lets you use LaTeX in GitHub pages. ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [10. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Provider Resources / Miscellaneous
 
 *   [Golem Price Updater (⭐4)](https://github.com/jedbrooke/golem-price-updater) - Automatically adjust the price for your Golem node based on the current price of GLM.
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 
 *   [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - A weekly newsletter on new development and updates of Android universe.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
 

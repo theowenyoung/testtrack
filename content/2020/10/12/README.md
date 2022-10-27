@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,74 +56,80 @@
 
 *   [d3-annotation (⭐728)](https://github.com/susielu/d3-annotation) - Annotation helper with built-in annotation types
 
-## [7. Awesome Ads](/content/cenoura/awesome-ads/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Collapse
+
+*   [react-tabbordion (⭐79)](https://github.com/Merri/react-tabbordion) - [demo](https://merri.github.io/react-tabbordion) - Universal, semantic and CSS-only components for creating Accordions and Tabs.
+
+## [8. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 
 ### Best Practices
 
 *   [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that publish research about how to improve the online consumer ad experience and defined some standards.
 
-## [8. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [9. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Helpful links / Other
 
 *   [TensorFlow Lite Examples - Android (⭐34)](https://github.com/dailystudio/tensorflow-lite-examples-android) - A repository refactors and rewrites all the TensorFlow Lite Android examples which are included in the TensorFlow official website.
 
-## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Books
 
 *   [The Fuzzing Book](https://www.fuzzingbook.org/) (2019)
 
-## [10. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [11. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Links
 
 *   [The container is a lie](https://platform.sh/blog/2020/the-container-is-a-lie/)
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
 *   [cl-liballegro (⭐44)](https://github.com/resttime/cl-liballegro) - Interface and bindings to the Allegro 5 game programming library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazor Printing (⭐61)](https://github.com/Append-IT/Blazor.Printing) - ![last-commit](https://img.shields.io/github/last-commit/append-it/Blazor.Printing?style=flat-square\&cacheSeconds=86400) Print and save PDF documents with a native print dialog in a Blazor Server or client Application.
 
-## [13. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
+## [14. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
 ### Identity Applications / Public Blockchain Identity
 
 *   [Jolocom](https://jolocom.com) - Self-sovereign identity wallet.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   💼 [tailwind-classes-sorter (⭐18)](https://github.com/Acidic9/tailwind-classes-sorter) - NPM library which provides a utility to sort Tailwind CSS classes.
 *   💼 [prettier-plugin-tailwind (⭐428)](https://github.com/Acidic9/prettier-plugin-tailwind) - Prettier plugin that sorts class lists.
 
-## [15. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
+## [16. Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md)
 
 ### Libraries / JavaScript
 
 *   [useAnimations](https://useanimations.com/) - micro-animations icon library;
 
-## [16. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [17. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### App Examples
 
 *   [New York Taxi Rides](https://dash.vaex.io/) - A full year of the YellowCab Taxi company data from their prime, numbering well over 100 million trips. Dash + Vaex dataframe with over a 100 million rows. [Source Code. (⭐107)](https://github.com/vaexio/dash-120million-taxi-app)
 
-## [17. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [18. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
 *   [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy provides autonomy algorithms as individual building blocks and is compatible with Autoware.Auto.
 
-## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [19. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Data Collection
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2022
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,19 +24,29 @@
 
 *   [HTML Tutorial by Scaler](https://www.scaler.com/topics/html/)
 
-## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [4. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Archive of Icons
+
+*   [iconarchive](https://iconarchive.com/) - Professional tag based icon search engine with more than 600,000 icons.
+
+### Generic
+
+*   [Lucide](https://lucide.dev) - A fork of Feather Icons with more than 500 additional icons.
+
+## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Blog posts
 
 *   [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 
-## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [6. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Videos / Talks
 
 *   [Load Testing Crash Course with Gatling](https://www.youtube.com/watch?v=RiM1GsVSbzM) - Stéphane Landelle @ Devoxx Belgium 2022.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -180,19 +190,19 @@
 *   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
 *   [msink/kotlin-libui (⭐602)](https://github.com/msink/kotlin-libui)
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [psgrep (⭐0)](https://github.com/voidzero/omz-plugin-psgrep/) - Makes `ps grep` hide its own process from the results of a `ps aux | grep`.
 
-## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   GSMA - State of Mobile Internet Connectivity ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 
-## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Algorithms / Ground segmentation
 
@@ -207,31 +217,31 @@
     *   [GitHub repository :octocat: (⭐78)](https://github.com/url-kaist/patchwork-plusplus-ros)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
 
-## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
 *   [box (⭐236)](https://github.com/box-builder/box) :skull: - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Game Development
 
 *   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under CC-BY license.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-vroom (⭐3)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 
-## [14. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [15. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -304,13 +314,13 @@
     *   [Updated courses for iOS8 - Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
     *   [Updated courses for iOS9 - Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Metascience / Literature Visualization
 
 *   [Galex: Exploring the evolution and intersection of disciplines](http://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/zeyuli2020.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13313104491218225635\&hl=en\&as_sdt=0,5)].
 
-## [16. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
@@ -320,7 +330,7 @@
 
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 
-## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Data Science
 
@@ -334,7 +344,7 @@
 
 *   [Isomorphism -- Mathematics of Programming (⭐2.5k)](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
 
-## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [19. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Ruby / Angular
 

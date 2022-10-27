@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -164,7 +164,13 @@ And run this to remove the attributes:
 
 *   [Assistant On Air](https://podcasts.google.com/?feed=aHR0cHM6Ly9hY3Rpb25zb25nb29nbGUubGlic3luLmNvbS9yc3M\&ved=0CAAQ4aUDahcKEwiQruG2mJTnAhUAAAAAHQAAAAAQAQ) - By Google team
 
-## [16. Awesome List](/content/sindresorhus/awesome/README.md)
+## [16. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Tools / Free Indexers
+
+*   [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
+
+## [17. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
@@ -183,7 +189,7 @@ And run this to remove the attributes:
 
 *   [Creative Tech Events (⭐112)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
-## [17. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [18. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Education
 

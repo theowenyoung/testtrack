@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 28, 2020
 
-15 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,13 @@
 
 *   [douban-box (⭐10)](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 
-## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / X Servers
+
+*   [Xmanager](https://www.netsarang.com/en/xmanager/) - X server for Windows from NetSarang. 💰
+
+## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -60,19 +66,25 @@
     *   Microsoft Azure
         *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐116)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [sulu/sulu (⭐875)](https://github.com/sulu/sulu#readme) - Project logo, useful badges, clear instructions on where to find more information and report bugs, GIF screenshots, nice use of emoticons.
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Chart
+
+*   [jscharting-react (⭐11)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   Sascha Willems's [samples (⭐7.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐154)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Database
 
@@ -82,13 +94,13 @@
 
 *   [dankcli (⭐37)](https://github.com/sggts04/dankcli) - Add text to meme image templates.
 
-## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### ORM and SQL generation
 
 *   [Korma (⭐1.5k)](https://github.com/korma/Korma)
 
-## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [13. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Broad Overviews
 
@@ -98,13 +110,19 @@
 
 *   [Pitfalls and Best Practices in Algorithm Configuration](https://www.jair.org/index.php/jair/article/download/11420/26488/) 🎓
 
-## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Blazor / Themes
 
 *   [ant-design-blazor (⭐10)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
 
-## [13. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [15. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [Tridactyl (⭐4k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+
+## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Job Boards
 
@@ -129,13 +147,13 @@
 
 *   [Awesome OKR (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr) - There is no shortage of content on how to measure and communicate objectives.
 
-## [14. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [17. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Articles
 
 *   [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) - Instructions for developing the performance budget.
 
-## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### REST and API
 

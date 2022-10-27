@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -147,14 +147,24 @@
 
 *   [future-typing (⭐14)](https://github.com/PrettyWood/future-typing) - Backport for type hinting generics in standard collections and union types as `X | Y`.
 
-## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [@deliberative/crypto (⭐14)](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Difference Between TypeScript and JavaScript](https://www.scaler.com/topics/typescript-vs-javascript/)
+
+## [9. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [GPJax (⭐159)](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 *   [Jumanji (⭐161)](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -197,7 +207,7 @@
 
 *   [Fess](https://fess.codelibs.org/) - Fess is a very powerful and easily deployable Enterprise Search Server. ([Demo](https://search.n2sm.co.jp/), [Source Code (⭐668)](https://github.com/codelibs/fess)) `Apache-2.0` `Java/Docker`
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -206,19 +216,33 @@
     *   Electron app skeleton: [electron-sbcl-sqlite (⭐26)](https://github.com/mikelevins/electron-sbcl-sqlite/)
     *   NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process and to point the Electron window to the localhost URL. That's it.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [j-hui/fidget.nvim (⭐785)](https://github.com/j-hui/fidget.nvim) - Standalone UI for LSP progress.
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Notes and Tasks
+
+*   [AppFlowy](https://www.appflowy.io/) - Open Source Notion Alternative. You are in charge of your data and customizations.
+*   [Joplin (⭐33k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
+*   [Nextcloud Notes (⭐467)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
+    *   [Nextcloud Notes app (⭐745)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
+*   [Notally (⭐968)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
+*   [Quillnote](https://qosp.org/#/) - Take beautiful markdown notes and stay organized with task lists.
+*   [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
+*   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
+*   [YankNote (⭐4.1k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
+
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
 *   [Arcade Plaza (⭐25)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 

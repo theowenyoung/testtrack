@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2017
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,44 +18,62 @@
 
 *   [Seasocks (⭐609)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
-## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [YARA (⭐2.3k)](https://github.com/InQuest/awesome-yara)
+
+  Description: List of awesome YARA rules, tools, and people
+
+
+
+## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / CLI
 
 *   [help-version (⭐4)](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [Assemblyline](https://bitbucket.org/cse-assemblyline/assemblyline) - A scalable
     distributed file analysis framework.
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Third-party APIs
 
 *   [GDAX (⭐7)](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
 
-## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Tools
 
 *   [mqtt-forget (⭐10)](https://github.com/hobbyquaker/mqtt-forget) - Command line tool to remove retained MQTT topics by wildcard.
 
-## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Results Processing / Results Analysis
 
 *   [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [ionic (⭐48k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
+*   :octocat: [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - a tool for building modern Web Components
+*   :octocat: [wretch (⭐2.5k)](https://github.com/elbywan/wretch) - A tiny (< 2.2Kb g-zipped) wrapper built around fetch with an intuitive syntax.
+
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Project Management
 
 *   [Harvest](https://www.getharvest.com/) - Time tracking
 
-## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -63,26 +81,26 @@
 *   [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
 *   [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 
-## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Gank (⭐125)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
-## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / E-commerce
 
 *   [Brick\Money (⭐1.2k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 
-## [12. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [14. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
 *   [Test your elements](https://www.polymer-project.org/2.0/docs/tools/tests)
 *   [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 
-## [13. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [15. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Initiatives/Programs / Conferences/Talks
 

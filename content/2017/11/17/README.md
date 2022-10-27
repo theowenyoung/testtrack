@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 17, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,6 +102,18 @@
 ### Client Web App Frameworks
 
 *   [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
+
+## [12. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### React Native
+
+- Name: [Standard Notes (⭐848)](https://github.com/standardnotes/mobile)
+
+  Description: A simple and private notes app
+
+  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes)
+
+
 
 ---
 

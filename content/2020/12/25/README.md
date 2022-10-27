@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 25, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,13 +31,19 @@
 
 *   [Introduction to Storybook for Web Components](https://sinhapiyush.hashnode.dev/introduction-to-storybook-for-web-components)
 
-## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Notification
+
+*   [react-hot-toast (⭐6k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
+
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Lidar
 
 *   [LIO\_SAM (⭐2k)](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 
-## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Community
 

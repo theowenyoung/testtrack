@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2022
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,22 @@
 
 *   [Auditing Black-Box Prediction Models for Data Minimization Compliance](https://www.cs.bu.edu/faculty/crovella/paper-archive/minimization-audit-Neurips21.pdf) - (NeurIPS) *Measures the level of data minimization satisfied by the prediction model using a limited number of queries.*
 
-## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [reactjs-vite-tailwindcss-boilerplate (⭐138)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Audio
+
+*   [Spotube (⭐1.7k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spot\* (⭐1.6k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
+*   [psst\* (⭐7.1k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
+*   [ncspot\* (⭐3.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+
+## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Machine Learning
 
@@ -45,7 +60,7 @@
 *   [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 
-## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [8. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Multimedia
 
@@ -54,7 +69,7 @@
 *   [DDEX](https://ddex.net/standards/) - The industry standard for music metadata, including archiving, sound recording, sales and usage reporting, royalties and license deals.
 *   [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - Quality insurance guidelines to format music, art, and metadata to increase discoverability.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Completion / Diagnostics
 
@@ -64,7 +79,7 @@
 
 *   [CanKolay3499/CNvim (⭐15)](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
@@ -99,7 +114,7 @@
 
 *   [justforfunc](https://www.youtube.com/c/justforfunc) - Youtube channel dedicated to Go programming language tips and tricks, hosted by  Francesc Campoy [@francesc](https://twitter.com/francesc).
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Learning with Cognitive Plausibility / Visual Complexity
 

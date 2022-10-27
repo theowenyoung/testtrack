@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2019
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,7 +20,17 @@
 
 *   [Building Open Source Software that Empowers Native Communities](https://www.youtube.com/watch?v=AAdrbrYNnPw) - By Adam Recvlohe (@arecvlohe)
 
-## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Notification
+
+*   [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1\&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
+
+### Form Logic / Mouse Events
+
+*   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
+
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Community
 
@@ -37,7 +47,59 @@
 *   [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 *   [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
 
-## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Educational
+
+*   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
+*   [Classy Django Forms (⭐20)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
+
+### Resources / Community
+
+*   [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
+*   [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
+*   [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
+
+### Resources / Podcasts
+
+*   [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
+*   [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Dokku](http://dokku.viewdocs.io/dokku/)
+*   [Render](https://render.com/)
+
+### Hosting / IaaS (Infrastructure-as-a-Service)
+
+*   [Digital Ocean](https://www.digitalocean.com)
+*   [Linode](https://www.linode.com/)
+*   [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+
+### Projects / Boilerplate
+
+*   [cookiecutter-django (⭐9.8k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+*   [DRFx (⭐392)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [docker-django (⭐178)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
+*   [wemake-django-template (⭐1.6k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [django-webpack-starter (⭐55)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
+
+### Projects / Open Source Projects
+
+*   [Blog app with users and forms (⭐809)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
+*   [Behavior-Driven Development with Aloe (⭐27)](https://github.com/testdrivenio/django-aloe-bdd/)
+
+### Django REST Framework / DRF Resources
+
+*   [Official Documentation](https://www.django-rest-framework.org/)
+*   [awesome-django-rest-framework (⭐1k)](https://github.com/nioperas06/awesome-django-rest-framework)
+
+### Django REST Framework / DRF Tutorials
+
+*   [DRF with React](https://www.valentinog.com/blog/drf/)
+
+## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### CI / Tools & Plugins
 
@@ -55,7 +117,7 @@
 
 *   [Awesome Testing (⭐1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
-## [4. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
+## [6. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
 ### Written Tutorials / Other helpful Plugins
 
@@ -81,19 +143,19 @@
 *   [Gatsby WordPress Publisher Theme
     &#x20;(⭐32)](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
-## [5. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Portuguese / Swift
 
 *   [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [ Personal Website that use Vue, Vuex and Vue-Router  (⭐1)](https://github.com/snturk/snturk.github.io) - A simple website example that made with vue, vuex and vue-router by [Muratcan Şentürk](https://github.com/snturk)
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -103,7 +165,7 @@
 
 *   [996.ICU (⭐264k)](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Code and Run
 
@@ -113,7 +175,7 @@
 
 *   [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
 
-## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Chat & Messaging / ORM
 
@@ -124,7 +186,7 @@
 *   [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
 *   [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
 
-## [10. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Water
 
@@ -138,14 +200,14 @@
 
     Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
 
-## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Gists
 
 *   [Forwarding Named Blocks in Glimmer](https://gist.github.com/tomdale/bedb77662b19529f59154ec55e2f4a21)
 *   [Multi Named Blocks](https://gist.github.com/pzuraq/0c16d7baef7237b62dfd7529d1969344)
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [14. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -155,7 +217,7 @@
 
 *   [GitHub Action for Homebrew Tap (⭐10)](https://github.com/izumin5210/action-homebrew-tap)
 
-## [13. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [15. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -186,7 +248,7 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [SteamPress (⭐355)](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14 - Nov 20, 2016
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -468,13 +468,25 @@
 
 *   [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](http://quassel-irc.org/) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### ReactJS
+
+- Name: [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro)
+
+  Description: One-input productivity booster
+
+  Link: <http://www.cerebroapp.com>
+
+
+
+## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
-## [36. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
@@ -485,19 +497,19 @@
 
 *   [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 
-## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [38. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
-## [38. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [39. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   \[Inspect iOS app's with Appium 1.6] (<https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo>) - The options of inspecting iOS 10 app with Appium 1.6
 
-## [39. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [40. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Documents and Shellcode / Other Resources
 
@@ -510,13 +522,13 @@
     framework with extensive plugin support, from input to output, and everything
     in between.
 
-## [40. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -532,19 +544,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [45. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -269,6 +269,60 @@
 *   :newspaper: [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) (March 2007)
 *   :notebook: [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) (August 2017)  :star:
 *   :newspaper: [WYSINWYX: What you see is not what you execute](https://doi.org/10.1145/1749608.1749612) (August 2010)
+
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Translation and Speech-to-Text
+
+*   Google Translate [![](https://shields.tosdr.org/en_217.svg)](https://tosdr.org/en/service/217)
+*   Bing Translator [![](https://shields.tosdr.org/en_244.svg)](https://tosdr.org/en/service/244)
+
+### Dating Apps
+
+*   [![](https://shields.tosdr.org/en_462.svg)](https://tosdr.org/en/service/462)
+
+### Instant Messaging
+
+*   WhatsApp | [![](https://shields.tosdr.org/en_198.svg)](https://tosdr.org/en/service/198)
+*   Instagram DM | [![](https://shields.tosdr.org/en_219.svg)](https://tosdr.org/en/service/219)
+*   Facebook Messenger | [![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182)
+*   Zoom | [![](https://shields.tosdr.org/en_2198.svg)](https://tosdr.org/en/service/2198)
+
+### Password Managers
+
+*   1Password
+
+### Payments
+
+*   [![](https://shields.tosdr.org/en_230.svg)](https://tosdr.org/en/service/230)
+
+### Video Editing / Alternative clients/modifications of Discord:
+
+*   [![](https://shields.tosdr.org/en_417.svg)](https://tosdr.org/en/service/417)
+
+### Search Engines
+
+*   [![](https://shields.tosdr.org/en_309.svg)](https://tosdr.org/en/service/309)
+*   [![](https://shields.tosdr.org/en_860.svg)](https://tosdr.org/en/service/860)
+*   [![](https://shields.tosdr.org/en_591.svg)](https://tosdr.org/en/service/591)
+*   [Brave Search](https://search.brave.com) - A privacy respecting search engine with its own index, which for the most part doesn't rely on search engines like Google or Bing, but [falls back on them if not enough results are found](https://search.brave.com/help/independence).
+
+### LBRY and Odysee
+
+*   [Librarian](https://codeberg.org/librarian/librarian) - An alternative frontend for LBRY/Odysee. Inspired by Invidious and Libreddit.
+
+### YouTube
+
+*   [Yattee (⭐824)](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
+
+### Reddit
+
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐422)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
+
+### Teamworking Tools
+
+*   [![](https://shields.tosdr.org/en_206.svg)](https://tosdr.org/en/service/206)
+*   [![](https://shields.tosdr.org/en_536.svg)](https://tosdr.org/en/service/536)
 
 ---
 

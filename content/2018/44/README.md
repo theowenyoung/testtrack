@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 29 - Nov 04, 2018
 
-79 awesome lists updated this week.
+81 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -950,7 +950,108 @@
 
 *   **[Contributors (⭐126k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
-## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Privacy
+
+*   [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
+
+### Domain Names
+
+*   [xip.io](http://xip.io/) magic domain name that provides wildcard DNS
+    for any IP address.
+*   [Domainr](https://domainr.com/) Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.
+
+### Torrenting
+
+*   [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [MediaServer-DockerComposeFiles (⭐114)](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps \[Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
+
+### Usenet / Seedbox Setup Tools and Guides
+
+*   [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
+
+### Usenet Indexers / Seedbox Setup Tools and Guides
+
+*   [/r/Usenet wiki: indexers](https://www.reddit.com/r/Usenet/wiki/indexers) Information about /r/Usenet's favourite indexing services
+
+### Usenet Indexers / Usenet Indexing Software
+
+*   [nZEDb (⭐590)](https://github.com/nZEDb/nZEDb) a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
+*   [newznab-tmux (⭐159)](https://github.com/NNTmux/newznab-tmux) Laravel based usenet indexer
+*   [newznab](http://www.newznab.com/) newznab is a usenet indexing application, that makes building a usenet community easy.
+
+### Usenet Clients / Free Indexers
+
+*   [Unison](https://panic.com/blog/the-future-of-unison/) OS X app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued)
+*   [Newsbin](http://newsbin.com/about.php) Newsbin is software for Microsoft Windows Operating Systems that downloads files from Usenet Newsgroups.
+
+### DDL Tools / Free Indexers
+
+*   [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
+*   [axel (⭐2.3k)](https://github.com/axel-download-accelerator/axel) light command line download accelerator
+*   [uGet](https://ugetdm.com/) Open Source Download Manager
+
+### Custom Google Search Engines / Free Indexers
+
+*   [Musgle](http://www.musgle.com/) Searches specifically for music
+*   [Jimmyr](http://www.jimmyr.com/mp3_search.php) Also searches for music
+
+### DDL Search Engines and Crawlers / Free Indexers
+
+*   [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
+
+### DDL Link Sites / Free Indexers
+
+*   [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
+
+### Open Directories / Free Indexers
+
+*   [opendirectories-bot (⭐31)](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
+
+### Spotify / Third Party Hosts
+
+*   [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
+
+### Automation / Third Party Hosts
+
+*   [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
+
+### Subtitles Automation / Third Party Hosts
+
+*   [Bazarr (⭐1.8k)](https://github.com/morpheus65535/bazarr) Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+*   [autosub (⭐3.8k)](https://github.com/agermanidis/autosub) Command-line utility for auto-generating subtitles for any video file using speech recognition
+
+### Mobile Apps / Third Party Hosts
+
+*   [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
+
+### DC++ / Third Party Hosts
+
+*   [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
+
+### Content Discovery / Third Party Hosts
+
+*   [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
+
+### File Sharing Tools / Third Party Hosts
+
+*   [DBREE](https://dbr.ee/) DBREE is a simplistic and easy way to upload and share any type of file.
+
+### Stream Synchronisation / Third Party Hosts
+
+*   [ArconaiTV](https://www.arconaitv.us/) Another stream sharing platform with a nice UI
+
+### Miscellaneous / Third Party Hosts
+
+*   [/r/EmbyShares](https://www.reddit.com/r/EmbyShares) This subreddit is dedicated to the sharing of Emby servers.
+*   [/r/freefolk](https://www.reddit.com/r/freefolk) Streams for new episodes of Game of Thrones
+*   [Shodan](https://www.shodan.io/) Shodan is the world's first search engine for Internet-connected devices.
+
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -983,7 +1084,7 @@
 
 *   [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
 
-## [30. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [31. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Economics on GitHub / Economists
 
@@ -1001,26 +1102,26 @@
 *   [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 *   [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 
-## [31. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [32. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Books
 
 *   [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
 
-## [32. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [33. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Web Frameworks
 
 *   [uvicorn (⭐5.8k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
-## [33. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [34. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Documentation
 
 *   [Overview (⭐2.9k)](https://github.com/tc39/proposal-observable)
 *   [Specification](https://tc39.github.io/proposal-observable/)
 
-## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Matlab / General-Purpose Machine Learning
 
@@ -1030,7 +1131,7 @@
 
 *   [DVC (⭐11k)](https://github.com/iterative/dvc) - Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
-## [35. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [36. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Network Inspection
 
@@ -1064,67 +1165,86 @@
 
 *   [Augury](https://augury.angular.io) - Debugging and Profiling for Angular 2 applications.
 
-## [36. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
+## [37. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
+
+*   [Windows Store Link](https://www.microsoft.com/store/productId/9PMW35D7FNLX) for SUSE Enterprise Linux 15.
+
+### Supported Distributions / Kali Linux
+
+*   Because Kali is based on Debian, most Debian and Ubuntu documentation also applies to Kali.
+
+### WSL Tools / X Servers
+
+*   [VcXsrv](https://sourceforge.net/projects/vcxsrv/) - X server for Windows with hardware acceleration compiled with Visual Studio.
+*   [Cygwin/X](https://x.cygwin.com) - Cygwin/X is a port of the X Window System to the Cygwin API layer for Windows.
+
+### More Awesome / Miscellaneous Tools
+
+*   [Awesome UNIX (⭐1.2k)](https://github.com/sirredbeard/Awesome-UNIX)
+
+## [38. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
 ### Principles within bigger Design Systems
 
 *   [IBM Carbon Design Principles](https://www.carbondesignsystem.com/guidelines/accessibility/overview)
 
-## [37. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [39. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### [CodeKata](http://codekata.com/)
 
 *   [Kata14: Tom Swift Under the Milkwood](http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/)
 
-## [38. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [40. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### R tools / Misc
 
 *   [visNetwork](https://datastorm-open.github.io/visNetwork/) - Interactive network visualisations
 
-## [39. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [41. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Academic Papers
 
 *   [Work Practices and Challenges in Pull-Based Development (Gousios et al. 2015)](https://sback.it/publications/icse2016b.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/)) Field study of how GitHub pull requests are used in the wild.
 
-## [40. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Books
 
 *   [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 
-## [41. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [43. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
 
-## [42. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [44. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Data Stores
 
 *   [dropwizard-atomix (⭐1)](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/)
 
-## [43. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [45. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Related Projects / Themes
 
 *   [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation.
 
-## [44. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [46. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Libraries and Tools
 
 *   [sw-offline-google-analytics](https://developers.google.com/web/updates/2016/07/offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
 
-## [45. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [47. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [jWYSIWYG](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin
 
-## [46. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [48. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### DojoToolkit.org resources and documentation
 
@@ -1134,13 +1254,13 @@
 
 *   [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit (invitation-only).
 
-## [47. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [49. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Kubernetes
 
 *   [kubernetes/examples (⭐5.2k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 
-## [48. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [50. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Frameworks / UI Frameworks
 
@@ -1154,13 +1274,13 @@
 
 *   [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([github (⭐32)](https://github.com/riadvice/alivepdf)).
 
-## [49. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [51. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### IDEs, Editors, and Plugins
 
 *   [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 
-## [50. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [52. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / R
 
@@ -1183,7 +1303,7 @@
 
 *   [Awesome Public Datasets - Neuroscience (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 
-## [51. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [53. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
@@ -1197,7 +1317,7 @@
 
 *   [UBOSbox Nextcloud](https://indiecomputing.com/products/) is a ready-to-use home server appliance that does a lot of what Dropbox and Google Calendar do, but locally on hardware controlled by the user. It enables multi-user, multi-device file sharing, group calendaring, contact management, and includes a web mail client, an RSS/news reader, a note-taking app, text and video calls, and task management, provided by the FLOSS web application platform [Nextcloud](https://nextcloud.com/) and a number of Nextcloud apps. It is designed to be used as a home server without attached keyboard or monitor.
 
-## [52. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [54. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Proxy services
 
@@ -1210,13 +1330,13 @@
 *   [Creating Development Environments with Vagrant](http://shop.oreilly.com/product/9781849519182.do) / [2nd Edition](http://shop.oreilly.com/product/9781784397029.do) by Michael Peacock
 *   [Vagrant Virtual Development Environment Cookbook](http://shop.oreilly.com/product/9781784393748.do) by Chad Thompson
 
-## [53. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [55. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
 *   [Laravel MySQL Spatial extension (⭐734)](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
 
-## [54. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Wrappers
 
@@ -1273,7 +1393,7 @@
     unicode character). See also the signs' explanation in the
     introduction.
 
-## [55. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [57. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Other
 
@@ -1287,19 +1407,19 @@
 
 *   [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
 
-## [56. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [58. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Organizations
 
 *   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
-## [57. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [59. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Haskell / More
 
 *   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server (⭐2.4k)](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
-## [58. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [60. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -1337,7 +1457,7 @@ Wifi pw: `ilovenicolau`
 | ---- | ----- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 | ask  | ✔     | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 |
 
-## [59. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [61. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / USENIX Security
 
@@ -1363,7 +1483,7 @@ Wifi pw: `ilovenicolau`
 
 *   [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016](https://www.cs.vu.nl/\~herbertb/download/papers/ifuzzer-esorics16.pdf)
 
-## [60. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [62. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -1438,13 +1558,13 @@ Wifi pw: `ilovenicolau`
 
 *   [11 Essential Linux Interview Questions from Toptal](http://www.toptal.com/linux/interview-questions)
 
-## [61. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
 *   [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
 
-## [62. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [64. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -1458,7 +1578,7 @@ Wifi pw: `ilovenicolau`
 
 *   [spulec/moto :fire::fire::fire::fire::fire: (⭐6.2k)](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
 
-## [63. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [65. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
@@ -1468,7 +1588,7 @@ Wifi pw: `ilovenicolau`
 
 *   [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code (⭐323)](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`
 
-## [64. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [66. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Official
 
@@ -1484,7 +1604,7 @@ Wifi pw: `ilovenicolau`
 
 *   [CMSImport\*](https://soetemansoftware.nl/cmsimport) - import content or members from any datasource into Umbraco.
 
-## [65. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [67. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -1598,13 +1718,13 @@ Wifi pw: `ilovenicolau`
 *   [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 *   [RadioPublic](https://radiopublic.com/)
 
-## [66. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [68. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/) – Step by step explanation of how to compose functions in javascript.
 
-## [67. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [69. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
@@ -1614,14 +1734,14 @@ Wifi pw: `ilovenicolau`
 
 *   [TeximpNet](https://bitbucket.org/Starnick/teximpnet) - A cross-platform .NET Standard library for reading/manipulating/writing image files. The primary focus is to create 2D/3D/Cubemap textures for graphics/game applications, notably to convert images to GPU compressed formats and generate mipmaps.  The library wraps the FreeImage native library to import/export over 30 common image formats, and wraps the Nvidia Texture Tools native library for GPU compression features. It also has a fully featured DDS format importer/exporter written in C#.
 
-## [68. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [70. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Bug bounty -  Earn Some Money / Other
 
 *   [Bugcrowd](https://www.bugcrowd.com/)
 *   [Hackerone](https://www.hackerone.com/start-hacking)
 
-## [69. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [71. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -1631,7 +1751,7 @@ Wifi pw: `ilovenicolau`
 
 *   [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter
 
-## [70. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [72. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -1640,7 +1760,7 @@ Wifi pw: `ilovenicolau`
     ByteHacks is a 24-hour hackathon on September 1st and 2nd at Thoughtworks NYC that encourages women of all ages and skillsets to form teams and create tech projects that have positive social impact.
     The hackathon will have workshops, tech talks, mentors, sponsors, and free food. Whether you are a designer, entrepreneur, artist, or coder, ByteHacks welcomes you. We even have a keynote from Limor Fried, founder and CEO of Adafruit.
 
-## [71. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [73. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Service Programming
 
@@ -1654,7 +1774,7 @@ Wifi pw: `ilovenicolau`
 
 *   [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 
-## [72. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [74. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
@@ -1690,13 +1810,13 @@ Wifi pw: `ilovenicolau`
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. \[Apache-2.0/MIT]
 *   [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua. \[Apache]
 
-## [73. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [75. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Security
 
 *   [Cryoprison (⭐18)](https://github.com/padresmurfa/cryoprison) - Jailbreak/Root detection for Xamarin
 
-## [74. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [76. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Math & Computer Science
 
@@ -1706,7 +1826,7 @@ Wifi pw: `ilovenicolau`
 
 *   [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
 
-## [75. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [77. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Unofficial
 
@@ -1716,19 +1836,19 @@ Wifi pw: `ilovenicolau`
 
 *   [ast\_helper (⭐26)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
 
-## [76. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [78. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Free eBooks / Single Topics
 
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
 
-## [77. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [79. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [Interview with Betsy Beyer, Stephen Thorne of Google](https://driftboatdave.com/2018/10/09/interview-with-betsy-beyer-stephen-thorne-of-google/)
 
-## [78. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [80. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Upload
 
@@ -1754,7 +1874,7 @@ Wifi pw: `ilovenicolau`
 
 *   [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) - Written by [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
 
-## [79. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [81. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Articles and standards
 

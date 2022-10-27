@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,13 @@
 
 *   [ex\_uc (⭐19)](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Styleguide and Branding
+
+*   [BBC](http://www.bbc.co.uk/gel)
+
+## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Viana do Castelo
 
@@ -66,7 +72,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ![](http://www.speedtest.net/result/5644569150.png)
 
-## [5. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
@@ -115,13 +121,13 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Wagtail Cookiecutter Foundation (⭐162)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Middlewares
 
 *   [Relay (⭐297)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
@@ -139,7 +145,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [react-aspnet-boilerplate (⭐284)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Web Frameworks
 

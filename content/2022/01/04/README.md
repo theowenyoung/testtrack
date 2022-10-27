@@ -1,24 +1,36 @@
 # Awesome List Updates on Jan 04, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### File Management and Sharing
+
+*   [Magic Wormhole (⭐15k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
+
+## [2. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
 ### Conversational UX
 
 *   [Conversation Design Institute](https://www.conversationdesigninstitute.com/) - An institute, first of its kind (as far as I know), offering courses, certifications, and an annual conference on Conversational Design.
 
-## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Remote / Aggregator
 
 *   [TheRemoteWork](https://theremotework.co/)
 
-## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Responsive / Syntax Highlight
+
+*   [CoreUI for React (⭐493)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+
+## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Blockchain Explorers
 
@@ -67,19 +79,19 @@
 *   [algorealm (⭐16)](https://github.com/cusma/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
 *   [minter (⭐8)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 
-## [4. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Helpers
 
 *   [hump (⭐49)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
-## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Really Simple Forms
 
 *   [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 
-## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Art
 
@@ -89,13 +101,13 @@
 
 *   [Third Axis](https://thirdaxis.io/) - A design studio based in NYC that creates 3D, AR, and VR content on the web.
 
-## [7. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Secrets Management / Ansible
 
 *   [Keyscope (⭐356)](https://github.com/SpectralOps/keyscope) - *Spectral* - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
@@ -105,7 +117,7 @@
 
 *   [tmux-mouse-swipe (⭐4)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
@@ -121,7 +133,7 @@
 
 
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 

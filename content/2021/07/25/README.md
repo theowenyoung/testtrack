@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,13 @@
 
 *   [Google Assistant (Unofficial Desktop Client) (⭐3.1k)](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform desktop client for Google Assistant based on Google Assistant SDK. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [@nabla/vite-plugin-eslint (⭐58)](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -247,7 +253,7 @@
 *   [RustBooks (⭐2k)](https://github.com/sger/RustBooks) — list of RustBooks
 *   [RustCamp 2015 Talks](https://www.youtube.com/playlist?list=PLE7tQUdRKcybdIw61JpCoo89i4pWU5f_t)
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -302,7 +308,7 @@
 
 
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Admin Panels
 
@@ -313,7 +319,7 @@
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
 *   [Cartopy (⭐1.1k)](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -367,7 +373,7 @@
 *   [MQTT](https://mqtt.org/mqtt-specification/) - The Message Queuing Telemetry Transport (MQTT) is a lightweight, publish-subscribe network protocol that transports messages between devices.
 *   [SOAP](https://www.w3.org/TR/soap/) - Simple Object Access Protocol is XML-based messaging protocol.
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Hellonext
 

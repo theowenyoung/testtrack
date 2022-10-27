@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2020
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [vue-tut (⭐44)](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
 
-## [2. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Official Resources
+
+*   [GitHub Repo (⭐49k)](https://github.com/vitejs/vite)
+
+## [3. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### Libraries
 
 *   [Livewire Datatables (⭐988)](https://github.com/mediconesystems/livewire-datatables) - Package to create tables with sorting, filtering, searching, exporting etc.
 
-## [3. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [4. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Functions as a Service
 
@@ -39,13 +45,13 @@
 *   [fuzzy (⭐802)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [hcledit (⭐264)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
-## [5. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [6. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 

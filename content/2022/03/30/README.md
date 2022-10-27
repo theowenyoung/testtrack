@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 30, 2022
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -301,13 +301,19 @@
 
 *   [uspin (⭐6)](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 
-## [16. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-import-rewriter (⭐3)](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
+
+## [17. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Tutorials
 
 *   [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
 
-## [17. Awesome Go](/content/avelino/awesome-go/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 

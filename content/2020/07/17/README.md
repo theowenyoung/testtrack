@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,13 +35,19 @@
 
 *   [CML (⭐3.5k)](https://github.com/iterative/cml) - A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [5. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+
+### Tools / Debugging
+
+*   [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
+
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Java VM / Java
 
 *   [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Science & Math
 
@@ -57,38 +63,38 @@
 
 
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [linux-packaging](https://gitlab.com/ralt/linux-packaging) - build .deb, .rpm or .pkg packages for your application with a single ASDF declaration. Uses fpm under the hood. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-brewer (⭐10)](https://github.com/can3p/cl-brewer) - Homebrew formula builder for (command line) common lisp applications. Public domain.
 
-## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Chinese
 
 *   [Deno 中文开发者社区](https://deno.js.cn)
 
-## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 
 *   [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state.
 
-## [10. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [11. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Podcasts
 
 *   [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Games
 
 *   [ZXSpectrum (⭐47)](https://github.com/EngstromJimmy/ZXSpectrum) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/ZXSpectrum?style=flat-square\&cacheSeconds=86400) ZX Spectrum emulator running on Blazor WebAssembly. [Demo](https://zxspectrum.azurewebsites.net/).
 
-## [12. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Browsers:
 

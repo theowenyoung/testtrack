@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,7 +90,13 @@
 
 *   [smartcorelib/smartcore (⭐351)](https://github.com/smartcorelib/smartcore) — Machine Learning Library In Rust [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [@zougt/vite-plugin-theme-preprocessor (⭐120)](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
+
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 

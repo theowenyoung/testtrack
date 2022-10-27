@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,7 +55,13 @@
 
 *   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### i18n / Mouse Events
+
+*   [react-localized (⭐4)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
+
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 

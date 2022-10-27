@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,13 +68,19 @@
 
 
 
-## [9. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-material-admin (⭐274)](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
+
+## [10. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [λληνικά (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
 
-## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [11. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Forms
 

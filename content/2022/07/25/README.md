@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2022
 
-20 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1356,19 +1356,50 @@
 
 *   [Quantum Computing in Portuguese (⭐47)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Shopify / Community
+
+*   [vite-plugin-shopify (⭐41)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+
+## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [React Admin](https://www.wrappixel.com/templates/category/react-templates/)
+
+  Description: Download Free React Templates by WrapPixel
+
+  Link: <https://www.wrappixel.com/>
+
+
+- Name: [PopCritic (⭐73)](https://github.com/theabbie/PopCritic)
+
+  Description: Movies Reviewed by people, for people.
+
+  Link: <https://popcritic.web.app/>
+
+  : 
+
+  : 
+
+  : 
+
+
+
+## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Anti-Virus / Anti-Malware
 
 *   [ClamAv](http://www.clamav.net/) - ClamAV® is an open-source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### GUI
 
 *   [AppIndicator Go (⭐3)](https://github.com/gopherlibs/appindicator) - Go bindings for libappindicator3 C library.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / E-commerce
 
@@ -1398,49 +1429,56 @@
 
 *   [Party Poker (⭐4)](https://github.com/kksoftwareag/partypoker) - Agile / Scrum Planning Poker WebApp. Estimate User Stories in real time. ([Demo](https://planningpoker.party)) `MIT` `C#`
 
-## [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [10. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### [Expanse](https://www.goodreads.com/series/56399-expanse)   (2011-2021)   *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)*   \[4.17 (avg)] / [Dawn](https://www.goodreads.com/book/show/36694961-dawn)   (1987) [4.1]
 
 *   [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) \[4.5]
 
-## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Hooks
 
 *   [Bounce (⭐61)](https://github.com/bounce-rs/bounce) - The uncomplicated state management library for Yew, inspired by [Redux (⭐59k)](https://github.com/reduxjs/redux) and [Recoil (⭐18k)](https://github.com/facebookexperimental/Recoil).
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [MehdiK/Humanizer.jvm (⭐162)](https://github.com/MehdiK/Humanizer.jvm) - Humanizer.jvm meets all your jvm needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Password Management
 
 *   [Swifty](https://getswifty.pro/) - Free Offline-first Password Manager for MacOS, Windows and Linux. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/swiftyapp/swifty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Functional Programming / Runner
 
 *   [wild-wild-path (⭐512)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 
-## [13. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Math / Other / unknown licence
 
 *   [geo-energy-math (⭐4)](https://github.com/pukpr/GeoEnergyMath) - Software libraries for solving models described in Mathematical GeoEnergy (Wiley, 2018)
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [16. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   💼 [Impulse.dev](https://impulse.dev) – UI editor for Tailwind CSS and React that edits your code.
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Toggle
+
+*   [react-triple-toggle (⭐6)](https://github.com/geobde/react-triple-toggle) - React multi toggle component.
+*   [ui-switch (⭐1)](https://github.com/yairEO/ui-switch) - The most complete *Toggle* component
+
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5) / LSP Installer
 
@@ -1450,27 +1488,27 @@
 
 *   [Everblush/everblush.nvim (⭐105)](https://github.com/Everblush/everblush.nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
 
-## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [19. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Monitoring
 
 *   [Barklarm](https://www.barklarm.com/)  Open Source multiplatform alarm munitor and build status of servers that support of CCTray Specification and Github Actions.
 *   [CCMenu](http://ccmenu.org/)  OSx build status monitor for servers tha support CCTray Specification.
 
-## [17. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [20. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [rubygems.org (⭐2.1k)](https://github.com/rubygems/rubygems.org) - A gem hosting platform (using Rails 7.0). - [:earth\_africa:](https://rubygems.org)
 
-## [18. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [21. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Cloud APIs
 
 *   [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
 *   [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -1480,7 +1518,7 @@
 
 *   [memfault.com](https://memfault.com) — Cloud platform for device observability and debugging. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Enterprise Usage
 

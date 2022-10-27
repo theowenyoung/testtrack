@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2022
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,19 @@
 
 *   [gotestfmt (⭐327)](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [tailwindcss-vite-plugin (⭐9)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### P2P
+
+*   [Berty](https://berty.tech/) - The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
+
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Algorithms & Data Structures
 

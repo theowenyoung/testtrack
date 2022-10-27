@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,13 @@
 
 *   [yew-style-in-rs (⭐18)](https://github.com/MatchaChoco010/yew-style-in-rs) - Scoped CSS in Rust for Yew.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-tailwind3-website-starter](https://github.com/feitian124/vue3-tailwind3-website-starter.git) - Vue3 / Vite / TailwindCSS website starter template, with guides on each page.
+
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Machine Learning
 

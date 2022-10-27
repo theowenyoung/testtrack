@@ -1,18 +1,24 @@
 # Awesome List Updates on Jan 16, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Domain and IP Research / Telegram
+
+*   [Squatm3gator (⭐22)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+
+## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [Automating Mac Apps with Appium](https://appiumpro.com/editions/52)
 
-## [2. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -79,7 +85,7 @@
 *   [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 *   [The Debug Log](https://www.patreon.com/thedebuglog) - Game development.
 
-## [3. Awesome Linux](/content/inputsh/awesome-linux/README.md)
+## [4. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
 ### X Desktop Environments / Other Desktop Environments
 
@@ -104,31 +110,31 @@
 *   [tig (⭐11k)](https://github.com/jonas/tig) - Text-mode interface for git. It functions mainly as a Git repository browser.
 *   [vtop (⭐4k)](https://github.com/MrRio/vtop) - Easily-extendable activity monitor.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [libusb](https://libusb.info/) - A universal USB library which allows for portable access to USB devices. \[LGPL2]
 
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Collaboration/Education
 
 *   [IPythonBlocks (⭐154)](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
 
-## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Kotlin / Custom Dialog
 
 *   [Kotlin coding puzzles (⭐716)](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
 
-## [7. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [slack-emoji-pokemon (⭐364)](https://github.com/Templarian/slack-emoji-pokemon) - A list of Pokémon emojis for Slack.
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Communication
 

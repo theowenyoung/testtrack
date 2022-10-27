@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2018
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,13 +57,26 @@
 *   [Amstelvar (⭐307)](https://github.com/TypeNetwork/Amstelvar) - A parametric variable font
 *   [Inter (⭐15k)](https://github.com/rsms/inter) - A typeface specially designed for user interfaces
 
-## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [Cycle.js (⭐10k)](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
+*   :octocat: [xstream (⭐2.3k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+*   :octocat: [TypeMoq (⭐421)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+*   :octocat: [InversifyJS (⭐9.4k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+
+## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Example Apps
 
 *   [Golazon (⭐33)](https://github.com/sobstel/golazon) - Football data mnmlist way.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTML
 
@@ -77,31 +90,31 @@
 
 *   [exoml (⭐7)](https://github.com/Overbryd/exoml) - A module to decode/encode xml into a tree structure.
 
-## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [7. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Usage in Production
 
 *   [Wagtail](https://wagtail.io/)
 
-## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [8. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Free Multimedia / HTML+CSS+JS
 
 *   [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
 
-## [8. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [9. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### editor plugins
 
 *   Sublime Text: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
 
-## [9. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [10. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Tutorials
 
 *   [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner\&utm_medium=feed\&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
 
-## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [11. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Base Shells
 
@@ -163,13 +176,13 @@
 
 *   [bash-guide (⭐11k)](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 
-## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [12. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Programmer's Oath (⭐709)](https://github.com/Widdershin/programmers-oath) - An ethics oath for programmers, comparable to the Hippocratic Oath.
 
-## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 
@@ -209,13 +222,13 @@
 *   [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
 *   [Fashion-MNIST (⭐10k)](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
 *   [xgboost-node (⭐30)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
-## [14. Awesome C](/content/inputsh/awesome-c/README.md)
+## [15. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Deep Learning
 
@@ -293,7 +306,7 @@
 *   [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 *   [Expert C Programming: Deep C Secrets](https://dl.acm.org/citation.cfm?id=179241) - Interesting, in-depth and *entertaining* look at the innards of C.
 
-## [15. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [16. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Search
 

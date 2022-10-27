@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21 - Feb 27, 2022
 
-52 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,13 +23,19 @@
 *   [DataBlogs](https://www.datablogs.co/) - DataBlogs is an open-source data journalism platform that converts Jupyter notebooks into published articles on the web.
 *   [DataCamp Workspace](https://www.datacamp.com/workspace) - Jupyter-backed data science notebooks with built-in collaboration and publishing functionality.
 
-## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Other Tools / Telegram
+
+*   [DuckDuckGo URL scraper (⭐11)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+
+## [4. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
 *   [Slim (⭐10)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -53,7 +59,7 @@
 
 *   [electron-vite-template (⭐207)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [6. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -64,13 +70,13 @@
 *   [Dioxus (⭐5k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 *   [Sycamore (⭐1.4k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
-## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Security monitoring / Firewall appliances or distributions
 
 *   [Starbase (⭐231)](https://github.com/JupiterOne/starbase) - Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.
 
-## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Admin
 
@@ -99,13 +105,13 @@
 
 *   [FastAPI Websocket Broadcast (⭐106)](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket 'broadcast' demo.
 
-## [8. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [9. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Pyxel (⭐11k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Modbus
 
@@ -127,19 +133,19 @@
 
 *   [micropython-winbond (⭐0)](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
-## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [ziggy42/kolor (⭐69)](https://github.com/ziggy42/kolor) - A library to print colored strings, with Kotlin.
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [AgnosticUI (⭐515)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
-## [12. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [13. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Introductions
 
@@ -150,7 +156,13 @@
 *   [comtrya (⭐249)](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
     BSD, macOS, and Windows
 
-## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [Icons8 Line Awesome (⭐1.1k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+
+## [15. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Getting Help: Questions, Answers, Chats / Some communities to know about!
 
@@ -181,19 +193,19 @@
 
 *   **2022:** [*Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://github.com/rasbt/machine-learning-book)
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-window-name (⭐72)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Product Configurators
 
 *   [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 
-## [16. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
+## [18. Awesome Esports](/content/Strift/awesome-esports/week/README.md)
 
 ### Libraries / APIs & Web Services
 
@@ -201,7 +213,7 @@
     *   [Node.js (⭐59)](https://github.com/DoctorMcKay/node-steamid)
     *   [PHP (⭐6)](https://github.com/DoctorMcKay/php-steamid)
 
-## [17. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [19. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Blockchain
 
@@ -212,13 +224,13 @@
 
 *   [Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/) - Karl-Dieter Crisman (HTML, PDF)
 
-## [18. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [20. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Annotated Text Data
 
 *   [CRAFT (⭐58)](https://github.com/UCDenver-ccp/CRAFT) - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53) - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.
 
-## [19. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [21. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Career / Promotion
 
@@ -228,37 +240,37 @@
 
 *   “The president of MIT told me that tenure was not about research, productivity, or merit. It was about office politics & being liked by your department.” ([source](https://threadreaderapp.com/thread/1494369809538195456.html)) - Contemplating to switch from the industry? The grass is not greener in academia. Given a significant size, any organization comes with its political game.
 
-## [20. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [22. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Mastering Functional Programming](https://www.perlego.com/book/800653/mastering-functional-programming-functional-techniques-for-sequential-and-parallel-programming-with-scala-pdf) - If you are from an imperative and OOP background, this book will guide you through the world of functional programming, irrespective of which programming language you use.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [23. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Technology in General / Angular
 
 *   [Unzip.dev](https://unzip.dev/). Developer trends newsletter, unpacking one trend at a time.
 
-## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [24. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Data Mapping Solution
 
 *   [Altova MapForce](https://www.altova.com/mapforce) - A graphical data mapping tool for any-to-any conversion and integration.
 
-## [23. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Keploy (⭐1.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
 
-## [24. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [26. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Rights of the data subject (art. 12 - 23)
 
 *   [Open source privacy notice template (Juro) (⭐158)](https://github.com/juro-privacy/free-privacy-notice)
 
-## [25. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [27. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Community
 
@@ -280,7 +292,7 @@
 
 *   [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 
-## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [28. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 
@@ -292,7 +304,13 @@
 
 *   [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
 
-## [27. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [29. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Resources / Books
+
+*   [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
+
+## [30. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -304,13 +322,28 @@
 *   [Creating Fast APIs In Go Using Fiber](https://dev.to/jozsefsallai/creating-fast-apis-in-go-using-fiber-59m9)
 *   [Welcome to Fiber — an Express.js styled web framework written in Go with ❤️](https://dev.to/koddr/welcome-to-fiber-an-express-js-styled-fastest-web-framework-written-with-on-golang-497)
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [Fig](https://fig.io) - Fig adds autocomplete to your terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/withfig/autocomplete)
 
-## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [32. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Audio
+
+*   [Beatbump (⭐448)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
+
+### Decentralized
+
+*   [SimpleX Chat](https://simplex.chat/) - The first chat platform that is 100% private by design - it has no access to your connection graph
+
+### Twitter
+
+*   [Nitter (⭐5.9k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+    *   [Fritter (⭐864)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
+
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
@@ -323,7 +356,7 @@
 *   [Awesome Analytics (⭐3.4k)](https://github.com/0xnr/awesome-analytics)
 *   [Awesome Sysadmin (⭐15k)](https://github.com/awesome-foss/awesome-sysadmin)
 
-## [30. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -333,7 +366,31 @@
 
 *   [Awesome JSON Schema (⭐40)](https://github.com/jviotti/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
-## [31. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [35. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / YouTube
+
+*   [yattee (⭐824)](https://github.com/yattee/yattee): Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped, supports sponsorblock
+*   [ytcast (⭐661)](https://github.com/MarcoLucidi01/ytcast): Cast YouTube videos to your smart TV from the command line. This program does roughly the same thing as the "Play on TV" button that appears on the player bar when you visit youtube.com with Chrome or when you use the YouTube smartphone app
+
+### Overview / YouTube Music
+
+*   [ytmdesktop (⭐2.5k)](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
+*   [AudioTube](https://invent.kde.org/plasma-mobile/audiotube): Client for YouTube Music. Plasma-mobile project with an interface designed for Linux phones
+
+### Overview / Twitter
+
+*   [Fritter (⭐864)](https://github.com/jonjomckay/fritter): A free, open-source Twitter client for Android
+
+### Overview / Imgur
+
+*   [Rimgu](https://codeberg.org/3np/rimgu): Self-hosted alternative frontend/ proxy for Imgur
+
+### Redirection / Other services
+
+*   [libredirect (⭐1.6k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
+
+## [36. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
@@ -355,7 +412,7 @@
 
 *   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -373,7 +430,7 @@
 
 *   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐20)](https://github.com/vocascan/vocascan-server), [Clients (⭐3)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
 
-## [33. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [38. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Libraries / Lua
 
@@ -429,7 +486,7 @@
     *   [OnLineMIB/Brocade](http://www.snmplink.org/OnLineMIB/Brocade/) - Brocade.
 *   [oidview.com/mibs](http://www.oidview.com/mibs/detail.html) - This repository contains over 7000 unique MIBs from various vendors.
 
-## [34. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [39. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Disease
 
@@ -447,7 +504,7 @@
 
 *   [DRKG (⭐431)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
-## [35. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [40. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
@@ -457,7 +514,7 @@
 
 *   [Hacki (⭐400)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
-## [36. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [41. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -465,7 +522,7 @@
 *   [SymJAX (⭐104)](https://github.com/SymJAX/SymJAX) - Symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 *   [mcx (⭐327)](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -496,13 +553,13 @@
 *   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
 *   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
-## [38. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [43. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
 *   [OpenTeam](https://openteam.community/) - Open Technology Ecosystem for Agricultural Management
 
-## [39. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [44. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -513,32 +570,32 @@
 *   [Typedream](https://typedream.com) - The new way to make a website.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 
-## [40. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [45. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
 *   [wachy](https://rubrikinc.github.io/wachy/) - A tracing profiler that aims to make eBPF uprobe-based debugging easier to use. This is done by displaying traces in a UI next to the source code and allowing interactive drilldown analysis.
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
 *   [ellisonleao/carbon-now.nvim (⭐55)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
-## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Calculating composite SLA](https://alexewerlof.medium.com/calculating-composite-sla-d855eaf2c655)
 
-## [43. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [48. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Bakeries
 
 *   Berlin, Germany
     *   [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - The most tasty high quality vegan donuts in Berlin.
 
-## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [49. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Featured (new releases)
 
@@ -556,13 +613,13 @@
 
 *   🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 
-## [45. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [50. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Videos / Vendor supported providers
 
 *   [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - Complete course from beginner to pro, with no cloud provider focus, with a general approach
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
@@ -572,7 +629,7 @@
 
 *   [PixelViewer (⭐49)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [52. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -595,13 +652,13 @@
 *   [boxy (⭐0)](https://github.com/evil-tim/boxy-zsh-theme) - Works well with solarized terminal colors. Includes decorators for `username@hostname`, current directory, `git` status, return code for last command, and time last command was run.
 *   [devj121 (⭐0)](https://github.com/cjeonguk/devj121-zsh-theme) - Includes `git` decorations with branch glyphs.
 
-## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
 *   [Sextant (⭐29)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
-## [49. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [54. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -624,14 +681,14 @@
 *   [dispatch (⭐88)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 *   [getopts.fish (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 
-## [50. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [55. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Native / FPS
 
 *   [Darkest Hour (⭐52)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 *   [Urban Terror (⭐72)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 
-## [51. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [56. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Forms
 
@@ -645,7 +702,58 @@
 
 *   [Wish (⭐1.6k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
-## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [57. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Get Started
+
+*   [create-vitawind (⭐95)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+
+### Templates / Vanilla
+
+*   [vite-vanilla-tailwind-v3 (⭐14)](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
+
+### Templates / Vue 3
+
+*   [vite-vue3-typescript-webcomponent (⭐7)](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
+*   [vite-vue-ts-storybook (⭐44)](https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook) - Vue 3 / i18n / Typescript / Vite / Storybook / ESLint / Prettier.
+*   [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
+*   [vue3-ts-vite-vitest-todo (⭐3)](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
+
+### Templates / Vue 2
+
+*   [vite-vue2-ts-starter (⭐13)](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+
+### Templates / React
+
+*   [vite-react-ts-extended (⭐57)](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+
+### Templates / Svelte
+
+*   [SvelteKit (⭐11k)](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
+
+### Templates / Others
+
+*   [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
+*   [11st-Starter-Kit (⭐294)](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-image-presets (⭐178)](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-chunk-split (⭐85)](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+*   [vite-plugin-static-copy (⭐65)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-redirect (⭐0)](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
+
+### WordPress / Community
+
+*   [wordpress-vite-assets (⭐41)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+
+## [58. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Learning with Cognitive Plausibility / Visual Complexity
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,31 +66,37 @@
 
 *   [Docker PHP Extension Installer (⭐2.6k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Related projects / Other services
+
+*   [Pluja's Awesome Privacy (⭐7.1k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
+
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
 *   [IST7920](https://crates.io/crates/ist7920) - SPI monochrome LCD display - ![crates.io](https://img.shields.io/crates/v/ist7920.svg)
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
 *   [meet (⭐34)](https://github.com/ryanprior/meet) - Start a jitsi meeting quickly from the comfort of your command line
 
-## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Tools
 
 *   [keycloak-scanner Python CLI (⭐28)](https://github.com/NeuronAddict/keycloak-scanner)
 
-## [9. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [10. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Articles
 
 *   [Recipes (⭐20k)](https://github.com/avajs/ava/tree/main/docs/recipes)
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Datasets / Sensor and Acuator Interfaces
 

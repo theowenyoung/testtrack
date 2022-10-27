@@ -1,12 +1,22 @@
 # Awesome List Updates on Oct 17, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Conferences and Events / North America
+
+*   [National Cyber Summit](https://www.nationalcybersummit.com/) - Annual US security conference and Capture the Flag event, held in Huntsville, Alabama, USA.
+
+### Online Resources / Other Lists Online
+
+*   [AWS Tool Arsenal (⭐7.5k)](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of tools for testing and securing AWS environments.
+
+## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
@@ -21,50 +31,50 @@
 *   [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
 *   [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
 *   [SwiftShell (⭐966)](https://github.com/kareman/SwiftShell) - A library for creating command-line applications and running shell commands.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Anti Forensics (⭐233)](https://github.com/remiflavien1/awesome-anti-forensic) - A collection of awesome tools used to counter forensics activities.
 
-## [4. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [5. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Data Structures and Modeling
 
 *   [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) - Best practices (as of 2018) of structuring your data if your database uses JSON.
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Graphics / Image Conversion
 
 *   [pastel (⭐4.3k)](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.
 
-## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [7. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Posts
 
 *   [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.
 *   [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) - By Jenny Lay-Flurrie.
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Colors / Icons Packages and Collections
 
 *   [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 
-## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [9. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2019
 
 *   [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) \[25:42]
 
-## [9. Awesome C](/content/inputsh/awesome-c/README.md)
+## [10. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Build Systems
 
@@ -176,7 +186,7 @@
 *   [libnfc (⭐1.3k)](https://github.com/nfc-tools/libnfc) - Platform-independent Near-Field Communication library. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 *   [ncurses](https://www.gnu.org/software/ncurses/) - Coloured terminal UI library. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 
-## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -206,7 +216,7 @@
 
 *   [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
 
-## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [12. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Hardware Support
 
@@ -232,7 +242,7 @@
 *   [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) - includes the Arm Graphics Analyzer to trace graphics performance issues easily, and Arm Streamline performance analyzer, for a whole-system view of performance to determine bottlenecks quickly across both the CPU and GPU.
 *   [Arm - PerfDoc (⭐111)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
-## [12. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [13. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 *   [@ashfurrow](https://github.com/ashfurrow), [Moya (⭐14k)](https://github.com/moya/moya)
     *   "Building Open Source Communities" ([slides](https://speakerdeck.com/ashfurrow/building-open-source-communities))
 *   [@hzoo](https://github.com/hzoo), [Babel (⭐42k)](https://github.com/babel/babel)
@@ -242,13 +252,13 @@
     *   "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
     *   "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_\&v=_iToM2KC0QE), [slides](https://hzoo.github.io/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [Stelligent/cfn\_nag :fire::fire::fire: (⭐1.1k)](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
 
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [15. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 

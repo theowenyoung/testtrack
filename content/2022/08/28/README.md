@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 *   [Electron (⭐208)](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Reference Lists
+
+*   [TypeScript Reference for JS developers](https://welldan97.github.io/typescript-reference/) - Glossary of keywords, operators, statements and directives
+
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Font
 
@@ -44,7 +50,7 @@
     *   [CDN](https://gcorelabs.com/cdn/) — Global content delivery network, 1 TB and 1 million requests per month free.
     *   [DNS Hosting](https://gcorelabs.com/dns/) — Free DNS hosting.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
@@ -54,7 +60,7 @@
 
 *   [nvim-lua/kickstart.nvim (⭐502)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
-## [5. Awesome Esports](/content/Strift/awesome-esports/README.md)
+## [6. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
 ### Applications & Tools / Tournaments management
 

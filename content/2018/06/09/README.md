@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 09, 2018
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,7 +56,13 @@
 *   [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
 *   [Roboto Demo (⭐24)](https://github.com/naavis/roboto-demo)
 
-## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [The Harvester (⭐7.5k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+
+## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Detection and Classification / Other Resources
 
@@ -75,19 +81,48 @@
 *   [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and
     Assembly Browser.
 
-## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [Error Budget Calculator](https://dastergon.gr/error-budget-calculator/)
 
-## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [5. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### General Architecture
+
+*   [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
+*   [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
+
+### Cloud Architecture
+
+*   [AWS cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) - The AWS Cloud Design Patterns (CDP).
+
+### Internet of things
+
+*   [iot-communication-patterns](https://dzone.com/articles/strengths-and-weaknesses-of-iot-communication-patterns) - Strengths and Weaknesses of IoT Communication Patterns.
+*   [design-patterns-for-iot](https://community.arm.com/iot/b/blog/posts/design-patterns-for-an-internet-of-things) - A Design Pattern Framework for IoT Architecture.
+
+### Security
+
+*   [opensecurityarchitecture](http://www.opensecurityarchitecture.org/cms/library/patternlandscape) - Security Architecture Patterns.
+*   [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
+
+### Other Awesome Lists
+
+*   Other amazingly awesome lists can be found in the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
+
+### Contributing
+
+*   Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md/contributing.md) first.
+
+## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Inspiration / Other
 
 *   [Lospec palette list](https://lospec.com/palette-list) - Collection of color palettes for pixel art with examples and artist information.
 
-## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -113,7 +148,7 @@
 *   [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
 *   [Pyora (⭐104)](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 
-## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [8. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Application Frameworks
 
@@ -129,19 +164,19 @@
 *   [CFML Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml) - CFML Language extension for [VSCode](https://code.visualstudio.com/)
 *   [CFML Language for Atom (⭐38)](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [9. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2018
 
 *   [Ryan Dahl: **10 Things I Regret About Node.js**](https://www.youtube.com/watch?v=M3BM9TB-8yA) \[26:41]
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Alert / Barcode
 
 *   [PopupDialog (⭐3.8k)](https://github.com/orderella/PopupDialog) - A simple, customizable popup dialog. Replaces UIAlertController alert style.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -151,7 +186,7 @@
 
 *   [Dotnet Script (⭐2.1k)](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 
-## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Tutorials / Articles / Automation
 

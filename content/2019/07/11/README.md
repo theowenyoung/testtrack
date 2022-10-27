@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,13 +48,19 @@
 
 *   [Boden (⭐1.5k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Commercial] [website](https://www.boden.io)
 
-## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Mockup
+
+*   [BrowserFrame](https://browserframe.com/) is the easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes. Great for landing pages and mockups.
+
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### JavaScript
 
 *   [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Continuous Integration
 

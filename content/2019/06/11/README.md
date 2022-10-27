@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,13 +37,20 @@
 
 *   [Rafał Pocztarski — From Node.js to Deno - JavaScript/TypeScript runtime built with V8 and Rust \[EN\]](https://www.youtube.com/watch?v=Aib1OZLy0_c)
 
-## [4. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / HD Streaming
+
+*   [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
+*   [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
+
+## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Machine Learning
 
 *   [chainer-chemistry (⭐542)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
@@ -61,7 +68,7 @@
 
 *   [Reactor (⭐35)](https://github.com/oky2abbas/reactor) - Reactor is a fast and secure key-value library for Android.
 
-## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 

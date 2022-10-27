@@ -1,12 +1,18 @@
 # Awesome List Updates on Feb 25, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-swipeable-list (⭐55)](https://github.com/marekrozmus/react-swipeable-list) - [demo](https://marekrozmus.github.io/react-swipeable-list/) - Configurable component to render list with swipeable items.
+
+## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -29,19 +35,19 @@
 
 
 
-## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Browser Games
 
 *   [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 
-## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [arkenfox user.js (⭐6.4k)](https://github.com/arkenfox/user.js) - A user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
 
-## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [5. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -66,7 +72,7 @@
 *   [Scarlett Moore](https://www.patreon.com/sgclark) - KDE contributor.
 *   [skypjack](https://github.com/sponsors/skypjack) - C++ libraries such as uvw and EnTT.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -80,7 +86,7 @@
 
 *   [swrv (⭐1.7k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -96,7 +102,7 @@
 
 
 
-## [7. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+## [8. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
 ### 2D
 
@@ -152,19 +158,19 @@
 
 *   [Playmaker (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/playmaker-368) - Quickly make gameplay prototypes, A.I. behaviors, animation graphs, interactive objects, and more using finite state machines.
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [mqtt-sn](https://crates.io/crates/mqtt-sn): Implementation of the MQTT-SN protocol - ![crates.io](https://img.shields.io/crates/v/mqtt-sn.svg)
 
-## [9. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Multimedia
 
 *   [Spot (⭐1.6k)](https://github.com/xou816/spot) - Spotify Client.
 
-## [10. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
@@ -260,13 +266,13 @@
 *   [webpacker (⭐5.3k)](https://github.com/rails/webpacker) - A gem to bundle web assets using Webpack. [:red\_circle:](https://rubygems.org/gems/webpacker)
 *   [zeitwerk (⭐1.6k)](https://github.com/fxn/zeitwerk) - A gem to handle thread-safe code loading. [:red\_circle:](https://rubygems.org/gems/zeitwerk)
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-sites / Git
 
 *   [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -282,7 +288,7 @@
 
 *   [borgbase.com](https://www.borgbase.com/) — Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and 2 repositories.
 
-## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 

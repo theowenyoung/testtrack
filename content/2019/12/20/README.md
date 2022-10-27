@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 20, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,26 +62,33 @@
 
     How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
 
-## [7. ElixirBooks](/content/sger/ElixirBooks/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Contributing and License
+
+*   [See the guide (⭐163)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   Distributed under the MIT license. See LICENSE for more information.
+
+## [8. ElixirBooks](/content/sger/ElixirBooks/README.md)
 
 ### **Web Development** / [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
 
 *   [Reddit](https://www.reddit.com/r/elixir/)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/elixir)
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Hidden (⭐7.2k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / PHP SDK
 
 *   [aws-sdk-php-zf2 :fire: (⭐100)](https://github.com/aws/aws-sdk-php-zf2)
 
-## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 

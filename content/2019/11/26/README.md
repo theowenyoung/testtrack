@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,19 +65,25 @@
 
 *   [Podlodka](http://podlodka.io) - Weekly audio show on software development. Interviews with professionals in software development industry and other related fields.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / Anime
+
+*   [All-animes](https://all-animes.com) Watch Online Anime In HD English Subbed, Dubbed.
+
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
 *   [cl-yesql (⭐53)](https://github.com/ruricolist/cl-yesql) - SQL statements live in their own files, in SQL syntax, and are imported into Lisp as functions. You are not limited to the features a DSL supports. Based on Clojure's Yesql. [MIT](https://opensource.org/licenses/MIT).
 
-## [9. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [10. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / German
 
 *   [T.A.D.S. boilerplate (⭐609)](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -88,19 +94,19 @@
 
 *   [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org\&utm_medium=referral\&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
 
-## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Events / Doctrine Assessement
 
 *   [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
-## [12. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [13. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Open Source / RPG
 
 *   [Darkness Dungeon (⭐242)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 

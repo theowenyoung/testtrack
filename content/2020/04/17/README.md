@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,13 +58,19 @@
 
 *   [Econap](https://econap.de) - Prevent sleep mode while your system is busy. ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Manga / Third Party Hosts
+
+*   [Tachiyomi](https://tachiyomi.org/) Free and open source manga reader for Android.
+
+## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
 *   [hooked-head (⭐312)](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Tutorials / Tools
 
@@ -89,7 +95,7 @@
 
 *   [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -284,14 +290,14 @@
 
 *   [Is RSS dead?](http://isrssdead.com/) <sup>[376](https://t.me/s/aboutrss/376)</sup>
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazor.LazyStyleSheet (⭐11)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
 *   [DnetIndexedDb (⭐84)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 
-## [10. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
+## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
 ### Lighting / Lighting Software
 
@@ -310,19 +316,19 @@
 
 *   [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
 *   [nomino (⭐434)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
 
-## [13. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [14. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 

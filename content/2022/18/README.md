@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02 - May 08, 2022
 
-49 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -108,13 +108,23 @@
 
 *   [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
 
-## [9. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Password Managers
+
+*   [LessPass](https://www.lesspass.com) - Stateless password manager. Remember one master password to access your passwords. No sync needed.
+
+### Android
+
+*   [RethinkDNS + Firewall (⭐962)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+
+## [10. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
 *   [alejandra (⭐260)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
-## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Email
 
@@ -124,7 +134,7 @@
 
 *   [go-hibp (⭐5)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
@@ -134,14 +144,14 @@
 
 *   [PresenceLight (⭐380)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
 
-## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Development and Design
 
 *   [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - Profile an application or entire system.
 *   [Workbench (⭐312)](https://github.com/sonnyp/Workbench) - Learn and prototype with GNOME technologies.
 
-## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming
 
@@ -151,7 +161,27 @@
 
 *   [antd-amiya (⭐89)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
 
-## [14. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [15. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### General Search
+
+*   [Yahoo! Search](http://www.yahoo.com)
+
+### Expert Search / Telegram
+
+*   [MuckRack](http://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
+*   [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/) - Official listing of U.S. attorneys qualified to represent individuals in U.S. patent office proceedings.
+
+### Company Research / Telegram
+
+*   [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
+*   [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
+
+### Domain and IP Research / Telegram
+
+*   [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
+
+## [16. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Resources
 
@@ -284,25 +314,25 @@
 *   [Parity SCALE Codec (⭐184)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
 *   [Ruby (⭐17)](https://github.com/itering/scale.rb) - Maintained by Itering.
 
-## [15. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [17. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2022
 
 *   [Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf) - (arxiv) *Infers a link between the Amazon Echo system and the ad targeting algorithm.*
 
-## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [18. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Courses
 
 *   [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
 
-## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Articles
 
 *   ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
 
-## [18. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [20. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -312,25 +342,25 @@
 
 *   [Yew PWA Minimal (⭐25)](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 
-## [19. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [oneDNN (⭐3k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
-## [20. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
 *   [Skeema (⭐1.1k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 
-## [21. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-split-statusbar (⭐13)](https://github.com/charlietag/tmux-split-statusbar) Plugin for splitting status bar into 2 parts - window + left/right status
 
-## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -341,26 +371,26 @@
 
 *   [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
 
-## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Orchestration
 
 *   [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 *   [AWS Step Functions](https://aws.amazon.com/step-functions/) - visual workflow service to build distributed applications and automate processes
 
-## [24. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [26. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Support Tables
 
 *   [Project Fugu API tracker](https://fugu-tracker.web.app/) - Browser support status overview of web API's filling the "app gap".
 
-## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Forms
 
 *   [Wagtail's built in Form Builder](https://docs.wagtail.org/en/stable/reference/contrib/forms/) for general use cases.
 
-## [26. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [28. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Mandel
 
@@ -424,37 +454,56 @@
 
 *   [State of the Dapps](https://www.stateofthedapps.com/platforms/eos)
 
-## [27. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [29. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Date and Time
 
 *   [Jollyday (⭐175)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
 
-## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [30. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Open Source Projects / Other Tools
 
 *   [Nemo (⭐2)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 
-## [29. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [31. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Tutorials :clapper: / 2015
 
 *   [All selectors in CSS](https://medium.com/@ymzEmre/css-cascade-specificity-basic-selectors-c5adc01dd861) - All selectors in CSS.
 
-## [30. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [32. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Password Manager
 
 *   [KeePass](https://keepass.info/) - A free, open source, light-weight password manager with auto-type, browser and plugin support.
 
-## [31. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [33. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Playbooks, Roles and Collections / German
 
 *   [DevSec Hardening Framework](https://dev-sec.io/) - The DevSec collection helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.
 
-## [32. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vanilla
+
+*   [vite-vanilla-ts-lib-starter (⭐65)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
+
+### Templates / Vue 3
+
+*   [vue-vite-ssr (⭐9)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-webfont-dl (⭐82)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+*   [vite-plugin-babel-compiler (⭐21)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-copy-files (⭐3)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
+
+## [35. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Books
 
@@ -469,7 +518,7 @@
 *   [codecentric/hikaku (⭐182)](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification.
 *   [robstoll/atrium (⭐436)](https://github.com/robstoll/atrium) - Multiplatform assertion library for Kotlin supporting i18n.
 
-## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -482,7 +531,7 @@
 *   [pifabs (⭐0)](https://github.com/pifabs/pifabs-zsh-theme) - Minimal theme with decorators for `git` status, username, host and working directory.
 *   [thm (⭐3)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -502,31 +551,31 @@
 *   [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
 *   [Ionic (⭐48k)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 
-## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Processes and Threads
 
 *   [concurrent.cr (⭐42)](https://github.com/didactic-drunk/concurrent.cr) - Simplified concurrency using streams/pipelines, waitgroups, semaphores, smores and more
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [BottomSheet (⭐74)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
-## [37. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [40. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
-## [38. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [41. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Dependency injection
 
 *   [darkleaf/di (⭐17)](https://github.com/darkleaf/di)
 
-## [39. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [42. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
@@ -592,7 +641,7 @@
 *   [List of Jupyter notebooks II (⭐1.4k)](https://github.com/jupyter-naas/awesome-notebooks)
 *   [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 
-## [40. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### C# / Angular
 
@@ -602,7 +651,7 @@
 
 *   [Daily Tech](https://dailytech.email). Daily Tech is a curated newsletter about technology, startups, product, and software engineering.
 
-## [41. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -719,13 +768,19 @@
 
 *   [@XMRer](https://twitter.com/XMRer/status/1517387830020145152)
 
-## [42. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [45. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Ringsworn](https://www.dropbox.com/s/72tq31pxzqc7bx0/Ringsworn.pdf?dl=0) - Ironsworn rules grafted onto The One Ring dice mechanics
+
+## [46. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
 *   [SasLuca/zig-nanoid (⭐16)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -754,7 +809,7 @@
 *   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐1.9k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
 *   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐553)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
-## [44. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [48. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -764,13 +819,13 @@
 
 *   [VSCodeDiff (⭐10)](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
 
-## [45. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [49. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration
 
 *   [Lite SDK (TypeScript) (⭐10)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -805,7 +860,7 @@
 
 *   [AstroNvim/AstroNvim (⭐5k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
 
-## [47. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [51. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
@@ -816,7 +871,7 @@
 
 *   [Google HCLS Data Harmonization (⭐116)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -850,7 +905,7 @@
 
 *   [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  a OpenRISC virtual machine capable of running Linux with network support.
 
-## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 

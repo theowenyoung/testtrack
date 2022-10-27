@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04 - Oct 10, 2021
 
-66 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -494,13 +494,27 @@ Free (Open Source)
 
 *   [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 
-## [42. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [42. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Subtitles and Captions / Web
+
+*   [IMSC HRM validator (⭐5)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
+*   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐74)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
+*   [ttconv: subtitle/caption format converter (⭐87)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
+
+## [43. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Graphics
 
 *   [ImagePut (⭐41)](https://github.com/iseahound/ImagePut) - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 
-## [43. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [44. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Collaboration Tools / Malware Analysis Books
+
+*   [Reconmap](https://reconmap.org/) - Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
+
+## [45. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
@@ -517,7 +531,7 @@ Free (Open Source)
 
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 
-## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -527,19 +541,19 @@ Free (Open Source)
 
 *   [uchuhimo/konf (⭐284)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
-## [45. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [47. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
 *   [tfe-state-explorer (⭐17)](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
-## [46. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [48. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -561,13 +575,13 @@ Free (Open Source)
 
 *   [vuejs-vuetify-structured-template boilerplate (⭐22)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 
-## [48. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [50. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [One Second Diary (⭐89)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
-## [49. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [51. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Robotic Process Automation
 
@@ -642,37 +656,121 @@ Free (Open Source)
 
 *   [Awesome Microsoft Power Platform (⭐42)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
-## [50. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [52. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
+*   [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
+
+## [53. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Governance
 
 *   [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 
-## [51. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [54. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vite-tauri-template (⭐188)](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
+*   [vue-vite-h5 (⭐40)](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
+*   [Vitesome (⭐148)](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
+*   [vite-ts-vue3-todo (⭐43)](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
+*   [vitailse (⭐101)](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
+
+### Templates / Vue 2
+
+*   [vite-ts-vue2-todo (⭐43)](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
+
+### Templates / React
+
+*   [Vitamin (⭐260)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+*   [vitejs-template-react-rescript (⭐61)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
+*   [vite-reactts17-chakra-jest-husky (⭐29)](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
+*   [vite-reactts-tailwind-rtk-eslint (⭐22)](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
+*   [vite-react-tailwind-template (⭐18)](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
+*   [vite-react-ts-tailwind-firebase-starter (⭐167)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
+
+### Templates / Svelte
+
+*   [sttv (⭐95)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
+
+### Templates / Elm
+
+*   [vite-elm-template (⭐70)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [unplugin-icons (⭐1.9k)](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [rollup-plugin-critical (⭐59)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-template (⭐88)](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
+*   [vite-plugin-virtual-html (⭐29)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
+*   [vite-plugin-require-context (⭐123)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
+*   [vite-plugin-commonjs (⭐123)](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
+*   [vite-plugin-global-style (⭐94)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-mkcert (⭐200)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+*   [vitawind (⭐95)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
+*   [unplugin-auto-import (⭐1.5k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
+*   [vite-plugin-inspect (⭐634)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+
+### Vue / Integrations
+
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐534)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+
+### Vue / Helpers
+
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [unplugin-vue-components (⭐2.3k)](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-suffix (⭐8)](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
+
+### Rollup Plugins / Covered by default in Vite
+
+*   [@rollup/plugin-typescript (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
+
+### Apps/Websites / Community
+
+*   [Context Note (⭐567)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
+
+## [55. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+
+### Resources / Validation as a Service
+
+*   [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
+
+## [56. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [Uptane](https://uptane.github.io/overview.html) - Uptane is an open and secure software update system design protecting software delivered over-the-air to the computerized units of automobiles and is designed to be resilient even to the best efforts of nation state attackers.
 
-## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [57. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
 *   [Foxglove Studio (⭐936)](https://github.com/foxglove/studio) - Web and desktop app for robotics visualization and debugging; actively maintained fork of webviz.
 
-## [53. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [58. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Frameworks
 
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
-## [54. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [59. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Frameworks
 
 *   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
-## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -692,13 +790,13 @@ Free (Open Source)
 *   [QuickType.io](https://quicktype.io/) - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 *   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
 
-## [56. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [61. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [dockerface (⭐182)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
-## [57. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [62. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Starter Templates
 
@@ -708,7 +806,7 @@ Free (Open Source)
 
 *   [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
-## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [63. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -722,13 +820,13 @@ Free (Open Source)
 
 *   [cista (⭐1k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
-## [59. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [64. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### File Formats and Parsers
 
 *   [squiggly (⭐2)](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
-## [60. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [65. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -742,7 +840,7 @@ Free (Open Source)
 
 *   [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
-## [61. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [66. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
@@ -752,7 +850,7 @@ Free (Open Source)
 
 *   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐385)](https://github.com/sigstore/fulcio), [cosign (⭐2.6k)](https://github.com/sigstore/cosign) and [rekor (⭐598)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
-## [62. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [67. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
@@ -762,19 +860,19 @@ Free (Open Source)
 
 *   [fluvio (⭐1.4k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
 
-## [63. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [68. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [VIR (⭐125)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
-## [64. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [69. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Performance
 
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
-## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [70. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -2038,7 +2136,7 @@ Free (Open Source)
 
 
 
-## [66. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [71. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### 0 - Meta-Lists
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -134,7 +134,13 @@
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
 
-## [13. Awesome V](/content/vlang/awesome-v/README.md)
+## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [Nations24](https://nations24.com)
+
+## [14. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Other / Online IDEs with V
 

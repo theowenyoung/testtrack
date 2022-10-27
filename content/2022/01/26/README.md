@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,7 +97,13 @@
 
 *   [SCX (⭐0)](https://github.com/scx567888/scx) - An open and easy-to-use web framework, most functions are based on annotations.
 
-## [10. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [Modern Vue (⭐255)](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
+
+## [11. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / IEEE Symposium on Security and Privacy (IEEE S&P)
 

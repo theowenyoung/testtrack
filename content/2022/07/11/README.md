@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11, 2022
 
-15 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,25 +12,31 @@
 
 *   [crab-config-files-templating (⭐5)](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
 
-## [2. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Notification
+
+*   [react-local-toast (⭐115)](https://github.com/OlegWock/react-local-toast) - [demo](https://react-local-toast.netlify.app/showcase/) - [docs](https://react-local-toast.netlify.app/tutorial) - show feedback linked to particular component instead of app-wide toasts.
+
+## [3. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
 *   [Python 835 Parser (⭐32)](https://github.com/keironstoddart/edi-835-parser) - A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### DevOps / Development
 
 *   [cve-ape (⭐2)](https://github.com/baalmor/cve-ape) - A non-intrusive CVE scanner for embedding in test and CI environments that can scan package lists and individual packages for existing CVEs via locally stored CVE database. Can also be used as an offline CVE scanner for e.g. OT/ICS.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [CubicBezier (⭐130)](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/isaced/CubicBezier) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 
-## [5. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
@@ -40,7 +46,7 @@
 
 *   [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
@@ -58,7 +64,21 @@
 
 *   [cl-tbnl-gserver-tmgr (⭐13)](https://github.com/mdbergmann/cl-tbnl-gserver-tmgr) -  Hunchentoot Gserver-based taskmanager. cl-gserver is an actor-like message-passing library (see below in "Actors pattern"). Experimental.
 
-## [7. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Petite-Vue
+
+*   [vite-petite-vue-starter (⭐12)](https://github.com/misitebao/vite-petite-vue-starter) - Starter template.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-web-update-notification (⭐40)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
+
+### Framework-agnostic Plugins / Testing
+
+*   [vitest (⭐6.8k)](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
+
+## [9. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Company Blogs / Devops
 
@@ -68,7 +88,7 @@
 
 *   [Scala Ukraine](https://t.me/scala_ukraine) - Telegram chat of Ukrainian Scala Community
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
@@ -84,7 +104,7 @@
     *   [Desktop](https://code.visualstudio.com) - (Windows, macOS and Linux).
     *   [Online](https://vscode.dev) - (Browser)
 
-## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Weather
 
@@ -92,13 +112,24 @@
 *   [wego (⭐7.2k)](https://github.com/schachmat/wego)
 *   [weather-cli (⭐78)](https://github.com/riyadhalnur/weather-cli)
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [What’s next for Blazor, and .NET on WASI](https://www.youtube.com/watch?v=lP_qdhAHFlg) - ![duration](https://img.shields.io/badge/Duration:%20-61%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 7, 2022 - What’s next for Blazor, and .NET on WASI, talk by Steve Sanderson at the NDC Porto. In this demo-centric talk, Microsoft developer/architect Steve will show the current state-of-the-art in Blazor for building rich web-based UI for browsers and native apps. This will include powerful new features shipped in .NET 6, as well as upcoming enhancements under development for .NET 7 and .NET MAUI. We’ll also look at more experimental future possibilities, including running .NET Core on WASI (WebAssembly on the server) which creates entirely new cloud and edge hosting options and lets you bring .NET code to places it’s never been before.
 
-## [11. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Databases
+
+*   [Pocketbase](https://pocketbase.io/) - Open Source backend in 1 file written in Go.
+
+### Search Engines
+
+*   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
+    *   [SearxNG (⭐3.4k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
+
+## [14. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Build tools, setup and CI
 
@@ -108,26 +139,26 @@
 
 *   [Hyperpoet (⭐2)](https://github.com/tambapps/hyperpoet) - Easy-to-use and customizable HTTP client for Groovy
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Commonsense / Commonsense Knowledgebase
 
 *   [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914\&rep=rep1\&type=pdf) - ***OTM Confederated International Conferences'02***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404\&hl=en\&as_sdt=0,5)].
 
-## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [16. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Websites / Mod Libraries
 
 *   [Modrinth](https://modrinth.com/) - Open source Minecraft mod library with powerful filtering.
 *   [CurseForge](https://www.curseforge.com/minecraft/mc-mods) - The largest repository for Minecraft mods.
 
-## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [17. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Spanish
 
 *   [Devtalles](https://anchor.fm/fernando-her85/) - Día a día como profesional en tecnologías de información.
 
-## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [18. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

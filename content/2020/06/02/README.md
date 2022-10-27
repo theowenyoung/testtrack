@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 02, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,7 +81,13 @@
 *   [ember-custom-elements (⭐15)](https://github.com/Ravenstine/ember-custom-elements) - Render Ember and Glimmer components using custom elements.
 *   [react-shadow (⭐1.1k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
 
-## [10. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Swift
+
+*   [*Guide to Swift Strings* by Flight School (Matt)](https://flight.school/books/strings/)
+
+## [11. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Articles
 
@@ -91,13 +97,13 @@
 
 *   [isarray (⭐119)](https://github.com/juliangruber/isarray) - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 
-## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 
 *   [TV Randshow (⭐102)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
-## [12. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
+## [13. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/README.md)
 
 ### Learn / Papers
 

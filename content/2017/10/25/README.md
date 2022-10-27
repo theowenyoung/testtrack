@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,7 +65,17 @@
 
 *   [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c) - The DragonBoard 410c, a product of Arrow Electronics, is the development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor. It features advanced processing power, Wi-Fi, Bluetooth connectivity, and GPS, all packed into a board the size of a credit card.
 
-## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Hacking Resources (⭐13k)](https://github.com/vitalysim/Awesome-Hacking-Resources)
+
+  Description: Collection of hacking / penetration testing resources to make you better!
+
+
+
+## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Other Initiatives / Jobs
 
@@ -73,13 +83,13 @@
 
     The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
 
-## [9. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Articles
 
 *   [How to hack a car — a quick crash-course](https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec) - Car enthusiast Kenny Kuchera illustrates just enough information to get you up and running. An excellent resource for first timers!
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Python SDK
 

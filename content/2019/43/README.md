@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28 - Nov 03, 2019
 
-69 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -646,7 +646,21 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [Building Open Source Software that Empowers Native Communities](https://www.youtube.com/watch?v=AAdrbrYNnPw) - By Adam Recvlohe (@arecvlohe)
 
-## [57. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [57. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Notification
+
+*   [notistack](https://iamhosseindhv.com/notistack) - [demo](https://codesandbox.io/s/github/iamhosseindhv/notistack/tree/master/examples/simple-example??hidenavigation=1\&module=%2FApp.js) - [docs](https://iamhosseindhv.com/notistack/api) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other
+
+### Data Store / Mouse Events
+
+*   [react-3ducks (⭐6)](https://github.com/smakazmi/react-3ducks) - [demo](https://stackblitz.com/github/smakazmi/react-3ducks/tree/master/examples/todos) - Simple state management solution for React.
+
+### Form Logic / Mouse Events
+
+*   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - Subscription-based form state management
+
+## [58. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Community
 
@@ -663,7 +677,65 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 *   [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
 
-## [58. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [59. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Resources / Educational
+
+*   [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
+*   [Classy Django Forms (⭐20)](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+*   [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
+
+### Resources / Community
+
+*   [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
+*   [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
+*   [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
+
+### Resources / Conferences
+
+*   [PyCon Australia](https://2019.pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
+*   [Euro Python](https://ep2019.europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
+*   [Complete listing of all PyCons globally](https://pycon.org)
+
+### Resources / Podcasts
+
+*   [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
+*   [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Dokku](http://dokku.viewdocs.io/dokku/)
+*   [Render](https://render.com/)
+
+### Hosting / IaaS (Infrastructure-as-a-Service)
+
+*   [Digital Ocean](https://www.digitalocean.com)
+*   [Linode](https://www.linode.com/)
+*   [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+
+### Projects / Boilerplate
+
+*   [cookiecutter-django (⭐9.8k)](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+*   [DRFx (⭐392)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+*   [docker-django (⭐178)](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
+*   [wemake-django-template (⭐1.6k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [django-webpack-starter (⭐55)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
+
+### Projects / Open Source Projects
+
+*   [Blog app with users and forms (⭐809)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
+*   [Behavior-Driven Development with Aloe (⭐27)](https://github.com/testdrivenio/django-aloe-bdd/)
+
+### Django REST Framework / DRF Resources
+
+*   [Official Documentation](https://www.django-rest-framework.org/)
+*   [awesome-django-rest-framework (⭐1k)](https://github.com/nioperas06/awesome-django-rest-framework)
+
+### Django REST Framework / DRF Tutorials
+
+*   [DRF with React](https://www.valentinog.com/blog/drf/)
+
+## [60. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### CI / Tools & Plugins
 
@@ -681,7 +753,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [Awesome Testing (⭐1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
-## [59. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [61. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Written Tutorials / Other helpful Plugins
 
@@ -707,7 +779,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Gatsby WordPress Publisher Theme
     &#x20;(⭐32)](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
-## [60. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [62. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Projects / Swift
 
@@ -722,7 +794,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves.
 *   [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
 
-## [61. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -749,7 +821,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [vue-uuid (⭐63)](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
-## [62. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [64. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -759,7 +831,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [996.ICU (⭐264k)](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
 
-## [63. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [65. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Code and Run
 
@@ -769,7 +841,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   [UnitTesting](https://wiki.ros.org/Quality/Tutorials/UnitTesting) - This page lays out the rationale, best practices, and policies for writing and running unit tests and integration tests for ROS.
 
-## [64. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [66. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Chat & Messaging / ORM
 
@@ -786,7 +858,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
 *   [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
 
-## [65. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [67. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -806,14 +878,14 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
     Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
 
-## [66. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [68. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Gists
 
 *   [Forwarding Named Blocks in Glimmer](https://gist.github.com/tomdale/bedb77662b19529f59154ec55e2f4a21)
 *   [Multi Named Blocks](https://gist.github.com/pzuraq/0c16d7baef7237b62dfd7529d1969344)
 
-## [67. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [69. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -837,7 +909,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Submitting Argo Workflows (Cloud Agnostic) (⭐30)](https://github.com/machine-learning-apps/actions-argo)
 *   [Submitting Argo Workflows to GKE (⭐13)](https://github.com/machine-learning-apps/gke-argo)
 
-## [68. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [70. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -868,7 +940,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [SteamPress (⭐355)](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
 
-## [69. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [71. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 

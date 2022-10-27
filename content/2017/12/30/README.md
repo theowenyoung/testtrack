@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,17 @@
 
 *   [Weather.gov](http://www.weather.gov/) - Weather reports for places in the United States.
 
-## [4. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Detection Lab (⭐3.9k)](https://github.com/clong/DetectionLab)
+
+  Description: Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
+
+
+
+## [5. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
 ### Calculator apps: / Android
 
@@ -67,7 +77,7 @@
 *   [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 *   [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 
-## [5. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [6. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### PlaygroundBooks
 
@@ -77,7 +87,7 @@
 
 *   [Astronomy (⭐24)](https://github.com/cl7/Astronomy) - A 3D earth model written in swift playground using SceneKit.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -92,7 +102,7 @@
 *   `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-sa/3.0/)
 *   `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

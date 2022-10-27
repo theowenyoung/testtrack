@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -101,7 +101,21 @@
 
 *   [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
 
-## [10. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Download Managers / Free Indexers
+
+*   [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
+
+### Streaming Sites / Anime
+
+*   [AnimeRam](https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
+
+### Music / Third Party Hosts
+
+*   [Madsonic](https://www.madsonic.org/) Madsonic is a web-based media library and media streamer with jukebox functionality.
+
+## [11. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 

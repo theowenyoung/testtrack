@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,14 @@
 
 *   [vue3-lottie (⭐76)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / TikTok
+
+*   [ProxiTok (⭐809)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
+    *   Official instance: <https://proxitok.herokuapp.com>
+
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -103,14 +110,14 @@
 
 *   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
 
-## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Deep Learning / Easier sharing of deep learning models and demos
 
 *   [paperswithcode.com](https://paperswithcode.com/) — "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables."
 *   [`labmlai/annotated_deep_learning_paper_implementations`](https://github.com/labmlai/annotated_deep_learning_paper_implementations) — "Implementations/tutorials of deep learning papers with side-by-side notes." 50+ of them! Really nicely annotated and explained.
 
-## [12. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [13. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 3.2+
 
@@ -120,7 +127,7 @@
 
 *   [Godot Radial Menu (⭐85)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
-## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Bluetooth
 

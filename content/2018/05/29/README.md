@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,25 +32,37 @@
 *   [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
 *   [Build a realtime table with Next.js](https://pusher.com/tutorials/realtime-tables-nextjs)
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Android
+
+- Name: [Applozic Chat App](https://github.com/AppLozic/Applozic-Android-SDK)
+
+  Description: Open source Android Chat SDK / Messaging SDK that lets you add real time chat and in-app messaging in your mobile (android, iOS) applications and website.
+
+  Link: <https://play.google.com/store/apps/details?id=com.applozic.messenger>
+
+
+
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Chat & Messaging / ORM
 
 *   [Kommunicate Live Chat SDK (⭐66)](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
 *   [csharp-nats (⭐535)](https://github.com/nats-io/csharp-nats) - C# .NET client for the NATS messaging system.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [WhatsNewKit (⭐2.7k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
-## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Events/Meetups / Java
 

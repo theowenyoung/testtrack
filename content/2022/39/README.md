@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26 - Oct 02, 2022
 
-57 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,47 @@
 
 *   [date\_range\_formatter (⭐30)](https://github.com/darkleaf/date_range_formatter) - The simple tool to make work with date ranges in Ruby more enjoyable.
 
-## [3. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [3. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Remote Jobs:
+
+- Website: <https://www.remotehub.com>
+
+
+
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Using WSL / The WSL Shell
+
+*   [The Bash Academy](https://guide.bash.academy/) - The Bash Academy is an initiative to promote the bash shell language and educate people on its use.
+
+### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
+
+*   [Managing Software with Command Line Tools](https://doc.opensuse.org/documentation/leap/reference/html/book-reference/cha-sw-cl.html) from OpenSUSE.
+*   [OpenSUSE Reference](https://doc.opensuse.org/documentation/leap/reference/html/book-reference/index.html).
+*   [SUSE Linux Enterprise Documentation](https://documentation.suse.com/sles) from SUSE.
+
+### Supported Distributions / Pengwin
+
+*   [Windows Store Link](https://apps.microsoft.com/store/detail/pengwin/9NV1GV1PXZ6P) 💰
+
+### Additional Resources / Miscellaneous Tools
+
+*   [##windows-wsl](https://netsplit.de/channels/details.php?room=%23windows-wsl\&net=Libera.Chat) - IRC channel on Libera.Chat.
+
+### Related Projects / Miscellaneous Tools
+
+*   [PowerShell](https://learn.microsoft.com/en-us/powershell/) - PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language.
+
+### Thanks / Miscellaneous Tools
+
+*   The Windows 10, WSL, and kernel teams at Microsoft, including but not limited to [Tara Raj](https://twitter.com/tara_msft), [Rich Turner](https://twitter.com/richturn_ms), [Jessie Frazelle](https://twitter.com/jessfraz), [Jack Hammons](https://github.com/jackchammons), [Sarah Cooley](https://github.com/scooley), [Ben Hillis](https://github.com/benhillis), [Allen Sudbring](https://github.com/asudbring), [Brandon Wilson](https://social.technet.microsoft.com/profile/BrandonWilson), [John Starks](https://twitter.com/gigastarks), [Russ Alexander](https://www.linkedin.com/in/russalex), [Yosef Durr](https://twitter.com/yosefdurr), [Sven Groot](https://twitter.com/svengroot_ms), [Sunil Muthuswamy](https://twitter.com/SunilMut), [Palkesh Soni](https://twitter.com/sonipalkesh), [John Starks](https://twitter.com/gigastarks), [Craig Wilhite](https://twitter.com/CraigWilhite).
+
+### Intellectual Property Notices / Miscellaneous Tools
+
+*   Docker® and Docker Hub® are registered trademarks of Docker, Inc. [\*](https://www.docker.com/legal/trademark-guidelines/)
+
+## [5. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms
 
@@ -50,14 +90,14 @@
 *   [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 *   [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
 
-## [4. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [6. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [FirelordJS (⭐31)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐18)](https://github.com/tylim88/Firelord))
 *   🔧 [FireSword (⭐0)](https://github.com/tylim88/FireSword) - Filter Firestore and RTDB unknown keys or keys with incorrect data types recursively, support all field values and special data types. (For web and admin)
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
@@ -137,25 +177,25 @@
 
 *   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
-## [6. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [8. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / How To Read a Paper
 
 *   [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
-## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Tools and web interfaces
 
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐818)](https://github.com/tribe29/checkmk)) `Python/PHP`
 
-## [8. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [10. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [k6 Learn (⭐55)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
-## [9. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [11. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -165,7 +205,7 @@
 
 *   [IoTSharp (⭐520)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Cryptography
 
@@ -180,31 +220,31 @@
 
 *   [GTK4.cr (⭐51)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
-## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-panos (⭐66)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 
-## [12. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [14. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Distributed Testing
 
 *   [gatling-operator (⭐38)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
-## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-session-wizard (⭐9)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐48k)](https://github.com/junegunn/fzf) & [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide).
 
-## [15. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -216,7 +256,7 @@
 *   [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957) - Great reference to build an incident response plan based also on Threat Intelligence. By Roberto Martinez.
 *   [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -273,25 +313,25 @@
 
 *   [wuseal/JsonToKotlinClass (⭐2.7k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
 
-## [17. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [19. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Tools / Smart Contracts
 
 *   [avm-semantics (⭐6)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
 
-## [18. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [20. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
 *   [nfl-team-schedule-widget (⭐3)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
 
-## [19. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [21. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals and Ephemera / Ephemera
 
 *   [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
 
-## [20. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [22. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Scheduling / Touch Resistive
 
@@ -301,13 +341,23 @@
 
 *   [meerkat (⭐2)](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 
-## [21. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [23. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Urbanist (⭐330)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 
-## [22. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### General Search
+
+*   [Mojeek](https://www.mojeek.com/)
+
+### People Investigations / Telegram
+
+*   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+
+## [25. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### APIs and SDKs
 
@@ -319,7 +369,7 @@
 *   [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
 *   [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 
-## [23. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Projects / Godot 3.2+
 
@@ -329,25 +379,25 @@
 
 *   [spout-gd (⭐6)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐537)](https://github.com/leadedge/Spout2).
 
-## [24. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [27. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Community
 
 *   [Web Monetization Community](https://community.interledger.org/)
 
-## [25. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🔼🌍🔧 [Tailwindhelper](https://www.tailwindhelper.com/) - Visualize Tailwind CSS classes and unit converter.
 
-## [26. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [29. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [Headscale (⭐8.5k)](https://github.com/juanfont/headscale) - Open source, self-hosted implementation of the Tailscale control server.
 
-## [27. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [30. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -370,13 +420,13 @@
 *   [solid-ipfs (⭐37)](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 *   [VIPFS (⭐287)](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS
 
-## [28. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [refurb (⭐1.6k)](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -411,13 +461,13 @@
 
 *   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐687)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
-## [30. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [33. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Course Material
 
 *   [Lectures on Software Foundations (⭐22)](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
 
-## [31. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [34. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Introducing people to data security and cryptography / Brief introductions
 
@@ -439,19 +489,19 @@
 
 *   [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Broad overview of design and cryptanalysis of various ciphers and hash functions, by Bart Van Rompay.
 
-## [32. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [35. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Related Projects / Analysis
 
 *   [Usenix93 Paper on BPF](https://www.tcpdump.org/papers/bpf-usenix93.pdf): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".
 
-## [33. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [36. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
 *   [pybotics (⭐249)](https://github.com/engnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration.
 
-## [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [37. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Metascience / Science of Science
 
@@ -460,13 +510,13 @@
 *   [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. \[[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028\&hl=zh-CN\&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
 *   [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487\&hl=zh-CN\&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance.
 
-## [35. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [38. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Networking
 
 *   [Calico (⭐4k)](https://github.com/projectcalico/calico) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 
-## [36. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [39. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -477,26 +527,26 @@
 *   [Plotly.rs (⭐618)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 *   [ag-grid-rs (⭐4)](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
 
-## [37. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [M95320](https://crates.io/crates/m95320) - SPI - STMicroelectronics Serial flash EEPROM - ![crates.io](https://img.shields.io/crates/v/m95320.svg)
 
-## [38. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [41. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Hacker Tab (⭐332)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Replace browser new tab screen with GitHub trending projects.
 
 Installs: 2000 | Stars: 332 | Last update: n/a
 
-## [39. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [42. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 
-## [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Oh-My-Zsh
 
@@ -520,31 +570,86 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   [searocket (⭐0)](https://github.com/dk949/searocket/) - Slimmed down version of [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt). Includes decorators for working directory, last command exit code, user, background jobs, `bun`, `d`, elm, go, nodejs, python, zig and `git` status.
 *   [windows (⭐31)](https://github.com/juliavallina/windows-zsh-theme/) - Inspired by the Windows Command Prompt. Includes a decorator for the current directory.
 
-## [41. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [44. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archiving related topics, scholarly work, and academic trip reports.
 
-## [42. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Android Launcher
+
+*   [Bliss Launcher](https://f-droid.org/en/packages/foundation.e.blisslauncher/) - The default launcher of the /e/ Android-based OS.
+    It allows users to easily create and browse group of apps and it displays notification badges on app icons.
+
+### Cloud Storage
+
+*   [Proton Drive](https://proton.me/drive) - End-to-end encrypted Swiss vault for your files that protects your data. [Read this article over Climate activist arrest](https://protonmail.com/blog/climate-activist-arrest/).
+
+### File Management and Sharing
+
+*   [Paperless-ngx (⭐4.4k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+    *   [Paperless-ng (⭐5.1k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
+        *   [Paperless (⭐7.7k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
+
+### Self-Hosted
+
+*   [Mailcow: dockerized (⭐5.6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+
+### PC / MacOS
+
+*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10, you can use [this tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
+*   MacOS.
+
+### [GNU/Linux](https://www.linux.com/what-is-linux/)
+
+*   [Fedora](https://getfedora.org/)
+*   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=292) is a beginner friendly distribution.
+
+### Other OS:
+
+*   [RedoxOS](https://www.redox-os.org/) - A WIP project aiming to provide a Unix-like Operating System written in Rust.
+
+### Quora
+
+*   [Quetre (⭐120)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
+
+### Web Browser / Alternative clients/modifications of Discord:
+
+*   **Google Chrome** - Owned by google and built upon the open-source Chromium project (also Google-owned). It comes with many privacy-invasive features, it is connected to your Google account most times. It is under [Google's privacy policy](https://tosdr.org/en/service/217) which is known to be very bad. Google is willing to enforce the [Manifest v3](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) which is outright harmful to privacy efforts.
+*   **Microsoft Edge** - It's a Microsoft-themed version of Chromium with Microsoft trackers instead of Google ones. Under [Microsoft's privacy policy](https://tosdr.org/en/service/244), which is also very bad. If you still want to use it, you can [follow this guide](https://anonymousplanet.org/guide.html#edge-19) to harden it a bit.
+*   **Opera** - Opera was [acquired by a consortium of Chinese investors](https://en.wikipedia.org/wiki/Opera_\(web_browser\)#Acquisition_by_Chinese_consortium). The app has [many trackers](https://reports.exodus-privacy.eu.org/de/reports/com.opera.browser/latest/).
+
+### Android / iOS / Alternative clients/modifications of Discord:
+
+*   [Bromite](https://www.bromite.org/) - It has been known to lag on security patches, so it may be better not to use it.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Vanadium](https://vanadium.app/) - Privacy and security enhanced releases of Chromium by GrapheneOS.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Privacy Browser](https://www.stoutner.com/privacy-browser/)
+
+### Useful Tools / Alternative clients/modifications of Discord:
+
+*   [Single File (⭐9.4k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+
+## [46. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Other Lists / Help
 
 *   [upb-lea/awesome-open-source-power-electronics (⭐25)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
-## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
 *   [txtai (⭐2.7k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
-## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
 *   [Open Source Games (⭐735)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -570,20 +675,20 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
 
-## [46. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [50. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### GUI
 
 *   [TDengineGUI (⭐7)](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
 *   [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
 
-## [48. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [52. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### TypeScript
 
@@ -592,7 +697,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   [H2O Wave (⭐3.1k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Node Efficientnet (⭐236)](https://github.com/ntedgi/node-efficientnet) *(label: good first issue)* <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow\.js ).
 
-## [49. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Algorithms & Data Structures
 
@@ -640,7 +745,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
 *   [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [54. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -664,7 +769,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   HTTP
     *   [Hurl (⭐2k)](https://github.com/Orange-OpenSource/hurl) — Run and test HTTP requests with plain text and libcurl [![CI](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/Orange-OpenSource/hurl/actions)
 
-## [51. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [55. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
@@ -674,7 +779,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [Neighborhood Pet Manager (⭐1)](https://github.com/AustinGil/npm)
 
-## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [56. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -983,7 +1088,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   [m00qek/plugin-template.nvim (⭐58)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 *   [ellisonleao/nvim-plugin-template (⭐61)](https://github.com/ellisonleao/nvim-plugin-template) - Another neovim plugin template, using GitHub's template feature.
 
-## [53. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [57. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
@@ -997,13 +1102,13 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [National Archives](https://www.archives.gov/) - The official archives regarding veteran records, founding documents and presidential libraries of the United States.
 
-## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [58. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [WebAssembly Steals the ASP.NET Core Show in .NET 7 RC1](https://visualstudiomagazine.com/articles/2022/09/20/aspnet-core-updates.aspx) - September 20, 2022 - WebAssembly, the open source tech that makes client-side Blazor work, was the star of the ASP.NET Core show in the new [ASP.NET Core updates in .NET 7 Release Candidate 1](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/).
 
-## [55. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [59. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Command-Line Tools / Newsletters
 
@@ -1022,13 +1127,13 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
 
-## [56. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [60. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Non-English Content / Tower Defense
 
 *   [Spanish (Español) (⭐607)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
-## [57. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [61. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Mobile
 

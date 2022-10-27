@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -94,13 +94,27 @@
 
 *   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.1k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 
-## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Svelte
+
+*   [svelte-vite-ssr (⭐38)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-radar (⭐56)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-imp (⭐172)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+
+## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Rust
 
 *   [rust-nix-templater (⭐42)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 
-## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Kubernetes
 
@@ -114,6 +128,12 @@
 ### Operating System distributions / Firewall appliances or distributions
 
 *   [Qubes OS](https://qubes-os.org/) - Desktop environment built atop the Xen hypervisor project that runs each end-user program in its own virtual machine intended to provide strict security controls to constrain the reach of any successful malware exploit.
+
+## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [SigPloit](https://github.com/SigPloiter/SigPloit) - Signaling security testing framework dedicated to telecom security for researching vulnerabilites in the signaling protocols used in mobile (cellular phone) operators.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,7 +50,14 @@
 
 *   [Dockeron (⭐787)](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 
-## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Module Bundlers / Playground
+
+*   [Browserify](http://browserify.org/) - CommonJS module bundler. Does not support TypeScript "out of the box", but can be applied with \* [Grunt](http://gruntjs.com/) tasks: [grunt-ts](https://www.npmjs.com/package/grunt-ts), [grunt-browserify](https://www.npmjs.com/package/grunt-browserify), [grunt-contrib-uglify](https://www.npmjs.com/package/grunt-contrib-uglify)
+*   [fuse-box (⭐4k)](https://github.com/fuse-box/fuse-box) | <http://fuse-box.org/> - typescript sample: [fuse-box-ts-react-reflux-seed (⭐27)](https://github.com/fuse-box/fuse-box-ts-react-reflux-seed)
+
+## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Github Libraries / Randomized Algorithms
 

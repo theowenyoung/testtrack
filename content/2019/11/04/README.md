@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2019
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -230,7 +230,41 @@
 
 *   [phishing\_catcher (⭐1.4k)](https://github.com/x0rz/phishing_catcher) - Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the [CertStream](https://certstream.calidog.io/) service.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Conferences and Events / Asia
+
+*   [HITB](https://conference.hitb.org/) - Deep-knowledge security conference held in Malaysia and The Netherlands.
+*   [Nullcon](http://nullcon.net/website/) - Annual conference in Delhi and Goa, India.
+*   [SECUINSIDE](http://secuinside.com) - Security Conference in Seoul.
+
+### Conferences and Events / Europe
+
+*   [44Con](https://44con.com/) - Annual Security Conference held in London.
+*   [Hack.lu](https://hack.lu/) - Annual conference held in Luxembourg.
+*   [Infosecurity Europe](http://www.infosecurityeurope.com/) - Europe's number one information security event, held in London, UK.
+*   [SteelCon](https://www.steelcon.info/) - Security conference in Sheffield UK.
+*   [Swiss Cyber Storm](https://www.swisscyberstorm.com/) - Annual security conference in Lucerne, Switzerland.
+*   [Troopers](https://www.troopers.de) - Annual international IT Security event with workshops held in Heidelberg, Germany.
+
+### Conferences and Events / North America
+
+*   [AppSecUSA](https://appsecusa.org/) - Annual conference organized by OWASP.
+*   [Black Hat](http://www.blackhat.com/) - Annual security conference in Las Vegas.
+*   [CarolinaCon](https://carolinacon.org/) - Infosec conference, held annually in North Carolina.
+*   [DEF CON](https://www.defcon.org/) - Annual hacker convention in Las Vegas.
+*   [DerbyCon](https://www.derbycon.com/) - Annual hacker conference based in Louisville.
+*   [SummerCon](https://www.summercon.org/) - One of the oldest hacker conventions in America, held during Summer.
+
+### Conferences and Events / South America
+
+*   [Ekoparty](http://www.ekoparty.org) - Largest Security Conference in Latin America, held annually in Buenos Aires, Argentina.
+
+### Conferences and Events / Zealandia
+
+*   [CHCon](https://chcon.nz) - Christchurch Hacker Con, Only South Island of New Zealand hacker con.
+
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 

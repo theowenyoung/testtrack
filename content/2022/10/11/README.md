@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2022
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,7 +61,18 @@
 
 *   [Robert de Bock](https://robertdebock.nl) - A extensive collection of Ansible roles.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Electron
+
+*   [Vitron (⭐2)](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-patch-env (⭐1)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
+*   [vite-plugin-conditional-compile (⭐2)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
@@ -71,13 +82,13 @@
 
 *   [JoosepAlviste/nvim-ts-context-commentstring (⭐622)](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 
-## [10. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [11. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Searching and Categorizing
 
 *   [collective.elasticsearch (⭐18)](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
 
-## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [12. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
@@ -135,19 +146,19 @@
 *   [vglist (⭐128)](https://github.com/connorshea/vglist) - A video game library tracking web app (using Rails 7.0). - [:earth\_africa:](https://vglist.co/)
 *   [websiteOne (⭐139)](https://github.com/AgileVentures/WebsiteOne) - A project tracking app (using Rails 6.1). - [:earth\_africa:](https://www.agileventures.org/)
 
-## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
 *   [wagtail-live (⭐25)](https://github.com/wagtail/wagtail-live) - Build live blogs with Wagtail.
 
-## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [14. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2013
 
 *   [Auditing: Active Learning with Outcome-Dependent Query Costs](https://www.cs.bgu.ac.il/\~sabatos/papers/SabatoSarwate13.pdf) - (NIPS) *Learns from a binary classifier paying only for negative labels.*
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Blockchain
 
@@ -170,13 +181,13 @@
 
 *   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 
-## [15. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [16. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Software as a service:
 
 *   [CiviWiki](https://civi.wiki/) - An open-source, non-profit community, working to develop a democratic engagement web system.
 
-## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
@@ -186,13 +197,13 @@
 
 *   [Yew-Template (⭐14)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1611378436)
 
-## [18. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [19. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

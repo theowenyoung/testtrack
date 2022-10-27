@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,19 @@
 
 *   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Meteor
+
+- Name: [Wekan (⭐18k)](https://github.com/wekan/wekan)
+
+  Description: The open-source Trello-like kanban
+
+  Link: <https://wekan.io/>
+
+
+
+## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / Virginia   <a id="virginia">  </a>
 
@@ -38,7 +50,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | open, password on Wall | ✔     | ✔      | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
 
-## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 

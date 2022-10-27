@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02, 2020
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,31 +12,45 @@
 
 *   [ImgixSwift (⭐24)](https://github.com/imgix/imgix-swift) - Easily update image urls to be fast and responsive.
 
-## [2. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Download Managers / Free Indexers
+
+*   [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
+
+### Streaming Sites / HD Streaming
+
+*   [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
+
+### Streaming Sites / Anime
+
+*   [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
+
+## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Hellonext
 
 *   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 
-## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [dev\_server (⭐22)](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 
-## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
 *   [Blueqat (⭐355)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 
-## [5. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [6. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Articles and Documentation
 
 *   [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe) - On issues with dark themes on OLED displays and what to do with them.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
@@ -47,13 +61,13 @@
 *   [MAX170xx (⭐0)](https://github.com/eldruin/max170xx-rs) - I2C - LiPo Fuel gauge, battery monitoring ICs compatible with MAX17043/4, MAX17048/9, MAX17058/9.
 *   [MAX3010x](https://crates.io/crates/max3010x) - I2C - Pulse oximeter and heart-rate sensor. ATM Compatible with MAX30102. -![crates.io](https://img.shields.io/crates/v/max3010x.svg)
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇺🇿 Uzbekistan / Misc
 
 *   [Telegram](https://t.me/dartdevuz)
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### ✳ Information Aggregators / 酷Q Plugin
 
@@ -166,7 +180,13 @@
 *   a Page2RSS service: PolitePol ([Group](https://t.me/joinchat/FuHC1Q-m9ZL7wu_aSmY8PA))
 *   [Inoreader 交流群](https://t.me/joinchat/EqQ3nEOEbMHqQHLd6ai-SQ)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Component Collections / Material Design
+
+*   [matrix-card (⭐18)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
+
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### URL Shorteners
 

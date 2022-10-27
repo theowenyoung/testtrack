@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2017
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -94,25 +94,37 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 *   [GoodForPoc (⭐58)](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 
-## [14. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Admin Architect (⭐206)](http://github.com/adminarchitect/core)
+
+  Description: Administration Framework. Active Admin for Laravel
+
+  Link: <http://adminarchitect.com>
+
+
+
+## [15. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Java / Symfony2
 
 *   [Dropwizard (⭐8.3k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
 *   [SEQ](https://getseq.net) - Seq collects data over HTTP, while your applications use the best available structured logging APIs for your platform.
 
-## [16. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [17. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Places / Monasteries
 
 *   [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 
-## [17. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [18. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Resources
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12 - Apr 18, 2021
 
-55 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -555,7 +555,23 @@
 
 *   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
 
-## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Logic / Mouse Events
+
+*   [Formily (⭐8.7k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+
+## [44. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Testing
+
+*   [mocha-vite-puppeteer (⭐35)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
+
+### React / Framework
+
+*   [@vitjs/vit (⭐92)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
+
+## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -565,7 +581,7 @@
 
 *   [keycloakify: Create Keycloak themes using React (⭐605)](https://github.com/InseeFrLab/keycloakify)
 
-## [44. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -617,7 +633,7 @@
 
 *   [has\_scope (⭐1.6k)](https://github.com/heartcombo/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
 
-## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -767,7 +783,7 @@
 
 
 
-## [46. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [48. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Azure
 
@@ -797,7 +813,7 @@
 
 *   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
-## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -807,32 +823,32 @@
 
 *   [link-header (⭐1)](https://github.com/spider-gazelle/link-header) - HTTP Link Header Parser
 
-## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [RRethy/nvim-base16 (⭐277)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
 *   [fenetikm/falcon (⭐607)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
-## [49. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [51. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Blogs / Participants' solutions
 
 *   [Q# Community](https://qsharp.community)
 
-## [50. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [52. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### JavaScript
 
 *   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
-## [51. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [53. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Developer and Requestor Resources / Miscellaneous
 
 *   [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 
-## [52. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Web Application Firewall
 
@@ -842,7 +858,7 @@
 
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Book that is a practical guide which presents dozens of relevant scenarios in a convenient problem-solution-discussion format.. (early access, published continuously, final release fall 2021)
 
-## [53. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [55. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -876,7 +892,7 @@
 
 *   [Medical Data for Machine Learning (⭐5.3k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
-## [54. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -964,7 +980,7 @@
 
 *   [verbose](https://shinmera.github.io/verbose) - A fast and highly configurable logging framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [55. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [57. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 

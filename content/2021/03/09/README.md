@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2021
 
-14 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,23 @@
 
 *   [Nullable.Extended (⭐20)](https://github.com/tom-englert/Nullable.Extended) - Roslyn tools and analyzers to improve the experience when coding with nullable reference types.
 
-## [3. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [tRPC + Next.js](https://trpc.io/docs/nextjs/) - Full-stack starter projects for end-to-end type safe development with React
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
+
+## [4. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   Kotlin: [chrome-devtools-kotlin (⭐29)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 
-## [4. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [5. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Books / Devops
 
@@ -45,19 +55,19 @@
 
 *   <https://alvinalexander.com>
 
-## [5. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [6. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Libraries
 
 *   [QAppImageUpdate (⭐25)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 
-## [6. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
 *   [Translations (⭐58)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### CMS
 
@@ -67,13 +77,23 @@
 
 *   [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-diagram-editor (⭐70)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-mpa (⭐149)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+
+### Vue CLI / Community
+
+*   [vue-cli-plugin-vite (⭐373)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
+
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -83,25 +103,31 @@
 
 *   [WebDNN (⭐1.9k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network Javascript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Files and directories / Third-party APIs
 
 *   [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### App Routing
 
 *   [Composable Navigator (⭐531)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Map
+
+*   [pigeon-maps (⭐3.3k)](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
+
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Securing Blazor Web Assembly using cookies](https://damienbod.com/2021/03/08/securing-blazor-web-assembly-using-cookies/) - March 8, 2021 - Securing Blazor Web Assembly using cookies. [Source code (⭐47)](https://github.com/damienbod/AzureADAuthRazorUiServiceApiCertificate/tree/main/BlazorBff) ![stars](https://img.shields.io/github/stars/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square\&cacheSeconds=86400).
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [16. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -115,7 +141,7 @@
 
 *   [Writing Your First Postmortem](https://sharpend.io/writing-your-first-postmortem/)
 
-## [14. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [17. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -92,13 +92,31 @@
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching for Neovim specific plugins and guides for building plugins in Lua.
 
-## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [stravital (⭐20)](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-importus (⭐4)](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-inject (⭐8)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+
+### Symfony / Community
+
+*   [Vite Bundle (⭐64)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+
+## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Official
 
 *   [Playground](https://play.yew.rs) - Online playground for Yew.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 

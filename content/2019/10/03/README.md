@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2019
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,13 @@
 
 *   [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
-## [6. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / Cartoons
+
+*   [KimCartoon](https://kimcartoon.to/) Large cartoon collection, primarily Openload
+
+## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Design Patterns
 
@@ -47,7 +53,7 @@
 *   [Agile Architecture Pt. 1, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) - How do we work with architecture in a agile world 🎥.
 *   [Agile Architecture Pt. 2, by Allen Holub](https://www.youtube.com/watch?v=txbS0WJC1bo) - How do we work with architecture in a agile world 🎥.
 
-## [7. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [8. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Books
 
@@ -57,7 +63,7 @@
 
 *   [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 
-## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -73,21 +79,21 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ![](https://www.speedtest.net/result/8644645756.png)
 
-## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [10. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Blogs / Randomized Algorithms
 
 *   [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
 *   [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
 
-## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Ladybug Podcast](https://ladybug.dev/) – An all lady-hosted tech podcast for all developers with great discussions around how to start coding, the hot technologies right now, how to get your first developer job, imposter syndrome, how to write CSS and more.
 *   [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - A security podcast geared towards those looking to better understand security topics of the day.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -130,7 +136,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Swift for Tensorflow (⭐6.1k)](https://github.com/tensorflow/swift) - a next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
 
-## [12. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
+## [13. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
 ### Built with Imba / Apps/Websites
 
@@ -139,20 +145,20 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [Weather App (⭐3)](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 *   [Top Down Shooter (⭐9)](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-music-control (⭐698)](https://github.com/tanguyantoine/react-native-music-control/) - React Native module to display Now playing Info on lockscreen and handle control events
 *   [react-native-airplay-button (⭐1)](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
 
-## [14. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [15. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
-## [15. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [16. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools / Repair or Validate CSV
 
@@ -167,13 +173,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [DuctTape (⭐170)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 
@@ -231,7 +237,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 
 
-## [18. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [19. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / jQuery
 
@@ -242,13 +248,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
-## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [20. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [21. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bytecode Manipulation
 
@@ -372,7 +378,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [21. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [22. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 

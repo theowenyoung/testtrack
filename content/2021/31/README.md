@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02 - Aug 08, 2021
 
-41 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -352,13 +352,23 @@
 
 *   [Visual regression testing using Jest, Chromeless and AWS Lambda (⭐17)](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - Tutorial using Chromeless and jest-image-snapshot.
 
-## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Frameworks / Community
+
+*   [vitext (⭐366)](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf)
+
+### Laravel / Community
+
+*   [Laravel Vite (⭐570)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+
+## [24. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tools
 
 *   [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
 
-## [24. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [25. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
@@ -453,13 +463,13 @@
 *   [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 *   [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
-## [25. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [26. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 
-## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -629,7 +639,7 @@
     *   [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) — Presented by [Nicholas Matsakis](https://github.com/nikomatsakis) @ C++Now 2018
     *   [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — Presented by [Michael Gattozzi](https://github.com/mgattozzi) @ RustConf 2017
 
-## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [28. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Videos / Talks
 
@@ -644,7 +654,7 @@
 
 *   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -664,14 +674,14 @@
 *   [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
 *   [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
-## [29. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [30. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [Dynamic\_logistics\_Warehouse (⭐77)](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses.
 *   [OpenCDA (⭐687)](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 
-## [30. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -706,7 +716,7 @@
 *   [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 *   [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
-## [31. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Debugging
 
@@ -721,7 +731,7 @@
 
 *   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
-## [32. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [33. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -731,14 +741,14 @@
 
 *   [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
-## [33. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [34. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 *   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 
-## [34. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [35. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
@@ -748,25 +758,31 @@
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
     *   [ghosind/dvm (⭐25)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
-## [35. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [36. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Code Analysis
 
 *   :strawberry: [CakeDC/PHPStan (⭐17)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 
-## [36. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Blogs
+
+*   [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
+
+## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Security / Scala
 
 *   [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol) - Grant Negotiation and Authorization Protocol defines a mechanism for delegating authorization to a piece of software, and conveying that delegation to the software. This delegation can include access to a set of APIs as well as information passed directly to the software.<sup>DRAFT</sup>
 
-## [37. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [39. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [upf-bpf (⭐123)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -782,7 +798,7 @@
 *   [v-network-graph (⭐208)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 *   [vue-word-highlighter (⭐97)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 
-## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -837,7 +853,7 @@
 
 
 
-## [40. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Audio
 
@@ -889,7 +905,7 @@
 
 *   [DFMJSON (⭐26)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -537,19 +537,43 @@
 
 *   [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### General Search
+
+*   [Wolfram Alpha](http://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
+    algorithms, knowledgebase and AI technology.
+
+### Real-Time Search, Social Media Search, and General Social Media Tools
+
+*   [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
+*   [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
+
+### Social Media Tools / Twitter
+
+*   [Backtweets](http://backtweets.com) - BackTweets is a Twitter analytics tool that allows users to search through a Tweet archive.
+
+### Username Check / Telegram
+
+*   [Sherlock (⭐37k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+
+### DNS / Telegram
+
+*   [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
+
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
 *   [BlazorPowerHour (⭐13)](https://github.com/EdCharbeneau/BlazorPowerHour) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorPowerHour?style=flat-square\&cacheSeconds=86400) The Blazor Power Hour show index, by Ed Charbeneau.
 
-## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Case studies
 
 *   [Google Developers Case Studies](https://developers.google.com/web/showcase) - Learn why and how other developers have used the web to create amazing web experiences for their users.
 
-## [13. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Broad Overviews
 
@@ -559,20 +583,20 @@
 
 *   [Data Validation for Machine Learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf) 🎓
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Transition
 
 *   [DropdownTransition (⭐63)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [bee-grid-table (⭐47)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
 *   [vnodes (⭐71)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
-## [16. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [17. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Open Source Analyzers, Code Fixes, and Refactorings
 
@@ -582,7 +606,7 @@
 
 *   [WrapperValueObject (⭐42)](https://github.com/martinothamar/WrapperValueObject) - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
 
-## [17. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 

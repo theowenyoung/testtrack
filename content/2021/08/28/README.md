@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,6 +77,12 @@
 ### Archives and primary sources / Switzerland
 
 *   [histHub](https://histhub.ch/) - Search engine for all major standardized data APIs.
+
+## [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Arcanum](https://www.drivethrurpg.com/product/368750/Arcanum-High-Magic-for-Ironsworn) - High magic for Ironsworn
 
 ---
 

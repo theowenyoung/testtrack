@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05 - Jun 11, 2017
 
-41 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -225,14 +225,20 @@ Lite Version (Free) and Full Version ($3)
 
 *   [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [20. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [20. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+
+### Styleguide and Branding
+
+*   [Clarity](http://clarity.design)
+
+## [21. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
 *   [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) - Samsung open-source framework for multi-platform TV apps developemnt.
 *   [Enyo](http://enyojs.com) - LG framework for development apps for all major platforms, from phones and tablets to PCs and TVs.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -243,31 +249,31 @@ Lite Version (Free) and Full Version ($3)
 
 *   [vue-scroll-behavior (⭐142)](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
-## [22. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [23. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
 
-## [23. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [24. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
 *   [cmake-get (⭐59)](https://github.com/pfultz2/cmake-get) - Get dependencies in config or script mode. `[NO LICENSE]`
 
-## [24. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [25. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [Domain StoryTelling Slack](https://domainstorytelling.slack.com) - A slack team about Domain StoryTelling. It is currently invite only, but you can ask [@hofstef](https://twitter.com/hofstef) for an invitation. The homepage is at [domainstorytelling.org](http://domainstorytelling.org/).
 
-## [25. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [26. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Blogs / Case Study
 
 *   [Diving Laravel](https://divinglaravel.com/)
 
-## [26. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [27. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Operating Systems
 
@@ -281,13 +287,13 @@ Lite Version (Free) and Full Version ($3)
 
 *   [gplenforced.org](https://gplenforced.org/) - Community-oriented GPL enforcement.
 
-## [27. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [28. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio is a solution to add mesh networking capability and WiFi-Internet access to all yout IoT devices, and it is Arduino compatible.
 
-## [28. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [29. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Papers / Hylomorphisms in the Wild
 
@@ -299,7 +305,7 @@ Lite Version (Free) and Full Version ($3)
 *   [purescript-matryoshka (⭐57)](https://github.com/slamdata/purescript-matryoshka) for PureScript -
     Work-in-process port of matryoshka.
 
-## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [30. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -314,7 +320,7 @@ Lite Version (Free) and Full Version ($3)
 *   [passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP.
 *   [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -328,13 +334,13 @@ Lite Version (Free) and Full Version ($3)
 
 *   [Kalm (⭐182)](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 
-## [31. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [pg-formatter (⭐61)](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
 
-## [32. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [33. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Translations
 
@@ -344,7 +350,7 @@ Lite Version (Free) and Full Version ($3)
 
 *   [Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop) (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
 
-## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -362,13 +368,19 @@ Lite Version (Free) and Full Version ($3)
 
 *   [Data Grid Extensions (⭐578)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
-## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Persian
 
 *   [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
 
-## [35. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Document and Reference Management / Telegram
+
+*   [ManualsLib](https://www.manualslib.com/) - Database of More Than 2.6M Manuals.
+
+## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -385,7 +397,7 @@ Lite Version (Free) and Full Version ($3)
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
 *   [hm-def (⭐193)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
-## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [38. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
@@ -398,7 +410,7 @@ Lite Version (Free) and Full Version ($3)
 *   [tldr (⭐41k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 *   [Wat (⭐464)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
-## [37. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [39. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### GUI / Swift
 
@@ -417,7 +429,7 @@ Lite Version (Free) and Full Version ($3)
 
 *   [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
 
-## [38. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -427,13 +439,13 @@ Lite Version (Free) and Full Version ($3)
 
 *   [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 
-## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
 *   [Bender (⭐1.7k)](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Norway 🇳🇴 / Stavanger
 
@@ -490,7 +502,7 @@ Webpage: <http://breadandhearth.com/>
 | ---- | ----- | ------------------------------------------------------------- | ------------------- |
 | ✔    | ?     | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM |
 
-## [41. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Emulators
 

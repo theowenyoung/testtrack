@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 14, 2022
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -247,13 +247,25 @@
 
 *   [PageShare.dev](https://www.pageshare.dev) - Adds visual reviews capabilities into GitHub Pull Requests with no need to deploy websites. Free for up to 10 pages each month and 100MB of storage in total.
 
-## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-babel (⭐14)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
+
+## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Modules / Godot 4.0
 
 *   [FMOD GD4 (⭐8)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 
-## [10. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [pipe-viewer (⭐224)](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
+
+## [12. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Analysis
 
@@ -420,13 +432,13 @@
 *   [uibuilder (⭐324)](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 *   [web-worldmap (⭐83)](https://github.com/dceejay/RedMap) - Provide a world map web page for plotting "things" on.
 
-## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
 *   [ocelotgui (⭐53)](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 

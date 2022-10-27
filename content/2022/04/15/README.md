@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 15, 2022
 
-10 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,13 +45,45 @@
 
 *   [dam5s/aspen (⭐33)](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin.
 
-## [6. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [YouTube.js (⭐2.4k)](https://github.com/LuanRT/YouTube.js): Full-featured wrapper around the Innertube API, which is what YouTube itself uses
+*   [oleksis/youtube-dl-gui (⭐772)](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
+
+### Overview / Google Translate
+
+*   [Crow Translate (⭐969)](https://github.com/crow-translate/crow-translate): Simple and lightweight cross-platform translator that allows translation using LibreTranslate, Lingva, Google, Bing, and Yandex, as well as text-to-speech using Google
+
+### Overview / Mastodon
+
+*   [Pinafore (⭐698)](https://github.com/nolanlawson/pinafore): Alternative web client for Mastodon, focused on speed and simplicity
+*   [Sengi (⭐242)](https://github.com/NicolasConstant/sengi): cross-platform multi-account Mastodon & Pleroma desktop client
+*   [TheDesk (⭐167)](https://github.com/cutls/TheDesk): cross-platform Mastodon & Misskey desktop client
+*   [Tootle (⭐396)](https://github.com/bleakgrey/tootle): simple GTK-based Linux Mastodon client
+*   [Tusky (⭐1.4k)](https://github.com/tuskyapp/Tusky): lightweight Android Mastodon client
+*   [Fedilab](https://framagit.org/tom79/fedilab): multi-account Android Mastodon client
+*   [Hyperspace (⭐162)](https://github.com/hyperspacedev/hyperspace): cross-platform Mastodon client for the fediverse written in TypeScript and React
+
+### Overview / Telegram
+
+*   [Telegram-FOSS (⭐1.9k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
+
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-ant-design-pro (⭐38)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-react-proste (⭐6)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+
+## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Web Development
 
 *   [Frontend development roadmap (⭐2.3k)](https://github.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf) - Frontend development interview checklist & roadmap [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/kamranahmedse/developer-roadmap/blob/main/2022_FE_roadmap.pdf).
 
-## [7. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -99,19 +131,29 @@
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Twitter
+
+*   [Pleroma](https://pleroma.social/) 🧩 - Pleroma is a free, federated social networking server built on open protocols.
+    *   [Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe) - A frontend for Pleroma with a focus on custom branding and ease of use.
+    *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Husky](https://git.sr.ht/\~captainepoch/husky) - Android client for Pleroma and Mastodon.
+*   [Mastodon](https://joinmastodon.org/) 🧩 - Free, federated microblogging social network built on open protocols.
+    *   [Mastodon Apps](https://joinmastodon.org/apps) - List of Mastodon apps for Android, iOS, Web and Desktop.
+
+## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
 *   [tailyew (⭐9)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
-## [9. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Web Hosting
 
 *   [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) \[FREE] - Standard Web Hosting Package for Free for the first year for students.
 
-## [10. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Connector
 

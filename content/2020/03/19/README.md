@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 19, 2020
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,6 +46,18 @@
 ### Articles / Other external resources
 
 *   [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
+
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Carousel
+
+*   [@egjs/react-flicking (⭐2.2k)](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/) - [npm](https://www.npmjs.com/package/@egjs/react-flicking) - [demo](https://naver.github.io/egjs-flicking/) - It's reliable, flexible and extendable carousel.
+
+## [8. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Social Engineering / Social Engineering Tools
+
+*   [Evilginx2 (⭐6.3k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
 
 ---
 

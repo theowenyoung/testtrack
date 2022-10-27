@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,6 +116,12 @@ Installs: 48 | Stars: n/a | Last update: 10 Aug 2020
 ### GUI Development
 
 *   [PyQt](https://doc.qt.io/qtforpython/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
+
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Notes and Tasks
+
+*   [SiYuan (⭐7.4k)](https://github.com/siyuan-note/siyuan) - A local-first personal knowledge management system.
 
 ---
 

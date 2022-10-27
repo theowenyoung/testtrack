@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,13 +37,39 @@
 *   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
 *   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [3. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Anyone Can Create an App* by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
+*   [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
+
+### Objective-C
+
+*   [*Programming in Objective-C* by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+
+### Swift
+
+*   [*The Swift Programming Language* by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
+*   [*Compiling Swift Generics* by Slava Pestov](https://download.swift.org/docs/assets/generics.pdf)
+*   [*Hello Swift!* by Tanmay Bakshi, Lynn Beighley](https://www.manning.com/books/hello-swift)
+*   [*Swift in Depth* by Tjeerd in 't Veen](https://www.manning.com/books/swift-in-depth)
+
+### Architecture
+
+*   [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+
+### Database
+
+*   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [4. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -53,19 +79,25 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
+
+## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -124,7 +156,7 @@
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Software Architecture
 

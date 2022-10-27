@@ -1,6 +1,6 @@
 # Awesome List Updates on May 17, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,13 @@
 
 *   [MEDIC Client Registry RI (⭐13)](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
 
-## [7. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
+
+## [8. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### New to Laravel
 

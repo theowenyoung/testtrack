@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -120,13 +120,19 @@
 *   [Adam Johnsons Blog](https://adamj.eu/tech/tag/mypy/) - Adam Johnson blogs about typing practices.
 *   [ParamSpec Guide](https://sobolevn.me/2021/12/paramspec-guide) - Newly released feature in `PEP612` allows you do a lot of advanced typing things with functions and their signatures.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 2
+
+*   [vite-vue2-ts-vuetify-starter (⭐49)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
+
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
 *   [Surmagic (⭐259)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
-## [8. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [9. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -146,7 +152,7 @@
 *   [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 *   [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -162,14 +168,14 @@
 
 
 
-## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [11. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / File Management
 
 *   [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 *   [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 
-## [11. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [12. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Automation / Ruby
 

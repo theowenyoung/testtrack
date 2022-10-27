@@ -1,18 +1,64 @@
 # Awesome List Updates on Mar 15, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Types / Playground
+
+*   [type-o-rama (⭐239)](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
+
+### Runtime / Playground
+
+*   [Agent Framework (⭐109)](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
+
+### Web/ReactJS / Playground
+
+*   :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
+*   :octocat: [Microsoft/TypeScript-React-Starter (⭐11k)](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
+*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐37k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+*   :octocat: [jsxtyper (⭐37)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+*   :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
+*   :octocat: [TodoMVC • TypeScript + React Example (⭐28k)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
+*   :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
+*   :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
+*   :robot: [Convert React code to TypeScript automatically (⭐1.6k)](https://github.com/lyft/react-javascript-to-typescript-transform)
+*   :octocat: [React Server Example TSX (⭐272)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
+*   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
+*   :octocat: [Typescript Monorepo CRA Example (⭐25)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
+*   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   :stars: [Crisp React (⭐154)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
+
+### Back-end API / Playground
+
+*   :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
+
+### Standalone apps / Chrome Extensions
+
+*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension)
+
+### :free: Free Courses / Chrome Extensions
+
+*   [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
+
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Machine Learning
+
+*   [*Deep Learning with Swift for TensorFlow* by Rahul Bhalley](https://www.apress.com/gp/book/9781484263297)
+
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Podcasts / Others
 
 *   [.NET 6 with Daniel Roth](https://www.dotnetrocks.com/?show=1730) - March 11, 2021 - What's next for .NET? Carl and Richard chat with Dan Roth about all the good things coming this November for .NET. The conversation starts out with some discussion around Blazor, which is no longer an experimental project, but now a key part of .NET. Dan talks about the role of MAUI bringing together UI elements for smartphones, tablets, PCs, and more. There's a lot to look forward to by the end of 2021. Duration: 58 minutes.
 
-## [2. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Community
 
@@ -30,25 +76,25 @@
 
 *   [Superfamiconv (⭐94)](https://github.com/Optiroc/SuperFamiconv) - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Useful Links
 
 *   💙 [Just-in-time (⭐2.2k)](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-props-validation (⭐21)](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
 
-## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Static Analysis Tools
 
 *   [APKLeaks (⭐3.3k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
-## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Official Website
 
@@ -189,44 +235,44 @@
 
 *   [mood (⭐42)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
-## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
 *   [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [10. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Extending Content Editor
 
 *   [Sitecore-TinyMCERTE (⭐2)](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
 
-## [9. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [11. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### Privacy focused analytics
 
 *   [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Developer utilities / Third-party APIs
 
 *   [printv (⭐66)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [13. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
 *   [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 *   [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
-## [12. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [14. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Related
 
 *   [Developers Guide to HIPAA Compliance (⭐1.5k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -244,7 +290,7 @@
 
 *   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
 
-## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [16. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Utilities
 

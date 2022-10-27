@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 16, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,32 @@
 
 *   [openapi-python-client (⭐495)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-semantic-admin (⭐63)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐646)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown / LaTeX / Diagnostics
 
 *   [jubnzv/mdeval.nvim (⭐82)](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside markdown documents.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [WinterCMS (⭐1k)](https://github.com/wintercms/winter)
+
+  Description: CMS platform built on Laravel
+
+  Link: <https://wintercms.com/>
+
+
+
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Artifact Repos
 

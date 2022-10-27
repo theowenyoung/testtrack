@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -327,13 +327,22 @@
 
 *   Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](https://libreprojects.net/)
 
-## [4. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Conferences
+
+*   [DjangoCon US](https://djangocon.us/) ([YouTube Channel](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw))
+*   [DjangoCon Europe](https://djangocon.eu/) ([YouTube Channel](https://www.youtube.com/user/djangoconeurope))
+*   [DjangoCon AU](https://djangocon.com.au/)
+*   [DjangoCon Africa](https://djangocon.africa/)
+
+## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Experimentation / NLP
 
 *   [Neptune](https://neptune.ai) - A lightweight ML experiment tracking, results visualization and management tool.
 
-## [5. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Emails
 
@@ -347,7 +356,7 @@
 
 *   [Falsehoods about garbage collection](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - Misconceptions about the predictability and performance of garbage collection.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Security
 
@@ -356,7 +365,7 @@
 *   [xiringuito (⭐1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 *   [ots (⭐1.6k)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### CMS
 
@@ -388,13 +397,13 @@
 
 *   [Let's Learn .NET: Blazor](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-NET-Blazor) - ![duration](https://img.shields.io/badge/Duration:%20-121%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) June 7, 2021 - Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries. Together, we will learn all about Blazor and why you would use it to build web apps, and then we will build our first client web app with Blazor and .NET.
 
-## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📁 [Tailmin (⭐42)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
 
-## [9. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [10. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### Code samples and snippets
 
@@ -404,13 +413,13 @@
 
 *   [react-sceneview (⭐11)](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
 
-## [10. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### GUI WYSIWYG Builders / Web
 
 *   [Adventure (formerly AutoGUI)](https://www.autohotkey.com/boards/viewtopic.php?f=64\&t=89901) - by [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile\&u=64723) - WYSIWIG GUI Designer and Script Editor.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 
@@ -468,32 +477,32 @@
 
 
 
-## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [Tabnine](https://www.tabnine.com/students) \[FREE] - Tabnine is an AI code completion tool that works on any IDE and supports all programming languages. Tabnine Pro Edition free for 1 year.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
 *   More tools to improve the ML lifecycle: [Catalyst (⭐3k)](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are Github-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
 
-## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Tools
 
 *   [Neptune](https://neptune.ai/) - Lightweight tool for experiment tracking and results visualization.
 
-## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [16. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / "System" bindings
 
 *   [micro\_ros\_arduino (⭐223)](https://github.com/micro-ROS/micro_ros_arduino) - Integration of micro-ROS into Arduino software platform projects.
 *   [micro\_ros\_zephyr\_module (⭐23)](https://github.com/micro-ROS/micro_ros_zephyr_module) - Integration of micro-ROS in Zeyphr OS based projects.
 
-## [16. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [17. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Hellonext
 
@@ -504,7 +513,7 @@
 
 *   [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - By Douglas Stone.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 

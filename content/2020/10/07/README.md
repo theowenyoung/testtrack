@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,7 +54,14 @@
 
 *   🌍💙 [Play](https://play.tailwindcss.com/) - Advanced online playground for Tailwind CSS.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Caching
+
+*   [django-cachalot (⭐968)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
+*   [django-cacheops (⭐1.7k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -64,19 +71,19 @@
 
 *   [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1529006487)
 
-## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [11. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Command-line tools
 
 *   [jo (⭐4.3k)](https://github.com/jpmens/jo) - A small utility to create JSON objects
 
-## [11. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### UI
 
 *   [YALG (⭐10)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Resources
 
@@ -90,31 +97,31 @@
 
 *   [seniorjoinu/reliable-udp (⭐25)](https://github.com/seniorjoinu/reliable-udp) - Multiplexed, coroutine-powered reliable UDP for Kotlin using fountain codes
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CDN and Protection
 
 *   [Skypack](https://www.skypack.dev/) — The 100% Native ES Module JavaScript CDN. Free for 1 million requests per domain, per month.
 
-## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS   *(PostgreSQL as a Service)*
 
 *   [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 
-## [15. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [16. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### High-Level Frameworks / Multi-accounts setup
 
 *   [cdk-stepfunctions-patterns (⭐46)](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 
-## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [17. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Copybara Action (⭐69)](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
 
-## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / USENIX Security
 
@@ -133,7 +140,7 @@
 
 *   [dtls-fuzzer (⭐18)](https://github.com/assist-project/dtls-fuzzer) - A Java tool which performs protocol state fuzzing of DTLS servers.
 
-## [18. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [19. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Online books
 

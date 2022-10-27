@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,7 +47,25 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code (⭐5.8k)](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+
+### Libraries
+
+*   ### Pascal
+    *   #### - General -
+        *   🌎 [Delphi](https://www.embarcadero.com/products/delphi) - Popular IDE with cross-platform support.
+        *   🌎 [Free Pascal](https://www.freepascal.org/) - Mature, versatile, open source Pascal compiler.
+        *   📚 [Pascal Tutorials](https://www.tutorialspoint.com/pascal/index.htm) - Simple and easy Pascal tutorials.
+    *   #### Awesome Collections
+        *   📚 [Awesome Pascal (⭐1.4k)](https://github.com/Fr0sT-Brutal/awesome-pascal) - Curated list of Delphi / Pascal resources.
+    *   #### Pascal: Game Engine w/Editor
+        *   🎉 [Castle](https://castle-engine.io/) [:octocat: (⭐656)](https://github.com/castle-engine/castle-engine) - Cross-platform 3D/2D game engine and visual editor.
+    *   #### Pascal: Game Framework
+        *   🎉 [Apus (⭐130)](https://github.com/Cooler2/ApusGameEngine) - Cross-platform library for making 2D games.
+    *   #### Pascal: Physics
+        *   🎉 [Kraft (⭐88)](https://github.com/BeRo1985/kraft) - Object Pascal 3D physics engine.
+
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Game Development
 
@@ -98,13 +116,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [lightningkite/kotlin-core (⭐36)](https://github.com/lightningkite/kotlin-core) - A full framework for making Android apps. Based on Anko and Kotson.
 
-## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources / Books
 
 *   [Modern Web Development with Deno](https://bpbonline.com/products/modern-web-development-with-deno)
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -114,11 +132,21 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Part 1 - UI driven by Elsa Workflows](https://medium.com/@fanekkie/part-1-ui-driven-by-elsa-workflows-6d0e868ea6c) - October 12, 2022 - This series describes the implementation of a User Interface driven by an Elsa workflow engine.
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Data Science
 
 *   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/\~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
+
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vanilla
+
+*   [vite-tailwind-nojs-starter (⭐13)](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
+
+### Templates / Vue 3
+
+*   [vite-vue-js-starter-template (⭐4)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 
 ---
 

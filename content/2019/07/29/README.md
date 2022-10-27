@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,13 +19,19 @@
 
 *   [Other Todo MVC (⭐1)](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc (⭐28k)](https://github.com/tastejs/todomvc) rules.
 
-## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Layout / Syntax Highlight
+
+*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
+
+## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-eva-icons (⭐183)](https://github.com/artyorsh/react-native-eva-icons) - [Eva Icons (⭐8.4k)](https://github.com/akveo/eva-icons) implementation for React Native based on react-native-svg elements.
 
-## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### macOS-based defenses / Overlay and Virtual Private Networks (VPNs)
 
@@ -33,44 +39,44 @@
 *   [Stronghold (⭐972)](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 *   [macOS Fortress (⭐369)](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
-## [5. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [6. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Research Papers / RFID NFC Tools
 
 *   2017, Jacob et al: [How to Break Secure Boot on FPGA SoCs through Malicious Hardware](https://eprint.iacr.org/2017/625.pdf)
 
-## [6. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [7. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra Deployment / Cassandra Deployment on Kubernetes / Kubernetized Cassandra
 
 *   [Instaclustr - Kubernetes Operator for Cassandra (⭐236)](https://github.com/instaclustr/cassandra-operator) - The Cassandra operator manages Cassandra clusters deployed to Kubernetes and automates tasks related to operating an Cassandra cluster.
 
-## [7. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [8. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### News
 
 *   [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) - The MagPi Magazine, Issue 84, Melissa LeBlanc-Williams, July, 2019.
 
-## [8. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
+## [9. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
 ### Datasets / Genetic Perturbations
 
 *   [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) - 3,072 cell painting profiles from 41 genes knocked down with RNA interference (RNAi) in U2OS cells ([Access from GitHub (⭐16)](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
 
-## [9. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+## [10. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
 ### Resources / Videos
 
 *   [15 Year Old Yaashwin Sarawanan is a human calculator | Asia's Got Talent 2019](https://www.youtube.com/watch?v=kvymoFdjuHw)
 
-## [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Tools / IRC
 
 *   [Bramus/Composer-Autocomplete (⭐92)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 *   [Composer/Xdebug-Handler (⭐2.4k)](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
 
-## [11. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [12. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Bouncers / Hosted
 
@@ -151,7 +157,7 @@
 *   [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source (⭐6)](https://github.com/ircdocs/irc-stats))
 *   [IRC Parser Tests (⭐34)](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
 
-## [12. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [13. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Articles
 
@@ -179,14 +185,14 @@
 
 *   [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) - How to implement performance budgets to avoid regression - Google Chrome Developers.
 
-## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Insights / Podcasts
 
 *   [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 *   [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
 
-## [14. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [15. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Bindings
 

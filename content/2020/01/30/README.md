@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,13 +80,20 @@
 *   [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 *   [Virtual](https://virtualddd.com/)
 
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
+    urls and other data effortlessly
+
+## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### On-Call
 
 *   [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 

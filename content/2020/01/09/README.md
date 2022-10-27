@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,7 +57,25 @@
 
 *   [How to drop 10 million packets per second](https://blog.cloudflare.com/how-to-drop-10-million-packets/) - Cloudflare's blog post talking about their move to using XDP for packet filtering.
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Emoji picker
+
+*   [interweave-emoji-picker (⭐852)](https://github.com/milesj/interweave/tree/master/packages/emoji-picker) - A React based emoji picker powered by Interweave and Emojibase.
+
+### Form Components / Miscellaneous
+
+*   [interweave (⭐852)](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
+
+### Responsive / Syntax Highlight
+
+*   [react-bootstrap (⭐21k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React.
+
+### Test / Lazy Load
+
+*   [rut (⭐15)](https://github.com/milesj/rut) - React testing made easy with `react-test-renderer`. Supports DOM and custom renderers.
+
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 

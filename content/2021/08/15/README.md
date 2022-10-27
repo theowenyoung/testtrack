@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,6 +62,33 @@
 ### Projects / Plugins
 
 *   [Coq-Elpi (⭐83)](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
+
+## [8. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Official Content
+
+*   [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
+*   [Ironsworn: Starforged](https://www.kickstarter.com/projects/shawntomkin/ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+
+### Tools / Ironsworn
+
+*   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
+*   [IronWriter (⭐51)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
+
+### Resources / Ironsworn
+
+*   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
+*   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
+*   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
+*   [Tarot Sworn Sheet](https://assemblyrequisite.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
+*   [Traveler's Ironsworn](https://www.drivethrurpg.com/product/301866/Travelers-Ironsworn-Playkit) - Compact move, oracle, worksheets and character sheets for Ironsworn
+
+### Hacks and homebrew / Ironsworn
+
+*   [Atomsworn](https://www.drivethrurpg.com/product/285005/Atomsworn-A-Post-Nuclear-Primer-Powered-by-Ironsworn-SRD) - Modern/sci-fi post-apocalyptic setting primer for Ironsworn
+*   [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
+*   [HyperCity](https://notrueindian.itch.io/hypercity) - a cyberpunk hack of Ironsworn
 
 ---
 

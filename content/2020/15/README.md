@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2020
 
-59 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,304 @@
 
 *   [Tutorial](https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics) - Modern CMake tutorials part1: CMake basics
 
-## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Background Information
+
+*   [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
+
+### VPN Guides and Tutorials
+
+*   [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak Article by Ernesto
+
+### VPN Subscription Services
+
+*   [Mullvad](https://mullvad.net/en/) A Bitcoin-friendly, privacy-first VPN.
+*   [Windscribe](https://windscribe.com/) Simple VPN, has a free plan that gives you 10gb/mo bandwidth, paid version even has port forwarding for static IPs, privacy-focused.
+*   [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. It is also rated as one of the fastest VPNs out there.
+
+### Self-hosted VPNs
+
+*   [Mysterium Network](https://mysterium.network/) Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
+
+### Browser Extensions
+
+*   [NoScript](https://noscript.net/getit) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
+*   [Burlesco](https://burles.co/en/) Read the news without subscribing, bypass the paywall
+*   [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
+*   [Google Unlocked (⭐1.6k)](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
+
+### Userscripts
+
+*   [AdGuard Popup Blocker (⭐210)](https://github.com/AdguardTeam/PopupBlocker) Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
+*   [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to a new search window.
+
+### Password Vaults
+
+*   [KeePass](https://keepass.info/) Free, open source, light-weight, and easy-to-use password manager.
+    *   [Plugins](https://keepass.info/plugins.html) : A list of third-party plugins for KeePass
+    *   Android: [Keepass2Android (⭐3.4k)](https://github.com/PhilippC/keepass2android)
+    *   iPhone: [KeePassium](https://keepassium.com/)
+    *   Chrome: [Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm)
+    *   Firefox: [Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk)
+    *   Web App: [KeeWeb](https://keeweb.info/)
+
+### Antivirus
+
+*   [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
+
+### Privacy
+
+*   [Any Soft Keyboard (⭐2.3k)](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
+
+### Windows 10 Privacy
+
+*   [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
+
+### Decentralised Networks
+
+*   [Loki (⭐1.2k)](https://github.com/loki-project/loki-network) Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [IPFS](https://ipfs.io/) A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+*   [Yggdrasil](https://yggdrasil-network.github.io/about.html) Makes use of a global spanning tree to form a scalable IPv6 encrypted mesh network.
+
+### Trackers / Private Trackers
+
+*   [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
+*   [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
+*   [PrivateHD](https://privatehd.to/) (PhD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
+*   [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know to pass the RED interview.
+
+### Torrent Clients / Public Trackers
+
+*   [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
+*   [RapidBay (⭐398)](https://github.com/hauxir/rapidbay) Rapid bay is a self-hosted video service/torrent client that makes playing videos from torrents easy.
+
+### Seedboxes / Web-based Cloud Seedboxes
+
+*   [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. The first 20GB are free.
+*   [FileStream.me](https://filestream.me/) The free subscription offers 200Mb max file size and 200GB storage total
+*   [Put.io automator (⭐61)](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers, and files on Put.IO
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [usenet-docker (⭐168)](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
+
+### Tracker Frameworks / Seedbox Setup Tools and Guides
+
+*   [meanTorrent (⭐467)](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, Cloudflare support.
+*   [opentracker](https://erdgeist.org/arts/software/opentracker/) Opentracker is an open and free BitTorrent tracker project.
+
+### Usenet Providers / Seedbox Setup Tools and Guides
+
+*   [Usenet Express](http://usenetexpress.com/) UsenetExpress is a powerful new tier-1 Usenet provider that offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
+
+### Usenet Indexers / Paid Indexers
+
+*   [NZBFinder](https://nzbfinder.ws/) Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.
+*   [DrunkenSlug](https://drunkenslug.com/) :star2: Popular NZB indexer with a free tier and decent retention.
+*   [NZBCat](https://nzb.cat/) Meow *cough* nzb-hair-bal.
+*   [DOGnzb](https://dognzb.cr/login) Invite-only NZB site.
+*   [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name.
+
+### Download Managers / Free Indexers
+
+*   [JDownloader2](https://jdownloader.org/jdownloader2) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+*   [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
+
+### DDL Tools / Free Indexers
+
+*   [megatools (⭐1.5k)](https://github.com/megous/megatools) Open-source command-line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
+*   [wget](https://www.gnu.org/software/wget/) `wget` is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
+*   [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) Beginner guide on how to use `wget`.
+
+### Custom Google Search Engines / Free Indexers
+
+*   These all do the same thing:
+    *   [FileChef](http://filechef.com/)
+    *   [The Eye CGS Engine](https://cgs.the-eye.eu/)
+    *   [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/)
+    *   [lumpySoft.com](https://lumpysoft.com/)
+
+### DDL Search Engines and Crawlers / Free Indexers
+
+*   [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
+
+### DDL Link Sites / Free Indexers
+
+*   [movidy](https://movidy.co) Links for movies and shows in Spanish
+*   [Movie-blog.org](http://movie-blog.sx/) German site for movies
+
+### Premium Link Hosts / Free Indexers
+
+*   [File sharing table](https://nafanz.github.io/) Regularly updated table of information about file hosts.
+
+### Streaming Sites / HD Streaming
+
+*   [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
+*   [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
+
+### Streaming Sites / Third Party Hosts
+
+*   [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
+
+### Media Centre Applications / Third Party Hosts
+
+*   [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
+*   [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [PlexEmail (⭐203)](https://github.com/jakewaldron/PlexEmail) This script aggregates all-new TV, movie and music releases for the past configured time then optionally writes to your web directory and sends out an email.
+*   [Python-PlexLibrary (⭐198)](https://github.com/adamgot/python-plexlibrary) Python command-line utility for creating and maintaining dynamic Plex libraries based on "recipes".
+
+### Kodi / Third Party Hosts
+
+*   [/r/Addons4Kodi](https://www.reddit.com/r/addons4kodi) Discussion and links pertaining to unofficial add-ons for Kodi Media Center
+*   [Pneumatic](https://forum.kodi.tv/showthread.php?tid=97657) Pneumatic is an NZB engine add-on for XBMC. It requires SABnzbd as a backbone.
+*   [Python-GoogleDrive-VideoStream](https://github.com/ddurdle/Python-GoogleDrive-VideoStream) The purpose of this plugin is to serve content delivered in Google Drive plugin for KODI through any HTML5 client.
+*   [Quasar](http://quasar.surge.sh) The purpose of this plugin is to search and stream torrents in Kodi.
+
+### Gaming / Third Party Hosts
+
+*   [goldberg\_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
+
+### Music Downloading / Third Party Hosts
+
+*   [Soulseek](http://www.soulseekqt.net/news/) Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
+
+### Software / Third Party Hosts
+
+*   [nsane.down](https://www.nsanedown.com/) A popular file-sharing forum focused on software
+*   [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
+
+### Adobe CC / Third Party Hosts
+
+*   [Adobe Master Collector](https://saidit.net/s/sjain_guides/wiki/downloads#wiki_adobe_master_collector.3A) This tool downloads pre-activated Adobe applications released by m0nkrus, ranging from CS6 to CC 2020.
+*   [Adobe CC 2018](https://saidit.net/s/sjain_guides/comments/9oz/adobe_cc_2018_full_indepth_guide_to_installing/) Full in-depth guide to installing and cracking any application (Windows)
+*   [Adobe Zii 4.0.3](https://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) Tool for patching and cracking Adobe CC applications.
+*   [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) Full in-depth guide to downloading, installing, activating and optimising.
+
+### Windows / Third Party Hosts
+
+*   [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
+
+### Textbooks / Third Party Hosts
+
+*   [it-ebooks](http://it-ebooks.info) Large selection of free and open-source IT ebooks
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [udemy-downloader-gui (⭐5.8k)](https://github.com/FaisalUmair/udemy-downloader-gui) A cross-platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses.
+
+### Audiobooks / Third Party Hosts
+
+*   [AudioBook Bay](http://audiobookbay.nl/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality
+
+### Comicbooks / Third Party Hosts
+
+*   [Comix-Load](https://comix-load.in/) DDL links for comic books and manga in English and German.
+
+### Manga / Third Party Hosts
+
+*   [HakuNeko (⭐2.8k)](https://github.com/manga-download/hakuneko) A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
+
+### Fonts, Icons, and Graphics / Third Party Hosts
+
+*   [Tomato.to](https://tomato.to/) Stock Downloader | Supports Shutterstock, Gettyimages, Adobe stock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
+
+### Automation / Third Party Hosts
+
+*   [Mylar (⭐982)](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
+*   [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
+
+### Subtitles Automation / Third Party Hosts
+
+*   [subsync (⭐5.6k)](https://github.com/smacke/subsync) Automagically synchronize subtitles with the video.
+
+### P2P Networks / Third Party Hosts
+
+*   [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) a decentralized, mostly server-based, peer-to-peer file-sharing network
+*   [FastTrack](https://en.wikipedia.org/wiki/FastTrack) Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file-sharing programs
+*   [Kad](https://en.wikipedia.org/wiki/Kad_network) The Kad network is a peer-to-peer (P2P) network that implements the Kademlia P2P overlay protocol.
+
+### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
+
+*   [MakeMKV](http://www.makemkv.com/) MakeMKV is your one-click solution to convert video that you own into a free and patents-unencumbered format that can be played everywhere.
+*   [The Encoding Guide](https://encoding-guide.neocities.org/) :star2: In-depth guide on encoding video
+
+### Cloud Storage / Third Party Hosts
+
+*   [RcloneBrowser](https://martins.ninja/RcloneBrowser/) Simple cross-platform GUI for rclone
+*   [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) This is a comparison of file hosting services that are currently active.
+
+### File Renaming and Tagging / Third Party Hosts
+
+*   [/r/datacurator](https://www.reddit.com/r/datacurator/) Subreddit for discussion about the curation of digital data. Be it sorting, file formats, file encoding, best practices, discussion of your setup, tips, and tricks, asking for help, etc.
+
+### Mobile Apps / Third Party Hosts
+
+*   [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
+*   [Tachiyomi (⭐19k)](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
+
+### Streaming Apps / Third Party Hosts
+
+*   [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
+
+### Torrent Apps / Third Party Hosts
+
+*   [BiglyBT](https://f-droid.org/packages/com.biglybt.android.client/) Free, open-source torrent client for Android phone, tablet, Chromebook, & Android TV
+
+### APKs / Third Party Hosts
+
+*   [/r/ApksApps](https://www.reddit.com/r/apksapps) "The best Modded apps on Reddit."
+*   [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) An open-source alternative for the Google Play Store.
+*   [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) Aurora Droid is an unofficial, FOSS client for F-Droid.
+
+### IPTV and DVR / Third Party Hosts
+
+*   [Xtream Editor](http://www.xtream-editor.com/) Xtream Editor allows you to create, edit and sort m3u playlists online.
+
+### IRC / Third Party Hosts
+
+*   [XDCC](https://en.wikipedia.org/wiki/XDCC) XDCC (Xabi DCC or eXtended DCC) is a computer file sharing method which uses the Internet Relay Chat (IRC) network as a hosting service.
+
+### IRC Networks / Third Party Hosts
+
+*   [irc.p2p-network.net](https://p2p-network.net/) P2P file-sharing network
+*   *Moviegods*  `irc://irc.abjects.net/MOVIEGODS` :star2: XDCC file-sharing network, join #mg-chat to continue downloading
+
+### Content Discovery / Third Party Hosts
+
+*   [What is my movie?](https://www.whatismymovie.com/) AI-powered movie search. "Use your own words, or search with titles, actors, directors, genres, etc. We find movies for you to watch."
+*   [JustWatch](https://www.justwatch.com/) On JustWatch you can find out where to watch your favorite movies & TV series
+
+### Dashboards and Homepages / Third Party Hosts
+
+*   [Monitorr (⭐558)](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
+
+### File Sharing Tools / Third Party Hosts
+
+*   [dmca.gripe](https://dmca.gripe/) A DMCA-resistant, permanent file hosting service.
+*   [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
+
+### Miscellaneous / Third Party Hosts
+
+*   [/r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
+*   [/s/piracy](https://saidit.net/s/piracy) Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
+
+## [8. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Social Media Tools / Instagram
+
+*   [Toutatis (⭐803)](https://github.com/megadose/toutatis)
+
+## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Django REST Framework / DRF Tutorials
+
+*   [Official REST Framework - A Beginner's Guide](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
+
+## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### 2020
 
@@ -55,19 +352,19 @@
 
 *   [VSCode <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Data Analysis / Data Visualization
 
 *   [dataframe-go (⭐894)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
-## [9. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [MATRIX AI](https://www.matrix.io/) - The Matrix AI Network is a public chain that combines AI technology with blockchain technology to solve the major challenges currently stifling the development and adoption of blockchain technology. Matrix is poised to revolutionize and democratize the field of Artificial Intelligence using a blockchain-powered decentralized computing platform.
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -77,38 +374,38 @@
 
 *   :strawberry: [Connehito/CakephpMasterReplica plugin (⭐12)](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 
-## [11. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [14. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Annotated Text Data
 
 *   [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) - also known as CQC or the Iowa collection, these are several thousand questions posed by physicians during office visits along with the associated answers.
 *   [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/) - data from six shared tasks, though some may not be easily accessible; try the CG task set (BioNLP2013CG) for extensive entity and event annotations.
 
-## [12. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [15. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / Trading
 
 *   [steam-inventory-stream (⭐9)](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
 
-## [13. Awesome](/content/craftcms/awesome/week/README.md)
+## [16. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Official Links
 
 *   **Dot All Conference** - [dotall.com](http://dotall.com)
 
-## [14. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [17. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
 *   [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
 
-## [15. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [18. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / PHP
 
 *   [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 
-## [16. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [19. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mod Loaders / Archives
 
@@ -175,25 +472,25 @@
 *   [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) - This mod adds multiple new textures to lots of blocks in the game, adding a wide variety of textures. (For editing units smaller than blocks see Chisel and Bits.)
 *   [FAWE](https://intellectualsites.github.io/download/fawe.html) - Stands for Fast Async WorldEdit. Based upon WorldEdit, it is simply faster, and adds lots more tools (i.e. brushes) to work with.
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / DNS
 
 *   [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code (⭐1.6k)](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`
 
-## [18. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [How They Test (⭐4.4k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
-## [19. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [22. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-sites / Git
 
 *   [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
 
-## [20. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [23. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -208,20 +505,20 @@
 *   [Blockstack (⭐183)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
 *   [xterm.js (⭐14k)](https://github.com/xtermjs/xterm.js) - Playwright is used to run cross-browser integration tests.
 
-## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Navigation
 
 *   [z.lua (⭐2.4k)](https://github.com/skywind3000/z.lua) - `cd` command that learns your habits.
 *   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - Fast directory jumper in Rust.
 
-## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### VPN / Metric & Metric Collection
 
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 
-## [23. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [26. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Personality
 
@@ -237,19 +534,19 @@
 
 
 
-## [24. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [27. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Code Quality
 
 *   [Sider](https://sider.review/) - Automated code review.
 
-## [25. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [28. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [NCEAS Interaction Web data](https://iwdb.nceas.ucsb.edu/resources.html#host_parasite) - Collation of fish host and parasites datasets from several Canadain liminological sites, including information on prevalence and intensity. Part of a larger database of species interactions in food webs and plant relationships.
 
-## [26. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [29. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Research Papers / RFID NFC Tools
 
@@ -268,26 +565,26 @@
 
 *   [wrong baud](https://wrongbaud.github.io/)
 
-## [27. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [30. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Products
 
 *   [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 
-## [28. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [31. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
 *   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
 *   [WebGL Month (⭐205)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
-## [29. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Miscellaneous
 
 *   [husky (⭐28k)](https://github.com/typicode/husky) - Create Git hook scripts.
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [33. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -297,19 +594,19 @@
 
 *   [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
 
-## [31. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Opencast](https://anchor.fm/opencast) - Tecnologia, Software Livre e inovação em um bate-papo descontraído e cheio de referências ao mundo unix-like..
 
-## [32. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [35. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### WordPress / WPGraphQL Extensions
 
 *   [WPGraphQl Yoast SEO Plugin (⭐194)](https://github.com/ashhitch/wp-graphql-yoast-seo) - Exposes Yoast SEO data to the WPGraphQL Plugin.
 
-## [33. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Official
 
@@ -355,7 +652,7 @@
 
 *   [Telegram](https://t.me/wavesjapandevs) - DApps開発者のためのTelegramチャット.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Security / Barcode
 
@@ -415,19 +712,34 @@
 
 *   [Azure Functions for Swift (⭐86)](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
-## [35. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [38. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles.
 
-## [36. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [39. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Table
+
+*   [DevExtreme React Grid](https://devexpress.github.io/devextreme-reactive/react/grid/) - High-performance plugin-based data grid for Bootstrap and Material Design.
+
+### Chart
+
+*   [semiotic](https://semiotic.nteract.io/) - Semiotic is a data visualization framework for React.
+*   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based chart for Bootstrap and Material Design.
+
+### Form Components / Date / Time picker
+
+*   [DevExtreme React Scheduler](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - High-performance plugin-based scheduler/calendar for Material Design.
+
+## [40. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Scapy (⭐81)](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
 
-## [37. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [41. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
@@ -437,13 +749,13 @@
 
 *   [wagtail-admin-list-controls (⭐36)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
-## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### CSV
 
 *   [CodableCSV (⭐356)](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row & field-by-field or through Swift's Codable interface.
 
-## [39. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [43. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -464,7 +776,7 @@
 *   [critic.sh (⭐449)](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
 *   [esh (⭐161)](https://github.com/jirutka/esh) - A simple templating engine based on shell, implemented in \~290 lines of POSIX shell and awk.
 
-## [40. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [44. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -474,7 +786,7 @@
 *   [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Productivity-and-Time-Management.md)
 *   [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Tools-to-Define-Your-Leadership-Style.md)
 
-## [41. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [45. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -492,7 +804,7 @@
 
 *   [Secrets Sync Action (⭐269)](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 
-## [42. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [46. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Word Processors
 
@@ -605,13 +917,13 @@
     tutorial on authoring a paper by seamlessly integrating with LaTeX
     commands within Org-mode.
 
-## [43. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [47. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Datasets / Sensor and Acuator Interfaces
 
 *   [Ford Autonomous Vehicle Dataset](https://avdata.ford.com/home/default.aspx) - Ford presents a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times.
 
-## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [48. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### CMS
 
@@ -634,7 +946,7 @@
 
 *   [RPyC (⭐1.2k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
-## [45. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [49. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### API Wrapper
 
@@ -652,7 +964,7 @@
 
 *   [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
 
-## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [50. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Java VM / Java
 
@@ -680,25 +992,25 @@
 
 *   [QUIC-WG](https://quicwg.org/) - IETF Working Group that is chartered to deliver the next transport protocol for the Internet.
 
-## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [51. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak Login with User Attribute (⭐17)](https://github.com/cnieg/keycloak-login-attribute)
 
-## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [52. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Hypermedia Types
 
 *   [hate (⭐20)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 
-## [49. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [53. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [78 (⭐2)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -712,19 +1024,33 @@
 
 *   [V-Craft (⭐224)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
-## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [55. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / DDoS Tools
+
+*   [Low Orbit Ion Canon (LOIC) (⭐2.1k)](https://github.com/NewEraCracker/LOIC) - Open source network stress tool written for Windows.
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Fridax (⭐121)](https://github.com/NorthwaveNL/fridax) - Read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
+
+### Vulnerability Databases / Social Engineering Tools
+
+*   [GitHub Advisories](https://github.com/advisories/) - Public vulnerability advisories published by or affecting codebases hosted by GitHub, including open source projects.
+
+## [56. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Service meshes
 
 *   [CodeQL](https://securitylab.github.com/tools/codeql) - Discover vulnerabilities across a codebase by performing queries against code as though it were data.
 
-## [52. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [57. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Design / Angular
 
 *   [Figmalion](https://figmalion.com). A biweekly curated newsletter about [Figma](https://www.figma.com/).
 
-## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [58. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -734,13 +1060,13 @@
 
 *   [EasyNetQ (⭐2.5k)](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ.
 
-## [54. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [59. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [RxDB (⭐18k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
-## [55. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [60. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
@@ -750,7 +1076,7 @@
 
 *   [debugger (⭐544)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
-## [56. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [61. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
@@ -765,19 +1091,19 @@
 *   [Invoke-LiveResponse (⭐132)](https://github.com/mgreen27/Invoke-LiveResponse) -  Invoke-LiveResponse is a live response tool for targeted collection.
 *   [IRTriage (⭐111)](https://github.com/AJMartel/IRTriage) - Incident Response Triage - Windows Evidence Collection for Forensic Analysis.
 
-## [57. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [62. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Utilities
 
 *   [Grayscale Mode (⭐63)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT (⭐63)](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 
-## [58. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [63. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
 
-## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CDN and Protection
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17 - Sep 23, 2018
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -235,7 +235,14 @@
 
 *   [Pagy (⭐3.8k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
-## [22. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [io-ts (⭐5.8k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [fast-check (⭐3.3k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
+
+## [23. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Service Workers
 
@@ -245,7 +252,7 @@
 
 *   [Community Groups App - Debugging relationships in Ember CLI Mirage (part 3)](https://www.youtube.com/watch?time_continue=1\&v=DRzPJ4RMT0w)
 
-## [23. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [24. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
@@ -261,7 +268,7 @@
 *   [The Ecommerce Momentum](https://ecommercemomentum.com/) - Hosted by Stephen Peterson. Interviews with the top Amazon, eBay and e-commerce sellers in the world.
 *   [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/) - Hosted by Steve Chou. An interview based show where Steve brings in small business entrepreneurs who are killing it online. All of the entrepreneurs on the show bootstrapped their businesses and started their own ventures to improve their lifestyle in some way.
 
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
@@ -280,7 +287,7 @@
 
 *   [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
 
-## [25. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [26. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Misc
 
@@ -290,20 +297,20 @@
 
 *   [Ethereum Website](https://www.ethereum.org/)
 
-## [26. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [27. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Applications / Episodes
 
 *   [CANalyzat0r (⭐655)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
-## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Checklists: a stupidly simple but valuable operational gift](https://tech.buzzfeed.com/checklists-an-operational-gift-aaf42cf0be12)
 *   [How to write a status page update](https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/)
 
-## [28. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Exceptions and Error Handling
 
@@ -313,13 +320,13 @@
 
 *   [kezban (⭐37)](https://github.com/ertugrulcetin/kezban)
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [run-electron (⭐195)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
-## [30. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [31. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Community
 
@@ -392,7 +399,7 @@
 *   [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
 *   [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
 
-## [31. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [32. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
@@ -400,7 +407,7 @@
 *   [BBC TAL](https://bbc.github.io/tal/) - An open source library for building applications for Smart TV developed by BBC engineers.
 *   [PureQML TV (⭐26)](https://github.com/pureqml/qmlcore-tv) - A declarative front-end framework for web-based SmartTV/STB platforms. Has experimental support of Android TV.
 
-## [32. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [33. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Documentation
 
@@ -412,13 +419,13 @@
 *   [jq (⭐0)](https://github.com/hobbyquaker/ccu-addon-jq) - jq packaged as Addon for the Homematic CCU3.
 *   [Redis (⭐2)](https://github.com/hobbyquaker/ccu-addon-redis) - Redis packaged as Addon for the Homematic CCU3 and RaspberryMatic
 
-## [33. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [gBridge (⭐162)](https://github.com/kservices/gBridge) - gBridge allows you to control (almost) any smart home device, any smart home software, with Google Assistant. Therefore, it transforms actions received from Google by voice commands to MQTT messages.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -429,7 +436,7 @@
 
 *   [PryntTrimmerView (⭐721)](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 
-## [35. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [36. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -457,7 +464,7 @@
 
 *   [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
-## [36. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [37. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### CSS
 
@@ -467,19 +474,19 @@
 *   [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 *   [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [ZKEACMS (⭐2.7k)](https://github.com/SeriaWei/ZKEACMS.Core) - Visual design, build site onlie by drag and drop.
 
-## [38. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [39. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-voronoi-treemap (⭐155)](https://github.com/Kcnarf/d3-voronoi-treemap) - Computes a treemap based on a Voronoi tesselation
 
-## [39. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [40. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -489,7 +496,7 @@
 
 *   [Game Boy Development (⭐3.3k)](https://github.com/gbdev/awesome-gbdev#readme)
 
-## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Device Farm
 

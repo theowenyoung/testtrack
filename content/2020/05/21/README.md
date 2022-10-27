@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2020
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,20 +74,27 @@
 *   [Embedded.fm](https://embedded.fm/) - Christopher and Elecia White discuss embedded systems development and much more, often with guests.
 *   [The Spark Gap Podcast](http://thesparkgap.net) - Covers a specific EE topic each episode, sometimes with guests.
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Overlay
+
+*   [sweetalert2 (⭐15k)](https://github.com/sweetalert2/sweetalert2) - [demo/docs](https://sweetalert2.github.io/) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+*   [sweetalert2-react-content (⭐550)](https://github.com/sweetalert2/sweetalert2-react-content) - Official SweetAlert2 enhancer adding support for React elements as content
+
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Bottom Sheets
 
 *   [Rubber Bottom Sheet (⭐472)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 *   [Modal Bottom Sheet (⭐1.4k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [How to turn off the Keycloak theme cache](https://keycloakthemes.com/blog/how-to-turn-off-the-keycloak-theme-cache)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -101,13 +108,13 @@
 
 *   [vue-d3-barchart (⭐16)](https://github.com/emiliorizzo/vue-d3-barchart) - Small component to draw charts using d3.
 
-## [11. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [12. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Articles and Documentation
 
 *   [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) - Musings on the impact of foldable phones on web.
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Case Studies
 
@@ -122,7 +129,7 @@
 *   [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
 *   [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Security
 
@@ -149,13 +156,19 @@
 
 
 
-## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Push Notifications by Tutorials* by Scott Grosch, Marin Bencevic, Shai Mishali](https://store.raywenderlich.com/products/push-notifications-by-tutorials)
+
+## [16. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [aitextgen (⭐1.6k)](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web utils
 

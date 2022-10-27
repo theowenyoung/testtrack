@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 29, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,13 +99,21 @@
 
 *   [Tree](https://en.wikipedia.org/wiki/Tree_\(data_structure\)) - A hierarchically organized data structure. From the *root* item the other items *branch out* into *nodes* and *leaves*. A collection of trees is often called a *forest*.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Charts:
+
+- Website: [ECharts](https://echarts.apache.org/)
+
+
+
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Git Tools
 
 *   [Husky.Net (⭐316)](https://github.com/alirezanet/Husky.Net) - Git hooks made easy with Husky.Net internal task runner, You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. supports C# scripts, gitflow hooks, Multiple file states (staged, lastCommit, glob)
 
-## [14. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [15. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Testing
 

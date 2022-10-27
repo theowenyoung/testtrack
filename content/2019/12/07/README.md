@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -180,7 +180,13 @@
 *   [Strata Data Conference | The future of natural language generation: 2017-2027](https://www.youtube.com/watch?v=Ls7elVbN8bI)
 *   [The Quest for Automated Story Generation - Mark Riedl](https://www.youtube.com/watch?v=wgcDUX_BPpk)
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### i18n / Mouse Events
+
+*   [react-intl-universal (⭐1.2k)](https://github.com/alibaba/react-intl-universal) - [demo](https://g.alicdn.com/alishu/common/0.0.95/intl-example/index.html) Internationalize React apps. Not only for React.Component but also for Vanilla JS.
+
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Runner
 

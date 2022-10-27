@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,13 +22,19 @@
 *   [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
 *   [Working With Cookies](https://appiumpro.com/editions/96)
 
-## [3. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Conferences and Events / Europe
+
+*   [HoneyCON](https://honeycon.eu/) - Annual Security Conference in Guadalajara, Spain. Organized by the HoneySEC association.
+
+## [4. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Methodology / Scalability and Resilience
 
 *   [No silver bullet, by Brooks](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) - Making a case for growing software in small increments :orange\_book:.
 
-## [4. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [5. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Blockchain utils / Swift
 
@@ -46,19 +52,19 @@
 
 *   [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 
-## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Libraries
 
 *   [Cron Expression Descriptor (⭐789)](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
 *   [spotify-tui (⭐14k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
 
-## [7. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Libraries and Frameworks
 
@@ -68,13 +74,13 @@
 
 *   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Command Line
 
 *   [ModuleInterface (⭐75)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
 
-## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Dev env
 
@@ -85,7 +91,7 @@
 *   [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
 *   [Luigi (⭐16k)](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Editors / Runner
 

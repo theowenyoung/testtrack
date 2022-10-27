@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,13 +74,25 @@
 
 
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Color Picker
+
+*   [react-color (⭐52)](https://github.com/uiwjs/react-color) - Is a tiny color picker widget component for React apps.
+
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 
-## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [Tropical (⭐101)](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Urban Observation
 
@@ -88,7 +100,7 @@
 *   [Transoft](https://safety.transoftsolutions.com/) - Transfoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 *   [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable.
 
-## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [10. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 

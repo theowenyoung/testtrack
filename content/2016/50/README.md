@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12 - Dec 18, 2016
 
-44 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -320,13 +320,23 @@
 
 *   [Foobar Tech](https://foobar123.com/@marciavillalba) - Blog about serverless architectures and programming in general.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [Infosec Getting Started (⭐544)](https://github.com/gradiuscypher/infosec_getting_started)
+
+  Description: A collection of resources, documentation, links, etc to help people learn about Infosec
+
+
+
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Real-time Grid Component Laravel, Vue.js, Vuex & Socket.io](https://www.youtube.com/watch?v=Jxefsv5Zqkw\&t=3s)
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -336,7 +346,38 @@
 
 *   [AngleSharp (⭐4.3k)](https://github.com/AngleSharp/AngleSharp) - The ultimate angle brackets parser library. It parses HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specification. Comparable to beautifulsoup4 of python.
 
-## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [MIT-2014-2015-YEARBOOK (⭐3)](https://github.com/iamraphson/MIT-2014-2015-YEARBOOK)
+
+  Description: E-YearBook for 2014/2015 UNILAG MIT students
+
+  Link: [http://unilagmitfaces.ml](http://unilagmitfaces.ml/)
+
+  : 
+
+
+
+### ReactJS
+
+- Name: [docue (⭐9)](https://github.com/kevgathuku/docue)
+
+  Description: Document Management System With React Frontend
+
+  Link: <https://docue.herokuapp.com>
+
+
+- Name: [MERNMAP (⭐9)](https://github.com/iamraphson/mernmap)
+
+  Description: An interactive map for MERN(MongoDB, ExpressJS, ReactJS, NodeJS) Stack Developers
+
+  Link: [http://mernmap.herokuapp.com](http://mernmap.herokuapp.com/)
+
+
+
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
@@ -350,26 +391,26 @@
 
 *   [Laravel Italy](http://laravel-italia.it)
 
-## [36. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [38. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Media
 
 *   [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) - Cliff Click
 
-## [37. Tips](/content/git-tips/tips/week/README.md)
+## [39. Tips](/content/git-tips/tips/week/README.md)
 ## Show a Git logical variable.
 
 ```sh
 git var -l | <variable>
 ```
 
-## [38. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [40. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
 *   [Classification on raw time series in TensorFlow with a LSTM RNN (⭐3.1k)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
 
-## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [41. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Media Players
 
@@ -379,14 +420,14 @@ git var -l | <variable>
 
 *   [imscJS (⭐74)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
-## [40. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [42. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Pipeline Generation
 
 *   [composable\_operations (⭐47)](https://github.com/t6d/composable_operations) -
     Definition framework for operation pipelines.
 
-## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [43. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -396,13 +437,13 @@ git var -l | <variable>
 
 *   [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
 
-## [42. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [44. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Blog Posts & Articles
 
 *   [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
 
-## [43. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [45. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -414,7 +455,7 @@ git var -l | <variable>
 
 
 
-## [44. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [46. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Date & Time
 

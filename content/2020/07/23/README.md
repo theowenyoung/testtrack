@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,20 +41,26 @@
 
 *   [KaOS](https://kaosx.us/) - KaOS is an independent distribution focused on Qt and KDE.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Back-end API / Playground
+
+*   :octocat: [LoopBack 4 (⭐4.3k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
+
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
 *   [CleanArchitecture (⭐11k)](https://github.com/ardalis/CleanArchitecture) - A starting point for Clean Architecture with ASP.NET Core. Clean Architecture is just the latest in a series of names for the same loosely-coupled, dependency-inverted architecture. You will also find it named hexagonal, ports-and-adapters, or onion architecture.
 *   [CleanArchitecture (SPA) (⭐10k)](https://github.com/JasonGT/CleanArchitecture) - Solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture
 
-## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Articles
 
 *   [How to add crypto payments to your online store?](https://medium.com/wavesprotocol/how-to-add-crypto-payments-to-your-online-store-b528b739cdfb) - How to add crypto payment options to your online store with the help of Pay Crypto Widget developed in the Waves ecosystem.
 
-## [8. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [9. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Official Resources
 
@@ -65,19 +71,19 @@
 
 *   [r/fishshell](https://www.reddit.com/r/fishshell)
 
-## [9. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [10. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Memory Analysis Tools
 
 *   [AVML (⭐571)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Datagrids / tables
 
 *   [Grid.Blazor (⭐566)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
 
-## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Asset Management
 
@@ -87,20 +93,20 @@
 
 *   :strawberry: [Sentry plugin (⭐35)](https://github.com/Connehito/cake-sentry) A plugin to seamlessly integrate Sentry with CakePHP for errors and exceptions.
 
-## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [13. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
 *   [geemap (⭐2.3k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [Rectangle](https://rectangleapp.com) - Window management app based on Spectacle, written in Swift. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rxhanson/Rectangle) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [14. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [15. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Libraries
 

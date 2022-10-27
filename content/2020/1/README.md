@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2020
 
-46 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [99Vidas](http://99vidas.com.br/) - Nostalgia, diversão e muita opinião sobre videogames.
 
-## [4. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Unofficial Distributions / AlmaLinux OS
+
+*   [CentWSL (⭐1k)](https://github.com/yuk7/CentWSL) - CentOS as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [5. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Static Analysis / Linting
 
@@ -34,13 +40,13 @@
 
 *   [Run dlint security linter on your Python code (⭐2)](https://github.com/xen0l/dlint-check)
 
-## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [PEframe (⭐541)](https://github.com/guelfoweb/peframe) - PEframe is an open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / STMicroelectronics
 
@@ -50,14 +56,14 @@
 
 *   [`radio`](https://github.com/ryankurte/rust-radio) - Generic radio transceiver traits, mocks, and helpers - ![crates.io](https://img.shields.io/crates/v/radio.svg)
 
-## [7. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [8. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Bibliography / HTML+CSS+JS
 
 *   [ReadCube/Papers](https://www.readcube.com/): A all platform app for reference mamagement, note-taking, and more. The former Papers has been rebanded as ReadCube Papers.
 *   [JabRef](https://www.jabref.org/): An open source bibliography reference manager for the BibTeX format.
 
-## [8. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [9. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Commercial Libraries
 
@@ -72,25 +78,25 @@
 *   [react-chart-js (⭐5.4k)](https://github.com/jerairrest/react-chartjs-2) - React wrapper for Chart.js
 *   [Victory (⭐10k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 
-## [9. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [10. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
 *   [Kotlin-Pokedex (⭐1.3k)](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 
-## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [11. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Gladys Assistant](https://gladysassistant.com) - Gladys, a privacy-first, open-source home assistant. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [11. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
 *   [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk) - Oh No! More Modern CMake ([slides (⭐155)](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf))- by Deniz Bahadir, Meeting C++ 2019.
 
-## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Custom cartridges
 
@@ -101,13 +107,13 @@
 *   [GBCartRead (⭐48)](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
 *   [GBxCart-RW (⭐70)](https://github.com/insidegadgets/GBxCart-RW) - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
 
-## [13. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [14. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Testing / Frameworks
 
 *   [jqwik](https://jqwik.net) - Engine for property-based testing built on JUnit 5.
 
-## [14. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [15. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Official Resources
 
@@ -138,26 +144,26 @@
 
 *   [Awesome Testing (⭐1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
-## [15. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
 *   [hash-set (⭐13)](https://github.com/samebchase/hash-set/) - a convenience library implementing hash sets on top of CL hash tables [The Unlicense](http://unlicense.org/)
 *   [cl-containers](https://common-lisp.net/project/cl-containers/) - an extensive library of data structures and utilities - queues, trees, heaps, doubly-linked lists, sets, bags,... [MIT](https://opensource.org/licenses/MIT)
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Machine Learning / Runner
 
 *   [Synapses (⭐64)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 
-## [17. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [18. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [Markdown Magic (⭐703)](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 
-## [18. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [19. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Datasets
 
@@ -167,13 +173,13 @@
 
 *   [Data-To-Text: Generating Textual Summaries of Complex Data - Ehud Reiter](https://www.youtube.com/watch?v=kFRw-wk5YOA)
 
-## [19. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
 *   [BeeMS (⭐33)](https://github.com/umuplus/beems) - A Bee Queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -187,7 +193,7 @@
 
 *   [Apache Netbeans](https://netbeans.apache.org/) — Development Environment, Tooling Platform and Application Framework.
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -197,7 +203,7 @@
 
 *   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐575)](https://github.com/cortezaproject/corteza-server)) `Apache-2.0` `Go`
 
-## [22. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [23. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Code generation
 
@@ -207,13 +213,13 @@
 
 *   [restSQL (⭐132)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 
-## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Distributed Computing
 
 *   [jasper (⭐402)](https://github.com/JasperFx/jasper) - Next generation application development framework for .NET
 
-## [24. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [25. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Books / Books for Mathematics
 
@@ -245,7 +251,7 @@
 
 
 
-## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -255,13 +261,13 @@
 
 *   [Microsoft Visual Studio Code](https://code.visualstudio.com/) :zap: - An open-source IDE from Microsoft. \[MIT]
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Route 53
 
 *   [route53-infima :fire::fire: (⭐316)](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
 
-## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [28. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Static Analysis
 
@@ -271,19 +277,19 @@
 
 *   [Safe (⭐2.1k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
-## [28. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [29. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
 *   [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf) - A 149-page document outlining motives and rationale for NoSQL databases, and common concepts, techniques and patterns among these databases; last updated around 2011.
 
-## [29. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [30. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Related
 
 *   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
 
-## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -297,7 +303,7 @@
 
 *   [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
 
-## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
@@ -307,13 +313,13 @@
 
 *   [jose-simple (⭐54)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Courses / Others
 
 *   [Creating Blazor Components](https://www.pluralsight.com/courses/creating-blazor-components) - December, 2019 - Building a Blazor app is building components. This course is essential for gaining a good understanding of components. On Pluralsight.
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Login
 
@@ -324,7 +330,7 @@
 
 *   [Flutter London](https://flutterldn.dev/)
 
-## [34. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [35. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Wallet
 
@@ -341,37 +347,37 @@
 
 *   [Neutrino (⭐10)](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
 
-## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [36. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Resume (⭐46)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
-## [36. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [37. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / IoT
 
 *   [Apache StreamPipes (⭐348)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Integration with Javascript
 
 *   [LiveWire (⭐17k)](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
 
-## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Online Playgrounds
 
 *   [deno.town](https://deno.town)
 
-## [39. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [40. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Filesystem
 
 *   [fs-extra (⭐8.7k)](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 
-## [40. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Prototype Pollution
 
@@ -390,7 +396,7 @@
 *   [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 *   [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 
-## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -409,7 +415,7 @@
 
 *   :strawberry: [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -424,7 +430,13 @@
 
 *   [CrSignals (⭐9)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [43. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [44. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
+
+## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Wasm
 
@@ -443,7 +455,7 @@
 *   [Seed (⭐3.5k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐335)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [44. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
@@ -453,7 +465,7 @@
 
 *   [FloatingButton (⭐665)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -483,7 +495,7 @@
 
 
 
-## [46. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [48. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Main
 

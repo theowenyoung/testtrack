@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05 - Apr 11, 2021
 
-56 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,7 +26,25 @@
 
 *   [k9s (⭐18k)](https://github.com/derailed/k9s) - Manage Kubernetes Clusters.
 
-## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vue-pure-admin (⭐3.8k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+
+### Templates / React
+
+*   [vite-reactts-eslint-prettier (⭐294)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-html-config (⭐27)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+
+### Vue / Helpers
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐190)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+
+## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / Svelte
 
@@ -36,7 +54,7 @@
 
 *   [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html). A free monthly newsletter containing latest news from the PHP community and the most interesting PHP articles from around the web. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
-## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Distributed monitoring
 
@@ -48,26 +66,26 @@
 
 *   [certificate-expiry-monitor (⭐141)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
-## [6. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [7. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
 *   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐49)](https://github.com/avojak/iridium)) `Linux`
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Russian
 
 *   [DotNet & More](https://more.dotnet.ru) - Podcast about .NET development and more. Hosted by [Aleksandr Kugushev](https://github.com/kugushev) and [Artem Akulyakov](https://github.com/oxffaa).
 *   [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Podcast about software development (programming). Discussed topics are C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA and much more. Hosted by [Dmitri Nesteruk](https://github.com/nesteruk).
 
-## [8. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [9. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch Linux Installers / Specific purpose
 
 *   [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -81,7 +99,7 @@
 
 *   [cpp-httplib (⭐7.9k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C
 
@@ -92,7 +110,7 @@
 *   [Lish (⭐63)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
-## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [12. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Podcasts
 
@@ -102,7 +120,7 @@
 
 *   [Oh-My-Posh (⭐8.2k)](https://github.com/jandedobbeleer/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
@@ -116,44 +134,44 @@
 *   [Infracost (⭐8.1k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
 *   [terraform-graph-beautifier (⭐130)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Blogs
 
 *   [freecodecamp Kotlin article collection](https://www.freecodecamp.org/news/tag/kotlin/)
 
-## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [15. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
 *   [New to an SRE team?](https://www.linkedin.com/pulse/new-sre-team-anthony-caiafa/)
 
-## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Video Playlists
 
 *   [Keycloak Tutorial Series by CodeLens](https://www.youtube.com/watch?v=Lr9WeIMtFow\&list=PLeGNmkzI56BTjRxNGxUhh4k30FD_gy0pC)
 
-## [16. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [17. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### Animation / Grid
 
 *   [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/all-you-need-to-know-about-css-transitions/) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
 
-## [17. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [18. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Uncategorized
 
 *   [Help me help you: creating reproducible examples](https://www.youtube.com/watch?v=5gqksthQ0cM) - Making a great reprex is both an art and a science and this webinar will cover both aspects. A reprex makes a conversation about code more efficient and pleasant for all. This comes up whenever you ask someone for help, report a bug in software, or propose a new feature. The reprex package (<https://reprex.Tidyverse.org>) makes it especially easy to prepare R code as a reprex, in order to share on sites such as <https://community.rstudio.com>, <https://github.com>, or <https://stackoverflow.com>. Author: Jenny Bryan.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Network programming
 
 *   message-io
     *   [lemunozm/message-io (⭐798)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
-## [19. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [20. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
@@ -162,7 +180,7 @@
     *   [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 
-## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -172,26 +190,26 @@
 
 *   [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/) - April 8, 2021 - .NET 6 Preview 3 is now available and includes many great new improvements to ASP.NET Core.
 
-## [21. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [22. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit) - Very accessible computation/programming oriented tutorials. It begins from basics of matrices up to grover's algorithm. There are also accompanying videos which explain the tutorials.
 
-## [22. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [23. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
 *   [yew-components (⭐46)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
-## [23. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [24. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Websites / Community Newsletters
 
 *   [zodern](https://zodern.me/newsletter.html)
 *   [StorytellerCZ](https://forums.meteor.com/t/meteor-community-newsletter/50598)
 
-## [24. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [25. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -242,32 +260,32 @@
 
 *   [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
 
-## [25. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [26. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Editor Plugins
 
 *   [clojure-lsp (multiple editors) (⭐879)](https://github.com/clojure-lsp/clojure-lsp)
 
-## [26. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [27. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Utilities
 
 *   [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 
-## [27. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [28. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Hosting and media
 
 *   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐671)](https://github.com/kr1sp1n/awesome-gemini)
 
-## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Maxima](https://maxima.sourceforge.io/)
 *   [Free Math](https://freemathapp.org)
 
-## [29. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [30. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Translation / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -277,31 +295,48 @@
 
 *   [Awesome Decentralized (⭐606)](https://github.com/croqaz/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
 
-## [30. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [31. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 
 *   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
 
-## [31. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [32. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Other Datasets
 
 *   [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [33. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+- Name: [Drone](https://drone.io/)
+
+  Description: Continuous Integration service
+
+  Features: [Source code (⭐26k)](https://github.com/drone/drone) is available. (Community edition is licensed under Apache 2.0)
+
+  Supported repositories: GitHub, GitLab, Gitea, BitBucket, Google Code, Custom
+
+  Documentation: [Documentation](http://docs.drone.io/)
+
+  Price: [Pricing (enterprise)](https://drone.io/enterprise/) - free self hosting - Open Source
+
+  Stars: [![Stars](https://img.shields.io/github/stars/drone/drone.svg)](https://github.com/drone/drone)
+
+
+
+## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts
 
-## [33. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [35. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Blogs / Other
 
 *   [Automation Panda](https://automationpanda.com/)
 
-## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / MSP430
 
@@ -312,7 +347,7 @@
 
 *   [adskalman](https://crates.io/crates/adskalman): Kalman filter and Rauch-Tung-Striebel smoothing implementation. ![crates.io](https://img.shields.io/crates/v/adskalman.svg)
 
-## [35. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [37. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Deployment Tools / Newsletters
 
@@ -323,13 +358,13 @@
 *   [nixpkgs-fmt (⭐350)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 *   [nix-tree (⭐243)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [vue-sh-cli (⭐7)](https://github.com/ddosdor/vue-sh-cli) - A CLI for generating Vue components, views, store modules & unit tests. Supports Vue 3 components template and Typescript.
 
-## [37. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [39. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Applications
 
@@ -339,7 +374,7 @@
 
 *   [saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 
-## [38. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -353,27 +388,33 @@
 
 *   💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 
-## [39. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [41. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Books
 
 *   [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
 *   [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
-## [40. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [42. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Specs and Standards / Industry Forums
+
+*   [CTA | WAVE Project](https://cta.tech/Resources/Standards/WAVE-Project)  - The WAVE (Web Application Video Ecosystem) Project, hosted by the Consumer Technology Association (CTA)®, aims to improve how internet-delivered commercial video is handled on consumer electronics devices and to make it easier for content creators to distribute video to those devices.
+
+## [43. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [Algolia](https://www.algolia.com/for-open-source/) - `requires-approval` Search as a service API.
 
-## [41. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [44. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Food
 
 *   [The Felix Project](https://thefelixproject.org/) - London-based charity that collects fresh, nutritious food that cannot be sold. Deliver this surplus food to charities and schools so they can provide healthy meals and help the most vulnerable in our society. Reducing food waste and poverty.
 *   [OddBox](https://www.oddbox.co.uk) - English Certified B Corp that is reducing food waste. Collects food rejected by Supermarkets, directly from farms and delivers to your door. £10 off your first box with this link (<https://mention-me.com/m/ol/qd4ho-0d5026f88d>). I will plant trees through Ecologi with the £10 I get for this.
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -487,20 +528,20 @@
 
 
 
-## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
 *   [phx\_component\_helpers (⭐108)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
-## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [47. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - Bubble (no code platform) plugin for IPFS From URL integration
 *   [ipns-pin (⭐13)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
 
-## [45. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [48. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Docs
 
@@ -533,13 +574,13 @@
 *   [vlc.js (beta)](https://code.videolan.org/jbk/vlc.js) - WebAssembly support for LibVLC.
 *   [dart\_vlc (⭐384)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
 
-## [46. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [49. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Koan](https://www.koan.co/)
 
-## [47. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [50. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -549,20 +590,20 @@
 
 *   [tmux-wormhole (⭐50)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
-## [48. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [51. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
 *   [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 *   [KICS (⭐1.2k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 
-## [49. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [52. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
 *   [FlutterDex (⭐29)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
-## [50. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [53. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -579,7 +620,7 @@
 
 *   [URL Rewrite (⭐23)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
-## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Management System
 
@@ -602,13 +643,13 @@
 *   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.
 *   [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
 
-## [52. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
+## [55. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
 ### Follow / Critiques
 
 *   [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines.
 
-## [53. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [56. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
@@ -619,19 +660,19 @@
 *   [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country.
 *   [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 
-## [54. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [57. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [SpaceEye (⭐276)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
-## [55. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [58. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [svelte-chota (⭐274)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
-## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [59. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 

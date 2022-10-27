@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,6 +67,16 @@
 ### Appendix of Core Services / Developer Tools
 
 *   [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
+
+## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Linux Kernel Exploitation (⭐4.4k)](https://github.com/xairy/linux-kernel-exploitation)
+
+  Description: A bunch of links related to Linux kernel fuzzing and exploitation
+
+
 
 ---
 

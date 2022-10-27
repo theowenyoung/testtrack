@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 17, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,27 +56,37 @@
 *   [playlist-youtube-vlc (⭐0)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 *   [vlc-super-skipper (⭐6)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 
-## [8. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Telegram
+
+*   [Telegram Nearby Map (⭐429)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+
+### Keywords Discovery and Research / Telegram
+
+*   [Yandex Wordstat](https://wordstat.yandex.com)
+
+## [9. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Supplement: Troubleshooting / Production, Deployment,   [MLOps](https://ml-ops.org/)
 
 *   **[EthicalML/awesome-production-machine-learning (⭐12k)](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
 *   **[visenger/awesome-ml-model-governance (⭐52)](https://github.com/visenger/Awesome-ML-Model-Governance)**
 
-## [9. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
+## [10. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
 ### Threats
 
 *   [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 *   [Blockchain Threat Intelligence](https://www.blockthreat.io/) - The latest in blockchain, DeFi and cryptocurrency threat intelligence, vulnerabilities, security tools, and events.
 
-## [10. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / VPN
 
 *   [Golem Provider with network access (⭐2)](https://github.com/jedbrooke/golem-network-requestor) - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.
 
-## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Interactive Experiences
 

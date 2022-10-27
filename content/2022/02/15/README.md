@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1574,7 +1574,24 @@
 
 *   [stew (⭐107)](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 
-## [10. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [Vela](https://go-vela.github.io/docs/)
+
+  Description: Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang.
+
+  Features: Docker based
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://go-vela.github.io/docs/)
+
+  Price: Open source, Apache 2.0
+
+  Stars: 
+
+
+
+## [11. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
@@ -1717,13 +1734,13 @@
 *   [Open data Index](https://index.okfn.org/)
 *   [GHTorrent](https://ghtorrent.org/)
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### NYU / Commonsense Knowledgebase
 
 *   [Gary Marcus](http://garymarcus.com/index.html) - ***Department of Psychology, NYU***.
 
-## [12. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [13. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Blog posts / Other
 
@@ -1731,7 +1748,7 @@
 *   2021-09-27 [Optical character recognition with TensorFlow Lite: A new example app](https://blog.tensorflow.org/2021/09/blog.tensorflow.org202109optical-character-recognition.html)
 *   2021-06-16 [https://blog.tensorflow.org/2021/06/easier-object-detection-on-mobile-with-tf-lite.html](https://blog.tensorflow.org/2021/11/on-device-training-in-tensorflow-lite.html)
 
-## [13. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [14. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Other
 

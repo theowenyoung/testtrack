@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 22 - Nov 28, 2021
 
-39 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -130,13 +130,30 @@
 
 *   [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
-## [12. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-simple-gql (⭐18)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
+*   [vite-plugin-ali-oss (⭐7)](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
+
+### Vue / Loaders
+
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐9)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+
+## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY) - A City of Mist / Ironsworn hybrid hack
+
+## [14. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
 *   [Openbase](https://openbase.com) - Compare open-source packages with powerful metrics and user reviews.
 
-## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Politics
 
@@ -156,7 +173,7 @@
 
 *   [Streetsblog](https://www.streetsblog.org/) - Blog for news related to walking, biking, and transit.
 
-## [14. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [16. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
@@ -166,19 +183,19 @@
 
 *   [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [rcmd](https://lowtechguys.com/rcmd/) - Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
 
-## [16. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [18. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [ajeetdsouza/zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
-## [17. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### CMS
 
@@ -197,7 +214,17 @@
 
 *   [Umbraco 9 & Blazor WebAssembly Starterkit on GitHub](https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github) - November 24, 2021 - A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts. [Source code (⭐31)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) ![stars](https://img.shields.io/github/stars/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400).
 
-## [18. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Carousel
+
+*   [swiper (⭐33k)](https://github.com/nolimits4web/Swiper) - [demo](https://swiperjs.com/demos) - [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+### UI Layout / Syntax Highlight
+
+*   [react-schematic (⭐4)](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
+
+## [21. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -227,7 +254,7 @@
 *   [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - Nina Zakharenko.
 *   [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko at PyCon 2021.
 
-## [19. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [22. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
@@ -237,7 +264,7 @@
 
 *   [Oversecured Vulnerable Android App (OVAA) (⭐391)](https://github.com/oversecured/ovaa)
 
-## [20. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
+## [23. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
 ### Architecture
 
@@ -250,14 +277,14 @@
 
 *   [Smart Contract Security Registry (⭐82)](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 
-## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [24. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Bluetooth Security (⭐245)](https://github.com/engn33r/awesome-bluetooth-security) - A curated list of Bluetooth security resources.
 *   [Awesome WebSocket Security (⭐180)](https://github.com/PalindromeLabs/awesome-websocket-security) - A curated list of WebSocket security resources.
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -274,26 +301,26 @@
 *   [Free C Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
 *   [Free C++ Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [ssuukk/Qotlin (⭐16)](https://github.com/ssuukk/Qotlin) - IBM Q Experience Kotlin toolkit - Kotlin library to interact and write assembly code for IBM Quantum computers
 *   [vittee/kformula (⭐26)](https://github.com/vittee/kformula) - Mathematical expression engine written in Kotlin, running on JVM.
 
-## [24. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [27. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals and Ephemera / Ephemera
 
 *   [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 
-## [25. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - Early access
 
-## [26. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [29. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
@@ -309,7 +336,7 @@
 *   [Matías Insaurralde - Deno: an experimental approach on V8 interoperability \[EN subtitles\] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
     *   [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [30. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -320,13 +347,13 @@
 
 *   🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Layouts and UI Patterns for Tailwind CSS.
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Books / Misc
 
 *   [Distributed Machine Learning Patterns (⭐151)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -341,7 +368,7 @@
 *   [coolors](https://coolors.co/) - Color palette generator. Free.
 *   [LottieFiles](https://lottiefiles.com/) - The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -356,7 +383,7 @@
 *   Serial Port
     *   [Susurrus/serialport-rs](https://gitlab.com/susurrus/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
-## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [34. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -640,7 +667,7 @@
 
 
 
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -659,7 +686,7 @@
 
 *   [vue3-compact-template (⭐13)](https://github.com/upupming/vue3-compact-template) - ⚡️ A simple and compact vue 3 template with current cutting edge front end technologies.
 
-## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Beginner
 
@@ -670,7 +697,7 @@
 
 *   [origin (⭐0)](https://github.com/mfiano/origin) - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. [MIT](https://opensource.org/licenses/MIT).
 
-## [34. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [37. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Algorithms / Semantic segmentation
 
@@ -678,31 +705,31 @@
     *   [GitHub repository :octocat: (⭐366)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
-## [35. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [38. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
 *   [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 
-## [36. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [39. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
 
-## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [40. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
 *   [Open Capture and Analytics Tool (OCAT) (⭐215)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
-## [38. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [41. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### VLC native plugins
 
 *   [vlc-mixer (⭐0)](https://github.com/lachie/vlc-mixer) - Audio mixer VLC plugin written in Zig.
 
-## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [42. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Inverse Reinforcement Learning
 

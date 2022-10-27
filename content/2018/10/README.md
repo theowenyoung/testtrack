@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05 - Mar 11, 2018
 
-55 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -324,19 +324,31 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Channel9](https://channel9.msdn.com)
 
-## [28. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [28. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### ReactJS
+
+- Name: [Github Desktop (⭐16k)](https://github.com/desktop/desktop)
+
+  Description: Git client on Mac & Windows
+
+  Link: <https://desktop.github.com>
+
+
+
+## [29. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Optimization
 
 *   [pg\_web\_stats (⭐91)](https://github.com/kirs/pg_web_stats) - Web UI to view pg\_stat\_statements.
 
-## [29. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [30. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
 *   [Zephyr Project](https://www.zephyrproject.org/) - The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
-## [30. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [31. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
@@ -374,13 +386,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
 
-## [31. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Web / Playground
+
+*   :octocat: [Cycle.js (⭐10k)](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - A reactive programming library for JavaScript.
+*   :octocat: [xstream (⭐2.3k)](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript.
+*   :octocat: [TypeMoq (⭐421)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
+*   :octocat: [InversifyJS (⭐9.4k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+
+## [33. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
 *   [Golazon (⭐33)](https://github.com/sobstel/golazon) - Football data mnmlist way.
 
-## [32. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [34. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -390,19 +415,19 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Wagtail](https://wagtail.io/)
 
-## [33. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [35. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### editor plugins
 
 *   Sublime Text: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
 
-## [34. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [36. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Tutorials
 
 *   [Creative Audio Visualizers](https://tympanus.net/codrops/2018/03/06/creative-audio-visualizers/?utm_source=feedburner\&utm_medium=feed\&utm_campaign=Feed%3A+tympanus+%28Codrops%29)
 
-## [35. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [37. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Base Shells
 
@@ -464,7 +489,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [bash-guide (⭐11k)](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 
-## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [38. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -474,7 +499,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Loop Habit Tracker (⭐5.4k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
-## [37. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [39. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -514,13 +539,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 *   [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM)
 *   [Fashion-MNIST (⭐10k)](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
-## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
 *   [xgboost-node (⭐30)](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
 
-## [39. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [41. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Deep Learning
 
@@ -598,13 +623,13 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 *   [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf)
 *   [Expert C Programming: Deep C Secrets](https://dl.acm.org/citation.cfm?id=179241) - Interesting, in-depth and *entertaining* look at the innards of C.
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [42. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
 *   [TNTSearch driver (⭐1k)](https://github.com/teamtnt/laravel-scout-tntsearch-driver) - Driver for [Laravel Scout (⭐1.3k)](https://github.com/laravel/scout) search package based on TNTSearch
 
-## [41. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [43. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-url](https://github.com/zdharma/git-url)
 
@@ -662,7 +687,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
     Checking out revision/reference v1.0... OK
     HEAD is at: 5d10a204, created directory git-url
 
-## [42. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [44. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
@@ -683,26 +708,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Design Essentials](https://github.com/collections/design-essentials)
 
-## [43. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [45. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Security
 
 *   [upash (⭐506)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
-## [44. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [46. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Testing / Omniauth
 
 *   [factory\_bot (⭐7.6k)](https://github.com/thoughtbot/factory_bot) - Factory\_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin\_user, and so on), including factory inheritance.
 *   [factory\_bot\_rails (⭐2.9k)](https://github.com/thoughtbot/factory_bot_rails) - Factory\_bot\_rails provides Rails integration for factory\_bot.
 
-## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Resources / Custom Dialog
 
 *   [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
 
-## [46. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [48. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Retro
 
@@ -712,7 +737,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
-## [47. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -738,26 +763,26 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 
-## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [50. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐124)](https://github.com/sindresorhus/ama) for an example.
 *   [Utterences (⭐7.2k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 
-## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [51. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Pagination / Barcode
 
 *   [SlideController (⭐411)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
-## [50. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [52. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / React
 
 *   [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
 
-## [51. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [53. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Investigate Papers / HTML+CSS+JS
 
@@ -767,19 +792,19 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [CC Search](https://ccsearch.creativecommons.org/): Search engine for images under CC License.
 
-## [52. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [54. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [Digitized Speech in Game Boy Games](https://youtube.com/watch?v=1lzHfLYzyRM)
 
-## [53. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [55. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
 
-## [54. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [56. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -1173,7 +1198,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 
 
-## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 

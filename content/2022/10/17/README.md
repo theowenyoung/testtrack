@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2022
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,19 +51,26 @@
 *   [sflags (⭐141)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 *   [wmenu (⭐178)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
-## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Book and web annotations/highlights management
+
+*   [Hypothesis (⭐2.5k)](https://github.com/hypothesis/h/) - Annotate the web, with anyone, anywhere.
+*   [Kobuddy (⭐91)](https://github.com/karlicoss/kobuddy) - Get your Kobo e-reader device bookmarks and annotations in a .txt file.
+
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
 *   [Flyer Chat (⭐554)](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 
-## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [5. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Jobs / Other external resources
 
 *   [rails jobs on rubyonremote.com](https://rubyonremote.com/)
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -77,19 +84,19 @@
 
 *   [filess.io](https://filess.io) - filess.io is a platform where you can create 1 database of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.
 
-## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-argument-spread (⭐2)](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
 *   [Lost Pixel (⭐735)](https://github.com/lost-pixel/lost-pixel) - Holistic visual regression testing for full pages, components (via Storybook and Ladle integration), and custom shots (e.g. via Cypress).
 
-## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [9. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -99,7 +106,7 @@
 
 *   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐28)](https://github.com/willemarcel/osmcha-django))
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Courses
 
@@ -139,19 +146,25 @@
 
 *   [perses-games/kudens (⭐30)](https://github.com/perses-games/kudens) - Develop browser games in Kotlin
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 2
+
+*   [vite-vue2-js-starter-template (⭐4)](https://github.com/ElanYoung/vite-vue2-js-starter-template) - Vite + Vue2 + JavaScript + Vue Router + Vuex + Axios + Less + ESLint + Stylelint + Prettier Simple Template.
+
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Terminal integration / Diagnostics
 
 *   [samjwill/nvim-unception (⭐45)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
 
-## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [13. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Models and Projects / NumPyro
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Machine Learning
 

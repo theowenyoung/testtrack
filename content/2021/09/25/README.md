@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2021
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,6 +59,12 @@
 ### Tools
 
 *   [Pi-Apps (⭐1k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Exfiltration Tools / Zealandia
+
+*   [QueenSono (⭐105)](https://github.com/ariary/QueenSono) - Client/Server Binaries for data exfiltration with ICMP. Useful in a network where ICMP protocol is less monitored than others (which is a common case).
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10 - Sep 16, 2018
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,31 +13,37 @@
 *   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 *   [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
 
-## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [ee-ts (⭐117)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+
+## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Pugdit (⭐11)](https://github.com/zbyte64/pugdit) - A bulletin board service that discovers and distributes over IPFS
 
-## [3. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [4. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [d3-dag (⭐1.2k)](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML/XML Parsing
 
 *   [myhtml (⭐150)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [SimpleSignal (⭐142)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
@@ -47,13 +53,13 @@
 
 *   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐273)](https://github.com/bluemix/tourism-demo)
 
-## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Simulating Hardware Keys And Key Events On Android](https://appiumpro.com/editions/34)
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -82,19 +88,19 @@
 
 *   [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
 
-## [9. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [10. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Opening Hours Kata (⭐9)](https://github.com/christian-fei/opening-hours-kata)
 
-## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [11. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
 *   [Mystique (⭐20)](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 
-## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
@@ -108,19 +114,19 @@
 
 *   [Lada Cache (⭐499)](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
 
-## [12. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [13. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [7 Reasons To Use BEM CSS](https://medium.com/soliddigital/7-reasons-to-use-bem-css-a7c8475318fe)
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [What Team Structure is Right for DevOps to Flourish?](http://web.devopstopologies.com/)
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [15. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -135,7 +141,7 @@
 *   [How to improve your tests? - Paweł Kuwik](https://www.youtube.com/watch?v=rs71sx5IZ-U\&t=0s\&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 *   [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg\&t=0s\&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 
-## [15. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [16. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
@@ -149,25 +155,25 @@
 *   [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
 *   [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 
-## [16. Awesome](/content/craftcms/awesome/week/README.md)
+## [17. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Podcasts / Tutorials
 
 *   [Commerce Minded](https://www.fostercommerce.com/podcast) - A Craft Commerce-centric podcast that goes behind the scenes to chat with ecommerce merchants, developers, and vendors.
 
-## [17. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [18. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Graphics
 
 *   [AHKv2-GDIP (⭐80)](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 
-## [18. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [19. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Database
 
 *   [SPLOITUS](https://sploitus.com/) - Exploits & Tools Search Engine by [@i\_bo0om](https://twitter.com/i_bo0om).
 
-## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [20. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -187,25 +193,25 @@
 
 *   [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 
-## [20. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [21. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [Next serverless (⭐82)](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 
-## [21. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [22. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### RTOS
 
 *   [RIOT OS](https://www.riot-os.org/) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things. [`LGPL-2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
-## [22. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [23. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
 *   [Java (⭐10)](https://github.com/danielstieger/javaxbus) - Simple Java Event Bus Client using plain TCP socket I/O.
 
-## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [24. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Community
 
@@ -340,19 +346,19 @@
 
 *   [Kaputt](http://kaputt.x9c.fr/) —  comprehensive testing framework.
 
-## [24. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [25. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Articles / Plugins
 
 *   [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum\&utm_medium=twitter\&utm_campaign=sentiment-analysis)
 
-## [25. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 
-## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [27. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -362,13 +368,13 @@
 
 *   [Awesome jq (⭐545)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
-## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Papers / ROSCon 2015
 
 *   [Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications](https://arxiv.org/pdf/1809.02595.pdf)
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
@@ -378,7 +384,7 @@
 
 *   [did\_you\_mean (⭐1.8k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -392,13 +398,13 @@
 
 *   [service-discovery-ecs-consul :fire: (⭐109)](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -408,25 +414,25 @@
 
 *   [vue-log-worker](https://gitlab.com/schoolmouv-open-source/vue-log-worker) - A Vue.js plugin to log error and vuex mutations to your backend through a web worker
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [PyCM (⭐1.3k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 
-## [33. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
 *   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
-## [34. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [35. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Clients
 
 *   [npm (⭐6.5k)](https://github.com/npm/cli) - The official client.
 
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
@@ -455,26 +461,26 @@
 
 *   [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - Guide to setup the Raspberry Pi for beginners.
 
-## [36. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [37. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [samsung-remote-models-2014-and-newer (⭐48)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
 *   [SmartCrypto (⭐8)](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [CoreWiki (⭐374)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
-## [38. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [39. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
 *   [antd-table-infinity (⭐277)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 
-## [39. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -488,13 +494,13 @@
 
 *   [sublime-tmux (⭐8)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
-## [40. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [41. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### SaaS Tools / Symfony2
 
 *   [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 
-## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 

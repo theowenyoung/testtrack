@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,25 +30,52 @@
 
 *   [Hosted vs. installable serverless platforms](https://thenewstack.io/serverless-roadmaps-platforms/) - Survey which covers hosted vs. installable serverless solutions.
 
-## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [DockSTARTer (⭐1.8k)](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
+
+### Tracker Frameworks / Seedbox Setup Tools and Guides
+
+*   [Torrent-Tracker-Platforms (⭐354)](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
+
+### Usenet / Seedbox Setup Tools and Guides
+
+*   [Usenet-Uploaders (⭐158)](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
+
+### Plex Plugins / Third Party Hosts
+
+*   [Official Plex Plugins](https://github.com/plexinc-plugins) Repos for every official Plex Inc. plugin
+*   [FMoviesPlus.bundle (⭐52)](https://github.com/coder-alpha/FMoviesPlus.bundle) Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+
+### Movie Automation / Third Party Hosts
+
+*   [Watcher (⭐277)](https://github.com/nosmokingbandit/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
+
+### Miscellaneous / Third Party Hosts
+
+*   [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
+
+## [6. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### IO/Storage
 
 *   [FilePicker-Plugin-for-Xamarin ★37 (⭐156)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
 
-## [6. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Prototype Tools
 
 *   [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 
-## [7. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Animation
 
 *   [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Dictionaries
 

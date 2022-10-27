@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 25, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,13 @@
 
 *   [ASA Stats](https://www.asastats.com/) - One-stop portfolio tracker used to summarize Algorand asset valuations from up to five wallet addresses.
 
-## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-static-copy (⭐65)](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
+
+## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Career / Promotion
 
@@ -54,7 +60,7 @@
 
 *   “The president of MIT told me that tenure was not about research, productivity, or merit. It was about office politics & being liked by your department.” ([source](https://threadreaderapp.com/thread/1494369809538195456.html)) - Contemplating to switch from the industry? The grass is not greener in academia. Given a significant size, any organization comes with its political game.
 
-## [8. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [9. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Community
 

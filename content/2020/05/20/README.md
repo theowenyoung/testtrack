@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,13 +48,19 @@
 
 *   [Geo2tz (⭐46)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
-## [8. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Game Development
+
+*   [*2D Apple Games by Tutorials* by Caroline Begbie, Mike Berg, Michael Briscoe, Ali Hafizji, Marin Todorov, Ray Wenderlich](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
+
+## [9. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Quick Start
 
@@ -69,13 +75,13 @@
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇳🇬 Nigeria / Misc
 
 *   Telegram [FlutterLagos](https://t.me/joinchat/PAH0fVA0l7F_zMM537lo9w)
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 

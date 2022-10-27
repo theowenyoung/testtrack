@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,14 +41,26 @@
 
 *   [Filestash](https://www.filestash.app) — A Dropbox-like file manager that connects to a range of protocols and platforms: S3, FTP, SFTP, Minio, Git, WebDAV, Backblaze, LDAP and more.
 
-## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [Filestash (⭐7k)](https://github.com/mickael-kerjean/filestash)
+
+  Description: A Dropbox like file manager built in React
+
+  Link: <https://filestash.app>
+
+
+
+## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Web Apps (frontend only) / [Filestash](https://github.com/mickael-kerjean/filestash)
 
 *   golang, react
 *   AGPLv3 License
 
-## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Finite Elements
 
@@ -75,7 +87,7 @@
 
 *   [NA Digest](https://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 

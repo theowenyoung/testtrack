@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -168,19 +168,25 @@
 
 *   [How Web Components Are Used at GitHub and Salesforce](https://thenewstack.io/how-web-components-are-used-at-github-and-salesforce/)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Testing
+
+*   [drf-openapi-tester (⭐91)](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
+
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Mijin (⭐180)](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Source Code Repos
 

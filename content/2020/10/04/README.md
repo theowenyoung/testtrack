@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2020
 
-11 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,13 +19,19 @@
 *   [Material-UI Medium Blog (⭐12)](https://github.com/sabesansathananthan/material-ui-medium-blog) - Extended Material-UI Card component to show the Medium blogs.
 *   [React Github Repo Cards (⭐17)](https://github.com/sabesansathananthan/react-github-repo-cards) - Extended Material-UI Card component to show the GitHub repositories.
 
-## [2. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Threat Intelligence / Telegram
+
+*   [OnionScan (⭐2.4k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+
+## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
 *   [Selenide (⭐1.6k)](https://github.com/selenide/selenide) - Framework powered by Selenium WebDriver for writing easy-to-read and easy-to-maintain automated tests in Java.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer & Synchronization
 
@@ -39,7 +45,13 @@
 
 *   [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code (⭐2.4k)](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
 
-## [4. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-advanced-news-ticker (⭐31)](https://github.com/ahmetcanaydemir/react-advanced-news-ticker) - [demo](https://www.ahmetcanaydemir.com/react-advanced-news-ticker/) - A flexible and animated vertical news ticker component
+
+## [6. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### Design systems of some "known" companies
 
@@ -95,43 +107,49 @@
 *   [Level up your Design System with styled-system](https://youtu.be/K8MF3aDg-bM?t=7280) - Women of React conf by [Taley'a Mirza](https://twitter.com/TaleyaMirza).
 *   [Maintaining Design Systems](https://aneventapart.com/news/post/maintaining-design-systems-by-brad-frost-aea-video) - Helps you learn how to keep your system and the products it serves in sync and understand how to maintain and evolve your design system to give your users get the best possible experience by Brad Frost (Front-end designer).
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Scroll / Other
 
 *   [rellax (⭐6.7k)](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
 
-## [6. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [8. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Codelabs/Courses
 
 *   [Connect smart home devices to the Google Assistant](https://codelabs.developers.google.com/codelabs/smarthome-washer/index.html)
 
-## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tutorials / iOS
 
 *   [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) - Tutorial on watching Netflix on a Raspberry Pi.
 
-## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔌 [SvelteFire (⭐582)](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
 
-## [10. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Merchants
+
+*   [Cryptocurrency Icons (⭐2.3k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+
+## [13. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ### (Non-spatial) Transcriptomics
 
 *   [TISCH](http://tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
 
-## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,7 +114,13 @@
 *   [Symfony Asset (⭐2.9k)](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 *   [Symfony Encore (⭐2.1k)](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
+
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -134,7 +140,7 @@
 
 *   [@spianslabs](https://twitter.com/spianslabs) <sup>[636](https://t.me/s/aboutrss/636)</sup>
 
-## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### IO / GPIO
 
@@ -144,7 +150,7 @@
 
 *   [esp32-backtrace (⭐16)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
-## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -152,31 +158,31 @@
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
     *   [GitHub organization :octocat:](https://github.com/Livox-SDK)
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
 *   [Enigma Signal Meter (⭐20)](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
 
-## [11. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
 *   [Falco](https://falco.org/) - Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.
 
-## [12. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [13. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Universal GUI Apps / Physical Coin Wallets
 
 *   [**DeBank**](https://debank.com/) - DeFi wallet, view assets and debts in Ethereum DeFi projects.
 
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / 1BitSquared
 
 *   [`onebitsy`](https://crates.io/crates/onebitsy) - Board support crate for the [1bitsy](https://1bitsy.org/) STM32F4-based board - ![crates.io](https://img.shields.io/crates/v/onebitsy.svg)
 
-## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [15. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
@@ -197,7 +203,7 @@
 *   [Problems (⭐60)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,34 @@
 
 *   [okso.app](https://okso.app) - Minimalistic online drawing app. Allows creating fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
 
-## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Code Search
+
+*   [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
+
+### Username Check / Telegram
+
+*   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
+
+### Browsers / Telegram
+
+*   [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
+
+### Infographics and Data Visualization / Telegram
+
+*   [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
+*   [D3js](https://d3js.org) - is a powerful data visualization javascript library.
+
+### Communication Tools / Telegram
+
+*   [Telegram](https://telegram.org) - is a secure and fast cloud-based mobile and desktop messaging platform.
+
+### Social Network Analysis / Telegram
+
+*   [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
+
+## [8. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2018
 
@@ -53,13 +80,13 @@
 
 *   [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace](https://mislove.org/publications/Amazon-WWW.pdf) - (WWW) [(Code)](http://personalization.ccs.neu.edu) *Develops a methodology for detecting algorithmic pricing, and use it empirically to analyze their prevalence and behavior on Amazon Marketplace.*
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
 *   [bzip3 (⭐426)](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2. \[LGPL]
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Resilience and Natural Hazards
 

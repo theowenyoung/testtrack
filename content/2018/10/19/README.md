@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2018
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -106,7 +106,13 @@
 *   [1337-Noms-The-Hacker-Cookbook (⭐214)](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community.
 *   [Vegan-chocolate-seduction-cookbook (⭐0)](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
 
-## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Repacks / Third Party Hosts
+
+*   [FitGirl Repacks](http://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
+
+## [13. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### CLI
 
@@ -127,7 +133,7 @@
 
 *   [bucket4j (⭐1.6k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
-## [13. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Videos
 
@@ -137,13 +143,13 @@
 
 *   [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
 
-## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
 *   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 
-## [15. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [16. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Monads
 
@@ -156,13 +162,13 @@
 *   [Neanderthal - fast matrix and linear algebra (⭐979)](https://github.com/uncomplicate/neanderthal)
 *   [ClojureCL - parallel computations with OpenCL (⭐272)](https://github.com/uncomplicate/clojurecl)
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Bullseye (⭐677)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

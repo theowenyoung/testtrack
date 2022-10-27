@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20 - Jun 26, 2016
 
-32 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -112,13 +112,19 @@
 *   Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind \[[Web](http://torch.ch/)]
     *   Torch-based deep learning libraries: \[[torchnet (⭐994)](https://github.com/torchnet/torchnet)],
 
-## [11. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Mobile / Playground
+
+*   [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
+
+## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Media
 
 *   [Extreme Profiling: Digging Into Hotspots](https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD) - Nitsan Wakart.
 
-## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [13. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Bulgaria 🇧🇬 / Sofia
 
@@ -261,25 +267,25 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 ![](http://www.speedtest.net/result/5370523932.png)
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [Work at Google: Meet our Production Engineers for Site Reliability Hangout on Air](https://www.youtube.com/watch?v=bwt6TZjefGM)
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
 *   [DroidMVP (⭐226)](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 
-## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [16. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby
 
 *   [A list of questions about Ruby programming you can use to quiz yourself (⭐40)](https://github.com/undr/ruby-trivia)
 
-## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
@@ -293,7 +299,7 @@ Webpage: [www.brewlabcoffee.co.uk](http://www.brewlabcoffee.co.uk)
 
 *   [Torchnet - Torch based Deep Learning Library (⭐994)](https://github.com/torchnet/torchnet)
 
-## [17. Tips](/content/git-tips/tips/week/README.md)
+## [18. Tips](/content/git-tips/tips/week/README.md)
 ## Interactive staging.
 
 ```sh
@@ -315,19 +321,19 @@ git push -f <remote-name> <branch-name>
 git remote add <remote-nickname> <remote-url>
 ```
 
-## [18. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [19. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tools
 
 *   [aurelia-template-lint (⭐4)](https://github.com/MeirionHughes/aurelia-template-lint) \* Sanity check of Aurelia-flavor template HTML
 
-## [19. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [20. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Network Analysis
 
 *   [netdiffuseR (⭐75)](https://github.com/USCCANA/netdiffuseR) - Tools for Analysis of Network Diffusion.
 
-## [20. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [21. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
@@ -397,7 +403,7 @@ git remote add <remote-nickname> <remote-url>
 *   [IACR](https://www.iacr.org/) - The International Association for Cryptologic Research is a non-profit scientific organization whose purpose is to further research in cryptology and related fields.
 *   [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
 
-## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -408,38 +414,71 @@ git remote add <remote-nickname> <remote-url>
 *   [SOMPY (⭐489)](https://github.com/sevamoo/SOMPY) - Self Organizing Map written in Python (Uses neural networks for data analysis).
 *   [HDBScan (⭐89)](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 
-## [22. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [23. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
 *   [MAJ API (⭐14)](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 
-## [23. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [24. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 
 *   [Fibratus (⭐1.7k)](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
 
-## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [Netflix/eureka :fire::fire::fire::fire::fire: (⭐12k)](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
 *   [mhart/react-server-routing-example :fire::fire: (⭐300)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
-## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Environment Management
 
 *   [rcm.cr (⭐44)](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [27. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Android
+
+- Name: [Plaid (⭐16k)](https://github.com/nickbutcher/plaid)
+
+  Description: An app that showcases Material Design
+
+  Link: <https://play.google.com/store/apps/details?id=io.plaidapp>
+
+
+- Name: [Google I/O Scheduler (⭐22k)](https://github.com/google/iosched)
+
+  Description: Offcial Android app for Google I/O
+
+  Link: <https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched>
+
+
+- Name: [Project Frisbee (⭐266)](https://github.com/gdg-x/frisbee)
+
+  Description: All GDG content in one place
+
+  Link: <https://play.google.com/store/apps/details?id=org.gdg.frisbee.android>
+
+
+- Name: [Wallsplash (⭐791)](https://github.com/mikepenz/wallsplash-android)
+
+  Description: Wallsplash is the cutting edge wallpaper app for your device!
+
+  Link: <https://play.google.com/store/apps/details?id=com.mikepenz.unsplash>
+
+
+
+## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
 
-## [27. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [29. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Projects Using Spark
 
@@ -451,20 +490,20 @@ git remote add <remote-nickname> <remote-url>
 *   [jupyter/docker-stacks/pyspark-notebook (⭐6.9k)](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 *   [sequenceiq/docker-spark (⭐767)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
-## [28. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [30. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Satis / IRC
 
 *   [Satis Control Panel (⭐151)](https://github.com/realshadow/satis-control-panel) - A simple web UI for managing your Satis Repository with optional CI integration.
 *   [Satis Go (⭐99)](https://github.com/benschw/satis-go) - A web server for managing Satis configuration and hosting the generated Composer repository.
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [RaftLib](http://raftlib.io/) - The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators \[Apache2]
 
-## [30. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [32. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
@@ -476,7 +515,7 @@ git remote add <remote-nickname> <remote-url>
 
 *   [p8keyboard.js (⭐17)](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [33. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -490,7 +529,7 @@ git remote add <remote-nickname> <remote-url>
 *   [Koel (⭐14k)](https://github.com/phanan/koel) - Personal music streaming server
 *   [Attendize (⭐3.5k)](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
 
-## [32. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [34. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Packages and Middleware
 

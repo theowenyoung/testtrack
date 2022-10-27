@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23 - Sep 29, 2019
 
-49 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,7 +116,17 @@
 
 *   [SpaceVim](https://spacevim.org/layers/lang/groovy/) - SpaceVim `lang#groovy` layer
 
-## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [13. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
+
+### Tools
+
+*   [svgtofont (⭐328)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+
+## [14. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
@@ -155,35 +165,35 @@
 
 *   [Linux Interview Questions - Quick Refresher](https://www.techbeamers.com/essential-linux-questions-answers/)
 
-## [14. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [15. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@nathanmarz](https://github.com/nathanmarz), [Apache Storm (⭐6.4k)](https://github.com/apache/storm)
     *   "History of Apache Storm and lessons learned" ([post](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html))
 
-## [15. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [16. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 
-## [16. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [17. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Image Processing
 
 *   [pyvips (⭐447)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
-## [17. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### What This Is, and Where It Comes From
 
 *   "I have hunted and used this repeatedly in the last few months and referred many others to the material. So thank you—it's making a real difference in more ways than you could Imagine! :)" —Dave Igoe, via Slack
 
-## [18. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [19. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Date and Time
 
 *   [clojure.java-time (⭐409)](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
 
-## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Presentations
 
@@ -199,7 +209,7 @@
 *   [Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019](https://www.youtube.com/watch?v=BMoOhjgirFM\&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn\&index=10) by Harris Lapiroff. [Slides](https://harrislapiroff.github.io/wagtail-space-us-2019/)
 *   [The State of Wagtail: 2019 – Wagtail Space US 2019](https://www.youtube.com/watch?v=s29vaGnFcq8\&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn\&index=11) by Tom Dyson.
 
-## [20. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [21. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
@@ -248,25 +258,25 @@
 *   [awesome-python (⭐145k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
 *   [python-typecheckers (⭐55)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
-## [21. Bots](/content/hackerkid/bots/week/README.md)
+## [22. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [PHP (⭐3.3k)](https://github.com/php-telegram-bot/core)
 
-## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [23. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Playlists
 
 *   [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - Sep 2019
 
-## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [PortEx (⭐413)](https://github.com/katjahahn/PortEx) - Java library to analyse PE files with a special focus on malware analysis and PE malformation robustness.
 
-## [24. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [25. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -277,13 +287,13 @@
 
 *   [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) - Essay argues that despite existing schema-less databases, thoughtful database modeling is important to gain knowledge and insights using algorithms.
 
-## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Redshift
 
 *   [aws-lambda-redshift-loader :fire::fire::fire: (⭐588)](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 
-## [26. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
@@ -295,19 +305,19 @@
 *   [Canonical](https://canonical.com/) - The company behind Ubuntu.
 *   [Eprosima](https://www.eprosima.com/) - "The middleware experts".
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Blazor.ru](https://blazor.ru/) - \[Russian] Old official documentation website translated in Russian.
 
-## [28. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [29. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Blogs
 
 *   [DrugDiscovery.NET](http://www.drugdiscovery.net/) - Blog of [Andreas Bender](http://www.andreasbender.de/), who is a Reader for Molecular Informatics at University of Cambridge.
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
@@ -318,19 +328,19 @@
 *   [map-countdown (⭐6)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 *   [dayjs (⭐41k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [dasblog-core (⭐377)](https://github.com/poppastring/dasblog-core) - The original DasBlog reimagined with ASP.NET Core
 
-## [31. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [32. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Forms
 
 *   [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 
-## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Function extensions
 
@@ -342,7 +352,7 @@
 *   [cl-algebraic-data-type (⭐105)](https://github.com/stylewarning/cl-algebraic-data-type) - A library for defining algebraic data types in a similar spirit to Haskell or ML. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 *   👍 [trivial-types (⭐61)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [33. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [34. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Books
 
@@ -352,13 +362,13 @@
 
 *   [Kavik.cz (⭐5)](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
 
-## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
-## [35. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [36. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Blogs
 
@@ -382,13 +392,13 @@
 *   [Sachin Kumar](https://twitter.com/sachin_atk) - GDE for Actions on Google.
 *   [Nick Felker](https://twitter.com/handnf) - Developer Programs Engineer at Google.
 
-## [36. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [37. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Tools, Platforms, and Services / Repos for Specific Datasets
 
 *   [SemEHR (⭐77)](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 
-## [37. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [38. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Internet and Networking
 
@@ -475,19 +485,19 @@
 
 *   [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
 
-## [38. Guides](/content/NARKOZ/guides/week/README.md)
+## [39. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / Writing
 
 *   [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
-## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Videos
 
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo tutorial that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / Demos and Scripts
 
@@ -502,19 +512,25 @@
 
 *   [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo course that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 
-## [41. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [42. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Java / Misc
 
 *   [JavaSteam (⭐65)](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
 
-## [42. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [43. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Database
 
 *   [LiteDB ★4245 (⭐6.8k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Carousel
+
+*   [pure-react-carousel (⭐1.5k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
+
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -528,7 +544,7 @@
 
 *   [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
 
-## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [46. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -538,7 +554,7 @@
 
 *   [react-native-easy-starter ★50 (⭐254)](https://github.com/HarishJangra/react-native-easy-starter) - A React-native starter kit using latest react and react-native [0.60.5 (⭐1.5k)](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#v0605), easy-peasy state management, hooks workflow, hermes, codepush ready-to-use custom hooks, react-native-paper, contextapis, theming support and much more (android + ios)
 
-## [45. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [47. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### List of Lists
 
@@ -550,7 +566,7 @@
 
 
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [48. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Media / Audio
 
@@ -570,19 +586,19 @@
 *   Meetup [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)
 *   Twitter [Tricity](https://twitter.com/FlutterTricity/)
 
-## [47. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [49. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Community / Webinterface
 
 *   [Wiki (Unofficial)](https://nixos.wiki)
 
-## [48. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [50. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Identity Management / Tools and web interfaces
 
 *   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
 
-## [49. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 

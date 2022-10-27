@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,19 +51,25 @@
 
 *   [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Color
+
+*   [Paletton](http://paletton.com/)
+
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Graphics
 
 *   [OpenTK (⭐2.6k)](https://github.com/opentk/opentk) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
-## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### System Utilities / Directory Navigation
 

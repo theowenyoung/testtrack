@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,15 @@
 *   [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
 *   [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
 
-## [10. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Project Management Tools / Telegram
+
+*   [ClickUp](https://www.clickup.com) - Heavy-weight Task Management
+*   [Scrumfast](https://www.scrumfast.com) - Light-weight, Free Project Management Tool
+*   [Trello](https://www.trello.com) - Free Team Project Board
+
+## [11. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Official resources
 
@@ -110,7 +118,7 @@
 
 *   [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
 
-## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [12. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Inspired by Elm / Games
 

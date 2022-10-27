@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,14 +13,20 @@
 *   [DigitalOcean Lovers](https://www.linkedin.com/groups/8876623/) - A LinkedIn group for users and lovers of DigitalOcean.
 *
 
-## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [2. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Iconic.app](https://iconic.app/) - Free, “do wtf you want with” pixel-perfect SVG icons
+
+## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Blogs / Custom Time Series
 
 *   [The Netflix Tech Blog](https://medium.com/netflix-techblog) - Learn about Netflix’s world class engineering efforts, company culture, product developments and more.
 *   [Spotify R\&D / Engineering Blog : Cassandra](https://engineering.atspotify.com/tag/apache-cassandra/) - Cassandra related posts on Spotify's official technology blog.
 
-## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [4. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
@@ -30,27 +36,27 @@
 
 *   [Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/) - Chapter 5, `Creating a Client-Side WebAssembly App Using Yew`.
 
-## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Presets
 
 *   [Breeze React (⭐14)](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS, Inertia.js and React.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Modular Blazor App Framework Oqtane Boosts Templates](https://visualstudiomagazine.com/articles/2021/04/29/oqtane-update.aspx) - April 29, 2021 - Modular Blazor App Framework Oqtane Boosts Templates.
 *   [Sands of MAUI: Issue #6](https://www.telerik.com/blogs/sands-of-maui-issue-6) - April 26, 2021 - Sands of MAUI: Issue #6. BlazorWebView for WPF/WinForms.
 
-## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Translation / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [LibreTranslate](https://libretranslate.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/uav4geo/LibreTranslate) - A self-hosted Machine Translation API, no limits, no ties to proprietary services.
 *   [Argos Translate](https://www.argosopentech.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/argosopentech/argos-translate) - Open source neural machine translation.
 
-## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [8. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -60,7 +66,7 @@
 
 *   [nnAudio (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -104,7 +110,7 @@
 
 
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -588,6 +588,12 @@
 ### Frameworks / Bridges
 
 *   [teleirc (⭐116)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
+
+## [16. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Autosize Input / Textarea
+
+*   [react-autowidth-input (⭐5)](https://github.com/kierien/react-autowidth-input) - Highly configurable & extensible automatically sized input field built with hooks.
 
 ---
 

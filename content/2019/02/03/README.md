@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,14 +18,24 @@
 
 *   [aurelia-long-click-event (⭐7)](https://github.com/avrahamcool/aurelia-long-click-event) \* Add delegate/trigger capabilities for long click.
 
-## [3. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Serverless Security (⭐484)](https://github.com/puresec/awesome-serverless-security/)
+
+  Description: Collection of Serverless security related resources
+
+
+
+## [4. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Other kinds of content / Videos
 
 *   [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 *   [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -39,7 +49,7 @@
 
 *   [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Gaming Software / System Related Tools
 

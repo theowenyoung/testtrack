@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 20, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+
+### Tools / Deobfuscation/Transformation
+
+*   [Babel](https://babeljs.io/en/repl) - Transpile and optionally evaluate ES2015 to ES5
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Framework Components
 
@@ -17,19 +23,19 @@
 
 *   [crystal-koans (⭐32)](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
 
-## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Playbooks, Roles and Collections / German
 
 *   [Ansible playbook for Linux machine setup (⭐28)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
-## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Ecosystem / Tools
 
 *   [Custom Elements Locator (⭐31)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Shopping
 
@@ -45,31 +51,31 @@
 
 
 
-## [5. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
+## [6. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### Resources / Packages
 
 *   [web-monetization-electron-app (⭐4)](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/electron.png)
 
-## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### CLI
 
 *   [tra.sh (⭐12)](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!
 
-## [7. Awesome Python](/content/vinta/awesome-python/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Penetration Testing
 
 *   [fsociety (⭐8k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
 *   [cl-json-pointer (⭐7)](https://github.com/y2q-actionman/cl-json-pointer) - A JSON Pointer implementation. [MIT](https://opensource.org/licenses/MIT).
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -122,13 +128,13 @@
 
 *   [wavpub](https://wavpub.com/) <sup>[643](https://t.me/s/aboutrss/643)</sup>
 
-## [10. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Bug trackers
 
 *   [Trac (⭐440)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 

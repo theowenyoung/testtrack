@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,7 +54,17 @@
 
 *   [nkakouros-original/numbers.nvim (⭐16)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Code Search
+
+*   [NerdyData](https://nerdydata.com) - Search engine for source code.
+
+### Social Media Tools / Reddit
+
+*   [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
+
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 

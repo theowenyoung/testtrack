@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07 - Aug 13, 2017
 
-37 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -272,7 +272,40 @@ Webpage: <http://www.26grados.com/>
 
 *   [Material Icons](https://material.io/icons/): Free to use material design icons from Google.
 
-## [23. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [23. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Awesome Repositories
+
+- Repository: [Reversing (⭐3.2k)](https://github.com/fdivrp/awesome-reversing)
+
+  Description: List of awesome reverse engineering resources
+
+
+- Repository: [Vehicle Security (⭐2.2k)](https://github.com/jaredthecoder/awesome-vehicle-security)
+
+  Description: List of resources for learning about vehicle security and car hacking
+
+
+
+### Other useful repositories
+
+- Repository: [Free Programming Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books)
+
+  Description: Free programming books for developers
+
+
+- Repository: [Lockpicking (⭐956)](https://github.com/meitar/awesome-lockpicking)
+
+  Description: Resources relating to the security and compromise of locks, safes, and keys.
+
+
+- Repository: [ThreatHunter-Playbook (⭐3.3k)](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook)
+
+  Description: A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
+
+
+
+## [24. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Game Development
 
@@ -283,7 +316,7 @@ Webpage: <http://www.26grados.com/>
 *   [Exoplayer (⭐20k)](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
     Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Crystal / General-Purpose Machine Learning
 
@@ -293,7 +326,7 @@ Webpage: <http://www.26grados.com/>
 
 *   [PyTorch (⭐60k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
-## [25. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
@@ -304,14 +337,14 @@ Webpage: <http://www.26grados.com/>
 
 *   [openlgtv.org.ru](http://openlgtv.org.ru) - A non-commercial project for legal reverse engineering and research on LG Television firmware. Seems a bit outdated but contains a lot of information.
 
-## [26. Tips](/content/git-tips/tips/week/README.md)
+## [27. Tips](/content/git-tips/tips/week/README.md)
 ## Push a new local branch to remote repository and track
 
 ```sh
 git push -u origin <branch_name>
 ```
 
-## [27. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
@@ -321,13 +354,13 @@ git push -u origin <branch_name>
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Documentation / Runner
 
 *   [ESDoc (⭐2.7k)](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Device
 
@@ -341,7 +374,7 @@ git push -u origin <branch_name>
 
 *   [HHTabBarView (⭐132)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
-## [30. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Graphics
 
@@ -355,7 +388,7 @@ git push -u origin <branch_name>
 
 *   [FOSSology](https://www.fossology.org/) - License compliance toolkit for software projects.
 
-## [31. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [32. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / YouTube Channels
 
@@ -370,7 +403,7 @@ git push -u origin <branch_name>
 *   [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 *   [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
 
-## [32. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [33. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
@@ -380,26 +413,49 @@ git push -u origin <branch_name>
 
 *   [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
 
-## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Books
+
+*   :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
+*   :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
+
+### Web / Playground
+
+*   :octocat: [excaliburjs/Excalibur (⭐1.2k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Introduction to TypeScript](https://www.packtpub.com/application-development/introduction-typescript-video) (Packt)
+*   [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
+
+## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Other Tools / Telegram
+
+*   [Datasploit (⭐2.7k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+
+## [36. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Symmetric encryption
 
 *   [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
 
-## [34. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
 *   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
 *   [flambo (⭐606)](https://github.com/yieldbot/flambo)
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### UI Automation
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
-## [36. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [39. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
@@ -415,7 +471,7 @@ git push -u origin <branch_name>
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *   [awesome-d3d12 (⭐193)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 

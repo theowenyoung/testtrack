@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,31 +33,41 @@
 
 *   [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than $1 billion in committed capital, to build companies that will help stop climate change.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Cloud Data Warehousing / Playground
+
+*   [DDB-Table (⭐86)](https://github.com/neuledge/ddb-table) Strongly typed querys and tables for AWS DynamoDB
+
+### Validation / Playground
+
+*   [computed-types (⭐328)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
 *   [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.
 
-## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Notifications and Messages / Code Coverage
 
 *   [Reply to Stale Bots (⭐15)](https://github.com/c-hive/fresh-bot)
 
-## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
-## [6. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Noia (⭐87)](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Forms
 

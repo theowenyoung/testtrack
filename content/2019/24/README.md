@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 17 - Jun 23, 2019
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -499,13 +499,20 @@
 
 *   [Rafał Pocztarski — From Node.js to Deno - JavaScript/TypeScript runtime built with V8 and Rust \[EN\]](https://www.youtube.com/watch?v=Aib1OZLy0_c)
 
-## [33. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [33. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Streaming Sites / HD Streaming
+
+*   [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
+*   [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
+
+## [34. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Machine Learning
 
 *   [chainer-chemistry (⭐542)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
-## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -527,13 +534,13 @@
 
 *   [Kotlin VIPER example (⭐34)](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
 
-## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [36. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
 *   [wagtail-instance-selector (⭐53)](https://github.com/ixc/wagtail-instance-selector) - A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.
 
-## [36. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [37. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Serverless Stack with React on AWS   [↗](https://awesomestacks.dev/serverless-stack-with-react-on-aws) / Resources
 
@@ -543,26 +550,26 @@
 
 *   [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙 (⭐71k)](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
 
-## [37. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [38. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [df-show (⭐43)](https://github.com/roberthawdon/dfshow) - Interactive directory and file browser with a similar feel to the `ls` command.
 *   [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
 
-## [38. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [39. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Scala / Symfony2
 
 *   [Chaos (⭐250)](https://github.com/mesosphere/chaos) - A lightweight framework for writing REST services in Scala.
 
-## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [aws-lambda-java-libs :fire::fire: (⭐440)](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 
-## [40. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [41. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -572,13 +579,13 @@
 
 
 
-## [41. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [42. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) - Reason why you need to self-host your static assets.
 
-## [42. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -606,13 +613,13 @@
 
 *   [react-native-localize ★603 (⭐1.9k)](https://github.com/react-native-community/react-native-localize) - React Native Localize
 
-## [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [Terraform For Next.js (⭐47)](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 
-## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Food & Drink
 
@@ -639,7 +646,7 @@
 
 
 
-## [45. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [46. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Decompilers
 
@@ -655,26 +662,26 @@
 
 *   [Pico CTF](https://picoctf.com/)
 
-## [46. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [47. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Web-tools / Git
 
 *   [Boxentriq](https://www.boxentriq.com/code-breaking) - Easy to use tools for analysis and code-breaking of the most frequent ciphers, including Vigenère, Beaufort, Keyed Caesar, Transposition Ciphers, etc.
 
-## [47. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [48. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Improved Initiative](https://www.patreon.com/improvedinitiative) - D\&D tabletop role-playing game combat tracker.
 *   [iTerm2](https://www.patreon.com/gnachman) - macOS terminal replacement.
 
-## [48. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [49. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
 *   [ggstatsplot (⭐1.6k)](https://github.com/IndrajeetPatil/ggstatsplot) - ggplot2 Based Plots with Statistical Details
 
-## [49. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [50. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
@@ -682,7 +689,7 @@
 *   [electron-better-ipc (⭐627)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 *   [electron-chrome-extension (⭐116)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
-## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [51. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 

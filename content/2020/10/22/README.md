@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -196,7 +196,13 @@
 
 *   [Oceanic Society](https://www.oceanicsociety.org/) - Oceanic Society was founded in 1969 by a group of San Francisco Bay Area sailors and scientists who were concerned about the state of the oceans and decided to take action. Inspired by the events of their day—like the Santa Barbara oil spill of 1969, the publication of Rachel Carson's Silent Spring, and growing public concern for the environment—they came together to form Oceanic Society, the first non-profit organization in America dedicated to marine conservation. Their aim was to bring greater public awareness and political action to issues of ocean health and to grow the global community of people working toward improved ocean stewardship. Oceanic Society helped put ocean conservation on the public radar. Some of our many accomplishments include: Creating the Oceanic Society Patrol and Farallon Patrol, pioneering ecotourism and volunteer vacations, inspiring a generation of ocean lovers through Oceans magazine, Leading the way in whale watching, strengthening local sea turtle conservation, globally and innovating a focus on behavior change.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [statek (⭐8)](https://github.com/pie6k/statek) - Reactive state management library
+
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -229,13 +235,13 @@
 
 *   [glyphs (⭐27)](https://github.com/ahungry/glyphs/) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Libraries / Navigation Demos
 
 *   [Statek ★3](https://statek.dev) - Simple & Reactive state management library for React & React Native
 
-## [12. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+## [13. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
 ### Calculator apps: / Web
 
@@ -246,13 +252,13 @@
 
 *   [3Blue1Brown Lockdown math series (11 episodes)](https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev)
 
-## [13. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Dashboards / Custom Cards
 
 *   [Big Number Card (⭐91)](https://github.com/custom-cards/bignumber-card) - Display big numbers for sensors, including severity level as background.
 
-## [14. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [15. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Restaurants
 

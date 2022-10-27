@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2019
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator)
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Server Side Swift
+
+*   [*Server Side Swift with Vapor* by Tim Condon, Tanner Nelson, Jonas Schwartz, Logan Wright](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
+
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Data Recovery Tools / File Sharing
 

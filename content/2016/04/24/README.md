@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,14 +12,33 @@
 
 *   [andreis/interview (⭐16k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
 
-## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Larasocial (⭐272)](https://github.com/msalom28/Larasocial)
+
+  Description: A Social Network Application
+
+  Link: <http://larasocial.info>
+
+
+- Name: [Aimeos (⭐5.8k)](https://github.com/aimeos/aimeos-laravel)
+
+  Description: Ecommerce package for high performance online shops
+
+  Link: <https://aimeos.org/Laravel>
+
+
+
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
 *   [Fabio (⭐7k)](https://github.com/eBay/fabio) - A fast, modern, zero-conf load balancing HTTP/S router for deploying microservices managed by Consul.
 *   [Neutrino (⭐299)](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 
-## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Crash monitoring / Field Validation
 
@@ -29,7 +48,7 @@
 
 *   [RESTMock (⭐751)](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 
-## [4. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
+## [5. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 
 ### Libraries
 
@@ -51,7 +70,7 @@
 *   [Nocket (⭐9)](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
 *   [Wicketopia (⭐18)](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Method-specific
 

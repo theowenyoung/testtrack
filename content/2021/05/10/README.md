@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,13 +90,23 @@
 
 *   [Cogsworth Scheduler](https://get.cogsworth.com/) - Online Scheduler for business with a powerful API.
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Specialty Search Engines
+
+*   [Intelligence X](https://intelx.io/tools)
+
+### Expert Search / Telegram
+
+*   [Licenseplates](http://www.worldlicenseplates.com/)
+
+## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
 *   [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
 
-## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [12. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Books
 
@@ -116,7 +126,7 @@
 *   [Repo-supervisor (⭐580)](https://github.com/auth0/repo-supervisor) - *Auth0* - Secrets scanning tool that can run as a CLI, as a Docker container or in AWS Lambda.
 *   [truffleHog (⭐9.5k)](https://github.com/trufflesecurity/truffleHog) - *Truffle Security* - Searches through git repositories for secrets, digging deep into commit history and branches.
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Personalization
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10 - Dec 16, 2018
 
-45 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,13 +46,19 @@
 
 *   [Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Types / Playground
+
+*   [ts-essentials (⭐2.7k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denysdovhan/spaceship-prompt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -71,25 +77,25 @@
 
 *   [vue-scroll-sync (⭐26)](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
 
-## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 
-## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
 
-## [11. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [12. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   [Flutter (⭐44k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
-## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
@@ -98,13 +104,13 @@
 *   💡 [Flutter Calendar App (⭐75)](https://github.com/mattgraham1/FlutterCalendar) -
     New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 
-## [13. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [14. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [treeviz (⭐133)](https://github.com/PierreCapo/treeviz) - Create customizable trees from json data
 
-## [14. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [15. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
@@ -114,19 +120,19 @@
     *   [linter-gcc](https://atom.io/packages/linter-gcc) - on-the-fly linting!
     *   [linter-cpplint](https://atom.io/packages/linter-cpplint) - checks against google style guide
 
-## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 
-## [16. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [17. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Podcasts and Screencasts / Mocking
 
 *   [The Java Council](https://virtualjug.com/#podcast)
 
-## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [18. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Guides / Best Practices
 
@@ -139,26 +145,26 @@
 
 *   [Omi (⭐12k)](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 
-## [18. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [19. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### Books
 
 *   [Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant) - This book teaches you how to design, build, and share voice apps.
     [Voice-First Development](https://www.manning.com/books/voice-first-development) - In this insightful guide, you’ll get a solid foundation in modern voice technologies.
 
-## [19. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [20. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
 *   [TimeIt (⭐35)](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
 
-## [20. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [21. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Graphics utilities
 
 *   [Game Boy Tile Data Generator (⭐79)](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 
-## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
@@ -168,20 +174,20 @@
 
 *   [Deer (⭐338)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
-## [22. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [23. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Crack / General
 
 *   [dessant/buster (⭐5.3k)](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
 
-## [23. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [24. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Integrations / Transactions
 
 *   [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
 *   [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - HBase shell interpreter for Apache Zeppelin.
 
-## [24. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [25. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Data Structures and Algorithms
 
@@ -190,7 +196,7 @@
 *   [LibCrypt (⭐51)](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions.
 *   [Type\_Checking (⭐5)](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - by Shambles - Type Checking for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=59857)
 
-## [25. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [26. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -208,25 +214,25 @@
 
 *   [Github-Gist (⭐9)](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Vim & Neovim / Third-party APIs
 
 *   [Slimv\_box (⭐11)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
-## [27. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [28. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
 *   [Hyperstack](https://hyperstack.org/) - A Complete Isomorphic Ruby Framework using React and Opal.
 
-## [29. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [30. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -247,32 +253,32 @@
 *   [ranger (⭐12k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 *   [midnight-commander (⭐1.9k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 
-## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Running Appium From Source (Or The Latest Beta)](https://appiumpro.com/editions/47)
 
-## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [MyController (⭐145)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
-## [32. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [33. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [homebridge-samsungtv2016 (⭐55)](https://github.com/kyleaa/homebridge-samsungtv2016) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
 *   [homebridge-samsung-tizen (⭐538)](https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
 
-## [33. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [34. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 
-## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [35. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online / Other / unknown licence
 
@@ -295,13 +301,13 @@
 
 *   [pcsc-ada](http://www.codelabs.ch/pcscada) - PCSC/Ada provides a thick Ada binding to PC/SC-middleware. The library allows programs written in Ada to communicate with smart cards using the SCard API.
 
-## [35. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [36. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [pokecry (⭐5)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
@@ -327,7 +333,7 @@
 
 *   [Cget (⭐415)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -345,7 +351,7 @@
 
 *   [Notebooks (⭐25)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 
-## [38. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [39. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Commercial WebServices / DSP
 
@@ -359,7 +365,7 @@
 
 *   [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -369,13 +375,13 @@
 
 *   [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 
-## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
 *   [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 
-## [41. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [42. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Visualization
 
@@ -386,7 +392,7 @@
 *   [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
 *   [Journal of Chemical Information and Modeling (ACS Publications)](https://pubs.acs.org/journal/jcisd8)
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [43. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -404,14 +410,201 @@
 
 *   [aspnetcore-security-headers (⭐231)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 
-## [43. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [44. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Packagist Mirrors / IRC
 
 *   Africa
     *   South Africa - [packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/README.md/packagist.co.za)
 
-## [44. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [45. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### VPN Guides and Tutorials
+
+*   [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+
+### Self-hosted VPNs
+
+*   [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
+
+### Browser Extensions
+
+*   [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
+
+### Email
+
+*   [Tutanota](https://tutanota.com/) Secure, open source email service
+
+### Torrenting
+
+*   [xbit](https://xbit.pw) Magnet link repository
+*   [torrents.csv](https://gitlab.com/dessalines/torrents.csv) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
+*   [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted.
+
+### Trackers / Public Trackers
+
+*   [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [PulsedMedia](https://pulsedmedia.com/) Inexpensive seedbox provider
+*   [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
+*   [Seedbox.io](https://seedbox.io/) Shared and dedicated slots with 1Gbps+ uplinks
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [OpenFLIXR](http://www.openflixr.com/) OpenFLIXR Media Server is an all-in-one media server for automated downloading and serving media.
+
+### Usenet Providers / Seedbox Setup Tools and Guides
+
+*   [Usenet Providers and Backbones](https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg) This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
+
+### Usenet Indexers / Free Indexers
+
+*   [GingaDADDY](https://www.gingadaddy.com/) Another popular free NZB indexer, requires sign-up
+
+### Usenet Clients / Free Indexers
+
+*   [NZBVortex 3](https://www.nzbvortex.com/landing/) Simply the best Usenet client for Mac
+*   [alt.binz](https://www.altbinz.net/) alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
+
+### Streaming Sites / HD Streaming
+
+*   [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
+*   [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
+*   [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
+*   [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
+*   [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
+*   [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
+*   [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
+*   [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
+*   [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
+*   [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
+*   [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
+*   [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
+*   [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
+*   [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
+
+### Streaming Sites / Big Media Libraries
+
+*   [5Movies](http://5movies.to/) Large collection dating as far back as 1990
+*   [2TwoMovies](https://two-movies.net/) Large collection dating as far back as 1895
+*   [CafeHulu](http://cafehulu.com/) Collection of movies/TV shows + many foreign films
+*   [Solarmovie.fm](http://www.solarmovie.fm/) or [Solarmovies.cc](https://solamovies.cc/) Plenty of movies and TV shows
+*   [Afdah](http://afdah.to/) Large collection dating as far back as 1920
+*   [YouTube](http://YouTube.com/) Contains very old films/vlogs/tutorials
+
+### Streaming Sites / TV
+
+*   [WatchSeries](http://dwatchseries.to/) TV series, multiple links/backups to different streaming hosts
+*   [TVBox](https://tvbox.ag/) TV/Movies, easy to navigate site, multiple links/backups to different streaming hosts
+
+### Streaming Sites / Anime
+
+*   [Anime8](https://anime8.me/) Basic streaming site layout, large collection of anime shows
+
+### Streaming Sites / Sports Streaming
+
+*   [/r/MLBstreams](https://www.reddit.com/r/MLBstreams/) Reddit - MLB streams
+*   [/r/NHLstreams](https://www.reddit.com/r/NHLstreams/) Reddit - NHL streams
+*   [/r/ncaaBBallstreams](https://www.reddit.com/r/ncaaBBallstreams/) Reddit - NCAABBall streams
+*   [/r/CFBstreams](https://www.reddit.com/r/CFBstreams/) Reddit - CFB streams
+*   [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
+*   [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
+*   [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
+*   [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
+*   [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
+*   [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+*   [Cricfree](https://crickfree.org/) Offers popular sports streams
+*   [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
+*   [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
+*   [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
+*   [720pStream](http://www.720pstream.me/) Popular sports only, simple design
+
+### Streaming Sites / Specialty Sites
+
+*   [Dramago](http://www.dramago.com/) Drama movies/series
+*   [Daxiv Video](https://daxiv.com/) Primarily Chinese content
+*   [KingsofHorror](https://www.YouTube.com/user/TheKingsofHorror/) YouTube Horror
+*   [MutantSorority](https://www.YouTube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) YouTube horror
+*   [TromaMovies](https://www.YouTube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) YouTube horror
+*   [Film1k](http://www.film1k.com/la-bestia-uccide-a-sangue-freddo-1971.html) Movies with nudity
+*   [Rulu](https://www.rulu.co/) YouTube Red series
+*   [MioMio](http://www.miomio.tv/) Asian TV shows/anime
+
+### Streaming Sites / Third Party Hosts
+
+*   [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
+*   [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
+*   [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
+
+### Gaming / Third Party Hosts
+
+*   [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
+
+### Homebrew and Custom Firmware / Third Party Hosts
+
+*   [/r/WiiUHacks](https://www.reddit.com/r/WiiUHacks) A subreddit dedicated to Wii U hacking and homebrew!
+
+### Ebooks / Third Party Hosts
+
+*   [Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) Blog post detailing how to use Shodan to find Calibre ebook servers
+
+### Comicbooks / Third Party Hosts
+
+*   [Kindle Comic Converter](https://kcc.iosphe.re/) Comic and manga converter for ebook readers
+
+### Documentaries / Third Party Hosts
+
+*   [DocuWiki.net](http://docuwiki.net/index.php?title=Main_Page) DocuWiki.net serves as an index of documentary films on the Edonkey Network.
+
+### Movie Automation / Third Party Hosts
+
+*   [RadarrSync (⭐115)](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
+
+### Subtitles Automation / Third Party Hosts
+
+*   [nzb-subliminal (⭐91)](https://github.com/caronc/nzb-subliminal) Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+
+### Cloud Storage / Third Party Hosts
+
+*   [UDS (⭐4.3k)](https://github.com/stewartmcgown/uds) Unlimited Drive Storage. Store files in Google Docs without counting against your quota.
+
+### Mobile Apps / Third Party Hosts
+
+*   [NewPipe](https://newpipe.schabi.org/) The original YouTube experience without annoying ads and questionable permissions
+
+### Torrent Apps / Third Party Hosts
+
+*   [Trireme](https://www.f-droid.org/en/packages/org.deluge.trireme/) Use this app to connect and manage your Deluge Daemon.
+
+### APKs / Third Party Hosts
+
+*   [Aptoide](https://en.aptoide.com/) An alternative repository-based marketplace for Android applications
+*   [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
+*   [Yalp Store (⭐2.2k)](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
+
+### Discord Servers / Third Party Hosts
+
+*   [The Eye](https://discordapp.com/invite/py3kX3Z) Official Discord server for the-eye.eu
+
+### Content Discovery / Third Party Hosts
+
+*   [2160p BluRay Remux List](https://docs.google.com/spreadsheets/d/1qU8E0JT9JQk_BaBCxZS79tn7YmUyY4XBEpHPm3j16jI/edit) Complete list of all available 2160p remuxes
+*   [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
+
+### File Sharing Tools / Third Party Hosts
+
+*   [transfer.sh](https://transfer.sh/) Easy file sharing from the command line
+*   [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
+
+### Miscellaneous / Third Party Hosts
+
+*   [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
+*   [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
+*   [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
+
+## [46. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -422,7 +615,7 @@
 
 *   [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo\&t=387s) - Inspiring talk by Zach Lieberman.
 
-## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 

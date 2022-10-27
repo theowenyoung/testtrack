@@ -1,12 +1,18 @@
 # Awesome List Updates on Nov 08, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Charting](/content/zingchart/awesome-charting/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :octocat: [Type search](https://aka.ms/typings), search for typings on npm
+
+## [2. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 
 ### Framework-Specific Libraries / Angular
 
@@ -16,7 +22,7 @@
 
 *   [JQuery-linechart (⭐42)](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
-## [2. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
@@ -26,7 +32,7 @@
 
 *   [Meetup](https://www.meetup.com/topics/jquery/) - Get involved locally.
 
-## [3. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -47,26 +53,26 @@
 *   [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
 *   [Buttons (⭐5.1k)](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
 
-## [4. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [5. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Conferences
 
 *   [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
 
-## [5. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [6. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Resources / Tutorials
 
 *   [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
 
-## [6. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [7. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Articles
 
 *   [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
 *   [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 
-## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / High-Availability
 
@@ -146,7 +152,7 @@
 *   [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog.
 *   [select \* from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 

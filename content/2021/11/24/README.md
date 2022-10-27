@@ -1,18 +1,30 @@
 # Awesome List Updates on Nov 24, 2021
 
-13 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-simple-gql (⭐18)](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
+
+## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Mistsworn](https://docs.google.com/document/d/1dTLl2rLMmJ0MQfs2BOKu_WxEWEJ6gpQQf1jaSyMK-pY) - A City of Mist / Ironsworn hybrid hack
+
+## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Web
 
 *   [Openbase](https://openbase.com) - Compare open-source packages with powerful metrics and user reviews.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 
@@ -22,14 +34,14 @@
 
 *   [LottieFiles](https://lottiefiles.com/) - The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Urban Observation
 
 *   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occuring in the built environment affordably and quickly.
 *   [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.
 
-## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Java
 
@@ -39,32 +51,32 @@
 
 *   [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [rcmd](https://lowtechguys.com/rcmd/) - Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   💼🧬 [Radix (⭐867)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [ajeetdsouza/zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Beginner
 
 *   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). Teaches the language basics, explains the ecosystem and shows real-world examples. By an active lisper and community contributor (@vindarel).
     > Thanks for supporting my work on Udemy. Also note that I release free coupons from time to time, and that Udemy often proposes drastic promotions, but you can ask me a free coupon too.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Authentication & Authorization
 
@@ -242,7 +254,7 @@
 
 
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### CMS
 
@@ -256,7 +268,13 @@
 
 *   [Umbraco 9 & Blazor WebAssembly Starterkit on GitHub](https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github) - November 24, 2021 - A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts. [Source code (⭐31)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) ![stars](https://img.shields.io/github/stars/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400).
 
-## [11. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Layout / Syntax Highlight
+
+*   [react-schematic (⭐4)](https://github.com/umeshmk/react-schematic) - [demo](https://umeshmk.github.io/react-schematic) - Build responsive layouts using styled schematics without an overhead of any theme configuration
+
+## [14. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Books
 
@@ -286,13 +304,13 @@
 *   [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - Nina Zakharenko.
 *   [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko at PyCon 2021.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Inverse Reinforcement Learning
 
 *   [Generalized Inverse Planning: Learning Lifted non-Markovian Utility for Generalizable Task Representation](http://export.arxiv.org/pdf/2011.09854) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=18369106870663956780\&hl=en\&as_sdt=0,5)].
 
-## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [16. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2018
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,7 +114,42 @@
 
 *   [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 
-## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Trackers / Semi-Private Trackers
+
+*   [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
+*   [ArenaBG](https://arenabg.com/) A Bulgarian tracker with an English translation available.
+
+### Torrent Clients / Public Trackers
+
+*   [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
+
+### Media Centre Applications / Third Party Hosts
+
+*   [Serviio](http://serviio.org/) Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Blu-ray player, games console or mobile phone) on your connected home network.
+
+### Plex Logging and Metrics / Third Party Hosts
+
+*   [Tautulli](https://tautulli.com/) :star2: Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
+
+### Textbooks / Third Party Hosts
+
+*   [All IT eBooks](http://www.allitebooks.com/) A big database of free, direct links for IT and programming ebooks
+
+### DC++ / Third Party Hosts
+
+*   [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
+
+### Full Movies On / Third Party Hosts
+
+*   [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
+
+### Proxy Sites / Third Party Hosts
+
+*   [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
+
+## [9. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### IDE and Editor Support
 
@@ -123,6 +158,16 @@
 ### Staying up to date
 
 *   [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen and Baruch Sadogursky discuss news and insight from the Groovy ecosystem.
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Phone Number Research / Telegram
+
+*   [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
+
+### Other Tools / Telegram
+
+*   [Photon (⭐9.1k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 
 ---
 

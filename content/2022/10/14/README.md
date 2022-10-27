@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,26 +33,32 @@
 
 *   [simple (drNoob13) (⭐0)](https://github.com/drNoob13/SimpleZshTheme/) - Includes decorators for python virtual environment, `git` status and current directory.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Starforged Oracles for Fantasy Settings](https://www.patreon.com/posts/starforged-for-73094405) - Numerous oracles for fantasy settings in Starforged
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
 *   [ravix (⭐12)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
 *   [ravix-ecto (⭐4)](https://github.com/YgorCastor/ravix-ecto) - RavenDB Ravix Driver adapter for Ecto.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-country-code (⭐5)](https://github.com/denfedweb/vue-country-code) - Country Code Select
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Branition](https://branition.com/colors) - Hand curated color pallets best fitted for brands.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Media / Diagnostics
 
@@ -63,13 +69,13 @@
 
 *   [rktjmp/shenzhen-solitaire.nvim (⭐13)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Java / Angular
 
 *   [Java Newsletter Insights](https://curatedjava.com/java-weekly-newsletter/). A Java newsletter contemplating Java content curated from dozens of sources.
 
-## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Code generators / Individual Podcast episodes
 
@@ -79,7 +85,7 @@
 
 *   [TheSpace App (⭐1)](https://github.com/thematters/thespace-app) - A reddit place like DApp with blockchain and canvas(through port) integration in Elm.
 
-## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
@@ -89,20 +95,20 @@
 
 *   [List (⭐1.6k)](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda (⭐1.6k)](https://github.com/funkia/list#seamless-ramda-integration).
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Artificial Intelligence
 
 *   [Graph Representational Learning Book](https://www.cs.mcgill.ca/\~wlh/grl_book/) - William L. Hamilton (HTML, PDF)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   GameMaker
     *   [OpenGMK (⭐133)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
-## [13. GoBooks](/content/dariubs/GoBooks/README.md)
+## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Advanced Books** / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
 

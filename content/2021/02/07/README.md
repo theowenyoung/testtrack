@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 07, 2021
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,7 +58,16 @@
     *   [Jungle Café & Catering](https://www.junglecafecatering.nl) - Vegan coffeebar & lunchroom for young and old. Also offers catering & take away.
     *   [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Programming Language Design Patterns
+
+*   C#
+    *   [design-patterns (⭐1.9k)](https://github.com/abishekaditya/DesignPatterns)
+    *   [design-patterns-for-human (⭐1k)](https://github.com/anupavanm/csharp-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [Design Patterns Library (⭐1.5k)](https://github.com/nemanjarogic/DesignPatternsLibrary)
+
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### zinit
 

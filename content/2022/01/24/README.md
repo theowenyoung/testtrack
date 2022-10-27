@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 24, 2022
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,23 @@
 *   [lactofermentation (⭐3)](https://github.com/tirimia/lactofermentation) - Experiments with wild lactobacillus.
 *   [bread (⭐49)](https://github.com/dgryski/bread) - Notes on bread baking.
 
-## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Testing
+
+*   [django-pattern-library (⭐233)](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Video Editing / Alternative clients/modifications of Discord:
+
+*   Sony Vegas
+*   DaVinci Resolve
+*   [Olive Video Editor](https://olivevideoeditor.org/) - Free open-source advanced non-linear video editor currently in Alpha state.
+*   [kdenlive](https://kdenlive.org/) - Open source video editor. Free and easy to use for any purpose, forever.
+*   [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source and simple cross-platform video editor.
+
+## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Presets
 
@@ -54,14 +70,14 @@
 
 *   [Navigation (⭐309)](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 
-## [7. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
+## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
 ### Developer tools / SEO Tools
 
 *   [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - Creates Datefolders (year/month(/day)) for the specified doctype for Umbraco
 *   [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - Creates AlphabetFolders for the specified doctype for Umbraco
 
-## [8. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [10. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Realtime Data Processing
 
@@ -71,7 +87,7 @@
 
 *   [Logit.io](https://logit.io/) - Send logs from Hadoop to Elasticsearch for monitoring and alerting.
 
-## [9. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 
@@ -90,19 +106,25 @@
 *   [Healthkit (⭐23)](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 *   [UDP (⭐2)](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 
-## [10. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Generation
 
 *   [AnimeFaceDrawer](https://medium.com/@steinsfu/drawing-anime-face-with-simple-segmentation-mask-ca955c62ce09) - Drawing Anime Face with Simple Segmentation Mask \[English]
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
 *   [Low Code (⭐114)](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 
-## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Specialty Search Engines
+
+*   [Netlas.io](https://app.netlas.io/)
+
+## [15. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 

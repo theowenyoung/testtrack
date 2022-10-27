@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,7 +68,13 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [React Query (⭐30k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Swift
+
+*   [*Swift Programming: The Big Nerd Ranch Guide* by Mikey Ward](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-third-edition/)
+
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Text Analysis
 

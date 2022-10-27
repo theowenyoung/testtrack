@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,13 +116,23 @@
 
 *   [mvysny/vaadin-on-kotlin (⭐161)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
-## [12. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [Vue Naive (⭐488)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-load-css-module (⭐9)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
+
+## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Official Resources
 
 *   [Community Help Board (⭐18k)](https://github.com/directus/directus/discussions/categories/q-a)
 
-## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Learning / Crash Courses
 

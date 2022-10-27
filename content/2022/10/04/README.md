@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2022
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -290,29 +290,77 @@
 
 *   [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
+
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Blogging platforms (Medium)
+
+*   **Medium** - website has Google trackers and ads.
+*   **Blogger** - Google owned, has google trackers and ads.
+*   [Plume (⭐1.8k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
+*   [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
+*   [Scribe](https://sr.ht/\~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
+
+### Instagram
+
+*   [Pixelfed](https://pixelfed.org/) 🧩 - Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.
+
+### Reddit
+
+*   [Kbin (⭐52)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
+
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Store
 
 *   [AppReview (⭐18)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Note taking / Diagnostics
 
 *   [jghauser/papis.nvim (⭐54)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
-## [11. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [13. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Principles
 
 *   [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### 0 - Meta-Lists
 
 *   [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
+
+## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Hosting:
+
+- Website: <https://supabase.com>
+
+  Description: **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+
+
+- Website: <https://railway.app/>
+
+  Description: **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
+
+
+
+### Newsletters:
+
+- Website: [Smart Programming 101](https://www.michaelasiedu.com/newsletter)
+
+  Topics: Software development.
+
+
 
 ---
 

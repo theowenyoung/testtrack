@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -151,7 +151,17 @@
 
 *   [Robert Feranec](https://www.youtube.com/user/matarofe) - 100+ Hardware design tips and tricks. Videos about Schematic design and PCB layout.
 
-## [19. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [19. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / Free Indexers
+
+*   [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
+
+### Spotify / Third Party Hosts
+
+*   [BlockTheSpot (⭐5.7k)](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
+
+## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

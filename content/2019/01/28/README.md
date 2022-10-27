@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,21 +18,27 @@
 
 *   [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
 
-## [3. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Educational
+
+*   [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
+
+## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 *   ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 *   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
-## [5. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Realtime
 
@@ -42,37 +48,37 @@
 
 *   [GitHub Archive](https://www.gharchive.org/) GitHub's public timeline since 2011, updated every hour
 
-## [6. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
+## [7. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
 ### Developer tools / Deployment
 
 *   [Deploy Contrib (⭐11)](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** *Umbraco Cloud only*
 
-## [7. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [8. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Introductions
 
 *   [Awesome Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 
-## [8. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [9. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Resources
 
 *   [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Python
 
 *   [Like-my-GF (⭐396)](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Relocation Incentives
 
 *   [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
 
-## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -128,13 +134,13 @@
 
 
 
-## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Language bindings
 
 *   Clojure: [clj-postgresql (⭐154)](https://github.com/remodoy/clj-postgresql)
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 

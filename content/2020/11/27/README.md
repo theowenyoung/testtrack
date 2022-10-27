@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,13 +33,19 @@
 
     <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
 
-## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Download Managers / Free Indexers
+
+*   [Persepolis (⭐5.5k)](https://github.com/persepolisdm/persepolis) An open source download manager and GUI for Aria2 written in Python with IDM like browser integration. Cross platfrom.
+
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Messaging
 
 *   [ChatLayout (⭐500)](https://github.com/ekazaev/ChatLayout) - A lightweight framework to build chat UI that uses custom `UICollectionViewLayout` to provide full control over the presentation as well as all the tools available in `UICollectionView`.
 
-## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Spatial
 
@@ -52,13 +58,13 @@
 
 *   [Efficient R programming](https://csgillespie.github.io/efficientR/) - Efficient R Programming is about increasing the amount of work you can do with R in a given amount of time. It’s about both computational and programmer efficiency. Authors: Colin Gillespie, Robin Lovelace.
 
-## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Papers and Articles
 
 *   [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
 
-## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Papers
 
@@ -69,25 +75,25 @@
 *   🌟 [Ensemble-Strategy (⭐1.2k)](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020) - Deep Reinforcement Learning for Automated Stock Trading.
 *   [FinRL (⭐6.2k)](https://github.com/AI4Finance-LLC/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance.
 
-## [8. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
+## [9. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md)
 
 ### Online Community
 
 *   [Lisp Discord server](https://discord.gg/7tSq5EaA6Z) - Is a Discord for Lisp. Has a channel dedicated to Common Lisp and will happily answer questions.
 
-## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [10. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Graphics
 
 *   [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT (⭐1.2k)](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 
-## [10. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Applets / Design Tooling
 
 *   [Extensions Sync (⭐219)](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

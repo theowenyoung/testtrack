@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2020
 
-54 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -146,43 +146,51 @@
 *   [LeetCode](https://leetcode.com) - Practice your coding skills by solving more than 800+ questions.
 *   [HackerRank](https://www.hackerrank.com) - Companies host coding challenges there.
 
-## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [8. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Introduction
+
+*   [A short history of video coding](https://www.slideshare.net/vcodex/a-short-history-of-video-coding?from_m_app=ios)  - Video coding is an essential component of video streaming, digital TV, video chat and many other technologies. This presentation, an invited lecture to the US …
+*   [Eyevinn/streaming-onboarding (⭐383)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
+*   [leandromoreira/digital\_video\_introduction (⭐13k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
+
+## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Languages and Environments
 
 *   [MDX (⭐153)](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
 *   [ntlm (⭐4)](https://github.com/spider-gazelle/ntlm) - NTLM authentication
 
-## [10. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [11. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [DNA Transcription Kata (⭐8)](https://github.com/nickdelgrosso/dna-transcription-kata)
 
-## [11. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [12. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [MananTank/radioactive-state (⭐291)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### zinit
 
 *   1 line install
 
-## [13. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [14. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Tutorials
 
 *   [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -208,7 +216,7 @@
 
 *   [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code (⭐18k)](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
-## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [16. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Debugging and Tracing
 
@@ -218,38 +226,38 @@
 
 *   [universal-data-tool (⭐1.7k)](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Miscellaneous
 
 *   [JWT Decoder](https://jwt.ssotools.com/) — Online free tool for decoding JWT(JSON web token) and verifying it's signature.
 
-## [17. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [18. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [yew-octicons (⭐16)](https://github.com/io12/yew-octicons) - An easy interface for using Octicons in Yew projects.
 
-## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Nextjs Starter Peacock (⭐113)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
-## [19. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [20. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Restaurants
 
 *   Ashland, OR, USA
     *   [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
 
-## [20. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [21. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Libraries
 
 *   [Blade UI Kit](https://blade-ui-kit.com/) - A set of renderless components to utilise in your Laravel Blade views.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -267,7 +275,7 @@
 
 *   [PubNub (⭐118)](https://github.com/pubnub/ruby) - Real-time Push Service in the Cloud.
 
-## [22. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -281,7 +289,7 @@
 
 *   [Deploy a YouTube Video to Anchor.fm Podcast (⭐77)](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 
-## [23. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [24. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
@@ -295,7 +303,7 @@
 
 *   [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) - A collection of extensions for Python Markdown.
 
-## [24. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -304,32 +312,43 @@
     For Database Management
 *   [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 
-## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-pdf (⭐6.4k)](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+
+### Form Components / Date / Time picker
+
+*   [react-calendar (⭐2.7k)](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
+*   [react-date-picker (⭐995)](https://github.com/wojtekmaj/react-date-picker) - A date picker for your React app.
+
+## [27. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Videos
 
 *   [openFrameworks Tutorial Series](https://www.youtube.com/watch?v=dwt2NAd1ZYY\&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7) - YouTube series to learning openFrameworks
 
-## [26. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [28. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
 *   [Discord Communities (⭐1.8k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
-## [27. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [29. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
 
-## [28. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [30. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Intentionally Vulnerable Applications / Ansible
 
 *   [Cfngoat (⭐78)](https://github.com/bridgecrewio/cfngoat) - *Bridgecrew* - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 *   [Terragoat (⭐822)](https://github.com/bridgecrewio/terragoat) - *Bridgecrew* - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -340,7 +359,7 @@
 
 *   [Pythonizr](https://pythonizr.com) - An online tool to generate boilerplate machine learning code that uses scikit-learn.
 
-## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Authentication
 
@@ -362,34 +381,40 @@
 
 *   [Blazor WebAssembly Succinctly](https://www.syncfusion.com/ebooks/blazor_webassembly_succinctly) - August 31, 2020 - Blazor is a framework for creating SPA webpages with either client-side or server-side architectures, using Razor technology written with the C# language. Because client-side Blazor with WebAssembly executes entirely on a user's browser, it’s very fast for many applications. In Blazor WebAssembly Succinctly, Michael Washington will take readers through the core elements of Blazor and then explore additional features by building a sample application. Free e-book.
 
-## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Internet Chronometer (⭐103)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
 *   [Pi-KVM (⭐5.2k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
-## [32. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [34. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Results Processing / Results Analysis
 
 *   [JtlReporter (⭐73)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
 
-## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [35. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Command aliases
 
 *   `npm un` → `npm uninstall`
 *   `npm up` → `npm update`
 
-## [34. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [36. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Spotify / Third Party Hosts
+
+*   [Downtify (⭐313)](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+
+## [37. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Books
 
 *   [Ansible for DevOps](https://www.ansiblefordevops.com/) - This book helps to start using Ansible to provision and manage anywhere from one to thousands of servers. Free sample can be read [here](https://leanpub.com/ansible-for-devops/read_sample).
 *   [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - Deploy and maintain real-world massively-scalable and high-available applications with Ansible.
 
-## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
@@ -407,19 +432,19 @@
 
 *   [mmenu (⭐2.6k)](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 
-## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Communities
 
 *   [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
 
-## [37. Guides](/content/NARKOZ/guides/week/README.md)
+## [40. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Project Guidelines (⭐27k)](https://github.com/elsewhencode/project-guidelines#readme)
 
-## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -430,7 +455,7 @@
 *   [SPI Authenticator in Nodejs](https://www.npmjs.com/package/keycloak-rest-authenticator)
 *   [Have I Been Pwned? Keycloak Password Policy (⭐14)](https://github.com/alexashley/keycloak-password-policy-have-i-been-pwned)
 
-## [39. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [42. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
@@ -454,7 +479,7 @@
 *   [Ruby Invoicing Framework (⭐262)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 *   [InvoiceNet (⭐2.1k)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -471,20 +496,20 @@
 *   [vue-with-wrapper (⭐2)](https://github.com/zWingz/vue-with-wrapper) - A object deconstruction used in `template`
 *   [vuex-ts-enhance (⭐11)](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
 
-## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
 *   [Redcloud (⭐1k)](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 
-## [42. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [45. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Misc. / Devops
 
 *   [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
 *   [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
 
-## [43. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Useful Links
 
@@ -693,7 +718,7 @@
 *   🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 *   🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
-## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [47. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
@@ -703,13 +728,13 @@
 
 *   🔧 [Flank (⭐605)](https://github.com/flank/flank/) - Massively parallel Android and iOS test runner for Firebase Test Lab.
 
-## [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [48. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [static-bytes (⭐7)](https://github.com/xoac/static-bytes): Help work with buffers without dynamic allocation. Implement traits from bytes crate. [![crate.io](https://img.shields.io/crates/v/static-bytes.svg)](https://crates.io/crates/static-bytes)
 
-## [46. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [49. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Useful Links
 
@@ -739,7 +764,7 @@
 
 *   [Ping CRM / Rails (⭐189)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 
-## [47. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [50. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Computer Vision
 
@@ -753,14 +778,14 @@
 
 *   [magenta (⭐18k)](https://github.com/magenta/magenta) - A tool to generate music and art using artificial intelligence.
 
-## [48. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [51. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [nbflow (⭐152)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 
-## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [52. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Standards / Shadow DOM
 
@@ -782,32 +807,55 @@
 
 *   [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
 
-## [50. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [53. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Website Analyzers
 
 *   [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 *   [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 
-## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [54. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
 *   [expyplot (⭐27)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
-## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [55. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 
-## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [56. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Nyxo ★12 (⭐232)](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 
-## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [57. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / APIs
+
+*   [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
+
+### Third-Party Packages / Configuration
+
+*   [djenv (⭐28)](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
+*   [django-configurations (⭐939)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
+
+### Third-Party Packages / Performance
+
+*   [django-silk (⭐3.6k)](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
+
+### Resources / Educational
+
+*   [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
+
+### Projects / Open Source Projects
+
+*   [PostHog (⭐9.7k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+
+## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 

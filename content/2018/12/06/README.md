@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 06, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -94,6 +94,12 @@
 
 *   [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
 *   [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
+
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Tools / Free Indexers
+
+*   [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
 
 ---
 

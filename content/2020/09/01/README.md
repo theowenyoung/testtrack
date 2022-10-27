@@ -1,37 +1,43 @@
 # Awesome List Updates on Sep 01, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [1. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Spotify / Third Party Hosts
+
+*   [Downtify (⭐313)](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
+
+## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Books
 
 *   [Ansible for DevOps](https://www.ansiblefordevops.com/) - This book helps to start using Ansible to provision and manage anywhere from one to thousands of servers. Free sample can be read [here](https://leanpub.com/ansible-for-devops/read_sample).
 *   [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - Deploy and maintain real-world massively-scalable and high-available applications with Ansible.
 
-## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Runner
 
 *   [taiko (⭐3.2k)](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Communities
 
 *   [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
 
-## [4. Guides](/content/NARKOZ/guides/README.md)
+## [5. Guides](/content/NARKOZ/guides/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Project Guidelines (⭐27k)](https://github.com/elsewhencode/project-guidelines#readme)
 
-## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
@@ -41,13 +47,13 @@
 
 *   [SPI Authenticator in Nodejs](https://www.npmjs.com/package/keycloak-rest-authenticator)
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Design Systems
 
 *   [Fluent UI Web Components (⭐14k)](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - Library of Web Components that supports Microsoft's Fluent design language.
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Accounting / Bookkeeping
 
@@ -71,7 +77,7 @@
 *   [Ruby Invoicing Framework (⭐262)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 *   [InvoiceNet (⭐2.1k)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -82,26 +88,26 @@
 *   [vue-with-wrapper (⭐2)](https://github.com/zWingz/vue-with-wrapper) - A object deconstruction used in `template`
 *   [vuex-ts-enhance (⭐11)](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
 
-## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
 *   [Redcloud (⭐1k)](https://github.com/khast3x/Redcloud) - A automated Red Team Infrastructure deployement using Docker.
 
-## [10. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Examples
 
 *   [Ping CRM / Rails (⭐189)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 
-## [11. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [12. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Misc. / Devops
 
 *   [List of Scala Online Courses](https://classpert.com/scala-programming) - A list of free and paid Scala online courses by Classpert, An online course search and comparison website
 *   [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg) -  A youtube channel that provides full fledged videos, recorded at Scala Days Conferences
 
-## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Useful Links
 
@@ -309,7 +315,7 @@
 *   🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 *   🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
-## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Mobile
 

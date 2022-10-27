@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 05, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -87,6 +87,12 @@
 ### Tools
 
 *   [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
+
+## [11. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Immunity Debugger](https://immunityinc.com/products/debugger/) - Powerful way to write exploits and analyze malware.
 
 ---
 

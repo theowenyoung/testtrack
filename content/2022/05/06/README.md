@@ -1,18 +1,32 @@
 # Awesome List Updates on May 06, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### General Search
+
+*   [Yahoo! Search](http://www.yahoo.com)
+
+### Company Research / Telegram
+
+*   [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
+
+### Domain and IP Research / Telegram
+
+*   [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
+
+## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [pifabs (⭐0)](https://github.com/pifabs/pifabs-zsh-theme) - Minimal theme with decorators for `git` status, username, host and working directory.
 
-## [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [3. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Resources
 
@@ -145,31 +159,31 @@
 *   [Parity SCALE Codec (⭐184)](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
 *   [Ruby (⭐17)](https://github.com/itering/scale.rb) - Maintained by Itering.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown / LaTeX / Diagnostics
 
 *   [jbyuki/carrot.nvim (⭐17)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator for Neovim Lua code blocks.
 
-## [4. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [5. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2022
 
 *   [Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf) - (arxiv) *Infers a link between the Amazon Echo system and the ad targeting algorithm.*
 
-## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Online Courses
 
 *   [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
 
-## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Articles
 
 *   ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Templates
 

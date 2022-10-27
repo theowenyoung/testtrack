@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,13 +74,19 @@
 
 *   [021011 (⭐30)](https://github.com/guesswhozzz/021011.zsh-theme) - Minimalist. Includes a single `git` marker for VS Code.
 
-## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Validation / Playground
+
+*   [Yunomix (⭐2)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
+
+## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Documentation / Opcodes
 
 *   [RGBDS opcodes reference](https://rgbds.gbdev.io/docs/gbz80.7) - A reference of all instructions, including short descriptions, cycle and byte counts, and explanations of flag modifications.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -94,7 +100,7 @@
 
 *   [haikei.app](https://www.haikei.app/) - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Maps
 
@@ -127,25 +133,25 @@
 
 *   [Microsoft Blazor: Building Web Applications in .NET 6 and Beyond](https://www.amazon.com/Microsoft-Blazor-Building-Applications-Beyond/dp/1484278445) - A practical and hands-on approach to learning Blazor using .NET 6. (3rd ed. edition (December 8, 2021).
 
-## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [10. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Live / Monograph
 
 *   [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - Aims for a mathematical understanding of fundamental issues in Computer Science, and to use this understanding to produce better algorithms, protocols, and systems, as well as identify the inherent limitations of efficient computation.
 
-## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [11. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Build And Release System
 
 *   [Kraken CI](https://kraken.ci) Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Explainability / Explainable Deep Learning
 
 *   [pytorch-grad-cam (⭐6k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Planning Management and Administrative Tools and Platforms
 

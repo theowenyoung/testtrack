@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,23 @@
 
 *   [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html) - Inherently evil multithreaded language designed for Necromancers.
 
-## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Streaming Sites / HD Streaming
+
+*   [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
+
+### Ebooks / Third Party Hosts
+
+*   [ReadAnyBook](https://readanybook.com/) Free online reading.
+
+## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Tools / Collection View Layout
 
 *   [Pecker (⭐1.4k)](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused code.
 
-## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Security / Angular
 
@@ -26,7 +36,7 @@
 *   [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116\&id=a2457dc8ad). a weekly tl;dr cybersecurity newsletter including news, the happy corner, your weekly cyber-cat, and more. It's sent every Sunday.
 *   [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### CLI
 
@@ -51,19 +61,19 @@
 
 *   [Chris Richardson](https://twitter.com/crichardson) - Software architect, consultant, and serial entrepreneur, Java Champion, JavaOne Rock Star, \*POJOs in Action- author.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Math / Other / unknown licence
 
 *   [mandelbrot-ascii (⭐2)](https://github.com/mosteo/mandelbrot_ascii) - Mandelbrot renderer in "ASCII" (unicode actually, but text nonetheless).
 
-## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Read-Write
 
 *   [pyAV](http://docs.mikeboers.com/pyav/) [:octocat: (⭐1.7k)](https://github.com/mikeboers/PyAV) - PyAV is a Pythonic binding for FFmpeg or Libav.
 
-## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools
 
@@ -72,20 +82,20 @@
 *   [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 *   [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 
-## [8. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [9. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### Germany / Hamburg
 
 *   [Wirefly](https://www.wirefly.world/) - The first tech & arts festival of its kind in Germany ⪢ 4 days of ✓ talks ✓ music ✓ events ✓ food ✓ camping - all that and more at a unique venue on the beach! **(August)**
 
-## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [10. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [Boxicons (⭐2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Chemistry
 
@@ -95,7 +105,7 @@
 
 *   [autodiff (⭐1.1k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
 
-## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 

@@ -1,18 +1,24 @@
 # Awesome List Updates on May 08, 2022
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Android
+
+*   [RethinkDNS + Firewall (⭐962)](https://github.com/celzero/rethink-app) - An open-source, no-root firewall and DNS changer, with anti-censorship capabilities for Android 6+.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps and knowledge libraries. Free community version with up to 3 authors and 5 projects. One compute profile per author with 4GB RAM.
 
-## [2. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Traveling
 
@@ -20,19 +26,19 @@
 
     <img src="https://user-images.githubusercontent.com/945761/161787518-9cbd252c-64f4-4c77-9793-a4b3d3c3f1ef.jpg" width="400"/>
 
-## [3. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [4. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Component Libraries
 
 *   [plotly-resampler (⭐558)](https://github.com/predict-idlab/plotly-resampler) - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [thm (⭐3)](https://github.com/thm-unix/thm-zshtheme) - Includes decorators for virtualenv, current directory and `git` status.
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Planning Management and Administrative Tools and Platforms
 
@@ -40,7 +46,7 @@
 *   [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
 *   [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Spreadsheet / Runner
 
@@ -50,7 +56,7 @@
 
 *   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -61,19 +67,19 @@
 
 *   [Workspaces](https://www.apptorium.com/workspaces) - Workspaces gives you the ability you to quickly switch between different types of tasks. It allows you to select which apps to open and close when selecting a workspace. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/se/app/workspaces-2/id1540284555?mt=12)
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Third-party APIs
 
 *   [go-hibp (⭐5)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
 *   [MarioAriasC/KotlinPrimavera (⭐86)](https://github.com/MarioAriasC/KotlinPrimavera) - Spring support libraries for Kotlin.
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 
@@ -104,19 +110,19 @@
 *   [Maze (⭐217)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 *   [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching (⭐60)](https://github.com/chncwang/InsNet)
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### IoT
 
 *   [PresenceLight (⭐380)](https://github.com/isaacrlevin/PresenceLight) - ![stars](https://img.shields.io/github/stars/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/isaacrlevin/PresenceLight?style=flat-square\&cacheSeconds=86400) PresenceLight is a solution to broadcast your various statuses to a Phillips Hue or LIFX light bulb. Some statuses you can broadcast are: your availability in Microsoft Teams, your current Windows 10 theme, and a theme or color of your choosing. [Blog post](https://www.isaaclevin.com/post/presence-light). [Demo video](https://www.youtube.com/playlist?list=PL_IEvQa-oTVtB3fKUclJNNJ1r-Sxtjc-m).
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 
 *   [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966\&hl=en\&as_sdt=0,5)].
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -131,13 +137,19 @@
 
 *   [Immich (⭐5.5k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone. `MIT` `Docker`
 
-## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [We-Come Monorepo (⭐1)](https://github.com/kabinetkmitb/wecome) - This is a monorepo for wecome KM ITB, [Live Demo](https://wecome-itb.com/).
 
-## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-copy-files (⭐3)](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
+
+## [17. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 

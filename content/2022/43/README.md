@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2022
 
-24 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,13 +54,39 @@
 *   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
 *   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### iOS
+
+*   [*Anyone Can Create an App* by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
+*   [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
+
+### Objective-C
+
+*   [*Programming in Objective-C* by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
+
+### Swift
+
+*   [*The Swift Programming Language* by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
+*   [*Compiling Swift Generics* by Slava Pestov](https://download.swift.org/docs/assets/generics.pdf)
+*   [*Hello Swift!* by Tanmay Bakshi, Lynn Beighley](https://www.manning.com/books/hello-swift)
+*   [*Swift in Depth* by Tjeerd in 't Veen](https://www.manning.com/books/swift-in-depth)
+
+### Architecture
+
+*   [*Cocoa Design Patterns* by Erik Buck](https://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
+
+### Database
+
+*   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
+
+## [9. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [10. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -70,19 +96,25 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [12. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
+
+## [13. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -141,7 +173,7 @@
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Data Science
 
@@ -151,7 +183,16 @@
 
 *   [Refactor Like a Superhero (⭐392)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [16. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+
+### Specialty Topics
+
+*   ### Transparency
+    *   📚 [Depth Peeling](https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransparency.pdf) - Method for order independent transparency.
+    *   📚 [Intro to Order Independent Transparency](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction) - Article by LearnOpenGL.
+    *   📚 [Weighted, Blended](http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html) - Method for order independent transparency.
+
+## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -223,7 +264,7 @@
 *   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 *   [Wotan (⭐283)](https://github.com/fimbullinter/wotan) — Pluggable TypeScript and JavaScript linter.
 
-## [15. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [18. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
@@ -473,7 +514,7 @@ Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
-## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
@@ -483,7 +524,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [17. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tutorials
 
@@ -530,20 +571,20 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 *   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
 *   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 
-## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
 *   [lisp-pay (⭐18)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐3)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [19. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Command Line Interface
 
@@ -663,7 +704,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 
-## [21. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [24. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
@@ -673,7 +714,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐11)](https://github.com/johanmorganti/osm-datadog))
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -683,7 +724,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy 3 static sites for free on the App Platform Starter tier.
 
-## [23. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [26. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
@@ -696,7 +737,7 @@ Installs: 462 | Stars: 69 | Last update: 18 Sep 2022
 *   [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 *   [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 
-## [24. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [27. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 

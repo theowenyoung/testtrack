@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,33 +33,39 @@
 
 *   [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Projects / Boilerplate
+
+*   [django-project-template (⭐635)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Other Tools
 
 *   [PicGo (⭐18k)](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Molunerfinn/PicGo)
 *   [uPic (⭐2.9k)](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/gee1k/uPic)
 
-## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Silicon Labs
 
 *   [`efm32pg12-pac`](https://crates.io/crates/efm32pg12-pac) - Peripheral access API for Silicon Labs EFM32PG12 microcontrollers - ![crates.io](https://img.shields.io/crates/v/efm32pg12-pac)
 
-## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
 *   [Spyse](https://spyse.com/) -  Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.
 *   [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
 *   [WordPress-Gatsby (⭐245)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 
-## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Questions and Answers
 
@@ -71,13 +77,13 @@
 
 *   [scala](http://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Pastebins
 
 *   [snipt (⭐64)](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Markup
 
@@ -129,7 +135,7 @@
 
 *   [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### IT Asset Management / Tools and web interfaces
 

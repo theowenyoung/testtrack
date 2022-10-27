@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12 - Nov 18, 2018
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -303,7 +303,58 @@
 *   [aenigma (⭐174)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 
-## [28. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [28. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Userscripts
+
+*   [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
+*   [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
+*   [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
+*   [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
+
+### Windows 10 Privacy
+
+*   [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
+
+### Decentralised Networks
+
+*   [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
+*   [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+
+### Torrent Clients / rTorrent
+
+*   [rtorrent-ps (⭐429)](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
+
+### Usenet Indexers / Usenet Indexing Software
+
+*   [nZEDb-deploy (⭐22)](https://github.com/PREngineer/nZEDb-deploy) A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
+
+### DDL Search Engines and Crawlers / Free Indexers
+
+*   [IPLIVE](https://iplive.club/) DDL search engine
+
+### Homebrew and Custom Firmware / Third Party Hosts
+
+*   [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator
+
+### Acestreams / Third Party Hosts
+
+*   [acestream.org](http://acestream.org/) Ace Stream is a peer-to-peer streaming application that lets you stream live sports and other content
+*   [AceStreamSearch](https://acestreamsearch.com/en/) Ace Stream Broadcasts Search
+*   [aceproxy (⭐192)](https://github.com/ValdikSS/aceproxy) Ace Stream HTTP Proxy. (abandonware)
+*   [iktason/aceproxy](https://hub.docker.com/r/ikatson/aceproxy/) A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
+
+### IRC Networks / Third Party Hosts
+
+*   [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) List of all channels on the p2p-network.net IRC network
+
+### Miscellaneous / Third Party Hosts
+
+*   [/f/Piracy](https://raddle.me/f/Piracy) Raddle forum for Piracy
+*   [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) List of DVD screeners for 2019's Oscars
+*   [iNFekt](https://infekt.ws/) A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
+
+## [29. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Parallelism
 
@@ -318,20 +369,20 @@
     *   [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
     *   [SPOC (⭐122)](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
-## [29. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [30. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [fx (⭐15k)](https://github.com/antonmedv/fx) - Command-line JSON viewer.
 
-## [30. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [31. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [badtouch (⭐334)](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
 *   [sniffglue (⭐895)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -349,13 +400,13 @@
 
 *   [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
-## [32. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [33. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
 *   [JAADAS (⭐327)](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -381,32 +432,32 @@
 
 *   [facil.io (⭐1.6k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
-## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Nextron (⭐2.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [FastBuy (⭐183)](https://github.com/Bruno-Furtado/fastbuy-app) - App to manage the products from a dummy Store (built with React Native and Redux).
 *   [Hydropuzzle (⭐13)](https://github.com/hydropuzzle/hydropuzzle) - Stylish puzzle adventure game.
 
-## [37. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [38. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
 *   [Google design](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA): Youtube channel featuring videos for designers about Google design.
 
-## [38. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [39. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Recommended reading / Blockchain, AI and Machine Learning
 
@@ -418,19 +469,19 @@
 
 *   [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
 
-## [39. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [40. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
 *   [antd-password-input-strength (⭐86)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
 
-## [40. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [41. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Books
 
 *   [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - Repo is [here (⭐423)](https://github.com/idris-hackers/software-foundations).
 
-## [41. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [42. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -450,7 +501,7 @@
 
 *   [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) - By April Wensel in the Happy Porch podcast.
 
-## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -471,7 +522,7 @@
 *   [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 *   [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
@@ -490,19 +541,19 @@
 
 *   [WeakableSelf (⭐72)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
-## [44. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [45. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
 *   [perjerz3434/meetup.com ★1 (⭐2)](https://github.com/perjerz3434/meetup.com) - Meetup.com RSVP visualization around the world using CycleJS
 
-## [45. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [46. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Clients
 
 *   [Tootle (⭐396)](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 
-## [46. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [47. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
@@ -529,7 +580,7 @@
 *   [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q\&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 *   [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA\&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 

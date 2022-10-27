@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 29, 2022
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Image Analysis / Telegram
+
+*   [ExifLooter (⭐288)](https://github.com/aydinnyunus/exiflooter)
+
+## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
@@ -21,7 +27,7 @@
 
 *   [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
 
-## [2. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [3. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### .NET
 
@@ -314,37 +320,43 @@
 *   [typescript-eslint (⭐12k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 *   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) *(label: good-first-issue)* <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vuejs-confirm-dialog (⭐16)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech\_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Game Development
 
 *   [3Dassets.one](https://www.3dassets.one/) - Over 8,000 free/paid 3D models, and PBR materials for making textures.
 
-## [5. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [6. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Tools
 
 *   [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - A self-hosted webpage that shows the latest metadata and chain specs for any given network.
 
-## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - Automate complex tasks and processes with PowerShell scripts.
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Flask / Community
+
+*   [Flask-Vite](https://pypi.org/project/flask-vite/) - Integration with Flask.
+
+## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 
 *   [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -354,20 +366,20 @@
 
 *   [Overseerr](https://overseerr.dev/) `⚠` - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ([Source Code (⭐1.8k)](https://github.com/sct/overseerr)) `MIT` `Docker`
 
-## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐31)](https://github.com/almindor/st7789) - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
 *   [ST7565](http://crates.io/crates/st7565) - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github (⭐2)](https://github.com/Finomnis/st7565) - ![crates.io](https://img.shields.io/crates/v/st7565.svg)
 
-## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
 *   [Yewprint (⭐333)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 

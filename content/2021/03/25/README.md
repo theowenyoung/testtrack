@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2021
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -302,7 +302,13 @@
     *   [Bookings](https://zoho.com/bookings)
     *   [Analytics](https://zoho.com/analytics)
 
-## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### SwiftUI
+
+*   [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
+
+## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Docker
 
@@ -315,7 +321,7 @@
 
 *   [visidata (⭐6.1k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

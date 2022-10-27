@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -176,7 +176,13 @@
 
 *   [ChemPy (⭐390)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 
-## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Server Side Swift
+
+*   [*Practical Server Side Swift* by Tibor Bödecs](https://gumroad.com/l/practical-server-side-swift)
+
+## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Standards / CSS Shadow Parts
 
@@ -186,11 +192,11 @@
 
 *   [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
-### Boilerplates
+### Typescript Project Starters
 
-*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,20 +39,26 @@
 *   [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
 *   [Chroniton (⭐177)](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Design](/content/gztchan/awesome-design/README.md)
+
+### Styleguide and Branding
+
+*   [Facebook - Brand Resource Center Book](https://en.facebookbrand.com/)
+
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
 *   [cassandra-csharp-driver (⭐547)](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
 
-## [6. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
+## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
 ### Companies / Hosting
 
 *   [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
 *   [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

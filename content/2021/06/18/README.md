@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,29 @@
 
 *   [stevearc/aerial.nvim (⭐603)](https://github.com/stevearc/aerial.nvim) - A code outline window for skimming and quick navigation.
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Libraries / Community
+
+*   [vite-ssr (⭐628)](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+
+### Frameworks / Community
+
+*   [vitedge (⭐639)](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883)
+
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
 *   [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Evidently (⭐2.8k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
-## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Websites / Archives
 
@@ -90,13 +100,13 @@
 *   [BON 2 (⭐170)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
 *   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [vuestic-admin (⭐8.9k)](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

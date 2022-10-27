@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 20, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,26 +12,38 @@
 
 *   [Mobius: C# API for Spark (⭐931)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
-## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Rails
+
+- Name: [Copycopter (⭐684)](https://github.com/copycopter/copycopter-server)
+
+  Description: A service for editing the copy text of a Rails application.
+
+  Link: <http://copycopter.com>
+
+
+
+## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Articles
 
 *   [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
 *   [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 
-## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Public REST APIs To Use In Tests / Symfony2
 
 *   [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 
-## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 
 *   [CodeXL (⭐974)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -41,7 +53,7 @@
 
 *   [ReactJS.NET (⭐2.2k)](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
@@ -51,19 +63,19 @@
 
 *   [setup\_tag (⭐2)](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization
 
 *   [chartd](http://chartd.co/) - responsive, retina-compatible charts with just an img tag.
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Data Structure and Storage
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
-## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Review Articles / Network Modeling
 

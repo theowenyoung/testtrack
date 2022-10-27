@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,19 @@
 
 *   [NoPermission (⭐106)](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting)
+
+  Description: Free and Online Accounting Software
+
+  Link: <https://akaunting.com>
+
+
+
+## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Articles / Firefox Specific Tools/Debugger
 
@@ -75,13 +87,13 @@
 
 *   [Facebook](https://www.facebook.com/groups/webgl/about/)
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Beginner
 
 *   [Lisp Quickstart](https://cs.gmu.edu/\~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
 
-## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [6. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Markup-based tools / Misc
 

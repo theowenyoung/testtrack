@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,14 @@
 
 *   [Final Fantasy Adventure (⭐12)](https://github.com/daid/FFA-disassembly)
 
-## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Link Shorteners
+
+*   Bit.ly
+*   [MagLit](https://maglit.me) - An encrypted and privacy respecting Link Shortener service that also supports Magnet Links.
+
+## [4. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Tutorials / Getting Started
 
@@ -32,7 +39,7 @@
 
 *   [Introduction to 3D Series](https://www.youtube.com/playlist?list=PLjUR2MkQ0cuHZ70Ps8F9WMyoyKHKAbYvQ) - A tutorial series on libGDX 3D using gdx-gltf.
 
-## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [5. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Things to Start From
 
@@ -60,7 +67,7 @@
 *   [Sublime Text 3 From Scratch](https://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
 *   [Perfect Workflow in Sublime Text 2](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### zgenom
 
@@ -77,7 +84,7 @@
 *   [zen (⭐10)](https://github.com/cybardev/zen.zsh) - A minimalist theme for `*NIX` systems. Includes decorators for execution time of last command run, vcs status information,
 *   [zshify (⭐1)](https://github.com/nrjdalal/zshify) - A minimalistic, one command installation to customize your prompt. Requires [npx](https://docs.npmjs.com/getting-started/installing-npm-packages-locally).
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Complexity & Information Theory / Theory
 

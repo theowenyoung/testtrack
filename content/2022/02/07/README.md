@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 07, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,38 +49,48 @@
 
 *   [Astrodon (⭐728)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / General
+
+*   [django-data-browser (⭐152)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+
+### Resources / Books
+
+*   [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
+
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [vuesion (⭐2.6k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 
-## [7. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [8. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
 *   [Terrascan (⭐3.3k)](https://github.com/accurics/terrascan) - *Accurics* - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
-## [8. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Tools / GUIs
 
 *   [paessler/snmptester](https://www.paessler.com/tools/snmptester) - This tool enables you to debug SNMP activities to find communication and/or data issues in SNMP monitoring configurations. Windows.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   Bluetooth
     *   [bluez/bluer (⭐95)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
-## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [Apache RocketMQ (⭐18k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -806,7 +816,7 @@
 
 
 
-## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Analyzers - API / Meetups
 
@@ -816,7 +826,7 @@
 *   [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 *   [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -826,7 +836,7 @@
 
 *   [Lark](https://www.larksuite.com/en_us/) - The Next-Gen Collaboration Suite. All your chats, meetings, calendars, docs, and emails in one place. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Causality / Literature Visualization
 

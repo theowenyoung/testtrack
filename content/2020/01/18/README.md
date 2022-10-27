@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,19 +24,25 @@
 
 *   [CurrencyScoop](https://currencyscoop.com) - Realtime currency data API for fintech apps. Free plan includes 5000 calls per month.
 
-## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Specs and Standards / SRT
+
+*   [DASH-IF IOPs](https://dashif.org/guidelines/)  -
+
+## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Community
 
 *   [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - Join the conversation.
 
-## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Getting Started
 
 *   [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
-## [6. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
+## [7. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
 ### Software development / Tools
 
@@ -46,50 +52,50 @@
 
 *   [A Beginner's Guide to Programming with Chip8](http://johnearnest.github.io/Octo/docs/BeginnersGuide.html) - An introductory guide to CHIP-8 programming in Octo.
 
-## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [8. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
 *   [Midica (⭐69)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Official
 
 *   [Financial Contribute](https://opencollective.com/yew) - Become a financial contributor and help us sustain our community.
 
-## [9. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [10. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Presentations
 
 *   [hacker-slides (⭐340)](https://github.com/msoedov/hacker-slides) - Minimal UI for building presentation slides from markdown. ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux")
 *   [Marp](https://marp.app/) - Markdown presentation ecosystem. :gem: *CLI, Web, IDE plugin and more to convert Markdown into various formats* ![Mac OS](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Awes.io (⭐740)](https://github.com/awes-io/awes-io) - boilerplate for CRM, SaaS, ERP based on Vue (Nuxt.js), TailwindCSS plus Laravel as a backend.
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [ExifCleaner (⭐992)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 
 *   [Crop (⭐210)](https://github.com/xclud/flutter_crop) <!--stargazers:xclud/flutter_crop--> - Crop any widget/image in Android, iOS, Web and Desktop by [Mahdi K. Fard](https://github.com/xclud/)
 
-## [13. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [14. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Parallel Grid Search in H2O ](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/) Jan 17, 2020
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### XML
 
@@ -99,13 +105,13 @@
 
 *   [swift-mod (⭐92)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 
-## [15. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [16. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Secret Management / Hardware Security Module (HSM)
 
 *   [CrypTech](https://cryptech.is) - An open hardware HSM.
 
-## [16. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [17. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -183,13 +189,13 @@
 *   [EC2 Spot Price Tracker (⭐125)](https://github.com/grosskur/ec2price) - Web app that collects and graphs EC2 Spot Prices.
 *   [GCP billing news](https://www.gcpweekly.com/gcp-resources/tag/billing/) - From the unofficial Google Cloud Platform newsletter.
 
-## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Communities
 
 *   [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
 
-## [18. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [19. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Forensics
 
@@ -226,13 +232,13 @@
 
 *   [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) - CTF tips and tricks.
 
-## [19. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [20. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Code Analysis
 
 *   [Rector (⭐6.1k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
-## [20. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [21. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / User Interfaces
 

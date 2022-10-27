@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2020
 
-54 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -385,19 +385,25 @@
 *   [Watson Text Tone Analyzer Demo](https://tone-analyzer-demo.ng.bluemix.net) - Analyzes text to get a sense of the overall tone of the document, or at the sentence level.
 *   [JStylo & Anonymouth](https://psal.cs.drexel.edu/index.php/JStylo-Anonymouth) - Authorship attribution analysis tool and evasion (anonymization) framework.
 
-## [21. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Writing and Office Tools / Telegram
+
+*   [Citationsy](https://citationsy.com)
+
+## [22. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome JMeter (⭐570)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
-## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [23. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [Core.EventStore (⭐5)](https://github.com/younos1986/Core.EventStore) - A library to facilitate communication between CommandService and QueryService. The Idea is when any event occures in commandService, it should be persisted in QueryService in MongoDb.
 
-## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [24. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -422,31 +428,40 @@
 *   [Bolero (⭐862)](https://github.com/fsbolero/Bolero) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/Bolero?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/fsbolero/Bolero?style=flat-square\&cacheSeconds=86400) Blazor for F# with hot reloaded templates, type-safe endpoints and routing, remoting, and much more.
 *   [BlazorFabric (⭐747)](https://github.com/limefrogyank/BlazorFabric) - ![GitHub stars](https://img.shields.io/github/stars/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorFabric?style=flat-square\&cacheSeconds=86400) Blazor port of Microsoft UI Fabric with fluent design. ([Demo](https://blazorfabric.azurewebsites.net/)).
 
-## [24. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [25. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Tools / PGFPlots
 
 *   [sane\_tikz (⭐280)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
 
-## [25. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [26. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Tools / Dolby
+
+*   [slhck/ffmpeg-bitrate-stats (⭐52)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-debug-qp (⭐62)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
+*   [slhck/ffmpeg-quality-metrics (⭐200)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/scenecut-extractor (⭐41)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+
+## [27. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Examples
 
 *   [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) - Electron like template for local/desktop GUIs with Gotham, rust-embed, web-view and Seed.
 
-## [26. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [28. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Related
 
 *   [StumbleUponAwesome (⭐239)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
-## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Bluetooth
 
 *   [BerkananSDK (⭐186)](https://github.com/zssz/BerkananSDK) - Mesh messaging SDK with the goal to create a decentralized mesh network for the people, powered by their device's Bluetooth antenna.
 
-## [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [30. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / Directory Listing
 
@@ -455,7 +470,7 @@
 *   [tre (⭐344)](https://github.com/dduan/tre) - `tree` with git awareness, editor aliasing, and more.
 *   [ll (⭐38)](https://github.com/antonmedv/ll) - `ls` with git status.
 
-## [29. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [31. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -466,7 +481,7 @@
 *   [Screen Sizes](http://screensiz.es/phone) - A list of screen sizes of all popular smartphones.
 *   [Shiny (⭐2.8k)](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites.
 
-## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [32. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Framework Extras
 
@@ -476,25 +491,25 @@
 
 *   [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
 
-## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [33. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Communication
 
 *   [Whereby](https://whereby.com/) - Video conference online. Create any room like `whereby.com/some-room` and starting chatting.
 
-## [32. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [34. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Other projects / Other
 
 *   [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 
-## [33. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [35. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Videos
 
 *   [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation.
 
-## [34. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [36. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -507,7 +522,7 @@
 
 *   [MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing, 2020](https://arxiv.org/abs/2002.08568)
 
-## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Proxy and VPN Tools / File Sharing
 
@@ -517,13 +532,13 @@
 
 *   [Todoist](https://todoist.com/mac) - Cross-platform todo list app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
 
-## [36. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [38. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Configuration
 
 *   [profig](https://profig.readthedocs.io/en/latest/) - Config from multiple formats with value conversion.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
@@ -552,7 +567,7 @@
 
 *   [tlse (⭐470)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -569,19 +584,29 @@
 *   [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
 *   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### WebSocket
 
 *   [Websocket.Client (⭐510)](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
 
-## [40. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [42. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### UI Layout / Syntax Highlight
+
+*   [muuri-react (⭐270)](https://github.com/Paol-imi/muuri-react) - [demo](https://1czo5.csb.app/) - [docs](https://paol-imi.github.io/muuri-react) - Responsive, sortable, filterable and draggable grid layouts.
+
+### Miscellaneous / Lazy Load
+
+*   [DataFormsJS JSX Loader (⭐151)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+
+## [43. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [Web Archiving Roundtable](https://webarchivingrt.wordpress.com/) - Unofficial blog of the Web Archiving Roundtable of the [Society of American Archivists](https://www2.archivists.org/) maintained by the members of the Web Archiving Roundtable.
 
-## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -618,13 +643,13 @@
 *   [Tetris (⭐1.4k)](https://github.com/boyan01/flutter-tetris) <!--stargazers:boyan01/flutter-tetris--> - Tetris game by [YangBin](https://github.com/boyan01)
 *   [Party Charades (⭐178)](https://github.com/vintage/party_flutter) <!--stargazers:vintage/party_flutter--> - Party charades by [Kamil Rykowski](https://github.com/vintage)
 
-## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [Next universal language detector (⭐69)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
-## [43. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [46. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Related / Awesome Lists
 
@@ -636,13 +661,13 @@
 *   [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 *   [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 
-## [44. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [47. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [MU Forms (⭐56)](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
 
-## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -652,7 +677,7 @@
 
 *   [Keycloak Discord Support (⭐65)](https://github.com/wadahiro/keycloak-discord)
 
-## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [49. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -666,25 +691,25 @@
 
 *   [electronegativity (⭐781)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
-## [47. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [50. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Web Audio
 
 *   [TimeSide (Beta) (⭐333)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat: (⭐333)](https://github.com/Parisson/TimeSide/tree/dev) - high level audio analysis, imaging, transcoding, streaming and labelling.
 
-## [48. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [51. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Frameworks / Other
 
 *   [DataFormsJS (⭐151)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [vue-service-model (⭐19)](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
 
-## [50. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [53. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -699,19 +724,29 @@
 
 *   [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 
-## [51. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [54. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Runtime / Playground
+
+*   [type-plus (⭐186)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [sub-events (⭐30)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
+
+## [55. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Bindings / Other / unknown licence
 
 *   [tcl-ada-shell (⭐5)](https://github.com/simonjwright/tcladashell) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 
-## [52. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [56. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Buttono (⭐83)](https://github.com/hsnaydd/buttono) - A flexible Sass mixin for creating BEM-style buttons.
 
-## [53. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [57. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -728,7 +763,7 @@
 
 *   [Companies using Elm (⭐403)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
-## [54. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [58. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 

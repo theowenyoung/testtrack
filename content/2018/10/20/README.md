@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,7 +114,47 @@
 
 *   [ngx-recursive-form (⭐37)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Self-hosted VPNs
+
+*   [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
+
+### Password Vaults
+
+*   [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
+*   [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
+
+### Premium Link Generators / Free Indexers
+
+*   [OffCloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
+
+### Media Centre Applications / Third Party Hosts
+
+*   [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
+
+### Music Streaming / Third Party Hosts
+
+*   [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
+
+### Manga / Third Party Hosts
+
+*   [MangaZone](http://mangazoneapp.com/) A manga reader app.
+
+### P2P Networks / Third Party Hosts
+
+*   [IPFS - Distributed Web](https://en.wikipedia.org/wiki/InterPlanetary_File_System) Peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files
+
+### Torrent Apps / Third Party Hosts
+
+*   [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) Lightweight & powerful BitTorrent app.
+*   [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) Another popular torrent client for Android.
+
+### APKs / Third Party Hosts
+
+*   [RevDl](https://www.revdl.com/) Direct download site for Android apps and games.
+
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### R / Data Manipulation | Data Analysis | Data Visualization
 

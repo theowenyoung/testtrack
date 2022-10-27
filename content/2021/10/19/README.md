@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -110,38 +110,44 @@
 
 *   [Vizzu (⭐1.6k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-react-ts-starter (⭐78)](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-follow-tooltip (⭐2)](https://github.com/gVguy/vue-follow-tooltip) - Tiny tooltip directive for Vue 3.
 *   [vue-icomoon (⭐18)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 
-## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Dependency Management
 
 *   [Deepfence ThreatMapper (⭐2.3k)](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [10. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [11. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [pixie (⭐3.9k)](https://github.com/pixie-io/pixie) - Observability for Kubernetes using eBPF. Features include protocol tracing, application profiling, and support for distributed bpftrace deployments.
 
-## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [12. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
 *   [REVISE: REvealing VIsual biaSEs (⭐91)](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [RubyLichtenstein/RxTest (⭐284)](https://github.com/RubyLichtenstein/RxTest) - Kotlin DSL for testing RxJava2
 
-## [13. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [14. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Resources
 
@@ -193,13 +199,13 @@
 
 *   [Scales (⭐6)](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Caching
 
 *   [al8n/stretto (⭐295)](https://github.com/al8n/stretto) - A high performance thread-safe memory-bound Rust cache [![build badge](https://github.com/al8n/stretto/actions/workflows/ci.yml/badge.svg)](https://github.com/al8n/stretto/actions/workflows/ci.yml)
 
-## [15. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [16. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 

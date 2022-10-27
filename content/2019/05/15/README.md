@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -199,19 +199,26 @@
 
 *   [PasDoc](https://sourceforge.net/projects/pasdoc). `[Delphi]` `[FPC]` Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Trackers / Public Trackers
+
+*   [Rock Box](https://rawkbawx.rocks/) Metal music tracker
+*   [Music Torrent](http://music-torrent.net) General music tracker
+
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cache
 
 *   [Cachyr (⭐123)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### External Services / Terraform
 
 *   [GitHub Actions for Pixela (a-know/pi) (⭐12)](https://github.com/peaceiris/actions-pixela)
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Themes
 

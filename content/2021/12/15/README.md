@@ -1,18 +1,24 @@
 # Awesome List Updates on Dec 15, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Hosting / PaaS (Platforms-as-a-Service)
+
+*   [Appliku](https://appliku.com)
+
+## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [port-expander](https://crates.io/crates/port-expander) - I2C - Driver for I2C port expanders (supports `PCA95xx`, `PCF85xx`) - [Intro blog post](https://blog.rahix.de/port-expander/) - ![crates.io](https://img.shields.io/crates/v/port-expander.svg)
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -28,13 +34,13 @@
 
 
 
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [driftctl (⭐2k)](https://github.com/snyk/driftctl) - Detect, track and alert on infrastructure drift
 
-## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Stalled Development
 
@@ -44,13 +50,13 @@
     [Repo (⭐11k)](https://github.com/picturepan2/spectre)
     \| #SCSS
 
-## [5. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [6. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained)
 
-## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Developer tools and frameworks
 
@@ -69,19 +75,19 @@
 
 *   [Telehash](http://telehash.org/) a new encrypted P2P JSON-based protocol enabling developers to quickly build apps that are distributed and private (see the [protocol (⭐485)](https://github.com/telehash/telehash.org/blob/master/protocol.md) spec)
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [xgouchet/Elmyr (⭐79)](https://github.com/xgouchet/Elmyr) - A utility to make Kotlin/Java tests random yet reproducible
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Deployment / Distribution / Collection View Layout
 
 *   [Runway](https://runway.team) - Easier mobile releases for teams. Integrates across tools (version control, project management, CI, app stores, crash reporting, etc.) to provide a single source of truth for mobile teams to come together around during release cycles. Equal parts automation and collaboration.
 
-## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Meshing / Triangular and tetrahedral meshing
 
@@ -115,13 +121,19 @@
 *   [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
     (C++, BSD, [GitHub (⭐706)](https://github.com/f3d-app/f3d))
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [iter-ops (⭐71)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-datepicker-next (⭐57)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
-## [11. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [13. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Books
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,13 +45,23 @@
 *   [Designing reliable systems with cloud infrastructure (Google Cloud Next '17)](https://www.youtube.com/watch?v=7Hy_6SMn8pY)
 *   [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 
-## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [API Security Checklist (⭐18k)](https://github.com/shieldfy/API-Security-Checklist)
+
+  Description: Checklist of the most important security countermeasures when designing, testing, and releasing your API
+
+
+
+## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Emojis / Fonts
 
 *   [node-emoji (⭐1.1k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Command Line
 

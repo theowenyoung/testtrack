@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [Keycloak: Home IdP Discovery extension (⭐61)](https://github.com/sventorben/keycloak-home-idp-discovery)
 
-## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Libraries / Community
+
+*   [ssr (⭐2.1k)](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883)
+
+## [5. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -44,13 +50,13 @@
 
 *   [Javier Luraschi](https://github.com/javierluraschi) is the current maintainer, he builds predictive visualizations at [Hal9](https://hal9.com).
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [zenml-io/zenml (⭐2.4k)](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
 
-## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Auth
 
@@ -71,7 +77,7 @@
 
 *   [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 
-## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries
 
@@ -81,7 +87,7 @@
 
 *   [Chaingraph (⭐21)](https://github.com/bitauth/chaingraph/) – A multi-node blockchain indexer and GraphQL API.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -91,13 +97,13 @@
 
 *   [kotlin-graphics/kotlin-unsigned (⭐75)](https://github.com/kotlin-graphics/kotlin-unsigned) - Unsigned operators and boxed types (Ubyte, Uint, Ulong and Ushort) for unsigned support.
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Python / Git
 
 *   [ecdsa (⭐801)](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -320,7 +326,7 @@
 
 
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 

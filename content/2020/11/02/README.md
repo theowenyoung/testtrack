@@ -1,18 +1,24 @@
 # Awesome List Updates on Nov 02, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
+## [1. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Date / Time picker
+
+*   [date-range-picker (⭐97)](https://github.com/almogtavor/date-range-picker) - [demo](https://almogtavor.github.io/date-range-picker/) - A calendar component that supports date, range & ranges picks.
+
+## [2. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 
 ### Workers / Recipes
 
 *   [Google reCAPTCHA verification (⭐30)](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
 
-## [2. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Tools
 
@@ -20,7 +26,7 @@
 
     <img src="https://raw.githubusercontent.com/Robby3St/Scriptables-WindowWidget/main/preview.jpg" width="400"/>
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Health
 
@@ -36,7 +42,7 @@
 
 
 
-## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tutorials
 
@@ -47,13 +53,13 @@
 *   `docker pull metasploitframework/metasploit-framework
     ` - [Official Metasploit](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
 
-## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Presets
 
 *   [Laravel front-end preset (⭐139)](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 
-## [6. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [7. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
@@ -65,7 +71,7 @@
 *   [gatling-tcp-extensions (⭐22)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 *   [gatling-thrift (⭐18)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Video
 
@@ -89,7 +95,7 @@
 *   [parse-columns-cli (⭐58)](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns to JSON.
 *   [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
-## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Race
 
@@ -112,19 +118,19 @@
 
 
 
-## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [10. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Storage
 
 *   [Delta Lake (⭐5.3k)](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
-## [10. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [11. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Contributors
 
 *   [vaexio](https://github.com/vaexio)
 
-## [11. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
+## [12. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
 
 ### URL
 
@@ -343,7 +349,7 @@
 *   [Spying with SEO Tools](https://www.lynda.com/Marketing-PPC-tutorials/Spying-SEO-Tools/371730-6.html) - Learn how to use SEO tools and techniques to research the competition online. Find out what keywords your competitors are optimizing for—and then outrank them on search engine results pages. With Anson Alexander by Lynda.com.
 *   [WordPress Plugins: SEO](https://www.lynda.com/WordPress-tutorials/WordPress-Plugins-SEO/140779-2.html) - Drive more visitors to your WordPress site by performing search engine optimization, or SEO, with the help of two powerful plugins. With Morten Rand-Hendriksen by Lynda.com.
 
-## [12. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
+## [13. Awesome Tall Stack](/content/livewire/awesome-tall-stack/README.md)
 
 ### The TALL Stack
 
@@ -356,25 +362,25 @@
 
 *   [talltips](https://talltips.novate.co.uk/) - Collection of tips and ideas across the TALL stack.
 
-## [13. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Uncategorized / Twitter
 
 *   [rhasspy (⭐1.2k)](https://github.com/rhasspy/rhasspy) - Toolkit for developing custom voice assistants.
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Models
 
 *   [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) (November, 2020)
 
-## [15. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [16. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Frameworks
 
 *   [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 
-## [16. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Blockchain
 
@@ -388,13 +394,13 @@
 
 *   [Invidious (⭐8.6k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
-## [18. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
+## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
 ### Module Listings
 
@@ -410,7 +416,7 @@
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 *   [PHPStorm / Webstorm Live Templates (⭐3)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
-## [19. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [20. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Shoes
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2020
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,13 @@
 
 
 
-## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Miscellaneous / Third Party Hosts
+
+*   [Outline](https://outline.com/) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
+
+## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Periodic Global Connectivity Reports
 
@@ -70,31 +76,41 @@
 
 *   [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - Report covers a potpourri of countries based on OpenSignal data gathering.
 
-## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Development
 
 *   [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 
-## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Pixelorama](https://www.patreon.com/OramaInteractive) - A free & open-source 2D sprite editor, made with the Godot Engine.
 
-## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Stub packages
 
 *   [wsgitypes (⭐2)](https://github.com/shabbyrobe/wsgitypes) - Typing for WSGI application implementers. These are not stub files, they're interfaces you mark support for to help typecheck WSGI conformance.
 
-## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Input Types
+
+*   [react-input-mask (⭐2k)](https://github.com/sanniassin/react-input-mask) - [demo](http://sanniassin.github.io/react-input-mask/demo.html) - Yet another react component for input masking.
+
+### CSS / Style / Mouse Events
+
+*   [reactponsive (⭐12)](https://github.com/jmlweb/reactponsive) - Responsive components and hooks.
+
+## [14. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Distribution
 
 *   [jlink.online (⭐1)](https://github.com/cilki/jlink.online) - Builds optimized runtimes over HTTP.
 
-## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -104,19 +120,19 @@
 
 *   [CurrySoftware/perlin (⭐70)](https://github.com/CurrySoftware/perlin) \[[perlin](https://crates.io/crates/perlin)]
 
-## [14. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [16. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### ZSH
 
 *   [zinit (⭐25)](https://github.com/zdharma/zinit) - Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services.
 
-## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [17. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Workshops / Doctrine Assessement
 
 *   [Wardley Maps Battle Camp (⭐37)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
 
-## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [18. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 

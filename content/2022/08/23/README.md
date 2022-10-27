@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,25 +73,43 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [Awesome Security Newsletters (⭐326)](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [react-vite-ts-boilerplate (⭐27)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
 *   [NetArchTest (⭐672)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
 *   [m4xshen/autoclose.nvim (⭐55)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin for Neovim written in Lua.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Snippets.Ninja (⭐57)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Go
+
+- Name: [Kopia](https://kopia.io/)
+
+  Description: Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice.
+
+  Link: [https://github.com/kopia/kopia (⭐2.3k)](https://github.com/kopia/kopia)
+
+
+
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
 

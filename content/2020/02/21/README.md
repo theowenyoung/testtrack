@@ -1,18 +1,32 @@
 # Awesome List Updates on Feb 21, 2020
 
-9 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Community
+
+*   [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
+
+### Resources / Newsletters
+
+*   [Django News](https://django-news.com) - Weekly newsletter on announcements, articles, projects, and talks.
+
+### Resources / Podcasts
+
+*   [Django Riffs](https://djangoriffs.com) - A new podcast from Matt Layman.
+
+## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Courses / Build system (ROS2)
 
 *   [ROS 2 New Features: Skill-up with the latest features of Robot Operating System 2  (Udemy)](https://www.udemy.com/course/ros-2-new-features/)
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Single controls
 
@@ -36,14 +50,20 @@
 
 *   [C-To-Delphi (⭐255)](https://github.com/WouterVanNifterick/C-To-Delphi). `[Delphi]` This tool will convert most of your standard C code.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / WIP
 
 *   [midi-port](https://crates.io/crates/midi-port) - UART - MIDI input - ![crates.io](https://img.shields.io/crates/v/midi-port.svg)
 *   [ST7920](https://crates.io/crates/st7920) - SPI - LCD displays using the ST7920 controller ![crates.io](https://img.shields.io/crates/v/st7920.svg)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### For Developers
+
+*   [mkdkr (⭐303)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
@@ -53,19 +73,25 @@
 
 *   [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
 
-## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Audio
 
 *   [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3 (⭐9.4k)](https://github.com/nukeop/nuclear/blob/master/LICENSE))
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Games
 
 *   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐16k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
-## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [jsynowiec/node-typescript-boilerplate (⭐1.8k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
+
+## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / JVM languages
 
@@ -75,7 +101,7 @@
 
 *   [Russia](https://t.me/dddevotion)
 
-## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [11. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Audio
 
@@ -89,7 +115,7 @@
 
 *   [Algo (⭐26k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Papers
 

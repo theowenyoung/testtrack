@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 29, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-watch-and-run (⭐239)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+
+## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### ORM/ODM Extensions
 
@@ -19,7 +25,19 @@
     *   [Goldiloader (⭐1.2k)](https://github.com/salsify/goldiloader) - Automatic ActiveRecord eager loading.
     *   [Rating (⭐51)](https://github.com/wbotelhos/rating) - A true Bayesian rating system with scope and cache enabled.
 
-## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Local
+
+*   [Photok (⭐250)](https://github.com/leonlatsch/Photok) - Photok is a free Photo-Safe. It stores your photos encrypted on your device and hides them from others.
+*   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
+
+### Desktop / Alternative clients/modifications of Discord:
+
+*   [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Open Source, independent browser. It needs some [hardening and tweaking](https://anonymousplanet.org/guide.html#firefox-1) to achieve great privacy.
+    *   [LibreWolf](https://librewolf.net/) - Privacy-focused Firefox fork.
+
+## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Others
 
@@ -30,13 +48,13 @@
 
 *   [Esolangs Discord Server](https://discord.gg/SdFJQmd4QJ) - A Discord community about esoteric languages.
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
 *   [cheptsov/kotlin-nosql (⭐207)](https://github.com/cheptsov/kotlin-nosql) - NoSQL database query and access library for Kotlin.
 
-## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Game Development
 
@@ -46,7 +64,7 @@
 
 *   [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer (PDF)
 
-## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [7. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Smarthome
 
@@ -56,13 +74,13 @@
 
 *   [whin (⭐11)](https://github.com/inUtil-info/node-red-contrib-whin) - Send and receive whatsapps from within a nodered flow.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-json-search (⭐12)](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple json-based search
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Transportation
 
@@ -78,7 +96,7 @@
 
 
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Commonsense / Intuitive Physics
 

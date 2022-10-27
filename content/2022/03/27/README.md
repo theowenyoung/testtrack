@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,13 +61,26 @@
 
 *   [shaunsingh/nyoom.nvim (⭐367)](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Databases
+
+*   [Supabase](https://supabase.io/) - Open source Firebase alternative ([Limited (⭐40k)](https://github.com/supabase/supabase/issues/4934) [self-hosting (⭐40k)](https://github.com/supabase/supabase/issues/4440#issuecomment-992108832))
+
+### Home Assistants
+
+*   Alexa [![](https://shields.tosdr.org/en_190.svg)](https://tosdr.org/en/service/190)
+*   Siri [![](https://shields.tosdr.org/en_158.svg)](https://tosdr.org/en/service/158)
+*   [Mycroft](https://mycroft.ai/) - The Private and Open Voice Assistant.
+*   [Home Assistant](https://www.home-assistant.io/) - Open source home automation that puts local control and privacy first.
+
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Miscellaneous Data Structures and Algorithms
 
 *   [go18ds (⭐28)](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
 
-## [9. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [10. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Supplement: Troubleshooting / Production, Deployment,   [MLOps](https://ml-ops.org/)
 

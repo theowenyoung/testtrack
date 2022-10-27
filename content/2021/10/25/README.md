@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2021
 
-11 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,13 +30,19 @@
 
 *   [freeCodeCamp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Steelforged](https://drive.google.com/drive/folders/1X7P2R-rD_89fMWR8JiYKDk5lm62UPhfL) - High fantasy supplements for Starforged
+
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Product Configurators
 
 *   [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - Product visualizer for Montblanc pens, watches, wallets and headphones.
 
-## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Bindings / Other / unknown licence
 
@@ -45,19 +51,35 @@
 *   [ada-lua (⭐36)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [arrow-kt/arrow-meta (⭐346)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Archive of Icons
+
+*   [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
+
+### Generic
+
+*   [Material Design Icons (⭐10k)](https://github.com/Templarian/MaterialDesign) - 6200+ Material Design Icons from the Community
+*   [Evil Icons (⭐5k)](https://github.com/evil-icons/evil-icons) - Free ‘plug and play’ set of SVG icons designed specifically for web projects
+*   [Lineicons](https://lineicons.com/) - 532 Line Icons for Designers and Developers
+
+### Merchants
+
+*   [Bitcoin-Icons (⭐78)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -71,13 +93,19 @@
 
 *   [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Full-stack frameworks
+
+*   [iommi (⭐299)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 

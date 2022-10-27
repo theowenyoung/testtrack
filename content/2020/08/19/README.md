@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -126,6 +126,12 @@
 ### 2016
 
 *   [Kyle Simpson: **Advanced Async and Concurrency Patterns in JavaScript**](https://www.youtube.com/watch?v=Qg1SvpIau6U) \[39:42]
+
+## [17. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Tools / Dolby
+
+*   [IENT/YUView (⭐1.2k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
 
 ---
 

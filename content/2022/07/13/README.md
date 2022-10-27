@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2022
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,13 +43,19 @@
 
 *   [ipyvizzu (⭐651)](https://github.com/vizzuhq/ipyvizzu) - Animated data storytelling tool.
 
-## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Office
+
+*   [Skiff](https://skiff.com/) - End-to-end encrypted real-time document collaboration and file storage.
+
+## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [Skiff](https://www.skiff.com) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage. [Source (⭐229)](https://github.com/skiff-org/skiff-mail)
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -136,7 +142,7 @@
 *   [cmder-wsl (⭐0)](https://github.com/szyminson/cmder-wsl-zsh) - Configuration file for `cmder`that is configured to work in quake mode with ZSH and a modified [Agnoster](https://gist.github.com/agnoster/3712874) theme.
 *   [zeit (⭐167)](https://github.com/zeit/zeit.zsh-theme) - Optimized for dark backgrounds, includes `git` status information.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -146,19 +152,19 @@
 
 *   [krzema12/github-actions-kotlin-dsl (⭐251)](https://github.com/krzema12/github-actions-kotlin-dsl) - Authoring GitHub Actions workflows in Kotlin.
 
-## [9. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [10. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Libraries and Frameworks
 
 *   [inject-react-anywhere (⭐19)](https://github.com/OlegWock/inject-react-anywhere) - Inject React components into 3rd party sites with convenient API and styles isolation.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 
 *   [fast (⭐62)](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [12. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
@@ -806,7 +812,17 @@
 
 *   [Docker Tips](https://dockertips.com/)
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-powerbuild (⭐9)](https://github.com/UIC-Group/vue3-powerbuild) - Vue 3 + TypeScript + Tailwind CSS + Vite + Storybook + ESLint + Prettier.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-autogeneration-import-file (⭐2)](https://github.com/yuntian001/vite-plugin-autogeneration-import-file) - Automatically generates import file.
+
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -815,6 +831,30 @@
 ### Articles / Others
 
 *   [ASP.NET Core updates in .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-6/) - July 12, 2022 - .NET 7 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Blazor custom elements no longer experimental, experimental QuickGrid component for Blazor, System.Security.Cryptography support on WebAssembly, empty Blazor project templates and more. For more details on the ASP.NET Core work planned for .NET 7 see the full [ASP.NET Core roadmap for .NET 7](https://aka.ms/aspnet/roadmap) on GitHub.
+
+## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Table
+
+*   [mui-datatables (⭐2.5k)](https://github.com/gregnb/mui-datatables) - Built on Material UI. Search, styling, filtering, resize/hide columns, export, print, select/expand rows.
+
+### Audio / Video
+
+*   [react-vision-camera (⭐1)](https://github.com/xulihang/react-vision-camera) - Camera component for React using getUserMedia. We can use this component for computer vision tasks like barcode scanning, text recognition, etc.
+
+### Form Components / Form Component Collections
+
+*   [formsy-material-ui (⭐572)](https://github.com/mbrookes/formsy-material-ui) - A Formsy compatibility wrapper for Material UI form components.
+
+### Responsive / Material Design
+
+*   🚀 [Material UI (⭐82k)](https://github.com/mui/material-ui) - Full suite of components. Build your own design system, or start with Material Design.
+    *   [Autocomplete](https://mui.com/material-ui/react-autocomplete/) - Accessible autocomplete, combobox, multiselect
+    *   [Material Icons](https://mui.com/material-ui/material-icons/) - 1,000+ SVG material icons.
+    *   [Modal](https://mui.com/material-ui/react-modal/) - Accessible modal dialog component.
+    *   [Slider](https://mui.com/material-ui/react-slider/) - Accessible slider component.
+    *   [Table](https://mui.com/material-ui/react-table/) - table with sorting, selecting, pagination, virtualized.
+    *   [Tree View](https://mui.com/material-ui/react-tree-view/) - Accessible tree view component for React.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -95,6 +95,16 @@
 ### Dead
 
 *   [Cowbox](http://ideelibre.fr/cowbox/index.php/Main_Page) is a hand-held standalone server, broadcasting its own network and containing web applications for coworking.
+
+## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Protocol Analyzers and Sniffers
+
+*   [sniffglue (⭐895)](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [boxxy (⭐67)](https://github.com/kpcyrd/boxxy-rs) - Linkable sandbox explorer.
 
 ---
 

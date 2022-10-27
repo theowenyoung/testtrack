@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13, 2018
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -63,7 +63,43 @@
 
 *   [KeyPress OSD (⭐222)](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 
-## [9. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [9. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### DevOps & containers
+
+*   [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
+
+## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### ReactJS
+
+- Name: [react-handsontable (⭐520)](https://github.com/handsontable/react-handsontable)
+
+  Description: A React wrapper for the the Handsontable spreadsheet component.
+
+  Link: <https://handsontable.com>
+
+  : 
+
+  : 
+
+  : 
+
+
+
+### VueJS
+
+- Name: [vue-handsontable-official (⭐754)](https://github.com/handsontable/vue-handsontable-official)
+
+  Description: Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components.
+
+  Link: <https://handsontable.com>
+
+  : 
+
+
+
+## [11. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
@@ -73,7 +109,7 @@
 
 *   [potion (⭐183)](https://github.com/finnfiddle/potion) - Collection of React components for composing visualizations
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
@@ -83,13 +119,13 @@
 
 *   [.NET Boxed Templates (⭐3.1k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Accepting Payments with Stripe, Vue.js, and Flask](https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask)
 
-## [12. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [14. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 

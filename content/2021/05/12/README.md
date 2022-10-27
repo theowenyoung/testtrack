@@ -1,30 +1,36 @@
 # Awesome List Updates on May 12, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-template-react (⭐33)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+
+## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Static Analysis / Multi-Language Support
 
 *   [SemGrep](https://semgrep.dev/) - *r2c* - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
 
-## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Case Studies
 
 *   [Get moving with Microsoft’s FAST web components](https://www.infoworld.com/article/3618410/get-moving-with-microsofts-fast-web-components.html)
 
-## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Localization and State Estimation / Lidar and Point Cloud Processing
 
 *   [libRSF (⭐172)](https://github.com/TUC-ProAut/libRSF) - A robust sensor fusion library for online localization.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 
@@ -68,7 +74,7 @@
 
 
 
-## [5. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [6. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Docs
 
@@ -84,7 +90,7 @@
 *   [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
 *   [flutter\_vlc\_player (⭐374)](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 
-## [6. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
@@ -98,7 +104,7 @@
     *   [JAX (⭐756)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
     *   [XAI (⭐52)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
-## [7. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX formulas on the web
 

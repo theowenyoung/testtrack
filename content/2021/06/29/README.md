@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -82,25 +82,31 @@
 
 *   [Publish SPA for GitHub Pages (⭐28)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
 
-## [3. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [3. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / Reddit
+
+*   [Snew (⭐84)](https://github.com/snew/snew): Open-source client for Reddit forked from the Reddit source code
+
+## [4. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Stub packages
 
 *   [torchtyping (⭐1.1k)](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
 
-## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Integrating Keycloak and OPA with Confluent](https://goraft.tech/2021/03/17/integrating-keycloak-and-opa-with-confluent.html)
 
-## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Terminal UI
 
 *   [piotr-yuxuan/malli-cli (⭐41)](https://github.com/piotr-yuxuan/malli-cli)
 
-## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Spain 🇪🇸 / Oviedo
 
@@ -114,13 +120,13 @@
 
 ![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 
-## [7. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
+## [8. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
 ### Libraries
 
 *   [seed\_heroicons (⭐0)](https://github.com/mh84/seed_heroicons) - Library providing [Heroicons](https://heroicons.com/) to include into Seed-based applications.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

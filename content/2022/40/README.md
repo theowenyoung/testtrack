@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03 - Oct 09, 2022
 
-55 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,25 +61,95 @@
 
 *   [Clink](https://short.swurl.xyz/) - Dead-simple, super minimal URL shortener in C. ([Source Code](https://git.swurl.xyz/swirl/clink)) `AGPL-3.0` `C`
 
-## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [3. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/week/README.md)
+
+### 3D Printing
+
+*   [HODLITEMS](https://hodlitems.com/) - hodlitems are bitcoin enthusiasts who want to share their passion for 3D printing with the world
+
+### Chain
+
+*   [python-bitcoinlib (⭐1.6k)](https://github.com/petertodd/python-bitcoinlib) - This Python3 library provides an easy interface to the bitcoin data structures and protocol
+
+### Displays, LED, Tickers
+
+*   [BitcoinPriceLED (⭐7)](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend
+*   [BTC E-ink Ticker (⭐31)](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
+*   [Bitcoin Kindle Display](https://d11n.net/kindle-status-display.html) - Bitcoin Status on an old Kindle
+
+### Nodes
+
+*   [Citadel (⭐92)](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
+*   [Raspiblitz (⭐2k)](https://github.com/rootzoll/raspiblitz) - Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display
+
+### Learning Material
+
+*   [bitcoin-tutorials (⭐257)](https://github.com/openoms/bitcoin-tutorials)
+
+### Lightning / Tools
+
+*   [Alby (⭐243)](https://github.com/getAlby/lightning-browser-extension) - A browser extension to bring the Bitcoin Lightning Network to the browser
+*   [lnproxy (⭐52)](https://github.com/lnproxy/lnproxy) - lnproxy takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
+*   [Tallycoin Connect (⭐22)](https://github.com/djbooth007/tallycoin_connect) - Install Tallycoin Connect on a bitcoin node to allow for the retrieval of lightning invoices via Tallycoin. LND required.
+*   [TARO (⭐181)](https://github.com/lightninglabs/taro) - Taro Daemon tarod implements the Taro protocol for issuing assets on the Bitcoin blockchain
+
+### Lightning / Hardware
+
+*   [bitcoinSwitch (⭐15)](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
+*   [LNPoS (⭐11)](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
+*   [LN-TinyPOS (⭐6)](https://github.com/ccadic/LN-TinyPOS) - Small Lightning Network Tiny POS System By @sulfuroid
+
+### Lightning / Wallets
+
+*   [BlueWallet (⭐1.8k)](https://github.com/BlueWallet/BlueWallet) - Thin Bitcoin Wallet. Built with React Native and Electrum.
+*   [Lightning Address (⭐198)](https://github.com/andrerfneves/lightning-address) - The Lightning Address is an Internet Identifier that allows anyone to send you Bitcoin over the Lightning Network
+*   [Zeus (⭐522)](https://github.com/ZeusLN/zeus) - Zeus is a mobile Bitcoin/Lightning node manager and wallet application for LND, Core Lightning, and Eclair
+
+### Telegram Bots / Wallets
+
+*   [Einundzwanzig Bot (⭐5)](https://github.com/Einundzwanzig-Podcast/einundzwanzigbot) - Einundzwanzig Community Bot
+
+### Companies & Organizations / Wallets
+
+*   [Alby](https://github.com/getAlby)
+*   [European Bitcoiners](https://github.com/European-Bitcoiners)
+*   [Lightning Labs](https://github.com/lightninglabs)
+*   [lnbits](https://github.com/lnbits)
+
+### Podcasts / Community
+
+*   [Einundzwanzig, der Bitcoin Podcast](https://einundzwanzig.space/) - Toximalistisches Infotainment für bullishe Bitcoiner
+*   [Pleb's Taverne](https://anchor.fm/plebs-taverne) - Der Bitcoin Stammtisch für toxische Bitcoin Plebs und die, die es noch werden
+
+### Podcasts / Creators
+
+*   [Was Bitcoin bringt](https://github.com/quilloughbee/awesome-pleb-projects/blob/main/README.md/wasbitcoinbringt.com/) - Der Bitcoin-Podcast mit Niko Jilch
+
+## [4. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### CSS / Style / Mouse Events
+
+*   [stitches (⭐6.5k)](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support.
+
+## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Icons
 
 *   [svelte-unicons (⭐1)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 
-## [4. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [6. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Courses / Wasm
 
 *   [full-stack-todo-rust-course (⭐36)](https://github.com/brooks-builds/full-stack-todo-rust-course) - Full stack rust course including course for Yew.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Joplin](https://joplinapp.org/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/laurent22/joplin) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [8. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Books
 
@@ -89,27 +159,27 @@
 
 *   [Threat.Zone](https://app.threat.zone) - Cloud based threat analysis platform which include sandbox, CDR and interactive analysis for researchers.
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Books
 
 *   [Terraform Cookbook](https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
 *   [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 
-## [9. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [11. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Octohint (⭐949)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 The missing IntelliSense hint for GitHub and GitLab
 
 Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
-## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 
@@ -119,13 +189,13 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [SQLLineage (⭐436)](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 
-## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Developer Tools
 
 *   [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 
-## [12. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Build and Package / Other / unknown licence
 
@@ -135,37 +205,43 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [asap (⭐3)](https://github.com/annexi-strayline/ASAP) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Web Application Framework
 
 *   [userver (⭐1.4k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
 
-## [14. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [16. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Web3XR / Realms
 
 *   [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
 
-## [15. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [17. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Others / Other Resource
 
 *   [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
-## [16. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [18. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
 *   [ryoppippi/zigcv (⭐53)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 
-## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Tools / Playground
+
+*   [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
+
+## [20. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Version Control
 
 *   [cli](https://gitlab.com/gitlab-org/cli) - An open-source GitLab command line tool bringing GitLab's cool features to your command line.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -206,7 +282,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models made for game development.
 
-## [19. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [22. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -246,31 +322,31 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 *   [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
 
-## [20. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [23. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Programming Languages / Assembly
 
 *   [Some Assembly Required (⭐2.2k)](https://github.com/hackclub/some-assembly-required/) (cc-sa) - An approachable introduction to Assembly
 
-## [21. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
+## [24. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/week/README.md)
 
 ### Software and Tools
 
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 
-## [22. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [25. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
 *   [LibHyps (⭐15)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
 
-## [23. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [26. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) - Raspberry Pi Pico is a small,fast and versatile board that is equipped with the RP2040 microcontroller chip developed by the Raspberry Pi Foundation. It also comes with a 2.4GHz 802.11n wireless LAN variant, which makes it great for IoT.
 
-## [24. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Editors
 
@@ -285,7 +361,21 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [28. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Using WSL / CUDA Development on WSL
+
+*   [CUDA drivers and toolkit](https://developer.nvidia.com/cuda-toolkit) are required to be installed on Windows. 11.7 is recommended.
+*   [Section 3](https://docs.nvidia.com/cuda/wsl-user-guide/index.html) will instruct how to install the CUDA requirements inside WSL. **Do not install a driver inside WSL.** The Windows driver will be used through the 5.10 kernel.
+
+### Supported Distributions / Ubuntu
+
+*   [Windows Store Link](https://apps.microsoft.com/store/detail/ubuntu-on-windows-community-preview/9P9Q5ZH1HRR0?hl=en-gb\&gl=gb) for Ubuntu Community Preview. These builds are previews for testing new features and ideas, these are for early adopters ***May be Unstable, Will Have Bugs*** report issues and give feedback below.
+*   *   [Installing Software](https://help.ubuntu.com/community/InstallingSoftware) guide to using apt from Ubuntu.
+*   [Ubuntu Community Previews](https://ubuntu.com/blog/explore-whats-in-store-ubuntu-preview-on-wsl) More Information About the Ubuntu Community Previews
+*   *   [Issues and Feedback](https://discourse.ubuntu.com/c/wsl2/27?_ga=2.263253898.784609326.1665083044-1177481074.1653602430) Report Issues and Give Feedback on the Community Previews Here.
+
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -299,7 +389,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [vue-ts-types (⭐3)](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
 
-## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [30. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
@@ -309,19 +399,44 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
 
-## [27. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [31. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### Code samples and snippets
 
 *   [EsriDevSummit](https://github.com/esridevsummit/) - Supplemental source code, example projects, and resources supporting DevSummit technical sessions.
 
-## [28. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vite-vue-box (⭐3)](https://github.com/NelsonYong/vite-vue-box) -  Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
+
+### Templates / React
+
+*   [template-vite-react (⭐71)](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
+
+### Templates / Electron
+
+*   [electron-vue-template (⭐192)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [@vituum/vite-plugin-handlebars (⭐0)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
+*   [@vituum/vite-plugin-pug (⭐0)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
+*   [@vituum/vite-plugin-nunjucks (⭐0)](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`.
+*   [@vituum/vite-plugin-liquid (⭐0)](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`.
+*   [@vituum/vite-plugin-twig (⭐7)](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
+*   [@vituum/vite-plugin-latte (⭐0)](https://github.com/vituum/vite-plugin-latte) - Latte template engine support, transforms `.latte` templates to `.html`.
+*   [@vituum/vite-plugin-posthtml (⭐0)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
+*   [@vituum/vite-plugin-juice (⭐0)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
+
+## [33. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [PyTypes (⭐6)](https://github.com/pvs-hd-tea/PyTypes) - Infer Types by Python Tracing.
 
-## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -331,20 +446,20 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [gtwiwtg (⭐0)](https://github.com/lisp-mirror/gtwiwtg) - A lazy sequences library. Similar to 'series' but not as complete. However it has a 'modern' API with stuff like `take`, `filter`, `for`, `fold`, etc. that is easy to use.
 
-## [30. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [35. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Ebook
 
 *   [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) - The first ebook about the VideoLAN non-profit organization and the opensource LibVLC developer SDK.
 
-## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [Using .NET 7's Blazor Custom Elements to render dynamic content](https://jonhilton.net/blazor-custom-elements/) - October 5, 2022 - Using .NET 7's Blazor Custom Elements to render dynamic content, by Jon Hilton.
 *   [Creating a Generic Tree View Blazor Component](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/creating-a-generic-tree-view-blazor-component/ba-p/3640237) - October 4, 2022 - This article shows off a Blazor component that can display an object recursively in a tree view. The component was made as part as a project, FHIR Watch, a tool for comparing FHIR data from two different data sources: FHIR API Service and Dataverse. As such, it is particularly useful for displaying FHIR data.
 
-## [32. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [37. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
@@ -357,7 +472,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [PVS-Studio](https://pvs-studio.com) :copyright: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees (⭐29)](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
 *   [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
-## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Books
 
@@ -371,7 +486,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **\[$]**
 *   [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4) - Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. **\[$]**
 
-## [34. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [39. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -383,7 +498,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [create-ipfs-app (⭐4)](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 
-## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [40. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Static site generation
 
@@ -447,19 +562,19 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [Outreachy website (⭐187)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
-## [36. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [41. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PHP / React
 
 *   [drupal/graphql](https://www.drupal.org/project/graphql) - Craft and expose a GraphQL schema for Drupal 8+.
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [einops (⭐5.8k)](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others).
 
-## [38. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [43. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Applications / Command-line
 
@@ -693,19 +808,29 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 *   [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY\&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
-## [39. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [44. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
 
-## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Social Media Tools / Twitter
+
+*   [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
+
+### Other Tools / Telegram
+
+*   [CantHide](https://canthide.me) - CantHide finds previous locations by looking at a given social media account.
+
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Store
 
 *   [AppReview (⭐18)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -727,19 +852,61 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [Shatur/neovim-tasks (⭐10)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
-## [42. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [48. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Principles
 
 *   [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
-## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [49. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Testing / Redux / ELM / Dependency Injection
 
 *   [Patrol (⭐188)](https://github.com/leancodepl/patrol) <!--stargazers:leancodepl/patrol--> - Easy-to-learn, powerful UI testing framework eliminating limitations of `flutter_test`, `integration_test`, and `flutter_driver` by [LeanCode](https://leancode.co)
 
-## [44. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [50. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### 2FA
+
+*   [RaivoOTP](https://github.com/raivo-otp/) - A native, lightweight and secure one-time-password (OTP) solution for **iOS** users.
+
+### File Management and Sharing
+
+*   [Snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
+
+### Podcasts
+
+*   **Deezer** - [Bad privacy policy](https://tosdr.org/en/service/2516). Apps have [many trackers](https://reports.exodus-privacy.eu.org/en/reports/deezer.android.tv/latest/). Way too many permissions are required for a streaming app.
+*   [Funkwhale](https://funkwhale.audio/) - A social platform to enjoy and share audio.
+*   **Spotify** - [Very bad](https://tosdr.org/en/service/225) privacy policy. They collect tons of data about you: mood, free time, likes, dislikes, friends... Also, their apps have [way too many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.spotify.music/latest/).
+*   **iVoox** - Their apps are [filled with trackers](https://reports.exodus-privacy.eu.org/en/reports/com.ivoox.app/latest/). Their website has trackers.
+*   **Audible** - [Very bad](https://tosdr.org/en/service/190) privacy policy. Their app has [many trackers](https://reports.exodus-privacy.eu.org/en/reports/com.audible.application/latest/).
+*   [Antennapod](https://antennapod.org) - A podcast player that is completely open. Subscribe to any RSS feed.
+*   [Castopod](https://castopod.org) - Self-host your podcasts with ease, keep control over what you create and talk to your audience without any middleman. Your podcast and your audience belong to you and you only.
+
+### Blogging platforms (Medium)
+
+*   **Medium** - website has Google trackers and ads.
+*   **Blogger** - Google owned, has google trackers and ads.
+*   [Plume (⭐1.8k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
+*   [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
+*   [Scribe](https://sr.ht/\~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
+
+### Instagram
+
+*   [Pixelfed](https://pixelfed.org/) 🧩 - Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.
+
+### Reddit
+
+*   [Kbin (⭐52)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
+
+### Video and Audio Conferencing / Alternative clients/modifications of Discord:
+
+*   [Vencord (⭐196)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.
+*   [Replugged](https://replugged.dev/) - A continuation of the deprecated client mod [Powercord](https://powercord.dev).
+
+## [51. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Introducing people to data security and cryptography / Brief introductions
 
@@ -769,7 +936,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf) - The Oil and Vinegar signature scheme, proposed in 1997 by Patarin, is one of the oldest and best-understood multivariate quadratic signature schemes. It has excellent performance and signature sizes. This paper is about enhancing this algorithm in usage in the post-quantum era. [Official website](https://pqmayo.org/).
 
-## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [52. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -791,7 +958,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
 
-## [46. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### 0 - Meta-Lists
 
@@ -824,7 +991,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 
-## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [54. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -846,7 +1013,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [bufferapp/clean-architecture-components-boilerplate (⭐1.3k)](https://github.com/bufferapp/clean-architecture-components-boilerplate) - A clean architecture boilerplate using andorid architecture components for android written in Kotlin
 
-## [48. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [55. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Learning / Crash Courses
 
@@ -856,7 +1023,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA\&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - A video course by Tim Roughgarden a Professor of Computer Science at Columbia University highlighting the fundamental principles, concepts and properties of Blockchain protocols.
 
-## [49. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [56. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events)   \_by   [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler)   🔥 [4.00] / [The Princess Bride](http://www.goodreads.com/book/show/21787.The_Princess_Bride)     *by [William Goldman](https://en.wikipedia.org/wiki/William_Goldman)*   \[4.2] :fire:
 
@@ -874,21 +1041,89 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
 *   [The End](https://www.goodreads.com/book/show/65112.The_End)
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
 *   Flash Player
     *   [Ruffle (⭐11k)](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![Build Status Rust](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Rust?label=Rust%20Build\&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Rust)[![Build Status Web](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Web?label=Web%20Build\&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Web)
 
-## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [58. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Metascience / Science of Science
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 *   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
 
-## [52. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [59. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Hosting:
+
+- Website: <https://supabase.com>
+
+  Description: **Supabase** is an open source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.
+
+
+- Website: <https://railway.app/>
+
+  Description: **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
+
+
+
+### Learning Platforms:
+
+- Website: <https://css-tricks.com/>
+
+
+
+### Videos:
+
+- Website: <https://www.splitshire.com>
+
+
+- Website: <https://dareful.com>
+
+
+- Website: <https://www.videvo.net>
+
+
+- Website: <https://www.videezy.com>
+
+
+- Website: <https://pixabay.com/videos>
+
+
+- Website: <https://mixkit.co>
+
+
+- Website: <https://www.vidsplay.com>
+
+
+- Website: <https://mazwai.com>
+
+
+- Website: <https://lifeofvids.com>
+
+
+- Website: <https://www.pexels.com>
+
+
+- Website: <https://coverr.co>
+
+
+- Website: <https://www.clipstill.com>
+
+
+
+### Newsletters:
+
+- Website: [Smart Programming 101](https://www.michaelasiedu.com/newsletter)
+
+  Topics: Software development.
+
+
+
+## [60. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -908,7 +1143,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [appenv (⭐0)](https://github.com/TheMarlboroMan/appenv) - Small C++ library telling where the app data resides and where the user data is by using `readlink("/proc/self/exe")`), thus allowing C++ applications to become relocatable in the filesystem.
 
-## [53. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [61. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Books
 
@@ -965,13 +1200,13 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [imgur-uploader-cli (⭐52)](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 *   [pageres-cli (⭐1.6k)](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
-## [54. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [62. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [STM32F4xx with Embedded Rust at the HAL](https://apollolabsblog.hashnode.dev/series/stm32f4-embedded-rust-hal) A blog containing a series of tutorials demonstrating the use of several peripherals through simple examples leveraging the stm32f4xx-hal crate.
 
-## [55. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [63. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### MERN: Mongo Express React Node   [↗](https://awesomestacks.dev/mern-mongo-express-react-node) / Resources
 

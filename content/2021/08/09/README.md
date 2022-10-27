@@ -1,24 +1,30 @@
 # Awesome List Updates on Aug 09, 2021
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Ghunt (⭐12k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
 *   [SwiftCurrent (⭐277)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [fluent-vue (⭐159)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community
 
@@ -46,13 +52,19 @@
 
 *   [Adopt (⭐22)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Types / Playground
+
+*   [@tool-belt/type-predicates (⭐46)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
+
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Protocols
 
 *   [JSON-RPC](https://www.jsonrpc.org/specification) - Designed to be simple, it's a stateless, lightweight remote procedure call (RPC) protocol.
 
-## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [7. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
@@ -62,7 +74,7 @@
 
 *   [Ping CRM / Clojure (⭐76)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
-## [6. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [8. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 

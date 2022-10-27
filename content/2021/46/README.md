@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15 - Nov 21, 2021
 
-46 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,13 +76,19 @@
 
 *   [sbt-derivation (⭐27)](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
 
-## [10. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Logging
+
+*   [DRF-API-Logger (⭐157)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
+
+## [11. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### JavaScript / More
 
 *   [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Official Guides
 
@@ -93,7 +99,7 @@
 
 *   [Cely (⭐163)](https://github.com/cely-tools/Cely) - A Plug-n-Play login framework.
 
-## [12. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [13. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Specifications
 
@@ -683,31 +689,43 @@
 *   [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 *   [learning-graphql (⭐923)](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 
-## [13. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Generic
+
+*   [Line Awesome](https://icons8.com/line-awesome) - Is a free alternative for Font Awesome 5.11.2. It consists of \~1380 flat icons that offer complete coverage of the main Font Awesome icon set
+
+## [15. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Deployment / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
 *   [Benchmarking Cassandra with Local Storage on Azure](https://www.instaclustr.com/benchmarking-cassandra-with-local-storage-on-azure/) - Learn about comparing Cassandra on Azure VMs w/ Local vs. Remote storage.
 
-## [14. Awesome](/content/craftcms/awesome/week/README.md)
+## [16. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Praises / Tutorials
 
 *   [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) by Chris Cox/Made by Bridge - `17 Nov 2021`
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Generic ZSH
 
 *   [ZSH Unplugged (⭐132)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
-## [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [18. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### WSL Tools / For Managing WSL Installations
+
+*   [WSL GUI Tool (⭐58)](https://github.com/emeric-martineau/wsl-gui-tool) - A graphical tool to manage (run, stop, import, export...) WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [19. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / oxidebpf
 
 *   [oxidebpf (⭐89)](https://github.com/redcanaryco/oxidebpf) - A pure Rust library for managing eBPF programs, designed for security use cases. The featureset is more limited than other libraries but emphasizes stability across a wide range of kernels and backwards-compatible compile-once-run-most-places.
 
-## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Explanation
 
@@ -1069,13 +1087,30 @@
 *   [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424\&hl=en\&as_sdt=0,5)].
 *   [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350\&hl=en\&as_sdt=0,5)].
 
-## [18. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [21. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
 
-## [19. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [22. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+- Name: [Woodpecker](https://woodpecker.laszlo.cloud/)
+
+  Description: Continuous Integration service
+
+  Features: Woodpecker is a community fork of the [Drone CI](https://github.com/drone) system.
+
+  Supported repositories: GitHub, GitLab, Gitea, BitBucket, Custom
+
+  Documentation: [Documentation](https://woodpecker-ci.github.io/docs/intro)
+
+  Price: Free Open Source (Apache License 2.0)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/laszlocph/woodpecker.svg)](https://github.com/laszlocph/woodpecker/)
+
+
+
+## [23. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Official plugins
 
@@ -1151,32 +1186,32 @@
 *   [Square Payments (⭐2)](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 *   [Sumup (⭐1)](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 
-## [20. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [24. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
 *   [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/) - Long-term, large-scale dataset collected over the period of 1.5 years on a weekly basis over the University of Sydney campus and surrounds. It includes multiple sensor modalities and covers various environmental conditions. ROS compatible
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
 
-## [21. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [25. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### SCALE Codec
 
 *   [C (⭐4)](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 
-## [22. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [26. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Music drivers and trackers
 
 *   [CBT-FX (⭐9)](https://github.com/datguywitha3ds/CBT-FX) - A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.
 
-## [23. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [27. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Miscellaneous
 
 *   [Slim JSON API (⭐269)](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
 
-## [24. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / LCD Character
 
@@ -1186,7 +1221,7 @@
 
 *   [sh1107-micropython (⭐6)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64 x 128).
 
-## [25. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [29. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### VLC lua extensions
 
@@ -1196,32 +1231,32 @@
 *   [playlist-youtube-vlc (⭐0)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 *   [vlc-super-skipper (⭐6)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 
-## [26. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
+## [30. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
 ### Threats
 
 *   [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 *   [Blockchain Threat Intelligence](https://www.blockthreat.io/) - The latest in blockchain, DeFi and cryptocurrency threat intelligence, vulnerabilities, security tools, and events.
 
-## [27. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [31. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / VPN
 
 *   [Golem Provider with network access (⭐2)](https://github.com/jedbrooke/golem-network-requestor) - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.
 
-## [28. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [32. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
-## [29. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
 *   [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
 
-## [30. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [34. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Data
 
@@ -1231,13 +1266,13 @@
 
 *   [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
 
-## [31. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Teaful (⭐657)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -1263,19 +1298,19 @@
 *   [Eilon Lipton on Blazor Desktop](http://azuredevopspodcast.clear-measure.com/eilon-lipton-on-blazor-desktop-episode-166) - November 8, 2021 - In this episode, Eilon is discussing the ins and outs of Blazor Desktop — which is currently 100% of what he’s been working on. He takes listeners on a deep-dive of Blazor Desktop, sharing what they need to know in anticipation of .NET 6 and the GA drop of Visual Studio 2022 coming out. He also touches on WPF, WinForms, MAUI, and the 2021 DEVintersection Conference. Duration: 50 minutes.
 *   [Real World Blazor With Steve Peirce](https://dotnetcore.show/episode-86-real-world-blazor-with-steve-peirce/) - November 5, 2021 - .NET Core Show, Episode 86 - Real World Blazor With Steve Peirce. Duration: 62 minutes.
 
-## [33. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [37. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Third-Party Services / Misc
 
 *   [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 
-## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [RishabhRD/gruvy (⭐12)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
 
-## [35. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [39. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Tools you'll need / Cloud-based options
 
@@ -1307,13 +1342,13 @@
 
 *   **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
 
-## [36. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-pomodoro-plus (⭐50)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 
-## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -1326,7 +1361,7 @@
 *   [Slack](https://linktr.ee/flutter_france)
 *   [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
-## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -1356,7 +1391,7 @@
 
 
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -1373,7 +1408,7 @@
 *   [spoptchev/scientist (⭐79)](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
 *   [kohesive/solr-undertow (⭐96)](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -1383,7 +1418,7 @@
 
 *   [vue3-flip-countdown (⭐41)](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -1399,13 +1434,13 @@
 
 *   [maiden](https://shirakumo.github.io/maiden) - A bot and chat system framework with support for IRC and more. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [42. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [46. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [Radix Icons (⭐1.3k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
@@ -1419,7 +1454,7 @@
 
 *   [mollie.cr (⭐14)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -1433,13 +1468,13 @@
 
 *   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
 
-## [45. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [49. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Backups
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 
-## [46. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [50. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -1449,6 +1484,28 @@
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
 *   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐136)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+
+## [51. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Real-Time Search, Social Media Search, and General Social Media Tools
+
+*   [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
+
+### Social Media Tools / Twitter
+
+*   [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
+
+### Social Media Tools / Telegram
+
+*   [Telegram Nearby Map (⭐429)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+
+### Username Check / Telegram
+
+*   [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
+
+### Keywords Discovery and Research / Telegram
+
+*   [Yandex Wordstat](https://wordstat.yandex.com)
 
 ---
 

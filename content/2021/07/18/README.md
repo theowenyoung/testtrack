@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2021
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,6 +47,24 @@
 
 *   Meetup [Flutter Developers Kenya](https://www.meetup.com/KenyaFlutterDev/)
 *   Twitter [Flutter Developers Kenya](https://twitter.com/KenyaFlutterDev/)
+
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-tips (⭐45)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+
+## [7. Awesome Rss Feeds](/content/plenaryapp/awesome-rss-feeds/README.md)
+
+### Directory / Categories
+
+- Category: [UI / UX](#UI--UX)
+
+  OPML: [UI / UX.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/with_category/UI%20-%20UX.opml)
+
+  OPML (without category) <sup>[What's this?](#with-category-and-without-category)</sup>: [UI / UX.opml](https://raw.githubusercontent.com/spians/awesome-RSS-feeds/master/recommended/without_category/UI%20-%20UX.opml)
+
+
 
 ---
 

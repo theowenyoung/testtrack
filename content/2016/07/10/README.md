@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,19 @@
 
 *   [TypeScript](https://atom.io/packages/linter-tslint) - tslint
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Gitamin (⭐347)](https://github.com/GitaminHQ/Gitamin)
+
+  Description: A self-hosted git repository management software
+
+  Link: <http://gitamin.com>
+
+
+
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
@@ -55,7 +67,7 @@
 
 *   [cspex (⭐22)](https://github.com/costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 
-## [4. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
+## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
 ### Videos
 
@@ -77,7 +89,7 @@
 *   [Konga Case Study](https://developers.google.com/web/showcase/2016/konga) - Konga cuts data usage 92% with new Progressive Web App.
 *   [Suumo Case Study](https://developers.google.com/web/showcase/2016/suumo) - Japan's top real estate site supercharges new listings with web Push Notifications and sees a 31% open rate for notifications.
 
-## [5. Colorful](/content/Siddharth11/Colorful/README.md)
+## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 

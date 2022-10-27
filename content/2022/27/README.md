@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04 - Jul 10, 2022
 
-41 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -181,7 +181,13 @@
 
 *   [Language PCB (⭐16)](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
-## [15. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [15. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Types / Playground
+
+*   [jsonup (⭐36)](https://github.com/tani/jsonup) - Compile-time JSON parser
+
+## [16. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -191,19 +197,27 @@
 
 *   [Cyware Threat Intelligence Feeds](https://cyware.com/community/ctix-feeds) - Cyware’s Threat Intelligence feeds brings to you the valuable threat data from a wide range of open and trusted sources to deliver a consolidated stream of valuable and actionable threat intelligence. Our threat intel feeds are fully compatible with STIX 1.x and 2.0, giving you the latest information on malicious malware hashes, IPs and domains uncovered across the globe in real-time.
 
-## [16. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [17. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Graphs and Visualization
 
 *   [GraphViz](https://graphviz.org/) - tool for creating scientific graphs
 
-## [17. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Stackby](https://stackby.com/) - Automate workflows, build custom tools, collaborate with your team.
 
-## [18. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [19. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Remote Jobs:
+
+- Website: <https://jobboardsearch.com>
+
+
+
+## [20. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
@@ -213,26 +227,26 @@
 
 *   [Simple Icons](https://simpleicons.org/) - 2287+ free SVG icons for popular brands
 
-## [19. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [21. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Application platforms / Samples
 
 *   [Nhost (⭐4.6k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
-## [20. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / GigaDevice
 
 *   [`gd32e2`](https://crates.io/crates/gd32e2) Peripheral access API for GD32E23x Cortex-M23 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/gd32e2.svg)
 *   [`gd32f2`](https://crates.io/crates/gd32f2) Peripheral access API for GD32F20x Cortex-M3 microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/gd32f2.svg)
 
-## [21. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [23. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Apple Pay (⭐14)](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Artifact Repos
 
@@ -242,7 +256,7 @@
 
 *   [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing/).
 
-## [23. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Development / Python
 
@@ -252,7 +266,7 @@
 
 *   [AgorHash (⭐3)](https://github.com/bafio89/agorhash) - Public, permissionless, decentralized and uncensorable free speech protocol.
 
-## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Courses
 
@@ -277,7 +291,7 @@
 *   [Tao Gao](http://www.stat.ucla.edu/\~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/\~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
 *   [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
 
-## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Monitoring & Observability & Alerting
 
@@ -288,7 +302,7 @@
 
 *   [A Practical Guide to SLAs](https://www.catchpoint.com/blog/sla-management-guide/)
 
-## [26. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [28. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
@@ -312,7 +326,7 @@
 
 *   GSMA Mobile Economy - Middle East & North Africa ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
 
-## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -328,7 +342,7 @@
 *   [Uno Platform Does WebAssembly Threading Months Ahead of .NET 7](https://visualstudiomagazine.com/articles/2022/06/29/uno-platform-4-4.aspx) - June 29, 2022 - Uno Platform Does WebAssembly Threading Months Ahead of .NET 7, by David Ramel for Visual Studio Magazine.
 *   [Blazor Posts Biggest Gain in WebAssembly Usage: Report](https://visualstudiomagazine.com/articles/2022/06/24/blazor-webassembly.aspx) - June 24, 2022 - Blazor Posts Biggest Gain in WebAssembly Usage: Report, by David Ramel for Visual Studio Magazine.
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Office
 
@@ -411,7 +425,7 @@
 *   [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.
 *   [Strategr](https://khrykin.github.io/strategr/) - No-fuss time management app. Stategr helps you maximize your productivity, giving you the quickest and most effective way to time-box your day. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/khrykin/StrategrDesktop)
 
-## [29. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [31. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
@@ -431,7 +445,7 @@
 *   [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
 *   [fubark/cosmic (⭐236)](https://github.com/fubark/cosmic) - A general purpose runtime for Javascript/WASM.
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Zinit (né zplugin)
 
@@ -475,7 +489,7 @@
 *   [neo (⭐3)](https://github.com/Saeed-MFarahani/Neo-ZSH-Theme/) - Includes decorators for `git` status, current directory, user\@hostname, time, and whether running as root.
 *   [tarcadia (⭐2)](https://github.com/Tarcadia/tarcadia-zsh-theme) - Based on [jonathan (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/jonathan.zsh-theme). Includes decorators for current directory and `git` status.
 
-## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
@@ -516,13 +530,180 @@
 *   [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post is a proprietary text and SMS-based on-street public engagement tool that uses physical signage and mobile devices to get citizen feedback, improve wayfinding, promote local events and services, or provide creative educational content.
 *   [Maptionnaire](https://www.maptionnaire.com) - Provides map-based tools for designing questionnaires, collecting survey data, and conveying information.
 
-## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [34. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Other / IDEs with V
 
 *   [Vide (⭐54)](https://github.com/IsaiahPatton/Vide)
 
-## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+
+### Libraries
+
+*   ### BASIC
+    *   #### - General -
+        *   🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
+    *   #### BASIC: App Framework
+        *   💰 [Basic for Qt](https://www.q7basic.org/index.html) - (formerly Q7Basic) BASIC language and environment built on top of Qt.
+        *   🎉 [QB64](https://qb64.com/) [:octocat: (⭐590)](https://github.com/QB64Team/qb64) - Modern BASIC + OpenGL language, retains QB4.5 / QBasic compatibility.
+        *   📚 [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) - Object-oriented language developed by Microsoft.
+    *   #### BASIC: Game Framework
+        *   🎉 [Dark Basic](https://www.thegamecreators.com/product/dark-basic-pro-open-source) [:octocat: (⭐376)](https://github.com/TheGameCreators/Dark-Basic-Pro) - BASIC programming language for creating Windows apps and games.
+*   ### Go
+    *   #### - General -
+        *   🌎 [Go](https://go.dev/) [:octocat:](https://github.com/golang) - Official site. Statically typed, compiled programming language designed at Google.
+    *   #### Awesome Collections
+        *   📚 [Awesome Go (⭐90k)](https://github.com/avelino/awesome-go) - Curated list of awesome Go frameworks, libraries and software.
+    *   #### Go: Audio
+        *   🎉 [Beep (⭐1.7k)](https://github.com/faiface/beep) - Bring sound to any Go application. Suitable for playback and audio-processing.
+    *   #### Go: Game Engine w/Editor
+        *   🎉 [G3N](http://g3n.rocks/) [:octocat: (⭐2.2k)](https://github.com/g3n/engine) - OpenGL 3D Game Engine written in Go.
+    *   #### Go: Game Framework
+        *   🎉 [Ebitengine](https://ebiten.org/) [:octocat: (⭐7.2k)](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library.
+        *   🎉 [Engo](https://engoengine.github.io/) [:octocat: (⭐1.5k)](https://github.com/EngoEngine/engo) - Open-source 2D game framework written in Go.
+        *   🎉 [Pixel (⭐4.1k)](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go. \[[Examples (⭐103)](https://github.com/faiface/pixel-examples)]
+    *   #### Go: Geometry
+        *   🎉 [3D Mesh Simplification (⭐210)](https://github.com/fogleman/simplify) - 3D mesh simplification in Go.
+    *   #### Go: Graphics
+        *   🎉 [ln (⭐3.1k)](https://github.com/fogleman/ln) - The 3D Line Art Engine, a vector-based 3D renderer written in Go. \[[Docs](https://pkg.go.dev/github.com/fogleman/ln/ln)]
+*   ### Java
+    *   #### - General -
+        *   🌎 [Java](https://dev.java) [:octocat:](https://github.com/openjdk) - Official site. General-purpose language, runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine).
+        *   📚 [Learn Java](https://dev.java/learn/) - Official docs and tutorials.
+        *   📚 [OpenGL & GLSL Tutorials (⭐1.8k)](https://github.com/mattdesl/lwjgl-basics/wiki) - OpenGL / GLSL tutorials written for LWJGL and libGDX.
+    *   #### Awesome Collections
+        *   📚 [Awesome Java (⭐34k)](https://github.com/akullpp/awesome-java) - Awesome frameworks, libraries and software for Java.
+    *   #### Java: Game Framework
+        *   🎉 [jMonkeyEngine](https://jmonkeyengine.org/) [:octocat: (⭐3.2k)](https://github.com/jMonkeyEngine/jmonkeyengine) - Modern 3D game development suite for Java.
+        *   🎉 [libGDX](https://libgdx.com) [:octocat: (⭐21k)](https://github.com/libgdx/libgdx) - Game framework built on, and adds to LWJGL. \[[Awesome libGDX (⭐630)](https://github.com/rafaskb/awesome-libgdx#readme)]
+        *   🎉 [LWJGL](https://www.lwjgl.org) [:octocat: (⭐4k)](https://github.com/LWJGL/lwjgl3) - Library for graphics, audio, parallel computing, XR and more.
+*   ### Kotlin
+    *   #### - General -
+        *   🌎 [Kotlin](https://kotlinlang.org/) [:octocat: (⭐43k)](https://github.com/JetBrains/kotlin) - Official site. General-purpose language by [JetBrains](https://www.jetbrains.com/), interoperates with Java.
+        *   📚 [Kotlin Docs](https://kotlinlang.org/docs/) - Official docs.
+    *   #### Awesome Collections
+        *   📚 [Awesome Kotlin](https://kotlin.link/) [:octocat: (⭐10k)](https://github.com/KotlinBy/awesome-kotlin) - List of awesome Kotlin related stuff.
+    *   #### Kotlin: Game Engine w/Editor
+        *   🎉 [KorGE](https://korge.org/) [:octocat: (⭐1.5k)](https://github.com/korlibs/korge) - Multi-platform 2D game engine for Kotlin.
+    *   #### Kotlin: Game Framework
+        *   🎉 [FXGL (⭐2.9k)](https://github.com/AlmasB/FXGL) - Game library for 2D, experimental 3D.
+        *   🎉 [Kool (⭐133)](https://github.com/fabmax/kool) - Multi-platform 3D Vulkan/OpenGL graphics engine. \[[Demos](https://fabmax.github.io/kool/kool-js/)]
+        *   🎉 [KTW](https://libktx.github.io/) [:octocat: (⭐1.2k)](https://github.com/libktx/ktx) - Kotlin extensions for the libGDX game framework.
+
+### Specialty Topics
+
+*   ### Lighting / Shadows
+    *   #### Gamma
+        *   📚 [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Light emission vs perceptual brightness.
+    *   #### Lighting 2D
+        *   📚 [Gleaner Heights: 2D Lighting](http://gleanerheights.blogspot.com/2017/05/lighting-in-2d-games-shader-glsl.html?m=1) - Simple introduction to 2D lighting in a game with GLSL.
+        *   📚 [Lighting a 2D Game](http://www.wholehog-games.com/devblog/2013/06/07/lighting-in-a-2d-game/) - Proper 2D lighting with diffuse lighting, self illumination and normal maps.
+    *   #### Lighting 3D
+        *   📚 [Basic Lighting](https://learnopengl.com/Lighting/Basic-Lighting) - 3D lighting article by LearnOpenGL.
+        *   📚 [Forward Rendering vs. Deferred Rendering](https://gamedevelopment.tutsplus.com/articles/forward-rendering-vs-deferred-rendering--gamedev-12342) - Techniques for handling many lights.
+        *   📚 [Forward+ Rendering](https://www.3dgep.com/forward-plus/) - (aka Tiled Forward Shading) Forward rendering with tiled light culling.
+    *   #### Shadows 2D
+        *   📚 [2D Pixel Perfect Shadows (⭐1.8k)](https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows) - An approach to 2D pixel-perfect lights/shadows using shaders.
+        *   📚 [2D Visibility](https://www.redblobgames.com/articles/visibility/) - Excellent interactive tutorial on 2D visibility.
+        *   📚 [Fast 2D shadows in Unity](https://www.gamedeveloper.com/programming/fast-2d-shadows-in-unity-using-1d-shadow-mapping) - Adapting 3D rendering techniques to achieve fast 2D shadows.
+        *   📚 [Sight & Light](https://ncase.me/sight-and-light/) [:octocat: (⭐1k)](https://github.com/ncase/sight-and-light) - How to create 2D visibility/shadow effects for your game.
+        *   📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Common technique for calculating field of view.
+    *   #### Shadows 3D
+        *   📚 [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
+        *   📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) - Great exploration of screen space shadows.
+        *   📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - Shadow mapping and the techniques used to acheive it.
+    *   #### Volumetric
+        *   🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) [:octocat: (⭐100)](https://github.com/jeromeetienne/threex.volumetricspotlight) - Great example of volumetric lighting with Three.js.
+        *   📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Volumetric light approximation (godrays) with Three.js.
+*   ### Shaders
+    *   #### - General -
+        *   📚 [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html) [:octocat: (⭐14k)](https://github.com/lettier/3d-game-shaders-for-beginners) - 🔥 Wide range of shaders to improve your games.
+        *   📚 [Book of Shaders](https://thebookofshaders.com) [:octocat: (⭐4.7k)](https://github.com/patriciogonzalezvivo/thebookofshaders) - 🔥 Step-by-step guide through [Fragment Shaders](https://www.khronos.org/opengl/wiki/Fragment_Shader).
+        *   🌎 [CrossShader](https://alain.xyz/libraries/crossshader) [:octocat: (⭐174)](https://github.com/alaingalvan/CrossShader) - Cross compiling shaders. Convert between GLSL, HLSL, Metal and more.
+        *   🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Post processing, lighting, utlities and many, many more.
+        *   📚 [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
+        *   🌎 [Shader Park](https://shaderpark.com/) [:octocat: (⭐481)](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
+        *   🌎 [SHADERed](https://shadered.org/) [:octocat: (⭐3.7k)](https://github.com/dfranx/SHADERed) - Shader IDE, written in C++, open source (MIT). \[[Online Editor](https://shadered.org/app)]
+        *   🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
+    *   #### Bloom
+        *   📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Techniques used for bloom lighting, presented in OpenGL.
+        *   🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) [:octocat: (⭐86k)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html) - WebGL bloom effect postprocessing example using Three.js.
+        *   📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) - Covers how to add support for a bloom effect to a camera.
+    *   #### Displacement
+        *   📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Basic vertex displacement shader using Three.js.
+    *   #### Fire
+        *   📚 [Fire Shader in GLSL](https://clockworkchilli.com/blog/8_a_fire_shader_in_glsl_for_your_webgl_games) - Great fire intro shader using noise textures and masking.
+        *   🌎 [Simplex 3D Noise](https://www.shadertoy.com/view/MllfDn) - Simplex noise fire simulation shader at ShaderToy.
+    *   #### Noise
+        *   📚 [Book of Shaders: Noise](https://thebookofshaders.com/11/) - Excellent GLSL noise article by Book of Shaders.
+        *   📚 [Color Banding](https://shader-tutorial.dev/advanced/color-banding-dithering/) - Using noise / dithering to improve drawing gradients.
+        *   🎉 [Direct Computational Noise](https://weber.itn.liu.se/\~stegu/jgt2011/supplement.pdf) [:octocat: (⭐2.4k)](https://github.com/ashima/webgl-noise/) - The GLSL 2D simplex noise function many games use.
+        *   🎉 [Psrdnoise (⭐123)](https://github.com/stegu/psrdnoise/) - Tiling simplex flow noise in 2D and 3D.
+        *   📚 [Understanding Perlin Noise](http://adrianb.io/2014/08/09/perlinnoise.html) [:octocat:](https://gist.github.com/Flafla2/f0260a861be0ebdeef76) - Analysis of Perlin Noise, written in C#.
+        *   🎉 [WebGL Noise (⭐342)](https://github.com/stegu/webgl-noise/) - Maintained branch of the original Ashima Arts 2D, 3D and 4D noise functions.
+    *   #### Outlines
+        *   🌎 [Fast Solid 2D Outline](https://www.shadertoy.com/view/XdV3Dc) - Drawing an outline on the alpha channel of a 2D image.
+        *   📚 [Let it glow!](http://blogs.love2d.org/content/let-it-glow-dynamically-adding-outlines-characters) - Article with shader code on dynamically adding outlines to characters.
+        *   🎉 [Outline Shader](https://www.reddit.com/r/godot/comments/8g067a/the_perfect_outline_shader_atleast_close/) [:octocat: (⭐83)](https://github.com/steincodes/godot-shader-tutorials) - Reddit post and GitHub repo of nice outline shader.
+        *   📚 [Outlines w/ Surface IDs](https://omar-shehata.medium.com/better-outline-rendering-using-surface-ids-with-webgl-e13cdab1fd94) [:octocat: (⭐213)](https://github.com/OmarShehata/webgl-outlines) - Technique combining depth, normals and surface IDs.
+        *   📚 [Sketchy Outling](https://lettier.github.io/3d-game-shaders-for-beginners/outlining.html) - Truly excellent article on producing a sketchy outline look.
+    *   #### Pixelation
+        *   📚 [Pixel Art Shaders](https://alaingalvan.tumblr.com/post/79829067408/glsl-pixel-art-shaders) - Useful GLSL postprocessing shaders for pixel art games.
+        *   🌎 [Three.js: Pixelation Example](https://threejs.org/examples/?q=pixel#webgl_postprocessing_pixel) [:octocat: (⭐86k)](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_pixel.html) - WebGL pixelation postprocessing example using Three.js.
+    *   #### Postprocessing
+        *   📚 [Image Editor Effects](https://alain.xyz/blog/image-editor-effects) [:octocat: (⭐76)](https://github.com/alaingalvan/image-editor-effects) - Image filters / adjustmenta / effects shaders.
+    *   #### Upscaling
+        *   📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Upscaling shader code.
+        *   📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
+    *   #### Water / Refraction
+        *   📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
+    *   #### Wireframe
+        *   📚 [Easy Wireframe Display](https://web.archive.org/web/20190220052115/http://codeflow.org/entries/2012/aug/02/easy-wireframe-display-with-barycentric-coordinates/) - Rendering triangles as wireframe using [Barycentric Coordinates](https://en.wikipedia.org/wiki/Barycentric_coordinate_system).
+        *   📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
+*   ### Signed Distance Fields
+    *   📚 [2D SDFs](https://iquilezles.org/www/articles/distfunctions2d/distfunctions2d.htm) - Amazing list of signed distance functions for basic 2D primitives.
+    *   📚 [3D SDFs](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Amazing list of signed distance functions for basic 3D primitives.
+    *   📚 [CSG w/ SDFs](https://jasmcole.com/2019/10/03/signed-distance-fields/) [:octocat: (⭐69)](https://github.com/jasmcole/Blog/tree/master/CSG) - Using circular SDFs to build 3D objects with Constructive Solid Geometry.
+    *   📚 [Signed Distance Field Resources (⭐461)](https://github.com/CedricGuillemet/SDF) - Tutorials, papers, software, demos, discussions, etc.
+    *   🎉 [SDF Mesh Generation (⭐1.1k)](https://github.com/fogleman/sdf) - Python API to generate 3D meshes with SDFs.
+*   ### Tiling
+    *   📚 [Auto Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
+    *   📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Great tutorial on 2D edge and corner matched tilesets.
+    *   📚 [List of Eucliden Uniform Tilings](https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings) - Wikipedia article on uniform tiling, space-filling polygons.
+    *   📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) - 3D polygons that fill space. \[[Wikipedia](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra) | [5 Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
+
+### Tools / Software
+
+*   ### 2D Game Dev
+    *   🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
+    *   💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
+    *   💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
+    *   🆓 [Tiled](https://www.mapeditor.org) [:octocat: (⭐9.2k)](https://github.com/mapeditor/tiled) - General purpose tile map editor for all tile-based games.
+*   ### Level Editors
+    *   🆓 [Radiant](https://icculus.org/gtkradiant/) [:octocat: (⭐516)](https://github.com/TTimo/GtkRadiant) - Open source, cross platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games.
+    *   🆓 [TrenchBroom](https://trenchbroom.github.io) [:octocat: (⭐1.3k)](https://github.com/TrenchBroom/TrenchBroom) - Level editor for Quake-engine based games.
+*   ### Voxel
+    *   💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+    *   🎉 [IsoVoxel (⭐326)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files.
+    *   🆓 [MagicaVoxel](https://ephtracy.github.io) - Free lightweight GPU-based voxel art editor.
+    *   💰 [Qubicle](https://www.getqubicle.com) - (used for Crossy Road, Pacman 256) Voxel editor, easy creation of 3D models.
+
+### Video Game Assets
+
+*   ### Audio Assets
+    *   #### Music
+        *   🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - Download unlimited high-quality loops and packs used for music creation.
+        *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free with attribution. Perfect for games.
+        *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
+        *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Great mix of free and affordable music loops.
+        *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
+        *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
+    *   #### Sound Effects
+        *   🆓 [Freesound](https://freesound.org/browse/) - Community based archive of free sound effects.
+        *   💸 [Free Sound Effects](https://www.freesoundeffects.com/) - Large collection of sound effects.
+        *   💰 [Soundsnap](https://www.soundsnap.com) - Subscription based professional sound effects library.
+
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
@@ -532,7 +713,7 @@
 
 *   [mprocs (⭐555)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -546,19 +727,19 @@
 
 *   [vue3-click-outside (⭐4)](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
 
-## [35. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [38. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Reports Generation
 
 *   [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
 
-## [36. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [39. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [TripleCross (⭐1.2k)](https://github.com/h3xduck/TripleCross) - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -598,7 +779,7 @@
 
 *   [ZincSearch](https://zincsearch.com) - A lightweight alternative to elasticsearch that requires minimal resources, written in Go. ([Demo (⭐13k)](https://github.com/zinclabs/zinc#playground-server), [Source Code (⭐13k)](https://github.com/zinclabs/zinc)) `Apache-2.0` `Go`
 
-## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Coroutines
 
@@ -621,13 +802,13 @@
 *   [kiruto/debug-bottle (⭐846)](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 *   [didi/booster (⭐4.2k)](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications
 
-## [39. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [42. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Covalent (⭐179)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 
-## [40. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [43. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
@@ -651,7 +832,13 @@
 
 *   [Dendrio](https://www.dendr.io/) is a video distribution network that leverages the peer to peer WebRTC protocol to transfer website content between browsers.  This allows us to make data downloads faster for users but without any installation requirements.  For website owners, we are trivial to set up, and are transparent to existing CDN setups.  Our technology is geared towards streaming video and we support a multitude of different video formats and players.
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Form Components / Star Rating
+
+*   [react-rating (⭐155)](https://github.com/smastrom/react-rating) - [demo](https://react-rating.onrender.com/) - Zero-dependency, highly customizable rating component.
+
+## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -669,6 +856,20 @@
 ### Session / Diagnostics
 
 *   [olimorris/persisted.nvim (⭐100)](https://github.com/olimorris/persisted.nvim) - Simple session management with git branching, autosave/autoload and Telescope support.
+
+## [46. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-tencent-oss (⭐7)](https://github.com/taosiqi/vite-plugin-tencent-oss) - Upload the production files bundled in the project to Tencent OSS, except for HTML.
+
+### Vue / Helpers
+
+*   ![v23](https://img.shields.io/badge/-2%2F3-3C8171) [vite-plugin-vue-static-sfc (⭐0)](https://github.com/arikw/vite-plugin-vue-static-sfc) - Serve ".vue" files as static assets.
+
+### Open Source / Community
+
+*   [Ladle (⭐1.8k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 
 ---
 

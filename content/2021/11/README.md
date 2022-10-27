@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15 - Mar 21, 2021
 
-51 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -219,13 +219,23 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 
 
-## [19. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [19. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Commands
+
+*   [django-liquidb (⭐13)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
+
+### Third-Party Packages / Models
+
+*   [django-recurrence (⭐390)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+
+## [20. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### AUR Helpers / Pacman wrappers
 
 *   [Paru (⭐3.6k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Security / Runner
 
@@ -235,19 +245,19 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [React Query (⭐30k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
-## [21. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [22. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Artsy (⭐3.1k)](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 
-## [22. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [23. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [superplate (⭐2k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
-## [23. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
+## [24. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
 ### Papers / Landmarks
 
@@ -354,7 +364,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
 *   [Tim Miller](https://twitter.com/tmiller_unimelb) - One of the preeminent researchers in XAI.
 
-## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [25. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Articles / Other external resources
 
@@ -394,25 +404,25 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [activesupport (⭐52k)](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
 *   [railties (⭐52k)](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
 
-## [25. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [26. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Monitoring
 
 *   [Data Mechanics Delight (⭐273)](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
 
-## [26. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [27. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [axe-playwright (⭐103)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
 
-## [27. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Documentaries
 
 *   2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
 
-## [28. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [29. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Database Clients
 
@@ -425,39 +435,39 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
     *   [jOOQ (⭐360)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
     *   [jOOQx (⭐17)](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
 
-## [29. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [30. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / News and Magazine
 
 *   [NewsApp (⭐127)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
 *   [InNews (⭐10)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
-## [30. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [31. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
-## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Discord](https://discord.com) - Voice and text chat.
 
-## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
 *   [Google Nav Bar (⭐521)](https://github.com/sooxt98/google_nav_bar) <!--stargazers:sooxt98/google_nav_bar--> - A modern google style nav bar for flutter by [Sooxt98](http://github.com/sooxt98)
 
-## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [IIS2MDC](https://crates.io/crates/iis2mdc) - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
 *   [ISM330DHCX](https://crates.io/crates/ism330dhcx) - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
 
-## [34. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Getting Started
 
@@ -471,7 +481,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org//kb/docs/java/profile-loadgenerator.html)
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
@@ -481,19 +491,83 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [minigen (⭐13)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
 *   [json-struct (⭐247)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
-## [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Sandboxes
 
 *   [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 
-## [38. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Types / Playground
+
+*   [type-o-rama (⭐239)](https://github.com/stereobooster/type-o-rama) - JS type systems interoperability
+
+### Runtime / Playground
+
+*   [Agent Framework (⭐109)](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
+
+### Web/ReactJS / Playground
+
+*   :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
+*   :octocat: [Microsoft/TypeScript-React-Starter (⭐11k)](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
+*   :scroll: [typescript-cheatsheets/react-typescript-cheatsheet (⭐37k)](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) Cheatsheets for experienced React developers getting started with TypeScript
+*   :octocat: [jsxtyper (⭐37)](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+*   :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
+*   :octocat: [TodoMVC • TypeScript + React Example (⭐28k)](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
+*   :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
+*   :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more.](https://github.com/barbar/vortigern)
+*   :robot: [Convert React code to TypeScript automatically (⭐1.6k)](https://github.com/lyft/react-javascript-to-typescript-transform)
+*   :octocat: [React Server Example TSX (⭐272)](https://github.com/styfle/react-server-example-tsx) Boilerplate for isomorphic web app with React server-side rendering in TypeScript
+*   :octocat: [React & Redux in TypeScript - Static Typing Guide (⭐13k)](https://github.com/piotrwitek/react-redux-typescript-guide) The complete guide to static typing in "React & Redux" using TypeScript
+*   :octocat: [Typescript Monorepo CRA Example (⭐25)](https://github.com/deptno/typescript-monorepo-cra-example) - A minimalistic CRA + typescript monorepo.
+*   :octocat: [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
+*   :stars: [Crisp React (⭐154)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
+*   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
+
+### Back-end API / Playground
+
+*   :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
+
+### Standalone apps / Chrome Extensions
+
+*   [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/browser-extension)
+
+### :free: Free Courses / Chrome Extensions
+
+*   [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
+
+## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### iOS
+
+*   [*iOS 14 Programming for Beginners:* by by Ahmad Sahar](https://www.amazon.com/iOS-14-Programming-Beginners-building/dp/1800209746)
+*   [*Beginning iPhone Development with Swift 5* by Wallace Wang](https://www.amazon.com/Beginning-iPhone-Development-Swift-Exploring/dp/1484248643)
+*   [*iOS App Distribution & Best Practices* by Keegan Rush, Pietro Rea](https://www.raywenderlich.com/books/ios-app-distribution-best-practices/v1.0.ea1)
+
+### Swift
+
+*   [*Swift Programming: The Big Nerd Ranch Guide* by Mikey Ward](https://www.bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-third-edition/)
+
+### ARKit
+
+*   [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
+
+### Machine Learning
+
+*   [*Deep Learning with Swift for TensorFlow* by Rahul Bhalley](https://www.apress.com/gp/book/9781484263297)
+
+### 🇷🇺 Russian books
+
+*   [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
+
+## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -521,7 +595,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [.NET 6 with Daniel Roth](https://www.dotnetrocks.com/?show=1730) - March 11, 2021 - What's next for .NET? Carl and Richard chat with Dan Roth about all the good things coming this November for .NET. The conversation starts out with some discussion around Blazor, which is no longer an experimental project, but now a key part of .NET. Dan talks about the role of MAUI bringing together UI elements for smartphones, tablets, PCs, and more. There's a lot to look forward to by the end of 2021. Duration: 58 minutes.
 
-## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [42. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Community
 
@@ -558,7 +632,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [Game Boy Printer Paper Simulation (⭐45)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
 *   [Game Boy Printer Web (⭐33)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
 
-## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [43. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Useful Links
 
@@ -576,7 +650,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   🧩 [Tailwind Cards (⭐438)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -592,13 +666,13 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [vuetube (⭐9)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 *   [vue-cli-plugin-capacitor (⭐135)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
-## [42. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [45. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
 *   [APKLeaks (⭐3.3k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
-## [43. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [46. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Official Website
 
@@ -783,13 +857,13 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [mood (⭐42)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
-## [44. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [47. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
 
-## [45. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [48. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -812,19 +886,19 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [SIF scripts to install Publishing Service (⭐1)](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
 
-## [46. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [49. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Privacy focused analytics
 
 *   [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Developer utilities / Third-party APIs
 
 *   [printv (⭐66)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [48. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [51. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -839,7 +913,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 *   [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
-## [49. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [52. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Security (art. 32)
 
@@ -857,7 +931,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Developers Guide to HIPAA Compliance (⭐1.5k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -892,7 +966,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
 
-## [51. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [54. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Utilities
 

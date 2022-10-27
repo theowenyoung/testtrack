@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08 - Apr 14, 2019
 
-36 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,7 +88,41 @@
 
 *   [Windows Calculator (⭐26k)](https://github.com/Microsoft/calculator) - Simple yet powerful calculator that ships with Windows
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### Streaming Sites / Anime
+
+*   [Nyaa](https://nyaa.si/) BitTorrent software for cats [(Repo) (⭐3k)](https://github.com/nyaadevs/nyaa)
+*   [Hi10 Anime](https://hi10anime.com/) High-Quality 10-bit Anime Encodes
+*   [/r/animepiracy](https://www.reddit.com/r/animepiracy) This sub is about streaming and torrent websites for anime.
+*   [/r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) Lists for sourcing Anime streaming sites, manga sites, and more
+*   [9Anime](https://9anime.to) Watch anime online. English anime, dubbed, subbed.
+*   [GoGo Anime](https://www3.gogoanime.in/) Popular website for watching anime
+*   [AniLinkz](https://anilinkz.to/) Large database of streaming anime episodes.
+*   [NyaaPantsu](https://nyaa.pantsu.cat/) Primarily Anime torrents but includes an open directory of DDL links too.
+*   [Alternatives to Kiss websites](https://www.reddit.com/r/KissCartoon/wiki/alternatives) /r/KissCartoon wiki page with lots of anime sites
+*   [anime-sharing](http://www.anime-sharing.com/forum/) Forum for sharing anime
+*   [AniDex](https://anidex.info) Torrent tracker and indexer, primarily for English fansub groups of anime
+*   [animeEncodes](https://www.animencodes.com/)
+*   [Anime Twist](https://twist.moe/) An anime direct streaming site with a decent UI and video player
+*   [AnimeOut](https://www.animeout.xyz/) Over 1000's of Encoded Anime with DDL links.
+*   [4anime](https://4anime.to/) A relatively new site the might become the new Masterani.me. Clean interface.
+
+### Streaming Sites / Cartoons
+
+*   [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
+*   [watchcartoononline.com](https://www.watchcartoononline.com/) Cartoons, dubbed/subbed anime streaming site
+*   [watchcartoononline.io](https://www.watchcartoononline.io/) Large DDL site for cartoons as well as anime and movies
+*   [animetoon](http://www.animetoon.org/) Lots of streaming via premium hosts for cartoons
+*   [Toonova](http://www.toonova.net/) Another site for streaming cartoons
+*   [WatchCartoon](https://www.watchcartoononline.io/) Outdated site layout, still active, uses Openload
+
+### Discord Servers / Third Party Hosts
+
+*   [WarezNX](https://discord.gg/d6xxuPq) Nintendo Switch Warez server. (/hbg/ has more up to date games as of April 2019)
+*   [/hbg/ Homebrew General](https://discord.io/homebrew) A Discord server that shares Nintendo Switch Games.
+
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -98,7 +132,7 @@
 
 *   [raylib (⭐11k)](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming. \[zlib/libpng] [website](http://www.raylib.com/)
 
-## [12. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 
@@ -108,13 +142,19 @@
 
 *   [SecureDrop (⭐40)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 
-## [13. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [14. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Forms
 
 *   [django-bootstrap4 (⭐973)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
-## [14. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [15. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Tools / Playground
+
+*   [type-config (⭐14)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -124,37 +164,52 @@
 
 *   [form\_builder.cr (⭐31)](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
 
-## [15. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [17. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
 *   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐155)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
 
-## [16. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [18. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Developer documentation
 
 *   [DigitalOcean API Slugs](https://slugs.do-api.dev/)
 
-## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Vulnerability Scanners / Web Vulnerability Scanners
+
+*   [SQLmate (⭐359)](https://github.com/UltimateHackers/sqlmate) - Friend of `sqlmap` that identifies SQLi vulnerabilities based on a given dork and (optional) website.
+
+### Online Resources / Other Lists Online
+
+*   [Serverless Security (⭐484)](https://github.com/puresec/awesome-serverless-security/) - Curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
+
+### Windows Utilities / Web Exploitation Books
+
+*   [Commando VM (⭐5.6k)](https://github.com/fireeye/commando-vm) - Automated installation of over 140 Windows software packages for penetration testing and red teaming.
+*   [Covenant (⭐3.3k)](https://github.com/cobbr/Covenant) - ASP.NET Core application that serves as a collaborative command and control platform for red teamers.
+
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Debugging Tools
 
 *   [pry-rails (⭐1.3k)](https://github.com/rweng/pry-rails) - Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.
 
-## [18. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [21. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Console
 
 *   [scallop (⭐641)](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
 
-## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [22. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [Ray Tracing In One Weekend (Vulkan RTX) (⭐822)](https://github.com/GPSnoopy/RayTracingInVulkan) - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 
-## [20. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [23. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### React Firebase starter   [↗](https://awesomestacks.dev/react-firebase-starter) / Resources
 
@@ -187,7 +242,7 @@
 
 *   [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
-## [21. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [24. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 
@@ -272,7 +327,7 @@
 
 *   [spawn issues (⭐35k)](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 
-## [22. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [25. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
@@ -282,7 +337,7 @@
 
 *   [Java Concurrency Checklist (⭐1.1k)](https://github.com/code-review-checklists/java-concurrency)
 
-## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -293,13 +348,13 @@
 
 *   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
 
-## [24. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Blogs / Case Study
 
 *   [Bootsity](https://bootsity.com/)
 
-## [25. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Habits
 
@@ -309,13 +364,13 @@
 
 *   [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 
-## [26. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [29. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Taskade](http://www.taskade.com/)
 
-## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Go / Angular
 
@@ -325,13 +380,19 @@
 
 *   [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
 
-## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Productivity Tools / Telegram
+
+*   [Taskade](https://taskade.com)
+
+## [32. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
 
-## [29. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [33. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Documentation / Scalability and Resilience
 
@@ -379,7 +440,7 @@
 
 *   [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 
-## [30. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -389,7 +450,7 @@
 
 *   [RangeSlider (⭐352)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
-## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [35. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -411,7 +472,7 @@
 
 *   [d3-MQTT-Topic-Tree (⭐94)](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets.
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -421,7 +482,7 @@
 
 *   [react-native-vanilla ★185 (⭐1.5k)](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 
-## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -465,7 +526,7 @@
 
 
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -483,13 +544,13 @@
 
 *   [firebase-admin-dotnet (⭐285)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
 
-## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [39. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 
 *   [opensnitch (⭐7.9k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
-## [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [40. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,13 @@
 
 *   [DSP.audio Worklet Editor](https://dsp.audio/editor/) - Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers. Like a JSFiddle, but for DSP.
 
-## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [substitute.js (⭐189)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
+
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Search Engines / Others
 

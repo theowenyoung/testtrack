@@ -1,36 +1,42 @@
 # Awesome List Updates on Mar 17, 2021
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Commands
+
+*   [django-liquidb (⭐13)](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
+
+## [2. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### AUR Helpers / Pacman wrappers
 
 *   [Paru (⭐3.6k)](https://github.com/Morganamilo/paru) (Rust) - AUR helper with all needed modern wrapper features, created by a former developer of yay.
 
-## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Security / Runner
 
 *   [sanitize-html (⭐3.1k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 
-## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Artsy (⭐3.1k)](https://github.com/artsy/eigen) - The mobile app for [artsy.net](https://artsy.net). Discover fine Art. The Art world in your Pocket.
 
-## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
 *   [superplate (⭐2k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
-## [5. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
+## [6. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
 
 ### Papers / Landmarks
 
@@ -137,7 +143,7 @@
 *   [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
 *   [Tim Miller](https://twitter.com/tmiller_unimelb) - One of the preeminent researchers in XAI.
 
-## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [7. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Community
 
@@ -147,7 +153,7 @@
 
 *   [Pico-8 demos on Pouet](https://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8)
 
-## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Articles / Other external resources
 
@@ -187,31 +193,31 @@
 *   [activesupport (⭐52k)](https://github.com/rails/rails/tree/main/activesupport) - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
 *   [railties (⭐52k)](https://github.com/rails/rails/tree/main/railties) - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
 
-## [8. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Monitoring
 
 *   [Data Mechanics Delight (⭐273)](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
 
-## [9. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Integrations
 
 *   [axe-playwright (⭐103)](https://github.com/abhinaba-ghosh/axe-playwright) - Custom commands for Playwright to run accessibility (a11y) checks with axe-core.
 
-## [10. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Documentaries
 
 *   2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
 
-## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Tailwind Cards (⭐438)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Database Clients
 
@@ -224,26 +230,32 @@
     *   [jOOQ (⭐360)](https://github.com/jklingsporn/vertx-jooq) - Doing typesafe, asynchronous SQL and generate code using jOOQ.
     *   [jOOQx (⭐17)](https://github.com/zero88/jooqx) - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### 🇷🇺 Russian books
+
+*   [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
+
+## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / News and Magazine
 
 *   [NewsApp (⭐127)](https://github.com/j-j-gajjar/FLUTTER_NewsApp) - Live News Using API with Many API filterrs  by [J-J-GAJJAR](https://github.com/j-j-gajjar).
 *   [InNews (⭐10)](https://github.com/akashlilhare/news_app) - Live News in eight different categories by [Akash Lilhare](https://github.com/akashlilhare).
 
-## [14. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [16. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Websites
 
 *   [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
-## [15. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Discord](https://discord.com) - Voice and text chat.
 
-## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [18. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Bottom bars
 

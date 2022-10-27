@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2020
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,14 +74,20 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 
 
-## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [6. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [SuperTinyIcons (⭐14k)](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
+
+## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Visualization / Mesh tools
 
 *   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
     (Python, BSD, [GitHub (⭐359)](https://github.com/yt-project/yt))
 
-## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -91,7 +97,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [zpyi (⭐97)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
-## [8. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Courses & Books & Blogs
 
@@ -101,7 +107,38 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [High-Frequency-Trading-Model-with-IB (⭐2k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
-## [9. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### People Investigations / Telegram
+
+*   [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
+*   [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
+*   [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+*   [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+*   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
+*   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+*   [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+*   [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
+*   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
+*   [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present.
+*   [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
+*   [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
+*   [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
+*   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+*   [Kompass](http://www.kompass.com) - Business directory and search.
+*   [The National Archives (UK)](http://www.nationalarchives.gov.uk) - Search UK national archives.
+*   [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
+*   [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
+*   [Spokeo](http://www.spokeo.com) - People search. Limited free info, premium data upsell.
+*   [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
+
+### Company Research / Telegram
+
+*   [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
+*   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+*   [Forbes Global 2000](http://www.forbes.com/global2000/)
+
+## [11. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Benchmark - JavaScript / Meetups
 

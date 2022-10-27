@@ -1,18 +1,24 @@
 # Awesome List Updates on Jul 10, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Static Analyzers / Social Engineering Tools
+
+*   [cwe\_checker (⭐741)](https://github.com/fkie-cad/cwe_checker) - Suite of tools built atop the Binary Analysis Platform (BAP) to heuristically detect CWEs in compiled binaries and firmware.
+
+## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [Stratux (⭐904)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Events
 
@@ -22,25 +28,25 @@
 
 *   [SelectionList (⭐111)](https://github.com/yonat/SelectionList) - Simple single-selection or multiple-selection checklist, based on UITableView.
 
-## [3. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 
 *   [Firefox GNOME Theme (⭐2k)](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Data validation / Third-party APIs
 
 *   [sanity-clause (⭐35)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Other Languages / Others
 
 *   [DevApps.be's podcast #44](http://devapps.be/podcast/blazor-webassembly/) - \[French] DevApps.be's podcast #44: "Blazor et WebAssembly vont-ils tuer JavaScript ?".
 
-## [6. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [7. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Books
 
@@ -98,7 +104,7 @@
 
 *   [T-Fuzz (⭐245)](https://github.com/HexHive/T-Fuzz) - T-Fuzz leverages a coverage guided fuzzer to generate inputs.
 
-## [7. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+## [8. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ### [git-profile](https://github.com/dm3ch/git-profile-manager)
 

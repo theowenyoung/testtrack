@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,7 +117,13 @@
 
 *   [BlurScreen App](https://www.blurscreen.app) - Blur sensitive data instantly anywhere on screen, while recording or screen sharing. No post editing required.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / YouTube
+
+*   [mps-youtube (⭐7.2k)](https://github.com/mps-youtube/mps-youtube): Terminal based YouTube player and downloader
+
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### MIT / Commonsense Knowledgebase
 

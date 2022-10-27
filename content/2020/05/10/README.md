@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2020
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,7 +117,13 @@
 
 *   [React Native Boilerplate Typescript (⭐14)](https://github.com/mengheangrat/react-native-boilerplate) - React Native Boilerplate - Redux + Saga + Reselect + redux-persist + react-navigation + TypeScript
 
-## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Runtime / Playground
+
+*   [json-decoder (⭐70)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
+
+## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### OAuth
 
@@ -141,7 +147,13 @@
 
 *   [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) - Written by [@t0nk42](https://twitter.com/t0nk42).
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
@@ -151,7 +163,7 @@
 
 *   [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
 
-## [11. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Talks
 

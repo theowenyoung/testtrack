@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 27, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,13 @@
 
 *   [Next PWA (⭐2.6k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 
-## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Vulnerability Databases / Social Engineering Tools
+
+*   [Snyk Vulnerability DB](https://snyk.io/vuln/) - Detailed information and remediation guidance for vulnerabilities known by Snyk.
+
+## [6. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Tools / Custom Time Series
 
@@ -53,13 +59,13 @@
 *   [Scylla-Migrator (⭐33)](https://github.com/scylladb/scylla-migrator) - Migrate data extract using Spark to Scylla, normally from Cassandra.
 *   [Cassandra CA Manager (⭐11)](https://github.com/eevans/cassandra-ca-manager) - Create and sign Java keystores.
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Database
 
 *   [Cycle ORM (⭐1.1k)](https://github.com/cycle/orm) - PHP DataMapper, ORM.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -69,32 +75,32 @@
 
 *   [vue-injector (⭐18)](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [I Love Hue! (rs) (⭐12)](https://github.com/noc7c9/i-love-hue-rs) - A clone of the mobile game I Love Hue in Yew (Rust).
 
-## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [10. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Community Resources / Twitter
 
 *   [@NetPreserve](https://twitter.com/NetPreserve) - Official IIPC handle.
 *   [#WebArchiving](https://twitter.com/search?q=%23webarchiving)
 
-## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
 *   [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 
-## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Other Xcode / Collection View Layout
 
 *   [Xcode Developer Disk Images (⭐245)](https://github.com/haikieu/xcode-developer-disk-image-all-platforms) - Xcode Developer Disk Images is needed when you want to put your build to the device, however sometimes your Xcode is not updated with the latest Disk Images, you could find them here for convenience.
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 

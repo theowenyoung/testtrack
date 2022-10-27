@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24, 2019
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -163,13 +163,19 @@
 
 *   [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Stremio / Third Party Hosts
+
+*   [A complete curated list of all working Stremio Add-ons](https://www.reddit.com/r/StremioAddons/comments/ahd6gk/sticky_stremio_addons_list/)
+
+## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
 *   [go-orbit-db (⭐270)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
-## [10. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Swift / Angular
 
@@ -195,13 +201,13 @@
 
 *   [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 
-## [11. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [12. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Open Source Projects
 
 *   [FlubuCore (⭐816)](https://github.com/dotnetcore/FlubuCore) - Cross platform build automation tool for building projects and executing deployment scripts using C# code.
 
-## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Internationalization
 
@@ -213,13 +219,13 @@
 *   [Uuseg (⭐15)](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
 *   [Uutf (⭐28)](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [:octopus: React Native Boilerplate ★551 (⭐3.3k)](https://github.com/thecodingmachine/react-native-boilerplate) - React Native boilerplate that promotes a solid architecture via separation of concerns.
 
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [15. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Auth / Image Picker
 
@@ -231,7 +237,7 @@
 *   Meetup [GDG Sydney](https://www.meetup.com/gdgsydney)
 *   Twitter [Flutter Sydney](https://twitter.com/FlutterSydney)
 
-## [15. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Resources / Books
 
@@ -291,14 +297,14 @@
 *   [Mr-Clean](https://bitbucket.org/sonwh98/mr-clean) – A reagent compatible library without react.js dependency.
 *   [Precept (⭐644)](https://github.com/CoNarrative/precept) – A declarative programming framework.
 
-## [16. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [17. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Reverse Engineering
 
 *   [Simplify Android deobfuscator (⭐4k)](https://github.com/CalebFenton/simplify)
 *   [Andromeda (⭐667)](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
-## [17. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / PyTorch
 
@@ -312,7 +318,7 @@
 
 *   [MXFusion (⭐100)](https://github.com/amzn/MXFusion) - Modular Probabilistic Programming on MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/mxnet_big.png" alt="MXNet based">
 
-## [18. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [19. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Open source code
 

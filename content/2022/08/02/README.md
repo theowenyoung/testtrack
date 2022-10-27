@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,25 @@
 
 *   [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Username Check / Telegram
+
+*   [Maigret (⭐7.1k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Office Suites
 
 *   [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐3.9k)](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
 
-## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Google Colaboratory](https://colab.research.google.com) - Cloud-based Jupyter environment aimed at machine learning education and research.  <!--lint disable double-link-->
 
-## [5. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [6. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
@@ -38,25 +44,31 @@
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
-## [6. Awesome Math](/content/rossant/awesome-math/README.md)
+## [7. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Learning Platforms
 
 *   [MathRelay](https://www.mathrelay.com/)
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
 *   [ctk (⭐217)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
-## [8. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 
 *   [capy-ui/capy (⭐528)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-build (⭐13)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Third-party APIs
 
@@ -71,7 +83,7 @@
 
 *   [cl-git (⭐51)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [10. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### ORM
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 22, 2020
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,14 +24,20 @@
 
 *   [Pepperoni ★4383 (⭐4.6k)](https://github.com/futurice/pepperoni-app-kit) - **(deprecated)** Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state
 
-## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Players / MPEG
+
+*   [adrg/libvlc-go (⭐320)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
+
+## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
 *   [Preact Dock (⭐20)](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
 *   [Preact Particles (⭐4.3k)](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
 
-## [5. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -49,7 +55,7 @@
 
 
 
-## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / Engineers
 
@@ -79,13 +85,13 @@
 
 *   [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph Ⅴ, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 
 *   [Prisma Migrate (⭐774)](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -95,7 +101,7 @@
 
 *   [rexios (⭐5)](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [znap](https://github.com/marlonrichert/zsh-snap)
 
@@ -105,25 +111,31 @@
 *   Clone or pull multiple repos in parallel.
 *   Re-clone all your repos without you having to re-enter them.
 
-## [10. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [11. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing / Subscription Plans
 
 *   [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “In low-touch SaaS, the most common way packages are presented are as different columns in a pricing grid, with each column corresponding to a plan, offered at a different price, with differential access to features or maximum allowable usage along some axis interesting to the business.”
 
-## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
 *   [Deploy with AWS CodeDeploy (⭐18)](https://github.com/webfactory/create-aws-codedeploy-deployment)
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Buttons
+
+*   [reactive-button (⭐97)](https://github.com/arifszn/reactive-button) - [demo](https://arifszn.github.io/reactive-button/docs/playground) - [docs](https://arifszn.github.io/reactive-button) - A beautiful animated button component with progress indicator.
+
+## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Pipe (⭐29)](https://github.com/pipe-fun/pipe) - This is a Rust / Wasm client web app which is a task control center.
 
-## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 

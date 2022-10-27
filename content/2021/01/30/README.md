@@ -1,24 +1,42 @@
 # Awesome List Updates on Jan 30, 2021
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+
+### Overview / Twitter
+
+*   [Nitter (⭐5.9k)](https://github.com/zedeus/nitter): Alternative Twitter front-end - Lightweight, no ads, no tracking, no JavaScript required
+    *   Official instance: [nitter.net](https://nitter.net)
+    *   Public instances: [https://github.com/zedeus/nitter/wiki/Instances (⭐5.9k)](https://github.com/zedeus/nitter/wiki/Instances)
+    *   Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
+
+### Overview / Reddit
+
+*   [Updoot (⭐56)](https://github.com/adityam49/Updoot): Android, alternative front-end for Reddit
+
+### Overview / Hacker News
+
+*   [HN-search (⭐447)](https://github.com/algolia/hn-search): Algolia Hacker News search
+    *   Example: [Highest rated submissions of the past 24 hours](https://hn.algolia.com/?sort=byPopularity\&page=0\&dateRange=last24h\&type=all)
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
 *   [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
 
-## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   💼 [Bidirectional (⭐9)](https://github.com/yassinebridi/tailwind-direction) - Replace the core utilities to be bi-direction compatible.
 
-## [3. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [4. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -75,7 +93,34 @@
 
 
 
-## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue-vben-admin (⭐15k)](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-pwa (⭐1.5k)](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+
+### Rollup Plugins / Covered by default in Vite
+
+*   [@rollup/plugin-babel (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+*   [@rollup/plugin-buble (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+*   [@rollup/plugin-data-uri (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+*   [@rollup/plugin-html (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+*   [@rollup/plugin-node-resolve (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node\_modules.
+*   [@rollup/plugin-sucrase (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+*   [@rollup/plugin-wasm (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+*   [@rollup/plugin-url (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-eslint (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+*   [@rollup/plugin-legacy (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+*   [@rollup/plugin-yaml (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Casual
 
@@ -87,7 +132,7 @@
 *   Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
     By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
-## [5. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [7. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Videos
 
@@ -132,7 +177,7 @@
 
 *   [Blackbox (⭐3.2k)](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 11, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,7 +39,13 @@
 
 *   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐279)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 
-## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
+
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Tutorials / Tools
 
@@ -52,7 +58,7 @@
     *   [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
     *   [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Exceptions
 

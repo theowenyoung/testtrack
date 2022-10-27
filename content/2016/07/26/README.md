@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -64,13 +64,32 @@
 
 *   [minimongo (⭐326)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
-## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Airflix (⭐431)](https://github.com/wells/airflix)
+
+  Description: A near-netflix Clone
+
+  Link: 
+
+
+- Name: [Vuedo (⭐2.3k)](https://github.com/vuedo/vuedo)
+
+  Description: Vuedo is blog platform, built with Laravel and Vue.js.
+
+  Link: <https://vuejsfeed.com>
+
+
+
+## [10. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Conferences
 
 *   [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17\~23 Oct. 2016)
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Game
 

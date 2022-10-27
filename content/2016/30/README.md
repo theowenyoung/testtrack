@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25 - Jul 31, 2016
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -424,19 +424,38 @@
 
 *   [minimongo (⭐326)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
-## [35. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Airflix (⭐431)](https://github.com/wells/airflix)
+
+  Description: A near-netflix Clone
+
+  Link: 
+
+
+- Name: [Vuedo (⭐2.3k)](https://github.com/vuedo/vuedo)
+
+  Description: Vuedo is blog platform, built with Laravel and Vue.js.
+
+  Link: <https://vuejsfeed.com>
+
+
+
+## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17\~23 Oct. 2016)
 
-## [36. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [37. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### usage stats
 
 *   **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard\&author=\&from=\&to=)** - npm registry download count
 
-## [37. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [38. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
@@ -450,7 +469,7 @@
 
 *   [ezknitr (⭐99)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -476,7 +495,7 @@
 
 *   [Stubble (⭐321)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
-## [39. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [40. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Tutorials
 
@@ -487,7 +506,7 @@
 *   [Reactive Programming with Cycle.js](https://vimeo.com/175121069) - by Luca Mezzalira at [JSDay 2016](http://2016.jsday.it/)
 *   [Learning how to ride: an introduction to Cycle.js](https://youtu.be/31URmaeNHSs) - by Fernando Macias Pereznieto at [JS Monthly London](http://www.meetup.com/js-monthly-london/)
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -563,19 +582,19 @@
 
 *   [rrrene/elixir-style-guide (⭐390)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.5k)](https://github.com/rrrene/credo).
 
-## [41. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [42. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### PHP / Symfony2
 
 *   [NelmioApiDocBundle (⭐2.1k)](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
 
-## [42. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [43. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Browser
 
 *   [document-ready (⭐57)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Project Generators
 

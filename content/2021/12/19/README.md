@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,6 +77,12 @@
 ### Stanford / Commonsense Knowledgebase
 
 *   [Michael Frank](https://web.stanford.edu/\~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***Department of Psychology, Stanford***.
+
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Instagram
+
+*   [Sterra (⭐278)](https://github.com/novitae/sterraxcyl)
 
 ---
 

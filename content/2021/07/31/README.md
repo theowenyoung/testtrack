@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 31, 2021
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -70,7 +70,30 @@
 
 *   [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code (⭐1.8k)](https://github.com/TokTok/c-toxcore)) `GPL-3.0` `C`
 
-## [3. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [The Art of Hacking Series (⭐12k)](https://github.com/The-Art-of-Hacking/h4cker)
+
+  Description: List of resources  includes thousands of cybersecurity-related references and resources
+
+
+
+### Other useful repositories
+
+- Repository: [GTFOBins](https://gtfobins.github.io)
+
+  Description: A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions
+
+
+- Repository: [Vulhub (⭐13k)](https://github.com/vulhub/vulhub)
+
+  Description: Pre-Built Vulnerable Environments Based on Docker-Compose
+
+
+
+## [4. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Shaders
 
@@ -80,13 +103,19 @@
 
 *   [NLay (⭐19)](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [fontawesome-autogen (⭐15)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / React
+
+*   [vite-plugin-react-refresh (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
+
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Climate
 
@@ -96,7 +125,7 @@
 
 *   [A/B Street](https://www.abstreet.org) - Edit streets and intersections, explore the effects through traffic simulation on all modes, and use the resulting visualizations to communicate a proposal. Apache licensed, runs anywhere with OpenStreetMap, and works on the web or as an offline download.
 
-## [6. GoBooks](/content/dariubs/GoBooks/README.md)
+## [8. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Starter Books** / [Learning Go: An Idiomatic Approach to Real-World Go Programming](https://www.oreilly.com/library/view/learning-go/9781492077206/)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,26 +18,32 @@
 
 *   [sshhub](https://sshhub.de) - Web Service: access your SSH servers behind firewalls (ssh-teamviewer).
 
-## [3. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [3. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*Programming iOS 13* by Matt Neuburg](http://shop.oreilly.com/product/0636920310075.do)
+
+## [4. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Tools
 
 *   [Stagehand (⭐669)](https://github.com/dart-lang/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 
-## [4. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [5. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
 *   [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) - Full-featured static analysis framework including extraction of firmware, analysis utilizing different plug-ins and comparison of different firmware versions.
     *   [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) - Conference talk about FACT :tv:.
 
-## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Utils & Infra / Navigation Demos
 
 *   [react-native-use-persist-storage ★3 (⭐37)](https://github.com/visuallylab/react-native-use-persist-storage) - Persist and rehydrate your context(state) using React Hooks
 
-## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Videos
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,7 +73,21 @@
 
     *   used by its [author](https://github.com/melisgl) to [win (⭐127)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
 
-## [7. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [7. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Network Reconnaissance Tools
+
+*   [netdiscover (⭐144)](https://github.com/netdiscover-scanner/netdiscover) - Network address discovery scanner, based on ARP sweeps, developed mainly for those wireless networks without a DHCP server.
+
+### Network Vulnerability Scanners / Web Vulnerability Scanners
+
+*   [skipfish](https://www.kali.org/tools/skipfish/) - Performant and adaptable active web application security reconnaissance tool.
+
+### Web Exploitation / Social Engineering Tools
+
+*   [gobuster (⭐6.7k)](https://github.com/OJ/gobuster) - Lean multipurpose brute force search/fuzzing tool for Web (and DNS) reconnaissance.
+
+## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Learning / Tutorials
 
@@ -85,7 +99,7 @@
 
 *   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐11)](https://github.com/Ripe/algovanity).
 
-## [8. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 

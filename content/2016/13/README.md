@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28 - Apr 03, 2016
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -554,7 +554,165 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 *   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 
-## [35. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Koel (⭐14k)](https://github.com/phanan/koel)
+
+  Description: A personal music streaming server that works
+
+  Link: <http://koel.phanan.net>
+
+
+- Name: [Laravel Tricks (⭐970)](https://github.com/CodepadME/laravel-tricks)
+
+  Description: Laravel Tips and Tricks
+
+  Link: <http://laravel-tricks.com>
+
+
+- Name: [Larasites](https://github.com/we-are-next/larasites.com)
+
+  Description: Showcasing the best websites made with Laravel & Lumen
+
+  Link: <https://www.larasites.com>
+
+
+- Name: [Flarum (⭐13k)](https://github.com/flarum/flarum)
+
+  Description: Delightfully simple forum software
+
+  Link: <http://flarum.org>
+
+
+- Name: [LavaliteCMS (⭐2.5k)](https://github.com/LavaLite/cms)
+
+  Description: CMS built on Laravel 5.2
+
+  Link: <http://www.lavalite.org>
+
+
+- Name: [AsgardCMS (⭐764)](https://github.com/AsgardCms/Platform)
+
+  Description: A modular multilingual CMS built with Laravel 5
+
+  Link: <http://asgardcms.com>
+
+
+- Name: [KodiCMS (⭐162)](https://github.com/KodiCMS/kodicms-laravel)
+
+  Description: The CMS built on Laravel 5.2
+
+  Link: <http://laravel.kodicms.ru>
+
+
+- Name: [BoostrapCMS (⭐2.5k)](https://github.com/BootstrapCMS/CMS)
+
+  Description: A PHP CMS powered by Laravel 5 and Sentry
+
+  Link: 
+
+
+- Name: [Quarx (⭐494)](https://github.com/YABhq/Quarx)
+
+  Description: A CMS for Laravel Apps
+
+  Link: 
+
+
+- Name: [Oez (⭐32)](https://github.com/gaaarfild/0ez)
+
+  Description: Lightweight Blogging CMS
+
+  Link: 
+
+
+- Name: [Deployer (⭐884)](https://github.com/REBELinBLUE/deployer)
+
+  Description: A free and open source deployment tool
+
+  Link: <http://phpdeployment.org>
+
+
+- Name: [PHPhub (⭐1.8k)](https://github.com/summerblue/phphub)
+
+  Description: Chinese PHP Community
+
+  Link: <http://phphub.org>
+
+
+- Name: [Techademia (⭐15)](https://github.com/andela-fokosun/Checkpoint4)
+
+  Description: Organize Your Youtube Videos to Learn
+
+  Link: <http://techademia.herokuapp.com>
+
+
+- Name: [Laravel.com (⭐457)](https://github.com/laravel/laravel.com)
+
+  Description: Official Website and Documentation of Laravel
+
+  Link: <https://laravel.com>
+
+
+
+### Rails
+
+- Name: [SprintApp (⭐302)](https://github.com/macfanatic/SprintApp)
+
+  Description: Time tracking and Project Management App
+
+  Link: <http://www.sprintapp.com>
+
+
+
+### Meteor
+
+- Name: [Rocket.Chat (⭐34k)](https://github.com/RocketChat/Rocket.Chat)
+
+  Description: A web chat platform
+
+  Link: <https://rocket.chat>
+
+
+- Name: [ColourCode](https://github.com/tamino-martinius/colourco.de)
+
+  Description: An online colour code app
+
+  Link: <http://www.colourco.de>
+
+
+- Name: [ReactionCommerce (⭐12k)](https://github.com/reactioncommerce/reaction)
+
+  Description: A JavaScript Ecommerce App
+
+  Link: <https://reactioncommerce.com>
+
+
+- Name: [CoderMania (⭐48)](https://github.com/Elfoslav/codermania)
+
+  Description: An E-Learning Platform
+
+  Link: <http://www.codermania.com>
+
+
+- Name: [Telescope (⭐172)](https://github.com/TelescopeJS/Telescope)
+
+  Description: Lauch Sites Easily
+
+  Link: <http://www.telescopeapp.org>
+
+
+- Name: [Loop Pulse (⭐9)](https://github.com/clionelabs/looppulse.web.manage)
+
+  Description: Data Analysis Platform
+
+  Link: <http://www.looppulse.com>
+
+
+
+## [36. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Articles
 
@@ -569,19 +727,19 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 *   [sorted-object (⭐35)](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 
-## [36. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [37. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [redux-test-recorder (⭐492)](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 
-## [37. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [38. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 
-## [38. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [39. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tutorials
 

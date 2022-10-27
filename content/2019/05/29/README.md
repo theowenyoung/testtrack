@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29, 2019
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,7 +73,13 @@
 
 *   [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Multithreading
+
+*   [*Concurrency by Tutorials* by Scott Grosch](https://store.raywenderlich.com/products/concurrency-by-tutorials)
+
+## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Free Content
 
@@ -86,7 +92,7 @@
 *   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
 *   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -97,13 +103,19 @@
 
 *   [HEIC Converter](https://sindresorhus.com/heic-converter) - Convert HEIC images to JPEG or PNG. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/heic-converter-to-jpeg-or-png/id1294126402)
 
-## [12. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [13. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Articles
 
 *   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
-## [13. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Notification
+
+*   🚀 [react-toastify (⭐9.9k)](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+
+## [15. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Algorithms and AI
 

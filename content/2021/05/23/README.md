@@ -1,18 +1,24 @@
 # Awesome List Updates on May 23, 2021
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [1. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### WSL Tools / Miscellaneous Tools
+
+*   [easyWSL (⭐457)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Introduction
 
 *   [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Machine Learning
 
@@ -28,7 +34,7 @@
 
 
 
-## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Books
 
@@ -73,31 +79,47 @@
 *   [rclone (⭐35k)](https://github.com/ncw/rclone) - Sync files with various cloud providers.
 *   [ffsend (⭐6.2k)](https://github.com/timvisee/ffsend) - Quick file share.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Forums and Discussion Boards Search / Telegram
+
+*   [Built With Flarum](https://builtwithflarum.com/)
+
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-scrollama (⭐408)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
-## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### FIAT
+
+*   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily.
+
+### Uncategorized
+
+*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+
+## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
 *   :strawberry: [OPCache Preloader (⭐8)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP 4.x applications.
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind CSS class names in a searchable page.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [simrat39/rust-tools.nvim (⭐1.2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using Neovim's builtin LSP.
 
-## [8. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [11. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### EdenOS
 

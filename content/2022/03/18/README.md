@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,13 @@
 *   [risbow (⭐1)](https://github.com/waddupp00/risbow) - A [risto (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) inspired ZSH theme with a lolcat like rainbow effect.
 *   [robbyrussell-plus (⭐0)](https://github.com/jackjyq/robbyrussell-plus-zsh-theme) - Based on [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme), adds a hostname decorator.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Open Source / Community
+
+*   [Hathora (⭐475)](https://github.com/hathora/hathora) - Multiplayer game framework.
+
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -56,7 +62,7 @@
 
 *   [doyaaaaaken/kotlin-csv (⭐453)](https://github.com/doyaaaaaken/kotlin-csv) - A pure kotlin simple csv reader/writer.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Federated Learning
 
@@ -64,7 +70,7 @@
 *   [Flower](https://flower.dev/) - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
 *   [Tensorflow-Federated](https://www.tensorflow.org/federated) A federated learning framework for machine learning and other computations on decentralized data.
 
-## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Tools / Web Tools
 
@@ -119,38 +125,44 @@
 
 *   [OSM Promotional Material Programme](https://wiki.openstreetmap.org/wiki/OSM_Promotional_Material_Programme) - Information on receiving promotional merch such as Stickers.
 
-## [8. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Tabler Icons (⭐13k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+
+## [10. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Smarthome
 
 *   [alexa-remote2-applestrudel (⭐47)](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 
-## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Mindfulness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Mindful Google™ (⭐1)](https://github.com/tunjos/Mindful-Google) - Disables Autocomplete and other distracting elements on Google's pages.
 *   [Unlauncher](https://jkuester.github.io/unlauncher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/jkuester/unlauncher) - Android minimalistic launcher.
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 
 *   [Unsupervised Representaton Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - ***ICLR'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3321343160055675528\&hl=en\&as_sdt=0,5)].
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Networking
 
 *   [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Games
 
 *   [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) - Single player typing test game written for the terminal
 
-## [13. GoBooks](/content/dariubs/GoBooks/README.md)
+## [15. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Advanced Books** / [Everyday Go](https://openfaas.gumroad.com/l/everyday-golang)
 

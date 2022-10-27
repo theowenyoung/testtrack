@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2020
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -66,13 +66,19 @@
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Boilerplate / Mouse Events
+
+*   [crisp-react (⭐154)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Date and Time
 
 *   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 
-## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Fiction / Fantasy
 
@@ -103,6 +109,26 @@
   Year Published: 2011
 
 
+
+## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / DDoS Tools
+
+*   [Anevicon (⭐21)](https://github.com/rozgo/anevicon) - Powerful UDP-based load generator, written in Rust.
+
+### Network Tools / Network Reconnaissance Tools
+
+*   [AQUATONE (⭐4.9k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+*   [OWASP Amass (⭐8k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+*   [subbrute (⭐3k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
+
+### Network Vulnerability Scanners / Wireless Network Tools
+
+*   [Netsparker Application Security Scanner](https://www.netsparker.com/pricing/) - Application security scanner to automatically find security flaws.
+
+### Operating System Distributions / Web application and resource analysis tools
+
+*   [Parrot](https://parrotlinux.org/) - Distribution similar to Kali, with support for multiple hardware architectures.
 
 ---
 

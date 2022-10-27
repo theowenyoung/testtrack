@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 14, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,13 +30,19 @@
 
 *   [cliffy (⭐488)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Apps/Websites / Community
+
+*   [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
+
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [oh-vue-icons (⭐174)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
-## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
@@ -46,7 +52,7 @@
 
 *   [Gutters for Sitecore Data Exchange Framework (⭐1)](https://github.com/KayeeNL/Sitecore.DataExchange.Gutters) - Collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: `ItemDisabled`, `PipelineBatch` and `PipelineStep`.
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Why Articles
 

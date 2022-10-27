@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28 - Jan 03, 2020
 
-49 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -122,7 +122,13 @@
 
 *   [Introduction to Storybook for Web Components](https://sinhapiyush.hashnode.dev/introduction-to-storybook-for-web-components)
 
-## [12. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Notification
+
+*   [react-hot-toast (⭐6k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
+
+## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Image Processing
 
@@ -136,19 +142,33 @@
 
 *   [K3D-tools](https://github.com/K3D-tools) - Jupyter notebook extension for 3D visualization.
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Natural Language Processing (NLP)
 
 *   [Tongue (⭐16)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
-## [14. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [15. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
 *   [PixelCraft](https://rgab1508.github.io/PixelCraft/) - Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 
-## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [Taskord](https://gitlab.com/taskord/taskord)
+
+  Description: Get things done socially with community of makers.
+
+  Link: <https://taskord.com>
+
+  : 
+
+
+
+## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Education
 
@@ -162,19 +182,19 @@
 
 
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Hue in the Menu](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) - Philips Hue light management in the menu bar with multi-room support. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [17. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [19. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Databases
 
 *   [Shaw et al. 2020](https://figshare.com/articles/The_phylogenetic_range_of_bacterial_and_viral_pathogens_of_vertebrates_dataset_and_supplementary_material/8262779) - A human-curated database of 12,212 host-pathogen associations: 2,595 bacterial and viral pathogens infecting 2,656 vertebrate host species across 90 host orders. It also contains a mitochondrial genome phylogeny for the host species. [Analysis](https://onlinelibrary.wiley.com/doi/10.1111/mec.15463) published in Molecular Ecology.
 
-## [18. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [20. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
@@ -194,7 +214,7 @@
 
 *   [Data Science Interviews Questions (⭐6.7k)](https://github.com/alexeygrigorev/data-science-interviews)
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -235,7 +255,7 @@
 
 *   [Fluent C++](https://www.fluentcpp.com/)
 
-## [20. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [22. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Publications / Reviews
 
@@ -245,7 +265,7 @@
 
 *   [Expanding the antibacterial selectivity of polyether ionophore antibiotics through diversity-focused semisynthesis](https://rdcu.be/ccBFH) - Poulsen lab paper from 2020 where antibiotics are tested for their ability to leave mammalian cells as intact as possible, per the Cell Painting assay.
 
-## [21. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [23. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Integration
 
@@ -265,7 +285,7 @@
     *   [The White Rabbit (⭐92)](https://github.com/viartemev/the-white-rabbit) - An asynchronous RabbitMQ (AMQP) client based on Kotlin coroutines.
     *   [WAMP Broker (⭐2)](https://github.com/i22-digitalagentur/vertx-wamp) - A WAMP broker you can embed into your Vert.x application.
 
-## [22. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [24. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Commercial Libraries
 
@@ -289,7 +309,7 @@
 *   [vx](https://vx-demo.now.sh/) collection of reusable low-level visualization components, on top of d3
 *   [react-muze (⭐15)](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/) (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
 
-## [23. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [25. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -322,7 +342,7 @@
 *   [Better Translation Manager](https://bitbucket.org/anders_melander/better-translation-manager). `[Delphi]` Translation Manager
 *   [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
-## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [26. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
@@ -365,7 +385,7 @@
 
 *   [Petris (⭐22)](https://github.com/bbbbbr/Petris) - A puzzle game of shapely pets for the Game Boy Color ([itch.io](https://bbbbbr.itch.io/petris)).
 
-## [25. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [27. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Tools
 
@@ -373,20 +393,20 @@
 *   [buckwheat (⭐23)](https://github.com/JetBrains-Research/buckwheat) - Multi-language tokenizer for extracting identifiers from source code.
 *   [RefactoringMiner (⭐259)](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
 
-## [26. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [28. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
 *   [Sudoku (⭐51)](https://github.com/VarunS2002/Flutter-Sudoku) - Sudoku Game built by [VarunS2002](https://github.com/VarunS2002/).
 *   [Truth or Dare (⭐41)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 
-## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students.
 
-## [28. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [30. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Community
 
@@ -410,13 +430,13 @@
 *   [component-template (⭐516)](https://github.com/sveltejs/component-template) - A base for building shareable components.
 *   [svelte-pwa-template (⭐187)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Blogs
 
 *   [FireHydrant Blog](https://www.firehydrant.io/blog) - Posts about complex systems, incident response, and SRE best practices.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -430,19 +450,25 @@
 
 *   [@korijn/vue-store (⭐23)](https://github.com/Korijn/vue-store) - Lightweight Vue 3 composition API-compatible store pattern library with undo/redo.
 
-## [31. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [33. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Workshops / Doctrine Assessement
 
 *   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
-## [32. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Back-end API / Playground
+
+*   :octocat: [Booster Framework (⭐297)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+
+## [35. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github\&utm_medium=organic\&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
 
-## [33. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [36. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -453,20 +479,20 @@
 *   [yew-component-size (⭐3)](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
 *   [yew-virtual-scroller (⭐4)](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 
-## [34. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [37. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Hardware
 
 *   [LIDAR (⭐379)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
-## [35. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [38. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Components
 
 *   [React molecule-components (⭐86)](https://github.com/alexandre-lelain/components-extra) - React molecule-components based on Material-UI.
 *   [Material-UI NestedMenuItem (⭐69)](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 
-## [36. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [39. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Document
 
@@ -482,37 +508,37 @@
     *   [SPIR-V Legalization and Size Reduction with spirv-opt](https://www.lunarg.com/news-insights/white-papers/spir-v-legalization-and-size-reduction-with-spirv-opt/)
     *   [All White Papers](https://www.lunarg.com/vulkan-white-papers/)
 
-## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [40. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Scraping
 
 *   [proxycrawl](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
 
-## [38. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [smug (⭐436)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
-## [39. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [42. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
 *   [Prometheus FastAPI Instrumentator (⭐394)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
-## [40. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [43. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Monitoring
 
 *   [aws-cdk-billing-alarm (⭐19)](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
 
-## [41. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [44. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Image Picker
 
@@ -523,19 +549,19 @@
 
 *   [Raspberry Pi Embedder (⭐1k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
-## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [46. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Videos / NumPyro
 
 *   [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX intro presentation in [*Program Transformations for Machine Learning*](https://program-transformations.github.io) workshop.
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - All the videos from the 2020 Next.js conference
 
-## [45. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [48. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
@@ -618,7 +644,7 @@
 
 *   [Pcx :octocat: (⭐1.1k)](https://github.com/keijiro/Pcx) - Point cloud importer/renderer for Unity.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Data Visualization on Maps
 
@@ -632,7 +658,7 @@
 
 *   [CurrencyFreaks](https://currencyfreaks.com/) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
 
-## [47. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
+## [50. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
 ### Prompts
 
@@ -647,13 +673,13 @@
 *   [Async Prompt (⭐275)](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 *   [Abbreviation Tips (⭐167)](https://github.com/Gazorby/fish-abbreviation-tips) - Remembering abbreviations by displaying tips when you can use them.
 
-## [48. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [51. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/spikecodes/libreddit) - Private Reddit front-end written in Rust.
 
-## [49. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [52. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Dependency Injection / Collection View Layout
 

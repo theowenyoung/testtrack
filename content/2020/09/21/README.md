@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2020
 
-22 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -108,7 +108,17 @@
 
 *   [A quick introduction to SRE principles (⭐24)](https://github.com/fhivemind/sre-playground)
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [13. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Security
+
+*   [django-protected-media (⭐44)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
+
+### Resources / Conferences
+
+*   [Django Day Copenhagen (⭐6.2k)](https://github.com/wsvincent/awesome-django#conferences)
+
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Transition
 
@@ -118,13 +128,13 @@
 
 *   [Eureka (⭐12k)](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift.
 
-## [14. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [15. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Gerillass](https://gerillass.com/) - A Sass mixin library to help you create modern web sites.
 
-## [15. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [16. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Performance Testing / Mainframe Environments
 
@@ -138,19 +148,19 @@
 *   [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280)); 70 insightful and practical recipes to help successfully use Apache JMeter.
 *   [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) - By Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / RSS
 
 *   [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1\&mt=12)
 
-## [17. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### CMS
 
 *   [BlazorShop (⭐217)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Quality
 
@@ -160,7 +170,7 @@
 
 *   [Bricks Note Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.
 
-## [19. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [20. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Roles / Executives
 
@@ -236,13 +246,13 @@
 
 *   [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - On how sales and marketing takes over product focused companies.
 
-## [20. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Continuous Distribution of Funding to your Project Contributors and Dependencies (⭐114)](https://github.com/protontypes/libreselery)
 
-## [21. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [22. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Machine Learning
 
@@ -279,7 +289,7 @@
 
 *   [Mani Sarkar](https://twitter.com/theNeomatrix369) - Java champion, Polyglot, Software Crafter involved with @graalvm, AI/ML/DL, Data Science, Developer communities, speaker & blogger. Creator of couple of awesome lists like this one.
 
-## [22. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [23. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Business
 

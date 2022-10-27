@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14, 2021
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,19 +34,40 @@
 
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
-## [6. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Apps/Websites / Community
+
+*   [macOS in Svelte (⭐1.6k)](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
+
+## [7. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Communities / Reddit
 
 *   [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Learning / Talks Presentations Podcasts
+
+*   [Mile High Video 2018 Proceedings](https://mile-high.video/files/mhv2018)  - Mile High Video 2018 talks & presentations
+*   [Mile High Video 2019 Proceedings](https://mile-high.video/files/mhv2019)  - Mile High Video 2019 talks & presentations
+
+### Encoding / AV1
+
+*   [Analysis of AV1 Encoding Tools & libaom Case Study](https://visionular.io/performance-analysis-of-av1-encoding-tools-libaom-case-study/)  - This article provides a performance analysis of AV1 encoding tools.
+
+### Tools / Dolby
+
+*   [Streamlab](https://vimond.github.io/streamlab/)  - Multi-format stream test tool for the browser. Brings convenience to verifying, inspecting, and troubleshooting adaptive streams and video files. A common interface on top of Shaka Player, HLS.js, and Rx-Player.
+
+## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Static Site Generators
 
 *   [Nift](https://nift.dev) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -60,13 +81,13 @@
 
 *   [rktjmp/hotpot.nvim (⭐209)](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
 
-## [9. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Package suites
 
 *   **[Biocaml (⭐112)](https://github.com/biocaml/biocaml)** - Biocaml aims to be a high-performance user-friendly library for Bioinformatics.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Music
 

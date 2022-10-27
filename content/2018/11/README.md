@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12 - Mar 18, 2018
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -315,13 +315,19 @@
 
 *   [Popular Resistance](https://popularresistance.org/) -  Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
 
-## [34. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Typescript Project Starters
+
+*   [typescript-starter (⭐3.2k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
+
+## [35. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Blogs / TikZ
 
 *   [texblog.org](https://texblog.org) - Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).
 
-## [35. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [36. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -351,7 +357,7 @@ Donationware
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screensson.png)](http://www.siggieggertsson.com/Saver-Screensson)
 
-## [36. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [37. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Framework Extras
 
@@ -374,7 +380,7 @@ Donationware
 
 *   [Github (⭐2k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
 
-## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [38. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
@@ -384,7 +390,7 @@ Donationware
 
 *   [rsmq (⭐1.6k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -400,7 +406,7 @@ Donationware
 
 *   [vue-check-view (⭐116)](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
 
-## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -410,7 +416,7 @@ Donationware
 
 *   [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
 
-## [40. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [41. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -436,7 +442,7 @@ Donationware
 *   [sandboxapi (⭐116)](https://github.com/InQuest/python-sandboxapi) - Python library for
     building integrations with several open source and commercial malware sandboxes.
 
-## [41. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [42. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -525,19 +531,19 @@ Donationware
 
 
 
-## [42. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [43. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
 *   [elm-webpack-starter-kid (⭐5)](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
-## [43. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [44. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
 
-## [44. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [45. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Others
 
@@ -552,7 +558,7 @@ Donationware
 *   [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing) - Written by [@jhaddix](https://twitter.com/jhaddix).
 *   [$7.5k Google services mix-up](https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up) - Written by [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
 
-## [45. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [46. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 

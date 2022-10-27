@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -136,6 +136,14 @@
 ### Resources / Newsletters
 
 *   [BrainPost](https://www.brainpost.co/) - A mailing list that delivers weekly easy-to-read summaries of the latest neuroscience publications.
+
+## [13. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Full-stack frameworks
+
+*   [Reactor (⭐507)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
+*   [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
+*   [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
 
 ---
 

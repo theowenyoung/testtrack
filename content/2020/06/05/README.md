@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -214,19 +214,25 @@
 
 
 
-## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Functional Swift
+
+*   [*RxSwift: Reactive Programming with Swift* by Florent Pillet, Junior Bontognali, Scott Gardner, Ash Furrow, Marin Todorov, Shai Mishali](https://store.raywenderlich.com/products/rxswift)
+
+## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Frameworks / Svelte
 
 *   [Svelte Custom Element API](https://svelte.dev/docs#Custom_element_API)
 
-## [11. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [12. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [YouTube Musical Spectrum (⭐139)](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Servers
 

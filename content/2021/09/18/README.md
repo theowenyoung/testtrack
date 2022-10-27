@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,7 +52,13 @@
 
 *   [prisma-sequelize-generator (⭐8)](https://github.com/floydspace/prisma-sequelize-generator)
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Username Check / Telegram
+
+*   [Snoop (⭐1.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Tools / Music drivers and trackers
 
@@ -62,7 +68,7 @@
 
 *   [DeadCScroll (⭐4)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"
 
-## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 

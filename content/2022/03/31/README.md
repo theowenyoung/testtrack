@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 31, 2022
 
-11 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Apps/Websites / Community
+
+*   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
+
+## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -84,21 +90,27 @@
 *   [Tuts 4 You](https://tuts4you.com) - Non-commercial, independent community dedicated to the sharing of knowledge and information on reverse code engineering.
 *   [UnpacMe](https://www.unpac.me) - Automated malware unpacking service.
 
-## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Tools / Testing
 
 *   [graviton (⭐15)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
 *   [tealer (⭐40)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
 
-## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Infrastructure as Code
 
 *   [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...).
 *   [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 
-## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web/ReactJS / Playground
+
+*   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐487)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
+
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### API / Samples
 
@@ -125,13 +137,13 @@
 *   [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
 *   [Steampipe (⭐3.9k)](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [Fishing Funds](https://ff.1zilc.top) - Display real-time trends of Chinese funds in the menubar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/1zilc/fishing-funds) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Security
 
@@ -141,25 +153,25 @@
 
 *   [ko (⭐5.2k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
-## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authorization / Open-source policy frameworks
 
 *   [Open Policy Administration Layer (⭐737)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
 *   [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self hosted version
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-img-lazy-tiny (⭐3)](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
@@ -187,12 +199,18 @@
 
 *   [Node之父 - Deno，一个新的JS运行时](https://www.bilibili.com/video/av52038617)
 
-## [11. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [13. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Puzzle
 
 *   [2048 (⭐11k)](https://github.com/gabrielecirulli/2048) - Clone of 1024, based on Saming's 2048.
 *   [A Dark Room (⭐42)](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
+
+## [14. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### QubesOS Websites
+
+*   [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
 
 ---
 

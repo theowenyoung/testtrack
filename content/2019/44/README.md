@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04 - Nov 10, 2019
 
-69 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -181,26 +181,45 @@
 
 *   [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitions.
 
-## [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [18. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Anonymity Tools / Tor Tools
+
+*   [dos-over-tor (⭐8)](https://github.com/skizap/dos-over-tor) - Proof of concept denial of service over Tor stress test tool.
+
+### Conferences and Events / North America
+
+*   [Hackers Next Door](https://hnd.techlearningcollective.com/) - Cybersecurity and social technology conference held in New York City.
+*   [Hackers On Planet Earth (HOPE)](https://hope.net/) - Semi-annual conference held in New York City.
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [Smart Install Exploitation Tool (SIET) (⭐517)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
+
+### Online Resources / Other Lists Online
+
+*   [Infosec/hacking videos recorded by cooper](https://administraitor.video) - Collection of security conferences recorded by Cooper.
+
+## [19. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Other Lists
 
 *   [Eric Zimmerman Tools](https://ericzimmerman.github.io/) - An updated list of forensic tools created by Eric Zimmerman, an instructor for SANS institute.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [GraphCMS introduction guide with Vue](https://graphcms.com/docs/introduction/) on GraphCMS
 
-## [20. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [21. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Backports and improvements
 
 *   [typed-ast (⭐214)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 *   [typing-extensions (⭐1.3k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
-## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
@@ -215,7 +234,7 @@
 *   [Kedro (⭐7.7k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
-## [22. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Resources
 
@@ -273,7 +292,7 @@
 
 *   [Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions)
 
-## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -306,7 +325,7 @@
 
 *   [Mastering Malware Analysis](https://www.packtpub.com/networking-and-servers/mastering-malware-analysis) - Mastering Malware Analysis: The complete malware analyst's guide to combating malicious software, APT, cybercime, and IoT attacks
 
-## [24. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [25. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Other tools / Misc
 
@@ -316,13 +335,13 @@
 
 *   [Data Viz Today](https://dataviztoday.com/)
 
-## [25. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [26. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - Breaking into AI with the best course from Andrew NG.
 
-## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [27. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Client Web App Frameworks
 
@@ -357,31 +376,31 @@
 *   [Vim Plugin (⭐592)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
 *   [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 
-## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [28. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [Qalculate!](https://qalculate.github.io/) - Cross-platform scientific calculator including unit/currency converters.
 
-## [28. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [29. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [rescue-box (⭐14)](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
 
-## [29. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [30. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / User Interface
 
 *   [msdf-gdx (⭐26)](https://github.com/maltaisn/msdf-gdx) - Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.
 
-## [30. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [31. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
 *   [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
 
-## [31. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [32. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Game development / WebRTC
 
@@ -395,13 +414,13 @@
     *   [Stage.js (⭐2.2k)](https://github.com/shakiba/stage.js)
     *   [Cocos2d (⭐2.9k)](https://github.com/cocos2d/cocos2d-html5)
 
-## [32. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [TypeScript](https://www.typescriptlang.org/) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### HTML/XML Parsing
 
@@ -411,13 +430,13 @@
 
 *   [Sentimental (⭐448)](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby.
 
-## [34. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [35. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [HiveMQ](https://www.hivemq.com/) - Enterprise ready MQTT broker that can scale to connect millions of IoT devices.
 
-## [35. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [36. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
@@ -425,13 +444,13 @@
     *   [by @fragglet (⭐2.8k)](https://github.com/fragglet/c-algorithms)
     *   [by @TheAlgorithms (⭐15k)](https://github.com/TheAlgorithms/C)
 
-## [36. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [37. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Resources & Others / Communities
 
 *   [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
 
-## [37. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Swift
 
@@ -443,19 +462,19 @@
 *   [Top 100 Data science interview questions](https://www.datacamp.com/community/news/top-100-data-science-interview-questions-cc3lts7gj5j)
 *   [Data Science Interview Questions](https://hackr.io/blog/data-science-interview-questions)
 
-## [38. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
 *   [wagtail-leaflet-widget (⭐14)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
-## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [40. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) - An introduction to managing successful AI projects and applying AI to real-life situations.
 
-## [40. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [41. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Methodology / Scalability and Resilience
 
@@ -463,7 +482,7 @@
 *   [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) - Minimalistic ideals as a practical and pragmatic approach to software testing 🎥.
 *   [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) - Suggestion on TDD practices and boundaries to reduce coupling 🎥.
 
-## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Currency Exchange
 
@@ -507,13 +526,13 @@
 
 
 
-## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [43. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services
 
 *   [ImprovMX](https://improvmx.com/) - Create free email aliases for your domain name.
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
@@ -535,7 +554,7 @@
 
 *   `ZPL-1.2` - [Zope Public License 1.2](http://zpl.pub/page/zplv12)
 
-## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [45. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -549,7 +568,7 @@
 
 *   [SRE as a Lifestyle Choice](https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d)
 
-## [45. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [46. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
@@ -559,13 +578,13 @@
 
 *   [Code Coverage](https://www.codecoverage.org/) - Code Coverage is a podcast for developers on the force.com platform, in each episode we talk to a developer about how they got involved with the platform, what they’re working on, technologies they like and what they consider to be their most ‘creative’ solution.
 
-## [46. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [47. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
 *   [Atom](https://github.atom.io/) \[FREE] - Atom is a free and open-source text and source code editor developed by GitHub (Atom – A Hackable Text and Source Code Editor).
 
-## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [48. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
@@ -575,7 +594,7 @@
 
 *   [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
 
-## [48. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [49. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Continuous Integration
 
@@ -589,7 +608,7 @@
 
 *   [Portable UTF-8 (⭐471)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
-## [49. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [50. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -612,7 +631,7 @@
 *   [Clio Guide](https://guides.clio-online.de/) - A handbook on digital resources for the historical sciences.
 *   [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians—teachers and students, archivists and museum curators, professors as well as amateur enthusiasts—who wish to produce online historical work, or to build upon and improve the projects they have already started in this important new medium.
 
-## [50. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [51. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -638,13 +657,13 @@
 
     Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
-## [51. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [52. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Visualization
 
 *   [3Dmol.js (⭐583)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
 
-## [52. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [53. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Grammar
 
@@ -661,7 +680,7 @@
 *   [SimpleNLG (⭐774)](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
 *   [SimpleNLG DE (⭐16)](https://github.com/sebischair/SimpleNLG-DE) - German version of SimpleNLG 4.
 
-## [53. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [54. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
@@ -671,7 +690,7 @@
 
 *   [1440 Minutes Left Today](https://1440app.com/) - Keep a track of how many minutes you have left until the day is over, right in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/1440/id1483764819)
 
-## [54. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [55. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Data validation
 
@@ -695,19 +714,19 @@
 *   [EmberCamp 2018](https://www.youtube.com/watch?v=0ziETDm1QTI\&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW) - Videos of the sessions from EmberCamp 2018
 *   [EmberCamp 2019](https://www.youtube.com/watch?v=a1HALof3r5M\&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc) - Videos of the sessions from EmberCamp 2019
 
-## [55. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [56. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Parsing
 
 *   [buran (⭐29)](https://github.com/alekseysotnikov/buran) - RSS/Atom feed consumer and producer
 
-## [56. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [57. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
 *   [React App Rewire Preact (⭐9.3k)](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 
-## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [58. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -730,7 +749,7 @@
 
 *   [Jbuilder (⭐45)](https://github.com/shootingfly/jbuilder) - Generate JSON objects with a Builder-style DSL, inspired by jbuilder
 
-## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -785,13 +804,13 @@
 
 *   [PDFMonkey](https://www.pdfmonkey.io/) — Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 1000 free documents per month.
 
-## [59. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [60. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Python
 
 *   [BindsNET (⭐1.1k)](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
 
-## [60. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [61. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Getting Started
 
@@ -3756,7 +3775,7 @@
 *   [See the guide (⭐41k)](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
-## [61. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [62. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### PlayCanvas
 
@@ -3826,26 +3845,26 @@
 *   [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
 *   [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
-## [62. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [63. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [How I Overcame My Fear of Public Speaking](https://www.youtube.com/watch?v=80UVjkcxGmA) -  by **Danish Dhamani** \[08:36]
 *   [How to speak so that people want to listen](https://www.youtube.com/watch?v=eIho2S0ZahI) -  by **Julian Treasure** \[09:58]
 
-## [63. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [64. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Dashboards / Themes
 
 *   [Google Home Theme (⭐105)](https://github.com/liri/lovelace-themes) - Two themes (light and dark) matching the design of Google Home Hub.
 
-## [64. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [65. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
 *   [Car Hacking in 30 Minutes or Less](https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/) - Using VirtualBox and Kali Linux, you can start car hacking using completely free open-source software and tools, including can-utils, ICSim, ScanTool, Wireshark, and tcpdump
 
-## [65. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [66. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -3855,13 +3874,13 @@
 
 *   [MockSwift (⭐78)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
-## [66. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [67. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - \[German] Blog about Blazor.
 
-## [67. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [68. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -3871,7 +3890,7 @@
 
 *   [scriptisto (⭐226)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
-## [68. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [69. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Data Containers
 
@@ -3881,7 +3900,7 @@
 
 *   [scikit-opt (⭐3.6k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
-## [69. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [70. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Tools and web interfaces
 

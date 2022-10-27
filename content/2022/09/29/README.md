@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2022
 
-17 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -126,7 +126,49 @@
 
 *   [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
 
-## [16. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [16. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### PC / MacOS
+
+*   MS Windows - Owned by Microsoft it is known for collecting many user data and tricking users to own a Microsoft account. If you still want and happen to use Windows 10, you can use [this tool](https://www.w10privacy.de/english-home/) to see and disable the tons of privacy-invasive settings of MS Windows.
+*   MacOS.
+
+### [GNU/Linux](https://www.linux.com/what-is-linux/)
+
+*   [Fedora](https://getfedora.org/)
+*   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=292) is a beginner friendly distribution.
+
+### Other OS:
+
+*   [RedoxOS](https://www.redox-os.org/) - A WIP project aiming to provide a Unix-like Operating System written in Rust.
+
+### Web Browser / Alternative clients/modifications of Discord:
+
+*   **Google Chrome** - Owned by google and built upon the open-source Chromium project (also Google-owned). It comes with many privacy-invasive features, it is connected to your Google account most times. It is under [Google's privacy policy](https://tosdr.org/en/service/217) which is known to be very bad. Google is willing to enforce the [Manifest v3](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening) which is outright harmful to privacy efforts.
+*   **Microsoft Edge** - It's a Microsoft-themed version of Chromium with Microsoft trackers instead of Google ones. Under [Microsoft's privacy policy](https://tosdr.org/en/service/244), which is also very bad. If you still want to use it, you can [follow this guide](https://anonymousplanet.org/guide.html#edge-19) to harden it a bit.
+*   **Opera** - Opera was [acquired by a consortium of Chinese investors](https://en.wikipedia.org/wiki/Opera_\(web_browser\)#Acquisition_by_Chinese_consortium). The app has [many trackers](https://reports.exodus-privacy.eu.org/de/reports/com.opera.browser/latest/).
+
+### Android / iOS / Alternative clients/modifications of Discord:
+
+*   [Bromite](https://www.bromite.org/) - It has been known to lag on security patches, so it may be better not to use it.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Vanadium](https://vanadium.app/) - Privacy and security enhanced releases of Chromium by GrapheneOS.
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Privacy Browser](https://www.stoutner.com/privacy-browser/)
+
+### Useful Tools / Alternative clients/modifications of Discord:
+
+*   [Single File (⭐9.4k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+
+## [17. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### General Search
+
+*   [Mojeek](https://www.mojeek.com/)
+
+### People Investigations / Telegram
+
+*   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+
+## [18. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### APIs and SDKs
 
@@ -138,7 +180,7 @@
 *   [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
 *   [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 
-## [17. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [19. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 

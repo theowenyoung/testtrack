@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,14 +114,21 @@
 
 *   [requests-html (⭐13k)](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Documentaries / Third Party Hosts
+
+*   [Documentary Addict](https://documentaryaddict.com/) A website which scrapes Youtube for documentaries
+*   [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
+
+## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Books / Editors
 
 *   [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - By Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)); a simple, practical, step-by-step tutorial to measure the performance of websites.
 *   [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - By Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)), guide to write custom components for Apache JMeter 5.0.
 
-## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
@@ -146,7 +153,7 @@
 
 *   [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping\&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### System Deployment
 
@@ -156,7 +163,7 @@
 
 *   [DataSphere Studio (⭐2.3k)](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
 
-## [12. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [13. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Open source / GPL (no linking exception)
 
@@ -166,13 +173,13 @@
 
 *   [havk (⭐21)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Authentication
 
 *   [Authentication with client-side Blazor (⭐233)](https://github.com/chrissainty/AuthenticationWithClientSideBlazor) - ![stars](https://img.shields.io/github/stars/chrissainty/AuthenticationWithClientSideBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chrissainty/AuthenticationWithClientSideBlazor?style=flat-square\&cacheSeconds=86400) Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity. [Blog post](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/).
 
-## [14. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Semantic Versioning
 
@@ -183,7 +190,7 @@
 *   [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR (⭐249)](https://github.com/wemake-services/dotenv-linter)
 *   [Run dotenv-linter, with reviewdog output on the PR (⭐14)](https://github.com/mgrachev/action-dotenv-linter)
 
-## [15. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [16. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
@@ -220,20 +227,20 @@
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 *   [Tricks in Coq (⭐390)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
 
-## [16. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [17. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### USA / San Francisco
 
 *   [CODAME ART+TECH Festival](http://codame.com/events/art-tech-festival-2019-space) - Explores the manifold dimensions of SPACE with an incredible lineup schedule, including nightlife installations and performances, a variety of workshops, and community gathering art+tech salon to close off the Festival. **(October)**
 
-## [17. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [18. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Libraries / Individual Podcast episodes
 
 *   [Elm packages](https://package.elm-lang.org/) - The official registry
 *   [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
-## [18. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [19. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Browser Features
 

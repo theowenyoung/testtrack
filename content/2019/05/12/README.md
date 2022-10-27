@@ -1,6 +1,6 @@
 # Awesome List Updates on May 12, 2019
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -123,11 +123,23 @@
 
 *   [ava-tap-json (⭐1)](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
 
-## [5. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### iOS
+
+*   [*iOS Apprentice* by Matthijs Hollemans, Fahim Farook](https://store.raywenderlich.com/products/swift-apprentice)
+
+## [6. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2019
 
 *   [Mathias Bynens & Sathya Gunasekaran: **What's new in JavaScript?**](https://www.youtube.com/watch?v=c0oy0vQKEZE) \[36:32]
+
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
 
 ---
 

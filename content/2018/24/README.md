@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11 - Jun 17, 2018
 
-39 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -379,7 +379,37 @@
 
 *   [KeyPress OSD (⭐222)](https://github.com/marius-sucan/KeyPress-OSD) - On-Screen Display which displays every key or mouse button press at a clearly visible text size. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=225)
 
-## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [23. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### ReactJS
+
+- Name: [react-handsontable (⭐520)](https://github.com/handsontable/react-handsontable)
+
+  Description: A React wrapper for the the Handsontable spreadsheet component.
+
+  Link: <https://handsontable.com>
+
+  : 
+
+  : 
+
+  : 
+
+
+
+### VueJS
+
+- Name: [vue-handsontable-official (⭐754)](https://github.com/handsontable/vue-handsontable-official)
+
+  Description: Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components.
+
+  Link: <https://handsontable.com>
+
+  : 
+
+
+
+## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -390,7 +420,7 @@
 
 *   [potion (⭐183)](https://github.com/finnfiddle/potion) - Collection of React components for composing visualizations
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -400,7 +430,7 @@
 
 *   [.NET Boxed Templates (⭐3.1k)](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -411,13 +441,13 @@
 *   [vue-a11y-dialog (⭐91)](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 *   [vue-slideout-panel (⭐168)](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
-## [26. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [27. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
 *   [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) \[[show me the code (⭐6)](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
 
-## [27. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [28. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### History
 
@@ -431,7 +461,7 @@
 
 
 
-## [28. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [29. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Filesystem
 
@@ -448,7 +478,7 @@
 *   [docker-explorer (⭐455)](https://github.com/google/docker-explorer/)\
     A tool to help forensicate offline docker acquisitions.
 
-## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -457,7 +487,7 @@
         Topics covered include probability theory and Bayesian inference; univariate distributions; Central Limit Theorem; generation of random deviates; tail (p-value) tests; multiple hypothesis correction; empirical distributions; model fitting; error estimation; contingency tables; multivariate normal distributions; phylogenetic clustering; Gaussian mixture models; EM methods; maximum likelihood estimation; Markov Chain Monte Carlo; principal component analysis; dynamic programming; hidden Markov models; performance measures for classifiers; support vector machines; Wiener filtering; wavelets; multidimensional interpolation; information theory.
     *   [Lectures and Assignments](http://wpressutexas.net/forum/)
 
-## [30. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [31. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Talks
 
@@ -467,7 +497,7 @@
 
 *   [Superluminar](https://superluminar.io) - Agency.
 
-## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -477,26 +507,26 @@
 
 *   [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. \[Apache]
 
-## [32. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [33. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 *   [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 
-## [33. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [34. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake-cookbook (⭐1.9k)](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Official Documentation Translations
 
 *   [Crystular](http://www.crystular.org) - Regular expression tester
 
-## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Introduction
 
@@ -606,19 +636,44 @@
 *   [Cinematic (⭐861)](https://github.com/aaronoe/FlutterCinematic) <!--stargazers:aaronoe/FlutterCinematic--> - UI for Movie DB Public API by [Aaron Oertel](https://github.com/aaronoe)
 *   [Beer-Me-Up (⭐468)](https://github.com/benoitletondor/Beer-Me-Up) <!--stargazers:benoitletondor/Beer-Me-Up--> - Beer tracking nicely designed by [Benoit Letondor](https://github.com/benoitletondor)
 
-## [36. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [37. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI in finance / Blockchain projects for AI algorithms
 
 *   [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 
-## [37. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [38. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+
+### Programming Language Design Patterns
+
+*   Closure
+    *   [design-patterns](https://arturoherrero.com/closure-design-patterns/)
+
+### General Architecture
+
+*   [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
+
+### DevOps & containers
+
+*   [best-practices-for-shell-scripts](https://stackoverflow.com/questions/78497/design-patterns-or-best-practices-for-shell-scripts) - Best practices for shell scripts.
+
+### Front-End Development
+
+*   \[front-End Architecture]
+    *   [mv\*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
+    *   [martinfowler](https://martinfowler.com/eaaDev/uiArchs.html) - GUI Architectures.
+
+### Security
+
+*   [martinfowler](https://www.martinfowler.com/articles/web-security-basics.html) - Web-security-basics.
+
+## [39. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -645,7 +700,7 @@
 
 *   [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)
 
-## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudWatch
 

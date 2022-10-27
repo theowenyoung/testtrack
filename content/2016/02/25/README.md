@@ -1,24 +1,32 @@
 # Awesome List Updates on Feb 25, 2016
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [TypeScript Fundamentals](https://www.pluralsight.com/courses/typescript) (Pluralsight)
+*   [Practical TypeScript Migration](https://www.pluralsight.com/courses/typescript-practical-migration) (Pluralsight)
+*   [Using TypeScript for Large AngularJS Applications](https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps) (Pluralsight)
+
+## [2. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Date & Time
 
 *   [fecha (⭐2k)](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 
-## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
 *   [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 
-## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Date and Time
 

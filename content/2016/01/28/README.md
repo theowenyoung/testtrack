@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,40 +90,50 @@
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [6. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [6. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [Raphaël](http://icons.marekventur.com/)
+
+### Social
+
+*   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
+
+## [7. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
-## [7. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [8. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Boilerplates / Brunch Plugins
 
 *   [es6-jspm-gulp-boilerplate (⭐137)](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Benchmark / Runner
 
 *   [benchmark.js (⭐5.3k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐556)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-## [9. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [10. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Squire (⭐4.4k)](https://github.com/neilj/Squire) - HTML5 rich text editor
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Papers
 
 *   [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 
-## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 

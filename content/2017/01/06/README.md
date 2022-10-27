@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 06, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Build Systems / Playground
+
+*   [Zwitterion (⭐549)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+
+## [2. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -14,13 +20,13 @@
 *   [Facebook Notes Clone(ish) (⭐228)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
 *   [Medium Draft (⭐1.7k)](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 
-## [2. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [3. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Software that Uses Qt / New Functionality
 
 *   [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and an engineer's best friend.
 
-## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Multipurpose Engines
 
@@ -37,7 +43,7 @@
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) -
     Machine Learning with TensorFlow libraries.
 
-## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [5. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Articles
 
@@ -84,7 +90,7 @@
 
 *   [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
 
-## [5. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -96,13 +102,13 @@
 
 
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [jimpick/lambda-comments :fire::fire::fire: (⭐624)](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 
-## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 

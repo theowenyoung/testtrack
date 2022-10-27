@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,6 +71,25 @@
 
 *   [MooseX::Types](https://metacpan.org/pod/MooseX::Types) - Moose types management tool
 *   [Type::Tiny](https://metacpan.org/pod/Type::Tiny) - Tiny, yet comprehensive type library
+
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Solid / Integrations
+
+*   [vite-plugin-solid (⭐255)](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+
+### Rollup Plugins / Included in Vite
+
+*   [@rollup/plugin-alias (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+*   [@rollup/plugin-commonjs (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+*   [@rollup/plugin-dynamic-import-vars (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+*   [@rollup/plugin-json (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-dsv (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+*   [@rollup/plugin-graphql (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+*   [@rollup/plugin-replace (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ---
 

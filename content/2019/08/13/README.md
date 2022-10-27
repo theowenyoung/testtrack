@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13, 2019
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,25 +40,37 @@
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous / Mouse Events
+
+*   [react-find (⭐20)](https://github.com/geobde/react-find) - ⚛️ Elegant, accessible search component for React.
+
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
 *   [Catalyst (⭐424)](https://github.com/curiosity-ai/catalyst) Cross-platform Natural Language Processing (NLP) library inspired by spaCy, with pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models. Part of the [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 
-## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Metadata
 
 *   [libklvanc (⭐48)](https://github.com/stoth68000/libklvanc) - C library for ancillary data extraction from SDI and SMPTE ST 2110-40 (CEA-708, AFD, SCTE-104, etc.).
 
-## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Objective-C
+
+*   [*Objective-C for Absolute Beginners* by Gary Bennett, Mitchell Fisher, Brad Lees](https://www.amazon.com/Objective-C-Absolute-Beginners-iPhone-Programming/dp/1430236531)
+
+## [9. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Client libraries / Rust
 
 *   [WavesRS (⭐0)](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
 
-## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
@@ -113,7 +125,7 @@
 
 *   [feedmereadmes (⭐1.1k)](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 
-## [9. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [11. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Videos
 
@@ -144,13 +156,13 @@
 *   [Fun Tricks](https://assistant.google.com/services/a/uid/00000038e95bb789) - Lighten up your day with jokes and other fun tricks. Check them out, there's always something new to try.
 *   [Google Podcasts](https://assistant.google.com/services/a/uid/000000e0ea9c992f) - Listen to your favorite podcasts by asking your Assistant.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
 *   [libsvm (⭐4.2k)](https://github.com/cjlin1/libsvm) - A simple, easy-to-use, efficient library for Support Vector Machines. \[BSD-3-Clause] [website](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
@@ -171,7 +183,7 @@
 *   [Building Stylistic UIs with Emotion-JS for React Native](https://heartbeat.fritz.ai/how-to-use-emotion-js-with-react-native-fccac9c78779)
 *   [Getting Started with Firestore and React Native](https://blog.jscrambler.com/getting-started-with-firestore-and-react-native/)
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 

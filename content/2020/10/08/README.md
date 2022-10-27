@@ -1,24 +1,30 @@
 # Awesome List Updates on Oct 08, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Editors
+
+*   [django-summernote (⭐920)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+
+## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
 *   [Trivy (⭐14k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
 *   [MeTube (⭐1.1k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
-## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Customization / Directory Navigation
 
@@ -43,13 +49,13 @@
 *   [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 *   [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of pre-configured Tailwind CSS gradients with directional options.
 
-## [5. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [6. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### Accessibility (a11y)
 
@@ -63,7 +69,7 @@
 
 *   [Theo (⭐1.8k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
-## [6. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
+## [7. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 
 ### Official Websites
 
@@ -137,7 +143,7 @@
 *   [brettt89/sspak](https://hub.docker.com/r/brettt89/sspak) -  SSPak Docker image.
 *   [brettt89/silverstripe-solr-cwp](https://hub.docker.com/r/brettt89/silverstripe-solr-cwp) -  CWP Solr Docker image.
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### C, C++
 
@@ -147,7 +153,7 @@
 
 *   [cl-advice (⭐1)](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md) - an attempt of portable layer advice library for SBCL, CCL, LispWorks and Allegro. Not in Quicklisp.
 
-## [8. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Images
 
@@ -157,25 +163,25 @@
 
 *   [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 
-## [9. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [10. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 
 *   [GitHub collapse markdown (⭐1.4k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
-## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Clojure / Git
 
 *   [secrets.clj (⭐81)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
 *   [Prisma (⭐4)](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 
-## [12. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [13. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Quantification / Clustering
 
@@ -186,7 +192,7 @@
 
 *   **[bcftools (⭐484)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 

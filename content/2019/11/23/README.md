@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,13 +25,36 @@
 *   [Genl (⭐22)](https://github.com/kowey/GenI) - Surface realiser (part of a Natural Language Generation system) using Tree Adjoining Grammar.
 *   [JSrealB (⭐17)](https://github.com/rali-udem/JSrealB) - A JavaScript bilingual text realizer for web development.
 
-## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   :octocat: [Next-Postgres-With-Typescript (⭐18)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app boilerplate with Next.js 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
+
+### Types / Playground
+
+*   [ts-types-utils (⭐55)](https://github.com/LeDDGroup/ts-types-utils) - Type utilities for typescript
+
+### Back-end API / Playground
+
+*   :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [prelude.ts (⭐355)](https://github.com/emmanueltouzery/prelude.ts) - Functional programming: immutable persistent collections, constructs such as Option and Either, and combinators.
+
+### Badges / Chrome Extensions
+
+*   [TypeScript Badges (⭐39)](https://github.com/ellerbrock/typescript-badges/)
+    [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/awesome/typescript125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/code/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/) [![TypeScript](https://raw.githubusercontent.com/ellerbrock/typescript-badges/master/badges/love/typescript-125x28.png)](https://github.com/ellerbrock/typescript-badges/)
+
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Blogs / Other
 
 *   [Nikita Sobolev](https://sobolevn.me/)
 
-## [5. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [6. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Data Structures and Algorithms
 
@@ -49,19 +72,19 @@
 
 *   [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
 
-## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Extensions
 
 *   [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
 *   [Mamilos](https://www.b9.com.br/shows/mamilos/) - Jornalismo de peito aberto
 
-## [8. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 *   [@pgbovine](https://github.com/pgbovine), [Python Tutor](https://github.com/pgbovine/OnlinePythonTutor)
     *   "Python Tutor Software Development Philosophy" ([video](https://www.youtube.com/watch?v=sVtXLdBRfyE))
     *   "Ten years and nearly ten million users: my experience being a solo maintainer of open-source software in academia" ([post](http://pgbovine.net/python-tutor-ten-years.htm))

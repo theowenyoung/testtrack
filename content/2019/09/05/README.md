@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 05, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [MikroORM (⭐5.2k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+
+## [2. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
 ### Videos / Testing
 
@@ -42,14 +48,14 @@
 
 *   [Airflow (⭐28k)](https://github.com/apache/airflow/tree/master/airflow/www)
 
-## [2. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Exploits
 
 *   [Metasploit](http://www.metasploit.com/) - Penetration testing software.
     *   [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
 
-## [3. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [4. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
@@ -57,44 +63,44 @@
 *   [cirt-fuzzer](http://www.cirt.dk/) - A simple TCP/UDP protocol fuzzer.
 *   [ASlookup](https://aslookup.com/) - a useful tool for exploring autonomous systems and all related info (CIDR, ASN, Org...)
 
-## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [5. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Servers
 
 *   [ssh-proxy (⭐50)](https://github.com/ml-tooling/ssh-proxy) [![stars](https://img.shields.io/github/stars/ml-tooling/ssh-proxy.svg?style=social\&label=stars)](https://github.com/ml-tooling/ssh-proxy) - Dockerized SSH bastion to proxy SSH connections to arbitrary containers.
 
-## [5. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Misc / Extensions
 
 *   [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Connection pools
 
 *   [metabase/connection-pool (⭐13)](https://github.com/metabase/connection-pool)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - IDE & Tools
 
 *   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
 
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Quantum Computing / NLP
 
 *   [PennyLane (⭐1.6k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
-## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 *   [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
 
-## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Testing / Individual Podcast episodes
 

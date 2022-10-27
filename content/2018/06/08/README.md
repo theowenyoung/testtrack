@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,47 @@
 
 *   [bs::framework (⭐1.7k)](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. \[MIT]
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Programming Language Design Patterns
+
+*   C++
+    *   [design-patterns](http://www.vincehuston.org/dp/)
+*   Kotlin
+    *   [design-patterns (⭐5.4k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+*   PHP
+    *   [humans (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
+*   Ruby
+    *   [design-patterns (⭐2.1k)](https://github.com/davidgf/design-patterns-in-ruby)
+*   Swift
+    *   [design-patterns (⭐14k)](https://github.com/ochococo/Design-Patterns-In-Swift)
+*   Vue.js
+    *   [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
+
+### General Architecture
+
+*   [system-design-primer (⭐201k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+
+### Micro services & Distributed Systems
+
+*   [microservices-sync-vs-async](https://dzone.com/articles/patterns-for-microservices-sync-vs-async) - Microservices patterns, synchronous and asynchronous.
+
+### Mobile
+
+*   IOS
+    *   [ios-architecture-patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+
+### Front-End Development
+
+*   [css-protips (⭐23k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+
+### Security
+
+*   [cloud-security](https://www.infoq.com/articles/cloud-security-architecture-intro) - Cloud security architecture intro.
+*   [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
+
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
@@ -35,25 +75,25 @@
 
 *   [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp) - A Heroku buildpack that uses Roswell to compile Common Lisp applications. LGPL3.
 
-## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Web Apps (frontend only) / [Codesandbox](https://github.com/CompuIves/codesandbox-client)
 
 *   GNU General Public License
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cache
 
 *   [Carlos (⭐626)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
-## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [8. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Client/Server Communication
 
 *   [cljs-ajax (⭐642)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Game Disassemblies / Syntax highlighting packages
 
@@ -65,19 +105,19 @@
 *   [FX Hammer (⭐5)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐16)](https://github.com/sanqui/hm3)
 
-## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [10. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_snippets (⭐48)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [10. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [11. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [FluentQuery (⭐145)](https://github.com/MihaelIsaev/FluentQuery) – Build complex raw SQL queries while still using Swift keypaths.
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XSS - Cross-Site Scripting
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,19 +26,25 @@
 
     "To share the lessons we learn by doing, and learn from the things that others are doing, to help us all get ahead as we bootstrap our businesses online." Since 2013 by [Brian Casel](https://twitter.com/CasJam) and [Jordan Gal](https://twitter.com/JordanGal).
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### VPN Services / Telegram
+
+*   [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
+
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
 *   [clim (⭐116)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
-## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Utilities (uncategorized) / Others
 
 *   [Acronym Creator](http://acronymcreator.net/) - Create acronym for organization, algorithm, or anything having at least two words.
 
-## [6. Awesome Linux](/content/inputsh/awesome-linux/README.md)
+## [7. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
 ### X Desktop Environments / Other Desktop Environments
 
@@ -59,13 +65,13 @@
 
 *   [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Fun Projects with Vue 2 (Video)](https://www.packtpub.com/web-development/fun-projects-vue-2-video) by Peter van Meijgaard, Packt. (April 2017)
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 

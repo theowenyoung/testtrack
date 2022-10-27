@@ -1,6 +1,6 @@
 # Awesome List Updates on May 08, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -157,6 +157,12 @@
 ### Developer Tools / Command Line Tools
 
 *   [job (⭐122)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### UI
+
+*   [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 
 ---
 

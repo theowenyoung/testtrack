@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 24, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,14 +31,24 @@
 
 *   [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework (⭐20k)](https://github.com/apache/incubator-mxnet)
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Custom Scrollbar
+
+*   [react-shadow-scroll (⭐26)](https://github.com/andrelmlins/react-shadow-scroll) - Component that customizes the image and inserts shadow when scrolling exists.
+
+### Boilerplate / Mouse Events
+
+*   [create-react-dependency (⭐27)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
+
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Articles / XML
 
 *   [Getting started with Deno](https://dev.to/wuz/getting-started-with-deno-e1m)
 *   [Write a small API using Deno](https://dev.to/kryz/write-a-small-api-using-deno-1cl0)
 
-## [6. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/README.md)
+## [7. Awesome Computational Neuroscience](/content/eselkin/awesome-computational-neuroscience/README.md)
 
 ### U.S. West / University of California, Irvine
 

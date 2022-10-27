@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2022
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,7 +117,30 @@
 *   [get.localhost.direct](https://get.localhost.direct) — A better `*.localhost.direct` Wildcard public CA signed SSL cert for localhost development with sub-domain support
 *   [Buttons Generator](https://markodenic.com/tools/buttons-generator/) — 100+ buttons you can use in your project.
 
-## [9. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Editable data grid / spreadsheet
+
+*   [AG Grid (⭐9.3k)](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.
+*   [MUI X Data grid (⭐2k)](https://github.com/mui/mui-x) - [demo/docs](https://mui.com/x/react-data-grid/) - Fast and customizable data grid with advanced features for power users and complex use cases.
+
+### Audio / Video
+
+*   [react-barcode-qrcode-scanner (⭐2)](https://github.com/xulihang/react-barcode-qrcode-scanner) - Barcode and QR code scanner component for React. It uses react-vision-camera to access the camera and Dynamsoft Barcode Reader to read barcodes.
+
+### Device Input / Keyboard Events
+
+*   [react-keyboard-navigator (⭐15)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting sibling components through the keyboard.
+
+### Form Logic / Mouse Events
+
+*   [react-client-validation (⭐2)](https://github.com/0529bill/react-client-validation) - Simple and super lightweight validation for React.
+
+### Miscellaneous / Lazy Load
+
+*   [react-device-frameset (⭐29)](https://github.com/zheeeng/react-device-frameset) - React device frameset component.
+
+## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Package suites
 
@@ -131,38 +154,38 @@
 
 *   [#!/perl/bioinfo](https://bioinfoperl.blogspot.com) - The Computational and Structural Biology group at EEAD-CSIC writes, in Spanish and English, about ideas and code for plant genomics, computational and structural biology problems.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [rockyzhang24/arctic.nvim (⭐29)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Boilerplates
 
 *   [Model-View-Presenter template (⭐21)](https://github.com/onl1ner/ios-mvp-template) - A flexible and easy template created to speed up the development of your iOS application based on the MVP pattern.
 
-## [12. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
+## [13. Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md)
 
 ### CLI / File Transfer
 
 *   [qrscan (⭐104)](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image.
 *   [qrcode.show](https://qrcode.show) - Generate QR codes using curl.
 
-## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [14. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Learning Resources
 
 *   [Association of Computing Machinery with Digital Library](https://www.acm.org) \[DISCOUNT] - Normally access to ACM and their Digital Library cost $198 USD a year, however, current IT and Computer Science students can get access for just $42 USD a year.
 
-## [14. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [15. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
 *   [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - Personal tips to maintain a challenging k6 load testing codebase.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Communications / Pointing & Pantomime
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -15,13 +15,25 @@
     *   [How to export HTML to PDF in ASP.NET Core](https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce)
     *   [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 
-## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Laravel
+
+- Name: [Laravel GitScrum (⭐2.8k)](https://github.com/renatomarinho/laravel-gitscrum)
+
+  Description: GitScrum is a project to help developer team.
+
+  Link: 
+
+
+
+## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Other / Other Resources
 
 *   [Forensics (⭐2.2k)](https://github.com/Cugu/awesome-forensics)
 
-## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -32,7 +44,7 @@
 *   [Atypical Combinations and Scientific Impact](http://science.sciencemag.org/content/342/6157/468) (*Science*, 2013).
 *   [On Bibliographic Networks](http://link.springer.com/article/10.1007%2Fs11192-012-0940-1) (*Scientometrics*, 2013).
 
-## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [5. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing
 
@@ -52,13 +64,13 @@
 *   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing) -
     General List of NLP related resources (mostly not for Ruby programmers).
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
 *   [Conan](https://conan.io/) - C/C++ Package Manager, open sourced. \[MIT]
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -67,19 +79,19 @@
     *   [Lectures and Videos](https://courses.cs.washington.edu/courses/cse341/16sp/#lectures)
     *   [Assignments and Tests](https://courses.cs.washington.edu/courses/cse341/16sp/#homeworks)
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [sparkleformation/sfn (⭐62)](https://github.com/sparkleformation/sfn) - CLI for stack management.
 
-## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [9. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Articles
 
 *   ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

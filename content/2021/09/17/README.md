@@ -1,42 +1,48 @@
 # Awesome List Updates on Sep 17, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Tools / Ironsworn
+
+*   [isscrolls (⭐7)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+
+## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [iotacb/ChefkochAPI (⭐2)](https://github.com/iotacb/ChefkochAPI) - Kotlin/Java library, to parse and get information of recipes from chefkoch
 
-## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Blockchain/Crypto/NFT
 
 *   [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 
-## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Block Producer tools / Services
 
 *   [GoogleCloudPlatform/eos-block-producer (⭐9)](https://github.com/GoogleCloudPlatform/eos-block-producer) - Terraform module to create an EOS Block Producer (BP) node on Google Cloud Platform (GCP).
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Educational and Informational Resources / Literature Resources
 
 *   [TFResource](https://tfresource.org/) - A collection of best practices for travel demand forecasting and travel survey methods.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Email - Mail Delivery Agents
 
@@ -107,31 +113,31 @@
 *   [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code (⭐177)](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Shell/Ansible`
 *   [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`
 
-## [7. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [8. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Tools
 
 *   [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Static Page Generation
 
 *   [pardall\_markdown (⭐94)](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
 *   [vue-dapp (⭐115)](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 
-## [10. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Resources / Blogs
 
 *   [Cheminformania](https://www.cheminformania.com) - Blog of [Ph.D, Esben Jannik Bjerrum](https://www.cheminformania.com/about/esben-jannik-bjerrum/), who is a Principle Scientist and a Machine Learning and AI specialists at AstraZeneca.
 
-## [11. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [12. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Companies and Cooperatives / Reddit
 
@@ -142,7 +148,7 @@
 
 *   [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
 
-## [12. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [13. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Development
 
@@ -176,19 +182,19 @@
 
 *   [Winds (⭐8.7k)](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 
-## [13. Awesome List](/content/sindresorhus/awesome/README.md)
+## [14. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
 *   [WebXR (⭐99)](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [Percentage (⭐255)](https://github.com/sindresorhus/Percentage) - Make percentages more readable and type-safe.
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [16. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
@@ -198,7 +204,7 @@
 
 *   [tmux-autoreload (⭐26)](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -267,7 +273,7 @@
 
 
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 

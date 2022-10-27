@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,31 +38,44 @@
 
 *   [JetBrains/skiko (⭐1.1k)](https://github.com/JetBrains/skiko) - Kotlin Multiplatform bindings to Skia
 
-## [5. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Command-Line Productivity
+
+*   [sshrc (⭐106)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+
+## [6. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Generation
 
 *   [captcha-api](https://captcha-api.akshit.me) - Free, fast and reliable Captcha API POWERED BY AI
 
-## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
 *   [SVT Encore (⭐219)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
 
-## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Tools
 
 *   [webpack-target-webextension (⭐33)](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
 
-## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [9. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
 *   [Nano Stores (⭐2k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### UI Animation / Syntax Highlight
+
+*   [react-voodoo (⭐10)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
+
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design Inspiration
 
@@ -75,13 +88,13 @@
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
 *   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
 
-## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [13. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 

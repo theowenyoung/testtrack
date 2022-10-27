@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2017
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -146,20 +146,32 @@
 
 *   [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [18. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### React Native
+
+- Name: [Standard Notes (⭐848)](https://github.com/standardnotes/mobile)
+
+  Description: A simple and private notes app
+
+  Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.standardnotes)
+
+
+
+## [19. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [Intezer](https://analyze.intezer.com) - Detect, analyze, and categorize malware by
     identifying code reuse and code similarities.
 
-## [19. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [20. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 
-## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Business Intelligence
 
@@ -170,7 +182,7 @@
 *   [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
 *   [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook!
 
-## [21. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [22. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Record Holders and Extremes / Breaking and Gluing other characters
 
@@ -179,31 +191,31 @@
     in the 0x10000-0x10FFFD range, are private use characters, guaranteed to
     be never filled by a future Unicode standard.
 
-## [22. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [23. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
 *   [pt\_BR (⭐66)](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
 
-## [23. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [24. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Other external resources
 
 *   [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
-## [24. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [25. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Videos
 
 *   [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (Boot) or Java application.
 
-## [25. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [proteus (⭐406)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -234,7 +246,7 @@
 
 *   [CardsLayout (⭐782)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
-## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / New York   <a id="new-york">  </a>
 
@@ -248,25 +260,25 @@ Webpage: <https://www.houndstoothcoffee.com/>
 | ---- | ----- | ------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- |
 | ✔    | ✔     | ❄️/♨️         | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM |
 
-## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [29. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [snmpcollector (⭐259)](https://github.com/toni-moreno/snmpcollector) - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB
 
-## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 
-## [30. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [31. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Python / General
 
 *   [Steam-Trade (⭐15)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
-## [31. Bots](/content/hackerkid/bots/week/README.md)
+## [32. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 
@@ -284,25 +296,25 @@ Webpage: <https://www.houndstoothcoffee.com/>
 *   [BotList Chat](http://t.me/botlistchat) - Telegram group.
 *   [Bot Development](http://t.me/botdevelopment) - Telegram group.
 
-## [32. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [33. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [Robotopia (⭐502)](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 
-## [33. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [34. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Others / Useful References
 
 *   [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 
-## [34. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [35. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Sass Accoutrement](http://oddbird.net/open-source/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
 
-## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Talks
 
@@ -312,39 +324,39 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/\~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
 
-## [36. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [37. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
 *   [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) - Clever trick to estimate an optimal learning rate prior any single full training.
 
-## [37. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [38. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Functional Structures Refactoring Kata (⭐31)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
 *   [incremental\_katas (⭐63)](https://github.com/Gianfrancoalongi/incremental_katas)
 
-## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [39. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [40. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [41. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### PCB Batching Services / Eagle
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [41. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [42. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -363,7 +375,7 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [42. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [43. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -385,13 +397,13 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [RStudio Addins (⭐741)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [43. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [44. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 

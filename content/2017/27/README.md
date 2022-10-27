@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 03 - Jul 09, 2017
 
-45 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,7 +23,17 @@
 *   [Designing reliable systems with cloud infrastructure (Google Cloud Next '17)](https://www.youtube.com/watch?v=7Hy_6SMn8pY)
 *   [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [API Security Checklist (⭐18k)](https://github.com/shieldfy/API-Security-Checklist)
+
+  Description: Checklist of the most important security countermeasures when designing, testing, and releasing your API
+
+
+
+## [4. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Command Line
 
@@ -33,13 +43,13 @@
 
 *   [Seven PHP](https://7php.com/) - A website that interviews members of the PHP community.
 
-## [4. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [5. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Academic
 
 *   [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 
-## [5. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Communication
 
@@ -49,7 +59,7 @@
 
 *   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐3.2k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 
-## [6. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### 2D
 
@@ -59,13 +69,13 @@
 
 *   [SabreCSG](http://sabrecsg.com/) - A set of [CSG](https://en.wikipedia.org/wiki/Constructive_solid_geometry) level design tools for building complex levels quickly inside Unity.
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Security
 
 *   [AdRoll/hologram :fire::fire::fire: (⭐773)](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
 
-## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Other
 
@@ -77,56 +87,56 @@
 
 
 
-## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Examples
 
 *   [Crabzilla (⭐66)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 
-## [10. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [11. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
 *   [async-profiler (⭐5.5k)](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf\_events.
 
-## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Community
 
 *   [@TensorFlow on Twitter](https://twitter.com/tensorflow)
 
-## [12. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [13. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Communities
 
 *   [Quora](https://www.quora.com/topic/Neuroscience-1) - Neuroscience topic on Quora contains answers, often by experts, to questions ranging from basic to advanced.
 *   [Reddit](https://www.reddit.com/r/ScienceNetwork/comments/ptye0/link_tables/) - List of neuroscience, psychology and cognitive science subreddits.
 
-## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [14. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
 *   [Laravel Decomposer (⭐509)](https://github.com/lubusIN/laravel-decomposer) - List all installed packages, their dependencies, app & server details
 
-## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [15. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Monitoring & Quality Control
 
 *   [Jack Meter (⭐40)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 
-## [15. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [16. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Creating GIFs
 
 *   [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
 
-## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [17. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Preact Head (⭐34)](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /> for Preact.
 
-## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### RDBMS
 
@@ -314,13 +324,13 @@
 
 *   [Unified Log Processing](https://www.manning.com/books/event-streams-in-action) - Unified Log Processing is a practical guide to implementing a unified log of event streams (Kafka or Kinesis) in your business
 
-## [18. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [19. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   C#/dotnet: [chrome-dev-tools (⭐71)](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 
-## [19. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [20. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Google Chromecast / Official resources
 
@@ -343,13 +353,13 @@
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/smart-tv)
 *   [Reddit](https://www.reddit.com/r/smarttv)
 
-## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [21. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 
-## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -375,13 +385,39 @@
 
 *   [TopShelf (⭐3.5k)](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
-## [22. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [23. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / Intentionally Vulnerable Systems as Docker Containers
+
+*   [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
+
+### Network Tools / Network Reconnaissance Tools
+
+*   [dnsenum (⭐458)](https://github.com/fwaeytens/dnsenum/) - Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+*   [dnsmap (⭐101)](https://github.com/makefu/dnsmap/) - Passive DNS network mapper.
+*   [dnsrecon (⭐2k)](https://github.com/darkoperator/dnsrecon/) - DNS enumeration script.
+*   [dnstracer](http://www.mavetju.org/unix/dnstracer.php) - Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
+*   [passivedns-client (⭐188)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
+*   [passivedns (⭐1.5k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+*   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+
+### Vulnerability Databases / Social Engineering Tools
+
+*   [Bugtraq (BID)](http://www.securityfocus.com/bid/) - Software security bug identification database compiled from submissions to the SecurityFocus mailing list and other sources, operated by Symantec, Inc.
+*   [Exploit-DB](https://www.exploit-db.com/) - Non-profit project hosting exploits for software vulnerabilities, provided as a public service by Offensive Security.
+*   [Mozilla Foundation Security Advisories](https://www.mozilla.org/security/advisories/) - Archive of security advisories impacting Mozilla software, including the Firefox Web Browser.
+*   [Packet Storm](https://packetstormsecurity.com/files/) - Compendium of exploits, advisories, tools, and other security-related resources aggregated from across the industry.
+*   [SecuriTeam](http://www.securiteam.com/) - Independent source of software vulnerability information.
+*   [Vulnerability Lab](https://www.vulnerability-lab.com/) - Open forum for security advisories organized by category of exploit target.
+*   [Vulners](https://vulners.com/) - Security database of software vulnerabilities.
+
+## [24. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [People Ops, Performance Reviews, and Goal-setting](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/People-Ops-Perf-Reviews-and-Goal-setting.md)
 
-## [23. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [25. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
@@ -401,7 +437,7 @@
 
 *   [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 
-## [24. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [26. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
@@ -409,7 +445,7 @@
 *   [50 iOS Interview Questions And Answers Part 2](https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-2-45f952230b9f)
 *   [50 iOS Interview Questions And Answers Part 3](https://medium.com/ios-os-x-development/50-ios-interview-questions-and-answers-part-3-3fad146b6c3d)
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
@@ -443,7 +479,7 @@
 
 *   [VGPlayer (⭐397)](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.
 
-## [26. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -461,7 +497,7 @@ Webpage: <http://www.opaonosso.pt/>
 
 Wifi pw: `fermento`
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Chatting
 
@@ -491,7 +527,7 @@ Wifi pw: `fermento`
 
 *   [blogit (⭐35)](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 
-## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
@@ -502,20 +538,20 @@ Wifi pw: `fermento`
 *   [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
 *   [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
 
-## [29. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [31. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### WebVR / Particles
 
 *   [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
     *   [Awesome-AFrame (⭐1.3k)](https://github.com/aframevr/awesome-aframe)
 
-## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [32. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Learning
 
 *   [Awesome Deep Learning Resources (⭐1.5k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 
-## [31. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [33. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Case Studies / Others
 
@@ -523,7 +559,7 @@ Wifi pw: `fermento`
 
     [AJ](https://twitter.com/ajlkn) writes about the making of carrd.co and the different steps that he took on the way to a successful product.
 
-## [32. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [34. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Music
 
@@ -543,7 +579,7 @@ Wifi pw: `fermento`
 *   [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
 *   [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
 
-## [33. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [35. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### :sparkles: Tutorials
 
@@ -591,7 +627,7 @@ Wifi pw: `fermento`
 *   [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby\&src=typd)
 *   [NonWebRuby](https://twitter.com/NonWebRuby)
 
-## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Writing, running scripts / Third-party APIs
 
@@ -605,7 +641,7 @@ Wifi pw: `fermento`
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [35. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [37. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Specifications
 
@@ -622,7 +658,7 @@ Wifi pw: `fermento`
 *   [railcar (⭐1.1k)](https://github.com/oracle/railcar)\
     Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 
-## [36. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [38. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -632,20 +668,20 @@ Wifi pw: `fermento`
 
 *   [PostgreSql.Binaries.Lite (⭐27)](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
-## [37. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
 *   [Red Hat Single Sign-On Labs (⭐11)](https://github.com/RedHatWorkshops/red-hat-sso)
 *   [Spring Boot Keycloak Tutorial (⭐185)](https://github.com/sebastienblanc/spring-boot-keycloak-tutorial)
 
-## [38. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [40. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
 *   [CodeMyUI](https://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
 
-## [39. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [41. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Cookiecutters
 
@@ -663,20 +699,20 @@ Wifi pw: `fermento`
 *   [List of videos from the official site](https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
 *   [Online Video Courses at Talk Python Training](https://training.talkpython.fm/courses/all)
 
-## [40. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [42. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
 *   [VueJS Russia - Telegram Group \[Russian\]](https://t.me/vuejs_ru)
 *   [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 
-## [42. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [44. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### InfoSec
 
@@ -686,7 +722,7 @@ Wifi pw: `fermento`
 
 *   [jobs.wordpress.net](https://jobs.wordpress.net/)
 
-## [43. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [45. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Game Development
 
@@ -696,13 +732,13 @@ Wifi pw: `fermento`
 
 *   [Spotlight (⭐3.4k)](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
 
-## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debugger
 
 *   [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
 
-## [45. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [47. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Video Courses
 

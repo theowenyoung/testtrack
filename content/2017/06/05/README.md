@@ -1,18 +1,24 @@
 # Awesome List Updates on Jun 05, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Document and Reference Management / Telegram
+
+*   [ManualsLib](https://www.manualslib.com/) - Database of More Than 2.6M Manuals.
+
+## [2. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 
-## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
@@ -25,7 +31,7 @@
 *   [tldr (⭐41k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 *   [Wat (⭐464)](https://github.com/dthree/wat) - Instant, central, community-built docs.
 
-## [3. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [4. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### GUI / Swift
 
@@ -44,7 +50,7 @@
 
 *   [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
 
-## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [5. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Developer
 
@@ -54,13 +60,13 @@
 
 *   [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
 *   [Bender (⭐1.7k)](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 
-## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Singapore 🇸🇬 / one north
 
@@ -74,7 +80,7 @@ Webpage: <http://breadandhearth.com/>
 | ---- | ----- | ------------------------------------------------------------- | ------------------- |
 | ✔    | ?     | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM |
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Emulators
 

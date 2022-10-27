@@ -1,12 +1,18 @@
 # Awesome List Updates on May 04, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Design patterns / Chrome Extensions
+
+*   :octocat: [Design Patterns implementation (⭐4.5k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+
+## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Neural Networks
 
@@ -18,7 +24,7 @@
 *   [Gym (⭐29k)](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
 *   [ViZDoom (⭐1.4k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
-## [2. Awesome Indie](/content/mezod/awesome-indie/README.md)
+## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
 ### Podcasts / Other
 
@@ -143,19 +149,19 @@
 
     An example of riding the wave.
 
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
 *   [WebGL 2 Examples (⭐445)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
-## [4. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Source Separation
 
 *   [NTFLib (⭐46)](https://github.com/stitchfix/NTFLib) [:octocat: (⭐46)](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization.
 
-## [5. Guides](/content/NARKOZ/guides/README.md)
+## [6. Guides](/content/NARKOZ/guides/README.md)
 
 ### Markup / HTML
 
@@ -216,13 +222,13 @@
 *   [Writing style](https://atlassian.design/server/foundations/writing-style/)
 *   [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 
-## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### JSON Schema Tools
 
 *   [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 

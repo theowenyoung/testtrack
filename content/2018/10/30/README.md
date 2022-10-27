@@ -1,72 +1,91 @@
 # Awesome List Updates on Oct 30, 2018
 
-30 awesome lists updated today.
+31 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
+## [1. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
+
+*   [Windows Store Link](https://www.microsoft.com/store/productId/9PMW35D7FNLX) for SUSE Enterprise Linux 15.
+
+### Supported Distributions / Kali Linux
+
+*   Because Kali is based on Debian, most Debian and Ubuntu documentation also applies to Kali.
+
+### WSL Tools / X Servers
+
+*   [VcXsrv](https://sourceforge.net/projects/vcxsrv/) - X server for Windows with hardware acceleration compiled with Visual Studio.
+*   [Cygwin/X](https://x.cygwin.com) - Cygwin/X is a port of the X Window System to the Cygwin API layer for Windows.
+
+### More Awesome / Miscellaneous Tools
+
+*   [Awesome UNIX (⭐1.2k)](https://github.com/sirredbeard/Awesome-UNIX)
+
+## [2. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 
 ### Principles within bigger Design Systems
 
 *   [IBM Carbon Design Principles](https://www.carbondesignsystem.com/guidelines/accessibility/overview)
 
-## [2. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [3. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### [CodeKata](http://codekata.com/)
 
 *   [Kata14: Tom Swift Under the Milkwood](http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/)
 
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### R tools / Misc
 
 *   [visNetwork](https://datastorm-open.github.io/visNetwork/) - Interactive network visualisations
 
-## [4. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [5. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Academic Papers
 
 *   [Work Practices and Challenges in Pull-Based Development (Gousios et al. 2015)](https://sback.it/publications/icse2016b.pdf) ([summary on the morning paper](https://blog.acolyer.org/2015/06/23/work-practices-and-challenges-in-pull-based-development/)) Field study of how GitHub pull requests are used in the wild.
 
-## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Books
 
 *   [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - Create, build and deploy universal JavaScript applications using Next.js
 
-## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
 *   [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
 
-## [7. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
+## [8. Awesome Dropwizard](/content/stve/awesome-dropwizard/README.md)
 
 ### Open Source / Data Stores
 
 *   [dropwizard-atomix (⭐1)](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/)
 
-## [8. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [9. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Related Projects / Themes
 
 *   [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation.
 
-## [9. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [10. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Libraries and Tools
 
 *   [sw-offline-google-analytics](https://developers.google.com/web/updates/2016/07/offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
 
-## [10. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [11. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [jWYSIWYG](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin
 
-## [11. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [12. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### DojoToolkit.org resources and documentation
 
@@ -76,13 +95,13 @@
 
 *   [Reddit Community](https://www.reddit.com/r/dojo/) - growing community discussing Dojo on Reddit (invitation-only).
 
-## [12. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [13. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Containers / Kubernetes
 
 *   [kubernetes/examples (⭐5.2k)](https://github.com/kubernetes/examples/tree/master/staging/selenium) - Example deployment of Selenium Hub and Nodes on a Kubernetes cluster
 
-## [13. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [14. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / UI Frameworks
 
@@ -96,13 +115,13 @@
 
 *   [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([github (⭐32)](https://github.com/riadvice/alivepdf)).
 
-## [14. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [15. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### IDEs, Editors, and Plugins
 
 *   [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 
-## [15. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [16. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / R
 
@@ -125,7 +144,7 @@
 
 *   [Awesome Public Datasets - Neuroscience (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 
-## [16. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [17. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Cloud and storage
 
@@ -139,7 +158,7 @@
 
 *   [UBOSbox Nextcloud](https://indiecomputing.com/products/) is a ready-to-use home server appliance that does a lot of what Dropbox and Google Calendar do, but locally on hardware controlled by the user. It enables multi-user, multi-device file sharing, group calendaring, contact management, and includes a web mail client, an RSS/news reader, a note-taking app, text and video calls, and task management, provided by the FLOSS web application platform [Nextcloud](https://nextcloud.com/) and a number of Nextcloud apps. It is designed to be used as a home server without attached keyboard or monitor.
 
-## [17. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [18. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Proxy services
 
@@ -152,13 +171,13 @@
 *   [Creating Development Environments with Vagrant](http://shop.oreilly.com/product/9781849519182.do) / [2nd Edition](http://shop.oreilly.com/product/9781784397029.do) by Michael Peacock
 *   [Vagrant Virtual Development Environment Cookbook](http://shop.oreilly.com/product/9781784393748.do) by Chad Thompson
 
-## [18. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [19. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
 *   [Laravel MySQL Spatial extension (⭐734)](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
 
-## [19. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [20. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Wrappers
 
@@ -215,25 +234,25 @@
     unicode character). See also the signs' explanation in the
     introduction.
 
-## [20. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [21. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Events / Other
 
 *   [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
 
-## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [22. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Organizations
 
 *   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
 
-## [22. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [23. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Haskell / More
 
 *   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server (⭐2.4k)](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
-## [23. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [24. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -271,7 +290,7 @@ Wifi pw: `ilovenicolau`
 | ---- | ----- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 | ask  | ✔     | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 |
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
@@ -282,7 +301,7 @@ Wifi pw: `ilovenicolau`
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. \[Apache-2.0/MIT]
 *   [XMake](https://xmake.io/) - A C/C++ cross-platform build utility based on Lua. \[Apache]
 
-## [25. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -394,7 +413,7 @@ Wifi pw: `ilovenicolau`
 *   [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 *   [RadioPublic](https://radiopublic.com/)
 
-## [26. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [27. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / USENIX Security
 
@@ -420,25 +439,25 @@ Wifi pw: `ilovenicolau`
 
 *   [Ifuzzer: An evolutionary interpreter fuzzer using genetic programming, 2016](https://www.cs.vu.nl/\~herbertb/download/papers/ifuzzer-esorics16.pdf)
 
-## [27. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
 *   [50 iOS Interview Questions And Answers Part 5](https://medium.com/@duruldalkanat/50-ios-interview-questions-and-answers-part-5-de6241374a8f)
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
 *   [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [spulec/moto :fire::fire::fire::fire::fire: (⭐6.2k)](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 

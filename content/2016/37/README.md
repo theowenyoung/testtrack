@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2016
 
-38 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,55 +12,77 @@
 
 *   [Noisli](http://www.noisli.com/) (`iOS`, `Android`, `Web`, `Chrome`): free mixing of multiple tracks (which is similar to Soundrown but with much better UI). Users can save a customized setting for later use. I personally think this one has better fire sound tracks than soundrown.
 
-## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Laravel
+
+- Name: [DevTv (⭐24)](https://github.com/iamraphson/DEV-TV)
+
+  Description: DevTv is your online Video Subscription Platform
+
+  Link: [http://dev-tv.herokuapp.com](http://dev-tv.herokuapp.com/)
+
+
+
+### ReactJS
+
+- Name: [microapps-donation (⭐19)](https://github.com/iamraphson/microapps-donation)
+
+  Description: A single page application that allows people to donate money
+
+  Link: [https://microapp-donation.herokuapp.com](https://microapp-donation.herokuapp.com/)
+
+
+
+## [3. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Official Resources
 
 *   [Official Blog](http://blog.aurelia.io/)
 
-## [3. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Books
 
 *   [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops\&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
 
-## [4. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Forensics
 
 *   [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Bundling and Minification
 
 *   [Web Markup Minifier (⭐384)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
-## [6. Bots](/content/hackerkid/bots/week/README.md)
+## [7. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [Python (⭐20k)](https://github.com/python-telegram-bot/python-telegram-bot)
 
-## [7. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-fingers (⭐705)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
-## [8. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### IDE
 
 *   [Coding WebIDE (⭐1.7k)](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
 
-## [9. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [10. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Video
 
 *   [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 
-## [10. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [11. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Official Website
 
@@ -82,7 +104,7 @@
 
 *   [Visual D (⭐276)](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 
-## [11. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [12. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -132,7 +154,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 | ---- | ----- | ------------------------------------------------------------------------ | -------------------------------------- |
 | ✔    | ✔     | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00 |
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Design
 
@@ -148,7 +170,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Landing.jobs](https://landing.jobs/?utm_source=github\&utm_medium=referral\&utm_content=whfio\&utm_campaign=post)
 
-## [13. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [14. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
@@ -175,19 +197,19 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Hikr (⭐42)](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 
-## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [15. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone
 
-## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [16. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Chat & Messaging / ORM
 
 *   [Qiscus SDK (⭐197)](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
 
-## [16. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [17. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Development APIs / Geolocation
 
@@ -212,19 +234,19 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Getting started with Web Workers](https://code.tutsplus.com/tutorials/getting-started-with-web-workers--net-27667)
 
-## [17. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Algebra / Linear Algebra
 
 *   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐452)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
 *   [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. \[BSD]
 
-## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Books / Streaming
 
@@ -233,13 +255,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [Fundamentals of Stream Processing: Application Design, Systems, and Analytics](http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/fundamentals-stream-processing-application-design-systems-and-analytics) - This comprehensive, hands-on guide combining the fundamental building blocks and emerging research in stream processing is ideal for application designers, system builders, analytic developers, as well as students and researchers in the field.
 *   [Stream Data Processing: A Quality of Service Perspective](http://www.springer.com/us/book/9780387710020) - Presents a new paradigm suitable for stream and complex event processing.
 
-## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Text / Barcode
 
 *   [Parsey (⭐56)](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
 
-## [21. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
@@ -253,7 +275,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Robo (⭐2.6k)](https://github.com/consolidation/Robo) - A PHP Task runner with object-orientated configurations.
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Artificial Intelligence
 
@@ -283,25 +305,25 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [elixir-tmbundle (⭐259)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
-## [23. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [24. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
 *   [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
-## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### NoSQL
 
 *   [Monga plugin (⭐18)](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga`](https://github.com/thephpleague/monga).
 
-## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Java / Symfony2
 
 *   [Vertx-Web (⭐991)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
-## [26. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [27. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Must Reads
 
@@ -311,19 +333,19 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 
-## [27. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [28. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Videos
 
 *   [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) \[pt-BR\]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 
-## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [30. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Automation
 
@@ -632,25 +654,25 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [SciTE4AutoIt3](https://www.autoitscript.com/site/autoit-script-editor/downloads/) contains SciTE, wrapped into a single installer with all needed configuration settings and lots of utility programs like [AutoIt3Wrapper](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/AutoIt3Wrapper.html), [SciTEConfig](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/SciTEConfig.html), [Tidy](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Tidy.html), [Au3Stripper](https://www.autoitscript.com/autoit3/scite/docs/SciTE4AutoIt3/Au3Stripper.html) etc to enhanced SciTE for use with AutoIt3.
 
-## [30. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [31. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Articles / Web App
 
 *   [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
-## [31. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [32. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Journals / Topic-specific
 
 *   *[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true\&punumber=6488902)* (IEEE).
 
-## [32. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [33. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Other
 
 *   [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Deploy
 
@@ -661,13 +683,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐597)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 *   [ncw/rclone :fire::fire::fire::fire::fire: (⭐35k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
-## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Development Setup / Third-party Service Integration
 
 *   [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -695,7 +717,17 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - A Group For Individuals Who Tackle Reliability Challenges For Web-Scale Systems.
 
-## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+
+### Color
+
+*   [Paletton](http://paletton.com/)
+
+### Styleguide and Branding
+
+*   [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
@@ -710,13 +742,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [Jint (⭐2.9k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
 *   [Jurassic (⭐724)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
-## [37. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
-## [38. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 

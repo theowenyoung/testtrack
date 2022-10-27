@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2021
 
-47 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -430,7 +430,18 @@
 
 *   [pure (⭐29)](https://github.com/purely-functional/eslint-plugin-pure) - Enforce pure functions (without side effects).
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [24. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Rollup Plugins / Presets
+
+*   [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - Compatibility list for official rollup plugins.
+
+### Rollup Plugins / Compatible with Vite
+
+*   [@rollup/plugin-beep (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+*   [@rollup/plugin-inject (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Component abstraction crates / Other
 
@@ -441,25 +452,25 @@
 
 *   [SRAM23x](https://crates.io/crates/sram23x) - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post](https://blog.a1w.ca/p/rust-embedded-driver-microchip-23x-sram) - ![crates.io](https://img.shields.io/crates/v/sram23x.svg)
 
-## [25. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [26. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Libraries / Others
 
 *   [go-mcu (⭐11)](https://github.com/matiasinsaurralde/go-mcu) - Golang package for interacting with NodeMCU-based boards.
 
-## [26. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [27. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Web Frameworks / Coverage
 
 *   [Kelp](https://metacpan.org/pod/Kelp) - Plack-focused Perl web framework
 
-## [27. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Bundlers
 
 *   [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -469,13 +480,13 @@
 
 *   [Indiesort (⭐13)](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. \[zLib] [website](https://plflib.org/indiesort.htm)
 
-## [29. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [30. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Books
 
 *   [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A book on building CI/CD pipelines with Jenkins for cloud-native applications (including K8s & Serverless apps).
 
-## [30. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [31. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Arcade
 
@@ -485,19 +496,19 @@
 
 *   [Ryzom Core (⭐256)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Gradio (⭐10k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
-## [32. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [33. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Analytics dashboards
 
 *   [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code (⭐62)](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 
-## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -507,20 +518,20 @@
 
 *   [BluetoothCommunicatorExample (⭐34)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐75)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 
-## [34. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [35. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Security
 
 *   [SI Snitch (⭐2)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### WebAssembly
 
 *   [lumen (⭐3.1k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
 *   [wasmex (⭐293)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -537,7 +548,7 @@
 
 *   [vue-iview-electron-boilerplate (⭐0)](https://github.com/buyouzzj/vue-iview-electron) - An Electron & Vue.js boilerplate with iview4.x, Vue2.x, electron8.x and webpack4.x
 
-## [37. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -547,13 +558,13 @@
 
 *   [Veganism (⭐43)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
-## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [39. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Transformations
 
 *   [stylops (⭐0)](https://github.com/cruel-intentions/stylops) - CSS subset to JSON conversion. (node.js)
 
-## [39. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [40. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
@@ -561,13 +572,23 @@
 *   [Promotion Text Kata (⭐1)](https://github.com/nealhu/promotion-text-kata)
 *   [Args Kata (⭐0)](https://github.com/nealhu/args-kata)
 
-## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [41. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Table
+
+*   [react-table (⭐20k)](https://github.com/tannerlinsley/react-table) - [demo](https://react-table.tanstack.com/docs/examples/basic) - Hooks for building fast and extendable tables and datagrids
+
+### Paginator
+
+*   [paginated (⭐20)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
+
+## [42. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
 
-## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [43. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -608,20 +629,20 @@
 *   [How to Use Query Strings in Blazor WebAssembly](https://code-maze.com/query-strings-blazor-webassembly/) - January 7, 2021 - In this article, we are going to learn how to use query strings in Blazor WebAssembly. We are going to show you how to send query strings to the Blazor component and also how to read them inside the component. [Source code (⭐2)](https://github.com/CodeMazeBlog/blazor-wasm-query-strings) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=86400).
 *   [Introducing Online GZIP de/compressor, built with Blazor WebAssembly](https://swimburger.net/blog/dotnet/introducing-online-gzip-decompressor) - January 1, 2021 - Introducing Online GZIP de/compressor, built with Blazor WebAssembly.
 
-## [42. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [44. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
 *   [She Can Code](https://shecancode.io/) - An organization with the mission of empower women to enter and remain in the tech industry.
 
-## [43. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [45. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### .Net Libraries
 
 *   [NBitcoin (⭐1.7k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
-## [44. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [46. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -632,13 +653,13 @@
 
 *   [TauLidarCamera (⭐31)](https://github.com/OnionIoT/tau-LiDAR-camera) - The host-side API for building applications with the Tau LiDAR Camera.
 
-## [45. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tutorials / iOS
 
 *   [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
-## [46. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### YouTube Channels
 
@@ -652,7 +673,7 @@
 
 *   [svelte-preprocess (⭐1.4k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
-## [47. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [49. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Awesome Lists
 

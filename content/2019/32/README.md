@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12 - Aug 18, 2019
 
-40 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -539,7 +539,17 @@
 *   [Ember runloop handbook (⭐370)](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember.js runloop.
 *   [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember.js front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
-## [15. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### iOS
+
+*   [*Intermediate iOS 12 Programming with Swift* by Simon Ng](https://www.appcoda.com/intermediate-swift-programming-book/)
+
+### SwiftUI
+
+*   [*SwiftUI by Tutorials* by Raywenderlich Tutorial Team](https://store.raywenderlich.com/products/swiftui-by-tutorials)
+
+## [16. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Controllers
 
@@ -553,13 +563,13 @@
 
 *   [Shape Drawer (⭐146)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [Large scale Vue.js application boilerplate + Vuex (⭐260)](https://github.com/arunredhu/vuejs_boilerplate) - A boilerplate for starting large scale, flexible Vue.js application with using Vuex as state management - by [Arun Redhu](https://arunredhu.in)
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -569,7 +579,7 @@
 
 *   [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
 
-## [18. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [19. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Extraction Tools
 
@@ -592,7 +602,7 @@
 *   [IoTGoat (⭐170)](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
 *   [Rhme-2015 (⭐99)](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
 
-## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [20. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### IntelliJ / Android Studio / Game Engine resources
 
@@ -612,38 +622,48 @@
 *   Meetup [London](https://www.meetup.com/FlutterLDN/)
 *   [Twitter](https://twitter.com/FlutterLDN)
 
-## [20. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Icons
+
+*   [iconify-react (⭐178)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+
+### Form Components / Star Rating
+
+*   [react-awesome-stars-rating (⭐19)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+
+## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Sample Projects / JVM languages
 
 *   [DDD Workshop - Project Manager (⭐54)](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 
-## [21. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [23. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
 *   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐824)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
     // *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; opengl video player; FireMonkey controls; Other: Self-Balancing Binary Trees, expression evaluator*
 
-## [22. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
-## [23. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [SmoothOverscrollableScrollView (⭐27)](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
 
-## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [balenaEtcher](https://www.balena.io/etcher/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
 
-## [25. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [27. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
@@ -653,7 +673,7 @@
 
 *   [Neuraxle, a framwework for machine learning pipelines (⭐543)](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -663,7 +683,7 @@
 
 *   [Heliohost](https://www.heliohost.org/) for a free hosting solution.
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
@@ -702,13 +722,13 @@
 
 *   [fullcontact.com](https://www.fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
 
-## [28. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
 
-## [29. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [31. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Async
 
@@ -726,14 +746,14 @@
 
 *   [Essential UI Kit ★130 (⭐981)](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 
-## [30. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [32. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Libraries / PGFPlots
 
 *   [graph35](https://ctan.org/tex-archive/graphics/graph35) – Draw keys and screen items of several Casio calculators.
 *   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 
-## [31. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [33. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation
 
@@ -748,7 +768,7 @@
 
 *   [Locust](https://locust.io/) - Open source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.
 
-## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [34. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
@@ -758,19 +778,19 @@
 
 *   [CMakeCM (⭐1)](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. `[NO LICENSE]`
 
-## [33. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Files / Runner
 
 *   [PDF.js (⭐40k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
-## [34. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [mate-clj (⭐59)](https://github.com/AppsFlyer/mate-clj)
 
-## [35. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [37. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -782,7 +802,7 @@
 *   [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
 *   [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -796,13 +816,13 @@
 
 *   [NuGet Trends (⭐118)](https://github.com/NuGetTrends/nuget-trends) - Website with statistics of NuGet packages download count.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
 *   [Duties of a Site Reliability Engineering Manager](https://victorops.com/blog/duties-of-a-site-reliability-engineering-manager)
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -812,7 +832,7 @@
 
 *   [fbt ★3202 (⭐3.8k)](https://github.com/facebookincubator/fbt) - A JavaScript Internationalization Framework
 
-## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -825,11 +845,24 @@
 
 *   [LiveCodeLab](http://livecodelab.net) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
 
-## [40. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [42. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools
 
 *   [MySigMail Card](https://mysigmail.com/card/) - A free drag & drop builder helps you create email templates intuitively and very quickly.
+
+## [43. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Books / Tor Tools
+
+*   [Bug Hunter's Diary by Tobias Klein, 2011](https://nostarch.com/bughunter)
+*   [Metasploit: The Penetration Tester's Guide by David Kennedy et al., 2011](https://nostarch.com/metasploit)
+*   [Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman, 2014](https://nostarch.com/pentesting)
+*   [The Art of Exploitation by Jon Erickson, 2008](https://nostarch.com/hacking2.htm)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [Immunity Debugger](https://immunityinc.com/products/debugger/) - Powerful way to write exploits and analyze malware.
 
 ---
 

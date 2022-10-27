@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2019
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,15 @@
 
 *   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐141)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
-## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Conferences
+
+*   [PyCon Australia](https://2019.pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
+*   [Euro Python](https://ep2019.europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
+*   [Complete listing of all PyCons globally](https://pycon.org)
+
+## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Projects / Swift
 
@@ -57,13 +65,13 @@
 
 *   [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves.
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### On-Call
 
 *   [Incident insights from NASA, NTSB, and the CDC](https://www.youtube.com/watch?v=ODYO2MPymJ4)
 
-## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / South Carolina   <a id="south-carolina-">  </a>
 
@@ -77,7 +85,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 | ---- | ----- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | open | ✔     | ✔      | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM |
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Runtime Permissions / Custom Dialog
 
@@ -85,19 +93,19 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Gota (⭐73)](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
 *   [EasyPermissions (⭐9.6k)](https://github.com/googlesamples/easypermissions) - EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.
 
-## [11. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [12. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Uncategorised
 
 *   [git-bug (⭐5.8k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
-## [12. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [13. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [Drupal Vendor Hardening Composer Plugin (⭐13)](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
 
-## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [14. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -105,7 +113,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
     Combined tomato and fish farm grown in a system where fish basin waste water nourishes tomatoes, and the tomato bed in turn cleans the water which goes back to the fish basins. Their fish is grown without antibiotics and the tomates does not need fertilizers.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -116,7 +124,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   [Get Started Writing Class-based Vue.js Apps in TypeScript](https://www.sitepoint.com/class-based-vue-js-typescript)
 *   [Vue.js with TypeScript](https://johnpapa.net/vue-typescript) by [John Papa](https://johnpapa.net/about/)
 
-## [15. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇰🇷 Korea / Misc
 
@@ -124,13 +132,13 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 *   Facebook [Flutter Korea User Group](https://www.facebook.com/groups/flutterkorea/)
 *   Slack [GDG Korea #flutter channel](http://slack.gdg.kr/)
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [17. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Event
 
 *   [PHP Defer (⭐241)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 
-## [17. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [18. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Articles
 

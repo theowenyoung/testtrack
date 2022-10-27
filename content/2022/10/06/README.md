@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2022
 
-18 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,25 +12,40 @@
 
 *   [Explore Finance Service Libraries & Projects](https://kandi.openweaver.com/explore/financial-services#Top-Authors) - Explore a curated list of Fintech popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
-## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Supported Distributions / Ubuntu
+
+*   [Windows Store Link](https://apps.microsoft.com/store/detail/ubuntu-on-windows-community-preview/9P9Q5ZH1HRR0?hl=en-gb\&gl=gb) for Ubuntu Community Preview. These builds are previews for testing new features and ideas, these are for early adopters ***May be Unstable, Will Have Bugs*** report issues and give feedback below.
+*   *   [Installing Software](https://help.ubuntu.com/community/InstallingSoftware) guide to using apt from Ubuntu.
+*   [Ubuntu Community Previews](https://ubuntu.com/blog/explore-whats-in-store-ubuntu-preview-on-wsl) More Information About the Ubuntu Community Previews
+*   *   [Issues and Feedback](https://discourse.ubuntu.com/c/wsl2/27?_ga=2.263253898.784609326.1665083044-1177481074.1653602430) Report Issues and Give Feedback on the Community Previews Here.
+
+## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Misc libraries
 
 *   [ryoppippi/zigcv (⭐53)](https://github.com/ryoppippi/zigcv) - Bindings for OpenCV4.
 
-## [3. Awesome Go](/content/avelino/awesome-go/README.md)
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Tools / Playground
+
+*   [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
+
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Version Control
 
 *   [cli](https://gitlab.com/gitlab-org/cli) - An open-source GitLab command line tool bringing GitLab's cool features to your command line.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Volca](https://volca.io#api) - Free API providing lists of technologies such as programming languages and database systems. Unlimited free requests.
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Algorithms
 
@@ -70,19 +85,19 @@
 *   [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 *   [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
 *   [Shatur/neovim-tasks (⭐10)](https://github.com/Shatur/neovim-tasks) - A stateful task manager focused on integration with build systems.
 
-## [7. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Programming Languages / Assembly
 
 *   [Some Assembly Required (⭐2.2k)](https://github.com/hackclub/some-assembly-required/) (cc-sa) - An approachable introduction to Assembly
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -92,43 +107,43 @@
 
 *   [dangerroom (⭐0)](https://github.com/abbreviatedman/dangerroom) - Informative, minimal, and, above all, X-Men themed. Includes decorators for `git` status, working directory, parent directory and `vim` mode.
 
-## [9. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [11. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Software and Tools
 
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Security
 
 *   [Information Security Management](https://www.infosecuritybook.com) - Marcos Sêmola (PDF)
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
 *   [LibHyps (⭐15)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [krud-dev/shapeshift (⭐117)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
-## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [16. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Hardware
 
 *   [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) - Raspberry Pi Pico is a small,fast and versatile board that is equipped with the RP2040 microcontroller chip developed by the Raspberry Pi Foundation. It also comes with a 2.4GHz 802.11n wireless LAN variant, which makes it great for IoT.
 
-## [15. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Editors
 
@@ -138,20 +153,20 @@
 
 *   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.2k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 
-## [16. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [18. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Public key cryptography: General and DLP
 
 *   [SoK: Password-Authenticated Key Exchange – Theory, Practice, Standardization and Real-World Lessons](https://eprint.iacr.org/2021/1492.pdf) - History and classification of the PAKE algorithms.
 *   [RSA, DH and DSA in the Wild](https://eprint.iacr.org/2022/048.pdf) - Collection of implementation mistakes which lead to exploits of assymetric cryptography.
 
-## [17. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [19. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
 *   [GNU CLISP](http://www.clisp.org/) - A GNU implementation; contains a compiler and an interpreter. [Standard conformance](http://www.gnu.org/software/clisp/impnotes.html). [GNU GPL3](http://www.gnu.org/copyleft/gpl.html). They develop \[<https://gitlab.com/gnu-clisp/clisp](on> Gitlab).
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 

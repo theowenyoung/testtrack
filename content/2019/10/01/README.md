@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2019
 
-23 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -185,13 +185,19 @@
 *   [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
 *   [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 
-## [10. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Responsive / Syntax Highlight
+
+*   [base web](https://baseweb.design) - Base Web is a foundation for initiating, evolving, and unifying web products.
+
+## [11. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Planning-roadmaps.md)
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
@@ -202,7 +208,7 @@
 *   [Remote.Linq (⭐227)](https://github.com/6bee/Remote.Linq) - Remote Linq is a small and easy to use - yet very powerful - library to translate LINQ expression trees to strongly typed, serializable expression trees and vice versa.
 *   [Vanara (⭐1.2k)](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 
-## [12. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
+## [13. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 
 ### Conferences
 
@@ -213,13 +219,13 @@
 
 *   [Find Voice Jobs](https://www.findvoicejobs.com) - Website to find jobs in VUI Domain
 
-## [13. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [14. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Tools / update
 
 *   [pre-commit (⭐9k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
@@ -242,13 +248,13 @@
 
 *   Chain React 2019: [Playlist](https://www.youtube.com/watch?v=zEjqDWqeDdg\&list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9)
 
-## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [16. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [Smart Security Camera](https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/) - Using OpenCV, Twilio and a WebCam/picam.
 
-## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [17. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Developer Utilities
 
@@ -271,19 +277,19 @@
 
 *   [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 
-## [17. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [18. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Miscellaneous
 
 *   [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
-## [18. Awesome Python](/content/vinta/awesome-python/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Microsoft Windows
 
 *   [PyWin32 (⭐4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
-## [19. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [20. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Community Resources and Blogs
 
@@ -293,19 +299,19 @@
     *   [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Subreddit about Qlik Sense.
     *   [/r/QlikView](https://www.reddit.com/r/qlikview/) - Subreddit about QlikView.
 
-## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Nigeria](http://www.laravelnigeria.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 
-## [21. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [22. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### External Services / Terraform
 
 *   [Upload files to any OpenStack Swift service provider (⭐1)](https://github.com/iksaku/openstack-swift-action)
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
@@ -315,7 +321,7 @@
 
 *   [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/lungo/id1263070803)
 
-## [23. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [24. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Typescript Seed Projects / Aurelia + Electron Examples
 

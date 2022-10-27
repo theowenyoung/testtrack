@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 21, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -92,7 +92,13 @@
 
 *   [MultiSelectSegmentedControl (⭐278)](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 
-## [10. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Parallax / Syntax Highlight
+
+*   [react-parallax-tilt (⭐553)](https://github.com/mkosir/react-parallax-tilt) - [demo](https://mkosir.github.io/react-parallax-tilt) - Easily apply parallax tilt hover effect on components.
+
+## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Related Resources / Gradient boosting
 
@@ -101,7 +107,7 @@
 *   <a name="xgboost"></a>
     [XGBoost (⭐23k)](https://github.com/dmlc/xgboost)
 
-## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
@@ -123,7 +129,7 @@
 
 *   [Parsed Text (⭐211)](https://github.com/fayeed/flutter_parsed_text) <!--stargazers:fayeed/flutter_parsed_text--> - Interactive text based on content recognition, also supports Regex by [Fayeed Pawaskar](https://github.com/fayeed/)
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 

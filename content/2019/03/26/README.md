@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,19 +36,25 @@
 
 *   [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 
-## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Ebooks / Third Party Hosts
+
+*   [DeDRM\_tools (⭐13k)](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
+
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### API
 
 *   [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 
-## [5. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [6. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Frameworks / Bridges
 
 *   [matterbridge (⭐5.2k)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go`
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -64,13 +70,13 @@
 
 
 
-## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Video
 
 *   [Mux](https://mux.com/) - Paid - An API to play videos directly to the client. Can also power live streams.
 
-## [8. Awesome C](/content/inputsh/awesome-c/README.md)
+## [9. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Build Systems
 

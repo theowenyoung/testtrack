@@ -1,12 +1,18 @@
 # Awesome List Updates on Dec 15, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Conferences and Events / South America
+
+*   [Hackers to Hackers Conference (H2HC)](https://www.h2hc.com.br/) - Oldest security research (hacking) conference in Latin America and one of the oldest ones still active in the world.
+
+## [2. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Misc Tools
 
@@ -15,7 +21,7 @@
 *   ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 *   ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -31,7 +37,21 @@
 
 
 
-## [3. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Device Input / Keyboard Events
+
+*   [useKeyCapture (⭐20)](https://github.com/pranesh239/use-key-capture) - A custom hook to ease the key-press listeners of a target/global.
+
+### Data Store / Mouse Events
+
+*   [effector-react (⭐3.9k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+
+### Boilerplate / Mouse Events
+
+*   [react-enterprise-starter-kit (⭐70)](https://github.com/anandgupta193/react-enterprise-starter-kit) - Highly Scalable and Performant Awesome React Starter Kit for an enterprise application with a very easy maintainable codebase.
+
+## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Emojis / Fonts
 
@@ -42,7 +62,7 @@
 
 *   [Crypto animal font (⭐3)](https://github.com/ariassd/crypto-animal-font) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
 
-## [4. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [6. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Blogs
 
@@ -56,19 +76,19 @@
 *   [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
 *   [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
 
-## [5. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Crash monitoring
 
 *   [Sentry (⭐592)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
 *   [Implementing DDD, CQRS and Event Sourcing](https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing) - Learn how to implement DDD, CQRS and Event Sourcing. Understand the theory and put it into practice with JavaScript and Node.js.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
@@ -78,13 +98,13 @@
 
 *   🚀 [Starter Dashboard Layout (⭐174)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
-## [8. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [10. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
 *   [Brackets (⭐34k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
-## [9. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [11. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Audio
 
@@ -143,7 +163,7 @@
 *   [Asm::X86](https://metacpan.org/pod/Asm::X86) - List of instructions and registers of x86-compatible processors, validating and converting instructions and memory references
 *   [ELF::Writer](https://metacpan.org/pod/ELF::Writer) - write and read executable ELF files
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -157,13 +177,13 @@
 
 *   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.
 
-## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Style
 
 *   [padding (⭐4)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 

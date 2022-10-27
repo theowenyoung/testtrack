@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,25 +74,31 @@
 
 *   Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess), [iOS](https://apps.apple.com/us/app/omnichess/id1593756511) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
 
-## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+
+### Shell Script Development
+
+*   [bashly (⭐1.3k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+
+## [6. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Code
 
 *   [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
 
-## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [7. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
 *   [CertiGraph (⭐10)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
 *   [moia-dev/lambda-kotlin-request-router (⭐15)](https://github.com/moia-dev/lambda-kotlin-request-router) - A REST request routing layer for AWS lambda handlers written in Kotlin
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Video Collections
 
@@ -102,32 +108,32 @@
 
 *   [GlobalAppTesting engineering](https://gat.engineering) - GlobalAppTesting's engineering blog with materials on practical DDD and CQRS.
 
-## [9. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [10. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Community
 
 *   [`firefox-addon-webextensions` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-addon-webextensions) - Relevant questions.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [imbalanced-ensemble (⭐152)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-otp-2 (⭐11)](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input.
 *   [vue3-otp-input (⭐40)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Runner
 
 *   [Playwright (⭐44k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
-## [13. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
+## [14. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
 ### Backoffice extensions
 
@@ -137,13 +143,13 @@
 
 *   [Clean Starter Kit](https://our.umbraco.com/packages/starter-kits/clean-starter-kit/) - Clean and simple website to get started with
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Password Management
 
 *   [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/strongbox-password-safe/Strongbox) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/strongbox/id1270075435?mt=12)
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Harvard / Commonsense Knowledgebase
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03, 2019
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,19 +35,25 @@
 *   [Laravel Vietnam](https://www.facebook.com/groups/vietnam.laravel/)
 *   [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
 
-## [2. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Paginator
+
+*   [react-laravel-paginex (⭐23)](https://github.com/lionix-team/react-laravel-paginex) - Laravel Pagination with ReactJS (customizable).
+
+## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Patterns / Unspecified License
 
 *   [Hero Patterns](http://www.heropatterns.com/) - A collection of free CC Attribution 4.0 repeatable SVG background patterns.
 
-## [3. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [4. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### Misc
 
 *   [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) - Diverse Teile rund um Homematic zum selbst drucken.
 
-## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [5. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Community
 
@@ -55,37 +61,46 @@
 *   [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
 *   [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 
-## [5. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Programming Language Design Patterns
+
+*   React
+    *   [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+    *   [react-bits (⭐13k)](https://github.com/vasanthk/react-bits)
+    *   [reactpatterns.com](https://reactpatterns.com)
+
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
 *   [Cloudflare (⭐340)](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
-## [6. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [Tcpflow (⭐1.4k)](https://github.com/simsong/tcpflow): A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. Yet, optionally, it can isolate pcap flows per tcp flow for granularized inspection. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
 
-## [7. Awesome Idris](/content/joaomilho/awesome-idris/README.md)
+## [9. Awesome Idris](/content/joaomilho/awesome-idris/README.md)
 
 ### Contents / Books
 
 *   [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti)
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Franz (⭐4.2k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 
-## [9. Bots](/content/hackerkid/bots/README.md)
+## [11. Bots](/content/hackerkid/bots/README.md)
 
 ### Platform Documentation
 
 *   [Hangouts Chat](https://developers.google.com/hangouts/chat/concepts/)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Asynchronous Event Loop
 

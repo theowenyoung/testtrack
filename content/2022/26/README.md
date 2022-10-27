@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 27 - Jul 03, 2022
 
-46 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,7 +55,24 @@
 
 *   [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NIPS'21 AIPLANS Workshop***, 2021. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State\&btnG=)].
 
-## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Runtime / Playground
+
+*   [typescript-json (⭐1.3k)](https://github.com/samchon/typescript-json) - Super-fast runtime type checkers (validators) and 5x faster `JSON.stringify()` function, with only line. For reference, only `typscript-json` can validate complicate union type.
+
+### Back-end API / Playground
+
+*   :octocat: [Nest (⭐52k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
+    *   :octocat: [nestia (⭐386)](https://github.com/samchon/nestia) - Automatic SDK and Swagger generator for the `NestJS`, evoled than ever. It does not require any swagger or DTO class decorator, therefore using pure interface typed DTO is possible.
+    *   :octocat: [nestia-helper (⭐29)](https://github.com/samchon/nestia-helper) - Helper library of `NestJS`, which boosts up `JSON.stringify()` functions about 5x times faster, of the API responses. Also, converts `TypeGuardError` of [`TSON.assertType`](https://github.com/samchon/typescript-json#runtime-type-checkers) to 400 status error automatically, therefore you can easily validate client request with only one line.
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [TypeORM (⭐30k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+    *   :octocat: [Safe-TypeORM (⭐174)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
+
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / EmberJS
 
@@ -65,7 +82,7 @@
 
 *   [Inside Cryptocurrency](https://inside.com/cryptocurrency). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Frameworks
 
@@ -79,7 +96,7 @@
 
 *   [PHPGGC (⭐2.4k)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -150,7 +167,7 @@
 *   [ysr (⭐0)](https://github.com/raykle/ysr-zsh-theme) - Based on [ys (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme). Includes `git` status decorations.
 *   [zeta (⭐211)](https://github.com/skylerlee/zeta-zsh-theme) - Shows decorations for username, `git` status information, machine name, the current working directory and success/fail status of last command.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / E-commerce
 
@@ -182,7 +199,7 @@
 
 *   [GitPrep (⭐875)](https://github.com/yuki-kimoto/gitprep) - Portable Github clone. ([Demo](https://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi)) `Artistic-2.0` `Perl`
 
-## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Scripting
 
@@ -215,7 +232,7 @@
 
 *   [BlazeMeter Blog](https://www.blazemeter.com/blog) - BlazeMeter blog about JMeter and performance testing.
 
-## [11. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Build Automation and Package management
 
@@ -238,7 +255,7 @@
 
 *   [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos): Fun and beginner friendly content related to the overall clojure ecosystem
 
-## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -248,19 +265,19 @@
 
 *   [TensorLayerX (⭐156)](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Networking
 
 *   [open-coap/kotlin-mbedtls (⭐3)](https://github.com/open-coap/kotlin-mbedtls) - Integration with mbedtls library to provide DTLS client and server in jvm
 
-## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Data / Compare
 
 *   [data-diff (⭐1.8k)](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -286,25 +303,25 @@
 
 *   [gakonst/ark-circom (⭐113)](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Keycloak Python Client (⭐8)](https://github.com/keycloak-client/keycloak-client)
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [dirty\_cat (⭐619)](https://github.com/dirty-cat/dirty_cat) - facilitates machine-learning on dirty, non-curated categories. It provides transformers and encoders robust to morphological variants, such as typos.
 
-## [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Articles / Others
 
 *   [3 reasons why I've created yet another library for the downloading on Blazor apps](https://dev.to/j_sakamoto/3-reasons-why-ive-created-yet-another-library-for-the-downloading-on-blazor-apps-2cpk) - June 29, 2022 - 3 reasons why I've created yet another library for the downloading on Blazor apps.
 
-## [19. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Health
 
@@ -314,25 +331,44 @@
 
 *   [Regrid](https://regrid.com/) - A leading provider of land parcels and location context data for your maps, apps and spatial analysis.
 
-## [20. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Workflows
 
 *   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
 
-## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### REST and API
 
 *   :strawberry: [SwaggerBake plugin (⭐48)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
-## [22. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [23. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Cybersworn](https://the-homebrewster.itch.io/cybersworn) - Cyberpunk setting for Starforged
+
+## [24. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Music
 
 *   Relo Music Instrument - [Android](https://play.google.com/store/apps/details?id=ch.astrate.relo), [iOS](https://apps.apple.com/us/app/relo-music-instrument/id1547638708) - First ever RELATIVE music instrument, which is especially suitable for mobile devices and improvisation.
 
-## [23. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [25. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+- : [Alaska Airlines](https://auro.alaskaair.com/)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat:](https://github.com/AlaskaAirlines)
+
+
+
+## [26. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / CLI Tools
 
@@ -342,13 +378,13 @@
 
 *   [push-gvmi (⭐1)](https://github.com/figurestudios/push-gvmi) - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.
 
-## [24. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [27. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 
-## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [28. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -358,14 +394,14 @@
 
 *   [Deepfence PacketStreamer (⭐763)](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
-## [26. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [29. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Recipes
 
 *   [Symfony Recipes (⭐846)](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 *   [Symfony Recipes (Contrib) (⭐466)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
-## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
@@ -379,26 +415,26 @@
 
 *   [gbind (⭐8)](https://github.com/bdjimmy/gbind) - Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation
 
-## [28. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [31. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Community Resources
 
 *   [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Vexip UI (⭐360)](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 *   [argon-dashboard-vue3 (⭐121)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 
-## [30. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [33. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Community / Projects
 
 *   [AlgoTables (⭐3)](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -412,13 +448,13 @@
 *   [On Call Nightmares (retired)](https://podcasts.apple.com/us/podcast/on-call-nightmares-podcast/id1447430839)
 *   [Making of the SRE Omelette](https://open.spotify.com/show/1KxLVUduNdDRAiOw8BB32J)
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
 *   [dry-cli (⭐258)](https://github.com/dry-rb/dry-cli) - General purpose Command Line Interface (CLI) framework for Ruby.
 
-## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Games
 
@@ -432,13 +468,13 @@
 
 *   [czg (⭐337)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 
-## [34. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [37. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [ODMantic (⭐701)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
-## [35. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [38. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -446,7 +482,7 @@
 *   [KFAC-JAX (⭐77)](https://github.com/deepmind/kfac-jax) - Second Order Optimization with Approximate Curvature for NNs. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
 *   [TF2JAX (⭐54)](https://github.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 
-## [36. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Computer Science
 
@@ -456,19 +492,45 @@
 
 *   [DevOps For Dummies, 3rd IBM Limited Edition](https://www.ibm.com/downloads/cas/P9NYOK3B) - Sanjeev Sharma, Bernie Coyne (PDF)
 
-## [37. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [40. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### More resources
 
 *   [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 
-## [38. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [41. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Parser / Package managers
 
 *   [iddev5/inon (⭐8)](https://github.com/iddev5/inon) - Data configuration file format.
 
-## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 2
+
+*   [vite-vue2-ts-template-starter (⭐1)](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
+
+### Templates / Electron
+
+*   [vite-plugin-electron-renderer (⭐6)](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+
+### Templates / Elm
+
+*   [vite-elm-spa (⭐4)](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
+
+### Framework-agnostic Plugins / Testing
+
+*   [vitest-mock-extended (⭐24)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+
+### OctoberCMS / Community
+
+*   [Vitewind (⭐9)](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
+
+### Apps/Websites / Community
+
+*   [react-keyboard-navigator (⭐15)](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
+
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Syntax / Diagnostics
 
@@ -490,14 +552,14 @@
 
 *   [mcauley-penney/tidy.nvim (⭐72)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
-## [40. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [44. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Official Resources and Documentation
 
 *   [Jupyter documentation](https://docs.jupyter.org/en/latest/index.html)
 *   [JupyterLab documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 
-## [41. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [45. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Videos / Unspecified License
 
@@ -507,13 +569,1214 @@
 
 *   [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
 
-## [42. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [46. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Hosting:
+
+- Website: <https://netlify.com>
+
+  Description: **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.
+
+
+- Website: <https://firebase.google.com>
+
+  Description: **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises
+
+
+- Website: <https://aws.amazon.com>
+
+  Description: **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.
+
+
+- Website: <https://heroku.com>
+
+  Description: **Heroku** is the platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand. It helps you focus and invest in your apps and not ops.
+
+
+- Website: <https://pages.github.com>
+
+  Description: **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.
+
+
+- Website: <https://vercel.com>
+
+  Description: **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.
+
+
+- Website: <https://surge.sh>
+
+  Description: **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.
+
+
+- Website: <https://render.com>
+
+  Description: **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
+
+
+- Website: <https://docs.gitlab.com/ee/user/project/pages>
+
+  Description: **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.
+
+
+- Website: <https://stormkit.io>
+
+  Description: **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.
+
+
+- Website: <https://www.digitalocean.com/>
+
+  Description: **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.
+
+
+- Website: <https://www.000webhost.com/>
+
+  Description: **000webhostapp** is zero cost website hosting with PHP, MySQL, Cpanel & no ads. Its servers use advanced firewalls and include DDoS protection.
+
+
+- Website: <https://infinityfree.net/>
+
+  Description: **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.
+
+
+- Website: <https://pages.cloudflare.com/>
+
+  Description: **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.
+
+
+
+### Learning Platforms:
+
+- Website: <https://freecodecamp.org>
+
+
+- Website: <https://www.lambdatest.com/learning-hub/>
+
+
+- Website: <https://codecademy.com>
+
+
+- Website: <https://javascript30.com>
+
+
+- Website: <https://testautomationu.applitools.com>
+
+
+- Website: <https://coursera.org>
+
+
+- Website: <https://edx.org>
+
+
+- Website: <https://khanacademy.org>
+
+
+- Website: <https://sololearn.com>
+
+
+- Website: <https://www.theodinproject.com>
+
+
+- Website: <https://javascript.info/>
+
+
+- Website: <https://vueschool.io/>
+
+
+- Website: <https://www.guru99.com/>
+
+
+- Website: <https://trailhead.salesforce.com/>
+
+
+- Website: <https://ocw.mit.edu/>
+
+
+- Website: <https://open.appacademy.io/>
+
+
+- Website: <https://web.dev/>
+
+
+- Website: <https://scrimba.com>
+
+
+- Website: <https://thegymnasium.com>
+
+
+- Website: <https://www.amigoscode.com>
+
+
+- Website: <https://cssbattle.dev/>
+
+
+- Website: <https://bento.io/>
+
+
+- Website: <https://fullstackopen.com/en/>
+
+
+- Website: <https://upskillcourses.com/courses>
+
+
+- Website: <https://www.geeksforgeeks.org/web-development/>
+
+
+- Website: <https://hackdesign.org/lessons>
+
+
+- Website: <https://javatpoint.com>
+
+
+- Website: <https://www.codementor.io/events>
+
+
+- Website: <https://eloquentjavascript.net/>
+
+
+- Website: <https://skillcombo.com/courses/development/web-development/free/>
+
+
+
+### Coding Challenge Platforms:
+
+- Website: <https://frontendmentor.io>
+
+
+- Website: <https://codewars.com>
+
+
+- Website: <https://topcoder.com>
+
+
+- Website: <https://codingame.com>
+
+
+- Website: <https://hackerrank.com>
+
+
+- Website: <https://projecteuler.net>
+
+
+- Website: <https://coderbyte.com>
+
+
+- Website: <https://codechef.com>
+
+
+- Website: <https://exercism.io>
+
+
+- Website: <https://leetcode.com>
+
+
+- Website: <https://spoj.com>
+
+
+- Website: <https://codeforces.com>
+
+
+- Website: <https://codesignal.com>
+
+
+- Website: <https://devchallenges.io>
+
+
+- Website: <https://www.hackerearth.com>
+
+
+- Website: <https://www.frontendpractice.com>
+
+
+- Website: <https://css-challenges.com>
+
+
+- Website: <https://100dayscss.com>
+
+
+- Website: <https://codepip.com>
+
+
+- Website: <https://triplebyte.com>
+
+
+- Website: <https://edabit.com>
+
+
+- Website: <https://www.jschallenger.com>
+
+
+- Website: <https://www.codingninjas.com>
+
+
+
+### Freelancing platforms:
+
+- Website: <https://toptal.com>
+
+
+- Website: <https://upwork.com>
+
+
+- Website: <https://freelancer.com>
+
+
+- Website: <https://peopleperhour.com>
+
+
+- Website: <https://simplyhired.com>
+
+
+- Website: <https://envato.com>
+
+
+- Website: <https://guru.com>
+
+
+- Website: <https://fiverr.com>
+
+
+- Website: <https://hireable.com>
+
+
+- Website: <https://6nomads.com>
+
+
+- Website: <https://www.gun.io>
+
+
+- Website: <https://www.refrens.com>
+
+
+
+### Remote Jobs:
+
+- Website: <https://flexjobs.com>
+
+
+- Website: <https://remote.co/remote-jobs>
+
+
+- Website: <https://justremote.co>
+
+
+- Website: <https://weworkremotely.com>
+
+
+- Website: <https://remoteok.io>
+
+
+- Website: <https://himalayas.app>
+
+
+- Website: <https://jobspresso.co>
+
+
+- Website: <https://wfh.io>
+
+
+- Website: <https://4dayweek.io>
+
+
+- Website: <https://www.hiretechladies.com>
+
+
+- Website: <https://nowhiteboard.org>
+
+
+- Website: <https://www.coolstartupjobs.com>
+
+
+- Website: <https://angel.co>
+
+
+
+### Photos:
+
+- Website: <https://unsplash.com>
+
+
+- Website: <https://pixabay.com>
+
+
+- Website: <https://pexels.com>
+
+
+- Website: <https://reshot.com>
+
+
+- Website: <https://librestock.com>
+
+
+- Website: <https://visualhunt.com>
+
+
+- Website: <https://freephotos.cc>
+
+
+- Website: <https://picjumbo.com>
+
+
+- Website: <https://www.pxfuel.com>
+
+
+
+### Illustrations:
+
+- Website: <https://icons8.com/illustrations>
+
+
+- Website: <https://www.opendoodles.com>
+
+
+- Website: <https://undraw.co/illustrations>
+
+
+- Website: <https://drawkit.io>
+
+
+- Website: <https://icons8.com/ouch>
+
+
+- Website: <https://iradesign.io>
+
+
+- Website: <https://interfacer.xyz>
+
+
+- Website: <https://blush.design>
+
+
+- Website: <https://storyset.com>
+
+
+- Website: <https://themeisle.com/illustrations>
+
+
+- Website: <https://www.manypixels.co/gallery>
+
+
+- Website: <https://www.artify.co/illustrations-figma>
+
+
+
+### Icons:
+
+- Website: <https://fontawesome.com>
+
+
+- Website: <https://flaticon.com>
+
+
+- Website: <https://icons8.com>
+
+
+- Website: <https://iconfinder.com>
+
+
+- Website: <https://material.io/resources/icons>
+
+
+- Website: <https://iconmonstr.com>
+
+
+- Website: <https://heroicons.com>
+
+
+- Website: <https://boxicons.com>
+
+
+- Website: <https://css.gg>
+
+
+- Website: <https://lineicons.com>
+
+
+- Website: <https://icons.modulz.app>
+
+
+- Website: <https://remixicon.com>
+
+
+- Website: <https://tablericons.com>
+
+
+- Website: <https://simpleicons.org>
+
+
+- Website: <https://feathericons.com>
+
+
+- Website: <https://svgrepo.com>
+
+
+- Website: <https://iconic.app>
+
+
+- Website: <https://icomoon.io>
+
+
+- Website: <https://iconscout.com/unicons>
+
+
+- Website: <https://holasvg.com/icons>
+
+
+- Website: <https://fontello.com>
+
+
+- Website: <https://fontastic.me>
+
+
+- Website: <https://ionic.io/ionicons>
+
+
+- Website: <https://icons.getbootstrap.com>
+
+
+- Website: <https://www.iconspedia.com>
+
+
+- Website: <https://favicons.beaubus.com/>
+
+
+- Website: <https://www.3dicons.com/>
+
+
+
+### Fonts:
+
+- Website: <https://fonts.google.com>
+
+
+- Website: <https://fontspace.com>
+
+
+- Website: <https://1001fonts.com>
+
+
+- Website: <https://ffonts.net>
+
+
+- Website: <https://fontfabric.com>
+
+
+- Website: <https://urbanfonts.com>
+
+
+- Website: <https://www.fontpair.co>
+
+
+
+### Youtube Channels:
+
+- Website: [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+
+
+- Website: [freeCodeCamp.org](https://www.youtube.com/c/FreeCodeCamp)
+
+
+- Website: [The Net Ninja](https://youtube.com/c/TheNetNinja)
+
+
+- Website: [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers)
+
+
+- Website: [Derek Banas](https://www.youtube.com/c/derekbanas)
+
+
+- Website: [Academind](https://www.youtube.com/c/Academind)
+
+
+- Website: [CodingTech](https://www.youtube.com/c/CodingTech)
+
+
+- Website: [Codú Community](https://www.youtube.com/channel/UCvI5azOD4eDumpshr00EfIw)
+
+
+- Website: [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/)
+
+
+- Website: [Dev Ed](https://www.youtube.com/c/DevEd/)
+
+
+- Website: [CodeSTACKr](https://youtube.com/c/codeSTACKr)
+
+
+- Website: [Coding Addict](https://www.youtube.com/c/CodingAddict)
+
+
+- Website: [Kevin Powell](https://youtube.com/kepowob)
+
+
+- Website: [Code with Ania Kubów](https://youtube.com/c/AniaKub%C3%B3w)
+
+
+- Website: [The Coding Train](https://www.youtube.com/c/TheCodingTrain/)
+
+
+- Website: [kudvenkat](https://www.youtube.com/user/kudvenkat)
+
+
+- Website: [Program With Erik](https://www.youtube.com/c/ProgramWithErik)
+
+
+- Website: [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
+
+
+- Website: [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+
+
+- Website: [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)
+
+
+- Website: [Wes Bos](https://www.youtube.com/wesbos)
+
+
+- Website: [DesignCourse](https://www.youtube.com/c/DesignCourse)
+
+
+- Website: [codedamn](https://www.youtube.com/c/codedamn)
+
+
+- Website: [ProgrammingWithMosh](https://www.youtube.com/c/programmingwithmosh)
+
+
+- Website: [Fireship](https://www.youtube.com/c/Fireship)
+
+
+- Website: [Codevolution](https://www.youtube.com/c/Codevolution)
+
+
+- Website: [Buddy](https://youtube.com/c/BuddyWorks)
+
+
+- Website: [CSS Weekly](https://www.youtube.com/c/cssweekly)
+
+
+
+### Podcasts:
+
+- Website: [Syntax](https://syntax.fm/)
+
+
+- Website: [Fullstack radio](https://fullstackradio.com)
+
+
+- Website: [The Changelog](https://changelog.com/)
+
+
+- Website: [The Laracasts Snippet](https://laracasts.com/podcast)
+
+
+- Website: [Front End Happy Hour](https://frontendhappyhour.com/)
+
+
+- Website: [JavaScript Jabber](https://javascriptjabber.com/)
+
+
+- Website: [Commit Your Code!](https://anchor.fm/commityourcode)
+
+
+- Website: [Shop Talk](https://shoptalkshow.com/)
+
+
+- Website: [Ladybug Podcast](https://www.ladybug.dev/)
+
+
+- Website: [CodePen Radio](https://blog.codepen.io/radio/)
+
+
+- Website: [JAMStack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
+
+
+- Website: [Modern Web](https://www.thisdot.co/modern-web)
+
+
+- Website: [DevDiscuss](https://dev.to/devdiscuss)
+
+
+- Website: [DevNews](https://dev.to/devnews)
+
+
+- Website: [React Native Radio](https://reactnativeradio.com/)
+
+
+- Website: [Html All The Things](https://podcast.htmlallthethings.com/)
+
+
+- Website: [The CSS Podcast](https://thecsspodcast.libsyn.com/)
+
+
+- Website: [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
+
+
+
+### Code Editors:
+
+- Website: [VS Code](https://code.visualstudio.com/)
+
+
+- Website: [Sublime Text](https://www.sublimetext.com/)
+
+
+- Website: [Atom](https://atom.io/)
+
+
+- Website: [Brackets](http://brackets.io/)
+
+
+- Website: [emacs](https://www.gnu.org/software/emacs/)
+
+
+- Website: [Vim](https://www.vim.org/)
+
+
+- Website: [Spacemacs](https://www.spacemacs.org/)
+
+
+- Website: [Neovim](https://neovim.io/)
+
+
+- Website: [Fleet](https://www.jetbrains.com/fleet/)
+
+
+
+### Color Palettes:
+
+- Website: <https://coolors.co>
+
+
+- Website: <https://colorhunt.co>
+
+
+- Website: <https://paletton.com>
+
+
+- Website: <https://color-hex.com>
+
+
+- Website: <https://mycolor.space>
+
+
+- Website: <https://flatuicolors.com>
+
+
+- Website: <https://color.adobe.com>
+
+
+- Website: <https://htmlcolorcodes.com>
+
+
+- Website: <https://colorsinspo.com>
+
+
+- Website: <https://uigradients.com>
+
+
+- Website: <https://www.colorion.co>
+
+
+- Website: <https://www.gradientos.app>
+
+
+- Website: <https://cssgradient.io>
+
+
+- Website: <https://www.0to255.com>
+
+
+
+### UI Inspiration:
+
+- Website: <https://uimovement.com>
+
+
+- Website: <https://uigarage.net>
+
+
+- Website: <https://collectui.com>
+
+
+- Website: <https://httpster.net>
+
+
+- Website: <https://dribbble.com>
+
+
+- Website: <https://onepagelove.com>
+
+
+- Website: <https://www.behance.net>
+
+
+- Website: <https://tympanus.net>
+
+
+
+### Docs:
+
+- Website: <https://developer.mozilla.org>
+
+
+- Website: <https://w3schools.com>
+
+
+- Website: <https://w3docs.com>
+
+
+- Website: <https://devdocs.io>
+
+
+
+### Animation Libraries:
+
+- Website: [CSShake](https://elrumordelaluz.github.io/csshake/)
+
+
+- Website: [Animate.css](https://animate.style/)
+
+
+- Website: [AnimeJS](https://animejs.com/)
+
+
+- Website: [GreenSock (GSAP)](https://greensock.com/gsap/)
+
+
+- Website: [Magic Animations](https://www.minimamente.com/project/magic/)
+
+
+- Website: [Hover css](https://ianlunn.github.io/Hover/)
+
+
+- Website: [AniJS](https://anijs.github.io/)
+
+
+- Website: [Wicked CSS](https://kristofferandreasen.github.io/wickedCSS/)
+
+
+- Website: [Tuesday](http://shakrmedia.github.io/tuesday/)
+
+
+- Website: [Mo.js](https://mojs.github.io/)
+
+
+- Website: [AOS](https://michalsnik.github.io/aos/)
+
+
+- Website: [Velocity.js](http://velocityjs.org/)
+
+
+- Website: [Popmotion](https://popmotion.io/)
+
+
+- Website: [Snap.svg](http://snapsvg.io/)
+
+
+- Website: [Animista](https://animista.net/)
+
+
+- Website: [Lottie-Player](https://lottiefiles.com/web-player)
+
+
+- Website: [Framer motion](https://www.framer.com/motion)
+
+
+
+### Charts:
+
+- Website: [Chart.js](https://www.chartjs.org/)
+
+
+- Website: [D3.js](https://d3js.org/)
+
+
+- Website: [three.js](https://threejs.org/)
+
+
+- Website: [amCharts](https://www.amcharts.com/)
+
+
+- Website: [Charts.css](https://chartscss.org/)
+
+
+
+### Chrome Extensions:
+
+- Website: [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+
+
+- Website: [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+
+
+- Website: [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+
+
+- Website: [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+
+
+- Website: [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
+
+
+- Website: [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
+
+
+- Website: [Checkbot - SEO, speed & security checker](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
+
+
+- Website: [Performance-Analyser](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)
+
+
+- Website: [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+
+
+- Website: [Visbug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)
+
+
+- Website: [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)
+
+
+- Website: [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+
+
+
+### Website Optimization Tools:
+
+- Website: [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+
+- Website: [GTmetrix](https://gtmetrix.com/)
+
+
+- Website: [WebPageTest](https://www.webpagetest.org)
+
+
+- Website: [Yslow](http://yslow.org/)
+
+
+- Website: [web.dev](https://web.dev/measure/)
+
+
+- Website: [asayer](https://asayer.io/)
+
+
+- Website: [Optimizilla](https://imagecompressor.com/)
+
+
+
+### HTML/CSS/JavaScript templates:
+
+- Website: <https://htmlrev.com>
+
+
+- Website: <https://www.tooplate.com>
+
+
+- Website: <https://html5up.net>
+
+
+- Website: <https://templatemo.com>
+
+
+- Website: <https://uideck.com>
+
+
+- Website: <https://freehtml5.co>
+
+
+- Website: <https://www.zerotheme.com>
+
+
+- Website: <https://bootstrapmade.com>
+
+
+- Website: <https://graygrids.com>
+
+
+- Website: <https://themeselection.com>
+
+
+
+### Newsletters:
+
+- Website: [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+
+  Topics: Front-end and UX.
+
+
+- Website: [Frontend Focus](https://frontendfoc.us/)
+
+  Topics: HTML, CSS, WebGL, Canvas, browser tech, and more.
+
+
+- Website: [CSS Weekly](https://css-weekly.com/)
+
+  Topics: CSS.
+
+
+- Website: [JavaScript Weekly](https://javascriptweekly.com/)
+
+  Topics: JavaScript.
+
+
+- Website: [Accessibility Weekly](https://a11yweekly.com/)
+
+  Topics: Accessibility.
+
+
+- Website: [RWD Weekly Newsletter](https://responsivedesign.is/newsletter/)
+
+  Topics: Responsive web design.
+
+
+- Website: [JAMstacked](https://jamstack.email/)
+
+  Topics: JAMstack ecosystem.
+
+
+- Website: [UI Dev Newsletter](https://mentor.silvestar.codes/reads/)
+
+  Topics: User Interface development.
+
+
+- Website: [Go Make Things](https://gomakethings.com/)
+
+  Topics: Daily Vanilla JavaScript.
+
+
+
+### CSS Generators:
+
+- Website: [Glassmorphism Generators](https://markodenic.com/tools/glassmorphism-css-generator/)
+
+  Description: Use Glassmorphism Generator to create a stunning effect for your projects.
+
+
+- Website: [Buttons Generator](https://markodenic.com/tools/buttons-generator/)
+
+  Description: An online gallery of 100+ button designs you can easily copy and use in your projects.
+
+
+- Website: [Layoutit Grid](https://grid.layoutit.com/)
+
+  Description: Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
+
+
+- Website: [CSS Gradient Editor](https://cssgradienteditor.com/)
+
+  Description: You may only need this tool for creating CSS gradients and patterns.
+
+
+- Website: [Hola SVG Loaders Generator](https://holasvg.com/loaders/)
+
+  Description: SVG Loaders Generator with Sass and SMIL options
+
+
+- Website: [Shape Divider](https://www.shapedivider.app/)
+
+  Description: A free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project.
+
+
+- Website: [BEAUBUS Patterns](https://patterns.beaubus.com/)
+
+  Description: 150+ free SVG patterns and CSS background images generator
+
+
+- Website: [9elements - Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+
+  Description: 9elements is a little tool, that helps you create your very own organic shape. When you use four/eight values specifying border-radius in CSS, you can create organic looking shapes.
+
+
+- Website: [Blobmaker](https://www.blobmaker.app/)
+
+  Description: Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.
+
+
+- Website: [Toptal CSS3 Generator](https://www.toptal.com/developers/css3maker)
+
+  Description: A free online tool for quickly generating CSS3 snippets, such as for effects, gradients and animations.
+
+
+
+### Online Tools:
+
+- Website: [PRM](https://prm.pushkaryadav.in/)
+
+  Description: Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile
+
+
+- Website: [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)
+
+  Description: Use QR code generator to easily create a QR code for your project.
+
+
+- Website: [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker)
+
+  Description: Scan your project to ensure that Google Analytcs tag is properly set.
+
+
+- Website: [Gradient Art](https://gra.dient.art/)
+
+  Description: An advanced CSS gradient editor with layering, design tools and free cloud storage
+
+
+- Website: [JSONT](https://www.jsont.run/)
+
+  Description: A simple and powerful JSON formatting tool
+
+
+- Website: [Codepng](https://codepng.app/)
+
+  Description: Convert your source code into awesome shareable images
+
+
+- Website: [yuyu.ai](https://yuyu.ai/)
+
+  Description: Is a frontend ai tool to generate html and css instantly from a jpg or png file.
+
+
+
+### UI Components:
+
+- Website: [CssLayout](https://csslayout.io/)
+
+  Description: A site with multiple css code snippets for very frequently used components in day to day web pages
+
+
+- Website: [TailGrids](https://tailgrids.com/)
+
+  Description: 300+ Free and Premium Tailwind CSS UI Components and Sections
+
+
+- Website: [Ayro UI Bootstrap](https://ayroui.com/)
+
+  Description: Bootstrap UI components, snippets and sections for modern web apps
+
+
+- Website: [UI Hut](https://www.uihut.com/home)
+
+  Description: Free (and premium) UI compontents or templates for Bootstrap, figma, XD, PSD etc..
+
+
+- Website: [uiverse](https://uiverse.io)
+
+  Description: Open-Source UI elements made with CSS & HTML where anyone can contribute.
+
+
+
+### Vue UI libraries:
+
+- Website: [Vuetify](https://vuetifyjs.com/)
+
+  Description: Vuetify is a semantic component framework for Vue. It aims to provide clean, semantic and reusable components that make building your application a breeze. Build amazing applications with the power of Vue, Material Design and a massive library of beautifully crafted components and features.
+
+
+- Website: [Vue Material](https://vuematerial.io/)
+
+  Description: Simple, lightweight and built exactly according to the Google Material Design specs.
+
+
+- Website: [BootstrapVue](https://bootstrap-vue.org/)
+
+  Description: BootstrapVue provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js. With extensive and automated WAI-ARIA accessibility markup.
+
+
+
+### React UI libraries:
+
+- Website: [Material-UI](https://material-ui.com/)
+
+  Description: Simple and customizable component library to build faster, beautiful, and more accessible React applications.
+
+
+- Website: [Ant Design](https://ant.design/)
+
+  Description: An enterprise-class UI design language and React UI library.
+
+
+- Website: [React Bootstrap](https://react-bootstrap.github.io/)
+
+  Description: Bootstrap components built with React.
+
+
+- Website: [Semantic UI React](https://react.semantic-ui.com/)
+
+  Description: Semantic UI React is the official React integration for Semantic UI .
+
+
+- Website: [Chakra UI](https://chakra-ui.com/)
+
+  Description: A simple, modular and accessible component library that gives you the building blocks you need to build your React applications
+
+
+- Website: [NativeBase](https://nativebase.io/)
+
+  Description: NativeBase is an accessible, utility-first component library that helps you build consistent UI across Android, iOS and Web.
+
+
+
+### Angular UI libraries:
+
+- Website: [Taiga UI](https://taiga-ui.dev/)
+
+  Description: A powerful set of open source components for Angular
+
+
+
+### Others:
+
+- Website: [MDB: Markdwon Badges](https://mdb.pushkaryadav.in/)
+
+  Description: Generate amazing svg markdown badges within few clicks
+
+
+- Website: [Markdown Preview](https://freecodetools.org/markdown-preview/)
+
+  Description: Markdown Editor with instant preview using GitHub CSS.
+
+
+- Website: [JavaScript Quiz](https://javascriptquiz.com)
+
+  Description: JavaScript Quiz - Check your knowledge by having fun.
+
+
+- Website: [CookieBubble](https://cookiebubble.netlify.app)
+
+  Description: The easy way to inform users that your website is using cookies.
+
+
+- Website: [Developer Updates](https://www.developerupdates.com)
+
+  Description: Keeps you updated one everything going on in the software developement world
+
+
+- Website: [Boxy SVG Editor](https://boxy-svg.com/)
+
+  Description: SVG Editing Tool - Here you can easily edit and save any SVG file
+
+
+- Website: [Cssrepo](https://cssrepo.com/)
+
+  Description: A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS
+
+
+- Website: [Web Searcher](https://websearcher.vercel.app/)
+
+  Description: Create Open Graph, Twitter and basic meta tags easily
+
+
+- Website: [MakeMeta](https://makemeta.app/)
+
+  Description: Effortlessly generate Meta Tags for your website!
+
+
+
+## [47. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Communities / Forums
 
 *   [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
-## [43. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [48. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
@@ -524,7 +1787,7 @@
 
 *   [Awesome Electronics (⭐4.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
-## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -542,7 +1805,7 @@
 
 *   [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -565,7 +1828,18 @@
 
 *   [Shotstack](https://shotstack.io) - API to generate and edit video at scale. Free up to 20 minutes of rendered video per month
 
-## [46. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [51. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### OS Encryption
+
+*   [Cryptsetup](https://gitlab.com/cryptsetup/cryptsetup) - Full disk encryption for Linux. Cryptsetup is a utility used to conveniently set up disk encryption based
+    on the DMCrypt kernel module.
+
+### Plugins for Minecraft
+
+*   [No-Telemetry (⭐148)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
+
+## [52. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Monitoring
 

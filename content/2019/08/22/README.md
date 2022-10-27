@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,7 +76,13 @@
 
 *   [Boss (⭐361)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Testing
+
+*   [*Testing Swift* by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift)
+
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Reference
 
@@ -86,13 +92,13 @@
 
 *   [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. BSD.
 
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Content Management Systems / Videos
 
 *   [Twill (⭐2.9k)](https://github.com/area17/twill)
 
-## [7. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [8. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Video Guides / update
 

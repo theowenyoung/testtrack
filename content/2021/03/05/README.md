@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,7 +49,13 @@
 
 *   [Introduction to Complex Analysis](https://mtaylor.web.unc.edu/wp-content/uploads/sites/16915/2018/04/complex.pdf) - Michael Taylor
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-handlebars (⭐97)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
@@ -59,7 +65,7 @@
 
 *   [tveskag/nvim-blame-line (⭐154)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
@@ -72,20 +78,28 @@
 *   [Multiple Panels with Sliding Splitters](https://www.youtube.com/watch?v=fNDd7moZJ4c) - March 5, 2021 - Blazor Train, episode 40: Multiple Panels with Sliding Splitters.
 *   [Blazor WebAssembly : JavaScript Isolation](https://www.youtube.com/watch?v=tbNgLNZnNWM) - ![duration](https://img.shields.io/badge/Duration:%20-5%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 1, 2021 - Blazor WebAssembly : JavaScript Isolation, by Curious Drive. This video is about how you can isolate JavaScript files in Blazor applications. With JavaScript isolation you can load your JavaScript files only when needed. [Source code (⭐347)](https://github.com/CuriousDrive/BlazingChat) ![stars](https://img.shields.io/github/stars/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=86400).
 
-## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [8. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Docker
 
 *   [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
 *   [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
 
-## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [9. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Code Editors:
+
+- Website: [Emacs](https://www.gnu.org/software/emacs/)
+
+
+
+## [10. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Subscription Kit Services / Help
 
 *   [HackerBoxes](https://hackerboxes.com/) - A monthly surprise box which includes projects, components, modules and tools.
 
-## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [11. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Base / Reset / Normalize
 
@@ -118,13 +132,13 @@
     [Docs (⭐1.1k)](https://github.com/vinibiavatti1/TuiCss/wiki)
     \| #SCSS
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
 *   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐100)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -136,7 +150,7 @@
 
 *   [luxon (⭐13k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 
-## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [14. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 
@@ -150,13 +164,13 @@
 
 *   [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Courses
 
 *   [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
 
-## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Open Source / Angular
 

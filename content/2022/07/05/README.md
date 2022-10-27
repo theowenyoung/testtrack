@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 05, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [1. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Open Source / Community
+
+*   [Ladle (⭐1.8k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
+
+## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Misc libraries
 
@@ -26,13 +32,13 @@
 *   [All Your Codebase](https://allyourcodebase.com/) - Development status of Zig and its' ecosystem.
 *   [fubark/cosmic (⭐236)](https://github.com/fubark/cosmic) - A general purpose runtime for Javascript/WASM.
 
-## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [base16 (⭐18)](https://github.com/base16-project/base16-shell) - Adds a script to allow you to change your shell's default ANSI colors but most importantly, colors 17 to 21 of your shell's 256 colorspace (if supported by your terminal). This script makes it possible to honor the original bright colors of your shell (e.g. bright green is still green and so on) while providing additional base16 colors to applications such as [Vim](https://www.vim.org).
 
-## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Python
 
@@ -73,19 +79,52 @@
 *   [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post is a proprietary text and SMS-based on-street public engagement tool that uses physical signage and mobile devices to get citizen feedback, improve wayfinding, promote local events and services, or provide creative educational content.
 *   [Maptionnaire](https://www.maptionnaire.com) - Provides map-based tools for designing questionnaires, collecting survey data, and conveying information.
 
-## [4. Awesome V](/content/vlang/awesome-v/README.md)
+## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Other / IDEs with V
 
 *   [Vide (⭐54)](https://github.com/IsaiahPatton/Vide)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
+
+### Tools / Software
+
+*   ### 2D Game Dev
+    *   🆓 [ShoeBox](http://renderhjs.net/shoebox/) - Drag and drop tools for sprite sheets, bitmap fonts, texture ripping, tile maps and more.
+    *   💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
+    *   💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
+    *   🆓 [Tiled](https://www.mapeditor.org) [:octocat: (⭐9.2k)](https://github.com/mapeditor/tiled) - General purpose tile map editor for all tile-based games.
+*   ### Level Editors
+    *   🆓 [Radiant](https://icculus.org/gtkradiant/) [:octocat: (⭐516)](https://github.com/TTimo/GtkRadiant) - Open source, cross platform level editor for [idTech](https://en.wikipedia.org/wiki/Id_Tech) games.
+    *   🆓 [TrenchBroom](https://trenchbroom.github.io) [:octocat: (⭐1.3k)](https://github.com/TrenchBroom/TrenchBroom) - Level editor for Quake-engine based games.
+*   ### Voxel
+    *   💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
+    *   🎉 [IsoVoxel (⭐326)](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from MagicaVoxel .vox files.
+    *   🆓 [MagicaVoxel](https://ephtracy.github.io) - Free lightweight GPU-based voxel art editor.
+    *   💰 [Qubicle](https://www.getqubicle.com) - (used for Crossy Road, Pacman 256) Voxel editor, easy creation of 3D models.
+
+### Video Game Assets
+
+*   ### Audio Assets
+    *   #### Music
+        *   🆓 [BandLab Sounds](https://www.bandlab.com/sounds/home) - Download unlimited high-quality loops and packs used for music creation.
+        *   💸 [Bensound](https://www.bensound.com/royalty-free-music) - Wonderful, original music tracks, free with attribution. Perfect for games.
+        *   💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
+        *   💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Great mix of free and affordable music loops.
+        *   💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
+        *   💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
+    *   #### Sound Effects
+        *   🆓 [Freesound](https://freesound.org/browse/) - Community based archive of free sound effects.
+        *   💸 [Free Sound Effects](https://www.freesoundeffects.com/) - Large collection of sound effects.
+        *   💰 [Soundsnap](https://www.soundsnap.com) - Subscription based professional sound effects library.
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
 *   [mprocs (⭐555)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
@@ -95,7 +134,7 @@
 
 *   [vue3-click-outside (⭐4)](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -105,7 +144,7 @@
 
 *   [kiruto/debug-bottle (⭐846)](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 

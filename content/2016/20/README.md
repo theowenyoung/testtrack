@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16 - May 22, 2016
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -160,7 +160,34 @@
 
 *   [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)
 
-## [13. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Offline / Visual Studio
+
+*   [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
+    *   [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
+*   [NodeJS Tools for Visual Studio (⭐1.8k)](https://github.com/Microsoft/nodejstools)
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
+*   [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
+*   [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
+*   [TypeScript Sublime Plugin (⭐1.7k)](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
+*   [Atom TypeScript (⭐1.1k)](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
+*   [TypeScript Interactive Development Environment for Emacs (⭐1.4k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
+*   [TypeScript Syntax for VIM (⭐1.8k)](https://github.com/leafgarland/typescript-vim)
+
+### Online / Playground
+
+*   [TypeScript playground-on-ace (⭐88)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
+*   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
+*   [Codepen](http://codepen.io/) (Select TypeScript)
+*   [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
+*   [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
+
+## [14. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### ImageNet Classification
 
@@ -262,32 +289,32 @@
 
 *   \[CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
 
-## [14. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
 *   [nagios-plugin-mongodb (⭐350)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Miscellaneous
 
 *   [noCAPTCHA (⭐339)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / PHP SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### REST and API
 
 *   [ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
 
-## [18. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [19. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Eddystone by Google
 
@@ -311,7 +338,7 @@
 
 *   [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 
-## [19. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [20. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### List of Lists
 
@@ -583,7 +610,7 @@
 
 
 
-## [20. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [21. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / Custom Controls
 
@@ -622,7 +649,7 @@
 
 *   [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
-## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Domain Analysis / Other Resources
 
@@ -660,19 +687,19 @@
     This package contains most of the software referenced in the Practical Malware
     Analysis book.
 
-## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [23. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 
-## [23. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [24. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Libraries & Packages
 
 *   [`react-relay-network-layer`](https://github.com/nodkz/react-relay-network-layer) - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
 
-## [24. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [25. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Databases / Scala
 
@@ -682,14 +709,14 @@
 
 *   [Say Hello to Offline-First](https://www.youtube.com/watch?v=nNfaxNdyCgI) By Ola Gasidlo
 
-## [25. Tips](/content/git-tips/tips/week/README.md)
+## [26. Tips](/content/git-tips/tips/week/README.md)
 ## Change previous two commits with an interactive rebase.
 
 ```sh
 git rebase --interactive HEAD~2
 ```
 
-## [26. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [27. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Featured
 
@@ -703,19 +730,19 @@ git rebase --interactive HEAD~2
 
 *   [electron-quick-start (⭐10k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 
-## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Apache APEX](https://apex.apache.org/) - a unified, enterprise platform for big data stream and batch processing.
 
-## [28. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [29. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
 *   [libmir](https://github.com/libmir) - D's numeric library development team
 
-## [29. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [30. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
@@ -725,7 +752,7 @@ git rebase --interactive HEAD~2
 *   [gulp-ava (⭐56)](https://github.com/avajs/gulp-ava) - Run tests with Gulp.
 *   [grunt-ava (⭐7)](https://github.com/avajs/grunt-ava) - Run tests with Grunt.
 
-## [30. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [31. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tutorials
 
@@ -742,14 +769,14 @@ git rebase --interactive HEAD~2
 
 *   [DeepMind QA Corpus (⭐1.3k)](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
 *   [haxor-news (⭐3.8k)](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 *   [Reddit Terminal Viewer (⭐4.6k)](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 
-## [32. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [33. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -779,19 +806,19 @@ git rebase --interactive HEAD~2
 *   [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8) - John Cuthbertson.
 *   [JVM Mechanics](https://vimeo.com/120533011) - Douglas Hawkins.
 
-## [33. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [34. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Miscellaneous
 
 *   [JMDUnoconvBundle (⭐0)](https://github.com/mops1k/JMDUnoconvBundle) - Bundle which provides gate for converting files from one format to another via unoconv (LibreOffice) thru php-unoconv library.
 
-## [34. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -821,13 +848,13 @@ git rebase --interactive HEAD~2
 
 *   [exsolr (⭐21)](https://github.com/dcarneiro/exsolr) - A Solr wrapper written in Elixir.
 
-## [36. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [37. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Articles
 
 *   [Everywhereness as a foundation](http://staltz.com/everywhereness-as-a-foundation.html) - Benefits of using Observables everywhere.
 
-## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -837,7 +864,7 @@ git rebase --interactive HEAD~2
 
 *   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) module to perform graph-related parallel computation.
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -880,7 +907,7 @@ git rebase --interactive HEAD~2
 
 *   [SwiftTweaks (⭐1.4k)](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
 
-## [39. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [40. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -894,7 +921,7 @@ git rebase --interactive HEAD~2
 
 *   [RxKotlin/Pocket (⭐30)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
-## [40. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [41. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Tutorials and articles
 
@@ -962,7 +989,7 @@ git rebase --interactive HEAD~2
 *   [A Better Router for Backbone and Marionette Applications (⭐70)](https://github.com/Betterment/backbone.blazer)
 *   [Marionette.Toolkit (⭐69)](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 
-## [41. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [42. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -993,7 +1020,7 @@ git rebase --interactive HEAD~2
 *   [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - Control VLC via MQTT.
 *   [xbmc2mqtt (⭐5)](https://github.com/gordonjcp/xbmc-mqtt) - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.
 
-## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [43. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
@@ -1003,7 +1030,7 @@ git rebase --interactive HEAD~2
 
 *   [Doom](https://en.wikipedia.org/wiki/Doom_\(2016_video_game\)) - by id Software.
 
-## [43. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 

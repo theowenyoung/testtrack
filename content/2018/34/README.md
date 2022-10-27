@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20 - Aug 26, 2018
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -942,7 +942,19 @@
 
 *   [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. \[LGPL]
 
-## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [46. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### ReactJS
+
+- Name: [Kitematic (⭐12k)](https://github.com/docker/kitematic)
+
+  Description: Visual Docker Container Management on Mac & Windows
+
+  Link: [https://github.com/docker/kitematic (⭐12k)](https://github.com/docker/kitematic)
+
+
+
+## [47. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -954,7 +966,7 @@
 
 *   [querybuilder (⭐2.5k)](https://github.com/sqlkata/querybuilder) - SqlKata Query Builder is a powerful Sql Query Builder written in C#.
 
-## [47. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [48. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / .NET SDK
 

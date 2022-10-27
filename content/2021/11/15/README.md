@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -93,6 +93,12 @@
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
 *   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐136)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Twitter
+
+*   [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 
 ---
 

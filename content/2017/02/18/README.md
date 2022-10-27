@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,17 @@
 
 *   [Norway](https://www.meetup.com/dddnorway/)
 
-## [5. Colorful](/content/Siddharth11/Colorful/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Pentest Cheatsheets (⭐3k)](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+
+  Description: Collection of the cheat sheets useful for pentesting
+
+
+
+## [6. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Color Palettes / Web App
 

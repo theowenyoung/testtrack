@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,13 +102,19 @@
 *   [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 *   [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [tslog (⭐711)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
+
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Registries / XML
 
 *   [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Parsing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 13, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,14 @@
 
 *   [Scala Algorithms](https://www.scala-algorithms.com/) - a collection of nearly 100 algorithms in pure-functional Scala with test cases, explanations and a web-based IDE. Built with http4s & Scala.js.
 
-## [2. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
+*   [Ironsworn Passions](https://docs.google.com/document/d/1ytKHeNLHOIE8JvL3-TUyIu_pDdP2oS69HbwKNxQ4DuA/view) - Character desires and prejudices
+
+## [3. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Articles
 
@@ -28,7 +35,7 @@
 
 *   [Ally.io](https://ally.io/)
 
-## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Auth
 
@@ -43,13 +50,13 @@
 
 *   [Bunnybook (⭐175)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Typing
 
 *   👍 [Coalton (⭐603)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [5. Awesome Slim](/content/nekofar/awesome-slim/README.md)
+## [6. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
 ### Boilerplate
 
@@ -84,37 +91,37 @@
 *   [Slim Console (⭐26)](https://github.com/slimphp/Slim-Console) - Slim Framework Console.
 *   [Slim Flash (⭐142)](https://github.com/slimphp/Slim-Flash) - Slim Framework flash messages service provider.
 
-## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Tools / Testing Tools
 
 *   [eslint-dashboard (⭐11)](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [Silverback (⭐164)](https://github.com/BEagle1984/silverback) - Framework to build event-driven applications (support for Kafka, RabbitMQ, MQTT).
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources, optimize and report the same. Free for up to $5000 spends on Google Cloud Platform every month.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Operating systems
 
 *   [0x59616e/SteinsOS (⭐83)](https://github.com/0x59616e/SteinsOS)  — An OS for armv8-a architecture.
 
-## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Bindings
 
 *   [cairo-xlib (⭐0)](https://github.com/edadma/cairo-xlib) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) with bindings for [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) as well.
 
-## [11. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [12. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Standout Projects
 

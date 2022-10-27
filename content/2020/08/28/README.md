@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,32 +22,38 @@
 
 
 
-## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Books and Reading / Telegram
+
+*   [MostRecommendedBooks](https://mostrecommendedbooks.com)
+
+## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [The Cybrary Podcast](https://www.cybrary.it/info/cybrary-podcast/) -  It discusses about industry leaders and professionals from all aspects on the cybersecurity and IT fields give insight into how they got where they are today and what new and emerging technology we should be taking notice of.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
 *   [Materialize (⭐4.6k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [Vue-Next-TicTacToe (⭐2)](https://github.com/canersevince/Vue-Next-TicTacToe-Game) - Simple Tic Tac Toe Game made with Vue Next
 
-## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Emacs (⭐202)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 *   [Vim (⭐299)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Guides / Codelabs
 
@@ -57,7 +63,7 @@
 
 *   [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI file player and visualizer web components.
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
@@ -67,13 +73,13 @@
 
 *   [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 
-## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [nbdev (⭐3.8k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
-## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### List / Grid
 
@@ -105,13 +111,13 @@
 
 
 
-## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [monsoon (⭐362)](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -121,7 +127,7 @@
 
 *   [zenduty.com](https://www.zenduty.com/) — End-to-end incident management, alerting, on-call management and response orchestration platform for network operations, site reliability engineering and DevOps teams. Free for upto 5 users.
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29 - Aug 04, 2019
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -533,7 +533,23 @@
 
 *   [Guide - Real World Halogen](https://thomashoneyman.com/guides/real-world-halogen)
 
-## [28. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [28. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / Network Traffic Replay and Editing Tools
+
+*   [TraceWrangler](https://www.tracewrangler.com/) - Network capture file toolkit that can edit and merge `pcap` or `pcapng` files with batch editing features.
+*   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
+*   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
+*   [hping3 (⭐1.2k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
+*   [pig (⭐426)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐8.1k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
+
+### Vulnerability Databases / Social Engineering Tools
+
+*   [Vulmon](https://vulmon.com/) - Vulnerability search engine with vulnerability intelligence features that conducts full text searches in its database.
+
+## [29. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Datasets / Raw Images
 
@@ -551,19 +567,19 @@
 *   Unpublished - Cell painting profiles of 596 overexpressed alleles from 53 genes in A549 cells (Access from public S3 bucket: `s3://cytodata/datasets/LUAD-BBBC043-Caicedo/profiles_cp/LUAD-BBBC043-Caicedo/`)
 *   Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub (⭐28)](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
-## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Comments
 
 *   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
-## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Artificial Intelligence / Machine Learning / Big Data / Angular
 
 *   [The ML Engineer Newsletter](https://ethical.institute/mle.html). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 
-## [31. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [32. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Libraries and Frameworks
 
@@ -577,7 +593,7 @@
 
 *   [extensionizr.com](https://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 
-## [32. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [33. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Introductions
 
@@ -637,19 +653,19 @@
 *   [kody (⭐134)](https://github.com/jh3y/kody)
 *   [osxc](http://osxc.github.io)
 
-## [33. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### SDK / Other
 
 *   [Square Node.js SDK (⭐82)](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 
-## [34. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [35. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [The Quantum Katas (⭐4k)](https://github.com/Microsoft/QuantumKatas)
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### General
 
@@ -674,20 +690,20 @@
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Web UI test automation full-featured framework based on Selenium WebDriver. <https://atata.io>
 *   [SpecFlow (⭐2k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
-## [36. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [37. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
 *   [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
 *   [Morai-Maker-Engine (⭐16)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 
-## [37. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [38. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
 *   **TextRecognition (ML Kit)** - Recognizing text using ML Kit built-in model in real-time. [Download](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Demo (⭐80)](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
 
-## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Note-taking & Editors
 
@@ -701,7 +717,7 @@
 
 *   [django-wiki (⭐1.6k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
 
-## [39. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [40. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -720,7 +736,7 @@
 
 *   [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Auth / Image Picker
 
@@ -754,7 +770,7 @@
 
 *   [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
 
-## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
@@ -766,13 +782,13 @@
 *   [Blazor.LocalFiles (⭐43)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
-## [42. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [43. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [go-stellar-ipfs (⭐25)](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
 
-## [43. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [44. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Database
 
@@ -782,7 +798,7 @@
 
 *   [lf (⭐5k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
-## [44. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [45. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Visual Studio Code
 
@@ -795,25 +811,25 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Laravel File Manager (⭐909)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
-## [46. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [47. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Data Science using Python / Various other helpful tools and resources
 
 *   [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
 
-## [47. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [48. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
 *   [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
 
-## [48. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [49. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -826,7 +842,7 @@
 *   [trident-ml (⭐384)](https://github.com/pmerienne/trident-ml) \[Java] - realtime online machine learning library based on Trident.
 *   [yurita (⭐104)](https://github.com/paypal/yurita) \[Scala] - Anomaly detection framework built on Spark Structured Streaming from Paypal.
 
-## [49. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [50. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -853,13 +869,13 @@
 *   [elmish-wasm (⭐17)](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 *   [elm-serverless (⭐169)](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
-## [50. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [51. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor Mailgun Service (⭐103)](https://github.com/vapor-community/VaporMailgunService) – A service to be used with Vapor to send emails.
 
-## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 

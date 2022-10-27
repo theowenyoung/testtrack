@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2022
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -72,13 +72,27 @@
 
 *   [GitProfile (⭐454)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Remote Jobs:
+
+- Website: <https://www.smartremotejobs.com>
+
+
+
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Embedded Rust programming playlist](https://www.youtube.com/playlist?list=PLP_X41VhYn5X6Wwjnm0bRwI3n2pdaszxU) Various livestreams with Embedded Rust live coding
 
-## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vivu-npm (⭐26)](https://github.com/logustra/vivu-npm) - Starter template to build component library.
+
+## [9. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
@@ -120,11 +134,17 @@
 *   [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
 *   [go-web-framework-benchmark (⭐1.8k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
 *   [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191\&hl=en\&as_sdt=0,5)].
+
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Social Media Tools / Facebook
+
+*   [Facebook Friend List Scraper (⭐103)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
 ---
 

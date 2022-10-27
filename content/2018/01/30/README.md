@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,19 +32,25 @@
 
 *   [Redbird (⭐4.3k)](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support. `BSD-2-Clause` `Javascript`
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Awesome TypeScript Essential Resources
+
+*   :books: [Community Curated Resources](https://hackr.io/tutorials/learn-typescript)
+
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Cryptography
 
 *   [digestpp (⭐147)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
 *   [PlayCanvas](https://playcanvas.com/) \[Cross-platform] - Open source, realtime collaborative WebGL engine.
 
-## [5. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [6. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### code/project generators
 
@@ -52,13 +58,13 @@
 *   **[generate-swap-project](https://www.npmjs.com/package/generate-swap-project)** - Generate Your ESNext+StandardJS+Mocha Ready, NodeJS Projects in Seconds!
 *   **[generate-swap-generator](https://www.npmjs.com/package/generate-swap-generator)** Generate Your Own ESNext+StandardJS+Mocha Ready NodeJS Generators In Seconds!
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Literature / Education
 
 *   [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course with AWS and Serverless Framework. Build a production like app using the most common AWS Serverless services.
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ionic
 
@@ -68,7 +74,7 @@
 
 *   [21 Essential Java Interview Questions](http://www.toptal.com/java/interview-questions)
 
-## [8. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [9. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Other awesome lists / Twitter
 

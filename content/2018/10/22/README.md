@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2018
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,25 +96,72 @@
 
 *   [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
-## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
+*   [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
+
+### Media Centre Applications / Third Party Hosts
+
+*   [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [Kitana (⭐387)](https://github.com/pannal/Kitana) Kitana exposes your Plex plugin interfaces "to the outside world".
+
+### Music / Third Party Hosts
+
+*   [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+
+### Music Streaming / Third Party Hosts
+
+*   [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
+*   [mp3Clan](http://mp3guild.com/) Free music streaming
+*   [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
+*   [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
+*   [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
+*   [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
+*   [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
+*   [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
+
+### Music Downloading / Third Party Hosts
+
+*   [New Album Releases](http://newalbumreleases.net/) Premium DDL links for full albums
+
+### IRC / Third Party Hosts
+
+*   [ZNC (⭐1.9k)](https://github.com/znc/znc) An advanced IRC bouncer
+
+### IRC Clients / Third Party Hosts
+
+*   [Shout (⭐3.7k)](https://github.com/erming/shout) The self-hosted web IRC client
+*   [Kiwi IRC](https://kiwiirc.com/) Popular web-based IRC client
+
+### Piracy Blogs and News / Third Party Hosts
+
+*   [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
+
+## [10. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Miscellaneous
 
 *   [Lorem Ipsum (⭐39)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
-## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bytecode Manipulation
 
 *   [Mixin (⭐1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
-## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
 *   [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 
-## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -158,7 +205,7 @@
 
 *   [nano (⭐414)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 
-## [13. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [14. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Scripting Tools
 
@@ -166,7 +213,7 @@
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 *   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
-## [14. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [15. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 

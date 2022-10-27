@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 25 - Mar 03, 2019
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -386,25 +386,31 @@
 
 *   [ember-ref-modifier (⭐42)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 
-## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [34. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Reverse Engineering / Reverse Engineering Tools
+
+*   [pwndbg (⭐5k)](https://github.com/pwndbg/pwndbg) - GDB plug-in that eases debugging with GDB, with a focus on features needed by low-level software developers, hardware hackers, reverse-engineers, and exploit developers.
+
+## [35. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [digitalminds.io](https://www.digitalminds.io/careers/) - Freelance platform, open for Developers, IT-consultants and Digital Experts
 
-## [35. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [36. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Kubernetes
 
 *   [Moon (⭐176)](https://github.com/aerokube/moon) - A commercial closed-source enterprise Selenium implementation using Kubernetes to launch browsers
 
-## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [37. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Podcasts / Other Tools
 
 *   [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - Another episode with Justin Fagnani as a guest.
 
-## [37. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [38. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -412,7 +418,7 @@
 *   [Using Mobile Execution Commands to Continuously Stream Device Logs with Appium](https://appiumpro.com/editions/55)
 *   [What Appium Users Need to Know about Android Activities and Intents](https://appiumpro.com/editions/56)
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -422,13 +428,13 @@
 
 *   [pepipost.com](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
 
-## [39. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [40. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Libraries and Frameworks / Testing
 
 *   [infeos (⭐31)](https://github.com/infiniteXLabs/infeos) - JavaScript based framework for development, building, deploying and unit testing EOSIO dApps.
 
-## [40. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [41. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
@@ -438,7 +444,7 @@
 
 *   [Express Gateway (⭐2.7k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
-## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Documents & Productivity
 
@@ -482,7 +488,7 @@
 
 
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -496,19 +502,19 @@
 
 *   [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [43. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [44. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Articles
 
 *   [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
-## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [envato/stack\_master :fire::fire: (⭐276)](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 
-## [45. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [46. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
@@ -516,7 +522,7 @@
 *   [Ke (⭐45)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
-## [46. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -526,7 +532,7 @@
 
 *   [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### API
 
@@ -536,13 +542,13 @@
 
 *   [Carbon (⭐1.2k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 
-## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-using (⭐11)](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26 - Jul 02, 2017
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -145,26 +145,36 @@
 
 *   [Janus (⭐2.5k)](https://github.com/hellofresh/janus) - An API Gateway written in Go.
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Image Analysis / Telegram
+
+*   [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
+
+### Video Search and Other Video Tools / Telegram
+
+*   [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
+
+## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Migrations
 
 *   [Phinx (⭐4.3k)](https://github.com/cakephp/phinx) - Another database migration library.
 
-## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Intermediate
 
 *   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 
-## [20. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### General information
 
 *   [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 *   [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
 
-## [21. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [22. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / New papers
 
@@ -175,38 +185,38 @@
 
 *   DeepPose: Human pose estimation via deep neural networks (2014), A. Toshev and C. Szegedy [\[pdf\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 
-## [22. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [23. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [BlocksKit (⭐6.9k)](https://github.com/BlocksKit/BlocksKit) - The Objective-C block utilities you always wish you had.
 *   [MMWormhole (⭐3.9k)](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
 
-## [23. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [24. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Competitions
 
 *   [MIT Battlecode](https://www.battlecode.org/)
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
 *   [Perfect TensorFlow (⭐167)](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [Lynicon (⭐192)](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Ingestion
 
 *   [Alooma](https://www.alooma.com/integrations/mysql) - data pipeline as a service enabling moving data sources such as MySQL into data warehouses.
 
-## [27. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [28. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Communication
 
@@ -216,20 +226,20 @@
 
 *   [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
 
-## [28. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [29. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Git / Extensions
 
 *   [git-secret (⭐3k)](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository.
 
-## [29. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [30. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software
 
 *   [Comparison of web archiving software (⭐84)](https://github.com/archivers-space/research/tree/master/web_archiving)
 *   [Awesome Website Change Monitoring (⭐421)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
 
-## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
@@ -247,7 +257,7 @@
 
 *   [Creative Coding Club](http://creative-coding-club.slack.com/) - Creative Coding Club Slack.
 
-## [31. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [32. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Ebooks
 
@@ -257,7 +267,7 @@
 
 *   [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -278,7 +288,7 @@
 
 *   [vue-3d-model (⭐2.2k)](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
 
-## [33. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Books
 
@@ -289,7 +299,7 @@
 *   [BetterExplained](https://betterexplained.com/) - Maintained by Kalid Azad
 *   [ILoveMaths](http://ilovemaths.com/) - For grades 6 thru 12 in K-12 system
 
-## [34. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [35. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Frameworks / Game Frameworks
 
@@ -299,14 +309,14 @@
 
 *   [FlashyWrappers (⭐17)](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Standardize cloud SLA availability with numerical performance data](https://www.ibm.com/developerworks/cloud/library/cl-SLAloadbalance-numanalysis/)
 *   [Best practices to develop SLAs for cloud computing](https://www.ibm.com/developerworks/cloud/library/cl-slastandards/)
 
-## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [37. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Documentation
 
@@ -378,13 +388,13 @@
 *   [Red Hat Single Sign-On](https://access.redhat.com/products/red-hat-single-sign-on)
 *   [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
 
-## [37. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [38. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Books
 
 *   [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) by Clément Escoffier
 
-## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### File Manipulation
 
@@ -394,7 +404,7 @@
 
 *   [DatabaseBackup plugin (⭐15)](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to export, import and manage database backups.
 
-## [39. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [40. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -409,20 +419,20 @@
 *   [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 *   [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 
-## [40. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [41. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Getting help offline
 
 *   VimL functions end in `()`, e.g. `:h reverse()`
 *   commands start with `:`, e.g. `:h :echo`
 
-## [41. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [42. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
 *   [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat: (⭐85)](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 
-## [42. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [43. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -118,7 +118,13 @@
 
 *   [LiteDB ★4245 (⭐6.8k)](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Carousel
+
+*   [pure-react-carousel (⭐1.5k)](https://github.com/express-labs/pure-react-carousel) - Built from scratch and not highly opinionated.
+
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 

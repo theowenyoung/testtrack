@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2019
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,40 @@
 
 *   [Seed (⭐181)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
-## [4. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### Learning
+
+*   [Adding Alternate Media to a Playlist | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/adding_alternate_media_to_a_playlist)  -
+*   [Back to Basics: Encoding Definition and Adaptive Bitrate](https://bitmovin.com/encoding-definition-bitrates/?utm_campaign=Newsletter\&utm_medium=email&_hsenc=p2ANqtz-8MPFxhR7snQrxPYM7Bl3UTEMgOh5ZXoDQCHjLl9lkskqE0IfBhEuz3us39Br-lvA_CnyNmQl6L5wqO6iKOfAJ8HznenQ&_hsmi=79678208\&utm_content=79677632\&utm_source=hs_email\&hsCtaTracking=b8eb0e0a-f292-435e-8b99-719b75d81412%7C367afa65-d810-4c2e-aa2c-c87e897a8942)  -
+*   [Creating a Master Playlist | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/creating_a_master_playlist#overview)  -
+*   [HLS Authoring Specification for Apple Devices | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/hls_authoring_specification_for_apple_devices)  -
+*   [Live Playlist (Sliding Window) Construction | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/live_playlist_sliding_window_construction)  -
+*   [Understanding the HTTP Live Streaming Architecture | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/understanding_the_http_live_streaming_architecture)  -
+*   [Video on Demand Playlist Construction | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/video_on_demand_playlist_construction)  -
+
+### HLS / Talks Presentations Podcasts
+
+*   [HLS | Bento4](https://www.bento4.com/developers/hls/)  -
+*   [Protocol Extension for Low-Latency HLS (Preliminary Specification) | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/protocol_extension_for_low-latency_hls_preliminary_specification#3291001)  -
+
+### DASH / Talks Presentations Podcasts
+
+*   [mp4dash | Bento4](https://www.bento4.com/documentation/mp4dash/)  -
+
+### Encoding / Talks Presentations Podcasts
+
+*   [Bento4 | Fast, Modern Tools and C++ Class Library for all your MP4 and DASH media format needs](https://www.bento4.com/)  -
+
+### FFMPEG / Web
+
+*   [x264 FFmpeg Options Guide - Linux Encoding](https://sites.google.com/site/linuxencoding/x264-ffmpeg-mapping)  -
+
+### Testing / Dolby
+
+*   [HTTP Live Streaming (HLS) - Artillery.io Docs](https://artillery.io/docs/plugin-hls/)  -
+
+## [5. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 
@@ -34,7 +67,13 @@
 
 *   [Maxim Koretskyi: **JSConf EU: A sneak peek into super optimized code in JS frameworks**](https://www.youtube.com/watch?v=_VHNTC67NR8) \[23:20]
 
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-simple-chatbot (⭐1.5k)](https://github.com/LucasBassetti/react-simple-chatbot) - [demo (⭐0)](https://github.com/anishagg17/PIzzaBuilder) - A simple chatbot component to create conversation chats.
+
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
@@ -44,19 +83,19 @@
 
 *   [How to Include Latency in SLO-Based Alerting](https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/)
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 
 *   [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineering designs. (Formats: gif,vrml,wrl,stp,sat)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [ICanHasDotnetCore (⭐70)](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard.
 
-## [8. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [10. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### AAAI 2020
 

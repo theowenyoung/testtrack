@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 05, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,32 +24,42 @@
 
 *   [vue-rough (⭐24)](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 
-## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Form Components / Drag and Drop
+
+*   [react-movable (⭐1.3k)](https://github.com/tajo/react-movable) - Accessible and minimalistic (<4kB gzipped) library for vertical drag and drop in lists and tables.
+
+### CSS / Style / Mouse Events
+
+*   [paperclip](https://paperclip.dev) - [docs](https://paperclip.dev/docs/) - Build UI primitivites with plain HTML & CSS.
+
+## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [Everforo](https://www.everforo.com) - Everforo is the next generation of online community groups build on top of IPFS.
 
-## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Other Awesome Lists
 
 *   [awesome-docker (⭐23k)](https://github.com/veggiemonk/awesome-docker)\
     \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git)
 
-## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 
 *   [gazebo\_models (⭐450)](https://github.com/osrf/gazebo_models) - This repository holds the Gazebo model database.
 
-## [7. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [8. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Crowd-Sourced Information
 
 *   [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) - Wikipedia entry on all things NoSQL databases.
 
-## [8. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [9. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 

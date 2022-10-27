@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,19 +13,29 @@
 *   [Laracon EU](http://laracon.eu/)
 *   [Laracon Online](https://laracon.net/)
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [2. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
+
+  Description: List of resources related to Industrial Control System (ICS) security
+
+
+
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### State Machines
 
 *   [state\_machines (⭐660)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Industrial Control System Security (⭐16)](https://github.com/mpesen/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Vert.x Event Bus Clients
 
@@ -35,31 +45,31 @@
 
 *   [VertxUI (⭐117)](https://github.com/nielsbaloe/vertxui) - A pure Java front-end toolkit with descriptive fluent views-on-models, POJO traffic, JUnit testing on the virtual DOM or mixed-language on a real DOM, and more.
 
-## [5. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / HW / SW / Dataset
 
 *   Torch7: A matlab-like environment for machine learning, R. Collobert et al. [\[pdf\]](https://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf)
 
-## [6. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [7. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Integration / Documentation and Help Systems
 
 *   [LiveReload (⭐139)](https://github.com/alepez/LiveReload-sublimetext3) — a web browser page reloading plugin.
 
-## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In German
 
 *   [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.
 
-## [8. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [9. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Tools
 
 *   [Antd Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
 
-## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Peripherals / Opcodes
 
@@ -80,7 +90,7 @@
 
 *   [ArduinoGameBoy (⭐115)](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 
-## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Books
 
@@ -135,13 +145,13 @@
 *   [gamedev (⭐10k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [netmq (⭐2.6k)](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
 
-## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Fitness
 

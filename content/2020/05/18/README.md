@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -82,19 +82,25 @@
 
 *   [Official Discourse Forum](https://discourse.cmake.org/)
 
-## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Game Development
+
+*   [*3D Apple Games by Tutorials* by Chris Language](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
+
+## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Queue
 
 *   :strawberry: [CakeQueuesadilla plugin (⭐33)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [blurhash.cr (⭐13)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐11k)](https://github.com/woltapp/blurhash) implementation
 
-## [14. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [15. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Learning / Theory and Courses
 
@@ -154,7 +160,7 @@
 *   [embedded-boston/awesome-embedded-systems (⭐580)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
@@ -184,7 +190,7 @@
 
 *   [Deno 手册 (⭐302)](https://github.com/Nugine/deno-manual-cn/)
 
-## [16. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [17. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -199,7 +205,7 @@
 
 
 
-## [17. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [18. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Tutorials
 

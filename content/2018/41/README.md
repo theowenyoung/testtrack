@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08 - Oct 14, 2018
 
-57 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -286,7 +286,430 @@
 *   [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - By Ed Finkler.
 *   [The Never Ending Hack Mental Health In InfoSec Community - Circle City Con 5.0](https://www.youtube.com/watch?v=CWHfIdG0nOw) - By Danny Akacki.
 
-## [22. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [22. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+
+### VPN Guides and Tutorials
+
+*   [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
+*   [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7\&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
+*   [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
+*   [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
+
+### Browser Extensions
+
+*   [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
+*   [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
+*   [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
+*   [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
+
+### Password Vaults
+
+*   [1Password](https://1password.com/) Popular cloud-hosted password manager
+*   [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
+
+### Antivirus
+
+*   [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
+*   [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
+*   [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
+
+### Windows 10 Privacy
+
+*   [O\&O ShutUp10](https://www.oo-software.com/en/shutup10) O\&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+*   [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
+*   [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
+*   [WPD](https://wpd.app/) The real privacy dashboard for Windows
+
+### Trackers / Private Trackers
+
+*   [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
+*   [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
+
+### Trackers / Semi-Private Trackers
+
+*   [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
+
+### Trackers / Public Trackers
+
+*   [YTS](https://yts.am/) Small-size HD movies from YIFY
+*   [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
+*   [rutor](http://rutor.info/) Russian tracker
+*   [trackerslist (⭐36k)](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
+*   [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
+*   [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
+*   [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
+*   [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
+*   [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
+*   [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
+*   [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
+*   [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
+*   [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
+*   [Torrent9](https://www.torrent9.ph/) French torrent search engine
+
+### Tracker Aggregators / Public Trackers
+
+*   [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
+
+### Tracker Invites / Public Trackers
+
+*   [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
+*   [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
+
+### Torrent Clients / Public Trackers
+
+*   [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
+*   [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
+*   [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
+*   [Popcorn Time (⭐7.6k)](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
+*   [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
+*   [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
+
+### Seedboxes / WebTorrent Clients
+
+*   [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
+
+### Seedboxes / Seedbox Hosting Providers
+
+*   [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
+*   [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
+*   [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
+
+### Seedboxes / Seedbox Setup Tools and Guides
+
+*   [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
+*   [rtinst (⭐1.2k)](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
+*   [sboxsetup (⭐125)](https://github.com/dannyti/sboxsetup) Another seedbox setup script
+*   [QuickBox IO](https://quickbox.io/) Seedbox installer script
+
+### Tracker Frameworks / Seedbox Setup Tools and Guides
+
+*   [UNIT3D (⭐1.6k)](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
+*   [NexusPHP (⭐398)](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
+
+### DDL Tools / Free Indexers
+
+*   [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
+
+### DDL Link Sites / Free Indexers
+
+*   [hdencode](https://hdencode.com/)
+*   [Movie Glide](https://www.movieglide.com/)
+*   [Release BB](http://rlsbb.ru)
+*   [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
+*   [AdiT-HD](http://adit-hd.com/) direct download site
+*   [TwoDDL](http://2ddl.ws) Direct download links
+*   [RapidMoviez](http://rmz.cr/)
+*   [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
+*   [MkvCage](https://www.mkvcage.ws/)
+*   [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
+*   [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
+*   [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
+*   [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
+*   [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
+*   [Moviesleak](https://moviesleak.net/)
+*   [Dospelis](https://www.dospelis.net) Spanish DDL indexer
+*   [Vidics](https://www.vidics.to/)
+*   [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
+*   [watchtvseries](http://watchtvseries.unblckd.club/)
+
+### Premium Link Generators / Free Indexers
+
+*   [Premiumize](https://www.premiumize.me/) Combine direct and secure access to
+    premium services
+
+### Premium Link Hosts / Free Indexers
+
+*   [RapidGator](https://rapidgator.net/)
+*   [4shared](https://www.4shared.com/)
+*   [Mediafire](https://www.mediafire.com/)
+*   [Sendspace](https://www.sendspace.com/)
+*   [Uploaded](https://uploaded.net/)
+*   [Zippyshare](https://www.zippyshare.com/)
+*   [NitroFlare](http://nitroflare.net/)
+*   [PutLocker](https://www5.putlockertv.to/)
+
+### Open Directories / Free Indexers
+
+*   [httpdirfs (⭐612)](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
+*   ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
+*   [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow\_hunter104
+*   [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue\_star\_
+*   [FileMasta (⭐620)](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
+
+### Media Centre Applications / Third Party Hosts
+
+*   [Emby](https://emby.media/) a personal media server with apps on just about every device.
+*   [Viewscreen (⭐218)](https://github.com/viewscreen/viewscreen) a personal video streaming server
+*   [Myflix (⭐303)](https://github.com/pastapojken/Myflix) Myflix tries to be a somewhat simple and lightweight "DIY Netflix", similar to Plex, streama or Emby, for your DIY NAS, especially aimed at the Raspberry Pi/Odroid/etc ecosystem.
+*   [Gerbera (⭐970)](https://github.com/gerbera/gerbera) UPnP Media Server for 2018 (Based on MediaTomb)
+
+### Plex Plugins / Third Party Hosts
+
+*   [WebTools.bundle (⭐1.2k)](https://github.com/ukdtom/WebTools.bundle) a collection of tools for Plex Media Server. Like the Unsupported AppStore (UAS)
+*   [Audiobooks.bundle (⭐557)](https://github.com/macr0dev/Audiobooks.bundle) Plex metadata scraper for Audiobooks
+*   [TvplexendChannel.bundle (⭐66)](https://github.com/pgaubatz/TvplexendChannel.bundle) A Tvheadend Channel Plugin for PLEX Media Server
+*   [IPTV.bundle (⭐845)](https://github.com/Cigaras/IPTV.bundle) plays live streams (like IPTV) from an M3U playlist
+*   [HDGrandSlam.bundle (⭐77)](https://github.com/jumpmanjay/HDGrandSlam.bundle) interfaces with HDHomeRun tuners and DVRs
+*   [HDHRViewerV2.bundle (⭐94)](https://github.com/zynine-/HDHRViewerV2.bundle) HDHomeRun + Plex
+*   [SS Plex](https://mikew.github.io/ss-plex.bundle/) Imagine if all the media scattered around the internet could be found in one collection.
+*   [ExportTools.bundle (⭐324)](https://github.com/ukdtom/ExportTools.bundle) Export Plex Library to a csv, xlsx or m3u8 file
+*   [Plex-Trakt-Scrobbler (⭐1.4k)](https://github.com/trakt/Plex-Trakt-Scrobbler) Add what you are watching on Plex to trakt.tv
+*   [Moviemania.bundle](https://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) Textless movie posters from Moviemania.io
+*   [lmwt-kiss.bundle (⭐17)](https://github.com/Twoure/lmwt-kiss.bundle) creates a new channel within Plex Media Server (PMS) to view content from PrimeWire.
+*   [RequestChannel.bundle (⭐156)](https://github.com/ngovil21/RequestChannel.bundle) A Plex Channel to create requests
+*   [SRT2UTF-8.bundle (⭐122)](https://github.com/ukdtom/SRT2UTF-8.bundle) Plex Agent that'll convert sidecar subtitle files into UTF-8
+*   [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play
+
+### Plex Requests / Third Party Hosts
+
+*   [plexrequests-meteor (⭐534)](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
+
+### Plex Scripts and Tools / Third Party Hosts
+
+*   [JBOPS (⭐1.3k)](https://github.com/blacktwin/JBOPS) Just a Bunch Of Plex Scripts
+*   [plex\_autoscan (⭐391)](https://github.com/l3uddz/plex_autoscan) Script to assist sonarr/radarr with plex imports.
+*   [plexupdate (⭐1.6k)](https://github.com/mrworf/plexupdate) script to simplify the life of Linux Plex Media Server users.
+*   [plex2netflix (⭐265)](https://github.com/SpaceK33z/plex2netflix) See how much of your media from Plex is available on Netflix.
+*   [plexReport (⭐65)](https://github.com/bstascavage/plexReport) Scripts to generate a weekly email of new additions to Plex
+*   [Plex Media Tagger (⭐144)](https://github.com/ccjensen/PlexMediaTagger) Uses the metadata held in the PlexMediaServer to tag media files
+*   [Transmogrify (⭐66)](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex
+*   [PlexAuth (⭐102)](https://github.com/hjone72/PlexAuth) Plex based authentication using PHP
+*   [Phlex (⭐616)](https://github.com/d8ahazard/Phlex) A super-sexy voice interface for the Plex HTPC
+*   [Plex Redirect (⭐221)](https://github.com/ITRav4/PlexRedirect) a Plex landing page that redirects you to various sites.
+*   [Plaxt](https://plaxt.herokuapp.com/) Webhook-based Trakt.tv scrobbling for Plex
+
+### Plex Shares / Third Party Hosts
+
+*   [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
+*   [Elysium](https://elysium.to/) Plex media streaming service
+
+### Plex Transcoding / Third Party Hosts
+
+*   [kube-plex (⭐1.1k)](https://github.com/munnerz/kube-plex) Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
+*   [UnicornTranscoder (⭐613)](https://github.com/UnicornTranscoder/UnicornTranscoder) a remote transcoder for Plex Media Server
+*   [Plex-Remote-Transcoder (⭐636)](https://github.com/wnielson/Plex-Remote-Transcoder) A distributed transcoding backend for Plex
+
+### Plex Logging and Metrics / Third Party Hosts
+
+*   [plexWatch (⭐425)](https://github.com/ljunkie/plexWatch) Notify and Log watched content on a Plex Media Server
+
+### Plex Clients / Third Party Hosts
+
+*   [RasPlex (⭐643)](https://github.com/RasPlex/RasPlex) Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi
+*   [PlexConnect (⭐1.9k)](https://github.com/iBaa/PlexConnect) Unofficial Plex app for Apple TV devices
+*   [go-plex-client (⭐112)](https://github.com/jrudio/go-plex-client) A Plex.tv and Plex Media Server Go client
+
+### Kodi / Third Party Hosts
+
+*   [Tooonmania2 (⭐1)](https://github.com/doko-desuka/doko.repository/releases) lets you watch cartoons, dubbed anime and movies (from animetoon) and subbed anime and movies (from animeplus)
+*   [PlexKodiConnect (⭐930)](https://github.com/croneter/PlexKodiConnect) Plex integration in Kodi done right
+*   [Official Plex Addon](https://forums.plex.tv/t/installation-instructions/168854) Official Plex addon for Kodi
+*   [Ultimate Kodi Guide](https://www.reddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
+
+### Repacks / Third Party Hosts
+
+*   [Xatab Repacks](https://xatab-repack.net) Russian game repacker, primarily torrents
+*   [ElAmigos Games](https://www.elamigos-games.com/) Premium links to cracked games
+*   [Dark Umbra](https://darkumbra.net/) Forum for sourcing games
+*   [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
+
+### ROMs / Third Party Hosts
+
+*   [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
+*   [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
+
+### Homebrew and Custom Firmware / Third Party Hosts
+
+*   [3DS Hacks Guide](https://3ds.hacks.guide/) A complete guide to 3DS custom firmware, from stock to boot9strap.
+*   [/r/3dshacks](https://www.reddit.com/r/3dshacks) Nintendo 3DS hacking and homebrew.
+*   [/r/vitahacks](https://www.reddit.com/r/vitahacks/) A place to discuss Vita hacking and homebrew.
+*   [/r/ps4homebrew](https://www.reddit.com/r/ps4homebrew) News, releases, and questions regarding the PS4 jailbreak, homebrew, and mods.
+*   [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing) Nintendo Switch hacking & homebrew subreddit
+*   [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) Another Nintendo Switch hacking subreddit
+
+### Music Downloading / Third Party Hosts
+
+*   [irs (⭐343)](https://github.com/kepoorhampond/irs) A music downloader that understands your metadata needs.
+*   [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) Community supporting Deezloader
+
+### Spotify / Third Party Hosts
+
+*   [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
+*   [EZBlocker (⭐1.7k)](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
+
+### iTunes / Third Party Hosts
+
+*   [TunesKit](https://www.tuneskit.com/) iTunes DRM removal tool
+*   [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
+*   [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
+*   [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
+
+### Windows / Third Party Hosts
+
+*   [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq\_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
+*   [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
+
+### Ebooks / Third Party Hosts
+
+*   [b-ok](http://b-ok.xyz/) Free ebook library
+*   [Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
+
+### Magazines / Third Party Hosts
+
+*   [PDF Giant](http://pdf-giant.com/) Various categories of downloadable PDFs
+*   [MagazineLib](https://magazinelib.com/) Free PDF and interactive e-magazines
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents
+
+### Comicbooks / Third Party Hosts
+
+*   [readcomiconline.to](https://readcomiconline.to/) Manga and comics uploaded daily
+*   [Readcomicbooksonline](https://readcomicbooksonline.org/) Tends to Error 520 occasionally
+*   [Comic Extra](https://www.comicextra.com/) Daily comic uploads, clean UI
+
+### Manga / Third Party Hosts
+
+*   [MangaDex](https://www.mangadex.org/) MangaDex is an online manga reader that caters to all languages.
+*   [/r/manga](https://www.reddit.com/r/manga) Everything and anything manga! (manhwa is okay too!)
+*   [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) Download manga titles named 0 to E.
+*   [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) Download manga titles named F to K.
+*   [Madokami L-Q](https://archive.org/download/Madokami.Manga.L-Q) Download manga titles named L to Q.
+*   [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) Download manga titles named R to Z.
+*   [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) Download novels, manga raws and artbooks.
+
+### Documentaries / Third Party Hosts
+
+*   [/r/Documentaries](https://www.reddit.com/r/documentaries) Popular documentaries subreddit
+*   [My big list of documentary sites (streaming and download)](https://www.reddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) An old post by /u/whatwhat888 that may still be useful
+
+### Automation / Third Party Hosts
+
+*   [Pulsarr (⭐169)](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+*   [traktarr (⭐484)](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+
+### TV Automation / Third Party Hosts
+
+*   [SickRage (⭐1.5k)](https://github.com/SiCKRAGE/SiCKRAGE) Automatic Video Library Manager for TV Shows.
+*   [SickChill](https://sickchill.github.io/) an automatic Video Library Manager for TV Shows.
+*   [SickBeard](http://sickbeard.com/) The ultimate PVR application that searches for and manages your TV shows
+*   [SickGear (⭐553)](https://github.com/SickGear/SickGear) SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+*   [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
+
+### Music Automation / Third Party Hosts
+
+*   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) Automatic music downloader for SABnzbd
+
+### P2P Networks / Third Party Hosts
+
+*   [Gnutella](https://en.wikipedia.org/wiki/Gnutella) P2P network behind the popular LimeWire file sharing app
+*   [Napster](https://en.wikipedia.org/wiki/Napster) Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
+
+### Ripping, Transcoding, Converting, Encoding / Third Party Hosts
+
+*   [sickbeard\_mp4\_automator (⭐1.3k)](https://github.com/mdhiggins/sickbeard_mp4_automator) Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library
+*   [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) The A.R.M. (Automatic Ripping Machine) detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action
+
+### Cloud Storage / Third Party Hosts
+
+*   [google-drive-ocamlfuse (⭐4.8k)](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
+*   [plexdrive (⭐1.6k)](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
+*   [/r/PlexACD](https://www.reddit.com/r/PlexACD/) Discussion about unlimited cloud storage for Plex libraries
+*   [rclone-gdrive](https://bytesized-hosting.com/pages/rclone-gdrive) Wiki page on setting up Google Drive with rclone cache and crypt
+*   [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
+
+### File Renaming and Tagging / Third Party Hosts
+
+*   [filebot-node (⭐58)](https://github.com/filebot/filebot-node) a client-server application that'll allow you to run filebot commands
+*   [MediaMonkey](https://www.mediamonkey.com/) Manage a movie/music library from 100 to 100,000+ audio/video files and playlists
+*   [MP3TAG](https://www.mp3tag.de/en/) Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
+*   [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
+
+### Mobile Apps / Third Party Hosts
+
+*   [Ombi](https://play.google.com/store/apps/details?id=com.tidusjar.Ombi) Companion app for Ombi to request Plex content
+*   [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) Mobile version of Tautilli for monitoring Plex on the go
+*   [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid\&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
+*   [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
+*   [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
+*   [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
+
+### Streaming Apps / Third Party Hosts
+
+*   [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429\&t=2720792\&hilit=mobdro) Mobdro constantly searches the web for the best free video streams and brings them to your device.
+*   [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
+*   [Fildo](https://fildo.net/android/en/) Music streaming app
+
+### Torrent Apps / Third Party Hosts
+
+*   [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) Transdrone allows you to manage the torrents you run on your home server or seedbox.
+*   [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud\&hl=en) Flud is a simple and beautiful BitTorrent client for Android.
+*   [LibreTorrent](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/) LibreTorrent is a Free as in Freedom torrent client for Android 4+, based on libtorrent.
+
+### APKs / Third Party Hosts
+
+*   [On HAX](https://onhax.me/) APK mirrors
+*   [APKMirror](https://www.apkmirror.com/) Download free Android APKs
+*   [ApkPure](https://apkpure.com/) Another free APK mirror site
+*   [ACMARKET](https://acmarket.net/) download cracked & modified android apps & games free
+*   [BlackMod](https://blackmod.net/) Lots of cracked Android games
+*   [Android Zone](https://android-zone.ws/) Another place to find premium links for APKs
+
+### Discord Servers / Third Party Hosts
+
+*   [DoujinStyle](https://discord.gg/z2QDFdA) Discord server with Doujin related materials. Things such as Japanese doujin music and games
+
+### IPTV and DVR / Third Party Hosts
+
+*   [/r/IPTV](https://www.reddit.com/r/IPTV) Subreddit some may find helpful for gauging the current state of IPTV providers
+*   [/r/iptvresellers](https://www.reddit.com/r/IPTVresellers) promotions and advertisements from IPTV providers
+*   [/r/IPTVReviews](https://www.reddit.com/r/IPTVreviews) Reviews of IPTV service providers
+*   [MythTV](https://www.mythtv.org/) Free Open Source software digital video recorder
+
+### IRC Clients / Third Party Hosts
+
+*   [irssi](https://irssi.org/) Your text mode chatting application since 1999.
+
+### IRC Networks / Third Party Hosts
+
+*   [Orpheus](https://orpheus.network/) Formerly known as Apollo
+
+### DC++ / Third Party Hosts
+
+*   [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_\(protocol\)) Wikipedia page describing Direct Connect.
+*   [DC++](https://en.wikipedia.org/wiki/DC%2B%2B) Wikipedia page describing DC++
+*   [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+
+### Full Movies On / Third Party Hosts
+
+*   [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
+*   [/r/fullmovierequest](https://www.reddit.com/r/fullmovierequest/)
+*   [/r/Fullmoviesonvimeo](https://www.reddit.com/r/Fullmoviesonvimeo/)
+*   [/r/fulltvshowsonyoutube](https://www.reddit.com/r/fulltvshowsonyoutube/)
+*   [/r/fulltvshowsonvimeo](https://www.reddit.com/r/fulltvshowsonvimeo/)
+*   [/r/fullcartoonsonyoutube](https://www.reddit.com/r/fullcartoonsonyoutube/)
+*   [/r/FullLengthFilms](https://www.reddit.com/r/FullLengthFilms/)
+*   [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
+
+### Content Discovery / Third Party Hosts
+
+*   [IMDb](https://www.imdb.com/) Find movies, TV shows, celebrities, and more
+*   [Movieo](https://movieo.me/) Discover, organize and track over 250,000 movies.
+*   [MetaCritic](https://www.metacritic.com) website that aggregates reviews of media products: music albums, video games, films, TV shows, and formerly, books.
+*   [popular-movies (⭐285)](https://github.com/sjlu/popular-movies) Tries to create a list of popular movies based on a series of heuristics
+*   [Letterboxd](https://letterboxd.com/) Your life in film
+*   [Squawkr.io](https://www.squawkr.io/) sends notifications when movies are available for download.
+
+### Dashboards and Homepages / Third Party Hosts
+
+*   [Muximux (⭐1.1k)](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
+*   [Heimdall (⭐4.9k)](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
+*   [weboas.is](http://weboas.is/) Homepage for pirates
+*   [iDashboard-PHP (⭐125)](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
+*   [HTPC-Manager (⭐346)](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
+
+## [23. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Food-related projects
 
@@ -315,39 +738,39 @@
 *   [fitness (⭐11)](https://github.com/jamesflorentino/fitness) - Some of @jamesflorentino mumbo jumbo about training and nutrition. Take them with a grain of salt.
 *   [affordable-whey (⭐0)](https://github.com/prkeshri/affordable-whey) - Can be used to calculate out of a few available Whey proteins. which one is most affordable in terms of Cost per Serving. Also gives. total servings.
 
-## [23. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [24. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Analytics / Provided by the Host
 
 *   [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
 *   [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
 
-## [24. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) - A simple and clean template, that fixes issues with fullscreen, mouse and just looks nice.
 
-## [25. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [26. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra from Relational / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
 *   [Cassandra Schemas for Beginners (like me)](https://medium.com/@jochasinga/cassandra-schemas-for-beginners-like-me-9714cee9236a) - Great article for new developers to Cassandra.
 
-## [26. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [27. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [ipfs-search](https://ipfs-search.com) - Searching the universe since 2016.
     Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available. [Source (⭐723)](https://github.com/ipfs-search/ipfs-search)
 
-## [27. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [28. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Math & Computer Science
 
 *   [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
 
-## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Business
 
@@ -377,13 +800,25 @@
 
 
 
-## [29. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [30. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### Django
+
+- Name: [Travel Mate Server (⭐41)](https://github.com/project-travel-mate/server)
+
+  Description: Django based document management system with OCR, indexing, full text searching, previewing and more
+
+  Link: [App on PlayStore](https://goo.gl/1iAq94)
+
+
+
+## [31. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0)   (2013, 2014, 2015, 2017) _by   [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_\(author\))  \_ [3.9] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
 
 *   [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) \[3.79]
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -402,19 +837,19 @@
 
 *   [vue-my-photos (⭐53)](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
-## [31. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [33. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Books
 
 *   [Standard Ebooks](https://standardebooks.org/) - Hundreds of classics, beautifully formatted and typeset.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
 
-## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Community / iOS
 
@@ -422,7 +857,7 @@
 *   [MAKE on Youtube](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
 *   [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 
-## [34. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [36. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Talks
 
@@ -432,13 +867,13 @@
 
 *   [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
 
-## [35. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [37. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Learning / Progressive Web Application
 
 *   [Mage2.tv](https://www.mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 
-## [36. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -448,7 +883,7 @@
 
 *   [Trinity Orientation @ Univ Toronto (⭐600)](https://github.com/matthewtory/trinity-orientation-2018) <!--stargazers:matthewtory/trinity-orientation-2018--> - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory)
 
-## [37. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -456,14 +891,14 @@
 *   [silver searcher (ag) (⭐24k)](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ggreer/the_silver_searcher) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [trash (⭐2.4k)](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
-## [38. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [40. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### tools / Other
 
 *   [empire (⭐6.7k)](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 *   [silenttrinity (⭐1.9k)](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 
-## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CLI
 
@@ -473,7 +908,7 @@
 
 *   [amazon-kinesis-producer :fire::fire: (⭐363)](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library.
 
-## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [42. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -483,7 +918,7 @@
 
 *   [Audio Book App (⭐272)](https://github.com/minhtc/sachnoiapp) – Completed Audiobook app with some cool animations.
 
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
@@ -493,7 +928,7 @@
 
 *   [Dedupe (⭐3.5k)](https://github.com/dedupeio/dedupe) - A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 
-## [42. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [44. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -504,7 +939,7 @@
 *   [Openstack Ansible (⭐1.3k)](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 *   [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 
-## [43. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [45. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Tutorials
 
@@ -513,13 +948,13 @@
 *   [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
 *   [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
 
-## [44. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Extensions (Xcode 8+) / Collection View Layout
 
 *   [XGist (⭐76)](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to GitHub's Gist and automatically copy the Gist URL into your Clipboard.
 
-## [45. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [47. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -529,7 +964,7 @@
 
 *   [Sticky (⭐7)](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application
 
-## [46. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [48. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Libraries / Français
 
@@ -539,7 +974,7 @@
 
 *   [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -558,7 +993,7 @@
 
 *   [Lumos (⭐135)](https://github.com/sushinoya/Lumos) - An easy-to-use API for Objective-C runtime functions.
 
-## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -577,7 +1012,7 @@
 
 *   [cl-i18n](https://notabug.org/cage/cl-i18n) - an i18n library. Load translations from GNU gettext text or binary files or from its native format. Localisation helpers of plural forms. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 
@@ -587,13 +1022,13 @@
 
 *   [SmartSql (⭐888)](https://github.com/Ahoo-Wang/SmartSql) - SmartSql = MyBatis + Cache(Memory | Redis) + ZooKeeper + R/W Splitting +Dynamic Repository ....
 
-## [50. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [52. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tools
 
 *   [vscode-extension (⭐116)](https://github.com/aurelia/vscode-extension) \* An Aurelia extension for the VS Code editor that provides HTML syntax highlighting, statement completion and CLI integration.
 
-## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -611,7 +1046,7 @@
 
 *   [Guard (⭐655)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
-## [52. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [54. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Operating systems / Build system (ROS2)
 
@@ -626,7 +1061,7 @@
 *   [Time Synchronization in modular collaborative robots](https://arxiv.org/pdf/1809.07295.pdf)
 *   [Open Problems in Robotic Anomaly Detection](https://arxiv.org/pdf/1809.03565.pdf)
 
-## [53. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [55. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -636,7 +1071,7 @@
 
 *   [fselect (⭐3.3k)](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
 
-## [54. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [56. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -659,13 +1094,13 @@
 *   [CppCon 2018 Presentation Materials (⭐1.4k)](https://github.com/CppCon/CppCon2018) - CppCon 2018 Presentation Materials.
 *   [C++Now 2018 Presentations (⭐122)](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
 
-## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [57. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Software Patreons (⭐436)](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
-## [56. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [58. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Shell / More
 
@@ -693,7 +1128,7 @@
 *   [@ramyanexus](https://twitter.com/ramyanexus) - VS Code Dev. Maintainer of Go extension
 *   [@Tyriar](https://twitter.com/Tyriar) - VS Code Dev. Creator of xterm.js
 
-## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [59. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 

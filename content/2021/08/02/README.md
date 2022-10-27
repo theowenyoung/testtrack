@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,25 +44,31 @@
 
 *   :strawberry: [CakeDC/PHPStan (⭐17)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Blogs
+
+*   [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
+
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Security / Scala
 
 *   [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol) - Grant Negotiation and Authorization Protocol defines a mechanism for delegating authorization to a piece of software, and conveying that delegation to the software. This delegation can include access to a set of APIs as well as information passed directly to the software.<sup>DRAFT</sup>
 
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [upf-bpf (⭐123)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [pdfvuer (⭐743)](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support for Vue2 and Vue3. [Demo](https://arkokoley.github.io/pdfvuer/)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Finance
 
@@ -106,7 +112,7 @@
 
 
 
-## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Audio
 
@@ -158,7 +164,7 @@
 
 *   [DFMJSON (⭐26)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 

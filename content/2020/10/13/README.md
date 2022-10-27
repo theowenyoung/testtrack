@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2020
 
-21 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,13 @@
 
 *   [Adam King](https://github.com/sponsors/notadamking) - RLTrader, Tensortrade and other trading related projects.
 
-## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [11. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### DRM / Dolby
+
+*   [The Hitchhiker's Guide to DRM](https://ottverse.com/hitchhikers-guide-to-drm-2/)  - A gentle guide to the world of Digital Rights Management. It includes a technology overview of AES, EME, CDM, CENC, Keys, and then explores popular DRM technologies such as Google Widevine, Apple FairPlay, Microsoft PlayReady, and finally, Multi-DRM.
+
+## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Official Resources
 
@@ -130,44 +136,44 @@
 
 *   [vim-svelte (⭐255)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
 
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Social Media
 
 *   [kirc (⭐497)](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
-## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [14. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Canvas / Examples
 
 *   [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) \[[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
 *   [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
 
-## [14. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [15. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Toolchains
 
 *   [toolchains (⭐77)](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. `[NO LICENSE]`
 
-## [15. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [16. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
 *   [Tactile (⭐711)](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
-## [17. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
 *   🛑💼 [Font Variant Numeric (⭐8)](https://github.com/philippbosch/tailwindcss-font-variant-numeric) - Adds `font-variant-numeric` utilities.
 
-## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [19. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / TensorFlow
 
@@ -182,19 +188,39 @@
 *   [Caffe (⭐33k)](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 *   [hipCaffe (⭐126)](https://github.com/ROCmSoftwarePlatform/hipCaffe) - The HIP port of Caffe. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/amd_big.png" alt="Possible to run on AMD GPU">
 
-## [19. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [20. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### IOC/DI
 
 *   [DryIoc (⭐779)](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [21. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Chart
+
+*   [react-muze (⭐15)](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/)(free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
+
+### Form Components / Select
+
+*   [react-functional-select (⭐167)](https://github.com/based-ghost/react-functional-select) - [demo](https://based-ghost.github.io/react-functional-select/) - Micro-sized & micro-optimized select component for React.js.
+
+## [22. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-admin-env-notice (⭐257)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+
+### Third-Party Packages / Search engine optimisation
+
+*   [django-check-seo (⭐113)](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 
-## [21. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [24. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Third-party Apps Plugins / Design Tooling
 

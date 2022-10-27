@@ -1,6 +1,6 @@
 # Awesome List Updates on May 04, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,25 +25,31 @@
 *   [idris-ct (⭐231)](https://github.com/statebox/idris-ct) - Formally verified category theory library
 *   [typedefs (⭐359)](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language
 
-## [4. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
+## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Server Side Swift
+
+*   [*Server Side Swift with Kitura* by David Okun, Chris Bailey](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
+
+## [5. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
 ### Reporters / JavaScript
 
 *   [ava-tap-json (⭐1)](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
 
-## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [Generating Touch Gestures to Zoom In and Out on Google Maps](https://appiumpro.com/editions/67)
 
-## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Code examples / Custom Dialog
 
 *   [Kotlin MVVM example (⭐453)](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Microchip
 

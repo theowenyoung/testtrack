@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2022
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,19 +68,35 @@
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 *   [Gixy - Nginx configuration static analyzer (⭐7.5k)](https://github.com/yandex/gixy)
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [@import-meta-env/unplugin (⭐28)](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-live-reload (⭐44)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-preview-imgs (⭐2)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
-## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Mario Kart
+
+*   [SuperTuxKart](https://supertuxkart.net/Main_Page) - A 3D open-source arcade racer with a variety characters, tracks, and modes to play.
+
+## [12. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
 *   [TorchXRayVision (⭐537)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
-## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Homebrews / Syntax highlighting packages
 

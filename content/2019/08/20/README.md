@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,7 +42,14 @@
 
 *   [random-bytes-readable-stream (⭐74)](https://github.com/sindresorhus/random-bytes-readable-stream) - Cross-platform `fs.createReadStream('/dev/urandom')`.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
+    *   [pygreynoise (⭐134)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
+
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Command Line
 
@@ -52,19 +59,19 @@
 
 *   [Ribbon (⭐291)](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
 
-## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [7. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Interactive learning / Single Topics
 
 *   [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 
-## [7. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [8. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Auditing Tools
 
 *   [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 

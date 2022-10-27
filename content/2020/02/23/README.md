@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 23, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,13 +55,23 @@
 
 *   [Factor (⭐1.3k)](https://github.com/fiction-com/factor) - The Javascript CMS
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Cloud Data Warehousing / Playground
+
+*   :sparkles: [Crisp BigQuery (⭐34)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+
+### CMS / Playground
+
+*   [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
+
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Content Management Systems (CMS)
 
 *   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐308)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
-## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Cost Forecast / Market Research
 

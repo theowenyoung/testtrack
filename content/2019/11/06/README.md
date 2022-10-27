@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2019
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,40 @@
 
 *   [mailspoof (⭐78)](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 
-## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Anonymity Tools
+
+*   [Metadata Anonymization Toolkit (MAT)](https://0xacab.org/jvoisin/mat2) - Metadata removal tool, supporting a wide range of commonly used file formats, written in Python3.
+
+### Anonymity Tools / Tor Tools
+
+*   [Tails](https://tails.boum.org/) - Live operating system aiming to preserve your privacy and anonymity.
+
+### File Format Analysis Tools / Zealandia
+
+*   [ExifTool](https://www.sno.phy.queensu.ca/\~phil/exiftool/) - Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
+*   [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Python tool to explore PDF files in order to find out if the file can be harmful or not.
+
+## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Development Tools
 
 *   [openapi-generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### DDL Link Sites / Free Indexers
+
+*   [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
+
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [DevOpsDays Chicago 2019 - The Art of SLOs](https://youtu.be/Dfnbw5dJQ5I)
 
-## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [7. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mods / Building
 
@@ -50,7 +71,7 @@
 
 *   [SchematicWebViewer (⭐38)](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 
-## [6. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
+## [8. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
 ### Related awesome-lists
 
@@ -58,14 +79,14 @@
 *   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
 *   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
 *   [Mamonsu (⭐172)](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 *   [ZabbixDBA (⭐80)](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 

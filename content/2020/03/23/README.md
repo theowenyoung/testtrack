@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 23, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,19 +58,25 @@
 
 *   [astar (⭐8)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
 
-## [9. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Privacy and Encryption Tools / Telegram
+
+*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock)
+
+## [10. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Messaging
 
 *   [Apoapse](https://apoapse.space/) is dedicated to advancing cybersecurity into general use across the business ecosystem. A variety of open-source solutions are offered, such as Apoapse Pro, a self-hosted collaborative messaging platform, or Apoapse Protocol, a secure message and data sharing C++ network library.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [denomander (⭐126)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
@@ -80,7 +86,7 @@
 
 *   [vuetify-dialog (⭐195)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
-## [12. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [13. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Theming
 

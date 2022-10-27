@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2020
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -261,7 +261,19 @@
 
 *   [dataset-api (⭐407)](https://github.com/ApolloScapeAuto/dataset-api) - This is a repo of toolkit for ApolloScape Dataset, CVPR 2019 Workshop on Autonomous Driving Challenge and ECCV 2018 challenge.
 
-## [15. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### 🇷🇺 Russian books
+
+*   [*Swift. Основы разработки приложений под iOS, iPadOS и macOS* - Усов Василий](https://www.ozon.ru/context/detail/id/159759961/)
+
+## [16. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Menu
+
+*   [hamburger-react (⭐682)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+
+## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / IEEE Symposium on Security and Privacy (IEEE S&P)
 

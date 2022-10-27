@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,13 +116,20 @@
 
 *   [magic\_get (⭐135)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
-## [7. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Courses and Tutorials / Third Party Hosts
+
+*   [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
+*   [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
+
+## [8. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/\~rwh/papers/index.html)
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -132,7 +139,7 @@
 
 *   [Simple Diagrams](https://www.simplediagrams.com/) - A desktop app for creating hand-drawn-like, fast, clear sketches of problems, processes, workflows, ideas and more!
 
-## [9. Awesome Frc](/content/andrewda/awesome-frc/README.md)
+## [10. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
 ### General
 

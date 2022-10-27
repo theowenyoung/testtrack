@@ -1,6 +1,6 @@
 # Awesome List Updates on May 22, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -209,6 +209,16 @@
 *   [Anonymous Playground](https://tryhackme.com/room/anonymousplayground) - Want to become part of Anonymous? They have a challenge for you.
 *   [Racetrack Bank](https://tryhackme.com/room/racetrackbank) - It's time for another heist.
 *   [Python Playground](https://tryhackme.com/room/pythonplayground) - Use python to pwn this room.
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Pastebins
+
+*   [GitHub gist](https://gist.github.com)
+
+### Wikis / Telegram
+
+*   [Torchpad](http://torchpad.com/)
 
 ---
 

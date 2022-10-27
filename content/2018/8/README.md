@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19 - Feb 25, 2018
 
-50 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -679,7 +679,14 @@
 
 *   [C++ Awesome Pack (⭐170)](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 
-## [40. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Types / Playground
+
+*   [utility-types (⭐4.6k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
+*   [elm-ts (⭐285)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
+
+## [41. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
@@ -689,7 +696,7 @@
 
 *   [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
 
-## [41. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [42. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -699,7 +706,7 @@
 
 *   [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 
-## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
@@ -709,7 +716,17 @@
     *   [murarth/linefeed (⭐176)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader [![build badge](https://api.travis-ci.org/murarth/linefeed.svg?branch=master)](https://travis-ci.org/murarth/linefeed)
     *   [srijs/rust-copperline (⭐26)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
 
-## [43. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [44. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+
+### Other useful repositories
+
+- Repository: [Hacker101 (⭐13k)](https://github.com/Hacker0x01/hacker101)
+
+  Description: A free class for web security by HackerOne
+
+
+
+## [45. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
@@ -719,7 +736,7 @@
 
 *   [Security Data Science Papers](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 
-## [44. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Actionable Resources
 
@@ -731,19 +748,19 @@
 *   [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) - By Sheelah Kolhatkar.
 *   [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) - By Melissa McEwen.
 
-## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [47. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### System Deployment
 
 *   [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 
-## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [48. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   Sascha Willems's [Vulkan-glTF-PBR (⭐631)](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
 
-## [47. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [49. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Health / Miscellaneous
 
@@ -757,19 +774,19 @@
 
 
 
-## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
 *   [spider-gazelle (⭐156)](https://github.com/spider-gazelle/spider-gazelle) - A Rails esque web framework with a focus on speed and extensibility
 
-## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Oncall and Sustainable Software Development](https://honeycomb.io/blog/2018/02/oncall-and-sustainable-software-development/)
 
-## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

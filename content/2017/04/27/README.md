@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -98,6 +98,16 @@
 ### Examples
 
 *   [HTTP/2 showcase (⭐7)](https://github.com/aesteve/http2-showcase) - A simple demo, showing how HTTP/2 can drastically improve user experience when a huge latency is involved.
+
+## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Probable Wordlists (⭐7.7k)](https://github.com/berzerk0/Probable-Wordlists)
+
+  Description: Wordlists sorted by probability originally created for password generation and testing
+
+
 
 ---
 

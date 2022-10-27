@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,13 +97,19 @@
 
 *   [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 
-## [12. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Generic
+
+*   [css.gg](https://css.gg/) - Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
+
+## [13. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### WWDC Students Submissions / Functional Reactive Programming
 
 *   [2021 (⭐167)](https://github.com/wwdc/2021)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
@@ -113,7 +119,30 @@
 
 *   [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Trackers / Public Trackers
+
+*   [BTDB](https://btdb.eu/) Large BitTorrent DHT search engine
+*   [BTDigg](https://btdig.com/) BTDigg is a popular BitTorrent DHT search engine.
+
+### DDL Link Sites / Free Indexers
+
+*   [Tinymkv](https://tinymkv.xyz/) High quality small size movies/tv shows. It also does high quality HEVC movies.
+
+### Streaming Sites / Anime
+
+*   [Anime Kayo](https://animekayo.com/) Up to 1080p DDL links, mostly Google Drive (no longer updated, site is still accessible)
+
+### Music Downloading / Third Party Hosts
+
+*   [YouTube to MP3](https://ytformp3.com/)
+
+### Mobile Apps / Third Party Hosts
+
+*   [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
+
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Observability
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,6 +84,12 @@
 ### Frameworks / Agile
 
 *   [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk\&feature=youtu.be) - How "Agile" has moved away from the basic principles of agility, and what we need to do to fix things 🎥.
+
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Notification
+
+*   [react-notifications-component (⭐1.2k)](https://github.com/teodosii/react-notifications-component) - [demo](https://teodosii.github.io/react-notifications-component/) - Highly customizable and easy-to-use component for notifications.
 
 ---
 

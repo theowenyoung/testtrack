@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,7 +52,13 @@
 
 *   [ghost-digitalocean (⭐21)](https://github.com/shiva-hack/ghost-digitalocean) - A DigitalOcean Storage adapter for Ghost.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Machine Learning
+
+*   [*Practical AI with Swift* by Mars Geldard, Jonathon Manning, Paris Buttfield-Addison, Tim Nugent](https://aiwithswift.com/book/)
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -62,25 +68,25 @@
 
 *   [Pinata IPFS](https://pinata.cloud) — Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface combined with our IPFS API makes Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free along with access to API.
 
-## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Forms
 
 *   [SendMail for Experience Forms (⭐0)](https://github.com/KayeeNL/Sitecore.ExperienceForms.Modules.SendMail) - Brings a new Send E-mail Action for Sitecore 9 Forms, enabling the submission of e-mails using MainUtil.SendMail method, which will use an SMTP server to submit e-mails in HTML or Plain Text.
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Iteration
 
 *   [doplus (⭐7)](https://github.com/alessiostalla/doplus) – another extensible iteration library, similar to :for.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Common Section / Angular
 
 *   [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/). A weekly newsletter featuring the latest Rails + Javascript + software engineering content.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
@@ -90,20 +96,20 @@
 
 *   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [10. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [11. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Middlewares
 
 *   [Kuiper (⭐804)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 *   [NanoMQ (⭐572)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
 
-## [11. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [12. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Streaming Processing
 
 *   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

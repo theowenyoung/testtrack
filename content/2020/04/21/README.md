@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 21, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,7 +75,17 @@
 
 *   [playwright-github-action (⭐227)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Awesome Repositories
+
+- Repository: [Mainframe Hacking (⭐278)](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
+
+  Description: List of Awesome Mainframe Hacking/Pentesting Resources
+
+
+
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Security
 
@@ -91,7 +101,7 @@
 
 
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -101,7 +111,7 @@
 
 *   [Rust Search Extension (⭐903)](https://github.com/huhu/rust-search-extension) — A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -112,13 +122,13 @@
 *   [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
 *   [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Job processing / Third-party APIs
 
 *   [SBCL's timers](http://www.sbcl.org/manual/#Timers), system-wide event schedulers.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
@@ -130,7 +140,7 @@
 *   [Veniqa (⭐1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
 *   [tato music player (⭐62)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 
-## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -144,7 +154,7 @@
 
 *   [FetchRSS API](https://fetchrss.com/api)
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### PDF
 

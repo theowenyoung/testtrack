@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2021
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,7 +73,13 @@
 
 *   [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131/) - Learn the essential patterns and practices of domain-driven design and how to apply them in your day-to-day work, both in greenfield and brownfield projects.
 
-## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Merchants
+
+*   [CMC Cryptocurrency Icons (⭐122)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+
+## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Code Generators
 
@@ -83,13 +89,13 @@
 
 *   [Lukas Eder](https://twitter.com/lukaseder) - Java Champion, speaker, Founder and CEO Data Geekery (jOOQ).
 
-## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Planning and Control / Vector Map
 
 *   [Ruckig](https://ruckig.com) - Instantaneous Motion Generation. Real-time. Jerk-constrained. Time-optimal.
 
-## [10. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [11. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tutorials
 
@@ -107,13 +113,19 @@
 
 *   [gatling-report (⭐109)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 
-## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
 ### Misc
 
 *   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+
+### Translations / Ironsworn
+
+*   [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German
+
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 

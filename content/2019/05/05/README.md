@@ -1,6 +1,6 @@
 # Awesome List Updates on May 05, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,13 +26,19 @@
 
 *   [data.world](https://data.world) - Datasets.
 
-## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+
+### Swift
+
+*   [*Swift Apprentice* by Ehab Amer, Alexis Gallagher, Matt Galloway, Eli Ganim, Ben Morrow, Cosmin Pupaza, Steven Van Impe](https://store.raywenderlich.com/products/swift-apprentice)
+
+## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Service meshes
 
 *   [Cilium](https://cilium.io/) - Open source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes.
 
-## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [4. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Integration
 
@@ -42,25 +48,25 @@
 
 *   [phalcon-data-table (⭐1)](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
-## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Jump-Start Articles
 
 *   [Challenges I face(d) with Ember.js](https://medium.com/@sarbbottam/challenges-i-face-with-ember-js-59bfba30416e)
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [alacritty (⭐42k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jwilm/alacritty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Page Cache (⭐1k)](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

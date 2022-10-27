@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02 - Jul 08, 2018
 
-37 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -156,7 +156,13 @@
 
 *   [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) - Written by [@wanderingglitch](https://twitter.com/wanderingglitch).
 
-## [17. Typography](/content/deanhume/typography/week/README.md)
+## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Collaboration and Project Management / Telegram
+
+*   [Cardsmith](http://cardsmith.co) - Build visual collaboration systems with the familiarity of sticky notes on a white board.
+
+## [18. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -188,7 +194,7 @@
 *   [Web Fonts are Rocket Science](https://www.filamentgroup.com/lab/rocket-science.html)
 *   [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
-## [18. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [19. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Tools
 
@@ -225,13 +231,13 @@
 *   [OpenPublic](https://www.drupal.org/project/openpublic) - For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector.
 *   [OpenPublish](https://www.drupal.org/project/openpublish) - OpenPublish is a Drupal 7 packaged distribution designed for the online news industry. It is deployed in a variety of media outlets sites including magazines, newspapers, journals, trade publications, broadcast, wire service, multimedia sites and membership publications.
 
-## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [H2O (⭐6k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 
-## [20. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [21. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -597,7 +603,7 @@
 *   [Theravada (⭐109)](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 *   [inspectIT (⭐21)](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Videos / Third-party Service Integration
 
@@ -607,7 +613,7 @@
 
 *   [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 
-## [22. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [23. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -617,14 +623,14 @@
 
 *   [git-quick-stats (⭐5.5k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
-## [23. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [24. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / Individual Videos
 
 *   [Ask A Monk: Divorce](https://www.youtube.com/watch?v=Uq4ibpX-nS0) - Discussion of divorce that leads back to the fundamentals of Buddhism.
 *   [Ask A Monk: Life Partners](https://www.youtube.com/watch?v=MHu46KZVchY) - Suffering does not come from not getting what you want, but from the wanting itself.
 
-## [24. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Web Applications
 
@@ -638,13 +644,19 @@
 *   [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 *   [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
-## [25. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [26. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+
+### Front-End Development
+
+*   [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
+
+## [27. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) \[39:38]
 
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -654,19 +666,19 @@
 
 *   [Manatee.Trello (⭐118)](https://github.com/gregsdennis/Manatee.Trello) - A fully object-oriented .Net wrapper for Trello's RESTful API written in C#.
 
-## [27. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Installation
 
 *   [Brew PHP Switcher (⭐856)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 
-## [28. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [30. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
 *   [pgwatch2 (⭐1.3k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 
-## [29. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [31. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Experts on personal blogs
 
@@ -688,13 +700,13 @@
 
 *   [ag-grid-aurelia (⭐9.3k)](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 
-## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utils & Infra / Navigation Demos
 
 *   [react-native-call-observer (⭐6)](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 
-## [31. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [33. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Design
 
@@ -712,23 +724,23 @@
 
 *   [Startup Jobs](https://startup.jobs/)
 
-## [32. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Preact Component Console (⭐29)](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 
-## [33. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 *   [@bbatsov](https://github.com/bbatsov), [Rubocop (⭐12k)](https://github.com/rubocop-hq/rubocop)
     *   "Interview with Bozhidar Batsov: The Creator’s Thoughts on RuboCop and the Ruby Style Guide" ([post](https://blog.sideci.com/interview-with-bozhidar-batsov-99b049b6fd6a))
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [Cpp-Taskflow (⭐7.4k)](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. \[MIT]
 
-## [35. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [37. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -738,7 +750,7 @@
 
 *   [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comparison tool.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -749,7 +761,7 @@
 *   [Understanding error budget overspend - part one - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/understanding-error-budget-overspend-cre-life-lessons.html)
 *   [Good housekeeping for error budgets - part two - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/cre-life-lessons-good-housekeeping-for-error-budgets.html)
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 

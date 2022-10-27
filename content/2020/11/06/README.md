@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -78,13 +78,19 @@
 
 *   [Kratos (⭐7.7k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Books / Miscellaneous Tools
+
+*   [Windows Subsystem for Linux 2 (WSL 2): Tips, Tricks and Techniques by Stuart Leeks](https://www.amazon.co.uk/Windows-Subsystem-Linux-Tricks-Techniques/dp/1800562446/)
+
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [clml (⭐245)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Proxies / Miscellaneous
 

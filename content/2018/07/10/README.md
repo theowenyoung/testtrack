@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,26 +18,33 @@
 
 *   [StatsLib (⭐409)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
-## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Programming Language Design Patterns
+
+*   Go
+    *   [design-patterns (⭐20k)](https://github.com/tmrts/go-patterns)
+
+## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Women Who Go](https://www.womenwhogo.org/) - A network focused on building a more diverse and inclusive Golang community.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [HackerX](https://www.hackerx.org/jobs/)
 
-## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Web Frameworks
 
 *   [Vibora (⭐5.7k)](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
 *   [Japronto! (⭐8.6k)](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 
-## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### References
 
@@ -59,13 +66,13 @@
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [VirusBay](https://beta.virusbay.io/) - Community-Based malware repository and social network.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 

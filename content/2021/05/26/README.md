@@ -1,30 +1,44 @@
 # Awesome List Updates on May 26, 2021
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Encryption
+
+*   [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
+
+### Video and Audio
+
+*   [Stremio](https://www.stremio.com/) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
+
+### Payments
+
+*   Bank payments (wire, SEPA, etc)
+
+## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Monitoring & Quality Control
 
 *   [MXF Inspect (⭐21)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Payment / Barcode
 
 *   [TPInAppReceipt (⭐503)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
-## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [Windows 10 ARM](https://worproject.ml/) - Community maintained Windows 10 on Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [5. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
 
@@ -56,13 +70,13 @@
 
 *   [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
 *   [JetBrains/kotlin (⭐43k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
-## [6. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Golem
 
@@ -138,7 +152,13 @@
 
 *   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-vconsole (⭐40)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 

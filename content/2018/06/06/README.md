@@ -1,24 +1,41 @@
 # Awesome List Updates on Jun 06, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [1. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+
+### Micro services & Distributed Systems
+
+*   [microservices-anti patterns](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservices antipatterns and pitfalls.
+
+### DevOps & containers
+
+*   [containerspatterns](https://l0rd.github.io/containerspatterns) - There are a Thousand Ways to Use Containers.
+
+### Mobile
+
+*   Android
+    *   [design-patterns-for-android](https://www.raywenderlich.com/109843/common-design-patterns-for-android) -  Common Design Patterns for Android.
+
+    *   [mvc-mvp-and-mvvm](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android) -  The MVC, MVP, and MVVM Smackdown.
+
+## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Comments
 
 *   [Gitment (⭐4k)](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
 *   [Pieman (⭐193)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
-## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Guides
 
@@ -64,49 +81,49 @@
 *   [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
 *   [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
 
-## [4. Awesome](/content/craftcms/awesome/README.md)
+## [5. Awesome](/content/craftcms/awesome/README.md)
 
 ### Community
 
 *   [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Non-deterministic, logic programming
 
 *   [cl-prolog2 (⭐24)](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 
-## [7. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [8. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / Habit Trackers
 
 *   [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 
-## [8. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [9. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [CSRF (⭐33)](https://github.com/vapor-community/CSRF) – A package to add protection to Vapor against CSRF attacks.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Browser extensions
 
 *   [Github XP (⭐2.7k)](https://github.com/martenbjork/github-xp) - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
 
-## [10. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [11. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Icons / Themes
 
 *   [Ant Design Icons (⭐55)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
 
-## [11. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [12. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Tutorials
 

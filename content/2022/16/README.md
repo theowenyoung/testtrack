@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18 - Apr 24, 2022
 
-43 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,47 @@
 
 *   [Performance Checklists for SREs](https://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html)
 
-## [2. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Runtime / Playground
+
+*   [SunTori (⭐3)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
+
+## [3. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+
+### Supported Distributions / Ubuntu
+
+*   ~~[Windows Store Link](https://www.microsoft.com/store/productId/9NBLGGH4MSV6) for Ubuntu 16.04. Supported through April 2021.~~
+*   [Windows Store Link](https://www.microsoft.com/store/productId/9N9TNGVNDL3Q) for Ubuntu 18.04. Supported through April 2023. Very stable but some packages and libraries may be older.
+*   [Windows Store Link](https://www.microsoft.com/en-gb/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab) for Ubuntu 20.04. Supported through April 2025.
+*   [Windows Store Link](https://www.microsoft.com/en-us/p/app/9pn20msr04dw#activetab=pivot:overviewtab) for Ubuntu 22.04. Most recent update. Newer packages but more likely to encounter bugs. Supported through April 2027.
+
+### Supported Distributions / Oracle Linux
+
+*   [Windows Store Link](https://www.microsoft.com/en-us/p/oracle-linux-79/9p7l0qwbsltk) for Oracle Linux 7 Update 9.
+*   [Windows Store Link](https://www.microsoft.com/en-us/p/oracle-linux-85/9p06h18wxbvp#activetab=pivot:overviewtab) for Oracle Linux 8 Update 5.
+*   [Oracle Linux 7 Documentation](https://docs.oracle.com/en/operating-systems/oracle-linux/7/)
+*   [Oracle Linux 8 Documentation](https://docs.oracle.com/en/operating-systems/oracle-linux/8/)
+
+### Supported Distributions / AlmaLinux OS
+
+*   [Windows Store Link](https://apps.microsoft.com/store/detail/almalinux-8-wsl/9NMD96XJJ19F)
+
+### WSL Tools / WSL Utilities
+
+*   [wslu (⭐2.5k)](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslpy (⭐58)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### WSL Tools / Miscellaneous Tools
+
+*   [setup-wsl (⭐73)](https://github.com/Vampire/setup-wsl) - A GitHub action to install and setup a Linux distribution for the Windows Subsystem for Linux (WSL). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+### Intellectual Property Notices / Miscellaneous Tools
+
+*   Ubuntu® and Canonical® are registered trademark of Canonical Limited in the United States and/or other countries. [\*](https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy)
+*   The AlmaLinux OS Marks are trademarks of AlmaLinux OS Foundation. [\*](https://almalinux.org/p/the-almalinux-os-trademark-usage-policy/)
+
+## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
@@ -57,25 +97,25 @@
 *   [capacitor-plugin-demo (⭐35)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
 *   [capacitor-firebase-plugin-demo (⭐7)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Tools
 
 *   [RunKit](https://runkit.com) - Embed a Node.js environment on any website.
 
-## [4. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Type / React
 
 *   [pothos (⭐1.3k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
-## [5. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Web Apps
 
 *   [bundlejs](https://bundle.js.org) - A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, while returning the final bundle file size.
 
-## [6. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [8. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Data
 
@@ -85,7 +125,7 @@
 
 *   [airQuality (⭐3)](https://github.com/233lawliet/airQuality) - 3000+ District air quality metrics: CO2, CO1, PM2.5, PM10 and so on.
 
-## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -95,7 +135,7 @@
 
 *   [Terrakube](https://terrakube.org) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces and visual states.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -109,19 +149,19 @@
 
 *   [PicoShare](https://pico.rocks) - A minimalist, easy-to-host service for sharing images and other files. ([Demo](https://demo.pico.rocks), [Source Code (⭐1k)](https://github.com/mtlynch/picoshare)) `AGPL-3.0` `Go`
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Data Specifications / Environmental
 
 *   [EPA Data Standards](https://www.epa.gov/data-standards/epa-data-standards) - A chart with links to the diversity of data standards adopted by EPA.
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [Spotube (⭐1.7k)](https://github.com/KRTirtho/spotube) <!--stargazers:KRTirtho/spotube--> - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by [KRTirtho](https://github.com/KRTirtho)
 
-## [11. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [13. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -137,32 +177,32 @@
 *   [PANDA (⭐2.1k)](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
 *   [ShowStopper (⭐131)](https://github.com/CheckPointSW/showstopper) - Tool to help malware researchers explore and test anti-debug techniques or verify debugger plugins or other solutions that clash with standard anti-debug methods.
 
-## [12. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [14. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Package managers
 
 *   [ayy (⭐15)](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
-## [13. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [15. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Trainings & Courses / Miscellaneous
 
 *   [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
 *   [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
-## [14. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
 *   [Beginner's guide to eBPF (⭐395)](https://github.com/lizrice/ebpf-beginners) - A set of live-coding talks and the accompanying code examples, introducing eBPF programming using a variety of libraries and program types.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Storage / Scala
 
 *   [Citus (⭐7.5k)](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -176,31 +216,31 @@
 
 *   [vue3-recaptcha2 (⭐18)](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
 
-## [17. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [sensedeep/dynamodb-onetable :fire::fire: (⭐472)](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
 
-## [18. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [20. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Multithreading
 
 *   [isolator](https://pub.dev/packages/isolator) - Isolator offer to you a simple way for creating two-component states with isolated part and frontend part of any kind - BLoC, MobX, ChangeNotifier and others
 
-## [19. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [21. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-menus (⭐104)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
 *   [API Guard (⭐233)](https://github.com/Gokul595/api_guard) - JWT authentication solution for Rails APIs.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -214,26 +254,33 @@
 
 *   [Kotlin/kotlinx-kover (⭐749)](https://github.com/Kotlin/kotlinx-kover) - Gradle plugin for Kotlin code coverage agents.
 
-## [22. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [24. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Alignment / Pairwise
 
 *   **[DIAMOND (⭐733)](https://github.com/bbuchfink/diamond)** - An ultrafast protein aligner for `blastp` and `blastx` like searches. \[ [paper-2021](https://www.nature.com/articles/s41592-021-01101-x) ]
 
-## [23. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [25. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Learning / Talks Presentations Podcasts
+
+*   [Demuxed 2018](https://www.youtube.com/watch?v=bfK_f7GBA8s\&list=PLkyaYNWEKcOfARqEht42i1P4kBemzEV2V)  - 2018  Demuxed talks & presentations
+*   [Demuxed 2019](https://m.youtube.com/playlist?list=PLkyaYNWEKcOf_C_6W45abNvXMb40xUUqh)  - 2019 Demuxed talks & presentations
+
+## [26. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Search Engines
 
 *   [Searx](https://searx.github.io/searx/) is a privacy-respecting, hackable metasearch engine.
 
-## [24. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [27. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [functional.js (⭐217)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 *   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
-## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Game Engines / Runner
 
@@ -248,13 +295,13 @@
 *   [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
 *   [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Layout / Barcode
 
 *   [Scaling Header Scroll View (⭐323)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
-## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [30. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
@@ -264,7 +311,7 @@
 
 *   [Raw: Paralympics XR](https://www.phoria.com.au/projects/paralympics-xr/) - Webby 2022 nominated WebXR 360 video experience.
 
-## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Explainability / Trustworthy AI
 
@@ -275,7 +322,7 @@
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 *   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐786)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-## [29. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [32. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
@@ -328,7 +375,7 @@
 
 *   [Introduction to Vert.x](https://vertx.io/get-started/)
 
-## [30. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [33. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### specifically from (  *a certain platform*  ) / YouTube
 
@@ -338,7 +385,7 @@
 
 *   [Rest In Peace Google Reader](https://web.archive.org/web/20210420205654/https://www.ripgooglereader.com/) <sup>[1001](https://t.me/s/aboutrss/1001)</sup>
 
-## [31. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -348,7 +395,7 @@
 
 *   [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
 
-## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -373,13 +420,20 @@
     *   [Slime breakpoints (⭐5)](https://github.com/mmontone/slime-breakpoints)
     *   [Slite (⭐40)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
 
-## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [36. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Documentation
 
 *   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+
+### Overview / Spotify
+
+*   [librespot (⭐3.4k)](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
+*   [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
+
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -389,13 +443,13 @@
 
 *   [js.cool (⭐270)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 
-## [35. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [39. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Social
 
 *   [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 
-## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -418,7 +472,7 @@
 *   [skill (asafaeirad) (⭐10)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐10)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
-## [37. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [41. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.2+
 
@@ -436,19 +490,19 @@
 *   [AntialiasedLine2D (⭐72)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
 *   [Godot VirtualJoystick (⭐5)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
-## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Security Acronyms (⭐3)](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 
-## [39. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [43. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Networking / Web
 
 *   [Rufaydium WebDriver (⭐42)](https://github.com/Xeo786/Rufaydium-Webdriver) - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -473,7 +527,32 @@
 *   MQTT
     *   [bytebeamio/rumqtt (⭐718)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
 
-## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-pc-template (⭐12)](https://github.com/parajs/vue3-pc-template) - Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template.
+
+### Templates / React
+
+*   [vite-rtk-query (⭐30)](https://github.com/laststance/vite-rtk-query) - React, TypeScript, Redux Toolkit, RTK Query, TailwindCSS, MSW, Jest, React Testing Library, ESLint, Prettier.
+*   [React-PWA (⭐239)](https://github.com/suren-atoyan/react-pwa) - React v18, TypeScript, Vite, React Router v6, MUI v5, Recoil, PWA, Eslint, Prettier, Husky, lint-staged, https localhost and more.
+*   [vite-react-ts-minimal-template (⭐14)](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
+
+### Templates / Others
+
+*   [chrome-ext-template-preact-windi-vite (⭐14)](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-dynamic-import-module (⭐11)](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
+*   [vite-plugin-mp (⭐13)](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-xml-loader (⭐9)](https://github.com/lorenzoc25/vite-plugin-xml-loader) - Loads xml file as JSON.
+
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -484,13 +563,13 @@
 
 *   [ggandor/leap.nvim (⭐1.9k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
-## [42. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [47. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Tools / Building
 
 *   [esbuild-plugin-lit](https://www.npmjs.com/package/esbuild-plugin-lit) - ESBuild plugin to import CSS, SVG, HTML, XLIFF files as JavaScript tagged-template literal objects.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 

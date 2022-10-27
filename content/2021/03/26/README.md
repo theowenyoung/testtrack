@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,7 +85,13 @@
 
 *   :strawberry: [TwigView plugin (⭐11)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Standalone apps / Playground
+
+*   :octocat: [App Outlet (⭐309)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -103,13 +109,13 @@
 
 *   [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
 
-## [11. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [12. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Workflow / Extensions
 
 *   [just](https://github/casey/just) - A task runner for conveniently saving and running project-specific commands. Similar to make, but much nicer
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 

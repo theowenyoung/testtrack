@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,19 +61,25 @@
 
 *   [The Web as History](https://www.uclpress.co.uk/products/84010) - An open-source book that provides a conceptual overview to web archiving research, as well as several case studies.
 
-## [5. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Translation and Speech-to-Text
+
+*   [Simplytranslate](https://git.sr.ht/\~metalune/simplytranslate_web) - Alternative front-end for Google Translate and LibreTranslate. [Demo](https://simplytranslate.org/)
+
+## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
 *   [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
 *   [lo (⭐8.2k)](https://github.com/samber/lo) - A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -83,19 +89,19 @@
 
 *   [tolgee/vue (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Cognitive Development / Commonsense Knowledgebase
 
 *   [Perception of partly occluded objects in infancy](https://www.harvardlds.org/wp-content/uploads/2017/01/Perception-of-partly-occluded-objects-in-infancy-1.pdf) - ***Cognitive Psychology***, 1983. \[[All Versions](https://scholar.google.com/scholar?cluster=4182861116190610992\&hl=en\&as_sdt=0,5)].
 
-## [9. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
 ### Tools / GUIs
 
 *   [Unbrowse SNMP](https://www.unleashnetworks.com/products/unbrowse-snmp.html) - Unbrowse SNMP is a tool that helps to compile cryptic MIB files into an easy GUI view, retrieve and set MIB variables on devices, import snmpwalk dumps, receive traps, chart counters, and much more.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -105,13 +111,13 @@
 
 *   [PHPSandbox](https://phpsandbox.io/) — Online developement environment for PHP.
 
-## [11. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [12. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Animation
 
 *   [Aseprite loader (⭐12)](https://github.com/elloramir/love-ase) - Complete ase/aseprite file loader (no json).
 
-## [12. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [13. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Official plugins
 

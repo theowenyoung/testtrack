@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,25 +50,33 @@
 
     <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
 
-## [4. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Fonts:
+
+- Website: <https://fontsquirrel.com>
+
+
+
+## [5. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Research / Data
 
 *   [MEDevEcon](https://sites.google.com/site/medevecon/devecondata) - Data related to development economics.
 
-## [5. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme) / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [@mattbierner](https://twitter.com/mattbierner) - VS Code Dev
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-qr-reader (⭐65)](https://github.com/HJ29/vue3-qr-reader) - A Vue 3 QR reader component. Refactor vue-qrcode-reader for vue 3 compatibility.
 
-## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Configuration
 
@@ -83,7 +91,7 @@
 
 *   [foojay.io](https://foojay.io)
 
-## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
@@ -93,7 +101,7 @@
 
 *   🚀 [Vite + React + Tailwind Starter (⭐192)](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -105,7 +113,13 @@
 
 *   [BlazorSize (⭐243)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### Unofficial Distributions / AlmaLinux OS
+
+*   [DevuanWSL (⭐15)](https://github.com/VPraharsha03/DevuanWSL) - Devuan Linux as a WSL Distro. Devuan is a Debian variant without the complexities and dependencies of systemd. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+
+## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -139,13 +153,13 @@
 
 *   [Podsync (⭐1k)](https://github.com/mxpv/podsync) <sup>[686](https://t.me/s/aboutrss/686), [847](https://t.me/s/aboutrss/847)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/mxpv/podsync)
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [alestic/lambdash :fire::fire::fire: (⭐526)](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
 
-## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [14. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Blogposts and opinions
 

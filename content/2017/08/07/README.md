@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2017
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,26 +38,49 @@
 
 *   [JXIO (⭐76)](https://github.com/accelio/JXIO) - Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.
 
-## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Books
+
+*   :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
+*   :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
+
+### Web / Playground
+
+*   :octocat: [excaliburjs/Excalibur (⭐1.2k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Introduction to TypeScript](https://www.packtpub.com/application-development/introduction-typescript-video) (Packt)
+*   [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
+
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+### Other Tools / Telegram
+
+*   [Datasploit (⭐2.7k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
+
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Algorithms / Symmetric encryption
 
 *   [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Science and Data Analysis
 
 *   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
 *   [flambo (⭐606)](https://github.com/yieldbot/flambo)
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### UI Automation
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
@@ -73,7 +96,7 @@
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *   [awesome-d3d12 (⭐193)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Post-Mortem
 

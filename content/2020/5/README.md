@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2020
 
-55 awesome lists updated this week.
+62 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -530,25 +530,604 @@
 
 *   [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and English version available.
 
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+- Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
+
+  Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
+
+  Features: Languages: everything that can be installed on Linux
+
+  Supported repositories: GitHub, GitLab, BitBucket, Gogs
+
+  Documentation: [Documentation (⭐853)](https://github.com/bleenco/abstruse/tree/master/docs)
+
+  Price: [Open Source](https://abstruse.bleenco.io)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bleenco/abstruse.svg)](https://github.com/bleenco/abstruse)
+
+
+- Name: [App Center](https://appcenter.ms/signup?utm_source=GitHub\&utm_medium=Azure)
+
+  Description: CI Platform. It connects with Hockeyapp where you can store installers and send their by email
+
+  Features: Compatible with Android, iOS, Xamarin, React Native, Unity, Cordova, macOS, tvOS
+
+  Supported repositories: GitHub, BitBucket, VSTS
+
+  Documentation: [Documentation](https://docs.microsoft.com/en-us/appcenter/)
+
+  Price: [Free with limitations](https://appcenter.ms/#pricing)
+
+  Stars: 
+
+
+- Name: [Appveyor](https://ci.appveyor.com)
+
+  Description: AppVeyor automates building, testing and deployment of .NET applications.
+
+  Features: Languages: C#, Xamarin, F#, VB.NET, C/C++, Node.js, Ruby, TypeScript, Go, Java, Python, Perl, Erlang
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](http://www.appveyor.com/docs)
+
+  Price: [Free with limitations](http://www.appveyor.com/pricing)
+
+  Stars: 
+
+
+- Name: [Assertible](https://assertible.com/)
+
+  Description: Automated post-deployment testing and web service monitoring
+
+  Features: [Example Integrations (⭐10)](https://github.com/assertible/deployments)
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://assertible.com/docs)
+
+  Price: [Free with limitations](https://assertible.com/plans)
+
+  Stars: 
+
+
+- Name: [AWS CodeBuild](https://aws.amazon.com/codebuild/)
+
+  Description: Fully managed continuous integration service in AWS
+
+  Features: Docker
+
+  Supported repositories: AWS S3, AWS CodeCommit, Github, Bitbucket
+
+  Documentation: [Documentation](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html)
+
+  Price: [First 100 minutes per month for free, pay-as-you-go later](https://aws.amazon.com/codebuild/pricing)
+
+
+- Name: [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min) (formerly Visual Studio Team Services)
+
+  Description: Cloud-based collaboration services for version control, agile planning, continuous delivery, and analytics application for Visual Studio, Eclipse, Xcode.
+
+  Features: 
+
+  Supported repositories: Azure DevOps, GitHub, Custom
+
+  Documentation: [Documentation](https://docs.microsoft.com/en-us/azure/devops/index?view=azure-devops)
+
+  Price: [Free](https://visualstudio.microsoft.com/free-developer-offers/) with [monthly build limits](https://docs.microsoft.com/en-us/azure/devops/organizations/billing/buy-more-build-vs?view=azure-devops)
+
+  Stars: 
+
+
+- Name: [Bamboo](https://www.atlassian.com/software/bamboo)
+
+  Description: Bamboo is a continuous integration and continuous deployment server
+
+  Features: 
+
+  Supported repositories: Bitbucket (for Bitbucket Cloud), Stash (for Bitbucket Server), Git, GitHub (for GitHub and GitHub Enterprise), Mercurial, Subversion, CVS, Perforce, Custom via plugins
+
+  Documentation: [Documentation](https://confluence.atlassian.com/bamboo/getting-started-with-bamboo-289277283.html?_ga=2.160145277.1739207425.1573055585-984459647.1572881977)
+
+  Price: Full Atlassian stack for 10 users: 10$/year ( 100% of payments to charity)
+
+  Stars: 
+
+
+- Name: [Bitrise](http://bitrise.io/)
+
+  Description: Mobile Continuous Integration and Delivery.
+
+  Features: [Source code (⭐757)](https://github.com/bitrise-io/bitrise) is available
+
+  Supported repositories: GitHub, BitBucket, Gitlab, Custom
+
+  Documentation: [Documentation](http://devcenter.bitrise.io/)
+
+  Price: [Free with limitations](https://www.bitrise.io/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bitrise-io/bitrise.svg)](https://github.com/bitrise-io/bitrise)
+
+
+- Name: [Buddy](https://buddy.works)
+
+  Description: Continuous Integration and Deployment
+
+  Features: Languages: .NET/C#, C/C++, Clojure, Elixir, Go, Haskell, Java, Javascript, Node.JS, PHP, Python, React Native, Ruby, Scala
+
+  Supported repositories: GitHub, Bitbucket, Gitlab, Custom
+
+  Documentation: [Documentation](https://buddy.works/docs)
+
+  Price: [Free with limitations](https://buddy.works/pricing)
+
+  Stars: 
+
+
+- Name: [Buildkite](https://buildkite.com/)
+
+  Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
+
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐690)](https://github.com/buildkite/agent)
+
+  Supported repositories: GitHub, Bitbucket, GitLab, Custom
+
+  Documentation: [Documentation](https://buildkite.com/docs/guides/getting-started)
+
+  Price: [14-day Trial](https://buildkite.com/pricing), [Free for Education, Open Source](https://buildkite.com/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
+
+
+- Name: [CDS (⭐4k)](https://github.com/ovh/cds)
+
+  Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
+
+  Features: Languages: everything
+
+  Supported repositories: Github, Bitbucket Server, Gitlab
+
+  Documentation: [Documentation](https://ovh.github.io/cds/)
+
+  Price: [Free Open Source (⭐4k)](https://github.com/ovh/cds)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
+
+
+- Name: [Codacy](https://www.codacy.com/)
+
+  Description: Automated code reviews & code analytics
+
+  Features: Languages: Scala, Java, JavaScript, Python, Ruby, PHP, Apex, JSP, XML, Velocity, VisualForce, C#, JSON, Kotlin, Markdown
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://support.codacy.com/hc/en-us)
+
+  Price: [Free for open-source projects](https://www.codacy.com/pricing)
+
+  Stars: 
+
+
+- Name: [Code Climate](https://www.codeclimate.com/)
+
+  Description: Hosted platform to continuously measure and monitor code quality
+
+  Features: Languages: Ruby, Javascript, PHP
+
+  Supported repositories: GitHub, Custom
+
+  Documentation: [Documentation](http://docs.codeclimate.com/)
+
+  Price: [14-day Trial](https://codeclimate.com/pricing)
+
+  Stars: 
+
+
+- Name: [CodeFresh](https://codefresh.io/)
+
+  Description: Codefresh is a Docker-native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes
+
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Java, etc
+
+  Supported repositories: GitHub, BitBucket, GitLab, Webhooks
+
+  Documentation: [Documentation](https://docs.codefresh.io/)
+
+  Price: [Pricing](https://codefresh.io/pricing/)
+
+  Stars: 
+
+
+- Name: [Codemagic](https://codemagic.io/)
+
+  Description: Dedicated CI/CD for Flutter mobile, web and desktop projects.
+
+  Features: 
+
+  Supported repositories: GitHub, BitBucket, GitLab, Custom
+
+  Documentation: [Documentation](https://docs.codemagic.io/)
+
+  Price: 500 build minutes for free each month [Pricing](https://codemagic.io/pricing/)
+
+  Stars: 
+
+
+- Name: [Codeship](https://www.codeship.io/)
+
+  Description: One more cloud based CI service: running tests and deployment
+
+  Features: Languages: Dart, Elixir, Go, Java and JVM based languages, PHP, Python, Node.JS, Ruby
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://www.codeship.io/documentation) [Free ebook](http://ebooks.codeship.io/efficiency-in-development-workflows-by-codeship/)
+
+  Price: [Free for opensource projects or 100 builds per month](https://www.codeship.io/pricing)
+
+  Stars: 
+
+
+- Name: [Concourse CI](https://concourse-ci.org/)
+
+  Description: Self-hosted CI solution written in Golang
+
+  Features: 
+
+  Supported repositories: GitHub, generic oAuth
+
+  Documentation: [Documentation](https://concourse-ci.org/docs.html)
+
+  Price: Free (Open source)
+
+  Stars: 
+
+
+- Name: [Coveralls](https://coveralls.io)
+
+  Description: Coveralls works with your continuous integration server to give you test coverage history and statistics.
+
+  Features: Languages: Ruby, Javascript, Python, PHP, C, Objective-C, Scala, GO
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://docs.coveralls.io/)
+
+  Price: [Free for opensource projects](https://coveralls.io/pricing)
+
+  Stars: 
+
+
+- Name: [Coverity](http://www.coverity.com)
+
+  Description: Code analysis, test analysis
+
+  Features: Languages: C/C++, Java, C#
+
+  Supported repositories: 
+
+  Documentation: None
+
+  Price: [Free for opensource projects](http://softwareintegrity.coverity.com/free-trial-coverity.html)
+
+  Stars: 
+
+
+- Name: [Ebert](https://ebertapp.io/)
+
+  Description: Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
+
+  Features: Languages: Apex, C, Clojure, CoffeeScript, CSS, Elixir, Go, Haskell, Haxe, JavaScript, Markdown, PHP, Python, Ruby, SCSS, Shell, Swift, Vim script.
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://ebertapp.io/docs)
+
+  Price: [100% free for public repositories on GitHub](https://ebertapp.io/#pricing)
+
+  Stars: 
+
+
+- Name: [Evergreen (⭐367)](https://github.com/evergreen-ci/evergreen)
+
+  Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
+
+  Features: 
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation (⭐367)](https://github.com/evergreen-ci/evergreen/wiki)
+
+  Price: 
+
+  Stars: [![Stars](https://img.shields.io/github/stars/evergreen-ci/evergreen.svg)](https://github.com/evergreen-ci/evergreen)
+
+
+- Name: [GitLab](https://about.gitlab.com/product/continuous-integration/)
+
+  Description: GitLab is a single application for the entire DevOps lifecycle
+
+  Features: Languages: everything that can be installed on Linux. Compatible with Linux, Windows, Android and iOS
+
+  Supported repositories: GitLab, GitHub, Bitbucket
+
+  Documentation: [Documentation](https://docs.gitlab.com/ee/ci/README.html)
+
+  Price: [Open Source](https://about.gitlab.com/install/) plus [Free with limitations](https://about.gitlab.com/pricing/#gitlab-com) hosted version
+
+  Stars: 
+
+
+- Name: [GitGud](https://gitgud.io/)
+
+  Description: Free & Reliable Git hosting site powered by GitLab
+
+  Features: Everything that GitLab does but for free
+
+  Supported repositories: GitLab, Bitbucket, GitHub, Gitea, Clone by URL
+
+  Documentation: [Documentation](https://docs.gitlab.com/ee/ci/README.html)
+
+  Price: [Completely Free](https://gitgud.io/users/sign_in)
+
+  Stars: 
+
+
+- Name: [GitHub Actions](https://github.com/features/actions)
+
+  Description: Automate your workflow from idea to production
+
+  Features: Workflows run in Linux, macOS, Windows, and containers on GitHub-hosted servers
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
+
+  Price: Free for Open Source and free with limits for private repositories
+
+  Stars: 
+
+
+- Name: [Hound CI](https://houndci.com/)
+
+  Description: Hound integrates with your existing workflow by reviewing and commenting on code.
+
+  Features: Languages: Bash, Elixir, Go, HAML, JavaScript, CoffeeScript, TypeScript, Markdown, PHP, Python, Ruby, Sass/SCSS, Swift
+
+  Supported repositories: GitHub
+
+  Documentation: 
+
+  Price: [Public repositories for free](https://houndci.com/)
+
+  Stars: 
+
+
+- Name: [Hydra](https://nixos.org/hydra/)
+
+  Description: Nix-based continuous build system
+
+  Features: 
+
+  Supported repositories: 
+
+  Documentation: [Documentation](https://nixos.org/hydra/manual/)
+
+  Price: Opensource (GNU GPLv3)
+
+  Stars: 
+
+
+- Name: [Jenkins](https://jenkins.io/)
+
+  Description: With thousands of plugins to choose from, Jenkins can help teams to automate any task that would otherwise put a time-consuming strain on your software team.
+
+  Features: Languages: Embedded, PHP, Python, Ruby, Java, Android, C/C++.
+
+  Supported repositories: Any VCS that supports git, mercurial, cvs, subversion
+
+  Documentation: [Documentation](https://jenkins.io/doc/)
+
+  Price: [Open Source (⭐20k)](https://github.com/jenkinsci/jenkins)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/jenkinsci/jenkins.svg)](https://github.com/jenkinsci/jenkins)
+
+
+- Name: [Peakflow](https://www.peakflow.io/)
+
+  Description: CI builds, error reporting and uptime monitoring
+
+  Features: Languages: Ruby, PHP, Javascript and anything you can set up yourself.
+
+  Supported repositories: Github
+
+  Documentation: [Documentation](https://www.peakflow.io/en/faq)
+
+  Price: [Free for private projects](https://www.peakflow.io/en)
+
+  Stars: 
+
+
+- Name: [Previs (⭐319)](https://github.com/PaulRosset/previs)
+
+  Description: Use Travis configuration to run stuff locally in a clean environment.
+
+  Features: Everything that Travis support or almost
+
+  Supported repositories: Your computer, it's running locally!
+
+  Documentation: [Documentation (⭐319)](https://github.com/PaulRosset/previs)
+
+  Price: It's free! Since you are hosting everything locally on your computer!
+
+  Stars: [![Stars](https://img.shields.io/github/stars/PaulRosset/previs.svg)](https://github.com/PaulRosset/previs)
+
+
+- Name: [Probo.CI](https://probo.ci/)
+
+  Description: Continuous Collaboration -  break down the barriers between software developers and the other stakeholders involved in a software development project
+
+  Features: Underlying engine is OSS, offers several Ubuntu base images, asset pre-upload helps build speed.
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://docs.probo.ci/)
+
+  Price: 2 month free trial then starts at $30. [Pricing](https://probo.ci/pricing/)
+
+  Stars: 
+
+
+- Name: [Saucelabs](https://saucelabs.com/)
+
+  Description: Automated testing in the cloud for CI
+
+  Features: 
+
+  Supported repositories: 
+
+  Documentation: [Documentation](https://docs.saucelabs.com/)
+
+  Price: [14-day Trial](https://saucelabs.com/pricing)
+
+  Stars: 
+
+
+- Name: [Scrutinizer](https://scrutinizer-ci.com/)
+
+  Description: Build quality software, better
+
+  Features: [Sources](https://github.com/scrutinizer-ci) are available
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://scrutinizer-ci.com/docs/)
+
+  Price: [14-day Trial](https://scrutinizer-ci.com/pricing)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/scrutinizer-ci/scrutinizer.svg)](https://github.com/scrutinizer-ci/scrutinizer)
+
+
+- Name: [Semaphore](https://semaphoreci.com/)
+
+  Description: Hosted continuous integration and delivery solution for open source and private projects.
+
+  Features: Ruby, Node.js, JavaScript, Go, Clojure, Elixir, Erlang, Java, PHP, Scala, C/C++
+
+  Supported repositories: GitHub, BitBucket
+
+  Documentation: [Documentation](https://docs.semaphoreci.com/)
+
+  Price: [Free for Open Source, pay only for what you use, first $20 every month on Semaphore (up to 1,300 service minutes)](https://semaphoreci.com/pricing)
+
+  Stars: 
+
+
+- Name: [Sider](https://sider.review/)
+
+  Description: Increase code review efficiency and deliver products with confidence. Sider helps development teams accomplish more, allowing them to deliver more value to their customers.
+
+  Features: [Supported Analysis Tools](https://sider.review/en/features/tools)
+
+  Supported repositories: GitHub
+
+  Documentation: [Documentation](https://help.sider.review/)
+
+  Price: [Free 14-day trial for private repositories, and forever free for open source](https://sider.review/pricing)
+
+  Stars: 
+
+
+- Name: [StyleCI](https://styleci.io/)
+
+  Description: The Web Coding Style Service, used by [Cachet](https://cachethq.io/) and [Laravel](https://laravel.com/).
+
+  Features: Languages: PHP, JavaScript, TypeScript, Flow, CSS, SCSS, Less, Vue.js, Python
+
+  Supported repositories: GitHub, BitBucket, GitLab
+
+  Documentation: [Documentation](https://docs.styleci.io/)
+
+  Price: [Free for opensource projects](https://styleci.io)
+
+  Stars: 
+
+
+- Name: [TeamCity](https://www.jetbrains.com/teamcity/)
+
+  Description: A Java-based build management and continuous integration server from JetBrains.
+
+  Features: Support [wide variety of web browsers and build tools](https://confluence.jetbrains.com/display/TCD10/Supported+Platforms+and+Environments#SupportedPlatformsandEnvironments-BuildRunners)
+
+  Supported repositories: Git, Subversion, Perforce, Team Foundation Server, Mercurial, CVS, SourceGear Vault 6 and 7, Borland StarTeam 6 and up, IBM Rational ClearCase, Base and UCM modes, Microsoft Visual SourceSafe 6 and 2005
+
+  Documentation: [Documentation](https://confluence.jetbrains.com/display/TCD10/TeamCity+Documentation)
+
+  Price: [Free with limitations](https://www.jetbrains.com/teamcity/buy/#license-type=new-license)
+
+  Stars: 
+
+
+- Name: [Wercker](https://app.wercker.com)
+
+  Description: Continuous delivery platform
+
+  Features: 
+
+  Supported repositories: Docker Hub
+
+  Documentation: [Documentation](https://devcenter.wercker.com/)
+
+  Price: 
+
+  Stars: 
+
+  : 
+
+
+- Name: [Zuul](https://zuul-ci.org)
+
+  Description: A Project Gating System
+
+  Features: Self-Hosted, Open Source CI/CD Platform, Gating
+
+  Supported repositories: GitHub, Gerrit, Pagure
+
+  Documentation: [Documentation](https://zuul-ci.org/docs/zuul)
+
+  Price: [Open Source](https://zuul-ci.org)
+
+  Stars: 
+
+
+
+## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
 *   [Flutter Samples (⭐2.7k)](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Reading
 
 *   [Elixir vs Ruby | How Switching To Elixir Made Our Team Better](https://foxbox.com/blog/elixir-vs-ruby/) - Long-form post that explains in detail when and why you should choose Elixir over Ruby.
 
-## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [17. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### QR
 
 *   [RQRCode (⭐1.7k)](https://github.com/whomwah/rqrcode) - RQRCode is a library for creating and rendering QR codes into various formats.
 
-## [17. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [18. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+
+### tvOS
+
+*   [*tvOS Apprentice* by Christine Abernathy, Jawwad Ahmad, Chris Belanger, Eric Cerney, Josh Greene, Michael Katz, Kelvin Lau, Adrian Strahan](https://store.raywenderlich.com/products/tvos-apprentice)
+*   [*Developing for Apple TV using tvOS and Swift* by Gary Bennett, Brad Lees, Stefan Kaczmarek](https://www.apress.com/gp/book/9781484217146)
+
+## [19. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
@@ -588,31 +1167,31 @@
 
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 
-## [18. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
 *   [Demo](https://blazor-demo.github.io/) - Official basic demo website.
 
-## [19. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [21. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Projects / InfoSec
 
 *   [ESP32Marauder (⭐972)](https://github.com/justcallmekoko/ESP32Marauder) - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
 
-## [20. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
 *   [eb-node-express-sample :fire::fire: (⭐264)](https://github.com/awslabs/eb-node-express-sample) - Sample express app.
 
-## [21. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [23. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Reloading](http://reloading.com.br/) - Podcast semanal que traz as notícias, acontecimentos e curiosidades mais importantes do mundo dos videogames.
 
-## [22. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [24. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Cloud
 
@@ -626,11 +1205,10 @@
 
 *   [mqtt-camera-streamer (⭐173)](https://github.com/robmarkcole/mqtt-camera-streamer) - Stream images from a connected camera over MQTT & view using Streamlit
 
-## [23. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
-*   [Anevicon (⭐21)](https://github.com/rozgo/anevicon) - The most powerful UDP-based load generator, written in Rust.
 *   [Finshir (⭐21)](https://github.com/isgasho/finshir) - A coroutines-driven Low & Slow traffic generator, written in Rust.
 
 ### Network / Sniffer
@@ -641,13 +1219,13 @@
 
 *   [Recon-ng (⭐2.2k)](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 
-## [24. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [26. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [Diffy](https://diffy.website) - Cloud based visual regression tool. Uses puppeteer and proprietary comparison algorithm (detect layout shifts). Great scalability with AWS Lambda.
 
-## [25. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [27. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
@@ -657,7 +1235,15 @@
 *   [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 *   [Virtual](https://virtualddd.com/)
 
-## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Other Tools / Telegram
+
+*   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+*   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
+    urls and other data effortlessly
+
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -667,19 +1253,19 @@
 
 *   [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [pprint (⭐879)](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. \[MIT]
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
 *   [Iconset](https://iconset.io) - Free, cross-platform and fast SVG icon organizer and manager for Mac and Windows.
 
-## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -704,7 +1290,7 @@
 *   [dalek-cryptography/x25519-dalek (⭐245)](https://github.com/dalek-cryptography/x25519-dalek) — Pure Rust implementation of X25519 key exchange
 *   [debris/tiny-keccak (⭐168)](https://github.com/debris/tiny-keccak) — Pure Rust implementation of the Keccak family (SHA3)
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -718,7 +1304,7 @@
 
 *   [AdvanceDLSupport (⭐451)](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
 
-## [31. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [34. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
@@ -737,7 +1323,7 @@
 
 *   [cleanflux (⭐32)](https://github.com/Transatel/cleanflux) - proxy around /query endpoint with auto retention policy selection and on the wire bug corrections
 
-## [32. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [35. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -748,7 +1334,7 @@
 *   [Events in Italy (⭐145)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 *   [Events in the Netherlands (⭐50)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Localization / Barcode
 
@@ -762,13 +1348,13 @@
 
 *   [ASCollectionView (⭐363)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
-## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Philippines](https://www.facebook.com/groups/laravelph)
 
-## [35. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [38. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Data Management
 
@@ -806,7 +1392,7 @@
 *   [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 *   [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -840,13 +1426,19 @@
 
 *   [Ideamotive's Blog](https://www.ideamotive.co/blog/tag/react-native) - Blog about React Native
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [Flox (⭐1.1k)](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information. ([Demo](https://flox-demo.pyxl.dev/)) `MIT` `PHP`
 
-## [38. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
+## [41. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Resources / Conferences
+
+*   [PyCon US](https://us.pycon.org/2020/) ([YouTube Channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ))
+
+## [42. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
 
 ### Official links
 
@@ -874,7 +1466,7 @@
 *   [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 *   [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 
-## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [43. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -884,7 +1476,7 @@
 
 *   [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) - More than 3300 descriptors and related terms for chemoinformatic analysis of chemical compound properties.
 
-## [40. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [44. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Auditing / Logging
 
@@ -911,7 +1503,19 @@
 
 *   [CloudflareDeploy Plugin (⭐1)](https://github.com/challgren/cakephp-cloudflare-deploy) - Useful console commands for deploying CakePHP apps using Cloudflare.
 
-## [41. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [45. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+
+### VueJS
+
+- Name: [vue-music163 (⭐92)](https://github.com/pluto1114/vue-music163)
+
+  Description: A Vue.js app for music
+
+  Link: 
+
+
+
+## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -921,13 +1525,13 @@
 
 *   [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
-## [42. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [47. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
 
-## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [48. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -977,7 +1581,7 @@
 *   [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 *   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning
 
-## [44. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [49. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -988,7 +1592,7 @@
 
 *   [DELTA (⭐70)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
 
-## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [50. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Logging
 
@@ -1006,7 +1610,7 @@
 
 *   [TKRubberIndicator (⭐1.4k)](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift.
 
-## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1017,19 +1621,19 @@
 *   [Linting your AWS IAM policy documents for correctness and security issues (⭐31)](https://github.com/xen0l/iam-lint)
 *   [Secret Spreader (⭐34)](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 
-## [47. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [52. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 
-## [48. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [53. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Misc/Technical / Hosting
 
 *   [CouchDB - JSON and B-trees and REST, oh my!](https://pozorvlak.livejournal.com/176385.html)
 
-## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Blockchain
 
@@ -1044,7 +1648,7 @@
 
 *   [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS protocol implementation and resolver
 
-## [50. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [55. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -1055,13 +1659,13 @@
 
 *   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 
-## [51. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [56. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [MAX31855 (⭐3)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
 
-## [52. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [57. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Iconic fonts / Fonts
 
@@ -1071,7 +1675,7 @@
 
 *   [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## [53. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [58. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
@@ -1083,13 +1687,27 @@
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
-## [54. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [59. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+
+### Boilerplate / Mouse Events
+
+*   [crisp-react (⭐154)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
+
+### Miscellaneous / Mouse Events
+
+*   [react-universal-hooks (⭐177)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
+
+## [60. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Date and Time
 
 *   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 
-## [55. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [61. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -1120,6 +1738,26 @@
   Year Published: 2011
 
 
+
+## [62. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+
+### Network Tools / DDoS Tools
+
+*   [Anevicon (⭐21)](https://github.com/rozgo/anevicon) - Powerful UDP-based load generator, written in Rust.
+
+### Network Tools / Network Reconnaissance Tools
+
+*   [AQUATONE (⭐4.9k)](https://github.com/michenriksen/aquatone) - Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+*   [OWASP Amass (⭐8k)](https://github.com/OWASP/Amass) - Subdomain enumeration via scraping, web archives, brute forcing, permutations, reverse DNS sweeping, TLS certificates, passive DNS data sources, etc.
+*   [subbrute (⭐3k)](https://github.com/TheRook/subbrute) - DNS meta-query spider that enumerates DNS records, and subdomains.
+
+### Network Vulnerability Scanners / Wireless Network Tools
+
+*   [Netsparker Application Security Scanner](https://www.netsparker.com/pricing/) - Application security scanner to automatically find security flaws.
+
+### Operating System Distributions / Web application and resource analysis tools
+
+*   [Parrot](https://parrotlinux.org/) - Distribution similar to Kali, with support for multiple hardware architectures.
 
 ---
 

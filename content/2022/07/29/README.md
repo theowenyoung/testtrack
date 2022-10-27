@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2022
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -63,13 +63,38 @@
 
 *   [marshmallow (⭐214)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
 
-## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue-ts-starter (⭐26)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-browser-sync (⭐6)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+
+## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
 *   [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
+
+### Third-Party Packages / Task Queues
+
+*   [django-redis (⭐2.4k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
+*   [django-dramatiq (⭐250)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+
+### Projects / Open Source Projects
+
+*   [Flagsmith (⭐2k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
+
+## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 

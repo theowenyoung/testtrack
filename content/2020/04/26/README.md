@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26, 2020
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -903,13 +903,20 @@
 
 *   [Get generated static site screenshots updated by Pull Request (⭐19)](https://github.com/ssowonny/diff-pages-action)
 
-## [11. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+
+### Ebooks / Third Party Hosts
+
+*   [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
+*   [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
+
+## [12. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Collaboration/Education
 
 *   [IllumiDesk (⭐39)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### General
 
@@ -961,19 +968,19 @@
 
 *   [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - By Mathias Biilmann & Phil Hawksworth (published by O'Reilly).
 
-## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [14. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [JHipster](https://opencollective.com/generator-jhipster) - Open Source application platform for creating Spring Boot + Angular/React/Vue projects in seconds.
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-root-siblings ★452 (⭐588)](https://github.com/magicismight/react-native-root-siblings) - Add sibling elements after your app root element.
 
-## [15. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [16. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Others
 
@@ -982,6 +989,12 @@
 ### Resources / Courses
 
 *   [Python for chemoinformatics (⭐189)](https://github.com/Mishima-syk/py4chemoinformatics)
+
+## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Carousel
+
+*   [react-instagram-zoom-slider (⭐65)](https://github.com/skozer/react-instagram-zoom-slider) - [demo](https://skozer.github.io/react-instagram-zoom-slider/) - A slider component with pinch to zoom capabilities inspired by Instagram.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -98,6 +98,16 @@
 ### Utilities / Theming and Customization
 
 *   [JackPaper (⭐10)](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
+
+## [14. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Offline / Other (Plugins || Cross-platform || OSS || Free)
+
+*   [Typescript tooling for Neovim (⭐624)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
+
+### Web / Playground
+
+*   :octocat: [Dnote (⭐2.4k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 
 ---
 

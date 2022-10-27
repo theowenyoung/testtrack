@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 13, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,19 +33,25 @@
 
 *   [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
 
-## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Custom Scrollbar
+
+*   [rc-scrollbars (⭐95)](https://github.com/sakhnyuk/rc-scrollbars) - [demo](https://rc-scrollbars.vercel.app/) - Customizable scrollbars with flex options and 60FPS
+
+## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Related awesomeness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
 
-## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authorization / AWS policy tools
 
 *   [IAM Floyd (⭐449)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
 
-## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [8. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Community Resources
 
@@ -61,7 +67,7 @@
 *   [GitNow (⭐246)](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
 *   [Getopts (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 
-## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Resources / Tutorials
 

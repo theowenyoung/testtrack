@@ -1,12 +1,28 @@
 # Awesome List Updates on Aug 14, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Frege](/content/sfischer13/awesome-frege/README.md)
+## [1. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+
+### 5\. WSL2
+
+*   [Announcing WSL2](https://devblogs.microsoft.com/commandline/announcing-wsl-2/) - Microsoft blog announcing WSL2
+*   [The new Windows subsystem for Linux architecture: a deep dive](https://www.youtube.com/watch?v=lwhMThePdIo) - WSL2 presentation at Microsoft Build 2019
+*   [WSL2-Linux-Kernel (⭐6.1k)](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2.
+
+### 8\. Installation
+
+*   [Windows Server Installation Guide](https://docs.microsoft.com/en-us/windows/wsl/install-on-server) - Microsoft's official guide for Windows Server.
+
+### Supported Distributions / Fedora Remix for WSL
+
+*   [Windows Store Link](https://www.microsoft.com/store/productId/9N6GDM4K2HNC) 💰
+
+## [2. Awesome Frege](/content/sfischer13/awesome-frege/README.md)
 
 ### Information / Articles & Blogs
 
@@ -16,7 +32,7 @@
 
 *   [frech (⭐0)](https://github.com/Ingo60/frech) - Fully functional chess engine.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -26,7 +42,7 @@
 
 *   [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code (⭐3.5k)](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`
 
-## [3. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
+## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
 ### Information / Talks
 
@@ -37,7 +53,7 @@
 
 *   [IntelliJ Eta (⭐52)](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ.
 
-## [4. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [5. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Videos
 
@@ -47,7 +63,7 @@
 *   [Creating personality for your Actions](https://youtu.be/dh_mixqvrP0) - In this episode of Assistant on Air, host Jessica Dene Early Cha and guest Wally Brill discuss why it's important to design with persona and how to bring it to life.
 *   [Designing Quality Conversations for the Google Assistant (Google I/O'19)](https://youtu.be/ZRjkSqVedfY) - A conversation designer and a developer will walk you through setting user expectations, handling unexpected user responses, and making improvements with user insights.
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Python SDK
 
@@ -91,20 +107,20 @@
 *   [.NET](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
 *   [Security](https://aws.amazon.com/blogs/security/)
 
-## [6. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
+## [7. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
 ### Gatsby Plugins / Other helpful Plugins
 
 *   [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image)
 *   [gatsby-source-filesystem](https://www.gatsbyjs.org/packages/gatsby-source-filesystem)
 
-## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Utilities
 
 *   [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
 
-## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Modules
 

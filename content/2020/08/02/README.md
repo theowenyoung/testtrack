@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,13 @@
 
 *   [Skyhook (⭐26)](https://github.com/deedeecx330/skyhook) - Send and receive files securely
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+### HLS / Talks Presentations Podcasts
+
+*   [carlanton/m3u8-parser (⭐122)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Algorithms and Design Patterns
 
@@ -198,7 +204,7 @@
 
 *   [Python Weekly](http://www.pythonweekly.com/)
 
-## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Animations / Other
 

@@ -1,18 +1,28 @@
 # Awesome List Updates on Jul 19, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [1. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+
+### Other useful repositories
+
+- Repository: [Gray Hacker Resources (⭐53)](https://github.com/bt3gl/Gray-Hacker-Resources)
+
+  Description: Useful for CTFs, wargames, pentesting
+
+
+
+## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Automation
 
 *   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
-## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [3. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra
 
@@ -90,13 +100,13 @@
 *   [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 *   [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
 *   [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 
-## [4. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Applications
 
@@ -106,7 +116,7 @@
 
 *   [Encouraging Wellness in a Remote Workpalce](https://dev.to/desi/encouraging-wellness-in-a-remote-workplace-17m5) - By Desi Rottman.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Style Guides
 

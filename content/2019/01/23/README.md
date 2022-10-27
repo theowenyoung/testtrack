@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,19 +68,42 @@
 
 *   [IoT OnOff](https://www.iot-onoff.com/) - Configurable iOS/Android app.
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Resources / Educational
+
+*   [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
+*   [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
+
+### Projects / Open Source Projects
+
+*   [Newspaper app with custom user model, full user auth (⭐809)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
+*   [Image Sharing Blog (⭐40)](https://github.com/MeNsaaH/soMedia)
+
+### Django REST Framework / DRF Resources
+
+*   [DRF Source Code (⭐24k)](https://github.com/encode/django-rest-framework)
+
+### Django REST Framework / DRF Tutorials
+
+*   [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
+*   [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
+*   [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
+*   [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
+
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Projects
 
 *   [Spiderless (⭐181)](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS.
 
-## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Apex Chainable Batch (⭐38)](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Business
 
@@ -103,7 +126,7 @@
 
 *   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Download Management Tools / File Sharing
 

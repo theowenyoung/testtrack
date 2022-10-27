@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -123,7 +123,21 @@
 *   [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
 *   [Grav (⭐14k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [pankod/next-boilerplate (⭐1.4k)](https://github.com/pankod/next-boilerplate) A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle Analyzer and Built-in CLI
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [mokia (⭐109)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
+
+### Social / Chrome Extensions
+
+*   [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft involved with the Typescript project
+
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SNS
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2021
 
-23 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,13 +58,19 @@
 *   [arCHeco](https://www.archeco.info/) - Index of economic collections in archives of Switzerland and Liechtenstein.
 *   [Kartenportal](http://www.kartenportal.ch/) - Search engine for maps.
 
-## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-related-admin (⭐59)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+
+## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Testing / Official resources
 
 *   [stb-tester (⭐165)](https://github.com/stb-tester/stb-tester) - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
@@ -78,7 +84,7 @@
 
 *   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐280)](https://github.com/kachkaev/njt), thanks to Now integration.
 
-## [8. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ### Tools / Plugins
 
@@ -100,13 +106,13 @@
 *   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-plugin)
 *   [`@GatlingTool` on Twitter](https://twitter.com/gatlingtool)
 
-## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Evaluation
 
 *   [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 
-## [10. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [11. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Rust / Scala
 
@@ -120,33 +126,33 @@
 
 *   [Bond (⭐2.5k)](https://github.com/microsoft/bond/) - Cross-platform framework for working with schematized data, broadly used at Microsoft in high scale services.
 
-## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [12. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - Implements different methods for OOD detection.
 *   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐229)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
 
-## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
 *   [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [znap](https://github.com/marlonrichert/zsh-snap)
 
 *   Multi-repo management
 *   Automatic `compinit` and `bashinit` - you no longer need them in your `.zshrc`, znap will do them automatically as needed.
 
-## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [15. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Languages and Environments
 
 *   [HTML (⭐76)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 
-## [15. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [16. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
@@ -157,50 +163,50 @@
 
 *   [RetroPie Godot Game Engine "Emulator" (⭐68)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
-## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
 *   [PICO-8 font](https://www.lexaloffle.com/bbs/?tid=3760) - by [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
 
-## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 
 *   [Contextual logging (⭐17)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
 
-## [18. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
+## [19. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
 
 ### Tools & Services / Keywords
 
 *   [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
 *   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
-## [20. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [21. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Static Analysis / Multi-Language Support
 
 *   [DevSkim (⭐748)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
 
-## [21. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [22. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Data structures / Windows
 
 *   [What is Data Structure? | Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
-## [22. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [23. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
 *   [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 
-## [23. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 

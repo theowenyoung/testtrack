@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13 - Jul 19, 2020
 
-52 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,25 @@
 
 *   R: [RPostgreSQL (⭐59)](https://github.com/tomoakin/RPostgreSQL)
 
-## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Testing
+
+*   [django-google-optimize (⭐39)](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
+
+## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [RegExp (⭐187)](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regexp mistakes and style guide violations.
 
-## [3. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [4. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Libraries and Frameworks
 
 *   [uppy (⭐26k)](https://github.com/transloadit/uppy) - A dog themed uploader component. The name is a blend of *upload* and *puppy*. It even comes with a crash recovery plugin called *Golden Retriever*.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Authentication
 
@@ -32,7 +38,7 @@
 *   [oxide-auth (⭐451)](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
 *   [yup-oauth2 (⭐166)](https://github.com/dermesser/yup-oauth2) — An oauth2 client implementation providing the Device, Installed and Service Account flows [![Build Status](https://api.travis-ci.org/dermesser/yup-oauth2.svg?branch=master)](https://travis-ci.org/dermesser/yup-oauth2)
 
-## [5. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [6. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Introductions
 
@@ -115,7 +121,7 @@
     ([article](https://blog.tfnico.com/2014/03/managing-dot-files-with-vcsh-and-myrepos.html),
     [article](https://www.kunxi.org/2014/02/manage-dotfiles-using-vcsh-and-mr/))
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications
 
@@ -156,13 +162,13 @@
 
 *   [OPML generator](https://opml-gen.ovh/) <sup>[703](https://t.me/s/aboutrss/703)</sup> ![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 
-## [7. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
+## [8. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
 ### Libraries
 
 *   [JNPM (⭐16)](https://github.com/OrienteerBAP/JNPM) - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it.
 
-## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [9. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / Engineering Managers
 
@@ -172,19 +178,25 @@
 
 *   [GitHub labels for reuse across projects](https://twitter.com/abdonrd/status/991697736230633474) - Simple yet practical.
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Search engine and framework
 
 *   [Weaviate (⭐2.9k)](https://github.com/semi-technologies/weaviate) - Weaviate is a GraphQL-based semantic search engine with build-in (word) embeddings.
 
-## [10. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [11. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### POV-Ray / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [POV-Ray](https://marketplace.visualstudio.com/items?itemName=jmaxwilson.vscode-povray) - Persistence of Vision Ray Tracer (POV-Ray) Extension, includes Syntax Highlighting and Snippets for common POV-Ray scene elements, Render the current scene from within Visual Studio Code
 
-## [11. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Web / Playground
+
+*   :octocat: [feednext.io (⭐236)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+
+## [13. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Themes
 
@@ -194,13 +206,13 @@
 
 *   [psInlineProgress (⭐72)](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 
-## [12. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [14. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Databases
 
 *   [Serialized](https://serialized.io) - Complete platform for Event Sourcing & CQRS.
 
-## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
@@ -214,19 +226,19 @@
 
 *   [meshroom (⭐8.5k)](https://github.com/alicevision/meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
 
-## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Documentation
 
 *   [xcribe (⭐55)](https://github.com/brainn-co/xcribe) - Generate API documentation from tests using Swagger (OpenAPI) or API Blueprint specification.
 
-## [15. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [17. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Legal text
 
 *   [GDPRhub -> GDPR Articles](https://gdprhub.eu/index.php?title=Category:GDPR_Articles) - GDPR articles included commentary.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -245,7 +257,7 @@
 *   [kai (⭐79)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-spark (⭐89)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT](https://opensource.org/licenses/MIT).
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -263,20 +275,20 @@
 
 *   [v-lazy-component (⭐32)](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [eureka (⭐568)](https://github.com/simeg/eureka) - CLI tool to input and store your ideas without leaving the terminal. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [21. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [kopach/karma-sabarivka-reporter (⭐39)](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
 *   [Stack-in-a-box/triumphmayflowerclub.com (⭐2)](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible set-up instructions. Includes many common elements found in other beautiful READMEs.
 
-## [20. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [22. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Audio
 
@@ -284,32 +296,32 @@
 *   [web-audio-beat-detector (⭐430)](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 *   [meyda (⭐1.2k)](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
-## [21. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [23. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework with a built-in dark mode.
 
-## [22. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [24. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Ni (⭐7)](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 
-## [23. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [25. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Packages
 
 *   [Monetization (⭐5)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
 *   [react-webmonetization-meta (⭐3)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 
-## [24. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [26. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Books / SRAM
 
 *   [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects) - By Jacob Beningo. ISBN 9781789958034.
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [27. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Computer Vision
 
@@ -322,13 +334,13 @@
 *   [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 *   [sentry-python (⭐1.3k)](https://github.com/getsentry/sentry-python) - Sentry SDK for Python.
 
-## [26. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [28. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Static Analysis / PHP
 
 *   [Phan (⭐5.3k)](https://github.com/phan/phan) - *Phan* - Broad static analysis for PHP applications with some support for security scanning features.
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Translation Management
 
@@ -348,7 +360,7 @@
 *   [SceneLab](https://scenelab.io) - Online mockup graphics editor with an ever-expanding collection of free design templates
 *   [xLayers](https://xlayers.dev) - Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin and more (free and open source at [https://github.com/xlayers/xlayers (⭐803)](https://github.com/xlayers/xlayers))
 
-## [28. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [30. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -362,13 +374,13 @@
 
 *   [Q# Advent Calendar 2019](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2019/) - Collection of Q#-related blog posts.
 
-## [29. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [31. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Presentations
 
 *   [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
@@ -390,13 +402,13 @@
 
 *   [Similarweb/finala :fire::fire::fire: (⭐666)](https://github.com/similarweb/finala) - A resource cloud scanner that analyzes and reports wasteful and unused resources to cut unwanted expenses.
 
-## [31. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [33. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Commercial integrations
 
 *   [HostLaunch](https://hostlaunch.io) - Launch a hosting company based on DigitalOcean and ServerPilot.
 
-## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [34. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Official Resources
 
@@ -578,31 +590,42 @@
 *   [Vim-Terraform-Completion (⭐323)](https://github.com/juliosueiras/vim-terraform-completion)
 *   [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 
-## [33. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [35. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Sarus TF2 Models (⭐39)](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
 
-## [34. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [36. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Blogposts and opinions
 
 *   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
 
-## [35. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [37. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+- Name: [minci (⭐24)](https://github.com/kristapsdz/minci)
+
+  Description: minimal self-hosted CI
+
+  Features: Languages: any
+
+  Supported repositories: 
+
+
+
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
 *   [Kigs framework (⭐69)](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. \[MIT] [website](https://kigs-framework.org/)
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
@@ -625,20 +648,20 @@
 
 *   [FDBarGauge (⭐25)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
 
-## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [41. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Project setup / Collection View Layout
 
 *   [swift5-module-template (⭐417)](https://github.com/fulldecent/swift5-module-template) - A starting point for any Swift 5 module that you want other people to include in their projects.
 
-## [39. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [42. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / Other Tools
 
 *   [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://pydantic-docs.helpmanual.io/).
     *   [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - Accompanying blog post from the author of the extension.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
@@ -652,32 +675,32 @@
 
 *   [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
 
-## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
 *   [Flutter vs React Native - Choosing your approach](https://buttercms.com/blog/flutter-vs-react-native-choosing-your-approach) - Comparison article to help you choose the best approach depending on your project and experience.
 
-## [42. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [45. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
 *   [nord tmux (⭐854)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
 
-## [43. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [46. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Institutional Credit Risk
 
 *   [Credit Scoring and the Availability, Price, and Risk of Small Business Credit](https://muse.jhu.edu/article/181124) - Finds that small business credit scoring is associated with expanded quantities, higher averages prices, and greater average risk levels for small business credits under $100,000, after controlling for bank size and other differences across banks.
 
-## [44. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [47. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
 *   [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
 
-## [45. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [48. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -687,13 +710,13 @@
 
 *   [axe-core (⭐4.8k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
-## [46. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [49. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
 *   [Go-Wardley (⭐25)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Personality
 
@@ -734,7 +757,7 @@
 
 
 
-## [48. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [51. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Audio
 
@@ -762,7 +785,7 @@
 
 *   [Rapid.Generics (⭐73)](https://github.com/d-mozulyov/Rapid.Generics). `[Delphi]` Rapid generics/defaults equivalent classes for Delphi (XE8+)
 
-## [49. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [52. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Social
 
@@ -773,7 +796,7 @@
 *   [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
 *   [ReviewsOnMyWebsite](https://reviewsonmywebsite.com/) - Collect, monitor and display customer reviews.
 
-## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [53. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
@@ -788,7 +811,7 @@
 
 *   [Bert Belder - Deno - dotJS 2019](https://www.youtube.com/watch?v=puXyo1jGQys)
 
-## [51. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [54. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Component Libraries
 
@@ -819,7 +842,7 @@
 *   [Creating Reusable Markup with The HTML Template Element](https://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
 *   [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 
-## [52. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [55. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 

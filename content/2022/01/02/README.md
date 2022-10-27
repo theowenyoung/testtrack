@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,13 +47,45 @@
 *   [GitTorrent (⭐4.7k)](https://github.com/cjb/GitTorrent) is a peer-to-peer network of Git repositories being shared over BitTorrent.
 *   [weborganiZm](http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+- Name: [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
+
+  Description: Bitbucket Pipelines & Deployments
+
+  Features: [Documentation](https://bitbucket.org/product/guides/basics/four-starting-steps)
+
+  Supported repositories: BitBucket
+
+  Documentation: -
+
+  Price: [Free with limitations](https://bitbucket.org/product/pricing)
+
+  Stars: 
+
+
+- Name: [SonarQube](https://www.sonarqube.org/)
+
+  Description: "Thousands of automated Static Code Analysis rules, protecting your app on multiple fronts"
+
+  Features: 29 Languages: Java, Kotlin, C#, VB.NET, C, C++, JavaScript, TypeScript, php, Python, Terraform, CloudFormation, ABAP, Apex, COBOL, CSS, Flex, Go, HTML, Objective-C, PL/I, PL/SQL, RPG, Ruby, Scala, Swift, T-SQL, VB6, XML
+
+  Supported repositories: GitHub, Azure DevOps, Bitbucket, GitLab, Docker Support, Your IDE
+
+  Documentation: [Documentation](https://docs.sonarqube.org/latest/)
+
+  Price: [Free - with upgrade options](https://www.sonarqube.org/downloads/)
+
+  Stars: [![Stars](https://img.shields.io/github/stars/bleenco/abstruse.svg)](https://github.com/SonarSource/sonarqube/)
+
+
+
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Stealth](https://fbb-git.gitlab.io/stealth/) - File integrity checker that leaves virtually no sediment. Controller runs from another machine, which makes it hard for an attacker to know that the file system is being checked at defined pseudo random intervals over SSH. Highly recommended for small to medium deployments.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 

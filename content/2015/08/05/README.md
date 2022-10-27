@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 05, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,15 @@
 
 *   [Honeypot (Dionaea and kippo) setup script (⭐79)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
-## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Social / Chrome Extensions
+
+*   [@typescriptlang](https://twitter.com/typescriptlang) - Official Typescript Twitter
+*   [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
+*   [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
+
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 

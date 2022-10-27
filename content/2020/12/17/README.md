@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 17, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -131,7 +131,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 *   [SA-SSD (⭐454)](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
 
-## [11. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Back-end API / Playground
+
+*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
+
+## [12. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
 ### Code Points that Affect Others
 
@@ -166,13 +172,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
     they were mis-read or misinterpreted from other signs, when JIS was compiled
     from original printed text sources.
 
-## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
 *   [Atom (⭐59k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 

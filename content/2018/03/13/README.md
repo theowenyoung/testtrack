@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 13, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,6 +76,12 @@ Donationware
 ### Alternatives / Communication
 
 *   [FastMail](https://www.fastmail.com/) - Reliable business email with no data lock-in.
+
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Typescript Project Starters
+
+*   [typescript-starter (⭐3.2k)](https://github.com/bitjson/typescript-starter) – A CLI to quickly generate and configure new libraries and Node.js projects
 
 ---
 

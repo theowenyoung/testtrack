@@ -1,12 +1,38 @@
 # Awesome List Updates on Sep 22, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [1. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+
+### Firebase
+
+- Name: [Friendlychat (⭐1.6k)](https://github.com/firebase/friendlychat)
+
+  Description: Firebase codelab for building a cross-platform chat app
+
+  Link: 
+
+
+- Name: [Friendlypix (⭐730)](https://github.com/firebase/friendlypix)
+
+  Description: FriendlyPix is a cross-platform Firebase example app
+
+  Link: 
+
+
+- Name: [Firefeed (⭐460)](https://github.com/firebase/firefeed)
+
+  Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
+
+  Link: 
+
+
+
+## [2. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Miscellaneous / Episodes
 
@@ -20,13 +46,13 @@
 *   [CANToolz (⭐298)](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 *   [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 
-## [2. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
 *   [shrinkpack (⭐791)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Articles
 
@@ -34,13 +60,13 @@
 *   [CppCon 2015 Presentation Materials (⭐1.7k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 *   [CppCon 2014 Presentation Materials (⭐2.2k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
 
-## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [5. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Deployment
 
 *   [docker-erlang (⭐12)](https://github.com/synlay/docker-erlang) - Basic Docker Container Images for Erlang/OTP.
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 

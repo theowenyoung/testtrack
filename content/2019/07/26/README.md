@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,31 @@
 
 *   [Homepage](https://seed-rs.org/)
 
-## [3. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Network Tools / Network Traffic Replay and Editing Tools
+
+*   [TraceWrangler](https://www.tracewrangler.com/) - Network capture file toolkit that can edit and merge `pcap` or `pcapng` files with batch editing features.
+*   [WireEdit](https://wireedit.com/) - Full stack WYSIWYG pcap editor (requires a free license to edit packets).
+*   [bittwist](http://bittwist.sourceforge.net/) - Simple yet powerful libpcap-based Ethernet packet generator useful in simulating networking traffic or scenario, testing firewall, IDS, and IPS, and troubleshooting various network problems.
+*   [hping3 (⭐1.2k)](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets.
+*   [pig (⭐426)](https://github.com/rafael-santiago/pig) - GNU/Linux packet crafting tool.
+*   [scapy (⭐8.1k)](https://github.com/secdev/scapy) - Python-based interactive packet manipulation program and library.
+*   [tcpreplay](https://tcpreplay.appneta.com/) - Suite of free Open Source utilities for editing and replaying previously captured network traffic.
+
+## [4. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 
-## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Utilities / Navigation Demos
 
 *   [react-hook-hooker (⭐11)](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
@@ -41,19 +53,19 @@
 *   [Blazor Hotkeys (⭐106)](https://github.com/jsakamoto/Toolbelt.Blazor.Hotkeys) - A library to provide configuration-centric keyboard shortcuts for Blazor.
 *   [Blazor.LocalFiles (⭐43)](https://github.com/jburman/W8lessLabs.Blazor.LocalFiles) - Open files in your browser and load into Blazor.
 
-## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [7. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
 *   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
 
-## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
+## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
 ### Tools
 
 *   [mozilla/web-ext (⭐2.1k)](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test WebExtensions.
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / HTTP
 
@@ -82,7 +94,7 @@
 *   [PHP Dotenv (⭐12k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
 *   [Symfony Dotenv (⭐3.4k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
 
-## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 
