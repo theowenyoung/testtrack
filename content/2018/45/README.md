@@ -469,10 +469,6 @@
 
 ## [43. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
-### Frameworks, Libraries and Tools / Reporting
-
-*   [FastReport (⭐2k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
-
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [dataaccess\_aspnetcore (⭐141)](https://github.com/digipolisantwerp/dataaccess_aspnetcore) - The DataAccess Toolbox contains the base classes for data access in ASP.NET Core with Entity Framework Core 1.0 using the unit-of-work and repository pattern.
@@ -628,6 +624,10 @@
 *   [espi0n/Dockerfiles (⭐36)](https://github.com/espi0n/Dockerfiles) - Dockerfiles for various OSINT tools by [@espi0n](https://github.com/espi0n).
 
 ## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Business Intelligence
+
+*   [FastReport (⭐2k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 
 ### IoC
 

@@ -8,6 +8,16 @@
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Communication / Collaboration and Team Tools
+
+*   [Ferdium](https://ferdium.org/) - Desktop app that helps you organize how you use your favourite apps by combining them into one application. It is based on Franz with the difference that Ferdium gives you many additional features and doesn't restrict its usage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ferdium/ferdium-app)
+
+### Proxy and VPN Tools / File Sharing
+
+*   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Cash Bitcoin, Monero and more.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Reading and Writing Tools / Markdown Tools

@@ -1998,6 +1998,7 @@
 - [Days](daily/README.md)
   - [2022](2022/month/README.md)
     - [10](2022/10/day/README.md)
+      - [Oct 27, 2022](2022/10/27/README.md)
       - [Oct 26, 2022](2022/10/26/README.md)
       - [Oct 25, 2022](2022/10/25/README.md)
       - [Oct 24, 2022](2022/10/24/README.md)

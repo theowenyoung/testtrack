@@ -8,6 +8,12 @@ A curated list of podcasts we like to listen to.
 
 
 
+## [Oct 27, 2022](/content/2022/10/27/README.md)
+
+### In French
+
+*   [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
+
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
 ### In Portuguese

@@ -8,6 +8,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 
 
+## [Oct 27, 2022](/content/2022/10/27/README.md)
+
+### Image Processing
+
+*   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
+
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 
 ### Template Engine
