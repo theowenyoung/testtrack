@@ -1,18 +1,24 @@
 # Awesome List Updates on Oct 27, 2022
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [1. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+### Other plugins
+
+*   [Dynamsoft Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
+
+## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### CakePHP Tutorials
 
 *   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Emulators
 
@@ -23,7 +29,7 @@
 
 *   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -33,7 +39,7 @@
 
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Cash Bitcoin, Monero and more.
 
-## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In French
 

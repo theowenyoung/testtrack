@@ -8,6 +8,12 @@
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Other plugins
+
+*   [Dynamsoft Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Community plugins
