@@ -10,6 +10,11 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Emulators
+
+*   [Blzhawk (⭐1.6k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+*   [Ryujinx (⭐13k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+
 ### Image Processing
 
 *   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.

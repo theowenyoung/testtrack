@@ -8,6 +8,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 
 
+## [Oct 27, 2022](/content/2022/10/27/README.md)
+
+### CakePHP Tutorials
+
+*   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
+
 ## [Oct 21, 2022](/content/2022/10/21/README.md)
 
 ### Debugging
