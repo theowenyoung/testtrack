@@ -47,4 +47,5 @@
 
 ---
 
+- Prev: [Oct 28, 2022](/content/2022/10/28/README.md)
 - Next: [Oct 26, 2022](/content/2022/10/26/README.md)

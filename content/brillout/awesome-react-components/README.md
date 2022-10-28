@@ -8,6 +8,12 @@ Curated List of React Components & Libraries.
 
 
 
+## [Oct 28, 2022](/content/2022/10/28/README.md)
+
+### Tree
+
+*   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
+
 ## [Oct 09, 2022](/content/2022/10/09/README.md)
 
 ### CSS / Style / Mouse Events
@@ -1508,7 +1514,6 @@ Curated List of React Components & Libraries.
 
 ### Tree
 
-*   [react-treebeard (⭐1.7k)](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 *   [react-treeview (⭐1.1k)](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
 
 ### UI Navigation

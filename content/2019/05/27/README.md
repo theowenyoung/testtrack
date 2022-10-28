@@ -85,7 +85,6 @@
 
 ### Tree
 
-*   [react-treebeard (⭐1.7k)](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 *   [react-treeview (⭐1.1k)](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
 
 ### UI Navigation
