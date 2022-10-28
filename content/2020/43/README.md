@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2020
 
-80 awesome lists updated this week.
+81 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1048,7 +1048,13 @@
 *   [minimalist-web-notepad (⭐693)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 *   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐66)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
-## [63. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [63. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### 0 - Meta-Listas
+
+*   [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
+
+## [64. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -1079,19 +1085,19 @@
 
 *   [YARP (⭐5.9k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 
-## [64. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [65. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Management Systems
 
 *   [Yellow Circle](https://yellowcircle.net) \[FREE] - Offers a free online sandbox for students and teachers at all levels to learn and practice IT, networking, and programming skills by creating and configuring virtual routers, virtual machines, and virtual firewalls, load-balancers, and storage devices.
 
-## [65. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [66. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Cleavr](https://cleavr.io) - Provision servers and deploy web apps.
 
-## [66. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [67. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -2131,13 +2137,13 @@
 
 
 
-## [67. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [68. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Privacy / Profanity
 
 *   [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.ca/PETs_Decision_Tree.png) - A flowchart to select the right tool depending on data type and context.
 
-## [68. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [69. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Clothing
 
@@ -2174,7 +2180,7 @@
 
 *   [Kent Zero Water Wastage Technology](https://www.kent.co.in/water-purifiers/zero-water-wastage-technology) - KENT RO Purifiers equipped with the ‘Zero Water Wastage’ Technology push back the rejected water to the overhead tank, thereby rendering wastage to zero. As a result, instead of wasting the rejected water, it gets diluted and reused as normal tap water for household purposes.<!-- links:end -->
 
-## [69. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [70. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Getting Started
 
@@ -2184,7 +2190,7 @@
 
 *   [Gatling Academy](https://gatling.io/academy/)
 
-## [70. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [71. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
@@ -2192,7 +2198,7 @@
 *   📁 [Resume (⭐37)](https://github.com/mohusman360/mohusman360.github.io) - Simple resume with Tailwind CSS.
 *   📁 [Simple Light (⭐1.6k)](https://github.com/cruip/tailwind-landing-page-template) - Free landing page template built with React & Tailwind CSS.
 
-## [71. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [72. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -2206,19 +2212,19 @@
 
 *   [Wagtail Content Import (⭐26)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 
-## [72. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [73. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Client management
 
 *   [just-install](https://just-install.github.io/) – Python script for downloading and silently installing MSI files.
 
-## [73. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [74. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Web Applications
 
 *   [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3 (⭐2.4k)](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 
-## [74. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [75. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / Trading
 
@@ -2228,13 +2234,13 @@
 
 *   [steamapis (⭐4)](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
 
-## [75. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [76. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Tools
 
 *   [RPC PoolBoy](https://manosbatsis.github.io/corda-rpc-poolboy/) - RPC connection pool with support for multiple Corda nodes.
 
-## [76. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [77. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -2248,7 +2254,7 @@
 
 *   [csv2sql (⭐43)](https://github.com/Arp-G/csv2sql) - A fast and fully automated CSV to database importer.
 
-## [77. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [78. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -2268,7 +2274,7 @@
 
 *   [CodeFactor](https://www.codefactor.io) — Automated Code Review for Git. Free version includes unlimited users, unlimited public repositories and 1 private repo.
 
-## [78. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [79. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Free eBooks
 
@@ -2282,13 +2288,13 @@
 
 *   [DDDplus framework (⭐866)](https://github.com/funkygao/cp-ddd-framework) - A lightweight flexible development framework for complex business architecture based on DDD.
 
-## [79. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [80. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf). Erin LeDell, Sebastien Poirier.  (2020)
 
-## [80. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [81. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 

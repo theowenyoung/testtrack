@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,14 +53,7 @@
 
 *   [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Artificial Intelligence
-
-*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
-*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
-
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Examples / Hardware Offload
 
@@ -70,19 +63,19 @@
 
 *   [redbpf (⭐1.4k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-marquee (⭐101)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
-## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Libraries and Frameworks
 
 *   [Puppeteer (⭐80k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -398,7 +391,7 @@
 
 
 
-## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

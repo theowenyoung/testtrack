@@ -90,14 +90,24 @@
 *   [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 *   [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
 
-## [6. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [6. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### Android / Sistemas Operativos
+
+*   [Curso Android](https://www.develou.com/android/) (HTML)
+
+### PHP / Symfony
+
+*   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
+
+## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [FirelordJS (⭐31)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐18)](https://github.com/tylim88/Firelord))
 *   🔧 [FireSword (⭐0)](https://github.com/tylim88/FireSword) - Filter Firestore and RTDB unknown keys or keys with incorrect data types recursively, support all field values and special data types. (For web and admin)
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
@@ -177,25 +187,25 @@
 
 *   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
-## [8. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [9. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / How To Read a Paper
 
 *   [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Tools and web interfaces
 
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐818)](https://github.com/tribe29/checkmk)) `Python/PHP`
 
-## [10. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [11. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [k6 Learn (⭐55)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
-## [11. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [12. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -205,7 +215,7 @@
 
 *   [IoTSharp (⭐520)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Cryptography
 
@@ -220,31 +230,31 @@
 
 *   [GTK4.cr (⭐51)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-panos (⭐66)](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 
-## [14. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [15. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Distributed Testing
 
 *   [gatling-operator (⭐38)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
-## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
 
-## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [17. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-session-wizard (⭐9)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐48k)](https://github.com/junegunn/fzf) & [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide).
 
-## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -256,7 +266,7 @@
 *   [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957) - Great reference to build an incident response plan based also on Threat Intelligence. By Roberto Martinez.
 *   [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
 
-## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -313,25 +323,25 @@
 
 *   [wuseal/JsonToKotlinClass (⭐2.7k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
 
-## [19. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [20. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Tools / Smart Contracts
 
 *   [avm-semantics (⭐6)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
 
-## [20. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [21. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Sports
 
 *   [nfl-team-schedule-widget (⭐3)](https://github.com/brianwalborn/nfl-team-schedule-widget) - The current season schedule for an NFL team.
 
-## [21. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [22. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals and Ephemera / Ephemera
 
 *   [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
 
-## [22. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [23. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Scheduling / Touch Resistive
 
@@ -341,13 +351,13 @@
 
 *   [meerkat (⭐2)](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 
-## [23. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [24. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Urbanist (⭐330)](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 
-## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -357,7 +367,7 @@
 
 *   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 
-## [25. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [26. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### APIs and SDKs
 
@@ -369,7 +379,7 @@
 *   [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
 *   [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 
-## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Projects / Godot 3.2+
 
@@ -379,25 +389,25 @@
 
 *   [spout-gd (⭐6)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐537)](https://github.com/leadedge/Spout2).
 
-## [27. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [28. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Community
 
 *   [Web Monetization Community](https://community.interledger.org/)
 
-## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   🔼🌍🔧 [Tailwindhelper](https://www.tailwindhelper.com/) - Visualize Tailwind CSS classes and unit converter.
 
-## [29. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [30. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [Headscale (⭐8.5k)](https://github.com/juanfont/headscale) - Open source, self-hosted implementation of the Tailscale control server.
 
-## [30. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [31. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -420,13 +430,13 @@
 *   [solid-ipfs (⭐37)](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
 *   [VIPFS (⭐287)](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS
 
-## [31. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [32. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [refurb (⭐1.6k)](https://github.com/dosisod/refurb) — A tool for refurbishing and modernizing Python codebases. Refurb is heavily inspired by clippy, the built-in linter for Rust.
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -461,13 +471,13 @@
 
 *   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐687)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
-## [33. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [34. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Resources / Course Material
 
 *   [Lectures on Software Foundations (⭐22)](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
 
-## [34. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [35. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Introducing people to data security and cryptography / Brief introductions
 
@@ -489,19 +499,19 @@
 
 *   [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Broad overview of design and cryptanalysis of various ciphers and hash functions, by Bart Van Rompay.
 
-## [35. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [36. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Related Projects / Analysis
 
 *   [Usenix93 Paper on BPF](https://www.tcpdump.org/papers/bpf-usenix93.pdf): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".
 
-## [36. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [37. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
 *   [pybotics (⭐249)](https://github.com/engnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration.
 
-## [37. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Metascience / Science of Science
 
@@ -510,13 +520,13 @@
 *   [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. \[[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028\&hl=zh-CN\&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
 *   [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487\&hl=zh-CN\&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance.
 
-## [38. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [39. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Networking
 
 *   [Calico (⭐4k)](https://github.com/projectcalico/calico) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 
-## [39. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [40. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -527,26 +537,26 @@
 *   [Plotly.rs (⭐618)](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 *   [ag-grid-rs (⭐4)](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
 
-## [40. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [M95320](https://crates.io/crates/m95320) - SPI - STMicroelectronics Serial flash EEPROM - ![crates.io](https://img.shields.io/crates/v/m95320.svg)
 
-## [41. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [42. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Hacker Tab (⭐332)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Replace browser new tab screen with GitHub trending projects.
 
 Installs: 2000 | Stars: 332 | Last update: n/a
 
-## [42. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [43. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
 
-## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Oh-My-Zsh
 
@@ -570,13 +580,13 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   [searocket (⭐0)](https://github.com/dk949/searocket/) - Slimmed down version of [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt). Includes decorators for working directory, last command exit code, user, background jobs, `bun`, `d`, elm, go, nodejs, python, zig and `git` status.
 *   [windows (⭐31)](https://github.com/juliavallina/windows-zsh-theme/) - Inspired by the Windows Command Prompt. Includes a decorator for the current directory.
 
-## [44. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [45. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
 *   [WS-DL Blog](https://ws-dl.blogspot.com/) - Web Science and Digital Libraries Research Group blogs about various Web archiving related topics, scholarly work, and academic trip reports.
 
-## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [46. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Android Launcher
 
@@ -631,25 +641,25 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [Single File (⭐9.4k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
-## [46. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [47. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Other Lists / Help
 
 *   [upb-lea/awesome-open-source-power-electronics (⭐25)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
-## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
 *   [txtai (⭐2.7k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
-## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 
 *   [Open Source Games (⭐735)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -675,20 +685,20 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
 
-## [50. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [51. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### GUI
 
 *   [TDengineGUI (⭐7)](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
 *   [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
 
-## [52. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [53. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### TypeScript
 
@@ -696,54 +706,6 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 *   [OpenMetadata (⭐1.5k)](https://github.com/open-metadata/OpenMetadata) *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 *   [H2O Wave (⭐3.1k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Node Efficientnet (⭐236)](https://github.com/ntedgi/node-efficientnet) *(label: good first issue)* <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow\.js ).
-
-## [53. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Algorithms & Data Structures
-
-*   [Algorithmic Graph Theory](http://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
-*   [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/\~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
-*   [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo (PDF)
-*   [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/\~mehlhorn/LEDAbook.html) - K. Mehlhorn, et al. (HTML)
-*   [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
-*   [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
-*   [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) (HTML)
-*   [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
-*   [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
-*   [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
-
-### Machine Learning
-
-*   [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen, Christopher K.I. Williams
-*   [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) - David J.C. MacKay
-*   [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
-*   [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/\~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
-
-### Mathematics
-
-*   [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com) - Ani Adhikari, John DeNero, David Wagner
-*   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/linear-guest.pdf) - David Cherney et al. (PDF)
-
-### Misc
-
-*   [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
-*   [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
-*   [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
-*   [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/\~playbook/) - David Harel, Rami Marelly
-*   [Culture & Empire: Digital Revolution](http://hintjens.com/books) - Pieter Hintjens (PDF)
-*   [Digital Signal Processing For Communications](http://www.sp4comm.org) - Paolo Prandoni, Martin Vetterli
-*   [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com) - Steven W. Smith
-*   [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) - Rob Walling (PDF)
-*   [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
-*   [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/\~harel/reactive_systems.html) - D. Harel, M. Politi
-*   [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley, Jon Kleinberg
-*   [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
-*   [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
-
-### Networking
-
-*   [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
-*   [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
 
 ## [54. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 

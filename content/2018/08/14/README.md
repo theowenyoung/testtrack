@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,17 @@
 
 *   [Realm export REST resource by Cloudtrust (⭐49)](https://github.com/cloudtrust/keycloak-export)
 
-## [4. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [4. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### Erlang / Sistemas Operativos
+
+*   [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
+
+### Linux / React
+
+*   [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
+
+## [5. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Language Bindings
 
@@ -118,19 +128,19 @@
 
 *   [Cromwell (⭐856)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐856)](https://github.com/broadinstitute/cromwell#spark-backend).
 
-## [5. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [6. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Tools
 
 *   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Accompanying Repos
 

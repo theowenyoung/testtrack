@@ -1128,7 +1128,13 @@
 
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 
-## [43. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [43. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### Python / Symfony
+
+*   [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
+
+## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -1142,13 +1148,13 @@
 
 *   [Angular Spotify (⭐2.1k)](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular, Nx Workspace and Tailwind CSS.
 
-## [44. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [45. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Miscellaneous
 
 *   [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
 
-## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1170,25 +1176,11 @@
 *   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐6.9k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 *   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐10)](https://github.com/hylwxqwq/yuyuko.vim).
 
-## [46. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [47. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms
 
 *   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
-
-## [47. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Misc
-
-*   [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
-
-### Networking
-
-*   [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
-
-### Quantum Computing
-
-*   [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
 
 ## [48. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 

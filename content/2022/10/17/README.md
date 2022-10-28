@@ -164,23 +164,11 @@
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
-### Machine Learning
+### PHP / Redis
 
-*   [Probabilistic Machine Learning - An Introduction (⭐3.6k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
-
-### Misc
-
-*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
-
-### Open Source Ecosystem
-
-*   [Contributing to opensource: the right way (⭐88)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
-
-### Search Engines
-
-*   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
+*   [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 
 ---
 

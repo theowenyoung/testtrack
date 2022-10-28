@@ -261,15 +261,15 @@
 
 
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [14. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
-### Graphical User Interfaces
+### HTML and CSS / Sistemas Operativos
 
-*   [Event-Driven GTK by Example — 2021 Edition](https://mmstick.github.io/gtkrs-tutorials/) - Michael Murphy
+*   [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
 
-### Theoretical Computer Science
+### Python / Django
 
-*   [Theory of Computation, Making Connections](https://joshua.smcvt.edu/computation) - Jim Hefferon (PDF)
+*   [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (2.2.4) (HTML)
 
 ---
 

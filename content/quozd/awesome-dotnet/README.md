@@ -8,6 +8,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 
 
+## [Oct 28, 2022](/content/2022/10/28/README.md)
+
+### Database
+
+*   [RocksDB (⭐78)](https://github.com/curiosity-ai/rocksdb-sharp) - C# binding for Facebook's RocksDB Key-Value store + native builds for Windows, macOS and Linux
+
 ## [Oct 27, 2022](/content/2022/10/27/README.md)
 
 ### Emulators

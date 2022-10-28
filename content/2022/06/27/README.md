@@ -1,30 +1,24 @@
 # Awesome List Updates on Jun 27, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Computer Science
-
-*   [A Data-Centric Introduction to Computing](https://dcic-world.org) - Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz (HTML)
-
-## [2. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [1. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### More resources
 
 *   [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 
-## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Parser / Package managers
 
 *   [iddev5/inon (⭐8)](https://github.com/iddev5/inon) - Data configuration file format.
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 2
 
@@ -34,7 +28,7 @@
 
 *   [vitest-mock-extended (⭐24)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
@@ -44,14 +38,14 @@
 
 *   [mcauley-penney/tidy.nvim (⭐72)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Official Resources and Documentation
 
 *   [Jupyter documentation](https://docs.jupyter.org/en/latest/index.html)
 *   [JupyterLab documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Videos / Unspecified License
 
@@ -61,7 +55,7 @@
 
 *   [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
 
-## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 
@@ -1262,13 +1256,13 @@
 
 
 
-## [9. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Communities / Forums
 
 *   [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
-## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [9. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -1279,7 +1273,7 @@
 
 *   [Awesome Electronics (⭐4.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -1293,13 +1287,13 @@
 
 *   [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
 
-## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### OS Encryption
 
@@ -1310,7 +1304,7 @@
 
 *   [No-Telemetry (⭐148)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
-## [14. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [13. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Monitoring
 

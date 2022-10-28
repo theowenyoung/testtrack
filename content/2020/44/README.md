@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02 - Nov 08, 2020
 
-66 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1168,7 +1168,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [ASCII-Hangman (⭐6)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 *   [dotdotyew (⭐3)](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
 
-## [56. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [56. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### HTML and CSS / Sistemas Operativos
+
+*   [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
+
+## [57. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -1176,7 +1182,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [Node-Composer (⭐5)](https://github.com/mariusbuescher/node-composer) - Installer for NodeJS, npm and yarn.
 *   [CycloneDX-PHP-Composer (⭐21)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [57. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [58. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -1194,31 +1200,31 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 
-## [58. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [59. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [59. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [60. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐4)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [60. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [61. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [61. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [62. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Date & time
 
 *   [FlatpickrBlazor (⭐7)](https://github.com/mathisloge/FlatpickrBlazor) - ![last commit](https://img.shields.io/github/last-commit/mathisloge/FlatpickrBlazor?style=flat-square\&cacheSeconds=86400) Flatpickr Blazor interop.[Demo](https://mathisloge.github.io/FlatpickrBlazorExample/).
 
-## [62. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [63. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -1256,7 +1262,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [63. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [64. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Graphical User Interface / Other / unknown licence
 
@@ -1266,13 +1272,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
-## [64. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [65. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 
-## [65. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [66. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -1571,7 +1577,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 
 
-## [66. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [67. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 

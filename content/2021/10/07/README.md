@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -180,21 +180,7 @@ Free (Open Source)
 
 *   [optionals (⭐100)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### 0 - Meta-Lists
-
-*   [Rip Tutorials](https://riptutorial.com/ebook)
-
-### Mathematics
-
-*   [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
-
-### Professional Development
-
-*   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
-
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
@@ -211,7 +197,7 @@ Free (Open Source)
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -397,7 +383,7 @@ Free (Open Source)
 
 
 
-## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Miscellaneous / Development and testing
 

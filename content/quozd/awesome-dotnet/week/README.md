@@ -10,6 +10,10 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Database
+
+*   [RocksDB (⭐78)](https://github.com/curiosity-ai/rocksdb-sharp) - C# binding for Facebook's RocksDB Key-Value store + native builds for Windows, macOS and Linux
+
 ### Emulators
 
 *   [Blzhawk (⭐1.6k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
