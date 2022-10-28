@@ -8,6 +8,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 
 
+## [Oct 28, 2022](/content/2022/10/28/README.md)
+
+### Applications / Command-line
+
+*   [crepl (⭐11)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+
+### Applications / Interpreters/Compilers
+
+*   [stas (⭐10)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
+
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
 ### Applications / Serialization
@@ -55,7 +65,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Applications / Interpreters/Compilers
 
 *   [monkey\_v (⭐33)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
-*   [Stas (⭐10)](https://github.com/l1mey112/stas) - A werid little stack based programming language written in V, created to learn the ins and outs of compilers.
 *   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 *   [vcc (⭐81)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 *   [v (⭐31k)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.

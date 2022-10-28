@@ -62,7 +62,7 @@
 
 ### ArcGIS location services
 
-*   [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding and Search API, Routing and Directions API, Demographics and GeoEnrichment API, Data hosting and more.
+*   [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Postman collections to facilitate work with many of the location services.
 
 ### Starter apps and CLIs
 

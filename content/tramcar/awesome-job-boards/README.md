@@ -6,6 +6,16 @@
 
 
 
+## [Oct 28, 2022](/content/2022/10/28/README.md)
+
+### Programming / JavaScript
+
+*   [JSJobbs](https://jsjobbs.com/)
+
+### Programming / PHP
+
+*   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
+
 ## [Oct 12, 2022](/content/2022/10/12/README.md)
 
 ### Blockchain

@@ -606,7 +606,6 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 ### Applications / Interpreters/Compilers
 
 *   [monkey\_v (⭐33)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
-*   [Stas (⭐10)](https://github.com/l1mey112/stas) - A werid little stack based programming language written in V, created to learn the ins and outs of compilers.
 *   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 *   [vcc (⭐81)](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 *   [v (⭐31k)](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.

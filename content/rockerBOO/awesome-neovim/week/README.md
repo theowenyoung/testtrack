@@ -10,9 +10,22 @@ Collections of awesome neovim plugins.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Plugin Manager
+
+*   [chiyadev/dep](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
+
+### (requires Neovim 0.5)
+
+*   [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
+
+### Utility / Diagnostics
+
+*   [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
+*   [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 

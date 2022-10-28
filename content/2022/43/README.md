@@ -1,36 +1,68 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2022
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [1. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+
+### Programming / JavaScript
+
+*   [JSJobbs](https://jsjobbs.com/)
+
+### Programming / PHP
+
+*   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
+
+## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Applications / Command-line
+
+*   [crepl (⭐11)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+
+### Applications / Interpreters/Compilers
+
+*   [stas (⭐10)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
+
+## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+
+### APIs and SDKs
+
+*   [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
+*   [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
+*   [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
+
+### Code samples and snippets
+
+*   [Esri/pyprt-examples (⭐16)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
+
+## [4. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
 ### Java / Sistemas Operativos
 
 *   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
 
-## [2. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Tree
 
 *   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
 
-## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Dynamsoft Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### CakePHP Tutorials
 
 *   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
@@ -45,7 +77,7 @@
 
 *   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -55,25 +87,25 @@
 
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Cash Bitcoin, Monero and more.
 
-## [7. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [10. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Language Support
 
 *   [playwright-go (⭐992)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
-## [8. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [11. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks
 
 *   [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
 
-## [9. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [12. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [ankitwasankar/mftool-java (⭐6)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Modeladmin
 
@@ -83,20 +115,20 @@
 
 *   [cookiecutter-wagtail-package (⭐10)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 
-## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [14. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
 *   [TablerBundle (⭐13)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
-## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Ruby / Angular
 
 *   [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 *   [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
 
-## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -107,7 +139,7 @@
 
 *   [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 
-## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -133,13 +165,13 @@
 
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 
-## [15. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [16. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -149,25 +181,38 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Plugin Manager
+
+*   [chiyadev/dep](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
+
+### (requires Neovim 0.5)
+
+*   [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-## [18. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+### Utility / Diagnostics
+
+*   [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
+*   [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
+
+## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
 
-## [19. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [20. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [23. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -226,7 +271,7 @@
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [21. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [24. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics
 
@@ -235,7 +280,7 @@
     *   📚 [Intro to Order Independent Transparency](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction) - Article by LearnOpenGL.
     *   📚 [Weighted, Blended](http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html) - Method for order independent transparency.
 
-## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [25. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -307,7 +352,7 @@
 *   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 *   [Wotan (⭐283)](https://github.com/fimbullinter/wotan) — Pluggable TypeScript and JavaScript linter.
 
-## [23. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [26. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 ### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
@@ -557,7 +602,7 @@ Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 
-## [24. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [27. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
@@ -567,7 +612,7 @@ Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [25. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [28. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tutorials
 
@@ -614,20 +659,20 @@ Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 *   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
 *   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
 *   [lisp-pay (⭐18)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐3)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [27. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Command Line Interface
 
@@ -747,7 +792,7 @@ Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 
-## [29. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [32. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
@@ -757,7 +802,7 @@ Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐11)](https://github.com/johanmorganti/osm-datadog))
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -767,7 +812,7 @@ Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy 3 static sites for free on the App Platform Starter tier.
 
-## [31. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [34. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
@@ -780,7 +825,7 @@ Installs: 470 | Stars: 69 | Last update: 18 Sep 2022
 *   [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 *   [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 
-## [32. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [35. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 

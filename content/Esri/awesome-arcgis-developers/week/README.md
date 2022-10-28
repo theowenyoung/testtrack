@@ -8,6 +8,18 @@ A curated list of resources to help you with ArcGIS development, APIs, SDKs, too
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### APIs and SDKs
+
+*   [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
+*   [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
+*   [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
+
+### Code samples and snippets
+
+*   [Esri/pyprt-examples (⭐16)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
+
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
 ### Code samples and snippets
@@ -30,7 +42,7 @@ A curated list of resources to help you with ArcGIS development, APIs, SDKs, too
 
 ### ArcGIS location services
 
-*   [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding and Search API, Routing and Directions API, Demographics and GeoEnrichment API, Data hosting and more.
+*   [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Postman collections to facilitate work with many of the location services.
 
 ### Starter apps and CLIs
 
@@ -69,7 +81,6 @@ A curated list of resources to help you with ArcGIS development, APIs, SDKs, too
 *   [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm) - Documentation about the Java SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
 *   [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Documentation about the python package to perform geographic data analysis, data conversion, data management, and map automation in ArcGIS Desktop or ArcGIS Enterprise environments.
 *   [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) - Key concepts, tutorials, API reference, plugins, sample code to help you build web apps using Leaflet with ArcGIS Location services.
-*   [Mapbox GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with Mapbox and ArcGIS location services.
 *   [OpenLayers](https://developers.arcgis.com/openlayers/) - Guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
 
 ### ArcGIS location services
