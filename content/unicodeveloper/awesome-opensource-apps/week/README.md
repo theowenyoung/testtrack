@@ -2,7 +2,7 @@
 
 :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md) · ⭐ 2.5K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md) · ⭐ 2.5K · 🏷️ Miscellaneous
 
 [ [Daily](/content/unicodeveloper/awesome-opensource-apps/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-opensource-apps/readme/README.md) ]
 

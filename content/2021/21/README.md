@@ -2,7 +2,7 @@
 
 56 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
@@ -49,11 +49,6 @@
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
-### Docs / Official Docs
-
-*   [Deno API Reference](https://doc.deno.land/builtin/stable)
-    *   [Deno Unstable API Reference](https://doc.deno.land/builtin/unstable)
-
 ### Modules / CLI utils
 
 *   [kia (⭐42)](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
@@ -74,10 +69,6 @@
 ### Modules / Frontend framework
 
 *   [aleph.js (⭐4.9k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
-
-### Modules / Logging
-
-*   [gardens (⭐34)](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 
 ### Modules / Mail
 
@@ -102,7 +93,6 @@
 
 ### Modules / Testing
 
-*   [deno-pretty-assert (⭐26)](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 *   [deno-puppeteer (⭐323)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 *   [expect (⭐40)](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 *   [merlin (⭐47)](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️

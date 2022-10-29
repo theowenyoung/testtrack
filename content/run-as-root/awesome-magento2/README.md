@@ -2,7 +2,7 @@
 
 Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/run-as-root/awesome-magento2/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2/blob/master/README.md) · ⭐ 995 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/run-as-root/awesome-magento2/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2/blob/master/README.md) · ⭐ 995 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/run-as-root/awesome-magento2/week/README.md) / [Overview](/content/run-as-root/awesome-magento2/readme/README.md) ]
 

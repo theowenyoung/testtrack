@@ -2,7 +2,7 @@
 
 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nix-community/awesome-nix/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nix-community/awesome-nix](https://github.com/nix-community/awesome-nix/blob/main/README.md) · ⭐ 1K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nix-community/awesome-nix/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nix-community/awesome-nix](https://github.com/nix-community/awesome-nix/blob/main/README.md) · ⭐ 1K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/nix-community/awesome-nix/week/README.md) / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 

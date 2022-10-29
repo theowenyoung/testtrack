@@ -2,11 +2,21 @@
 
 A curated list of Rust code and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rust-unofficial/awesome-rust/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust/blob/main/README.md) · ⭐ 29K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rust-unofficial/awesome-rust/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust/blob/main/README.md) · ⭐ 30K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
 
+
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### Applications
+
+*   [SWC (⭐25k)](https://github.com/swc-project/swc) — super-fast TypeScript / JavaScript compiler
+
+### Applications / Web Servers
+
+*   [static-web-server (⭐446)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
 ## [Oct 14, 2022](/content/2022/10/14/README.md)
 
@@ -1287,10 +1297,6 @@ A curated list of Rust code and resources.
 ### Applications
 
 *   [kalker (⭐1.1k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
-
-### Applications / Web Servers
-
-*   [joseluisq/static-web-server (⭐436)](https://github.com/joseluisq/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/joseluisq/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/joseluisq/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
 ### Development tools / Transpiling
 

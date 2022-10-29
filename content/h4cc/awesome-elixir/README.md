@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/h4cc/awesome-elixir/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir/blob/master/README.md) · ⭐ 12K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/h4cc/awesome-elixir/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir/blob/master/README.md) · ⭐ 12K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 

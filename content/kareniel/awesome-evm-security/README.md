@@ -2,7 +2,7 @@
 
 🕶 A high-level overview of the EVM security ecosystem
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/kareniel/awesome-evm-security/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kareniel/awesome-evm-security](https://github.com/kareniel/awesome-evm-security/blob/main/README.md) · ⭐ 76 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/kareniel/awesome-evm-security/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kareniel/awesome-evm-security](https://github.com/kareniel/awesome-evm-security/blob/main/README.md) · ⭐ 76 · 🏷️ Security
 
 [ Daily / [Weekly](/content/kareniel/awesome-evm-security/week/README.md) / [Overview](/content/kareniel/awesome-evm-security/readme/README.md) ]
 

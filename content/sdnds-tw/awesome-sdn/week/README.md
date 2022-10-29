@@ -2,7 +2,7 @@
 
 A awesome list about Software Defined Network (SDN)
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sdnds-tw/awesome-sdn/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sdnds-tw/awesome-sdn](https://github.com/sdnds-tw/awesome-sdn/blob/master/README.md) · ⭐ 1.1K · 🏷️ Networking
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sdnds-tw/awesome-sdn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sdnds-tw/awesome-sdn](https://github.com/sdnds-tw/awesome-sdn/blob/master/README.md) · ⭐ 1.1K · 🏷️ Networking
 
 [ [Daily](/content/sdnds-tw/awesome-sdn/README.md) / Weekly / [Overview](/content/sdnds-tw/awesome-sdn/readme/README.md) ]
 

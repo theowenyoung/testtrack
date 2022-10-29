@@ -2,7 +2,7 @@
 
 :octocat: git and git flow cheat sheet
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/arslanbilal/git-cheat-sheet/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md) · ⭐ 6.1K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/arslanbilal/git-cheat-sheet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/README.md) · ⭐ 6.1K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/arslanbilal/git-cheat-sheet/week/README.md) / [Overview](/content/arslanbilal/git-cheat-sheet/readme/README.md) ]
 

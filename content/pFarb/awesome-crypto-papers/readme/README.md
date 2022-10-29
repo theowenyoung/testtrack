@@ -2,7 +2,7 @@
 
 A curated list of cryptography papers, articles, tutorials and howtos.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/pFarb/awesome-crypto-papers/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers/blob/master/README.md) · ⭐ 1.4K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/pFarb/awesome-crypto-papers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers/blob/master/README.md) · ⭐ 1.4K · 🏷️ Computer Science
 
 [ [Daily](/content/pFarb/awesome-crypto-papers/README.md) / [Weekly](/content/pFarb/awesome-crypto-papers/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/victorshinya/awesome-ibmcloud/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 victorshinya/awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud/blob/master/README.md) · ⭐ 74 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/victorshinya/awesome-ibmcloud/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 victorshinya/awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud/blob/master/README.md) · ⭐ 74 · 🏷️ Platforms
 
 [ [Daily](/content/victorshinya/awesome-ibmcloud/README.md) / [Weekly](/content/victorshinya/awesome-ibmcloud/week/README.md) / Overview ]
 

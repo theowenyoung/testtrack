@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/Billiam/awesome-ironsworn/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn/blob/main/README.md) · ⭐ 33 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn/blob/main/README.md) · ⭐ 33 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 

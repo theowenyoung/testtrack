@@ -2,7 +2,7 @@
 
 an awesome list of honeypot resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/paralax/awesome-honeypots/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots/blob/master/README.md) · ⭐ 6.4K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/paralax/awesome-honeypots/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots/blob/master/README.md) · ⭐ 6.4K · 🏷️ Security
 
 [ Daily / [Weekly](/content/paralax/awesome-honeypots/week/README.md) / [Overview](/content/paralax/awesome-honeypots/readme/README.md) ]
 

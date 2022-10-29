@@ -2,7 +2,7 @@
 
 List of useful Quick Look plugins for developers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/quick-look-plugins/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins/blob/main/readme.md) · ⭐ 17K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/quick-look-plugins/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins/blob/main/readme.md) · ⭐ 17K · 🏷️ Development Environment
 
 [ [Daily](/content/sindresorhus/quick-look-plugins/README.md) / [Weekly](/content/sindresorhus/quick-look-plugins/week/README.md) / Overview ]
 

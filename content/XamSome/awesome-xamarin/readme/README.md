@@ -2,7 +2,7 @@
 
 A collection of interesting libraries/tools for Xamarin mobile projects 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/XamSome/awesome-xamarin/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin/blob/master/README.md) · ⭐ 1.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/XamSome/awesome-xamarin/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin/blob/master/README.md) · ⭐ 1.8K · 🏷️ Platforms
 
 [ [Daily](/content/XamSome/awesome-xamarin/README.md) / [Weekly](/content/XamSome/awesome-xamarin/week/README.md) / Overview ]
 

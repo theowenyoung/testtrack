@@ -2,7 +2,7 @@
 
 Design and development guides
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/NARKOZ/guides/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides/blob/master/README.md) · ⭐ 2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides/blob/master/README.md) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/NARKOZ/guides/README.md) / [Weekly](/content/NARKOZ/guides/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A curated list for awesome kubernetes sources :ship::tada:
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ramitsurana/awesome-kubernetes/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/README.md) · ⭐ 13K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ramitsurana/awesome-kubernetes/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/README.md) · ⭐ 13K · 🏷️ Miscellaneous
 
 [ [Daily](/content/ramitsurana/awesome-kubernetes/README.md) / Weekly / [Overview](/content/ramitsurana/awesome-kubernetes/readme/README.md) ]
 

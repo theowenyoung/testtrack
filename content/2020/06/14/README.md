@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 14, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
@@ -64,25 +64,19 @@
 
 *   [RecApp (⭐101)](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Docs / External Docs
-
-*   [DenoBeginner.com](https://DenoBeginner.com) - A completely free crash course on deno for beginners.
-
-## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [tldr (⭐663)](https://github.com/raylee/tldr-sh-client) - A fully-functional bash client for tldr, simplified and community-driven man pages
 
-## [12. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Tutorials
 
 *   [Vagrant Online Courses at Classpert](https://classpert.com/vagrant) List of Vagrant Online Courses (free and paid)
 
-## [13. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
+## [12. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
 
 ### Commercial integrations
 

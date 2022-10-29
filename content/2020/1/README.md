@@ -1,8 +1,8 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2020
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
@@ -392,19 +392,13 @@
 
 *   [LiveWire (⭐17k)](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
 
-## [40. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
-
-### Docs / Online Playgrounds
-
-*   [deno.town](https://deno.town)
-
-## [41. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [40. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Filesystem
 
 *   [fs-extra (⭐8.7k)](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 
-## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Prototype Pollution
 
@@ -423,7 +417,7 @@
 *   [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 *   [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 
-## [43. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -442,7 +436,7 @@
 
 *   :strawberry: [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -457,13 +451,13 @@
 
 *   [CrSignals (⭐9)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [45. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [44. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-## [46. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Wasm
 
@@ -482,7 +476,7 @@
 *   [Seed (⭐3.5k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐335)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [47. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
@@ -492,7 +486,7 @@
 
 *   [FloatingButton (⭐665)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -522,7 +516,7 @@
 
 
 
-## [49. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [48. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Main
 

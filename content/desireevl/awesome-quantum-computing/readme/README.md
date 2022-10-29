@@ -2,7 +2,7 @@
 
 A curated list of awesome quantum computing learning and developing resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/desireevl/awesome-quantum-computing/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing/blob/master/README.md) · ⭐ 1.9K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/desireevl/awesome-quantum-computing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing/blob/master/README.md) · ⭐ 1.9K · 🏷️ Computer Science
 
 [ [Daily](/content/desireevl/awesome-quantum-computing/README.md) / [Weekly](/content/desireevl/awesome-quantum-computing/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/steven2358/awesome-blockchain-ai/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai/blob/master/README.md) · ⭐ 537 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/steven2358/awesome-blockchain-ai/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai/blob/master/README.md) · ⭐ 537 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/steven2358/awesome-blockchain-ai/README.md) / Weekly / [Overview](/content/steven2358/awesome-blockchain-ai/readme/README.md) ]
 

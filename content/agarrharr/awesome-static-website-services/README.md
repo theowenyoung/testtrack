@@ -2,7 +2,7 @@
 
 📄 🛠 A curated list of awesome static websites services
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/agarrharr/awesome-static-website-services/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services/blob/master/readme.md) · ⭐ 1.6K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/agarrharr/awesome-static-website-services/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services/blob/master/readme.md) · ⭐ 1.6K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/agarrharr/awesome-static-website-services/week/README.md) / [Overview](/content/agarrharr/awesome-static-website-services/readme/README.md) ]
 

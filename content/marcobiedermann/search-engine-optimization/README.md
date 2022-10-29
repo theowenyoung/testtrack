@@ -2,7 +2,7 @@
 
 :mag: A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/marcobiedermann/search-engine-optimization/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization/blob/main/readme.md) · ⭐ 2K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/marcobiedermann/search-engine-optimization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization/blob/main/readme.md) · ⭐ 2K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/marcobiedermann/search-engine-optimization/week/README.md) / [Overview](/content/marcobiedermann/search-engine-optimization/readme/README.md) ]
 

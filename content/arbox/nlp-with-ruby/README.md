@@ -2,7 +2,7 @@
 
 Curated List: Practical Natural Language Processing done in Ruby
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/arbox/nlp-with-ruby/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby/blob/master/readme.md) · ⭐ 966 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/arbox/nlp-with-ruby/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby/blob/master/readme.md) · ⭐ 966 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/arbox/nlp-with-ruby/week/README.md) / [Overview](/content/arbox/nlp-with-ruby/readme/README.md) ]
 

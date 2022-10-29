@@ -2,7 +2,7 @@
 
  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jakoch/awesome-composer/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jakoch/awesome-composer](https://github.com/jakoch/awesome-composer/blob/master/README.md) · ⭐ 815 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jakoch/awesome-composer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jakoch/awesome-composer](https://github.com/jakoch/awesome-composer/blob/master/README.md) · ⭐ 815 · 🏷️ Programming Languages
 
 [ [Daily](/content/jakoch/awesome-composer/README.md) / Weekly / [Overview](/content/jakoch/awesome-composer/readme/README.md) ]
 

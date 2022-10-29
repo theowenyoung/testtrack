@@ -2,7 +2,7 @@
 
 A curated list of awesome projects related to eBPF.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/zoidbergwill/awesome-ebpf/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md) · ⭐ 2.6K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/zoidbergwill/awesome-ebpf/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf/blob/master/readme.md) · ⭐ 2.6K · 🏷️ Platforms
 
 [ [Daily](/content/zoidbergwill/awesome-ebpf/README.md) / [Weekly](/content/zoidbergwill/awesome-ebpf/week/README.md) / Overview ]
 
@@ -380,6 +380,8 @@ If you are new to eBPF, you may want to try the links described as "introduction
 *   [bpflock - Lock Linux machines](https://github.com/linux-lock/bpflock) - An eBPF driven security tool for locking and auditing Linux machines.
 
 *   [merbridge](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
+
+*   [parca-agent](https://github.com/parca-dev/parca-agent) eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
 # eBPF in Security
 

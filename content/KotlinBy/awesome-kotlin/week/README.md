@@ -2,7 +2,7 @@
 
 A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/KotlinBy/awesome-kotlin/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md) · ⭐ 10K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/KotlinBy/awesome-kotlin/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md) · ⭐ 10K · 🏷️ Miscellaneous
 
 [ [Daily](/content/KotlinBy/awesome-kotlin/README.md) / Weekly / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 

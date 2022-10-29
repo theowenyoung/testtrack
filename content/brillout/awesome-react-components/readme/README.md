@@ -2,7 +2,7 @@
 
 Curated List of React Components & Libraries.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/brillout/awesome-react-components/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brillout/awesome-react-components](https://github.com/brillout/awesome-react-components/blob/master/README.md) · ⭐ 33K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/brillout/awesome-react-components/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brillout/awesome-react-components](https://github.com/brillout/awesome-react-components/blob/master/README.md) · ⭐ 33K · 🏷️ Front-End Development
 
 [ [Daily](/content/brillout/awesome-react-components/README.md) / [Weekly](/content/brillout/awesome-react-components/week/README.md) / Overview ]
 

@@ -1,24 +1,18 @@
 # Awesome List Updates on Nov 14, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
-
-### Languages
-
-*   ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.") - Go language.
-
-## [2. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [1. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Dependency Injection
 
 *   [Dependencies (⭐28)](https://github.com/marcguilera/dependencies.dart) - A simple and modular dependency injection system which doesn't use mirrors.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community
 
@@ -26,19 +20,19 @@
 *   [common-lisp.net](https://common-lisp.net)
 *   [lisp-lang.org](https://lisp-lang.org/)
 
-## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Automatically Grant iOS App Permissions Using Appium](https://appiumpro.com/editions/43)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
 *   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐4.9k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
@@ -48,7 +42,7 @@
 
 *   [libpcap (⭐2k)](https://github.com/the-tcpdump-group/libpcap) - A portable C/C++ library for network traffic capture. \[BSD] [website](https://www.tcpdump.org/)
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -59,7 +53,7 @@
 
 *   [Progressive Service Architecture At Auth0](https://auth0.com/blog/progressive-service-architecture-at-auth0/)
 
-## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Libraries
 
@@ -70,7 +64,7 @@
 
 *   [JSON Schema Validate API](https://assertible.com/json-schema-validation) - A simple and free JSON Schema Validation API.
 
-## [9. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [8. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Facebook AI Research's publication within 5 years / Subtypes of QA
 

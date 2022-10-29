@@ -2,7 +2,7 @@
 
 Overview of the electric guitar's parts specs
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/gitfrage/guitarspecs/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs/blob/master/README.md) · ⭐ 172 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/gitfrage/guitarspecs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs/blob/master/README.md) · ⭐ 172 · 🏷️ Hardware
 
 [ [Daily](/content/gitfrage/guitarspecs/README.md) / Weekly / [Overview](/content/gitfrage/guitarspecs/readme/README.md) ]
 

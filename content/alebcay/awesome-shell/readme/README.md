@@ -2,7 +2,7 @@
 
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/alebcay/awesome-shell/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alebcay/awesome-shell](https://github.com/alebcay/awesome-shell/blob/master/README.md) · ⭐ 25K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/alebcay/awesome-shell/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alebcay/awesome-shell](https://github.com/alebcay/awesome-shell/blob/master/README.md) · ⭐ 25K · 🏷️ Development Environment
 
 [ [Daily](/content/alebcay/awesome-shell/README.md) / [Weekly](/content/alebcay/awesome-shell/week/README.md) / Overview ]
 

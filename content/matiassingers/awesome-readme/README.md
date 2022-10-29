@@ -2,7 +2,7 @@
 
 A curated list of awesome READMEs
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/matiassingers/awesome-readme/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme/blob/master/readme.md) · ⭐ 13K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/matiassingers/awesome-readme/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme/blob/master/readme.md) · ⭐ 13K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/matiassingers/awesome-readme/week/README.md) / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 :books: delightful stuff for SketchApp students.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/diessica/awesome-sketch/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 diessica/awesome-sketch](https://github.com/diessica/awesome-sketch/blob/master/README.md) · ⭐ 728 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/diessica/awesome-sketch/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 diessica/awesome-sketch](https://github.com/diessica/awesome-sketch/blob/master/README.md) · ⭐ 728 · 🏷️ Miscellaneous
 
 [ [Daily](/content/diessica/awesome-sketch/README.md) / Weekly / [Overview](/content/diessica/awesome-sketch/readme/README.md) ]
 

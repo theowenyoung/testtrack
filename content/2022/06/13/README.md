@@ -1,8 +1,8 @@
 # Awesome List Updates on Jun 13, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
@@ -79,25 +79,19 @@
 
 *   :octocat: [diod (⭐61)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-### Modules / Frontend framework
-
-*   [reflex (⭐25)](https://github.com/Industrial/reflex) - React Framework for Deno and Oak.
-
-## [11. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [10. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Camera
 
 *   [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
 *   [Touca (⭐108)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
-## [13. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [12. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Installing
 

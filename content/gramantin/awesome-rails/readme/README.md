@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to Ruby on Rails
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/gramantin/awesome-rails/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gramantin/awesome-rails](https://github.com/gramantin/awesome-rails/blob/master/README.md) · ⭐ 3.1K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/gramantin/awesome-rails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 gramantin/awesome-rails](https://github.com/gramantin/awesome-rails/blob/master/README.md) · ⭐ 3.1K · 🏷️ Back-End Development
 
 [ [Daily](/content/gramantin/awesome-rails/README.md) / [Weekly](/content/gramantin/awesome-rails/week/README.md) / Overview ]
 

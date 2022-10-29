@@ -2,7 +2,7 @@
 
 Open source technology for agriculture, farming, and gardening
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/brycejohnston/awesome-agriculture/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture/blob/master/README.md) · ⭐ 880 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/brycejohnston/awesome-agriculture/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture/blob/master/README.md) · ⭐ 880 · 🏷️ Miscellaneous
 
 [ [Daily](/content/brycejohnston/awesome-agriculture/README.md) / [Weekly](/content/brycejohnston/awesome-agriculture/week/README.md) / Overview ]
 

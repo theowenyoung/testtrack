@@ -2,7 +2,7 @@
 
  :books: Books everyone should read!
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/hackerkid/Mind-Expanding-Books/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books/blob/master/README.md) · ⭐ 9.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/hackerkid/Mind-Expanding-Books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books/blob/master/README.md) · ⭐ 9.3K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/hackerkid/Mind-Expanding-Books/week/README.md) / [Overview](/content/hackerkid/Mind-Expanding-Books/readme/README.md) ]
 

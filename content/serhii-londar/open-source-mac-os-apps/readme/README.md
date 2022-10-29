@@ -2,7 +2,7 @@
 
 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md) · ⭐ 33K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/serhii-londar/open-source-mac-os-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md) · ⭐ 33K · 🏷️ Platforms
 
 [ [Daily](/content/serhii-londar/open-source-mac-os-apps/README.md) / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / Overview ]
 
@@ -33,24 +33,7 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 You can see in which language an app is written. Currently there are following languages:
 
-*   ![c\_icon][c_icon] - C language.
-*   ![cpp\_icon][cpp_icon] - C++ language.
-*   ![c\_sharp\_icon][c_sharp_icon] - C# language.
-*   ![clojure\_icon][clojure_icon] - Clojure language.
-*   ![coffee\_script\_icon][coffee_script_icon] - CoffeeScript language.
-*   ![css\_icon][css_icon] - CSS language.
-*   ![go\_icon][go_icon] - Go language.
-*   ![elm\_icon][elm_icon] - Elm language.
-*   ![haskell\_icon][haskell_icon] - Haskell language.
-*   ![javascript\_icon][javascript_icon] - JavaScript language.
-*   ![lua\_icon][lua_icon] - Lua language.
-*   ![objective\_c\_icon][objective_c_icon] - Objective-C language.
-*   ![python\_icon][python_icon] - Python language.
-*   ![ruby\_icon][ruby_icon] - Ruby language.
-*   ![rust\_icon][rust_icon] - Rust language.
-*   ![shell\_icon][shell_icon] - Shell language.
-*   ![swift\_icon][swift_icon] - Swift language.
-*   ![typescript\_icon][typescript_icon] - TypeScript language.
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/C%23-B404AE?style=for-the-badge&logo=csharp&logoColor=white">  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white"> <br> <img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white">  <img src="https://img.shields.io/badge/Coffee%20Script-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white">  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white"> <br> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <br> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">  <img src="https://img.shields.io/badge/Objective%20C-424242?style=for-the-badge&logo=C&logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <br> <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white">  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <br> <img src="https://img.shields.io/badge/Shell-241F31?style=for-the-badge&logo=iTerm2&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 
 ## Contents
 
@@ -505,6 +488,7 @@ You can see in which language an app is written. Currently there are following l
 *   [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings ![swift\_icon][swift_icon]
 *   [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective\_c\_icon][objective_c_icon]
 *   [Menubar Brightness](https://github.com/lucasbento/menubar-brightness) - macOS app to change the screen brightness on the menubar.  ![javascript\_icon][javascript_icon]
+*   [Monitor Bar](https://github.com/tidiemme/monitorbar) - Monitor Bar is a MacOS applicatoin that shows - Battery, Disk, Memory, Cpu, Network Bandwidth, Wifi on menu bar. ![swift\_icon][swift_icon]
 *   [Music Bar](https://github.com/musa11971/Music-Bar/) - Music Bar is macOS application that places music controls right in your menu bar. ![swift\_icon][swift_icon]
 *   [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control) - Night Shift Control is a simple macOS menubar app for controlling Night Shift. It's aim is to bring features from f.lux which are missing from Night Shift such as disabling Night Shift for certain apps.  ![swift\_icon][swift_icon]
 *   [Nocturnal](https://github.com/joshjon/nocturnal) - Menu bar app featuring darker than dark dimming, Night Shift fine tuning, and the ability to turn off TouchBar on MacBook Pro.  ![swift\_icon][swift_icon]
@@ -774,6 +758,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Utilities
 
+*   [Keka](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon][swift_icon]
 *   [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift\_icon][swift_icon]
 *   [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - Mounts archives like disk images. ![swift\_icon][swift_icon]
 *   [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards.  ![objective\_c\_icon][objective_c_icon]

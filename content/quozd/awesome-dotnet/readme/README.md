@@ -2,7 +2,7 @@
 
 A collection of awesome .NET libraries, tools, frameworks and software
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/quozd/awesome-dotnet/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet/blob/master/README.md) · ⭐ 16K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/quozd/awesome-dotnet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet/blob/master/README.md) · ⭐ 16K · 🏷️ Platforms
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 😎 A curated list of packages and resources regarding Steam development
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/scholtzm/awesome-steam/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam/blob/master/README.md) · ⭐ 414 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/scholtzm/awesome-steam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam/blob/master/README.md) · ⭐ 414 · 🏷️ Miscellaneous
 
 [ [Daily](/content/scholtzm/awesome-steam/README.md) / [Weekly](/content/scholtzm/awesome-steam/week/README.md) / Overview ]
 

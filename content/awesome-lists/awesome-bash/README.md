@@ -2,7 +2,7 @@
 
 A curated list of delightful Bash scripts and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/awesome-lists/awesome-bash/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash/blob/master/readme.md) · ⭐ 5.2K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/awesome-lists/awesome-bash/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash/blob/master/readme.md) · ⭐ 5.2K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/awesome-lists/awesome-bash/week/README.md) / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 

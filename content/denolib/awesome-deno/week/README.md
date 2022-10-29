@@ -2,7 +2,7 @@
 
 Curated list of awesome things related to Deno
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/denolib/awesome-deno/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 denolib/awesome-deno](https://github.com/denolib/awesome-deno/blob/main/README.md) · ⭐ 3.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/denolib/awesome-deno/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 denolib/awesome-deno](https://github.com/denolib/awesome-deno/blob/main/README.md) · ⭐ 3.8K · 🏷️ Platforms
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
@@ -10,9 +10,43 @@ Curated list of awesome things related to Deno
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Docs / Official Docs
+
+*   [Deno API Reference](https://deno.land/api)
+*   [Deno Standard Modules](https://deno.land/std)
+
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
+
+### Modules / Web framework
+
+*   [hono (⭐2.6k)](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+
+### Modules / Web utils
+
+*   [fresh\_chart (⭐32)](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
+*   [squishy\_cookies (⭐5)](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
+
+### Showcases / XML
+
+*   [Fresh Showcase](https://fresh.deno.dev/showcase) - The official showcase of Fresh apps.
+*   [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
+
+### Tools / XML
+
+*   [denopendabot](https://github.com/apps/denopendabot) - Dependabot for Deno projects.
+
+### Integrations / XML
+
+*   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+*   [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+*   [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
+*   [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
+
+### Resources in Other Languages / Japanese
+
+*   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -101,10 +135,6 @@ Curated list of awesome things related to Deno
 *   [deno\_mysql (⭐234)](https://github.com/denodrivers/mysql) - MySQL database driver.
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 *   [redis (⭐396)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
-
-### Modules / Frontend framework
-
-*   [reflex (⭐25)](https://github.com/Industrial/reflex) - React Framework for Deno and Oak.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -319,11 +349,6 @@ Curated list of awesome things related to Deno
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
-### Docs / Official Docs
-
-*   [Deno API Reference](https://doc.deno.land/builtin/stable)
-    *   [Deno Unstable API Reference](https://doc.deno.land/builtin/unstable)
-
 ### Modules / CLI utils
 
 *   [kia (⭐42)](https://github.com/HarryPeach/kia) - Simple terminal spinners for Deno 🦕
@@ -344,10 +369,6 @@ Curated list of awesome things related to Deno
 ### Modules / Frontend framework
 
 *   [aleph.js (⭐4.9k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
-
-### Modules / Logging
-
-*   [gardens (⭐34)](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 
 ### Modules / Mail
 
@@ -372,7 +393,6 @@ Curated list of awesome things related to Deno
 
 ### Modules / Testing
 
-*   [deno-pretty-assert (⭐26)](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 *   [deno-puppeteer (⭐323)](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 *   [expect (⭐40)](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 *   [merlin (⭐47)](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
@@ -613,7 +633,6 @@ Curated list of awesome things related to Deno
 
 ### Tools / XML
 
-*   [commands (⭐8)](https://github.com/buttercubz/commands) - Create commands shortcuts for node js and deno
 *   [trex (⭐715)](https://github.com/crewdevio/Trex) - Package management like npm for deno.
 
 ### Articles / XML
@@ -625,10 +644,6 @@ Curated list of awesome things related to Deno
 *   [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
-
-### Docs / External Docs
-
-*   [DenoBeginner.com](https://DenoBeginner.com) - A completely free crash course on deno for beginners.
 
 ### Docs / Online Playgrounds
 
@@ -817,12 +832,6 @@ Curated list of awesome things related to Deno
 
 *   [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 
-## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
-
-### Docs / Online Playgrounds
-
-*   [deno.town](https://deno.town)
-
 ## [Dec 23 - Dec 29, 2019](/content/2019/51/README.md)
 
 ### Modules / Utils
@@ -873,12 +882,6 @@ Curated list of awesome things related to Deno
 ### Modules / Utils
 
 *   [deno\_random\_interval (⭐1)](https://github.com/zekth/deno_random_interval) - Helper to generate random interval.
-
-## [Apr 29 - May 05, 2019](/content/2019/17/README.md)
-
-### Modules / Web framework
-
-*   [servest (⭐745)](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
 

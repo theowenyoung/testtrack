@@ -2,7 +2,7 @@
 
 A curated list of awesome Bioinformatics libraries and software.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/danielecook/Awesome-Bioinformatics/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/README.md) · ⭐ 2.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/danielecook/Awesome-Bioinformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/README.md) · ⭐ 2.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/danielecook/Awesome-Bioinformatics/README.md) / [Weekly](/content/danielecook/Awesome-Bioinformatics/week/README.md) / Overview ]
 

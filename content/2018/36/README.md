@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 03 - Sep 09, 2018
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
@@ -34,43 +34,37 @@
 
 *   [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
 
-## [5. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
-
-### Languages
-
-*   ![clojure\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/clojure-16.png "Clojure Language") - Clojure language.
-
-## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Security
 
 *   [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** \[51:21]
 
-## [7. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [6. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Papers / ROSCon 2015
 
 *   [An information model for modular robots: the Hardware Robot Information Model (HRIM)](https://arxiv.org/pdf/1802.01459.pdf)
 
-## [8. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services
 
 *   [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Utilities
 
 *   [ocaml-cuid (⭐17)](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / URL Shorteners
 
 *   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.3k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 
-## [11. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -90,37 +84,37 @@
 *   [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) - By Madhushree Ghosh.
 *   [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - By Jessi Hempel.
 
-## [12. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [11. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Bots
 
 *   [Welcome Bot (⭐7)](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
-## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime / Ruby
 
 *   [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - Automatically generated documentation for GTFS-realtime, generated from the official [GTFS-realtime protocol buffer specification (⭐373)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) and including some extensions.
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [13. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [tmuxpair (⭐37)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
-## [15. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [14. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### UI
 
 *   [XamEffects ★53 (⭐255)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
-## [16. Amas](/content/sindresorhus/amas/week/README.md)
+## [15. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
-## [17. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [16. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -129,7 +123,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [18. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [17. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Base / Reset / Normalize
 
@@ -234,14 +228,14 @@
     [Repo (⭐973)](https://github.com/Slicejack/bojler)
     \| #SCSS
 
-## [19. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [18. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [20. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [19. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -253,13 +247,13 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Collaboration and Project Management / Telegram
 
 *   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐13)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 
-## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -269,25 +263,25 @@
 
 *   [ESTabBarController (⭐4.8k)](https://github.com/eggswift/ESTabBarController) - A highly customizable TabBarController component, which is inherited from UITabBarController.
 
-## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### File Upload
 
 *   [PaperClip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord. Deprecated as of May 14, 2018.
 
-## [24. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
-## [25. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [24. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [Taskist (⭐793)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
-## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -301,7 +295,7 @@
 
 *   [vue2-scrollspy (⭐135)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 
-## [27. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [26. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / C
 
@@ -311,13 +305,13 @@
 
 *   [CanCat (⭐159)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
-## [28. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [27. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [HTTP Leaks (⭐1.7k)](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -327,7 +321,7 @@
 
 *   [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [29. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Gists
 
@@ -376,7 +370,7 @@
 
 *   [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -413,7 +407,7 @@
 *   [md2png (⭐24)](https://github.com/weaming/md2png) - Convert markdown to PNG image
 *   [whales (⭐348)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -423,7 +417,7 @@
 
 *   [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CLI
 
@@ -437,13 +431,13 @@
 
 *   [danilop/yas3fs :fire::fire::fire: (⭐628)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 
-## [34. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [33. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
 *   [American Monk: Bhante Subhūti](http://americanmonk.org/) - Monk with roots in the Sri Lanka and Myanmar Forest Traditions.
 
-## [35. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [34. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
@@ -459,7 +453,7 @@
 *   PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?\&c=Framework+%3A%3A+Jupyter)
     is the PyPI trove classifier for Jupyter projects.
 
-## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -473,14 +467,14 @@
 
 *   [DPPM (⭐105)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
-## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Cat-or-dog (⭐31)](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
 *   [Forex Rates (⭐45)](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -503,7 +497,7 @@
 
 *   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
@@ -525,19 +519,19 @@
 *   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
 *   [NCrontab (⭐731)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [bimap (⭐22)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
-## [41. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [40. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Queues
 
 *   [Enqueue (⭐2.1k)](https://github.com/php-enqueue/enqueue-dev) -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
 
-## [42. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [41. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Wiki
 

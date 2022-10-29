@@ -2,7 +2,7 @@
 
 A curated list of awesome advertising content, resources and libraries.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/cenoura/awesome-ads/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cenoura/awesome-ads](https://github.com/cenoura/awesome-ads/blob/master/README.md) · ⭐ 74 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/cenoura/awesome-ads/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cenoura/awesome-ads](https://github.com/cenoura/awesome-ads/blob/master/README.md) · ⭐ 74 · 🏷️ Miscellaneous
 
 [ [Daily](/content/cenoura/awesome-ads/README.md) / [Weekly](/content/cenoura/awesome-ads/week/README.md) / Overview ]
 

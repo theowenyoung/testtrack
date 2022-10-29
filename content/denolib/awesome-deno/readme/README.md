@@ -2,7 +2,7 @@
 
 Curated list of awesome things related to Deno
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/denolib/awesome-deno/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 denolib/awesome-deno](https://github.com/denolib/awesome-deno/blob/main/README.md) · ⭐ 3.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/denolib/awesome-deno/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 denolib/awesome-deno](https://github.com/denolib/awesome-deno/blob/main/README.md) · ⭐ 3.8K · 🏷️ Platforms
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / [Weekly](/content/denolib/awesome-deno/week/README.md) / Overview ]
 
@@ -49,6 +49,7 @@ This list is a collection of the best Deno modules and resources.
 *   [Registries](#registries)
 *   [Showcases](#showcases)
 *   [Tools](#tools)
+*   [Integrations](#integrations)
 *   [Articles](#articles)
 *   [Presentations](#presentations)
 *   [Resources](#resources)
@@ -69,18 +70,16 @@ This list is a collection of the best Deno modules and resources.
 ### Official Docs
 
 *   [Official Site](https://deno.land)
-*   [Deno API Reference](https://doc.deno.land/builtin/stable)
-    *   [Deno Unstable API Reference](https://doc.deno.land/builtin/unstable)
 *   [Deno Manual](https://deno.land/manual)
+*   [Deno API Reference](https://deno.land/api)
+*   [Deno Standard Modules](https://deno.land/std)
 
 ### External Docs
 
 *   [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
-*   [DenoBeginner.com](https://DenoBeginner.com) - A completely free crash course on deno for beginners.
 
 ### Online Playgrounds
 
-*   [deno.town](https://deno.town)
 *   [Deno Playground](https://deno-playground.now.sh)
     *   [maman/deno-playground](https://github.com/maman/deno-playground)
 *   [DenoBR Playground](https://playground.denobr.com/)
@@ -88,9 +87,6 @@ This list is a collection of the best Deno modules and resources.
 *   [Repl.it](https://repl.it/languages/deno)
 
 ## Modules
-
-**NOTICE**: Deno has a few official modules that could be found at [deno\_std](https://deno.land/std/).
-Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Automation
 
@@ -143,7 +139,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [aleph.js](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
 *   [fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
 *   [packup](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
-*   [reflex](https://github.com/Industrial/reflex) - React Framework for Deno and Oak.
 *   [ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Game engine
@@ -158,7 +153,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Logging
 
-*   [gardens](https://github.com/partheseas/gardens) - A useful logging utility for JavaScript everywhere.
 *   [sentry\_deno](https://github.com/GJZwiers/sentry_deno) - Unofficial port of the Sentry SDK for JavaScript to Deno.
 *   [dlog](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
@@ -206,7 +200,6 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Testing
 
-*   [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) - A colorful assertEqual for deno.
 *   [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 *   [expect](https://github.com/allain/expect) - Helpers for writing jest like expect tests in deno.
 *   [merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for deno 🧙‍♂️
@@ -294,13 +287,13 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero dependencies.
 *   [fast](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 *   [faster](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 *   [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
 *   [oak](https://github.com/oakserver/oak) - A middleware framework for Deno's net server.
     *   [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
 *   [opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
     *   [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 *   [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
-*   [servest](https://github.com/keroxp/servest) - A progressive HTTP server/router.
 
 ### WebSocket
 
@@ -314,6 +307,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 *   [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 *   [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
+*   [fresh\_chart](https://github.com/denoland/fresh_charts) - A server-side-rendered charting library for Fresh.
 *   [gentleRpc](https://github.com/timonson/gentleRpc) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 *   [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware.
 *   [graphql-tag](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
@@ -322,6 +316,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [qs](https://github.com/denolib/qs) - A query string parser with nesting support.
 *   [router](https://github.com/zhmushan/router) - A high-performance basic router works anywhere.
 *   [status](https://github.com/denosaurs/status) - HTTP codes and status utility for Deno.
+*   [squishy\_cookies](https://github.com/omar2205/squishy_cookies) - Easily sign and verify cookies.
 *   [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - A prometheus client.
 *   [up](https://github.com/denorg/up) - Check if a website is up in Deno.
 *   [youtube-deno](https://github.com/akshgpt7/youtube-deno) - A Deno client library for the YouTube Data API for any interaction with YouTube.
@@ -350,13 +345,14 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - A Boilerplate for deno RESTful apis.
 *   [Deno Seed](https://github.com/tamasszoke/deno-seed) - Complete boilerplate for development. :seedling:
 *   [Edrys](https://github.com/edrys-org/edrys) - Remote Teaching Software
+*   [Fresh Showcase](https://fresh.deno.dev/showcase) - The official showcase of Fresh apps.
 *   [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
-*   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 *   [Saleor Deno Merch](https://github.com/saleor/deno-merch) - A fork of the original Deno Merch e-commerce website, rebuilt with [Saleor](https://github.com/saleor/saleor).
+*   [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
+*   [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 
-*   [commands](https://github.com/buttercubz/commands) - Create commands shortcuts for node js and deno
 *   [clone](https://github.com/ekaragodin/clone) - A simple utility for the convenient clone.
 *   [decense](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 *   [dedep](https://github.com/egoist/dedep) - Manage dependency versions.
@@ -366,6 +362,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [denoliver](https://github.com/joakimunge/denoliver) - A simple, dependency free file server with live reload.
 *   [denomander](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 *   [denon](https://github.com/denosaurs/denon) - A daemon script runner, like nodemon. Built in and for Deno.
+*   [denopendabot](https://github.com/apps/denopendabot) - Dependabot for Deno projects.
 *   [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
 *   [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 *   [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
@@ -401,6 +398,13 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 *   [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 *   [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action that puts a file with the latest Deno Version in your repository.
 *   [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
+
+## Integrations
+
+*   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+*   [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+*   [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
+*   [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
 ## Articles
 
@@ -487,6 +491,7 @@ Consider submitting to the [deno.land/x](https://deno.land/x/) registry.
 
 ### Japanese
 
+*   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 *   [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 *   [mizchi/deno\_code\_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 *   [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)

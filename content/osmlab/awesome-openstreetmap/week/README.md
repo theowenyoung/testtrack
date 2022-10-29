@@ -2,7 +2,7 @@
 
 😎 Curated list of awesome OpenSteetMap-projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/osmlab/awesome-openstreetmap/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap/blob/main/README.md) · ⭐ 356 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/osmlab/awesome-openstreetmap/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap/blob/main/README.md) · ⭐ 362 · 🏷️ Miscellaneous
 
 [ [Daily](/content/osmlab/awesome-openstreetmap/README.md) / Weekly / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
 
@@ -10,9 +10,14 @@
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Changeset Tools / Web Services
+
+*   [latest-changes](https://rene78.github.io/latest-changes/#2/15.0/-15.0) - Visualize latest OSM changesets within a certain geographic boundary. Includes a simple vandalism checker. ([Source Code (⭐0)](https://github.com/rene78/latest-changes/))
+
 ### Maps / Web Maps
 
 *   [Visit Sights](https://visitsights.com/) - Suggestions for self-guided sightseeing tours by foot and overview of individual sights all around the world.
+*   [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 
 ### Miscellaneous / Java
 
@@ -273,7 +278,6 @@
 
 ### Maps / Web Maps
 
-*   [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) - Map for exploring latest changesets. ([Source Code (⭐14)](https://github.com/tyrasd/latest-changes/))
 *   [Baato Before-After Maps](https://beforeafter.baato.io/) - Generate before-after maps to visualize the work your local community has done. ([Source Code (⭐20)](https://github.com/baato/before-after))
 
 ### Maps / Generators

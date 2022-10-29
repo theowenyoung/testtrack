@@ -1,8 +1,8 @@
 # Awesome List Updates on Sep 09, 2018
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
@@ -40,13 +40,7 @@
 
 *   [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
 
-## [6. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
-
-### Languages
-
-*   ![clojure\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/clojure-16.png "Clojure Language") - Clojure language.
-
-## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Base / Reset / Normalize
 
@@ -121,7 +115,7 @@
     [Repo (⭐973)](https://github.com/Slicejack/bojler)
     \| #SCSS
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Tab / Barcode
 

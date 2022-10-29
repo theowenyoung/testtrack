@@ -2,7 +2,7 @@
 
 ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/AllThingsSmitty/css-protips/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips/blob/master/README.md) · ⭐ 23K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/AllThingsSmitty/css-protips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips/blob/master/README.md) · ⭐ 23K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/AllThingsSmitty/css-protips/week/README.md) / [Overview](/content/AllThingsSmitty/css-protips/readme/README.md) ]
 

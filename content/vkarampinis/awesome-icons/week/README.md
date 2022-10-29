@@ -2,7 +2,7 @@
 
 A curated list of awesome Web Font Icons
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/vkarampinis/awesome-icons/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons/blob/master/README.md) · ⭐ 998 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/vkarampinis/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons/blob/master/README.md) · ⭐ 998 · 🏷️ Miscellaneous
 
 [ [Daily](/content/vkarampinis/awesome-icons/README.md) / Weekly / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 

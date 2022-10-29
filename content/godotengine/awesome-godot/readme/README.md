@@ -2,7 +2,7 @@
 
 A curated list of free/libre plugins, scripts and add-ons for Godot
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/godotengine/awesome-godot/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 godotengine/awesome-godot](https://github.com/godotengine/awesome-godot/blob/master/README.md) · ⭐ 3.8K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/godotengine/awesome-godot/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 godotengine/awesome-godot](https://github.com/godotengine/awesome-godot/blob/master/README.md) · ⭐ 3.8K · 🏷️ Gaming
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / [Weekly](/content/godotengine/awesome-godot/week/README.md) / Overview ]
 

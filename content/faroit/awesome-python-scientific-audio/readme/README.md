@@ -2,7 +2,7 @@
 
  Curated list of python software and packages related to scientific research in audio
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/faroit/awesome-python-scientific-audio/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio/blob/master/README.md) · ⭐ 1.3K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/faroit/awesome-python-scientific-audio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio/blob/master/README.md) · ⭐ 1.3K · 🏷️ Programming Languages
 
 [ [Daily](/content/faroit/awesome-python-scientific-audio/README.md) / [Weekly](/content/faroit/awesome-python-scientific-audio/week/README.md) / Overview ]
 

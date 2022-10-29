@@ -2,7 +2,7 @@
 
 👻 A curated list of awesome FFmpeg resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/transitive-bullshit/awesome-ffmpeg/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/readme.md) · ⭐ 777 · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/transitive-bullshit/awesome-ffmpeg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg/blob/master/readme.md) · ⭐ 777 · 🏷️ Media
 
 [ [Daily](/content/transitive-bullshit/awesome-ffmpeg/README.md) / [Weekly](/content/transitive-bullshit/awesome-ffmpeg/week/README.md) / Overview ]
 
