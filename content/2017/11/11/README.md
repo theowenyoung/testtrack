@@ -1,12 +1,24 @@
 # Awesome List Updates on Nov 11, 2017
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / France 🇫🇷
+
+### Paris
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manekinekko" height="70px" width="70px" align="left" alt="" />
+
+**Wassim Chegham**\
+Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\
+<https://twitter.com/manekinekko>
+
+## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Posts
 

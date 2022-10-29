@@ -1,24 +1,30 @@
 # Awesome List Updates on Aug 13, 2016
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Azavea <https://www.azavea.com/blog/category/software-development/>
+
+## [2. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Authentication Authorisation
 
 *   [Vert.x-Pac4j (⭐117)](https://github.com/pac4j/vertx-pac4j) - Vert.x authentication/authorisation implemented using [pac4j](http://www.pac4j.org/).
 
-## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [nehm (⭐85)](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 
-## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Algorithms / Symmetric encryption
 

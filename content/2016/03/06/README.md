@@ -92,6 +92,7 @@
 *   [The Joy of Erlang; Or, How To Ride A Toruk](http://www.evanmiller.org/joy-of-erlang.html) - The Joy of Erlang; Or, How To Ride A Toruk A fast track introduction to Erlang that teaches the language by walking through a few example projects.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Commits in Branch1 that are not in Branch2
 
 ```sh

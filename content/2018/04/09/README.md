@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2018
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -21,19 +21,26 @@
 *   [Quiver (⭐879)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 *   [route\_hierarchical (⭐29)](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 
-## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Community-maintained lists / Ruby
+
+*   [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - Add new vendors [here](http://goo.gl/forms/YDbPSPmufS).
+*   [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
+
+## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
 *   [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 
-## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [5. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
 *   [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
 
-## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / Attribution Required licenses
 
@@ -43,19 +50,19 @@
 
 *   [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 
-## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Hardware
 
 *   [Phidgets](https://www.phidgets.com) - Sensors, input devices and controllers for computers.
 
-## [7. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [CMakeInstallExample (⭐28)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
 
-## [8. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [9. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### Learning Swift: Advanced Topics / Design Patterns
 
@@ -69,7 +76,13 @@
 
 *   [Abstract Algebra (⭐190)](https://github.com/taketo1024/SwiftyMath) - Abstract algebra concepts implemented in Swift.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Hobby projects
+
+*   [Under Door Tool Kit Instructions](https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
+
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Containers
 

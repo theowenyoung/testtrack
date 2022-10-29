@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2015
 
-26 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -264,7 +264,19 @@
 
 *   [Python Job Board](https://www.python.org/jobs/)
 
-## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [6. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Beginner Books
+
+#### R Inferno [\[Online\]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) *Free*
+
+<img src="http://www.burns-stat.com/wp-content/uploads/2012/11/R_inferno_cover.jpg" width="200px"/>
+
+"If you are using R and you think you’re in hell, this is a map for you."
+
+This is a great introduction to several aspects of R programming. Loading data into R, iterating over data with loops & logic statements, author even touches on creating packages. Nice and pretty thorough book on R.
+
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates
 
@@ -289,7 +301,7 @@
 *   [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - Send email tests to Litmus with grunt
 *   [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [8. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Bytecode
 
@@ -311,13 +323,14 @@
 
 *   [jvm.go (⭐3.4k)](https://github.com/zxh0/jvm.go) - A JVM written in Go.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [UnitTest++ (⭐508)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
-## [9. Tips](/content/git-tips/tips/week/README.md)
+## [10. Tips](/content/git-tips/tips/week/README.md)
+
 ## Deploying git tracked subfolder to gh-pages
 
 ```sh
@@ -334,20 +347,20 @@ git subtree add --prefix=<directory_name>/<project_name> --squash git@github.com
 git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.com:<username>/<project_name>.git master
 ```
 
-## [10. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Object Detection / Localization & Mapping:
 
 *   [ReInspect](https://github.com/Russell91/ReInspect)
 
-## [11. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [12. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Books
 
 *   [Computer Graphics](http://www.amazon.com/dp/0321399528) by **John F. Hughes, et al.** - Computer Graphics is indeed a must for anyone being involved in the design and implementation of Computer Graphics algorithms. However, this is not a OpenGL focused book, but contains valuable demonstrations of the technology.
 *   [OpenGL ES 3.0 Programming Guide](http://www.amazon.com/dp/0321933885) by **Dan Ginsburg, et al.** - It presents all the necessary information to use the OpenGL ES 3.0 API in a clear manner.
 
-## [12. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [13. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-imerge](https://github.com/mhagger/git-imerge)
 
@@ -425,7 +438,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
     $ git imerge reparent
     67ebc0e6517ac791de6699453b71d2c7fd81ffcd
 
-## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Justin Miller (⭐0)](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
+
+## [15. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Templates & UI Kits / Nice-to-have :thumbsup:
 
@@ -433,7 +452,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 *   [Sketch iOS Templates (⭐837)](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
 *   [Teracy Wireframe Kit (⭐1.3k)](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
-## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [16. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -490,19 +509,19 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [Johns Hopkins University Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) - 9 courses including: Introduction to R, literate analysis tools, Shiny and some more.
 
-## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Reactive Programming / Runner
 
 *   [Most.js (⭐3.5k)](https://github.com/cujojs/most) - high performance FRP library.
 
-## [16. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [cmus (⭐4.7k)](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 
-## [17. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [19. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Crime
 
@@ -534,7 +553,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 *   [The Walking Dead (AMC)](http://api.tvmaze.com/singlesearch/shows?q=the-walking-dead\&embed=episodes)
 *   [South Park (Comedy Central)](http://api.tvmaze.com/singlesearch/shows?q=south-park\&embed=episodes)
 
-## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [20. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -546,7 +565,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 *   [test-fixture (⭐21)](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
 *   [iron-test-helpers (⭐26)](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
@@ -556,7 +575,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [Squid (⭐218)](https://github.com/fullscreen/squid) - Squid · A Ruby library to plot charts in PDF files
 
-## [20. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [bus-router (⭐33)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐5.2k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
+
+## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -791,19 +816,19 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 *   [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/\~acfd/egr537-lctrs.pdf) - J. M. McDonough (University of Kentucky)
 *   [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/\~schmidt/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 
-## [21. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [24. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Build Tools
 
 *   [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - A make-like build tool for embedded Linux.
 
-## [22. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [25. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Kovert (⭐154)](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 
-## [23. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -852,13 +877,13 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 
 
-## [24. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [27. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Themes / Dojo 2
 
 *   [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - A responsive Dojo theme that harnesses the style awesomeness of [Semantic UI](http://semantic-ui.com/) Framework.
 
-## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -873,7 +898,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [money (⭐672)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
-## [26. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Social Media and other Website API / OpenOffice
 

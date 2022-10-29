@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,13 +71,20 @@
 
 *   [Cursive (IntelliJ)](https://cursive-ide.com/)
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Misc
+
+*   [StackExachange Robotics community](https://robotics.stackexchange.com)
+*   [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
+
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Macros
 
 *   [ok\_jose (⭐95)](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -88,7 +95,7 @@
 *   [Function](http://wefunction.com/category/free-photos/) - High-resolution photos by Liam McKay.
 *   [titania foto](http://www.titania-foto.com) - The free image database
 
-## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Makers
 
@@ -98,7 +105,7 @@
 
 *   [mqtt2opcua (⭐71)](https://github.com/nzfarmer1/mqtt2opcua) - Bi Directional MQTT to OPCUA Bridge.
 
-## [10. Vim Galore](/content/mhinz/vim-galore/README.md)
+## [11. Vim Galore](/content/mhinz/vim-galore/README.md)
 
 ### Ranges
 
@@ -116,7 +123,7 @@
 *   Execute the macro via `[count]@q`.
 *   Repeat the last used macro via `[count]@@`.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 

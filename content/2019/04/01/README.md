@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 01, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -134,19 +134,25 @@
 
 
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Even Stensberg (⭐0)](https://github.com/evenstensberg/ama) - OSS contributor and developer.
+
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 
 *   [firebase-admin-dotnet (⭐285)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
 
-## [12. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [13. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Monitoring / Logging
 
 *   [opensnitch (⭐7.9k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 

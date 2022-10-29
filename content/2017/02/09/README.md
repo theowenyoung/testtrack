@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09, 2017
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,13 @@
 *   [component (⭐2k)](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
 *   [mount (⭐1.1k)](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 
-## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Official Resources
+
+*   [GitHub Repo (⭐48k)](https://github.com/driftyco/ionic/)
+
+## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Frameworks
 
@@ -29,13 +35,13 @@
 
 *   [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
 
-## [4. Awesome R](/content/qinwf/awesome-R/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Parallel Computing
 
 *   [batchtools](https://cran.r-project.org/package=batchtools) - High performance computing with LSF, TORQUE, Slurm, OpenLava, SGE and Docker Swarm.
 
-## [5. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Functions as a Service
 
@@ -51,7 +57,13 @@
 
 *   [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   Hostinger <https://www.hostinger.com/blog/engineering/>
+
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

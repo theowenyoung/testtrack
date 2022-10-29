@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -261,7 +261,13 @@
 *   [urban\_road\_filter (⭐170)](https://github.com/jkk-research/urban_road_filter) - Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles.
 *   [Removert (⭐322)](https://github.com/irapkaist/removert) - Remove then revert. Static map construction in the wild and dynamic points removing tool by constructing a static map.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Frameworks
+
+*   [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
+
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -271,7 +277,7 @@
 
 *   [vite-plugin-dynamic-base (⭐27)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Project Layout
 

@@ -1,18 +1,32 @@
 # Awesome List Updates on Nov 09, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Say What? Shiok Food Card Game](https://www.saywhatwithfriends.com/shop/say-what-singapores-shiok-food-card-game)
+
+> Love Singapore’s Local Food? This Food Card Game contains 50 local dishes for you to guess and the winner will be the one who can guess the most.
+
+![Say What? Shiok Food Card Game](https://images.squarespace-cdn.com/content/v1/5649b2dbe4b0142472e867bc/1573954498990-B1NESNC79U51TJNXQEBB/SG+FOOD+GAME+FRONT.JPG?format=250w)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |        5 | 20-30m |
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
 *   [ClickHouse (⭐195)](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. \[Apache2]
 
-## [2. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [3. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Communities / Discord
 
@@ -23,7 +37,8 @@
 
 *   [Zesty Market](https://zesty.market) - A marketplace for rentable NFT banner spaces in XR. As of Nov 9, 2021, has generated over $3K for WebXR developers since July 2021.
 
-## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [4. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [Agola](https://agola.io)
 
   Description: Self-Hosted, Open Source CI/CD Platform
@@ -40,7 +55,7 @@
 
 
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### URL Shorteners
 
@@ -56,19 +71,19 @@
 
 
 
-## [5. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
 *   [ockam (⭐2.6k)](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [sntpc](https://crates.io/crates/sntpc): Rust SNTP client to get a timestamp from NTP servers. - ![crates.io](https://img.shields.io/crates/v/sntpc)
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -78,7 +93,7 @@
 
 *   [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - Kubernetes-native API Gateway.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -92,7 +107,7 @@
 
 *   [harlem (⭐435)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -106,7 +121,7 @@
 
 *   [Astra](https://www.datastax.com/products/datastax-astra/) — Cloud Native Cassandra as a Service with [80GB free tier](https://www.datastax.com/products/datastax-astra/pricing)
 
-## [10. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Websites / Web
 

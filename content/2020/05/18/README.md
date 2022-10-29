@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,13 +29,46 @@
 
 *   [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Talks by Simon Wardley and the Wardley mapping community.
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Libraries / C
+
+*   [CGTFS (⭐4)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐149)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+
+### GTFS Libraries / Python
+
+*   [ESRI public-transit-tools (⭐129)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐125)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [gtfsman (⭐20)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
+*   [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐33)](https://github.com/CxAalto/gtfspy-webviz).
+*   [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
+*   [Mapzen GTFS (⭐27)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
+*   [multigtfs (⭐49)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
+
+### GTFS Libraries / C#
+
+*   [GTFS Feed Parser (⭐55)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
+
+### GTFS Libraries / Go
+
+*   [Go GTFS Parser (⭐39)](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
+
+### GTFS Libraries / PostgreSQL
+
+*   [gtfs-schema (⭐25)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+
+### GTFS Libraries / Ruby
+
+*   [GTFS-viz (⭐80)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐325)](https://github.com/vasile/transit-map) web application)
+
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Code Analysis
 
 *   [Phpactor (⭐830)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 
-## [5. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Video Game
 
@@ -45,62 +78,62 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
-## [6. Colorful](/content/Siddharth11/Colorful/README.md)
+## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Libraries
 
 *   [color2k (⭐482)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
-## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
 *   [RealWorld Example App - mongo (⭐369)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.2k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Machine Learning / General Purpouse Machine Learning
 
 *   [Little Ball of Fur (⭐612)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Communities
 
 *   [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 
-## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Python
 
 *   [littleballoffur (⭐612)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
-## [11. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [12. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Community
 
 *   [Official Discourse Forum](https://discourse.cmake.org/)
 
-## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Game Development
 
 *   [*3D Apple Games by Tutorials* by Chris Language](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 
-## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Queue
 
 *   :strawberry: [CakeQueuesadilla plugin (⭐33)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
-## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [blurhash.cr (⭐13)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐11k)](https://github.com/woltapp/blurhash) implementation
 
-## [15. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Learning / Theory and Courses
 
@@ -160,7 +193,7 @@
 *   [embedded-boston/awesome-embedded-systems (⭐580)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 
-## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
@@ -190,7 +223,7 @@
 
 *   [Deno 手册 (⭐302)](https://github.com/Nugine/deno-manual-cn/)
 
-## [17. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [18. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -205,7 +238,7 @@
 
 
 
-## [18. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [19. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Tutorials
 

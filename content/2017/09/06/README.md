@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 06, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,17 @@
 
 
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / U companies
+
+*   Universe <https://engineering.universe.com>
+
+### Individuals/Group Contributors / R individuals
+
+*   Rudolf Olah <https://neverfriday.com/blog/>
+
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -36,20 +46,20 @@
 
 *   [DarkSkyCore (⭐55)](https://github.com/amweiss/dark-sky-core) - A .NET Standard wrapper for the [Dark Sky API](https://darksky.net/dev/docs).
 
-## [3. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### References / Firefox Specific Tools/Debugger
 
 *   [WebVR Spec](https://w3c.github.io/webvr/) - The official W3C WebVR spec (legacy).
     *   [How to read WebVR Specs](https://dassur.ma/things/reading-specs/)
 
-## [4. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Productivity
 
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Database
 
@@ -59,7 +69,7 @@
 
 *   [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - A book about object-orientated PHP by Brandon Savage.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SES
 

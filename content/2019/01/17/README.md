@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 
-## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Native Apps (open source)
+
+*   [Offi Directions](https://gitlab.com/oeffi/oeffi) - An Android app that provides trip planning, schedules, live departure times, and disruption information for transport authorities in Europe and beyond.
+
+## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Introduction
 
@@ -26,19 +32,19 @@
 
 *   [Logo](https://drive.google.com/drive/folders/1GDGdQ0ghrxTNTx6aZLT41eV5sPZvV7bU) - Logo for stickers impressions
 
-## [3. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [4. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Programming
 
 *   [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 
-## [4. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### Community Ressources (mostly german language)
 
 *   [Haus Automatisierung](https://haus-automatisierung.com/) - News, Blog, Youtube, Tutorials, ...
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Chinese
 
@@ -47,7 +53,7 @@
 *   [让我们一起来学习别人学不动的 Deno](https://segmentfault.com/a/1190000015151287)
 *   [Design Mistakes in Node zh-CN](https://zhuanlan.zhihu.com/p/37637923)
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Colors
 
@@ -57,14 +63,14 @@
 
 *   [MFCard (⭐359)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Editor Plugins
 
 *   [vim-cljfmt (Vim) (⭐147)](https://github.com/venantius/vim-cljfmt)
 *   [vim-eastwood (Vim) (⭐84)](https://github.com/venantius/vim-eastwood)
 
-## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [9. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Spelling and Error Correction / Constituency Parsing
 
@@ -92,13 +98,13 @@
 *   <a name="imagemagic"></a>
     [ImageMagick](https://imagemagick.org/index.php)
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN Modeling Platform for Agile, EA TOGAF ADM Process Management.
 
-## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / Fedora Remix for WSL
 

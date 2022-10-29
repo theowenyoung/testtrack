@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 06, 2015
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,29 @@
 
 *   [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
 
-## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / V companies
+
+*   VNGRS <http://blog.vngrs.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Manu Sporny <http://manu.sporny.org/>
+
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
+
+## [6. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Programming Languages / Haskell
 
 *   [Does Haskell have tail-recursive optimization?](http://stackoverflow.com/a/13052612)
 
-## [5. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [7. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Articles
 

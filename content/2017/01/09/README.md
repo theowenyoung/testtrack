@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,19 @@
 
 *   [Node.js API Starter Kit (⭐3.6k)](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Francis Sunday (⭐1)](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
+
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Protocols
 
@@ -67,13 +73,13 @@
 
 *   [dockerex (⭐18)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 
-## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Community / Blogs
 
 *   [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 
-## [8. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [9. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Official resources
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,13 +47,19 @@
 
 
 
-## [5. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Matt Warren <http://mattwarren.org/>
+
+## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Open Source
 
 *   [Fuse Tags with Firebase (⭐14)](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 

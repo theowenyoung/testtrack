@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -83,7 +83,17 @@
 
 *   [Dragonfly](http://markevans.github.io/dragonfly) - Dragonfly is for on-the-fly file processing - suitable for images or other attachments
 
-## [10. Colorful](/content/Siddharth11/Colorful/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / L companies
+
+*   LendingHome <https://tech.lendinghome.com/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ievgen Kuzminov <http://stdout.in/>
+
+## [11. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Web App
 

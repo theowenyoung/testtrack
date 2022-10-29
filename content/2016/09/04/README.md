@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,19 +62,25 @@
 
 *   [Electron Fundamentals course - Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals) 💲
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   John Wittenauer <http://www.johnwittenauer.net/>
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
 *   [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [The Checklist Manifesto: How to Get Things Right](http://atulgawande.com/book/the-checklist-manifesto/)
 
-## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Data Structures
 

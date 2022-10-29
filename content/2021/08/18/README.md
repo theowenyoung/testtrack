@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18, 2021
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,14 @@
 
 *   [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Styling
+
+*   [linaria (⭐9.8k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
+*   [stitches (⭐6.5k)](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 

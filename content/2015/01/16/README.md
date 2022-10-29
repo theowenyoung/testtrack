@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -89,20 +89,34 @@
 *   [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 *   [The RANSAC Song](http://danielwedge.com/ransac/)
 
-## [2. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [2. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### Animation
+
+*   JavaScript
+    *   [Waves (⭐3.5k)](https://github.com/fians/Waves) — Click effect inspired by Google's Material Design.
+    *   [material-design-hamburger (⭐93)](https://github.com/swirlycheetah/material-design-hamburger) — Android's Material Design hamburger animation built in CSS.
+    *   [Material-Preloader (⭐375)](https://github.com/aarondo/Material-Preloader) — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
+    *   [Google-material-design-ripple-effect (⭐13)](https://github.com/ninox92/Google-material-design-ripple-effect) — jQuery plugin recreates ripple and focus effect.
+
+### Other
+
+*   [material\_design\_zh (⭐3.1k)](https://github.com/1sters/material_design_zh) — Material Design Collaborative Chinese translation
+
+## [3. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Documentation
 
 *   [CFScript Reference (⭐100)](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
 
-## [3. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Misc
 
 *   [CS 411](http://video.bilkent.edu.tr/course_videos.php?courseid=10) **Software Architecture Design** *Bilkent University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
     *   This course teaches the basic concepts, methods and techniques for designing software architectures. The topics include: rationale for software architecture design, modeling software architecture design, architectural styles/patterns, architectural requirements analysis, comparison and evaluation of architecture design methods, synthesis-based software architecture design, software product-line architectures, domain modeling, domain engineering and application engineering, software architecture implementation, evaluating software architecture designs.
 
-## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [5. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Websites
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,7 +25,17 @@
 
 *   [Meme Chat (⭐523)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
-## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** \[55:46]
+
+### Computer History
+
+*   [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** \[56:44]
+
+## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
@@ -50,25 +60,25 @@
 *   North America
     *   Canada - [packagist.org](https://packagist.org) *Main mirror*
 
-## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Documentation / Build system (ROS2)
 
 *   [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
 
-## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Routing addons
 
 *   [ember-redirect (⭐28)](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 

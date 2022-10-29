@@ -1,12 +1,18 @@
 # Awesome List Updates on Jun 12, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / T companies
+
+*   Twilio <https://www.twilio.com/blog/>
+
+## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### History
 
@@ -20,7 +26,7 @@
 
 
 
-## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Filesystem
 
@@ -37,13 +43,13 @@
 *   [docker-explorer (⭐455)](https://github.com/google/docker-explorer/)\
     A tool to help forensicate offline docker acquisitions.
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 
 *   [LocalAppVeyor (⭐118)](https://github.com/joaope/LocalAppVeyor) - Run your AppVeyor builds, locally.
 
-## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -52,13 +58,13 @@
         Topics covered include probability theory and Bayesian inference; univariate distributions; Central Limit Theorem; generation of random deviates; tail (p-value) tests; multiple hypothesis correction; empirical distributions; model fitting; error estimation; contingency tables; multivariate normal distributions; phylogenetic clustering; Gaussian mixture models; EM methods; maximum likelihood estimation; Markov Chain Monte Carlo; principal component analysis; dynamic programming; hidden Markov models; performance measures for classifiers; support vector machines; Wiener filtering; wavelets; multidimensional interpolation; information theory.
     *   [Lectures and Assignments](http://wpressutexas.net/forum/)
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Professional services
 
 *   [Superluminar](https://superluminar.io) - Agency.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 

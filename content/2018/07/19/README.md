@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2018
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,13 +19,19 @@
 
 *   [Making Your Appium Tests Fast and Reliable, Part 8: Mocking External Services](https://appiumpro.com/editions/26)
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Marcelo Rinesi <https://blog.rinesi.com/>
+
+## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### ORM / Database / Datamapping
 
 *   [Lqdt/OrmJson plugin (⭐13)](https://github.com/liqueurdetoile/cakephp-orm-json) - Behavior and Trait for selecting, finding, getting and setting properties and values inside JSON type fields through CakePHP ORM.
 
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Websites / Blogs
 
@@ -60,7 +66,7 @@
 *   [WhatTodo (⭐980)](https://github.com/burhanrashid52/WhatTodo) <!--stargazers:burhanrashid52/WhatTodo--> - Todoist like UI by [Burhanuddin Rashid](https://about.me/burhanrashid52)
 *   [BookSearch (⭐507)](https://github.com/Norbert515/BookSearch) <!--stargazers:Norbert515/BookSearch--> - Digital BookShelf for your reading progress by [Norbert515](https://github.com/Norbert515)
 
-## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### CSP
 
@@ -83,7 +89,7 @@
 
 *   [0Day Labs](http://blog.0daylabs.com/) - Awesome bug-bounty and challenges writeups.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
@@ -93,13 +99,13 @@
 
 *   [Coalesce](https://coalesce.intellitect.com/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### C# / Custom Dialog
 
 *   [Xamarin](https://visualstudio.microsoft.com/xamarin/) - Framework to create native iOS, Android, Mac and Windows apps in C#.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -108,6 +114,12 @@
 ### Frameworks, Libraries and Tools / Tools
 
 *   [SharpZipLib (⭐3.1k)](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+
+## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Courses
+
+*   [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) **edX**
 
 ---
 

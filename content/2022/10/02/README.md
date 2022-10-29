@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,13 +62,28 @@
 
 *   [Gerrit](https://www.gerritcodereview.com/) - A code review and project management tool for Git based projects. ([Source Code (⭐687)](https://github.com/GerritCodeReview/gerrit)) `Apache-2.0` `Java/Docker`
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Condottiere](https://boardgamegeek.com/boardgame/112/condottiere)
+
+> The object of Condottiere is to acquire four connected provinces in renaissance Italy. To do this players auction off different provinces on the board and bid on these provinces with a hand of cards representing mercenaries,seasons, scarecrows, and political figures. However, unlike standard auctions, in Condottiere every player loses their bid.
+> Players are, in effect, bidding the number of troops they are willing to lose in order to win a province.
+
+![Condottiere image](https://cf.geekdo-images.com/PZ3Y8nJBWeQzLrCbjFcNFA__itemrep/img/I5U2ErlXmrnGVjxkdlTrq7EuC8w=/fit-in/246x300/filters:strip_icc\(\)/pic6974400.jpg)
+
+| Players | Min. Age |       Time |
+| ------: | -------: | ---------: |
+|   2 - 6 |       14 | around 45m |
+
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [glepnir/lspsaga.nvim (⭐2.1k)](https://github.com/glepnir/lspsaga.nvim) - A light-weight lsp plugin based on Neovim built-in lsp with a highly performant UI.
 
-## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### File Management and Sharing
 
@@ -80,7 +95,7 @@
 
 *   [Quetre (⭐120)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
-## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Using WSL / The WSL Shell
 
@@ -112,7 +127,7 @@
 
 *   Docker® and Docker Hub® are registered trademarks of Docker, Inc. [\*](https://www.docker.com/legal/trademark-guidelines/)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 

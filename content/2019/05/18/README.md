@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,13 +29,19 @@
 *   [Dave Täht](https://www.patreon.com/dtaht) - Working on improving the Internet.
 *   [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 
-## [4. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
+
+## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 
-## [5. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [6. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Books
 

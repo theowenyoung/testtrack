@@ -8,6 +8,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 
 
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### Testing
+
+*   [TestContainers dotnet (⭐23)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
+
 ## [Oct 28, 2022](/content/2022/10/28/README.md)
 
 ### Database

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,21 @@
 
 *   [SAS Planet](http://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
 
-## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Realtime Utilities / Ruby
+
+*   [bus\_kalman (⭐19)](https://github.com/cmoscardi/bus_kalman) - A Kalman Filter used to interpolate bus travel times using NYC MTA real-time data.
+*   [gtfs-realtime-test-service (⭐2)](https://github.com/CUTR-at-USF/gtfs-realtime-test-service) - A tool for mocking GTFS-realtime feed content (e.g., for use in testing a GTFS-realtime consuming application).
+*   [GTFS-realtime Printer (⭐7)](https://github.com/laidig/gtfs-rt-printer) - Java-based utility to print out information from a GTFS-realtime file or URL.
+*   [gtfs-rt-differential-to-full-dataset (⭐2)](https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset) – Javascript tool to transform a continuous GTFS Realtime stream of `DIFFERENTIAL` incrementality data into a `FULL_DATASET` dump.
+*   [gtfs-rt-dump (⭐15)](https://github.com/kurtraschke/gtfs-rt-dump) - Converts protocol buffer format to plain text for easy viewing of a GTFS-realtime feed in plain text (for debugging purposes)
+*   [gtfs-rt-inspector](https://public-transport.github.io/gtfs-rt-inspector/) – Web app to inspect & analyze any (CORS-enabled) GTFS Realtime feed. Open-source on [GitHub (⭐16)](https://github.com/public-transport/gtfs-rt-inspector).
+*   [print-gtfs-rt-cli (⭐12)](https://github.com/derhuerst/print-gtfs-rt-cli) – Javascript tool to read a GTFS Realtime feed from stdin, print human-readable or as JSON.
+*   [transit-feed-quality-calculator (⭐6)](https://github.com/CUTR-at-USF/transit-feed-quality-calculator) - A Java project that uses the [gtfs-realtime-validator (⭐86)](https://github.com/CUTR-at-USF/gtfs-realtime-validator) to assess the quality of a large number of transit feeds, fetching the feed URLs from a global directory ([TransitFeeds.com/OpenMobilityData.org](https://openmobilitydata.org/)).
+*   [Transit Network Model (⭐11)](https://github.com/tmelliott/TransitNetworkModel) - A tool to generate predictions using GTFS-realtime VehiclePositions, a particle filter, and a Kalman Filter.
+
+## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -120,43 +134,43 @@
     Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies.  Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
 *   [LAMW (⭐189)](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [Million (⭐5.3k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Vorago
 
 *   [`va108xx`](https://egit.irs.uni-stuttgart.de/rust/va108xx) - ![crates.io](https://img.shields.io/crates/v/va108xx.svg)
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
 *   [gbprod/cutlass.nvim (⭐81)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
 
-## [12. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [WikiTruth](https://wikitruth.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/wikitruth/wikitruth) - A Wikipedia and Quora-like system with a vetting mechanism to verify facts from trash.
 
-## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Wasm
 
 *   [trunk-action (⭐14)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
 *   [Equinox (⭐621)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
-## [15. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [16. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Web
 

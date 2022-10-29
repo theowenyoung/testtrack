@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 
-## [2. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Chris 'Freddy' Getsfred (⭐0)](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.
+
+## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
@@ -27,7 +33,7 @@
 *   [Watson, Mark](https://twitter.com/mark_l_watson).
     *Practical Semantic Web and Linked Data Applications.* Lulu, 2010. <sup>\[[link](http://www.lulu.com/shop/mark-watson/practical-semantic-web-and-linked-data-applications-java-edition/paperback/product-10915016.html)]</sup>
 
-## [3. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [4. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 
@@ -39,13 +45,13 @@
 *   [React Start Kit (⭐109)](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
 *   [React Boilerplate (⭐19)](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
 
-## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Videos
 
 *   [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Web Socket
 
@@ -64,13 +70,13 @@
 *   Testing
     *   [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Job queues
 
 *   [idoit (⭐64)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
-## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -81,13 +87,13 @@
     *   [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
     *   [Readings](http://www.mmds.org/#book)
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [channl/dynamodb-lambda-autoscale :fire::fire: (⭐312)](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
 
-## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Software-specific
 

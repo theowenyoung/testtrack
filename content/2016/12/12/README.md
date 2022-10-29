@@ -1,12 +1,18 @@
 # Awesome List Updates on Dec 12, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Seth Holladay (⭐0)](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
+
+## [2. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -18,7 +24,7 @@
 
 
 
-## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Starter Projects / Videos
 
@@ -28,26 +34,27 @@
 
 *   [Laravel Italy](http://laravel-italia.it)
 
-## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Media
 
 *   [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) - Cliff Click
 
-## [4. Tips](/content/git-tips/tips/README.md)
+## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Show a Git logical variable.
 
 ```sh
 git var -l | <variable>
 ```
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
 *   [Classification on raw time series in TensorFlow with a LSTM RNN (⭐3.1k)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
 
-## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Media Players
 
@@ -57,14 +64,14 @@ git var -l | <variable>
 
 *   [imscJS (⭐74)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
-## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Pipeline Generation
 
 *   [composable\_operations (⭐47)](https://github.com/t6d/composable_operations) -
     Definition framework for operation pipelines.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
@@ -74,13 +81,13 @@ git var -l | <variable>
 
 *   [The Tao of tmux](https://leanpub.com/the-tao-of-tmux)
 
-## [9. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [10. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Blog Posts & Articles
 
 *   [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Label / Form
 
@@ -92,7 +99,7 @@ git var -l | <variable>
 
 
 
-## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [12. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Date & Time
 

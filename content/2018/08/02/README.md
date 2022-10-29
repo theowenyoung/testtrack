@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2018
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,6 +76,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [awesome-home-assistant (⭐4.1k)](https://github.com/frenck/awesome-home-assistant)
 
 ## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@jacobian](https://github.com/jacobian), [Django (⭐67k)](https://github.com/django/django)
     *   "What Part of '... for Life' Don't You Understand?" ([video](https://www.youtube.com/watch?v=EqcuzSwySR4))
 *   [@sindresorhus](https://github.com/sindresorhus), [AVA (⭐20k)](https://github.com/avajs/ava), [awesome (⭐223k)](https://github.com/sindresorhus/awesome)
@@ -155,7 +156,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [MailCore (⭐80)](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [XMLCoding (⭐8)](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
-## [17. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / F companies
+
+*   Feedzai <https://medium.com/feedzaitech>
+
+## [18. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Tools / Custom Time Series
 

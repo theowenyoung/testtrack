@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,6 +48,16 @@
 ### Screencasts
 
 *   [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
+
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / P individuals
+
+*   Piotr Pasich <http://piotrpasich.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Rob Allen <https://akrabat.com/>
 
 ---
 

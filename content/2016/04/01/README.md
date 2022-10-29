@@ -1,30 +1,36 @@
 # Awesome List Updates on Apr 01, 2016
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+
+## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Editors
 
 *   [Alchemist.vim (⭐657)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
 *   [UIImageColors (⭐3.1k)](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 
-## [4. Awesome R](/content/qinwf/awesome-R/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Natural Language Processing
 

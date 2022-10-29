@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,7 +40,13 @@
 
 *   [wolkenkit](https://www.wolkenkit.io/) - A CQRS, DDD, and event-sourcing framework for JavaScript and Node.js.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / D companies
+
+*   Drivy <https://drivy.engineering/>
+
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 

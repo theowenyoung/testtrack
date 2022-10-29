@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,7 +41,13 @@
 
     Geek Girls Carrots is a global grassroots organisation focused on women in tech and female entrepreneurs. Carrots change the current situation in the IT industry by increasing women’s participation in new technologies. Diversity within teams contributes to boosting innovation and better economic results for the companies. GGC create an international community, by continuous group support, mutual motivation and a friendly environment for personal growth.
 
-## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Byungjin Park (⭐13)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
+
+## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Scripting
 
@@ -55,13 +61,13 @@
 *   [MMX Code Explorer](https://www.mmx-delphi.de). Feature-rich productivity enhancing plugin. Includes refactoring, class browser, advanced editing, metrict and many more.
 *   [FormResource](http://chapmanworld.com/2017/03/22/formresource-a-free-delphi-component-for-organizing-product-dependencies). Wizard that helps storing various data as form resources.
 
-## [6. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [7. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Web
 
 *   [SSHmon (⭐172)](https://github.com/hpello/sshmon) [![stars](https://img.shields.io/github/stars/hpello/sshmon.svg?style=social\&label=stars)](https://github.com/hpello/sshmon) - Real-time GUI to monitor SSH connections and establish port forwardings.
 
-## [7. Awesome](/content/craftcms/awesome/README.md)
+## [8. Awesome](/content/craftcms/awesome/README.md)
 
 ### Articles / Publications
 
@@ -76,7 +82,7 @@
 
 *   [Why Craft?](https://www.webstoemp.com/blog/why-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Jun 2015`
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 

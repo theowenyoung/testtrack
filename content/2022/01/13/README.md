@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,24 @@
 
 *   [Caldera](https://caldera.mitre.org/) - Scalable, automated, and extensible adversary emulation platform developed by MITRE.
 
-## [2. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Community
+
+*   [OpenTripPlanner (⭐1.8k)](https://github.com/opentripplanner/OpenTripPlanner) Community
+    *   [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
+    *   [OpenTripPlanner Developers mailing list](https://groups.google.com/forum/#!forum/opentripplanner-dev)
+*   OneBusAway
+    *   [OneBusAway User mailing list](http://groups.google.com/group/onebusaway-users)
+    *   [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
+    *   [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
+    *   [OneBusAway Slack chat](https://onebusaway.herokuapp.com/)
+
+### Other multimodal data formats / Ruby
+
+*   [Dyno-Demand (⭐2)](https://github.com/osplanning-data-standards/dyno-demand) - A GTFS-based travel demand data format focusing on individual passenger *demand* suitable for dynamic network modeling developed by San Francisco County Transportation Authority, LMZ LLC, and UrbanLabs LLC.
+
+## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :bookmark_tabs: Datasets / Scientific Research
 
@@ -77,19 +94,19 @@
 *   [VirusTotal](https://www.virustotal.com/gui/) - File analysis Web service for detecting malware.
 *   [VMUnpacker](https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
 
-## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vite + React + TypeScript + Tailwind 3.x starter (⭐25)](https://github.com/PDMLab/vite-react-typescript-tailwind-starter) - GitHub Template for Vite, React + Tailwind 3.x + TypeScript.
 
-## [4. Awesome List](/content/sindresorhus/awesome/README.md)
+## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Editors
 
 *   [Neovim (⭐7.2k)](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 
-## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Music
 
@@ -99,7 +116,7 @@
 
 *   [Bartib (⭐311)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
-## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Dynamic type checkers
 
@@ -120,19 +137,19 @@
 *   [Adam Johnsons Blog](https://adamj.eu/tech/tag/mypy/) - Adam Johnson blogs about typing practices.
 *   [ParamSpec Guide](https://sobolevn.me/2021/12/paramspec-guide) - Newly released feature in `PEP612` allows you do a lot of advanced typing things with functions and their signatures.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 2
 
 *   [vite-vue2-ts-vuetify-starter (⭐49)](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
 *   [Surmagic (⭐259)](https://github.com/gurhub/surmagic) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 
-## [9. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -152,7 +169,7 @@
 *   [The Journal of Open Hardware](https://openhardware.metajnl.com/) - (JOH) is a peer reviewed open access publication for open hardware research and development.
 *   [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open access scientific hardware journal.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -168,14 +185,14 @@
 
 
 
-## [11. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [12. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / File Management
 
 *   [OneDrive](https://onedrive.live.com) - Best cloud storage solution for Windows users.
 *   [pCloud](https://www.pcloud.com/) - A cloud storage solution with a strong focus on security.
 
-## [12. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Automation / Ruby
 

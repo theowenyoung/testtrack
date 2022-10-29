@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -144,13 +144,19 @@
 
 *   [ng-admin (⭐4k)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 
-## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Kyle Robinson Young (⭐1)](https://github.com/shama/ama) - Makes stuff and likes bears.
+
+## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Simultaneous localization and mapping / Tracking/Odometry:
 
 *   [kinfu\_remake: Lightweight, reworked and optimized version of Kinfu. (⭐324)](https://github.com/Nerei/kinfu_remake)
 
-## [5. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Related lists
 

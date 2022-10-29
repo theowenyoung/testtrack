@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,25 +52,35 @@
 
 *   [OpenLilyLib (⭐105)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** \[01:02:52]
+
+### Web Development
+
+*   [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** \[41:08]
+
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / Gesture Detection
 
 *   [grt (⭐785)](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 
-## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Videos
 
 *   [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 
-## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [7. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 

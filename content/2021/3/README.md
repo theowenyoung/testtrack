@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2021
 
-53 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -694,7 +694,13 @@
 *   [Cassandra Nagios (⭐5)](https://github.com/causes/cassandra-nagios) - Perl Based scripts to get metrics for monitoring using Jolokia.
 *   [Cassandra StatD Agent (⭐13)](https://github.com/lookout/cassandra-statsd-agent) - Java Agent for Cassandra integration with StatsD.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [35. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Fiddy - <https://fiddy.co>
+
+## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -735,7 +741,14 @@
 
 *   [Form2Channel](https://form2channel.com) — Place a static html form on your website and receive submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [37. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Sindre Sorhus (⭐124)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+*   [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
+
+## [38. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -745,19 +758,19 @@
 
 *   [fetch ★10 (⭐28)](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
-## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [39. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Algorithms, Containers and Protocols / Other / unknown licence
 
 *   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3
 
-## [38. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [40. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
 *   [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
 
-## [39. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [41. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -774,7 +787,7 @@
     *   [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) - Application metric monitoring with Prometheus and Grafana.
     *   [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) - About the current status of the compatibility between FastAPI and Kubernetes-native FaaS platforms.
 
-## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -818,7 +831,7 @@
 
 
 
-## [41. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [43. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Demo
 
@@ -837,7 +850,7 @@
 *   [Speak 3 starter template (⭐0)](https://github.com/Mitya88/SitecoreSpeak3StarterProject) - Speak 3 starter template generated with Angular CLI version 1.2.7.
 *   [Sitecore Speak UI Library (⭐2)](https://github.com/Mitya88/SitecoreSpeakUILibrary) - Speak 3 components generated with Angular CLI version 1.2.7.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Unity SDK
 
@@ -851,31 +864,31 @@
 
 *   [jordanpotti/AWSBucketDump :fire::fire::fire::fire: (⭐1.2k)](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets.
 
-## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [45. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
 
-## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [Security Onion](http://blog.securityonion.net/) - Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Zeek, OSSEC, Sguil, Squert, Snorby, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
 
-## [45. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [47. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### C Sharp
 
 *   [Code Hero](http://www.codehero.org) - A first-person coding puzzle platformer that equips you with a code ray that casts C# at your target.
 
-## [46. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [48. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Blog Posts & Talks / Multi-accounts setup
 
 *   [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link\&sk=549fcf9d998bbea304bdd8d834aca9e6) - By Roy Ben-Yosef.
 
-## [47. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [49. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -893,7 +906,7 @@
 
 *   🎓 [Typographic defaults in Tailwind CSS](https://www.themes.dev/blog/typographic-defaults-in-tailwind-css/)
 
-## [48. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tutorials
 
@@ -912,7 +925,7 @@
 *   [Persisting your users preferences using Blazor and Local Storage](https://jonhilton.net/blazor-tailwind-dark-mode-local-storage/) - January 14, 2021 - Persisting your users preferences using Blazor and Local Storage.
 *   [Displaying lists efficiently in Blazor](https://visualstudiomagazine.com/articles/2021/01/06/blazor-lists.aspx) - January 6, 2021 - Blazor's Virtualize component will let you display long lists faster without writing a lot of code. If you want to take full advantage of the component, however, you'll need a relatively smart repository to back it up.
 
-## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Database
 
@@ -923,7 +936,7 @@
 
 *   [lmgrep (⭐168)](https://github.com/dainiusjocas/lucene-grep)
 
-## [50. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -934,7 +947,7 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -944,7 +957,7 @@
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [54. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -962,7 +975,7 @@
 
 *   [PyQtGraph (⭐3k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [55. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 15, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,37 +18,43 @@
 
 *   [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
 
-## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / B companies
+
+*   Babbel <https://bytes.babbel.com/en/>
+
+## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Miscellaneous / Symfony2
 
 *   [swagger-codegen (⭐15k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 
-## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [5. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Common Utilities
 
 *   [Draft.js: Export ContentState to PDFMake (⭐10)](https://github.com/datagenno/draft-js-export-pdfmake) - Export ContentState to PDFMake.
 
-## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Development Tools
 
 *   [slush-vertx](https://www.npmjs.com/package/slush-vertx) - A template driven Vert.x project generator for different languages and build tools.
 
-## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [7. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Read-Write
 
 *   [mutagen](https://mutagen.readthedocs.io/) [:octocat: (⭐1.1k)](https://github.com/quodlibet/mutagen) [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
 *   [amber (⭐2.4k)](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
@@ -67,19 +73,19 @@
 *   [curlcpp (⭐543)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.7k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Functional Programming
 
 *   [Giraffe (⭐1.8k)](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Screencasts
 
 *   [What's new in Serverless v1.22](https://www.youtube.com/watch?v=ykkeliDAs-c) - Video walkthrough about all the new features in Serverless v1.22.
 
-## [11. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [12. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Videos
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,6 +67,12 @@
 ### Eclipse / Third-party APIs
 
 *   [Dandelion (⭐25)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
+
+## [8. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Frédéric Harper (⭐0)](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 
 ---
 

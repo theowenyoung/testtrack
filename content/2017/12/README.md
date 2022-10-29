@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20 - Mar 26, 2017
 
-47 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -188,14 +188,24 @@
 
 *   **Platform** - `Web`, `macOS`, `Windows`, `Linux`, `Chrome` etc.
 
-## [19. Tips](/content/git-tips/tips/week/README.md)
+## [19. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+
+### Beginner
+
+#### [Hexlet.io](https://en.hexlet.io)
+
+**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.\
+*(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
+
+## [20. Tips](/content/git-tips/tips/week/README.md)
+
 ## Search change by content
 
 ```sh
 git log -S'<a term in the source>'
 ```
 
-## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -210,19 +220,19 @@ git log -S'<a term in the source>'
 *   [WDBGARK (⭐530)](https://github.com/swwwolf/wdbgark) -
     WinDBG Anti-RootKit Extension.
 
-## [21. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [22. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Composing Software](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c) - A series of articles on learning functional programming and compositional software techniques in JavaScript ES6+ from the ground up by @ericelliott.
 
-## [22. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [23. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Written
 
 *   [Json Web token authentication for Lumen](https://laravelista.com/posts/json-web-token-authentication-for-lumen)
 
-## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Profiling
 
@@ -232,7 +242,7 @@ git log -S'<a term in the source>'
 
 *   [Rebus (⭐1.9k)](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### E-Commerce and Payments
 
@@ -242,19 +252,19 @@ git log -S'<a term in the source>'
 
 *   [RabbitMQ.NET (⭐1.7k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Management System
 
 *   [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones and Macs, 3 devices free
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Books / Distributed systems
 
 *   [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) – Theory of distributed systems. Include parts about time and ordering, replication and impossibility results.
 
-## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -281,7 +291,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ![](http://www.speedtest.net/result/6152715433.png)
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -314,38 +324,38 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
-## [29. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Development
 
 *   [Tour De Fuse (⭐10)](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
-## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [31. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Bruteforcers
 
 *   [Nozzlr (⭐61)](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
 *   [Patator (⭐3k)](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design.
 
-## [31. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [32. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [Laravel Forge (⭐52)](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Podcasts
 
 *   [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers.
 
-## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Errors and Exception Handling
 
 *   [OK (⭐580)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
-## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [35. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -359,13 +369,13 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.
 
-## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [36. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
 *   [git-standup (⭐7.2k)](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
 
-## [36. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [37. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Testing
 
@@ -384,13 +394,13 @@ Webpage: <http://www.lerdevagar.com/>
 *   [Guillaume Laforge's blog](http://glaforge.appspot.com/)
 *   [Cédric Champeau's blog](http://melix.github.io/blog/)
 
-## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
 *   [JavaScript Standard Style (⭐28k)](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 
-## [38. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [39. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Image: Segmentation / Object Detection
 
@@ -434,20 +444,40 @@ Webpage: <http://www.lerdevagar.com/>
 *   Finding function in form: Compositional character models for open vocabulary word representation (2015), W. Ling et al. [\[pdf\]](http://aclweb.org/anthology/D/D15/D15-1176.pdf)
 *   A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [\[pdf\]](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
 
-## [39. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [40. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 *   [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
 
-## [40. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [41. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS
+
+*   [GTFS Best Practices](http://gtfs.org/best-practices/) - Best practices for producers of a GTFS feed.
+
+## [42. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [NNFlow (⭐7)](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / P companies
+
+*   PicCollage <https://tech.pic-collage.com/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Domenico Luciani <https://domenicoluciani.com>
+
+### Products/Technologies / R technologies
+
+*   React Native <http://facebook.github.io/react-native/blog/>
+
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
@@ -461,7 +491,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [sam (⭐81)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
-## [42. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [45. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -471,7 +501,7 @@ Webpage: <http://www.lerdevagar.com/>
     *   [Homeworks](http://www.ece.cmu.edu/\~ece447/s15/doku.php?id=homeworks) 7 HWs with answer set as well
     *   [Readings](http://www.ece.cmu.edu/\~ece447/s15/doku.php?id=readings)
 
-## [43. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [46. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Canvas
 
@@ -525,7 +555,7 @@ Webpage: <http://www.lerdevagar.com/>
 *   [electron-template (⭐112)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 *   [WebFUI (⭐235)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
-## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Android
 
@@ -546,7 +576,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Fuck off as a Service (⭐2.9k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
-## [45. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [48. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### React Native
 
@@ -558,7 +588,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 
 
-## [46. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [49. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Tools / Third-Party Tools
 
@@ -572,7 +602,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by [Lee Zhi Eng](https://www.zhieng.com) [:octocat: (⭐94)](https://github.com/PacktPublishing/Qt5-C-GUI-Programming-Cookbook) - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.  The source code used in the book is available for free.
 
-## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [50. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Resources / Custom Dialog
 

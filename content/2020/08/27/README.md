@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -98,6 +98,16 @@
 ### In English
 
 *   [Defensive Security Podcast](https://defensivesecurity.org/category/podcast/) - Defensive Security is a Cyber Security Podcast covering breaches and strategies for defense.
+
+## [9. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Locksport associations and organizations
+
+*   [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://blog.ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
+
+### Novel lock attack techniques and research
+
+*   [SpiKey](https://www.comp.nus.edu.sg/\~junhan/papers/SpiKey_HotMobile20_CamReady.pdf) - Acoustic-based physical key inference.
 
 ---
 

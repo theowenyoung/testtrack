@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-22 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,7 +65,17 @@
 
 *   [OpenLilyLib (⭐105)](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** \[01:02:52]
+
+### Web Development
+
+*   [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** \[41:08]
+
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / Gesture Detection
 
@@ -75,37 +85,37 @@
 
 *   [pgmpy (⭐2.2k)](https://github.com/pgmpy/pgmpy) A python library for working with Probabilistic Graphical Models.
 
-## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Videos
 
 *   [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 
-## [7. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [8. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [EventDrops (⭐1.2k)](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
 
-## [8. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [9. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / References
 
 *   [Promisees](https://bevacqua.github.io/promisees/) - Promise visualization playground for the adventurous.
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [omelette (⭐1.3k)](https://github.com/f/omelette) - Shell autocompletion helper.
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 
 *   [mtr (⭐2.1k)](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 
-## [11. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [12. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### C
 
@@ -124,14 +134,14 @@
 
 *   [Slate (⭐35k)](https://github.com/tripit/slate) - Beautiful static documentation for your API.
 
-## [12. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [13. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Asynchronicity and Parallelism
 
 *   [purescript-aff (⭐271)](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
 *   [purescript-affjax (⭐271)](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
-## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [14. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -146,7 +156,7 @@
 
 *   [Day of Action (⭐8)](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
-## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -156,31 +166,31 @@
 
 *   [elixir\_exif (⭐12)](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 
-## [15. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [16. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Graphics
 
 *   [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 
-## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### SEO
 
 *   [Seo plugin (⭐7)](https://github.com/orgasmicnightmare/cakephp-seo) - Auto-creates and manages your SEO tags.
 
-## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
 
-## [19. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
@@ -190,7 +200,7 @@
 
 *   [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -200,7 +210,7 @@
 
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 
-## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -256,7 +266,17 @@
 
 *   [BroYara (⭐32)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
-## [22. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / P individuals
+
+*   Pamela Fox <http://blog.pamelafox.org/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Robin Wilson <http://blog.rtwilson.com/>
+
+## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Fuzz Testing
 

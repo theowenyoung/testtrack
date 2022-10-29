@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2016
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,6 +84,30 @@
 
 *   [UniversalRelayBoilerplate (⭐713)](https://github.com/codefoundries/UniversalRelayBoilerplate)
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
+
+## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Companies
+
+*   [Boston Dynamics](http://www.bostondynamics.com/) robotics R\&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
+*   [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
+*   [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
+*   [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
+*   [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
+*   [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
+*   [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+
+### Misc
+
+*   [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
+*   [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
+*   [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
+
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / F individuals
+
+*   Filippo Valsorda <https://blog.filippo.io/>
 
 ---
 

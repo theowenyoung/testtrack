@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 03, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,7 +40,21 @@
 
 *   [react-native-call-observer (⭐6)](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 
-## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / E companies
+
+*   Evernote <https://evernote.com/blog/>
+
+### Companies / J companies
+
+*   Jet Technology <https://tech.jet.com/>
+
+### Companies / L companies
+
+*   Latacora <https://latacora.singles/>
+
+## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Design
 
@@ -58,7 +72,7 @@
 
 *   [Startup Jobs](https://startup.jobs/)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 

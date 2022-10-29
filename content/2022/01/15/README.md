@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,7 +39,13 @@
 
 *   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.
 
-## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [ipfs-pinner (⭐37)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
+
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
@@ -51,13 +57,13 @@
 *   [VOLO: Vision Outlooker for Visual Recognition](https://arxiv.org/pdf/2106.13112.pdf)
 *   [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 
-## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Command-line tools
 
 *   [dsq (⭐2.8k)](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 
-## [6. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [7. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Deep Learning / Easier sharing of deep learning models and demos
 

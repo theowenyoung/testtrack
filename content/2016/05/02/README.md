@@ -7,6 +7,7 @@
 
 
 ## [1. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md)
+
 ### Back to Top Button
 
 By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin to create a simple scroll-to-top animation:

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2020
 
-58 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -185,13 +185,20 @@
 
 *   [particles-bg (⭐546)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
-## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Design
+
+*   [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** \[39:41]
+*   [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** \[46:15]
+
+## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Videos
 
 *   [Wardley Maps BarCamp 2020](https://www.youtube.com/playlist?list=PLP0vnsXbJsRVZSbkzWUA-q0eRU5R5bBu1) - Over 10 hours of presentations by 17 speakers.
 
-## [8. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Android TV / Articles
 
@@ -201,7 +208,7 @@
 
 *   [docker-tizen-webos-sdk (⭐40)](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -259,20 +266,20 @@
 
 *   [Flourish](https://flourish.studio)
 
-## [10. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [11. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Libraries / Others
 
 *   [painlessMesh (⭐464)](https://github.com/gmag11/painlessMesh) - A library that takes care of the particulars of creating a simple mesh network using ESP8266 and ESP32 hardware.
 *   [WifiEspNow (⭐165)](https://github.com/yoursunny/WifiEspNow) - Arduino library for [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html), a connectionless WiFi communication protocol defined by [Espressif](https://github.com/espressif).
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
 *   [/r/learnlisp](https://www.reddit.com/r/learnlisp/) - a subreddit to ask questions and get help about Lisp
 
-## [12. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [13. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities
 
@@ -280,19 +287,19 @@
 
     Makerlog is a free community of makers shipping products together. There's discussions + a task management tracker that allows you to get a streak (to keep you motivated shipping).
 
-## [13. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [14. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Ecosystem
 
 *   [Link ROS](https://www.freedomrobotics.ai/blog/link-ros-cloud-logging-for-ros) - Cloud Logging for ROS 1 and ROS 2.
 
-## [14. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [15. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering to Management Transition
 
 *   [Why It's Easier to Manage 4 People Than It Is to Manage 1 Person](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html) - “Avoid at all costs the combination of: new manager, 1 report, report is new-to-industry, manager is not a subject-matter expert.”
 
-## [15. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [16. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Double-Entry Model
 
@@ -300,19 +307,19 @@
 *   [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - Describes how to view accounting in the form of graphs in which money flows, then how these movements are materialized in the financial statements of a small company.
 *   [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - Same premise as above, but way more detailed and complete, as it adds reporting and implementation details.
 
-## [16. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [17. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
 *   [appimaged (⭐273)](https://github.com/AppImage/appimaged) - Optional daemon that integrates AppImages into the system (deprecated).
 
-## [17. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [18. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Runtime Mobile Security (RMS) (⭐1.9k)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 
-## [18. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [19. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Web Scraping / Others
 
@@ -341,7 +348,7 @@
 
 *   [pyLDAvis (⭐1.7k)](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
-## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Android
 
@@ -353,19 +360,19 @@
 
 
 
-## [20. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [21. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
 *   `docker pull vulnerables/web-owasp-nodegoat` - [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
 
-## [21. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [22. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [netease-music-box (⭐54)](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 
-## [22. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [23. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
@@ -375,13 +382,13 @@
 
 *   [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
 
-## [23. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [24. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Credit Scoring
 
 *   [Recent developments in consumer credit risk assessment](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011866) - The riskiness of lending to a credit applicant is usually estimated using a logistic regression model though researchers have considered many other types of classifier, but data quality issues may prevent these laboratory based results from being achieved in practice. The training of a classifier on a sample of accepted applicants rather than on a sample representative of the applicant population seems not to result in bias though it does result in difficulties in setting the cut off.
 
-## [24. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -391,7 +398,7 @@
 
 *   [is-website-vulnerable (⭐1.8k)](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
-## [25. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [26. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Backup
 
@@ -405,7 +412,7 @@
 
 *   [DM (⭐455)](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 
-## [26. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [27. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Broad Overviews
 
@@ -413,7 +420,7 @@
 *   [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) 🎓⭐
 *   [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) 🎓⭐
 
-## [27. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [28. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Official
 
@@ -434,25 +441,25 @@
 *   [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code (⭐80)](https://github.com/rugk/mastodon-simplified-federation)).
 *   [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 
-## [28. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [29. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Community resources
 
 *   [Documentation Primitives (⭐34)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
-## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [30. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Serverless / Automation
 
 *   [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 
-## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Other / unknown licence
 
 *   [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
 
-## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
@@ -463,13 +470,13 @@
 
 *   [gdbstub](https://crates.io/crates/gdbstub): zero-allocation, pure Rust implementation of the GDB Remote Serial Protocol - [![crates.io](https://img.shields.io/crates/v/gdbstub.svg)](https://crates.io/crates/gdbstub)
 
-## [32. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [33. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [vim-tmux-navigator (⭐3.9k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
-## [33. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [34. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -489,13 +496,13 @@
 
 
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
 *   [Octopus.do](https://octopus.do) — Visual sitemap builder. Build your website structure in real-time and rapidly share it to collaborate with your team or clients.
 
-## [35. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [36. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -514,26 +521,26 @@
 
 *   [cookiecutter-vue-django (⭐120)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
-## [36. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [37. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / Europe
 
 *   [WeJob.ch](https://WeJob.ch/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
 
-## [37. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [38. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Public Trackers
 
 *   [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 
-## [38. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [39. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Single-cell mass cytometry on peripheral blood identifies immune cell subsets associated with primary biliary cholangitis](https://www.nature.com/articles/s41598-020-69358-4) Jin Sung Jang, Brian D. Juran, Kevin Y. Cunningham, Vinod K. Gupta, Young Min Son, Ju Dong Yang, Ahmad H. Ali, Elizabeth Ann L. Enninga, Jaeyun Sung & Konstantinos N. Lazaridis. (2020)
 *   [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/) Steven N. Hart, Eric C. Polley, Hermella Shimelis, Siddhartha Yadav, Fergus J. Couch. (2020)
 
-## [39. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [40. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / ListBox
 
@@ -549,7 +556,7 @@
 *   [Chrome.ahk (⭐247)](https://github.com/G33kDude/Chrome.ahk) - by G33kDude - Automate Google Chrome using native AutoHotkey - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?t=42890)
 *   [FTP (⭐4)](https://github.com/jNizM/Class_FTP) - by jNizM - AutoHotkey wrapper for FTP Sessions (Class) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=79142\&p=344445#p344445)
 
-## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -571,7 +578,7 @@
 
 *   [Blazor Extensions Home (⭐51)](https://github.com/BlazorExtensions/Home) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Home?style=flat-square\&cacheSeconds=604800) Home for Blazor Extensions.
 
-## [41. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [42. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Papers
 
@@ -683,7 +690,7 @@
 
 *   🌟 [Awesome-Quant-Machine-Learning-Trading (⭐1.6k)](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant / Algorithm trading resources with an emphasis on Machine Learning.
 
-## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [43. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Digests
 
@@ -697,44 +704,44 @@
 
 *   [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/) - Written by [@ermil0v](https://twitter.com/ermil0v).
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [Streamoji (⭐241)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
-## [44. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [45. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI Cache (⭐186)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
-## [45. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [46. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
 *   [red-chainer (⭐99)](https://github.com/red-data-tools/red-chainer) - Deep learning framework for Ruby.
 *   [mxnet (⭐49)](https://github.com/mrkn/mxnet.rb) - Ruby bindings for [mxnet](https://mxnet.apache.org/).
 
-## [46. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [47. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Playgrounds / Git
 
 *   [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
-## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [denofn-selfhosted (⭐23)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
-## [48. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Boilerplate / Mouse Events
 
 *   [express-react-boilerplate (⭐45)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
-## [49. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [50. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Application or Binary Hardening
 
@@ -742,19 +749,19 @@
 *   [DynamoRIO](https://dynamorio.org/) - Runtime code manipulation system that supports code transformations on any part of a program, while it executes, implemented as a process-level virtual machine.
 *   [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
 
-## [50. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [51. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Other Datasets
 
 *   [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
 
-## [51. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [FalaDev](https://anchor.fm/faladev) - Passando a maior parte do tempo escrevendo código, chegou o momento de se reunir e falar sobre o universo da programação.
 
-## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -764,13 +771,13 @@
 
 *   [Gatsby AWS S3 Deployment (⭐39)](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
 
-## [53. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [54. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
 *   [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise with Circuit Python.
 
-## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -800,7 +807,7 @@
 
 
 
-## [55. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [56. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / SAML
 
@@ -811,7 +818,7 @@
 *   [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
 *   [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - A documentary on these teams of underpaid people removing posts and deleting accounts.
 
-## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -836,13 +843,13 @@
 
 *   [janak (⭐25)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 
-## [57. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [58. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Database
 
 *   [ObjectBox (⭐376)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
-## [58. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 

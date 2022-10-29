@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,13 @@
 
 *   [XamEffects ★53 (⭐255)](https://github.com/mrxten/XamEffects) - Touch effect for Xamarin.Forms.
 
-## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
+
+## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -45,7 +51,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Very Lightweight
 
@@ -89,14 +95,14 @@
     [Repo (⭐6.9k)](https://github.com/jdan/98.css)
     \| #CSS
 
-## [6. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [7. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [7. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Articles
 
@@ -108,13 +114,13 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [aws-fluent-plugin-kinesis :fire::fire: (⭐282)](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
 
-## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Collaboration and Project Management / Telegram
 

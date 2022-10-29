@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2022
 
-5 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,40 @@
 
 *   [Dynamsoft Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [2. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
+
+> Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
+> Each turn will see your hero advancing, battling, gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
+
+![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__itemrep/img/qTes0WV8umHK5pLuKl5tZFpGYrU=/fit-in/246x300/filters:strip_icc\(\)/pic818904.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    2 -6 |        9 | 90-240m |
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+### Libraries/Frameworks / Database
+
+*   [Litote/kmongo (⭐693)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+
+## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### CakePHP Tutorials
 
 *   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
+
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Emulators
 
@@ -29,7 +56,7 @@
 
 *   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -39,7 +66,7 @@
 
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Cash Bitcoin, Monero and more.
 
-## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In French
 

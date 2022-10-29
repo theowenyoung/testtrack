@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,13 @@ Webpage: <http://www.moustache.pt/>
 | ---- | ----- | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | ✔    | ✔     | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00 |
 
-## [3. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Books
+
+*   [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) \[[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
+
+## [4. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
 
 ### Documentation
 
@@ -41,7 +47,7 @@ Webpage: <http://www.moustache.pt/>
 
 *   [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 
-## [4. Awesome Browserify](/content/browserify/awesome-browserify/README.md)
+## [5. Awesome Browserify](/content/browserify/awesome-browserify/README.md)
 
 ### Tools / Development Servers
 
@@ -73,19 +79,20 @@ Webpage: <http://www.moustache.pt/>
 *   [buffer (⭐1.5k)](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
 *   [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [Quack (⭐317)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 
-## [7. Tips](/content/git-tips/tips/README.md)
+## [8. Tips](/content/git-tips/tips/README.md)
+
 ## List unpushed git commits
 
 ```sh
@@ -102,13 +109,13 @@ git log @{u}..
 git cherry -v
 ```
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [TagListView (⭐2.5k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 
-## [9. Magictools](/content/ellisonleao/magictools/README.md)
+## [10. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Books / Voxel Editors
 

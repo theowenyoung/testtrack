@@ -29,6 +29,7 @@
 *   [Gephi (⭐5k)](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Don’t consider changes for tracked file.
 
 ```sh

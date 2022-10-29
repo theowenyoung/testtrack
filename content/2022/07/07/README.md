@@ -103,7 +103,7 @@
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368\&hl=en\&as_sdt=0,5)].
 

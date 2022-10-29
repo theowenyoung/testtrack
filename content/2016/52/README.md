@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 26 - Jan 01, 2016
 
-30 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,19 +49,30 @@
 
 *   [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
 
-## [8. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Books
+
+*   [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
+*   [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
+
+### Competitions
+
+*   [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
+
+## [9. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Other Utilities / Utility Packs
 
 *   [headr (⭐3)](https://github.com/heldr/headr) - Add header / banner info to a file.
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [bluebird-promisell (⭐46)](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [11. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -80,13 +91,19 @@
 *   [Time To Detect - Netflix](https://www.youtube.com/watch?v=wsgpV67MLFo)
 *   [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Static Code Analysis
 
 *   [Infer (⭐14k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. \[BSD]
 
-## [12. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / P companies
+
+*   Paypal <https://www.paypal-engineering.com/>
+
+## [14. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Introductions
 
@@ -133,26 +150,26 @@
 *   [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
     Presented by Jean Remi Desjardins at Lambdaconf 2016.
 
-## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
 *   [Python Interview 10 questions from Corey Schafer](https://www.youtube.com/watch?v=DEwgZNC-KyE)
 
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [16. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Professional services
 
 *   [Red Badger](https://red-badger.com) - Agency.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js 2 - Getting Started](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07)
 *   [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
 
-## [16. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [18. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Low-Level Vision / Super-Resolution
 
@@ -160,19 +177,19 @@
     *   Sven Behnke: Learning Iterative Image Reconstruction. IJCAI, 2001. [\[Paper\]](http://www.ais.uni-bonn.de/behnke/papers/ijcai01.pdf)
     *   Sven Behnke: Learning Iterative Image Reconstruction in the Neural Abstraction Pyramid. International Journal of Computational Intelligence and Applications, vol. 1, no. 4, pp. 427-438, 2001. [\[Paper\]](http://www.ais.uni-bonn.de/behnke/papers/ijcia01.pdf)
 
-## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [19. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Media
 
 *   [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g) - Brendan Gregg.
 
-## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [20. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Navigation
 
 *   [Floating-Navigation-View (⭐1.3k)](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
-## [19. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [21. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Communities / Official
 
@@ -225,7 +242,7 @@
 *   [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
 *   [Yabause](https://yabause.org) [:octocat: (⭐319)](https://github.com/Yabause/yabause) - Sega Saturn emulator.
 
-## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [22. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Topic-specific
 
@@ -265,25 +282,25 @@
 
 *   [Network Map of Knowledge and Art](https://paolonegrini.wordpress.com/2012/11/19/network-map-of-knowledge-and-art/) - DBPedia-derived networks of who-was-influenced-by-whom directed ties, using SPARQL and Gephi.
 
-## [21. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [23. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Home Entertainment / Firmwares for ESP based Devices
 
 *   [chromecast-mqtt-connector (⭐40)](https://github.com/nohum/chromecast-mqtt-connector) - Control your Google Chromecast devices using MQTT.
 
-## [22. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [24. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [Lyp (⭐67)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
 *   [tidytext](http://tidytextmining.com/index.html) - Implementing tidy principles of Hadley Wickham to text mining.
 
-## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -302,19 +319,19 @@
 
 *   [emitter](https://emitter.io/) - Free open source real-time messaging service that connects all devices. This publish-subscribe messaging API is built for speed and security.
 
-## [25. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [27. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Free eBooks / Single Topics
 
 *   [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 
-## [26. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [28. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
 *   [Summit 2016](https://www.youtube.com/watch?v=0iM0DZjYGqg\&list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ)
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -324,19 +341,19 @@
 
 *   [cronex (⭐44)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 
-## [28. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Date
 
 *   [cctz (⭐59)](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates.
 
-## [29. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [31. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / JavaScript Interoperability
 
 *   [Purnam](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
 
-## [30. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [32. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### System
 

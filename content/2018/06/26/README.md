@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2018
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,7 +37,18 @@
 *   [The Bot (⭐5)](https://github.com/sta-ger/TheBot) - Example of how the neural network learns to predict the angle between two points created with [Synaptic (⭐6.8k)](https://github.com/cazala/synaptic).
 *   [Half Beer (⭐6)](https://github.com/sta-ger/HalfBeer) - Beer glass classifier created with [Synaptic (⭐6.8k)](https://github.com/cazala/synaptic).
 
-## [6. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / K companies
+
+*   Kolosek <https://kolosek.com/blog/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Johannes Brodwall <http://johannesbrodwall.com/>
+*   Jonas Plum <https://blog.cugu.eu/>
+
+## [7. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 
 ### Genomics
 
@@ -47,6 +58,12 @@
 ### Epigenomics
 
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
+
+## [8. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Codius
+
+*   [Codius Hosts](http://codiushosts.com/)
 
 ---
 

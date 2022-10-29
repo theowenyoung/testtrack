@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,16 @@
 
 *   [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) \[22:05]
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Advanced
+
+#### [HackerRank](https://www.hackerrank.com/)
+
+**Free** programming challenges and contests\
+*(artificial intelligence, algorithms, functional programming, machine learning)*
+
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 

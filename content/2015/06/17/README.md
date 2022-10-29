@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 17, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,6 +103,40 @@
 
 *   [liquibase](http://www.liquibase.org) source control for your database
 *   [dbmaestro](http://www.dbmaestro.com/)  Controlled Database Continuous Delivery is Our Business
+
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / B companies
+
+*   Badoo <https://techblog.badoo.com/>
+
+### Companies / R companies
+
+*   Remind <http://engineering.remind.com/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Daniel Doubrovkine (dB.) <http://code.dblock.org/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Elegant Code <http://elegantcode.com/>
+*   Eli Bendersky <http://eli.thegreenplace.net/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ilya Grigorik <https://www.igvita.com/>
+
+### Individuals/Group Contributors / L individuals
+
+*   Lambda the Ultimate <http://lambda-the-ultimate.org/>
+*   Lerner Consulting Blog <http://blog.lerner.co.il/>
+*   Life Plus Linux <http://lifepluslinux.blogspot.in/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Raymond Hettinger <https://rhettinger.wordpress.com/>
+*   Regular Geek <http://regulargeek.com/>
 
 ---
 

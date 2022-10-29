@@ -19,6 +19,7 @@
 *   [dotfiler (⭐230)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Revert: Undo a commit by creating a new commit
 
 ```sh

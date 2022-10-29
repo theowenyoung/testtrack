@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 12, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -94,13 +94,19 @@
 
 *   [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service
 
-## [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Emanuele Bartolesi](https://github.com/kasuken/ama) - Full-stack web developer. Ethical hacker. Beginner triathlete.
+
+## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-globrex (⭐7)](https://github.com/hayd/deno-globrex) - Port of globrex to deno, glob to regular expression.
 
-## [10. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 

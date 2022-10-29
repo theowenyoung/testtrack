@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07 - Nov 13, 2016
 
-35 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -559,13 +559,19 @@
 
 *   [Fuse Pokedex (⭐6)](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 
-## [19. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [19. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Michael Novotny (⭐2)](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
+
+## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 
-## [20. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [21. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
@@ -594,19 +600,19 @@
 *   [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 *   [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
-## [21. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [22. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Other / Event listeners for fonts loading on a web page
 
 *   [Command line font-manager (⭐17)](https://github.com/alyssais/font)
 
-## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :octocat: [Type search](https://aka.ms/typings), search for typings on npm
 
-## [23. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [24. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Framework-Specific Libraries / Angular
 
@@ -616,7 +622,7 @@
 
 *   [JQuery-linechart (⭐42)](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
-## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [25. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
@@ -626,26 +632,26 @@
 
 *   [Meetup](https://www.meetup.com/topics/jquery/) - Get involved locally.
 
-## [25. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [26. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.
 
-## [26. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [27. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Resources / Tutorials
 
 *   [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
 
-## [27. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [28. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Articles
 
 *   [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
 *   [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 
-## [28. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [29. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
@@ -725,13 +731,13 @@
 *   [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog.
 *   [select \* from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
 *   [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services (AWS) security and compliance auditing and monitoring
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Device
 
@@ -745,7 +751,7 @@
 
 *   [DateTimePicker (⭐1.8k)](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -796,7 +802,25 @@
 *   [abacus (⭐62)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐64)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
-## [32. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / \# companies
+
+*   99designs <https://99designs.com/tech-blog/>
+
+### Companies / R companies
+
+*   RoseHosting <https://www.rosehosting.com/blog/>
+
+### Companies / Y companies
+
+*   Yammer <https://medium.com/yammer-engineering>
+
+### Individuals/Group Contributors / M individuals
+
+*   Miro Cupak <https://mirocupak.com/>
+
+## [34. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -826,13 +850,13 @@
 *   [libsass (⭐4.3k)](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 *   [node-sass (⭐8.2k)](https://github.com/sass/node-sass) - Node.js bindings to libsass.
 
-## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [electron-about-window (⭐396)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
-## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Japan 🇯🇵 / Tokyo
 
@@ -884,7 +908,7 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 | ---- | ----- | ------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00 |
 
-## [35. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [37. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Community Resources
 

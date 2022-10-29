@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,19 +77,25 @@
 
 *   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Stack Overflow <https://stackoverflow.blog/engineering/>
+
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
 
-## [10. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [11. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Software as a service:
 
 *   [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
 
-## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -116,7 +122,7 @@
 *   [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
 *   [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
 
-## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Devices and Wearables / Wealth
 

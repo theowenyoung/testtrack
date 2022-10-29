@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 04, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [1. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Vendors
+
+*   [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
+
+## [2. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Cloud
 
@@ -17,7 +23,7 @@
 
 *   [Warp 10](http://www.warp10.io) - Time series database for sensor data.
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
@@ -27,19 +33,19 @@
 
 *   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
-## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [CircleProgressBar (⭐95)](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
-## [4. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
+## [5. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
 ### Links Sent by Readers / Projects
 
 *   [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
-## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 

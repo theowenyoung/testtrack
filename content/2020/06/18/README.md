@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -242,6 +242,60 @@
 ### Info / Other Good Places to Find Papers
 
 *   [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
+
+## [13. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Apple Systems
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_hackintosh_paradise.webp">
+
+[**/r/Hackintosh Paradise**](https://discord.com/invite/Wxam8aH) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/hackintosh/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) \
+Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/amd_os_x.webp">
+
+<!--lint ignore awesome-spell-check-->
+
+[**AMD OS X**](https://discord.com/invite/EfCYAJW) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://amd-osx.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/AMD-OSX) \
+Notable Channels: `#big_sur_discussions`, `#development_discussions`, `#b550_development`, `#install_support`, `#post_install_support`, `#gpu_support`, `#networking_support`, `#hardware_discussion` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/apple_betas.webp">
+
+[**Apple Betas**](https://discord.com/invite/4EEkWjS) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/23Aaron/JeffBot) \
+Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watchos`, `#tvos`, `#xcode`, `#development` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/unsupported_macs.webp">
+
+[**Unsupported Macs**](https://discord.com/invite/XbbWAsE) \
+Notable Channels: `#barrykn-patcher`, `#bensova-patcher`, `#dosdude1-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks`, `#mountain-lion` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_apple.webp">
+
+[**r/Apple**](https://discord.com/invite/apple) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/Apple) \
+Notable Channels: `#apple`, `#purchase-advice`, `#shot-on-iphone`, `#homescreen`, `#ios-ipados`, `#macos`, `#watchos`, `#xcode`, `#services`, `#jailbreak-info`, `#support` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_jailbreak.webp">
+
+[**r/Jailbreak**](https://discord.com/invite/jb) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/jailbreak/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Emy/janet) \
+Notable Channels: `#showcase`, `#common-issues`, `#jailbreak`, `#general`, `#themes`, `#legacy`, `#unc0ver`, `#tvos-jailbreaks`, `#checkra1n`, `#chimera`, `#flex`, `#ncontrol`, `#support` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/hackintosh_x86.webp">
+
+[**Hackintosh x86 & Tech**](https://discord.com/invite/qc89CQkX7j) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
+Notable Channels: `#app-fixes`, `#hackintosh-help`, `#benchmarks-and-desks`, `#hack-art`, `#linux`, `#useful-files`, `#coding`, `#efi-database` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/shortcuts.webp">
+
+[**Shortcuts**](https://discord.gg/HrzAhUu) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/shortcuts/) \
+Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
+Language: English
 
 ---
 

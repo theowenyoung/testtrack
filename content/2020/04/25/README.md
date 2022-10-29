@@ -1,18 +1,26 @@
 # Awesome List Updates on Apr 25, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso** \[01:28:50]
+*   [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** \[01:04:35]
+*   [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** \[01:04:23]
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
 
-## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -22,43 +30,55 @@
 
 *   [RSS-OPML-to-Markdown (⭐9)](https://github.com/idealclover/RSS-OPML-to-Markdown) <sup>[542](https://t.me/s/aboutrss/542)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/idealclover/RSS-OPML-to-Markdown)
 
-## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [nessie (⭐501)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 
-## [4. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### TypeScript
+
+[JavaScript↰](#javascript)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/typescript_community.webp">
+
+[**TypeScript Community**](https://discord.com/invite/typescript) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.typescriptlang.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/typescript-community) \
+Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#language-design`, `#compiler`, `#architecture`, `#tooling`, `#devops`, `#site-localization`, `#deno`, `#meetups`, `#projects` \
+Language: English
+
+## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Tools
 
 *   [Antd-Pro-Generator for VS Code (⭐11)](https://github.com/garrett12138/antd-pro-generator) Generate Service/Mock/Model from Swagger2.0 or OpenApi3.x docs for Ant Design Pro.
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Beginner
 
 *   [Roadmap to Flutter Development (⭐4.1k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### SRE Tools
 
 *   [Awesome SRE Tools (⭐617)](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
 
-## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Linter
 
 *   [AnyLint (⭐116)](https://github.com/Flinesoft/AnyLint) - Lint anything by combining the power of Swift & regular expressions.
 
-## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Articles
 
 *   [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) - Series of articles regarding MongoDB Design Patterns and common use case of each Design Pattern with real world examples.
 
-## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Backups
 
@@ -116,13 +136,13 @@
 *   Telegram - Several groups for PostgreSQL in different langauges: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) \~1000 people, [English](https://t.me/postgreschat) >750 people
 *   [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
 
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Auto Label Issue Based on Issue Description (⭐32)](https://github.com/Renato66/auto-label)
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -152,7 +172,7 @@
 
 
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Frameworks / Other
 

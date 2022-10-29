@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,6 +67,36 @@
 ### Hadoop
 
 *   [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
+
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   HubSpot <http://product.hubspot.com/blog/topic/engineering>
+
+### Individuals/Group Contributors / A individuals
+
+*   Armin Ronacher <http://lucumr.pocoo.org/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Brandon Rhodes <http://rhodesmill.org/brandon/>
+
+### Individuals/Group Contributors / G individuals
+
+*   Guido van Rossum <http://neopythonic.blogspot.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   James Long <http://jlongster.com/archive>
+
+### Individuals/Group Contributors / L individuals
+
+*   Lea Verou <http://lea.verou.me/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nick Desaulniers <https://nickdesaulniers.github.io/>
 
 ---
 

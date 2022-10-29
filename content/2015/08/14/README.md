@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14, 2015
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,7 +80,46 @@
 *   [gspread (⭐6.1k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 *   [twython (⭐1.8k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
-## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Web Apps (open source)
+
+*   [OpenTripPlanner Client GWT (⭐7)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
+*   [HRT BUS Web app (⭐18)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
+*   [Transit-Map (⭐325)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+
+### GTFS Realtime Libraries & Demo Apps / Ruby
+
+*   [GTFS-realtime Alerts Producer Web Application (⭐1)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
+*   [GTFS-realtime Exporter (⭐13)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
+*   [GTFS-realtime Alerts Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
+*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
+
+### GTFS Libraries / Java
+
+*   [OneBusAway GTFS Modules (⭐102)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
+
+### GTFS Converters / Ruby
+
+*   [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
+
+### GTFS Realtime Convertors / Ruby
+
+*   [Syncromatics API to GTFS-realtime (⭐2)](https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator) - A Java-based command-line utility to convert from the [Syncromatics API](http://www.syncromatics.com/) format to GTFS-realtime TripUpdates and VehiclePositons.
+*   [KV6,15,17, and ARNU to GTFS-realtime (⭐1)](https://github.com/bliksemlabs/bliksemintegration-realtime) - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
+*   [WMATA BusPositions API to GTFS-realtime (⭐11)](https://github.com/kurtraschke/wmata-gtfsrealtime) - Java-based tool to convert from WMATA's [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) and Alert RSS feeds from [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
+*   [SEPTA API to GTFS-realtime (⭐2)](https://github.com/kurtraschke/septa-gtfsrealtime) - Java-based tool to convert [SEPTA's](http://www.septa.org/) [real-time bus and rail data](http://www3.septa.org/hackathon/) to GTFS-realtime
+*   [CTA API to GTFS-realtime (⭐5)](https://github.com/kurtraschke/ctatt-gtfsrealtime) - Java-based tool to convert [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) to GTFS-realtime.
+*   [Detroit DOT to GTFS-realtime (⭐2)](https://github.com/prashtx/ddot-avl) - Extract real-time info from [DDOT's](http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules) TransitMaster installation (database) and convert to GTFS-realtime
+*   [Live Transit Event Trigger (⭐4)](https://github.com/ipublic/live_transit_event_trigger) - Extracts data from [Ride On's](http://www.montgomerycountymd.gov/dot-transit/) OrbCAD database and export as GTFS-realtime.
+*   [SoundTransit to GTFS-realtime (⭐3)](https://github.com/bdferris/onebusaway-sound-transit-realtime) - Convert text file feed from [Sound Transit](http://www.soundtransit.org/) to GTFS-realtime
+*   [Civic Transit (⭐3)](https://github.com/jestin/CivicTransit) - Screen-scrapes [KCATA’s](http://www.kcata.org/) TransitMaster WebWatch installation to produce a GTFS-realtime feed.
+
+### GTFS Realtime Utilities / Ruby
+
+*   [GTFS-realtime Munin Plugin (⭐1)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - Provides a [Munin](http://munin-monitoring.org/) plugin for logging information about a GTFS-realtime feed.
+
+## [5. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -92,7 +131,13 @@
 *   [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
 *   [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
 
-## [5. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / W companies
+
+*   Wimdu <http://tech.wimdu.com/>
+
+## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
@@ -102,13 +147,13 @@
 
 *   [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Machine Learning and Data Science
 
 *   [numl (⭐425)](https://github.com/sethjuarez/numl) - Designed to include the most popular supervised and unsupervised learning algorithms while minimizing the friction involved with creating the predictive models.
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [9. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Garbage collectors
 

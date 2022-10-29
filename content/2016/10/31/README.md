@@ -78,6 +78,7 @@
 *   [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
 
 ## [9. Tips](/content/git-tips/tips/README.md)
+
 ## Edit \[local/global] git config
 
 ```sh

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17 - Aug 23, 2015
 
-28 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -294,7 +294,25 @@
 *   [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
 *   [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
 
-## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / G companies
+
+*   Gilt <http://tech.gilt.com>
+
+### Companies / L companies
+
+*   LinkedIn <https://engineering.linkedin.com/blog>
+
+### Companies / W companies
+
+*   Wimdu <http://tech.wimdu.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jesus Castello <http://www.blackbytes.info/>
+
+## [11. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -304,7 +322,7 @@
 
 *   [open-elements](http://open-elements.org) Open for all elements working with polymer ^1.1
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
@@ -314,7 +332,7 @@
 
 *   [Azure PowerShell (⭐3.3k)](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 
-## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -405,7 +423,7 @@
 *   [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
 *   [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 
-## [13. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [14. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Development APIs / Permissions
 
@@ -416,13 +434,57 @@
 *   [How fast are web workers?](https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/)
 *   [Web Workers in MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Software for Creating APIs
+
+*   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐181)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
+
+### Web Apps (open source)
+
+*   [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
+*   [OpenTripPlanner Client GWT (⭐7)](https://github.com/mecatran/OpenTripPlanner-client-gwt) - A Google Web Toolkit-based web interface for OpenTripPlanner
+*   [HRT BUS Web app (⭐18)](https://github.com/Code4HR/hrt-bus-api) - HRT Bus API publishes real time bus data from Hampton Roads Transit through an application programming interface for developers to make apps from it.
+*   [Transit-Map (⭐325)](https://github.com/vasile/transit-map) - Web app that animates vehicles (markers) on a map using the public transport timetables to interpolate their positions along the routes (polylines).
+
+### GTFS Realtime Libraries & Demo Apps / Ruby
+
+*   [GTFS-realtime Alerts Producer Web Application (⭐1)](https://github.com/OneBusAway/onebusaway-service-alerts) - A Java-based web application for producing GTFS-realtime Service Alerts.
+*   [GTFS-realtime Exporter (⭐13)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-exporter/wiki) - A Java-based tool that assists in producing and sharing a GTFS-relatime feed.
+*   [GTFS-realtime Alerts Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-alerts-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime Service Alerts.
+*   [GTFS-realtime TripUpdates & VehiclePositions Producer Demo (⭐9)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo/wiki) - A Java-based demo project for producing GTFS-realtime TripUpdates (estimated arrivals) and Vehicle Positions.
+
+### GTFS Libraries / Java
+
+*   [OneBusAway GTFS Modules (⭐102)](https://github.com/OneBusAway/onebusaway-gtfs-modules/wiki) - A Java-based library for reading, writing, and transforming public transit data in the GTFS format, including database support.
+
+### GTFS Converters / Ruby
+
+*   [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
+
+### GTFS Realtime Convertors / Ruby
+
+*   [Syncromatics API to GTFS-realtime (⭐2)](https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator) - A Java-based command-line utility to convert from the [Syncromatics API](http://www.syncromatics.com/) format to GTFS-realtime TripUpdates and VehiclePositons.
+*   [KV6,15,17, and ARNU to GTFS-realtime (⭐1)](https://github.com/bliksemlabs/bliksemintegration-realtime) - Java-based tool to process incoming KV6,15,17 and ARNU and match them to static transit data present in a RID integration database. It then proceeds to export this data as ARNU RITinfo, GTFS(realtime) and KV78turbo
+*   [WMATA BusPositions API to GTFS-realtime (⭐11)](https://github.com/kurtraschke/wmata-gtfsrealtime) - Java-based tool to convert from WMATA's [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) and Alert RSS feeds from [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) to GTFS-realtime TripUpdates, VehiclePositions, and Alerts feeds.
+*   [SEPTA API to GTFS-realtime (⭐2)](https://github.com/kurtraschke/septa-gtfsrealtime) - Java-based tool to convert [SEPTA's](http://www.septa.org/) [real-time bus and rail data](http://www3.septa.org/hackathon/) to GTFS-realtime
+*   [CTA API to GTFS-realtime (⭐5)](https://github.com/kurtraschke/ctatt-gtfsrealtime) - Java-based tool to convert [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) to GTFS-realtime.
+*   [Detroit DOT to GTFS-realtime (⭐2)](https://github.com/prashtx/ddot-avl) - Extract real-time info from [DDOT's](http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules) TransitMaster installation (database) and convert to GTFS-realtime
+*   [Live Transit Event Trigger (⭐4)](https://github.com/ipublic/live_transit_event_trigger) - Extracts data from [Ride On's](http://www.montgomerycountymd.gov/dot-transit/) OrbCAD database and export as GTFS-realtime.
+*   [SoundTransit to GTFS-realtime (⭐3)](https://github.com/bdferris/onebusaway-sound-transit-realtime) - Convert text file feed from [Sound Transit](http://www.soundtransit.org/) to GTFS-realtime
+*   [Civic Transit (⭐3)](https://github.com/jestin/CivicTransit) - Screen-scrapes [KCATA’s](http://www.kcata.org/) TransitMaster WebWatch installation to produce a GTFS-realtime feed.
+
+### GTFS Realtime Utilities / Ruby
+
+*   [GTFS-realtime Munin Plugin (⭐1)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-munin-plugin) - Provides a [Munin](http://munin-monitoring.org/) plugin for logging information about a GTFS-realtime feed.
+
+## [16. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Animations
 
 *   [Android-View-Actions (⭐138)](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### REST / Scala
 
@@ -459,13 +521,13 @@
 *   [UNIV8](http://www.unicode.org/versions/Unicode8.0.0/) - The Unicode Consortium. The Unicode Standard, Version 8.0.0, (Mountain View, CA: The Unicode Consortium, 2015. ISBN 978-1-936213-10-8).
 *   [RFC3629](https://tools.ietf.org/html/rfc3629) - UTF-8, a transformation format of ISO 10646.
 
-## [16. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEM official naming convention](https://en.bem.info/method/naming-convention/)
 
-## [17. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [19. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -482,7 +544,7 @@
 *   **Familiar with github?** Send a pull request with your suggestions. If you're not sure how to do that don't sweat it. See below.
 *   **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). FYI you'll need to create a github account.
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -496,19 +558,19 @@
 
 *   [Box2D (⭐6k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
-## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
 *   [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [react-native (⭐105k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
-## [21. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [23. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
@@ -546,14 +608,20 @@
 *   [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 *   [@paul\_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 
-## [22. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [24. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[jsw](https://www.npmjs.com/package/jsw)** - "the spec doesnt care about semicolons and neither should you"
 *   **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
 
-## [23. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [25. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these organizations anything!
+
+*   [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
+
+## [26. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Articles
 
@@ -599,7 +667,8 @@ PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`.
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
-## [24. Tips](/content/git-tips/tips/week/README.md)
+## [27. Tips](/content/git-tips/tips/week/README.md)
+
 ## Before deleting untracked files/directory, do a dry run to get the list of these files/directories
 
 ```sh
@@ -627,7 +696,7 @@ git cherry -v master
 git cherry -v master <branch-to-be-merged>
 ```
 
-## [25. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [28. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### GitHub API
 
@@ -654,19 +723,19 @@ git cherry -v master <branch-to-be-merged>
 *   [WPO (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 *   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 
-## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Analysis and Metrics
 
 *   [Fasterer (⭐1.6k)](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool highly inspired by fast-ruby and Sferik's talk at Baruco Conf.
 
-## [27. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Articles / Other
 
 *   [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
 
-## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 

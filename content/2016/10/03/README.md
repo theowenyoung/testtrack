@@ -186,6 +186,7 @@
 *   [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
 
 ## [11. Tips](/content/git-tips/tips/README.md)
+
 ## Specific fetch reference
 
 ```sh

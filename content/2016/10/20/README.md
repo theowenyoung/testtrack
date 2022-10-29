@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,13 @@
 
 *   [BarcodeScanner (⭐1.6k)](https://github.com/hyperoslo/BarcodeScanner) - A simple and beautiful barcode scanner view controller.
 
-## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Mary Rose Cook <https://maryrosecook.com/blog/>
+
+## [5. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
 ### GDP
 
@@ -57,13 +63,13 @@
     *   [Current Movies in Thailand](http://showtimes.everyday.in.th/api/v2/movie/)
     *   [Movie Theaters in Thailand](http://showtimes.everyday.in.th/api/v2/theater/)
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [MaterialIntroScreen (⭐2.7k)](https://github.com/TangoAgency/material-intro-screen) - Material Intro Screen implementation with easily extensible API.
 
-## [6. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [7. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Tools
 
@@ -123,13 +129,13 @@
 *   [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 *   [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Apps
 
 *   [vkQuake (⭐1.4k)](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm. \[GPL]
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Environment
 

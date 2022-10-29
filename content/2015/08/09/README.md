@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2015
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [CEGUI](http://cegui.org.uk/) - Flexible, cross-platform GUI library.
 
-## [2. Awesome Standard](/content/standard/awesome-standard/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Nick Johnstone (⭐0)](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
+
+## [3. Awesome Standard](/content/standard/awesome-standard/README.md)
 
 ### standard
 
@@ -49,13 +55,13 @@
 *   **[doublestandard](https://www.npmjs.com/package/doublestandard)** - standard, with even more semicolons
 *   **[xo](https://www.npmjs.com/package/xo)** - "JavaScript happiness style"
 
-## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [A recurrent neural network designed to generate classical music. (⭐1.9k)](https://github.com/hexahedria/biaxial-rnn-music-composition)
 
-## [4. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
+## [5. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 
 ### sound
 
@@ -67,7 +73,7 @@
 *   [Feross Aboukhadijeh](https://github.com/feross) - webtorrent, bittorrent, p2p hacks
 *   [Max Ogden](https://github.com/maxogden) - streams, voxels, data replication
 
-## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computer Vision
 
@@ -94,13 +100,13 @@
 
 *   [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
-## [6. Nginx Resources](/content/fcambus/nginx-resources/README.md)
+## [7. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Tutorials
 
 *   [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 
-## [7. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [8. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Articles
 
@@ -125,7 +131,7 @@ If you're confused about cryptography terms, start here.
 
 An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Form Widgets / Other
 
@@ -139,7 +145,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   [bolshchikov/js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch)
 
-## [9. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [10. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Articles / Tips and Tricks
 
@@ -149,7 +155,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 *   [9 Sketch Features You Should be Using](http://webdesign.tutsplus.com/tutorials/9-sketch-features-you-should-be-using--webdesign-18016)
 *   [5 Tips to Help You Design Faster in Sketch](https://medium.com/product-labs/5-tips-to-help-you-design-faster-in-sketch-a9db54d10a72)
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### List / Grid
 
@@ -161,7 +167,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 
 
-## [11. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [12. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Dedicated
 

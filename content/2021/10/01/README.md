@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -166,7 +166,44 @@
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 
-## [14. Magictools](/content/ellisonleao/magictools/README.md)
+## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Blokus](https://en.wikipedia.org/wiki/Blokus)
+
+> Game with Tetris-like, colored pieces made from little squares that players are trying to play onto the board. Each new piece must be placed so that it touches at least one piece of the same color but only corner-to-corner contact is allowed — edges of the same color pieces cannot touch. Game ends when nobody can place any more pieces. Player with least sum of squares from not placed peaces wins the game.
+
+![Blokus game image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Blokus_board_game.jpg/200px-Blokus_board_game.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        7 | 20-30m |
+
+### Party
+
+### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
+
+> Compete with other influential families in the city to achieve the most honorable titles through the skillful use of assistants and resources at your disposal. The player who succeeds in doing this best becomes the new "Obermufti" of Marrakesh.
+> Marrakesh is played over three rounds, with each round consisting of four turns. On each turn, players simultaneously and secretly choose three colored cylinders from behind their screen. Then, in turn order, they place matching colored assistants on their player board and perform the corresponding action, then all cylinders are placed in the cube tower. Then, in turn order, players select a color and take 1-2 of the cylinders that have passed through the tower (or those that were stuck from a previous round but have now emerged) and place them on their player boards. These cylinders will enhance future actions taken in the same color in future rounds. Actions allow players to gain wealth, which can be traded for influence in the city. Performing various actions also earns bonuses and enhances actions even more as the game proceeds. The player who scores the most points by the end of the game wins.
+
+![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc\(\)/pic6289695.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |      14+ | 120m |
+### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
+
+> Be unanimous on 6 words!
+> A card is placed in the centre of the table. At that moment, each player writes words on his notepad which are inspired by the theme. Let your inspiration guide you… But be careful, whatever you do, don’t be original. The only answers which count are the ones which are the same as the other players!
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/7KL7IYpSbZ3xWVYVdKfUeg__itemrep/img/t5OBTFFAWagqcmrW6odyvW3Zn1I=/fit-in/246x300/filters:strip_icc\(\)/pic4415146.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  3 - 12 |      10+ |  30m |
+
+## [15. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 

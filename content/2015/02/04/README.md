@@ -1,12 +1,18 @@
 # Awesome List Updates on Feb 04, 2015
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Design
+
+*   [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** \[1:03:30]
+
+## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Resources / Books
 

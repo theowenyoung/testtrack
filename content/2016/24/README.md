@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13 - Jun 19, 2016
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -575,6 +575,7 @@
     *   Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\] (⭐1.6k)](https://github.com/s9xie/hed)
 
 ## [30. Tips](/content/git-tips/tips/week/README.md)
+
 ## Changes staged for commit
 
 ```sh
@@ -674,7 +675,21 @@ git log --oneline master..<branch-name> | tail -1
 git log --reverse master..<branch-name> | head -6
 ```
 
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / B companies
+
+*   Boxever <http://www.boxever.com/blog/>
+
+### Companies / G companies
+
+*   Grouper <http://blog.joingrouper.com/>
+
+### Companies / S companies
+
+*   Slack <https://slack.engineering/>
+
+## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -692,13 +707,13 @@ git log --reverse master..<branch-name> | head -6
 
 *   [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 
-## [32. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [33. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / Combobox
 
 *   [CbAutoComplete (⭐16)](https://github.com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=15002)
 
-## [33. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [34. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Readings
 

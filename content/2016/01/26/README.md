@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,7 +55,13 @@
 
 *   [tesla-streamer (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these organizations anything!
+
+*   [From the Front (⭐0)](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
+
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Documentation / Runner
 
@@ -64,13 +70,13 @@
 *   [jsdox (⭐209)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
-## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
 *   [whereami (⭐151)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Tracking / ORM
 
@@ -84,20 +90,20 @@
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [9. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [10. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Tools / Slides and Notes
 
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [11. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Projects
 

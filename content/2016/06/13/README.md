@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -219,6 +219,7 @@
     *   Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [\[Web\] (⭐1.6k)](https://github.com/s9xie/hed)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Changes staged for commit
 
 ```sh
@@ -257,19 +258,25 @@ git config --global color.ui false
 git config --global <specific command e.g branch, diff> <true, false or always>
 ```
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Slack <https://slack.engineering/>
+
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### More lists of libraries / Custom Dialog
 
 *   [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### GUI / Combobox
 
 *   [CbAutoComplete (⭐16)](https://github.com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=15002)
 
-## [7. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Readings
 

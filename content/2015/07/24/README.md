@@ -1,12 +1,22 @@
 # Awesome List Updates on Jul 24, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / A individuals
+
+*   Alan Storm <http://alanstorm.com/>
+
+### Individuals/Group Contributors / F individuals
+
+*   Fabrizio Branca <http://fbrnc.net/>
+
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cryptography
 
@@ -16,7 +26,7 @@
 
 *   [LINQ to DB (⭐2.5k)](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
-## [2. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries for graphs
 
@@ -41,31 +51,31 @@
 *   Please make an individual commit for each suggestion
 *   Add a new category if needed.
 
-## [3. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Regional
 
 *   [Australia & New Zealand](http://devanz.co)
 
-## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Kotlin / Custom Dialog
 
 *   [KAndroid (⭐893)](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Filesystem
 
 *   [fs-jetpack (⭐702)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
-## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Blogs / Image Deblurring
 
 *   [AI Shack](http://aishack.in/) - Utkarsh Sinha
 
-## [7. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Subjects / IOS Development
 

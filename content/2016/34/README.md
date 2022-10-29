@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2016
 
-50 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,6 +75,7 @@
 *   [Vert.x Async (⭐12)](https://github.com/gchauvet/vertx-async) - Portage of caolan/async nodejs module to Vert.x framework that provides helpers methods for common async patterns.
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
+
 ## Alias: git undo
 
 ```sh
@@ -495,45 +496,55 @@ Free
 
 *   [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail
 
-## [29. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [29. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** \[1:06:43]
+
+### Object-Oriented Programming
+
+*   [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** \[54:17]
+
+## [30. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Miscellaneous / Ruby
 
 *   [How to become a Hacker?](http://www.catb.org/\~esr/faqs/hacker-howto.html)
 
-## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [DotLoader (⭐136)](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 *   [PodSlider (⭐135)](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
 
-## [31. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Clouds
 
 *   [Virtuozzo](https://virtuozzo.com)\
     A platform, built on Virtuozzo containers, that can be easily run on top of any bare-metal or virtual servers in any public or private cloud, to automate, optimize, and accelerate internal IT and development processes.
 
-## [32. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [33. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [Efficiency (⭐118)](https://github.com/x-raizor/Efficiency)
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Kit / Barcode
 
 *   [C4iOS (⭐974)](https://github.com/C4Labs/C4iOS) - Harnesses the power of native iOS programming with a simplified API.
 
-## [34. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [35. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [diagram (⭐394)](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cryptography
 
@@ -549,7 +560,7 @@ Free
 
 *   [trans (⭐204)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Essentials
 
@@ -626,7 +637,16 @@ Free
 
 *   Make sure the Travis tests pass on your pull request
 
-## [37. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [38. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Jeroen Engels (⭐4)](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
+*   [Tim Smith (⭐0)](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
+*   [Sam Verschueren (⭐3)](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
+*   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
+
+## [39. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Editors
 
@@ -642,7 +662,7 @@ Free
 *   [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 *   [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -661,13 +681,13 @@ Free
 
 *   [Awesome .NET Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [crystal-linked-list (⭐12)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
 
-## [40. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [42. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Videos
 
@@ -677,7 +697,7 @@ Free
 
 *   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-## [41. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [43. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Progressive web apps / Service Workers
 
@@ -687,25 +707,25 @@ Free
 
 *   [Offline Storage for Progressive Web Apps (article by Addy Osmani)](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jsbxgywzz)
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
 *   [SwiftLearner (⭐38)](https://github.com/valdanylchuk/swiftlearner/) - Simply written algorithms to help study ML or write your own implementations.
 
-## [43. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [45. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Testing
 
 *   [packagecloud (⭐26)](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 
-## [44. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Date / Runner
 
 *   [fecha (⭐2k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
-## [45. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [47. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -715,20 +735,30 @@ Free
 
 *   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/functional-light-js) – This book explores the core principles of functional programming (FP) that can be applied to JavaScript. But what makes this book different is that it approaches these principles without all the heavy terminology.
 
-## [46. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [48. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Bots
 
 *   [PokemonGo-Bot (⭐3.8k)](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
 *   [Bot Builder for PokemonGoBot (⭐17)](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 
-## [47. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [49. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Legacy
 
 *   [Migrating your project to Symfony](https://stovepipe.systems/post/migrating-your-project-to-symfony) \[2016]
 
-## [48. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [50. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / Z companies
+
+*   ZeeMee <https://zeemee.engineering/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Ariejan de Vroom <https://ariejan.net/>
+
+## [51. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
@@ -738,13 +768,13 @@ Free
 
 *   [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 
-## [49. Bots](/content/hackerkid/bots/week/README.md)
+## [52. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Telegram
 
 *   [Node.js (⭐6.1k)](https://github.com/telegraf/telegraf)
 
-## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 

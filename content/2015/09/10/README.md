@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -144,13 +144,20 @@
 *   [Minds and Machines](http://www.springer.com/journal/11023)
 *   [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
 
-## [5. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Hamish Friedlander (⭐0)](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
+*   [Chris Tankersley (⭐0)](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
+
+## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [A collection of awesome browser extensions for GitHub. (⭐2.5k)](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - Well, the link kinda' says it all.
 
-## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [7. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### GLSL Editors
 

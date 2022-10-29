@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,34 @@
 
 *   [nvm for Windows (⭐24k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Platforms and toolkits
+
+*   [Haxe-linguistics (⭐26)](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
+*   [Natural (⭐9.9k)](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
+*   [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
+*   [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
+
+### Algorithms
+
+*   [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.
+*   [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
+
+### On Wikipedia
+
+*   [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
+*   [Document classification](http://en.wikipedia.org/wiki/Document_classification)
+*   [Language models](http://en.wikipedia.org/wiki/Language_model)
+*   [Naive Bayes classification](http://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+*   [Natural language processing](http://en.wikipedia.org/wiki/Natural_language_processing)
+*   [Outline of natural language processing](http://en.wikipedia.org/wiki/Outline_of_natural_language_processing)
+*   [Parts of speech tagging](http://en.wikipedia.org/wiki/Part-of-speech_tagging)
+*   [Sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis)
+*   [Term frequency - inverse document frequency](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+*   [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
+
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -110,7 +137,7 @@
 *   [Atom](https://atom.io/packages/language-elixir) - Elixir language support for Atom.
 *   [Jetbrains](http://plugins.jetbrains.com/plugin/7522) - Elixir for IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE.
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Loading Status / Runner
 

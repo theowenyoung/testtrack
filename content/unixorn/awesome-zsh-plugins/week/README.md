@@ -8,6 +8,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [singularityenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-singularityenv) - Provides a `singularityenv_prompt_info` function which returns the current singularity environment name
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -185,7 +191,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [pseudo-projectile (⭐2)](https://github.com/git-girl/pseudo-projectile-plugin/) - Like `projectile` in emacs? This adds similar functionality to your ZSH environment.
+*   [pseudo-projectile (⭐2)](https://github.com/git-girl/pseudo-projectile-plugin/) - Like `projectile` in emacs? This adds similar functionality to your ZSH environment by opening `fzf`-selected paths in `nvim`.
 *   [zredis-cmd (⭐4)](https://github.com/z-shell/zredis-cmd) - Utilizes variable sharing done by [zredis (⭐1)](https://github.com/zdharma-continuum/zredis) plugin to implement remote command execution.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -1477,7 +1483,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [watch (⭐3)](https://github.com/enrico9034/zsh-watch-plugin) - Easily prefix your current or previous commands with watch by pressing `CTRL + W`.
 *   [watson.zsh (⭐3)](https://github.com/bcho/Watson.zsh) - A plugin for the [watson (⭐2.1k)](https://github.com/TailorDev/Watson) time management system.
 *   [wd (⭐644)](https://github.com/mfaerevaag/wd) - Warp directory lets you jump to custom directories in ZSH, without using `cd`. Why? Because `cd` seems inefficient when the folder is frequently visited or has a long path.
-*   [wdnote (⭐0)](https://github.com/Vesdii/zsh-wdnote) - Prints the contents of a `.wdnote` file if present when changing to a new directory.
 *   [web-search (sinetoami) (⭐2)](https://github.com/sinetoami/web-search) - Add commands to run bing, google, yahoo, & duckduckgo searches directly from the CLI.
 *   [web-search (yabanahano) (⭐0)](https://github.com/Yabanahano/web-search) - Adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services.
 *   [window-title (⭐12)](https://github.com/olets/zsh-window-title) - Adds informative tiles to your terminal windows.

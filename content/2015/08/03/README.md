@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,20 +59,26 @@
 
 *   [Pipeline (⭐867)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / S individuals
+
+*   Stefan Parker <http://codebeforethehorse.tumblr.com/>
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Parsing
 
 *   [kevinmehall/rust-peg (⭐1.1k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
 
-## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### BugReport-PullRequest / Podcasts
 
 *   Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files.
 *   For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### JSON
 

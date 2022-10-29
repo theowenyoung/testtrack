@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,13 @@
 
 
 
-## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [PeerTube (⭐11k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
+
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / AST
 
@@ -284,7 +290,7 @@
 *   [So Ember 2017](https://www.youtube.com/watch?v=UpUtVGW43hY\&list=PLXOJZupxSq204IxtG80UfIW-gU0IxAScY)
 *   [Wicked Good Ember 2016](https://www.youtube.com/playlist?list=PLXOJZupxSq22zfW2KVnXFgLbu--DA7q0G)
 
-## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [6. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -299,7 +305,7 @@
 
 *   [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) - Short overview of equivalent python functions for switchers.
 
-## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [7. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Build tools, setup and CI
 
@@ -311,13 +317,13 @@
 
 *   [Groovy's source (⭐4.7k)](https://github.com/apache/groovy) - Groovy's source code mirrored on Github
 
-## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tools
 
 *   [Molten (⭐208)](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 
-## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+## [9. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ### Movies / The Lord of the Rings
 

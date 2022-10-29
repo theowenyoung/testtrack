@@ -17,6 +17,7 @@
 *   [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## List ignored files.
 
 ```sh

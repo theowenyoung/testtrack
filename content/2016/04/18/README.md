@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,7 +41,13 @@
 
 *   [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
 
-## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / R individuals
+
+*   Rachel Kroll <https://rachelbythebay.com/w/>
+
+## [7. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / General Overviews
 

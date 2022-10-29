@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 26, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -100,6 +100,7 @@
 *   [trans (⭐204)](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Alias: git undo
 
 ```sh
@@ -205,13 +206,19 @@ git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev
 *   [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD\&utm_medium=referral\&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
 *   [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Haroen Viaene (⭐0)](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
+
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Community / Workflow
 
 *   [.NET Foundation](http://forums.dotnetfoundation.org)
 
-## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Continuous Integration
 

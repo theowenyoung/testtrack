@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12 - Oct 18, 2015
 
-35 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -120,13 +120,23 @@
 
 *   [Eye (⭐1.2k)](https://github.com/kostya/eye) - Process monitoring tool. Inspired from Bluepill and God.
 
-## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / T individuals
+
+*   Tikhon Jelvis <http://jelv.is/blog/>
+
+### Individuals/Group Contributors / W individuals
+
+*   Wojtek Gawroński <http://www.afronski.pl/>
+
+## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Collaboration Tools
 
 *   [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
-## [14. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [15. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Code Points that Affect Others
 
@@ -136,7 +146,7 @@
 
     [![](http://imgs.xkcd.com/comics/rtl.png)](https://xkcd.com/1137/)
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -147,37 +157,43 @@
 
 *   [BDDfy (⭐391)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Event
 
 *   [Amp (⭐3.7k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 
-## [17. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these organizations anything!
+
+*   [DevOps Taiwan (⭐44)](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
+
+## [19. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Javascript / Bare metal / kernel development
 
 *   [higgs (⭐853)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [X64dbg](https://github.com/x64dbg/) - An open-source x64/x32 debugger for windows.
 
-## [19. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [21. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Community / Dojo 2
 
 *   [IRC](http://irc.lc/freenode/dojo) - Large and active IRC support channel.
 
-## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Messaging / Scala
 
 *   [NSQ](http://nsq.io/) - A realtime distributed messaging platform.
 
-## [21. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [23. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
@@ -192,7 +208,7 @@
 *   [core.match (⭐1.1k)](https://github.com/clojure/core.match)
 *   [defun (⭐454)](https://github.com/killme2008/defun)
 
-## [22. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [24. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Omniauth
 
@@ -205,13 +221,13 @@
     *   [sidekiq-cron (⭐1.6k)](https://github.com/ondrejbartas/sidekiq-cron) - Scheduler / Cron for Sidekiq jobs
     *   [sidekiq-scheduler (⭐1.5k)](https://github.com/Moove-it/sidekiq-scheduler) - Lightweight job scheduler extension for Sidekiq
 
-## [23. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [25. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [AnormCypher (⭐125)](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework.
 
-## [24. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [26. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
@@ -232,7 +248,7 @@
 
 *   [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 
-## [25. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [27. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Security
 
@@ -246,20 +262,20 @@
     *   [Lectures](http://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html)
     *   [Assignments](http://www.cs.cornell.edu/courses/CS5430/2013sp/)
 
-## [26. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [28. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
 *   [dropwizard-circuitbreaker (⭐41)](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 
-## [27. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [29. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEM (Block element modifier) - CSS Methodologies Part 3](http://techblog.buyapowa.com/css/frontend/scss/sass/2015/10/07/css-methodologies-part-3.html)
 *   [How I stopped worrying and learned to love the CSS with BEM](http://www.theodo.fr/blog/2015/10/how-i-stopped-worrying-and-learned-to-love-the-css-with-bem/)
 
-## [28. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -273,7 +289,7 @@
 
 *   [xml2js (⭐4.6k)](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
@@ -283,7 +299,7 @@
 
 *   [exurban (⭐2)](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
 
-## [30. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [32. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
@@ -301,7 +317,7 @@
 
 *   [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
 
-## [31. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [33. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Logging
 
@@ -317,7 +333,7 @@
 
 *   [Explore Statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0) - Covers introduction, data handling and statistical analysis in R.
 
-## [32. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [34. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -325,19 +341,19 @@
 
 **Released**: April 14, 2008
 
-## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [35. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Programming languages
 
 *   [Groovy](http://www.groovy-lang.org/) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.
 
-## [34. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [36. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Queueing / NoSQL Databases
 
 *   [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 
-## [35. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [37. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Awesome Tech Videos   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 

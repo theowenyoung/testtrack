@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2020
 
-28 awesome lists updated today.
+29 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,19 +96,48 @@
 
 *   :strawberry: [Itosho/EasyQuery plugin (⭐26)](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 
-## [8. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [8. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Beginner
+
+#### [Free Code Camp](https://www.freecodecamp.org/)
+
+**Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
+*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
+
+### Advanced
+
+#### [HackerEarth](https://www.hackerearth.com/)
+
+**Free** programming challenges, hackathons and contests\
+*(dynamic programming, artificial intelligence, algorithms, functional programming, machine learning)*
+
+### Contributing
+
+#### [CodeSignal](https://codesignal.com/)
+
+**Free** programming challenges\
+*(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
+
+In lieu of a formal style guide, take care to maintain the existing style of this list.
+
+## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Utilities
 
 *   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 
 *   [Full Stack React GraphQL TypeScript Tutorial - 14 hour course](https://www.youtube.com/watch?v=I6ypD7qv3Z8) (YouTube)
 
-## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
@@ -118,19 +147,19 @@
 *   [Remix Icon](https://remixicon.com/) - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 *   [Themify Icons](https://themify.me/themify-icons) - Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
 
-## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [12. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / WordPress
 
 *   [Top 45 WordPress interview questions](https://pangara.com/blog/blog45-wordpress-interview-questions-and-answers/)
 
-## [12. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [13. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Blogs / Eagle
 
 *   [N-O-D-E](https://n-o-d-e.net/) - Blog about DIY electronics, hardware, and technology.
 
-## [13. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [14. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Blogs
 
@@ -140,13 +169,13 @@
 
 *   [neuroSummerSchools (⭐191)](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 
-## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
@@ -156,43 +185,43 @@
 
 *   [Nextatic (⭐41)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Game Engine
 
 *   [nCine (⭐757)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
 *   [Netswift (⭐23)](https://github.com/MrSkwiggs/Netswift) - A type-safe, high-level networking solution.
 
-## [18. Awesome Python](/content/vinta/awesome-python/README.md)
+## [19. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Machine Learning
 
 *   [gym (⭐29k)](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [vue-stack-cesium (⭐13)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 
-## [20. Awesome Internships](/content/lodthe/awesome-internships/README.md)
+## [21. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 
 ### Mock interview platforms
 
 *   [Pramp](https://www.pramp.com) - Practice mock interviews with friends and professionals.
 
-## [21. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [22. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [Rambdax (⭐192)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
-## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Useful Apps / Android
 
@@ -200,7 +229,7 @@
 *   **Raspicast** - Cast YouTube videos, media content from your android device, Play local media files, Play streams from playlists (m3u, pls) on your Raspberry Pi. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 *   **TeamViewer** - Remote into Raspberry Pi while you are on the road!. [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [24. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
@@ -208,7 +237,7 @@
 *   [The Tail at Scale Revisited](https://billduncan.org/the-tail-at-scale-revisited/)
 *   [Defining SLOs for services with dependencies](https://cloud.google.com/blog/products/gcp/defining-slos-for-services-with-dependencies-cre-life-lessons)
 
-## [24. Awesome Math](/content/rossant/awesome-math/README.md)
+## [25. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Algebra / Analytic Number Theory
 
@@ -222,13 +251,13 @@
 
 *   [Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications](https://ccrma.stanford.edu/\~jos/mdft) - Julius O. Smith III (Stanford University)
 
-## [25. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [26. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Other / iOS
 
 *   📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.
 
-## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Math
 
@@ -238,14 +267,14 @@
 
 *   [mime-type-check (⭐5)](https://github.com/RocktimSaikia/mime-type-check) - Get the MIME type of a file by its extension.
 
-## [27. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [28. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Operating systems
 
 *   [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 *   [Tiny OS (⭐1.3k)](https://github.com/tinyos/tinyos-main) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 
-## [28. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Resources
 
@@ -352,10 +381,6 @@
 ### Libraries/Frameworks / Syntax Highlighters
 
 *   [jneen/rouge (⭐3.1k)](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (wip)
-
-### Libraries/Frameworks / Game Development
-
-*   [zeganstyl/thelema-engine (⭐58)](https://github.com/zeganstyl/thelema-engine) - 3d graphics engine in Kotlin, based on sources of libGDX. Platforms: JVM, TeaVM, Koltin/JS, Kotlin/Native. See live demo: <a href="https://zeganstyl.github.io/thelema-teavm-tests/">TeaVM</a>, <a href="https://zeganstyl.github.io/thelema-kxjs-demo/">Kotlin/JS</a>
 
 ### Libraries/Frameworks / Misc
 

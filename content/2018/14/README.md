@@ -1,12 +1,13 @@
 # Awesome List Updates on Apr 02 - Apr 08, 2018
 
-48 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@KrauseFx](https://github.com/krausefx), [fastlane (⭐36k)](https://github.com/fastlane/fastlane)
     *   "Scaling open source communities" ([post](https://krausefx.com/blog/scaling-open-source-communities))
 
@@ -34,13 +35,19 @@
 
 *   [MarkdownKit (⭐676)](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 
-## [4. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [4. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Chaitanya Giri (⭐0)](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
+
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Event Gateway (⭐29)](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -50,7 +57,7 @@
 
 *   [vue-ramda (⭐18)](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 
-## [6. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [7. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Getting Help
 
@@ -62,7 +69,7 @@
 
 *   [/r/d\_language on Reddit](https://www.reddit.com/r/d_language/) - A feed of news and blog posts about D.
 
-## [7. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -90,13 +97,13 @@
 
 *   [phases (⭐12)](https://github.com/sorokine/phases) - Minimally invasive bash preprocessor, select sections of your script to run
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
 *   [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) - A YouTube collection of talks given at KanDDDinsky.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Email
 
@@ -106,25 +113,25 @@
 
 *   [granite (⭐263)](https://github.com/amberframework/granite) - ORM for Postgres, Mysql, Sqlite
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Event processing / Third-party APIs
 
 *   [cl-flow (⭐49)](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [11. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [12. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Tools
 
 *   [Swifter (⭐38)](https://github.com/LiveUI/Swifter) – A macOS tool to help you manage your Xcode projects and give you a quick access to DerivedData folder cleaning and management.
 
-## [12. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [13. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Web frontend integration
 
 *   [PyramidVue (⭐36)](https://github.com/eddyekofo94/pyramidVue) - Pyramid and VueJs (JavaScript) template with Hot-Module-Replacement starter template.
 
-## [13. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [14. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Articles
 
@@ -138,7 +145,7 @@
 
 *   [ntl (⭐872)](https://github.com/ruyadorno/ntl) - Interactive cli menu to list and run npm scripts.
 
-## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [15. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Clients
 
@@ -148,7 +155,7 @@
 
 *   [Home Assistant](https://www.home-assistant.io/) has a MQTT component.
 
-## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [16. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
@@ -184,25 +191,25 @@
 
 *   [L3GD20](https://crates.io/crates/l3gd20) - SPI - Gyroscope - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - ![crates.io](https://img.shields.io/crates/v/l3gd20.svg)
 
-## [16. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [17. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for data / Blockchain projects for AI algorithms
 
 *   [BOTTOS AI](https://bottos.org/) - A decentralized AI data sharing network that uses a consensus-based application platform to allow AI projects to gather training data.
 
-## [17. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [18. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
 *   [How To Use OpenCV In React Native For Image Processing](https://brainhub.eu/blog/opencv-react-native-image-processing/)
 
-## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [19. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
 *   [jvm-profiler (⭐1.7k)](https://github.com/uber-common/jvm-profiler) - Java Agent to collect various metrics and stacktraces for Hadoop/Spark JVM processes in a distributed way.
 
-## [19. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [20. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
@@ -333,19 +340,19 @@
     *   [Lua Conf](http://luaconf.com/) - Annual 1-day Lua conference in Brazil.
     *   [FOSDEM](https://fosdem.org/) - Annual 2-day gathering of F/OSS developers in Brussels which sometimes has a "Lua devroom".
 
-## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [21. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### VPN / Metric & Metric Collection
 
 *   [sshuttle (⭐8.9k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 
-## [21. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [22. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Polskie (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -361,13 +368,13 @@
 
 *   [Timsort (⭐265)](https://github.com/gfx/cpp-TimSort) - A templated stable sorting function which outperforms quicksort-based algorithms including std::sort, for reversed or semi-sorted data. \[MIT]
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
 *   [drake (⭐1.3k)](https://github.com/ropensci/drake) - An [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -376,45 +383,45 @@
 *   [autojump (⭐14k)](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [ccat (⭐3k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jingweno/ccat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [26. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
     *   [awesome-jupyter (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter)
 
-## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [Flask-Stupe (⭐28)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
 *   [Motor (⭐2k)](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
 
-## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Others
 
 *   [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
 
-## [28. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [29. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Miscellaneous
 
 *   [EightPointsGuzzleBundle (⭐420)](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
 
-## [29. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [30. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Videos / Single Topics
 
 *   [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Educational plus entertaining YouTube show covering language features as well as architectural topics amongst others.
 
-## [30. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [31. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Tutorials / TikZ
 
 *   [LaTeX introductions in languages other than English](https://tex.stackexchange.com/questions/84384/latex-introductions-in-languages-other-than-english/84385) - Collection of introductions in many languages.
 
-## [31. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [32. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Videos
 
@@ -424,7 +431,7 @@
 
 *   [PoshBot (⭐492)](https://github.com/poshbotio/PoshBot) (PowerShell)
 
-## [32. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [33. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
@@ -455,13 +462,13 @@
 *   [purescript-trout (⭐42)](https://github.com/owickstrom/purescript-trout) - Type-level routing for PureScript.
 *   [purescript-boomboom (⭐5)](https://github.com/paluh/purescript-boomboom) - Never hard code your urls again. Boomboom them all!
 
-## [33. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [34. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Domain Analysis / Other Resources
 
 *   [urlscan.io](https://urlscan.io/) - Free URL Scanner & domain information.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -484,13 +491,13 @@
 *   [Ember Watch](https://twitter.com/EmberWatch)
 *   [Erik Bryn](https://twitter.com/ebryn)
 
-## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### DNS / Telegram
 
 *   [Amass (⭐1.7k)](https://github.com/caffix/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 
-## [36. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [37. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / Embedded World Conference 2018
 
@@ -500,31 +507,37 @@
 
 *   [Maruyama, Yuya et al. “Exploring the performance of ROS2.” 2016 International Conference on Embedded Software (EMSOFT) (2016): 1-10.](https://www.semanticscholar.org/paper/Exploring-the-performance-of-ROS2-Maruyama-Kato/07b895f3b584dea4f64e91844f243de382026b20)
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [38. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [OnionShare](https://onionshare.org): Open source tool that lets you securely and anonymously share a file of any size.
+
+## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Blogs • Websites / Other
 
 *   [CreativeApplications.Net \[CAN\]](http://creativeapplications.net/) - Famous digital art blog.
 
-## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Forensics
 
 *   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 
-## [39. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [41. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
 *   [Logdissect (⭐122)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐122)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
-## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [42. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [TypeGQL (⭐419)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
 
-## [41. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [43. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -534,13 +547,13 @@
 
 *   [ACT-W National Conference](http://www.act-w.org/) - Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
 *   [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 
-## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [45. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -552,19 +565,25 @@
 | ---- | ----- | ---------------------------------------------------------------------- | -------------- |
 | ✔    | ✔     | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am |
 
-## [44. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / C companies
+
+*   Condé Nast <https://technology.condenast.com/>
+
+## [47. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Goals
 
 *   [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
-## [45. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Esoteric languages
 
 *   [OnlyToday (⭐6)](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 
-## [46. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [49. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### JavaScript
 
@@ -583,7 +602,52 @@
 
 *   [Learn FFmpeg libav the Hard Way (⭐8.2k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 
-## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [50. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### On-line courses / Ruby
+
+*   [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
+
+### 3rd party GTFS URL directories
+
+*   [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies) - Formerly the definitive directory of GTFS feed URLs. Shutdown in 2016. But 93 GB of data from 2008 to 2016 is available upon request.
+
+### Transit agency data archives
+
+*   [CapMetrics (⭐15)](https://github.com/scascketta/CapMetrics) - Historical vehicle locations for Austin's transit agency (CapMetro). Data is collected by [capmetricsd (⭐10)](https://github.com/scascketta/capmetricsd), a Go daemon.
+
+### Proprietary (non-standard) vendor APIs
+
+*   [Transport API](https://www.transportapi.com/) - REST API for aggregated transit data for the United Kingdom.  Fee-based access.
+*   [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API for real-time vehicle, route, stop, and arrival data for over 60 transit systems in the United States that have purchased TransLoc's AVL hardware and software.
+*   [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API for real-time vehicle, route, stop, and arrival data for agencies that have puchased NextBus's hardware and/or software.
+*   [CityBikes](http://api.citybik.es) - REST API for aggregated bikeshare data from around the world. Powered by [pyBikes (⭐491)](https://github.com/eskerda/pybikes).
+
+### Software for Creating APIs
+
+*   [TransitClock](http://thetransitclock.org) - Java application that can consume raw vehicle positions and generate prediction times in formats such as GTFS-realtime.  Formerly known as "Transitime".
+
+### Blog posts / Ruby
+
+*   [When(ish) is my bus? Data and code (⭐43)](https://github.com/mjskay/when-ish-is-my-bus) - The data and code (R) behind Whenish is my bus? Data includes three days of historical vehicle positions and the survey results.
+*   ["Legacy AVL system? It's okay, join the club." by Kurt Raschke](https://kurtraschke.com/2015/01/legacy-avl-export) - Discussion of options for transforming legacy AVL system data into the GTFS-realtime format.
+*   ["GTFS Best Practices now available!" by Sean Barbeau](https://medium.com/@sjbarbeau/gtfs-best-practices-now-available-88ac67194233) - Discusses some of the challenges of an open data format like GTFS and the GTFS Best Practices that were launched in early 2017 to help address data quality.
+*   ["What's new in GTFS-realtime v2.0" by Sean Barbeau](https://medium.com/@sjbarbeau/whats-new-in-gtfs-realtime-v2-0-cd45e6a861e9) - Discuss the shortfalls in GTFS-realtime v1.0 and the improvements in v2.0.
+*   ["AVL, CAD, and Real-Time Passenger Info for Beginners" by Tony Laidig](http://transitdata.net/avl-cad-and-real-time-passenger-info-for-beginners/) - Provides a general introduction to technology used to track vehicles.
+
+### Academic papers / Ruby
+
+*   [Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago"](https://www.sciencedirect.com/science/article/pii/S0968090X12000022) - Experiment in Chicago, IL showed modest increase in ridership when riders had access to real-time info via text message or email.
+*   [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf) - Paper attempts to answr the question of "how do we communicate uncertainty in transit predictions?" Explains the problem, existing solutions and designs a [better interface for letting users know when to arrive at the bus stop (⭐43)](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
+*   [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) - Experiments in Seattl,e WA showed that riders perceived shorter bus wait times when they had access to real-time info via mobile apps.
+*   [Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”](https://www.sciencedirect.com/science/article/pii/S0965856414002146) - Controlled experiment in Tampa, FL showed that riders with access to real-time info via mobile apps perceived nearly 2 minute reduction in wait times compared to riders without real-time info.  Riders with real-time info also had decreases in anxiety and frustration and better reception of agency.
+*   [Brakewood et al. - "The impact of real-time information on bus ridership in New York City"](https://www.sciencedirect.com/science/article/pii/S0968090X15000297) - Experiment in NYC showed that ridership increased on long routes when real-time info was made available to riders.
+
+### Government reports / Ruby
+
+*   [APTA Policy Development and Research - Public Transportation Embracing Open Data](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf) - APTA's discussion of the benefits and challenges of open transit data (a short summary of the below TCRP report).
+
+## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### IDE
 
@@ -593,7 +657,7 @@
 
 *   [GeneticSharp (⭐1k)](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 
-## [48. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [52. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 

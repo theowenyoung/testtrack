@@ -240,6 +240,7 @@
 *   [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
 
 ## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Instantly browse your working repository in gitweb.
 
 ```sh

@@ -8,6 +8,12 @@ Useful resources for creating apps with Electron
 
 
 
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### For Electron / Other
+
+*   [pluggable-electron (⭐44)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
+
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 
 ### Open Source / Featured

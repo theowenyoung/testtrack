@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,19 +44,25 @@
 
 *   [BottomSheet (⭐74)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
-## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [transit\_service\_analyst (⭐1)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
+
+## [6. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Miscellaneous / React
 
 *   [schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Dependency injection
 
 *   [darkleaf/di (⭐17)](https://github.com/darkleaf/di)
 
-## [7. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Visualization
 
@@ -77,13 +83,13 @@
 *   [nbcelltests (⭐65)](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for notebooks in Jupyter.
 *   [sphinxcontrib-jupyter (⭐72)](https://github.com/QuantEcon/sphinxcontrib-jupyter) - Sphinx extension for generating Jupyter notebooks.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### C# / Angular
 
 *   [ASP.NET Core News](https://aspnetcore.news/). A weekly newsletter about everything ASP.NET Core, Blazor, SignalR, and similar.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 

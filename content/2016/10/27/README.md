@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,19 @@
 
 *   [Finder New item (⭐28)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** \[42:17]
+
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### PDF
 
 *   [HexaPDF (⭐1k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Sliders / Runner
 
@@ -40,20 +46,20 @@
 
 *   [clappr (⭐6k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
-## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Media Consumption
 
 *   [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 *   [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
@@ -64,13 +70,13 @@
 
 *   [bond (⭐2.5k)](https://github.com/Microsoft/bond) - Cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.
 
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Videos / Other
 
 *   [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Algorithms and Data structures
 
@@ -88,7 +94,7 @@
 
 *   [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Frameworks
 
@@ -110,7 +116,7 @@
 
 *   [atom-elixir (⭐413)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Pirated software download site blacklist / Package Managers
 

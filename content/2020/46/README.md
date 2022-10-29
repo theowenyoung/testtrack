@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16 - Nov 22, 2020
 
-58 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1081,11 +1081,11 @@
 
 
 
-## [24. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [24. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
-### Social Networks
+### Applications
 
-*   [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
+*   [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
 
 ## [25. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -1330,13 +1330,19 @@
 
 *   Facebook [Flutter Israel Developers](https://www.facebook.com/groups/2779846762051712)
 
-## [50. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [50. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Awesome Indie - <https://awesomeindie.com>
+
+## [51. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Forms
 
 *   [django-formtools (⭐603)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
 
-## [51. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [52. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Roles / Engineers
 
@@ -1351,7 +1357,7 @@
 
 *   [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 
-## [52. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [53. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1361,13 +1367,13 @@
 
 *   [ex\_changerate (⭐2)](https://github.com/81dr/ex_changerate) - Elixir client for [exchangerate.host](https://exchangerate.host) API.
 
-## [53. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [54. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
 *   [Woke (⭐23)](https://github.com/amwmedia/eslint-plugin-woke) - Helps catch insensitive words, promoting an inclusive codebase.
 
-## [54. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [55. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
@@ -1396,7 +1402,7 @@
 
 *   [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [56. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -1410,20 +1416,20 @@
 
 *   [Generators.Blazor (⭐45)](https://github.com/excubo-ag/Generators.Blazor) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Generators.Blazor?style=flat-square\&cacheSeconds=86400) Generators.Blazor is a source generator for improving performance in Blazor. The project also contains analyzers to detect common issues in Blazor apps.
 
-## [56. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [57. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Server-side (Cloud Functions, BigQuery etc) / iOS
 
 *   💡 [Express Server on Cloud Functions (⭐625)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-express) - Host an Express server on Cloud Functions.
 *   💡 [Compiled Code with Cloud Functions (⭐625)](https://github.com/jthegedus/firebase-gcp-examples/tree/main/functions-w-parcel) - Compile your Flow, TypeScript or ReasonML to the correct Node runtime using Babel, TypeScript Compiler or ParcelJS.
 
-## [57. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [58. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [IPGit (⭐57)](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 
-## [58. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [59. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Tutorials / Other Tools
 

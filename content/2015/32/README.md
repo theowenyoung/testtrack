@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10 - Aug 16, 2015
 
-34 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -129,13 +129,19 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   **[\[play1-chart\] ](http://sant0s.github.io/play1-chart/) [Play1-Chart (⭐2)](https://github.com/sant0s/play1-chart)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/sant0s/play1-chart) The Chart module allows for easy generation of chart images.
 
-## [10. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [10. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Lists
+
+*   [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
+
+## [11. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Examples
 
 *   [WebSockets (⭐87)](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -169,13 +175,13 @@ An introduction to developing secure applications targeting version 4.5 of the .
 *   [Soundwaves (⭐141)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
-## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Code Quality
 
 *   [Codecov](https://codecov.io/) - Continuous Code Coverage
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
@@ -193,7 +199,8 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   [bolshchikov/js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch)
 
-## [14. Tips](/content/git-tips/tips/week/README.md)
+## [15. Tips](/content/git-tips/tips/week/README.md)
+
 ## Saving current state of tracked files without commiting
 
 ```sh
@@ -221,13 +228,13 @@ git stash push -u
 git stash push --include-untracked
 ```
 
-## [15. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [16. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
 *   [Bringing Meteor’s reactive collections to Backbone](https://mixmax.com/blog/meteor-and-backbone) by Jeff Wear
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### BitTorrent
 
@@ -263,7 +270,7 @@ git stash push --include-untracked
 
 *   [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -273,26 +280,33 @@ git stash push --include-untracked
 
 *   [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
-## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [19. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
+*   [Nick Johnstone (⭐0)](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
+
+## [20. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 
-## [19. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [21. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / Haskell
 
 *   [foldl is tail recursive, so how come foldr runs faster than foldl?](http://stackoverflow.com/a/3429693)
 *   [Does Haskell have tail-recursive optimization?](http://stackoverflow.com/a/13052612)
 
-## [20. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [22. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Guides
 
 *   [Honeypot (Dionaea and kippo) setup script (⭐79)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Social / Chrome Extensions
 
@@ -300,7 +314,7 @@ git stash push --include-untracked
 *   [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
 *   [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [24. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -407,7 +421,7 @@ git stash push --include-untracked
 
 *   [A recurrent neural network designed to generate classical music. (⭐1.9k)](https://github.com/hexahedria/biaxial-rnn-music-composition)
 
-## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [25. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -439,7 +453,7 @@ git stash push --include-untracked
 
 *   [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
-## [24. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -461,13 +475,13 @@ git stash push --include-untracked
 
 
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
 *   [R.swift (⭐8.8k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
-## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -478,13 +492,13 @@ git stash push --include-untracked
 
 *   [assert.sh (⭐465)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
 *   [MetadataExtractor (⭐718)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
-## [28. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [30. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Bindings / XML
 
@@ -513,13 +527,13 @@ git stash push --include-untracked
 
 *   [DSFML (⭐99)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
-## [29. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [31. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Regional
 
 *   [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 
-## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -527,7 +541,7 @@ git stash push --include-untracked
 *   [Laravel Search (⭐353)](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
 *   [SearchIndex (⭐441)](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 
-## [31. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [33. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Passwords
 
@@ -537,13 +551,32 @@ git stash push --include-untracked
 
 *   [Pipeline (⭐867)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
-## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / D companies
+
+*   Databricks <https://databricks.com/blog>
+*   DataFox <http://eng.datafox.co/>
+
+### Companies / V companies
+
+*   VNGRS <http://blog.vngrs.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Manu Sporny <http://manu.sporny.org/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Stefan Parker <http://codebeforethehorse.tumblr.com/>
+
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Parsing
 
 *   [kevinmehall/rust-peg (⭐1.1k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
 
-## [33. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [36. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Salesforce Developer Free Edition Signup
 
@@ -554,7 +587,7 @@ git stash push --include-untracked
 *   Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files.
 *   For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 
-## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### JSON
 

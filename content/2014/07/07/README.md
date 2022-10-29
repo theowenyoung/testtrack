@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2014
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,7 +13,13 @@
 *   [bashstrap (⭐1.6k)](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
 *   [liquidprompt (⭐4.2k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
+## [2. Tools](/content/lvwzhen/tools/README.md)
+
+### Placeholder
+
+*   [placekitten](http://placekitten.com/)
+
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### HTML Manipulation
 

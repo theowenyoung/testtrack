@@ -1,18 +1,24 @@
 # Awesome List Updates on Jun 30, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Design
+
+*   [The Art of Destroying Software](https://vimeo.com/108441214) by **Greg Young** \[42:30]
+
+## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Testing
 
 *   [Alcotest (⭐331)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
-## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [3. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Account services / Mobile
 
@@ -23,7 +29,7 @@
 *   [EOS - Reddit](https://www.reddit.com/r/eos/)
 *   [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
@@ -32,7 +38,7 @@
 *   [How to Hack Like a Legend](https://amzn.to/2uWh1Up) - A hacker’s tale breaking into a secretive offshore company, Sparc Flow, 2018
 *   [How to Investigate Like a Rockstar](https://books2read.com/u/4jDWoZ) - Live a real crisis to master the secrets of forensic analysis, Sparc Flow, 2017
 
-## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Broccoli read
 
@@ -62,13 +68,13 @@
 
 *   [Inlining store data in Ember.js](https://balinterdi.com/blog/inlining-store-data-in-ember-js/)
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Node.js
 
 *   [rest-hapi (⭐1.2k)](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frameworks / Runtimes
 
@@ -91,25 +97,25 @@
 
 *   [Ambassador](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### C-sharp / Git
 
 *   [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - The .NET Framework implementations of many standard cryptographic algorithms.
 
-## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Podcasts / ROSCon 2015
 
 *   [ROS 2 and DDS for IoT devices with HaoChih Lin (from 5th minute onwards)](http://www.theconstructsim.com/rdp-017-ros-2-dds-iot-haochih/)
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Framework Components
 
 *   [Exception Page (⭐62)](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Podcasts / Package Managers
 

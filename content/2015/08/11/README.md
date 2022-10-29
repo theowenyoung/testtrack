@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 11, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,13 @@
 
 *   **[obama](https://www.npmjs.com/package/obama)** - Move forward and standardize with Obama
 
-## [5. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these organizations anything!
+
+*   [Edenspiekermann](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
+
+## [6. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Articles
 
@@ -106,7 +112,8 @@ PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`.
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
-## [6. Tips](/content/git-tips/tips/README.md)
+## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Before deleting untracked files/directory, do a dry run to get the list of these files/directories
 
 ```sh

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,32 +23,38 @@
 
 *   [awesome-python-chemistry (⭐720)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 
-## [2. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Realtime Convertors / Ruby
+
+*   [OrbCAD SQL Server to GTFS-realtime (⭐16)](https://github.com/CUTR-at-USF/HART-GTFS-realtimeGenerator/) - A Java-based command-line utility that extracts vehicle positions and trip updates information from an OrbCAD SQL Server and exports them to the GTFS-realtime TripUpdates and VehiclePositions formats.
+
+## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Podcasts
 
 *   [Podcast.**init** Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) - In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.
 
-## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [4. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Resources / Articles
 
 *   [Can We Have an Honest Conversation About Advertisements?](https://www.theminimalists.com/ads/)
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Firmware projects / WIP
 
 *   [anne-key (⭐547)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Apps / Third-party APIs
 
 *   [wiki-lang-detect (⭐28)](https://github.com/vseloved/wiki-lang-detect) -
     Text language identification using Wikipedia data. No license specified.
 
-## [6. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
+## [7. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/README.md)
 
 ### SDKs/Tools
 
@@ -142,13 +148,13 @@
 
 *   [Alexa Easter Eggs](https://github.com/miguelmota/awesome-amazon-alexa/blob/master/README.md/EASTER_EGGS.md) - A list of Alexa easter eggs.
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Tutorials
 
 *   [Kubernetes examples (⭐5.2k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Data binding
 
@@ -175,19 +181,19 @@
 *   [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
 *   [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
 
-## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Database
 
 *   [uxss-db (⭐634)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Eloquent Filter (⭐1.5k)](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
 
-## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Articles
 

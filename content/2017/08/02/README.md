@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -72,7 +72,13 @@
 *   [h-rider (⭐133)](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
 *   [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Code
+
+*   [Ripplectron (⭐52)](https://github.com/devjin0617/ripplectron): Desktop client for Electron
+
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 

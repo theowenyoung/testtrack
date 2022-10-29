@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26 - Oct 02, 2016
 
-42 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -248,6 +248,7 @@ A portable public domain password hashing framework for use in PHP applications.
 *   [prometheus.ex (⭐390)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [24. Tips](/content/git-tips/tips/week/README.md)
+
 ## Apply commit from another repository
 
 ```sh
@@ -287,7 +288,13 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [redux-transducers (⭐130)](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
-## [29. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [29. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### CSS
+
+*   [mui (⭐4.5k)](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
+
+## [30. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
@@ -298,14 +305,14 @@ git merge-base <branch-name> <other-branch-name>
 *   [Pokemon Go Bot (⭐15)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
 *   [PokeBot (⭐16)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
 
-## [30. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [31. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Low-level Vision / Change Detection
 
 *   [Labeled and Annotated Sequences for Integral Evaluation of SegmenTation Algorithms](http://www.gti.ssr.upm.es/data/LASIESTA)
 *   [ChangeDetection.net](http://www.changedetection.net/)
 
-## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -315,32 +322,39 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [DreamFactory](http://www.dreamfactory.com) - DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
 *   [Syro (⭐132)](https://github.com/soveran/syro/) - Simple router for web applications.
 
-## [33. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Security
 
 *   [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 
-## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Spanish
 
 *   [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 *   [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
-## [35. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [36. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at [CEG](https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy). Striving to make it as a Full stack developer.
+*   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
+
+## [37. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Testing Methods
 
 *   [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -358,13 +372,13 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [Android Tips & Tricks (⭐4.6k)](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 
-## [38. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [40. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Miscellaneous / Utility Packs
 
@@ -375,7 +389,7 @@ git merge-base <branch-name> <other-branch-name>
 *   You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectively runs `mocha --reporter xunit`.
 *   You can run `npm run <script> -s` to silence the default npm output (useful for calling a script within another script).
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -401,7 +415,7 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [CefSharp (⭐9k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
-## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -411,7 +425,7 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 
-## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 
@@ -425,7 +439,7 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [s3tools/s3cmd :fire::fire::fire::fire::fire: (⭐4k)](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 
-## [42. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [44. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 

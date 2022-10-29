@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,31 +12,41 @@
 
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 
-## [2. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Web Apps (open source)
+
+*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
+
+### Native Apps (open source)
+
+*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
+
+## [3. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
 ### Traveling
 
 *   [location-location-location (⭐28)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
-## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### CMS
 
 *   [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [phha/zenburn.nvim (⭐29)](https://github.com/phha/zenburn.nvim) - A low-contrast dark colorscheme with support for various plugins.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Observability
 
 *   [Quickwit-oss/quickwit (⭐2.6k)](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Bit-packing and Compression
 
@@ -199,7 +209,7 @@
 *   [goes (⭐29)](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 *   [skizze (⭐88)](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Changes
 

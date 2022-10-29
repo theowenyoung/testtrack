@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25, 2018
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,13 +35,31 @@
 *   [Deploying Wagtail In Production](https://vix.digital/insights/deploying-wagtail-production/)
 *   [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Visualizations
+
+*   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐334)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Machine Learning
 
 *   [VLFeat (⭐1.5k)](https://github.com/vlfeat/vlfeat) - The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. \[BSD-2-Clause] [website](http://www.vlfeat.org/)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Cognitive Development
+
+*   [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** \[36:59]
+
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Shazam <https://blog.shazam.com/>
+
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 

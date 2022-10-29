@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23 - Nov 29, 2015
 
-33 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,7 +61,13 @@
 
 *   [Web Application Security Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Design
+
+*   [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** \[41:42]
+
+## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -76,7 +82,7 @@
 *   [Proof of concept for loading Caffe models in TensorFlow (⭐2.8k)](https://github.com/ethereon/caffe-tensorflow)
 *   [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
 
-## [7. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [8. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Eddystone by Google
 
@@ -131,44 +137,44 @@
 
 *   [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
 *   [ExpressionToCode (⭐145)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 
-## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [10. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
 
-## [10. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [11. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / Ruby
 
 *   [React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
 
-## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Parallel Computing
 
 *   [ddR (⭐117)](https://github.com/vertica/ddR) - Provides distributed data structures and simplifies distributed computing in R.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Scroll / Other
 
 *   [Clusterize.js (⭐7.1k)](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 
-## [13. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [14. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [pico2png (⭐20)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 *   [Pico8Utils (⭐44)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
-## [14. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -176,13 +182,13 @@
 
 Where hackers and security experts come to train.
 
-## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / CLI
 
 *   [psql2csv (⭐171)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
-## [16. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [17. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Unofficial
 
@@ -237,7 +243,7 @@ Where hackers and security experts come to train.
 
 *   [influxer (⭐114)](https://github.com/palkan/influxer) - InfluxDB ActiveRecord-style
 
-## [17. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -245,7 +251,7 @@ Where hackers and security experts come to train.
 *   [Expressive BEM with Sass: a different approach - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-a-different-approach)
 *   [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 
-## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -263,25 +269,25 @@ Where hackers and security experts come to train.
 
 *   [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
 
-## [19. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Functional Programming
 
 *   [What are some myths about functional programming and functional programming languages?](https://www.quora.com/What-are-some-myths-about-functional-programming-and-functional-programming-languages/answer/Tikhon-Jelvis)
 
-## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [Plotly.js (⭐15k)](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 
-## [21. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Simultaneous localization and mapping / Tracking/Odometry:
 
 *   [LVR-KinFu: kinfu\_remake based Large Scale KinectFusion with online reconstruction](http://las-vegas.uni-osnabrueck.de/related-projects/lvr-kinfu/)
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -318,27 +324,28 @@ Where hackers and security experts come to train.
 *   [crutches (⭐125)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
 *   [erlsh (⭐62)](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [24. Tips](/content/git-tips/tips/week/README.md)
+
 ## Show helpful guides that come with Git
 
 ```sh
 git help -g
 ```
 
-## [24. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [25. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
 *   [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 *   [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 
-## [25. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [26. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
 
-## [26. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [27. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -396,7 +403,75 @@ git help -g
 
 *   [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 
-## [27. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / B companies
+
+*   Bandcamp <https://bandcamptech.wordpress.com/>
+*   BenefitFocus <https://www.benefitfocus.com/blogs/design-engineering>
+*   Bigcommerce <http://www.bigeng.io/>
+
+### Companies / C companies
+
+*   Chaps <https://blog.chaps.io/>
+*   Cloudflare <https://blog.cloudflare.com/>
+
+### Companies / E companies
+
+*   eFounders <https://medium.com/unexpected-token>
+
+### Companies / F companies
+
+*   Future Processing <https://www.future-processing.pl/technical-blog/>
+
+### Companies / G companies
+
+*   Guardian <https://www.theguardian.com/info/developer-blog>
+
+### Companies / I companies
+
+*   Indeed <http://engineering.indeedblog.com/blog/>
+
+### Companies / L companies
+
+*   LiveChat <https://developers.livechatinc.com/blog/>
+
+### Companies / M companies
+
+*   Medium <https://medium.com/medium-eng>
+*   Mixpanel <https://code.mixpanel.com/>
+
+### Companies / R companies
+
+*   Redino <http://redino.net/blog/>
+*   RisingStack <https://blog.risingstack.com/>
+
+### Companies / T companies
+
+*   ThoughtWorks <https://www.thoughtworks.com/insights>
+
+### Companies / Z companies
+
+*   Zynga <https://www.zynga.com/blogs/engineering>
+
+### Individuals/Group Contributors / D individuals
+
+*   David Walsh <https://davidwalsh.name/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Evan Miller <http://www.evanmiller.org/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nate Berkopec <http://www.nateberkopec.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Real Python <https://realpython.com/blog/>
+*   Rudy Huyn <http://www.rudyhuyn.com/blog/>
+
+## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Websites / OpenOffice
 
@@ -406,13 +481,13 @@ git help -g
 
 *   [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 
-## [28. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [debug-menu (⭐133)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Payments
 
@@ -438,19 +513,19 @@ git help -g
 
 *   [Laravel China](https://phphub.org/)
 
-## [30. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [32. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Problem Child (⭐48)](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 
-## [31. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [33. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [neo4j-elasticsearch (⭐200)](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration.
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -460,7 +535,7 @@ git help -g
 
 *   [Slack Notifier (⭐1.5k)](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
-## [33. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [35. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### HTTP
 

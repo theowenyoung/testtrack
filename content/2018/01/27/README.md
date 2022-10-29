@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,13 +22,19 @@
 *   [ROS Planet](http://planet.ros.org/)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/ros2)
 
-## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / P individuals
+
+*   Pony Foo <https://ponyfoo.com/>
+
+## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
@@ -38,19 +44,19 @@
 
 *   [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Routing
 
 *   [orion (⭐119)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
-## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Backups
 
 *   [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 
-## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Programming Tools / Others
 
@@ -60,13 +66,13 @@
 
 *   [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 
-## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 
 *   [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Device
 

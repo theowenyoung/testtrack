@@ -7,6 +7,7 @@
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
     *   "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,7 +26,37 @@
 *   [MetaDefender Threat Intelligence Feed](https://www.opswat.com/developers/threat-intelligence-feed) -
     List of the most looked up file hashes from MetaDefender Cloud.
 
-## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Russia 🇷🇺
+
+### Moscow
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikitonsky" height="70px" width="70px" align="left" alt="" />
+
+**Nikita Prokopov**\
+Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
+<https://twitter.com/nikitonsky>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
+
+**Nikita Sobolev**\
+Topics: Elixir, Python, JavaScript, Management, RSDP\
+<https://twitter.com/elixir_lang_mos>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ai_boy" height="70px" width="70px" align="left" alt="" />
+
+**Oleksii Okhrymenko**\
+Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
+<https://twitter.com/ai_boy>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chicoxyzzy" height="70px" width="70px" align="left" alt="" />
+
+**Sergey Rubanov**\
+Topics: Standards, Web Assembly\
+<https://twitter.com/chicoxyzzy>
+
+## [5. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Bug Reporting
 
@@ -36,7 +66,7 @@
 
 *   [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 
-## [5. Awesome C](/content/inputsh/awesome-c/README.md)
+## [6. Awesome C](/content/inputsh/awesome-c/README.md)
 
 ### Resources
 
@@ -50,20 +80,20 @@
 
 *   [utf8proc (⭐828)](https://github.com/JuliaStrings/utf8proc) - Small, clean library for processing UTF-8 Unicode data. [`License`](https://github.com/JuliaStrings/utf8proc/blob/master/LICENSE.md)
 
-## [6. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [7. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Cheat Sheets / Hylomorphisms in the Wild
 
 *   [The Hitchhiker's Guide to Morphisms](https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
 
-## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Swift programming / iOS
 
 *   [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
-## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 

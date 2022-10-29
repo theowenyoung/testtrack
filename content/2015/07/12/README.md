@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,16 @@
 
 *   [darcy (⭐20)](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
 
-## [4. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Nicholas C. Zakas (⭐14)](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
+*   [Lance He (⭐0)](https://github.com/indigofeather/ama) - Full stack developer and speaker.
+*   [Derick Bailey (⭐2)](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
+*   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).
+
+## [5. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### GLSL Editors
 

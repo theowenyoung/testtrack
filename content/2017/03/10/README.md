@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2017
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -130,11 +130,31 @@
 
 *   [Liquigraph (⭐122)](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works.
 
-## [12. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / D companies
+
+*   Deezer <https://deezer.io/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Sakib Sami <https://www.sakib.ninja>
+
+## [13. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
 ### Node.js / Authentication
 
 *   [steam-login (⭐53)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
+
+## [14. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Data sets
+
+*   [EuroRomCom Data (⭐16)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+
+### On Youtube
+
+*   [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
 
 ---
 

@@ -1,44 +1,51 @@
 # Awesome List Updates on Oct 28, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   Geoblink <https://tech.geoblink.com>
+*   GIPHY <https://engineering.giphy.com/>
+
+## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Misc
 
 *   [aiorun (⭐337)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
-## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
 *   [sociomantic labs](https://www.sociomantic.com) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
 
-## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Time series machine learning with h2o+timetk](http://www.business-science.io/code-tools/2017/10/28/demo_week_h2o.html) Oct 28, 2017
 *   [Deep learning & parameter tuning with mxnet, h2o package in R](http://blog.hackerearth.com/understanding-deep-learning-parameter-tuning-with-mxnet-h2o-package-in-r) Jan 30, 2017
 
-## [4. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Games / Others
 
 *   [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
 *   [CrossCode](http://www.cross-code.com/en/start) - A retro-inspired 2D game set in the distant future. Comes with great game mechanics such as combos, puzzles, skill trees, quests, items and more.
 
-## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [DietPi (⭐3.5k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
-## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### IDEs
 
@@ -48,19 +55,19 @@
 *   [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
 *   [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / ORM
 
 *   [LINQ to DB (linq2db)](https://linq2db.github.io/) - The fastest LINQ database access library offering a simple, lightweight, fast, and type-safe layer between your POCO objects and your database for more than 10 database engines with full SQL support.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
 *   [DeviceId (⭐475)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
-## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
@@ -88,7 +95,7 @@
 *   [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
     Will Evans and Sinduja Rangarajan.
 
-## [10. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [11. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Helpers
 

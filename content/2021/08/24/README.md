@@ -1,12 +1,18 @@
 # Awesome List Updates on Aug 24, 2021
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [TransitWand (⭐35)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
+
+## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -17,7 +23,7 @@
 *   [Planning, designing, and coding a Blazor site from scratch part 1](https://www.youtube.com/watch?v=ePc7YroqfPg\&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI) - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 8, 2021 - Set up Azure DevOps, Builds, Release, and Blazor project.
 *   [Building Modern Applications with GraphQL and Blazor](https://www.youtube.com/watch?v=P7y-OxeSkZ8) - ![duration](https://img.shields.io/badge/Duration:%20-72%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 14, 2021 - Building Modern Applications with GraphQL and Blazor at the JetBrains .NET Days Online. After having a fundamental understanding of how GraphQL improves our data fetching needs in web applications, we will move on and build a nice real-time application with Blazor and GraphQL. Let’s build a truly engaging next gen application and push Blazor to the limit. [Slides](https://slides.com/michaelingmarstaib/developer-week-building-modern-applications-with-graphql-and-blazor). [Source code (⭐46)](https://github.com/michaelstaib/PublicSpeaking/tree/master/jetbrains_net_days_2021) ![stars](https://img.shields.io/github/stars/michaelstaib/PublicSpeaking?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/michaelstaib/PublicSpeaking?style=flat-square\&cacheSeconds=86400).
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Persistent object databases
 
@@ -34,7 +40,7 @@
 *   [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   newer, it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Community / Community Chat Rooms
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -87,7 +87,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [yt](https://yt-project.org/) - Toolkit for analysis and visualization of volumetric data.
     (Python, BSD, [GitHub (⭐359)](https://github.com/yt-project/yt))
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [8. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### How-to lockpicking guides
+
+*   [LockLab's Lock Picking Course](https://locklab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
+
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -97,7 +103,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [zpyi (⭐97)](https://github.com/sakshamsharma/zpyi) - Python in Zsh - Easy python scripting in shell
 
-## [9. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [10. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Courses & Books & Blogs
 
@@ -107,7 +113,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [High-Frequency-Trading-Model-with-IB (⭐2k)](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### People Investigations / Telegram
 
@@ -138,7 +144,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 *   [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 *   [Forbes Global 2000](http://www.forbes.com/global2000/)
 
-## [11. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Benchmark - JavaScript / Meetups
 

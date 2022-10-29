@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22 - Jun 28, 2015
 
-24 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -307,6 +307,149 @@
 ### Scroll / Other
 
 *   [ScrollMenu (⭐205)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+
+## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / A companies
+
+*   Algolia <https://blog.algolia.com/>
+*   Atlassian <https://developer.atlassian.com/blog/>
+*   Auth0 <https://auth0.com/blog/>
+
+### Companies / B companies
+
+*   Badoo <https://techblog.badoo.com/>
+*   Base Lab <https://lab.getbase.com/category/engineering/>
+*   BitTorrent <http://engineering.bittorrent.com/>
+*   Brandwatch <http://engineering.brandwatch.com/>
+
+### Companies / C companies
+
+*   Codementor <https://www.codementor.io/tutorial>
+*   Coolblue <http://devblog.coolblue.nl/>
+
+### Companies / E companies
+
+*   Engine Yard <https://blog.engineyard.com/>
+
+### Companies / H companies
+
+*   Hootsuite <http://code.hootsuite.com/>
+*   HubSpot <http://product.hubspot.com/blog/topic/engineering>
+
+### Companies / L companies
+
+*   Localytics <http://eng.localytics.com/>
+
+### Companies / M companies
+
+*   Mandrill <http://blog.mandrill.com/>
+
+### Companies / N companies
+
+*   NPR Apps <http://blog.apps.npr.org/>
+
+### Companies / P companies
+
+*   Prolific Interactive <http://blog.prolificinteractive.com/category/development/>
+
+### Companies / R companies
+
+*   Redbubble <http://artplustech.com/>
+*   Remind <http://engineering.remind.com/>
+
+### Companies / S companies
+
+*   Schibsted Tech Polska <http://www.schibsted.pl/blog/>
+*   Sensible <http://blog.sensible.io/>
+*   Stripe <https://stripe.com/blog>
+
+### Companies / T companies
+
+*   TaskRabbit <http://tech.taskrabbit.com/>
+*   theScore <http://techblog.thescore.com/>
+
+### Companies / W companies
+
+*   WebEngage <http://engineering.webengage.com/>
+
+### Companies / Z companies
+
+*   Zalando <https://tech.zalando.com/blog/>
+*   Zumba <http://tech.zumba.com/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Alex Russell <https://infrequently.org/>
+*   Anders Aarvik <http://aarvik.dk/>
+*   Armin Ronacher <http://lucumr.pocoo.org/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Bill the Lizard <http://www.billthelizard.com/>
+*   Brandon Rhodes <http://rhodesmill.org/brandon/>
+*   Brendan Eich <https://brendaneich.com/>
+
+### Individuals/Group Contributors / C individuals
+
+*   Chris Wellons <http://nullprogram.com/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Daniel Doubrovkine (dB.) <http://code.dblock.org/>
+*   Dave Beazley <http://www.dabeaz.com/blog.html>
+*   Dean Hume <http://deanhume.com/>
+*   Deborah Digges <http://deborah-digges.github.io/>
+*   Dereuromark <http://www.dereuromark.de/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Elegant Code <http://elegantcode.com/>
+*   Eli Bendersky <http://eli.thegreenplace.net/>
+
+### Individuals/Group Contributors / G individuals
+
+*   Guido van Rossum <http://neopythonic.blogspot.com/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ilya Grigorik <https://www.igvita.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jake Wharton <http://jakewharton.com/blog>
+*   James Long <http://jlongster.com/archive>
+
+### Individuals/Group Contributors / L individuals
+
+*   Lambda the Ultimate <http://lambda-the-ultimate.org/>
+*   Lea Verou <http://lea.verou.me/>
+*   Lerner Consulting Blog <http://blog.lerner.co.il/>
+*   Life Plus Linux <http://lifepluslinux.blogspot.in/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nick Desaulniers <https://nickdesaulniers.github.io/>
+*   Nikola Brežnjak <http://www.nikola-breznjak.com/blog/>
+
+### Individuals/Group Contributors / O individuals
+
+*   Oona Räisänen <http://www.windytan.com/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Pat Shaughnessy <http://patshaughnessy.net/>
+*   Peter Steinberger <http://petersteinberger.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Radek Pazdera <http://radek.io>
+*   Raymond Hettinger <https://rhettinger.wordpress.com/>
+*   Regular Geek <http://regulargeek.com/>
+
+### Individuals/Group Contributors / Z individuals
+
+*   Zolmeister <https://zolmeister.com/>
 
 ---
 

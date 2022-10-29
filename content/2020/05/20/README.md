@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,31 +36,37 @@
 
 *   [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) - On performance as a key factor for the business.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [docz (⭐23k)](https://github.com/doczjs/docz) - Zero Config, live-reloading documentation with Markdown + JSX
+
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Guides / Codelabs
 
 *   [Storybook for web components on steroids](https://dev.to/open-wc/storybook-for-web-components-on-steroids-4h29)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
 *   [Geo2tz (⭐46)](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates (lat, lon). `MIT` `Go/Docker`
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Game Development
 
 *   [*2D Apple Games by Tutorials* by Caroline Begbie, Mike Berg, Michael Briscoe, Ali Hafizji, Marin Todorov, Ray Wenderlich](https://store.raywenderlich.com/products/3d-apple-games-by-tutorials)
 
-## [9. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [10. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 
-## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Quick Start
 
@@ -75,13 +81,13 @@
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 
-## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇳🇬 Nigeria / Misc
 
 *   Telegram [FlutterLagos](https://t.me/joinchat/PAH0fVA0l7F_zMM537lo9w)
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 

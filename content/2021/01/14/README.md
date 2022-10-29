@@ -233,7 +233,6 @@
 *   [Godot-Trail-System (⭐266)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 *   [Level of Detail (LOD) (⭐183)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
 *   [MDFramework (⭐69)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-*   [Mitigate-IK (⭐3)](https://github.com/Kylogias/godot-mitigate-ik) - Mitigates the scaling effects of SkeletonIK.
 *   [NI mate Motion Capture (⭐28)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
 *   [Qodot (⭐768)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 *   [UI Design Tool (⭐237)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.

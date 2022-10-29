@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,19 +48,25 @@
 
 *   [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Libraries / R
+
+*   [trread (⭐8)](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R.
+
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2018
 
 *   [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) \[39:38]
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
 *   [NBlockchain (⭐72)](https://github.com/danielgerlag/NBlockchain) - .NET standard library for building blockchain enabled applications
 
-## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / PHP Installation
 

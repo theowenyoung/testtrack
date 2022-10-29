@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2018
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -192,19 +192,59 @@
 *   [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
 *   [SwellRT](http://swellrt.org) is a Real-time text editor and collaboration API for HTML/JavaScript and Android. It is the only open source **decentralized-federated** framework to build collaborative applications.
 
-## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_\(board_game\))
+
+> ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
+
+![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 30-60m |
+
+### Strategy
+
+### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
+
+> A fully cooperative, app-driven board game of horror and mystery for one to five players that takes place in the same universe as Eldritch Horror and Elder Sign. Explore the veiled streets of Innsmouth and the haunted corridors of Arkham's cursed mansions as you search for answers as you investigate four scenarios of fear and mystery. Collect weapons, tools, and information, solving complex puzzles, and fighting monsters, insanity, and death.
+
+![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
+
+| Players | Min. Age |     Time |
+| ------: | -------: | -------: |
+|   1 - 5 |       14 | 120-180m |
+
+### Contribute
+
+### [Heist: One Team, One Mission](https://boardgamegeek.com/boardgame/282237/heist-one-team-one-mission)
+
+> In this co-operative electronic game, players take on the roles of different characters -- Money Man, Hacker, Lookout, or Explosives Expert -- and work together to open an electronic safe and grab $50 million in cold hard cash along the way.
+
+![Heist game image](https://cf.geekdo-images.com/T7_1ABnRxbmZLtJak_qJJg__itemrep/img/BGg1fCo4ihT15QfxrgHaDv5131A=/fit-in/246x300/filters:strip_icc\(\)/pic4821613.png)
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|   2 - 4 |        7 | 5-15m |
+
+Contributions are welcome and encouraged! Read the [contribution guidelines](https://github.com/edm00se/awesome-board-games/blob/main/readme.md/contributing.md) first.
+
+## [9. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Force DI (⭐203)](https://github.com/afawcett/force-di) - Generic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) (DI) library with support for injecting Apex, Visualforce, Lightning, and Flows at runtime.
 
-## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [10. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
 *   [HTTP Prompt (⭐8.6k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 
-## [10. Vim Galore](/content/mhinz/vim-galore/README.md)
+## [11. Vim Galore](/content/mhinz/vim-galore/README.md)
 
 ### Additional resources / Screencasts
 
@@ -212,37 +252,37 @@
 *   [By wincent](https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA)
 *   [By Derek Wyatt](http://derekwyatt.org/vim/tutorials/index.html)
 
-## [11. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [12. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Academic Papers
 
 *   [Anywhere, anytime code inspections: using the Web to remove inspection bottlenecks in large-scale software development (Perpich, Perry, Porter, Votta & Wade, 1997)](https://dl.acm.org/citation.cfm?id=253234) One day in the far future the best way to review code will be on the world wide web.
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [13. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Inputs
 
 *   [VoiceOverlay (⭐225)](https://github.com/algolia/voice-overlay-android) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [Nuxt + Apollo + Element (⭐27)](https://github.com/kavalcante/nuxt-element-apollo) A Vue.js SSR boilerplate with Nuxt, Element (custom theme) and Vue Apollo.
 
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [15. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [Serverless state of the union](https://www.youtube.com/watch?v=q7mFl9sLiCY) - Austen Collins keynote talk about serverless and the state of the union at the Open Source Summit 2018.
 
-## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Ruby
 
 *   [awesome\_explain (⭐16)](https://github.com/sandboxws/awesome_explain) - A simple global method to explain Mongoid queries
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
@@ -252,7 +292,7 @@
 
 *   [Sheet (⭐320)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
 
-## [17. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [18. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Animation / Paid Books
 
@@ -262,13 +302,13 @@
 
 *   [jQuery Images Compare (⭐49)](https://github.com/sylvaincombes/jquery-images-compare) - Plugin for comparing two images.
 
-## [18. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [19. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Utilities
 
 *   [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT (⭐820)](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 
-## [19. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [20. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 

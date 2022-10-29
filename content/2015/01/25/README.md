@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,20 +23,26 @@
 
 *   [vim-elixir (⭐1.3k)](https://github.com/elixir-lang/vim-elixir) - Vim configuration files for Elixir.
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Functional Programming Design Patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) by **Scott Wlaschin** \[1:49:10]
+
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CRM
 
 *   [Fat Free CRM (⭐3.4k)](https://github.com/fatfreecrm/fat_free_crm) - An open source Ruby on Rails based customer relationship management platform.
 
-## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### General Purpose Computer Vision Library
 
 *   [Open source Python module for computer vision (⭐1.9k)](https://github.com/jesolem/PCV)
 *   [ccv: A Modern Computer Vision Library (⭐6.9k)](https://github.com/liuliu/ccv)
 
-## [5. Awesome R](/content/qinwf/awesome-R/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Syntax
 

@@ -85,6 +85,7 @@
 *   [Mamilos](https://www.b9.com.br/shows/mamilos/) - Jornalismo de peito aberto
 
 ## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@pgbovine](https://github.com/pgbovine), [Python Tutor](https://github.com/pgbovine/OnlinePythonTutor)
     *   "Python Tutor Software Development Philosophy" ([video](https://www.youtube.com/watch?v=sVtXLdBRfyE))
     *   "Ten years and nearly ten million users: my experience being a solo maintainer of open-source software in academia" ([post](http://pgbovine.net/python-tutor-ten-years.htm))

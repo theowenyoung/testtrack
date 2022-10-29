@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -232,7 +232,57 @@
 
 *   [YouTube Musical Spectrum (⭐139)](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
 
-## [13. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [13. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Data Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/data_science.webp">
+
+[**Data Science**](https://discord.com/invite/UYNaemm) \
+Notable Channels: `#general`, `#machine-learning`, `#math`, `#programming`, `#career`, `#visualization`, `#resources`, `#colab`, `#papers` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/dvc.webp">
+
+[**Data Version Control**](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/iterative/dvc) \
+Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_dataisbeautiful.webp">
+
+[**r/DataIsBeautiful**](https://discord.com/invite/NRnrWE7) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/dataisbeautiful/) \
+Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_data_share.webp">
+
+[**The Data Share**](https://discord.com/invite/eaPVRW3) \
+Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cs_career_hackers.webp">
+
+[**CS Career Hackers**](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/CS-Career-Hackers) \
+Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list
+is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
+about the notable development kit.
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
+
+To attribute this awesome list (as restricted by the license) see [how to attribute](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
+
+## [14. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Servers
 

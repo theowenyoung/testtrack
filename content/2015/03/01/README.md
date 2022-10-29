@@ -1,12 +1,21 @@
 # Awesome List Updates on Mar 01, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [1. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Intermediate
+
+#### [Codewars](https://www.codewars.com/)
+
+**Free** code challenges. Compare your solution with those of others.\
+*(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
+
+## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Introduction to CS
 
@@ -19,7 +28,7 @@
     *   [Practice Problems](http://cs61a.org/problems/)
     *   [Extra Lectures](http://cs61a.org/extra.html)
 
-## [2. Julia.jl](/content/svaksha/Julia.jl/README.md)
+## [3. Julia.jl](/content/svaksha/Julia.jl/README.md)
 
 ### §2.2. Mirrors
 

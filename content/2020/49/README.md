@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07 - Dec 13, 2020
 
-57 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -302,25 +302,31 @@
 
 *   [amazon-redshift-utils :fire::fire::fire::fire::fire: (⭐2.5k)](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
 
-## [33. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [33. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Libraries / JavaScript
+
+*   [Node-GTFS (⭐366)](https://github.com/BlinkTagInc/node-gtfs) - Loads transit data from GTFS files, unzips it and stores it to a SQLite database. Provides some methods to query for agencies, routes, stops and times.
+
+## [34. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Standalone Tools / Misc
 
 *   [protonenv (⭐2)](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 
-## [34. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [35. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Collaborative Web Editors
 
 *   [Etherpad](http://etherpad.org/) is an open-source online text editor providing collaborative editing in real-time.
 
-## [35. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [36. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### AI
 
 *   [Apex Path (Paid)](https://assetstore.unity.com/packages/tools/ai/apex-path-17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
 
-## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Developer utilities / Third-party APIs
 
@@ -329,25 +335,32 @@
     It can preload provided systems to help build a collection of specialized
     Lisp cores.
 
-## [37. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [38. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Note Management
 
 *   [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 
-## [38. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [39. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
 *   [go-webos](https://github.com/vitalets/awesome-smart-tv/blob/master/README.md/github.com/kaperys/go-webos) - A small Go library for interaction with webOS TVs (golang).
 
-## [39. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [40. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Renderers
+
+*   [ink (⭐19k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [react-nil (⭐642)](https://github.com/pmndrs/react-nil) - A react null renderer
+
+## [41. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Tools
 
 *   [Translate (⭐713)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 
-## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -367,13 +380,13 @@
 
 *   [r/generative](https://www.reddit.com/r/generative/) - Subreddit on generative art and music.
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
 *   [2019 Single-Sign-On Authentifizierung mit dem Keycloak Identity Provider | jambit CoffeeTalk](https://www.youtube.com/watch?v=dnY6ORaFNY8)
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -392,13 +405,13 @@
 
 *   [Downloader (⭐584)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
-## [43. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [45. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Tiếng Việt (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
-## [44. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [46. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Chat
 
@@ -425,7 +438,7 @@
 
 *   [MinimalClock (⭐86)](https://github.com/mattiarossini/MinimalClock) - Simple and elegant screensaver that displays the time. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [45. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [47. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### CMS (headless)
 
@@ -440,7 +453,7 @@
 *   [Testim](https://www.testim.io/) - Frontend testing.
 *   [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
 
-## [46. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [48. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -462,7 +475,7 @@
 
 *   [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 
-## [47. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [49. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Browser Extensions
 
@@ -472,19 +485,19 @@
 
 *   [Torrent🧲Parts](https://torrent.parts/) - Inspect and edit what's in your Torrent file or Magnet link
 
-## [48. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [50. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
 
-## [49. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [51. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### CAD Specific / KiCad
 
 *   [kicad-exports (⭐72)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
 
-## [50. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [52. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Navigation
 
@@ -498,13 +511,13 @@
 
 *   [react-native-blob-courier ★8 (⭐106)](https://github.com/edeckers/react-native-blob-courier) - Efficiently download and upload blobs on native thread
 
-## [51. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [53. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Operating systems / Build system (ROS2)
 
 *   [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to support AUTOSAR in the future.
 
-## [52. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -522,7 +535,7 @@
 
 *   [BlazorDialog (⭐27)](https://github.com/stavroskasidis/BlazorDialog) - ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorDialog?style=flat-square\&cacheSeconds=86400) Dialog component as a service for Blazor. [Demo](https://blazor-dialog-demo.azurewebsites.net/).
 
-## [53. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [55. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Dashboards / Themes
 
@@ -532,7 +545,7 @@
 
 *   [Thermostat Card (⭐671)](https://github.com/ciotlosm/lovelace-thermostat-dark-card) - Thermostat control card that looks like a Nest Thermostat.
 
-## [54. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [56. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -556,13 +569,13 @@
 *   [Flax - a neural network ecosystem for JAX that is designed for flexibility (⭐3.7k)](https://github.com/google/flax)
 *   [QuickVision (⭐49)](https://github.com/Quick-AI/quickvision)
 
-## [55. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [57. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Plotter Art For Sale / Ephemera
 
 *   [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 
-## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [58. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -573,7 +586,7 @@
 
 *   [VueFort (⭐3)](https://github.com/SeregPie/VueFort) - Data modeling for Vue. Works for Vue 2 & 3.
 
-## [57. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [59. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Case Studies
 

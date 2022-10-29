@@ -1,12 +1,22 @@
 # Awesome List Updates on Jul 03, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [1. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### V
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_v_language_and_apps.webp">
+
+[**The V Language & Apps**](https://discord.com/invite/vlang) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vlang.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vlang) \
+Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#ideas-and-suggestions`, `#documentation`, `#js-backend`, `#x64-backend`, `#v-ui`, `#volt`, `#gitly`, `#vid`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
+
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Validation / Playground
 
@@ -15,7 +25,7 @@
 *   [ow (⭐3.6k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
 *   [superstruct (⭐6.2k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
-## [2. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
+## [3. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 
 ### Resources / Packages
 
@@ -53,7 +63,7 @@
 
 *   [Is web monetized (⭐4)](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
-## [3. Awesome List](/content/sindresorhus/awesome/README.md)
+## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
@@ -63,31 +73,31 @@
 
 *   [DevSecOps (⭐745)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
 *   [Flutter Neumorphic (⭐1.6k)](https://github.com/Idean/Flutter-Neumorphic) <!--stargazers:Idean/Flutter-Neumorphic--> - Ready to use Neumorphic kit for Flutter with 🕶️ dark mode.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [rocket-pipes (⭐18)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
 *   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐73)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
 
-## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
 *   [Drago](https://seashell.github.io/drago) - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Authentication
 
@@ -109,7 +119,7 @@
 *   [Howler.Blazor (⭐25)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
 *   [jsMind.Blazor (⭐10)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -119,26 +129,26 @@
 
 *   [vue-concurrency (⭐243)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 
-## [10. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+## [11. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### Serverless Architecture
 
 *   [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
 
-## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Roboception GmbH](https://roboception.com/en/) - Real-Time Perception for Your Robot.
 
-## [12. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [13. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [css.gg (⭐8.7k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
 *   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 
-## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -176,7 +186,7 @@
 
 *   [HEADLINER](https://headliner.app/) <sup>[698](https://t.me/s/aboutrss/698)</sup>
 
-## [14. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [15. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Players / MPEG
 
@@ -186,7 +196,7 @@
 
 *   [Community events of the VideoLAN non-profit organization](https://www.videolan.org/videolan/events)  - VideoLAN events
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 

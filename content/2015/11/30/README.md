@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,13 +34,19 @@
 *   [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) - A good overview on Category Theory applied to Haskell from Wikibooks.
 *   [Haskell Wiki](https://wiki.haskell.org/Haskell)
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### services
+
+*   [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
+
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
 *   [LMDB++ (⭐257)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
-## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 

@@ -1,12 +1,34 @@
 # Awesome List Updates on Jan 31, 2016
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Tips](/content/git-tips/tips/README.md)
+## [1. Codeface](/content/chrissimpkins/codeface/README.md)
+
+### The Gallery
+
+### [Iosevka Slab](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/iosevka-slab)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/iosevka-slab/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-light.png" width="725">
+### [Kawkab Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/kawkab-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/kawkab-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-light.png" width="725">
+
+## [2. Tips](/content/git-tips/tips/README.md)
+
 ## Make git case sensitive.
 
 ```sh
@@ -18,7 +40,7 @@ git config --global core.ignorecase false
 git config --global help.autocorrect 1
 ```
 
-## [2. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [3. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Articles
 
@@ -41,26 +63,32 @@ git config --global help.autocorrect 1
 
 *   [BetterWorks](http://www.producthunt.com/tech/betterworks)
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Web Applications
 
 *   [phpMyAdmin (⭐6.2k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Files and Directories
 
 *   [eye\_drops (⭐51)](https://github.com/rkotze/eye_drops) - Configurable mix task to watch file changes and run the corresponding command.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
 *   Corange
     *   [lucidscape/corange-rs (⭐43)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
 
-## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Competitions
+
+*   [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
+
+## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Language bindings
 

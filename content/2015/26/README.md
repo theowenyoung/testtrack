@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29 - Jul 05, 2015
 
-21 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -521,7 +521,37 @@
 
 *   [What is fascinating about dynamically-typed programming languages?](http://qr.ae/7PKzmF)
 
-## [21. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / F companies
+
+*   Firmafon <https://dev.firmafon.dk/blog/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Andrew Bancroft <http://www.andrewcbancroft.com/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Evan Hahn <http://evanhahn.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Michael Herman <http://mherman.org/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Ramon Fried <https://nativeguru.wordpress.com/>
+
+### Individuals/Group Contributors / T individuals
+
+*   Thomas Young <http://upcoder.com>
+
+### Individuals/Group Contributors / Y individuals
+
+*   Yifan Lu <http://yifan.lu/>
+
+## [22. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Source Code Management
 

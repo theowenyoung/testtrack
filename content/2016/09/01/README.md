@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 01, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   Housing.com <https://medium.com/engineering-housing>
+
+## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
@@ -18,32 +24,32 @@
 
 *   [aurelia-datatable (⭐32)](https://github.com/SpoonX/aurelia-datatable) \* A 100% aurelia based data table component <http://aurelia-datatable.spoonx.org>
 
-## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Post-Mortem
 
 *   [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 
-## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Videos / Other
 
 *   [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=9xX_G0l5jLU)
 
-## [4. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [5. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Git Ignore for Salesforce
 
 *   [GitIgnore for Salesforce  (⭐29)](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Errors and Exception Handling
 
 *   [exceptional (⭐276)](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 *   [happy (⭐43)](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 
-## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 

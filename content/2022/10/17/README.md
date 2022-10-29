@@ -112,39 +112,11 @@
 
 *   [Server-side with Kotlin Series](https://www.youtube.com/playlist?list=PLlFc5cFwUnmx-dpq9nkdaVJX0GnrM1Mp1) - Learn how to use Kotlin for a variety of purposes such as Functional Programming, Image Detection, Building Microservices, Developing Backend, etc.
 
-### Libraries/Frameworks / Database
-
-*   [dizitart/nitrite-database (⭐695)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
-
 ### Android / Libraries
 
 *   [SnowdreamFramework/ToyBricks (⭐34)](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity.
 *   [rahulchowdhury/Mystique (⭐48)](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
 *   [costular/kotlin-android-utils (⭐51)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
-*   [TradeMe/MapMe (⭐847)](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
-*   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
-
-### Android / Projects
-
-*   [BanDev/Buddha-Quotes (⭐21)](https://github.com/BanDev/Buddha-Quotes) - A collaborative project to create a Free and Open Source Buddha Quotes app.
-*   [MakinGiants/todayhistory (⭐29)](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
-*   [RxKotlin/Pocket (⭐30)](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
-*   [SidneyXu/AndroidDemoIn4Languages (⭐197)](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
-*   [AllanWang/KAU (⭐202)](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
-*   [hanjoongcho/aaf-easydiary (⭐309)](https://github.com/hanjoongcho/aaf-easydiary) - This is a diary application optimized to user experience.
-*   [cuongpm/youtube-dl-android (⭐431)](https://github.com/cuongpm/youtube-dl-android) - Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites.
-*   [PatilShreyas/Foodium (⭐2.1k)](https://github.com/PatilShreyas/Foodium) - Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
-*   [android-password-store/Android-Password-Store (⭐2.1k)](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application.
-
-### Kotlin JavaScript / JavaScript
-
-*   [shafirov/klogging (⭐35)](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
-*   [danfma/kodando (⭐75)](https://github.com/danfma/kodando) - Kotlin JS bindings and libraries.
-*   [nosix/vue-kotlin (⭐183)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
-
-### Kotlin JavaScript / Game Development
-
-*   [perses-games/kudens (⭐30)](https://github.com/perses-games/kudens) - Develop browser games in Kotlin
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

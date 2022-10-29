@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2019
 
-17 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,19 +59,25 @@
 
 *   [Cortex (⭐7.8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Agency Tools
+
+*   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
+
+## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [LibreELEC](https://libreelec.tv/) - Just enough OS for Kodi
 
-## [10. Awesome Gideros](/content/stetso/awesome-gideros/README.md)
+## [11. Awesome Gideros](/content/stetso/awesome-gideros/README.md)
 
 ### Useful Lua-Libraries / Plugins
 
 *   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 
@@ -87,13 +93,27 @@
 
 
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
 *   [MakeHuman](http://www.makehumancommunity.org) - Powerful and free 3D human modeler. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
+
+> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
+
+![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 60-90m |
+
+## [15. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Energy
 
@@ -101,19 +121,19 @@
 
     The UK's biggest green supplier. They provide members with 100% renewable electricity from solar, wind and hydro. Plus, the gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste.
 
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Top / Game Engine resources
 
 *   [Timy Messenger (⭐1.8k)](https://github.com/janoodleFTW/timy-messenger) <!--stargazers:janoodleFTW/timy-messenger--> - Group messaging app with a focus on organizing events by [Miguel Beltran](https://github.com/miquelbeltran) and [Franz Heinfling](https://github.com/fheinfling)
 
-## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [17. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### System / Other
 
 *   [HackingLab](https://www.hacking-lab.com/)
 
-## [16. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [18. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Terminal Emulation Applications
 
@@ -123,7 +143,7 @@
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 
-## [17. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### How to Use
 

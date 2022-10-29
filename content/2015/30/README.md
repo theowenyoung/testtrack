@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27 - Aug 02, 2015
 
-24 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -115,19 +115,25 @@
 
 *   [glances (⭐22k)](https://github.com/nicolargo/glances) - Glances an Eye on your system
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### conversion
+
+*   [esri2open (⭐248)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Podcasts / Other
 
 *   [enaqx/awesome-react (⭐52k)](https://github.com/enaqx/awesome-react)
 
-## [12. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Distributed Computing and Programming
 
 *   [Spark Packages](http://spark-packages.org/) - A community index of packages for Apache Spark
 
-## [13. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [14. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Community
 
@@ -136,7 +142,7 @@
 *   [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
 *   [Google Group](https://groups.google.com/forum/#!forum/purescript)
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Animations
 
@@ -150,7 +156,7 @@
 
 *   [KAndroid (⭐893)](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 
-## [15. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [16. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -160,7 +166,8 @@
 
 *   [Australia & New Zealand](http://devanz.co)
 
-## [16. Tips](/content/git-tips/tips/week/README.md)
+## [17. Tips](/content/git-tips/tips/week/README.md)
+
 ## What changed since two weeks?
 
 ```sh
@@ -189,14 +196,36 @@ git branch -a --contains <commit-ish>
 git branch --contains <commit-ish>
 ```
 
-## [17. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [18. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Testing / Dojo 2
 
 *   [Intern User guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
 *   [Intern Yeoman page objects (⭐1)](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
 
-## [18. Typography](/content/deanhume/typography/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / A individuals
+
+*   Alan Storm <http://alanstorm.com/>
+
+### Individuals/Group Contributors / F individuals
+
+*   Fabrizio Branca <http://fbrnc.net/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jacopo Tarantino <https://jack.ofspades.com/>
+
+### Individuals/Group Contributors / K individuals
+
+*   Kevin Burke <https://kev.inburke.com/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nikolay Nemshilov <http://nikolay.rocks/>
+
+## [20. Typography](/content/deanhume/typography/week/README.md)
 
 ### Books
 
@@ -206,7 +235,7 @@ git branch --contains <commit-ish>
 
 *   [Sessions with Typography](http://www.sessions-with-typography.com)
 
-## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
@@ -328,7 +357,14 @@ git branch --contains <commit-ish>
 
 *   [ng-admin (⭐4k)](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 
-## [20. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [22. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Kyle Robinson Young (⭐1)](https://github.com/shama/ama) - Makes stuff and likes bears.
+*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐213)](https://github.com/nodejs/iojs.org).
+
+## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Simultaneous localization and mapping / Tracking/Odometry:
 
@@ -338,7 +374,7 @@ git branch --contains <commit-ish>
 
 *   [AI Shack](http://aishack.in/) - Utkarsh Sinha
 
-## [21. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [24. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### References
 
@@ -349,7 +385,17 @@ git branch --contains <commit-ish>
 *   [gamedev (⭐10k)](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
-## [22. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
+## [25. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** \[43:46]
+
+### Web Development
+
+*   [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** \[46:17]
+
+## [26. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
 
 ### Monitor Color Correction / Sony
 
@@ -363,13 +409,13 @@ git branch --contains <commit-ish>
 
 *   [Flickr Open Source Photography Group](https://www.flickr.com/groups/83823859@N00/)
 
-## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Testing
 
 *   [mocks.cr (⭐50)](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
 
-## [24. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Unofficial
 

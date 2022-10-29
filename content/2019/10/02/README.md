@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2019
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,7 +47,32 @@
 *   [Game of Life (⭐5)](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - Game of life.
 *   [Quote Machine (⭐1)](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - App that generates random quotes.
 
-## [5. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
+
+> Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.
+
+![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   4 - 8 |       12 |  30m |
+### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+
+> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
+
+In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.
+
+![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |       14 |  15m |
+
+## [6. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Energy
 
@@ -55,7 +80,7 @@
 
     Simplifying consumer adoption of clean energy by offering an array of affordable clean energy plans to homeowners that integrate with smart home technologies.
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -66,7 +91,7 @@
 
 *   [Pizza de Dados](https://pizzadedados.com/) - O Pizza de Dados é uma iniciativa que trás assuntos relacionados à ciência de dados de forma lúdica e descontraída.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -163,14 +188,14 @@
 
 
 
-## [8. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [9. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
 *   [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 *   [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 
-## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
@@ -180,14 +205,14 @@
 
 
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Search engine and framework
 
 *   [Facebook Faiss (⭐18k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
 *   [Annoy (⭐10k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 
-## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [12. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### IDE
 
@@ -197,32 +222,32 @@
 
 *   [Tink (⭐13k)](https://github.com/google/tink) - Provides a simple and misuse-proof API for common cryptographic tasks.
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-easy-content-loader ★57 (⭐192)](https://github.com/sarmad1995/react-native-easy-content-loader) - React-Native light weight skeleton content loading.
 *   [react-native-scrollview-header ★5 (⭐13)](https://github.com/weifxn/react-native-scrollview-header) - An animated ScrollView header that transitions from transparent background to opaque upon scrolling.
 
-## [13. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [14. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
 *   [Source (⭐553)](https://github.com/sourcejs/Source)
 
-## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [15. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Working with types
 
 *   [mypyc (⭐14k)](https://github.com/python/mypy/tree/master/mypyc) - Compiles mypy-annotated, statically typed Python modules into CPython C extensions.
 
-## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
 *   [nextjs-mongodb-app (⭐1.3k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
-## [16. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 

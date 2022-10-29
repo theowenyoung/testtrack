@@ -1,61 +1,67 @@
 # Awesome List Updates on Feb 15, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [1. Tools](/content/lvwzhen/tools/README.md)
+
+### API Debugging
+
+*   [RequestBin.com](https://requestbin.com/)
+
+## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / HR
 
 *   [Remoteteam.com](https://www.remoteteam.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
 *   [PcapPlusPlus (⭐2k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 
-## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Gentle Introduction to AutoML from H2O.ai](https://medium.com/analytics-vidhya/gentle-introduction-to-automl-from-h2o-ai-a42b393b4ba2) Sep 13, 2018
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Learning and Courses
 
 *   [RosarioSIS](https://www.rosariosis.org/) - RosarioSIS, free Student Information System for school management. ([Demo](https://www.rosariosis.org/demo/), [Source Code](https://gitlab.com/francoisjacquet/rosariosis/)) `GPL-2.0` `PHP`
 
-## [5. Awesome Food](/content/jzarca01/awesome-food/README.md)
+## [6. Awesome Food](/content/jzarca01/awesome-food/README.md)
 
 ### API for Food services
 
 *   [node-simplefeast (⭐0)](https://github.com/jzarca01/node-simplefeast) - An API Wrapper for the app Simple Feast.
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Testing
 
 *   [webdriver\_pump (⭐3)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐15)](https://github.com/bwilczek/watir_pump)
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)
     *   Can be run on boards like the [Blue pill](https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html), [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html) and similar boards
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Security / Scala
 
 *   [Identity Server (⭐8.9k)](https://github.com/IdentityServer/IdentityServer4) - OpenID Connect and OAuth 2.0 Framework for ASP.NET Core.
 
-## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
+## [10. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
 ### Protocols
 
@@ -70,7 +76,7 @@
     *   [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
     *   [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
@@ -80,7 +86,7 @@
 *   [tmux-online-status (⭐150)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
 *   [tmux-prefix-highlight (⭐437)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 
-## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Articles
 

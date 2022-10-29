@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2017
 
-17 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -722,7 +722,19 @@
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / T individuals
+
+*   Todd Motto <https://toddmotto.com/>
+
+## [15. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Competitions
+
+*   [VEX Robotics Competition](https://www.vexrobotics.com/)
+
+## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
@@ -732,13 +744,13 @@
 
 *   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐7)](https://github.com/ComputerScienceHouse/keycloak-docker)
 
-## [15. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
@@ -761,7 +773,7 @@
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
-## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

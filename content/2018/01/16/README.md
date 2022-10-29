@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -111,26 +111,33 @@
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 *   [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
-## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Courses
+
+*   [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
+*   [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx**
+
+## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Blogs / Image Deblurring
 
 *   [Computer Vision Basics with Python Keras and OpenCV (⭐416)](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
 *   [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
 *   [magnum (⭐4.2k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
-## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### E-Commerce / Provided by the Host
 

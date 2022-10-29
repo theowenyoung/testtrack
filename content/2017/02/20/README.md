@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2017
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,44 +24,53 @@
 
 *   [YAXLib (⭐0)](https://github.com/sinairv/YAXLib) - XML Serialization Library for the .NET Framework and .NET Core. Extremely flexible and powerful.
 
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
+*   [CacheP2P (⭐867)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+*   [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
+*   [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
+
+## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Games / Directory Navigation
 
 *   [nudoku (⭐256)](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
 *   [tty-solitaire (⭐229)](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
-## [5. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [6. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / Ruby Profile
 
 *   [ProductiveSnippetsRuby (⭐106)](https://github.com/janlelis/productive-sublime-snippets-ruby/) — consistent set of alternative snippets, focusing on core and stdlib ([Cheatsheet (⭐106)](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Maths / Web
 
 *   [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
-## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-tags-input (⭐8)](https://github.com/TGMorais/aurelia-tags-input) \* An aurelia tags input plugin
 
-## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### CLI
 
 *   [evil.sh (⭐2.1k)](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 
-## [9. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [10. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Books
 
 *   [TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/d/0544634497/) - by **Chris Anderson** (Houghton Mifflin Harcourt). Start to finish guide to giving powerful talks.
 
-## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Communication
 
@@ -104,13 +113,13 @@
 *   [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 *   [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 
-## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Blog posts
 
 *   [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) semantic segmentation and handling the TFRecord file format.
 
-## [12. Citizen Science](/content/dylanrees/citizen-science/README.md)
+## [13. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
@@ -130,7 +139,7 @@
 
 *   [Biodesign Challenge](http://biodesignchallenge.org/) - Student design competition that concentrates on envisioning the future application of biotechnology.
 
-## [13. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [14. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### C++ tools / Misc
 

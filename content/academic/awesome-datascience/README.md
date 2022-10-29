@@ -8,6 +8,12 @@
 
 
 
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### Datasets / Book Deals (Affiliated) 🛍
+
+*   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures

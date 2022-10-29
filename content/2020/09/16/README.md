@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2020
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,15 @@
 
 *   [Laravel Views (⭐493)](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 
-## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Emoji Launch - <https://emojilaunch.com/>
+*   Springwise - <https://www.springwise.com/spotted/>
+*   Web App Rater - <https://webapprater.com/submit-your-web-application-for-review-html>
+
+## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Courses
 
@@ -58,7 +66,7 @@
 *   [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 *   [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - Jun 7, 2020.
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Electronics and Mechanics / Version Control
 
@@ -69,13 +77,13 @@
 
 *   [Simd (⭐1.7k)](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Scheduling
 
 *   [Dagster (⭐5.7k)](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
 
-## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Design / Miscellaneous
 
@@ -89,19 +97,19 @@
 
 
 
-## [11. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
+## [12. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md)
 
 ### Third-party packages / Notable packages
 
 *   [php-stubs/wp-cli-stubs (⭐12)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Others
 
 *   [AdvancedBlazorSelect2 (⭐10)](https://github.com/KeudellCoding/Blazor.AdvancedBlazorSelect2) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.AdvancedBlazorSelect2?style=flat-square\&cacheSeconds=86400) Simple wrapper for Select2 with full support of databases and custom web APIs.
 
-## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Who to Follow
 
@@ -109,7 +117,13 @@
     *   [Youtube](https://www.youtube.com/channel/UCc3g-KhOBoicgOrB4KkMeew)
     *   [Website](https://dalasevrepair.fi/)
 
-## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [15. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Frameworks
+
+*   [next.js (⭐94k)](https://github.com/vercel/next.js) - The React Framework
+
+## [16. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Cryptography
 
@@ -153,14 +167,14 @@
 
 *   [micropy-stubs (⭐19)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 
-## [15. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [17. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Reference Documentation / eBPF Essentials
 
 *   [ebpf.io](https://ebpf.io/) - A gateway to discover all the basics of eBPF, including a listing of the main related projects and of community resources.
 *   [Cilium's BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - In-depth documentation about most features and aspects of eBPF.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

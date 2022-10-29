@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 17 - Dec 23, 2018
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -959,7 +959,13 @@
 
 *   [Dandelion (⭐25)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Frédéric Harper (⭐0)](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
+
+## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -970,7 +976,7 @@
 
 *   [Pure Mixpanel (⭐24)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
-## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Courses
 
@@ -989,19 +995,19 @@
 *   [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Advice and thoughts on how to get started by Eric Arnebäck.
 *   [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Deep dive into the importance of gamma.
 
-## [41. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [42. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / .NET
 
 *   [ASP.NET Core Interview Questions](https://www.talkingdotnet.com/asp-net-core-interview-questions/)
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Country Data
 
 *   [validates\_zipcode (⭐116)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
-## [43. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [44. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -1039,7 +1045,7 @@
 *   [Satis Server (⭐109)](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
 *   [Release Belt (⭐151)](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
 
-## [44. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [45. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Case Studies
 
@@ -1050,7 +1056,7 @@
 *   [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
 *   [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book by Cory Rylan, early preview edition available at Leanpub.
 
-## [45. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [46. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Self-Hosted Services
 
@@ -1064,7 +1070,7 @@
 
 *   [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 
-## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Deployment
 
@@ -1076,7 +1082,7 @@
     *   [messense/rust-musl-cross (⭐333)](https://github.com/messense/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![build badge](https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master)](https://travis-ci.org/messense/rust-musl-cross)
     *   [rust-lang-nursery/docker-rust (⭐306)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
-## [47. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [48. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -1112,13 +1118,13 @@
 
 *   [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [Gradle buildSrcVersions (⭐1.4k)](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
 
-## [49. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [50. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Miscellaneous / Server-Side Request Forgery
 

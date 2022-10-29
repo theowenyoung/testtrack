@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2015
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,7 +80,18 @@
 
 *   [peterkokot/awesome-jquery (⭐841)](https://github.com/peterkokot/awesome-jquery)
 
-## [10. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [10. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
+*   [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
+
+### Ask these organizations anything!
+
+*   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
+
+## [11. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Other Awesome Lists / Dojo 2
 

@@ -1,12 +1,13 @@
 # Awesome List Updates on Apr 22 - Apr 28, 2019
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@colcarroll](https://github.com/ColCarroll), [PyMC3 (⭐7.1k)](https://github.com/pymc-devs/pymc3)
     *   "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))
 
@@ -160,6 +161,7 @@
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
 
 ## [13. Tips](/content/git-tips/tips/week/README.md)
+
 ## Show changes over time for specific file
 
 ```sh
@@ -217,13 +219,19 @@ git commit -m "submodule updated"
 
 *   [awesome-desktop-js (⭐694)](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop.
 
-## [16. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [16. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### validation
+
+*   [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
+
+## [17. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Monitoring
 
 *   [Larametrics (⭐574)](https://github.com/aschmelyun/larametrics) - A self-hosted metrics and notifications platform for Laravel apps
 
-## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [18. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
@@ -233,31 +241,31 @@ git commit -m "submodule updated"
 
 *   [Collective CFP](https://sessionize.com/ddd-meetups) - Submit your talks to all the DDD user groups at once.
 
-## [18. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CSV / Third-party APIs
 
 *   [auto-text (⭐10)](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT](https://opensource.org/licenses/MIT). See also [inquisitor (⭐34)](https://github.com/t-sin/inquisitor) for detection of asian and far eastern languages.
 
-## [19. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [20. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates
 
 *   [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 
-## [20. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [21. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [StarData (⭐555)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
-## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Messaging / Scala
 
 *   [Eventuate](http://eventuate.io/) - A platform for developing asynchronous microservices solving the distributed data management problems.
 
-## [22. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [23. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Custom cartridges
 
@@ -276,19 +284,19 @@ git commit -m "submodule updated"
 
 *   [vectroid.gb](https://gitlab.com/BonsaiDen/vectroid.gb) - Developed with gbasm.
 
-## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Boilerplates / Other
 
 *   [angular-electron (⭐5.2k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
-## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
 *   [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
 
-## [25. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [26. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Navigation / Navigation Demos
 
@@ -302,7 +310,7 @@ git commit -m "submodule updated"
 
 *   [first-born ★106 (⭐273)](https://github.com/99xt/first-born) - A UI framework with pre-built components that render separately according to the underlying mobile platform.
 
-## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [27. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Extensions
 
@@ -312,13 +320,13 @@ git commit -m "submodule updated"
 
 *   [pg-utils (⭐665)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
-## [27. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [28. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Presentations
 
 *   [VueNYC - Learn Storybook](https://www.youtube.com/watch?v=XN398jfTwQI)
 
-## [28. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Job Portal
 
@@ -339,19 +347,19 @@ git commit -m "submodule updated"
 
 *   [Laravel + Nuxt.js boilerplate (⭐366)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
-## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Ticketing
 
 *   [Helpy](https://helpy.io) - Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email. ([Demo](https://demo.helpy.io), [Source Code (⭐2.2k)](https://github.com/helpyio/helpy)) `MIT` `Ruby`
 
-## [30. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab\_email (⭐51)](https://github.com/timkpaine/jupyterlab_email) - Email notebooks and their content from within JupyterLab.
 
-## [31. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [32. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Tutorials / Tools
 
@@ -366,7 +374,7 @@ git commit -m "submodule updated"
 
 *   [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
@@ -386,7 +394,7 @@ git commit -m "submodule updated"
 *   [CPPItertools (⭐1.2k)](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. \[BSD-2-Clause]
 *   [mio (⭐1.4k)](https://github.com/mandreyel/mio) - Cross-platform C++11 header-only library for memory mapped file IO. \[MIT]
 
-## [33. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [34. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Companion Screens
 
@@ -438,7 +446,7 @@ git commit -m "submodule updated"
 *   [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - Travel adaptor for the lighting industry, for interconnecting DMX-512, IP and USB.
 *   [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) - Cross-platform control of DMX or analogue lighting systems (heads, dimmers, etc.).
 
-## [34. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [35. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Project Management
 
@@ -458,13 +466,13 @@ git commit -m "submodule updated"
 *   [fsmviz (⭐49)](https://github.com/jebberjeb/fsmviz)
 *   [rhizome (⭐445)](https://github.com/ztellman/rhizome)
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [mardix/flask-cloudy :fire::fire: (⭐238)](https://github.com/mardix/flask-cloudy) - Flask extension.
 
-## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Environment Management
 
@@ -475,20 +483,20 @@ git commit -m "submodule updated"
 *   [Maestro (⭐119)](https://github.com/smashingboxes/maestro) - A Slack-Powered music bot for Spotify
 *   [Sonic Pi (⭐9.5k)](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [BentoML (⭐4.1k)](https://github.com/bentoml/bentoml): Toolkit for package and deploy machine learning models for serving in production
 *   [numpy-ML (⭐11k)](https://github.com/ddbourgin/numpy-ml): Reference implementations of ML models written in numpy
 
-## [38. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [39. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Reversing
 
 *   [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
 
-## [39. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
+## [40. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
 
 ### Nuxt, TypeScript + Docker   [↗](https://awesomestacks.dev/nuxt-type-script-docker) / Resources
 
@@ -527,13 +535,13 @@ git commit -m "submodule updated"
 
 *   [Slack](https://slack.com) - [🛠️](https://stackshare.io/slack) - Where work flows.
 
-## [40. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   (Incomplete) Sascha Willems's [samples port (⭐47)](https://github.com/jvm-graphics-labs/Vulkan) to Kotlin
 
-## [41. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [42. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Audio
 
@@ -586,7 +594,7 @@ git commit -m "submodule updated"
 *   [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
 *   [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 
-## [42. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [43. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -596,25 +604,25 @@ git commit -m "submodule updated"
 
 *   [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 
-## [43. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [44. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Videos
 
 *   [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
 
-## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Quick demo Videos
 
 *   [Keycloak with istio envoy jwt-auth proxy](https://www.youtube.com/watch?v=wscX7JMfuBI)
 
-## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [46. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [Next UserAgent (⭐301)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
-## [46. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [47. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 

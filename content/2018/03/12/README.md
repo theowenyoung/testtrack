@@ -1,18 +1,25 @@
 # Awesome List Updates on Mar 12, 2018
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [1. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Code
+
+*   [ripple-libpp (⭐20)](https://github.com/ripple/ripple-libpp): C++ Standalone RCL-compatible transaction signing and serialization library
+*   [ripple-rest (⭐83)](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+
+## [2. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Blogs / TikZ
 
 *   [texblog.org](https://texblog.org) - Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).
 
-## [2. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [3. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Clocks
 
@@ -32,7 +39,7 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Testing
 
@@ -42,7 +49,7 @@
 
 *   [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
@@ -52,19 +59,37 @@
 
 *   [rsmq (⭐1.6k)](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-cute-modal (⭐7)](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Poland 🇵🇱
+
+### Gdańsk
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kejt_bw" height="70px" width="70px" align="left" alt="" />
+
+**Kasia Jastrzębska**\
+Topics: React, Redux, Async, CSS in JS, ClojureScript\
+<https://twitter.com/kejt_bw>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thekitze" height="70px" width="70px" align="left" alt="" />
+
+**Kitze**\
+Topics: MobX, State Management, GraphQL, CSS in JS\
+<https://twitter.com/thekitze>
+
+## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -74,7 +99,7 @@
 
 *   [Infosec - CERT-PA lists](https://infosec.cert-pa.it/analyze/statistics.html) ([IPs](https://infosec.cert-pa.it/analyze/listip.txt) - [Domains](https://infosec.cert-pa.it/analyze/listdomains.txt) - [URLs](https://infosec.cert-pa.it/analyze/listurls.txt)) - Blocklist service.
 
-## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -163,19 +188,19 @@
 
 
 
-## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
 *   [elm-webpack-starter-kid (⭐5)](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
-## [10. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [12. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Lectures and educational courses / Post-quantum cryptography
 
 *   [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k) - Video course by Christof Paar (University of Bochum in Germany). In english.
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Decompiler / Server-Side Request Forgery
 
@@ -186,7 +211,7 @@
 *   [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing) - Written by [@jhaddix](https://twitter.com/jhaddix).
 *   [$7.5k Google services mix-up](https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up) - Written by [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
 
-## [12. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [14. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 

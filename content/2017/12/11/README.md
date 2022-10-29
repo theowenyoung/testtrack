@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,19 @@
 
 *   [Irked (⭐30)](https://github.com/GreenfieldTech/irked) - Annotations-based configuration for Vert.x 3 Web and controller framework.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Companies
+
+*   [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
+
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-modal-dialogs (⭐293)](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 
-## [5. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### SQL on Hadoop
 
@@ -67,7 +73,7 @@
 *   [DataWorks Summit](https://dataworkssummit.com/)
 *   [Spark Summit](https://databricks.com/sparkaisummit)
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / IoT SDK
 

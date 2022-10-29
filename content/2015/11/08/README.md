@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2015
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,35 @@
 
 *   [NGINX Conference 2015 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXdED9BR6GQ61A6d3fBzjpbn)
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Raymond Clanan (⭐0)](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [GMStepper (⭐913)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / J companies
+
+*   Jolly Good Code <https://jollygoodcode.github.io/>
+
+### Companies / W companies
+
+*   We Are Wizards <https://blog.wearewizards.io/>
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Embedded Systems
 
 *   [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Queues and Messaging
 
@@ -35,7 +51,7 @@
 
 *   [elastics (⭐100)](https://github.com/printercu/elastics-rb) - Simple ElasticSearch client with support for migrations and ActiveRecord integration.
 
-## [5. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [7. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Programming Languages / JavaScript
 

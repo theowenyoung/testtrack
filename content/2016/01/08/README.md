@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,13 +32,19 @@
 
 *   [Android HeartBeat Fixer (⭐58)](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Books
+
+*   [A gentle introduction to ROS](https://cse.sc.edu/\~jokane/agitr/agitr-letter.pdf)
+
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.8k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 
-## [5. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -48,7 +54,7 @@
 
 *   [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub.
 
-## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 

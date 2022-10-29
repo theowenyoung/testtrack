@@ -49,6 +49,7 @@
 *   [elmkit (⭐51)](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
 
 ## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Always rebase instead of merge on pull.
 
 ```sh

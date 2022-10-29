@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -126,19 +126,26 @@
 *   [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 *   [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
 
-## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Component Libraries
+
+*   [react-bootstrap (⭐21k)](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
+*   [reactstrap (⭐10k)](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+
+## [10. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Tables / Paid Books
 
 *   [jquery.table-shrinker (⭐29)](https://github.com/VagnerDomingues/jquery.table-shrinker) - make HTML Table responsive across all devices, the right way!
 
-## [10. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [11. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / PHP Videos
 
 *   [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - A talk outlining PHP's strengths by Keith Adams of Facebook.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### General
 
@@ -148,7 +155,7 @@
 
 *   [SpecFlow (⭐2k)](https://github.com/techtalk/SpecFlow) - Pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 
-## [12. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [13. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Components
 

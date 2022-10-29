@@ -1,18 +1,24 @@
 # Awesome List Updates on Jan 22, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** \[53:43]
+
+## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Optimization
 
 *   [Variational Methods for Computer Vision](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) - Daniel Cremers (Technische Universität München) ([lecture 18 missing from playlist](https://www.youtube.com/watch?v=GgcbVPNd3SI))
 
-## [2. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
+## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 
 ### GDC Talks / Table of Contents
 

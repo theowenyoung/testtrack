@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -118,13 +118,47 @@
 
 *   [CocoaTextField (⭐267)](https://github.com/edgar-zigis/CocoaTextField) - UITextField created according to the Material.IO guidelines of 2019.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Asia / Lebanon 🇱🇧
+
+### Jakarta
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fransallen" height="70px" width="70px" align="left" alt="" />
+
+**Frans Allen**\
+Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
+<https://twitter.com/fransallen>
+
+### Europe / Finland 🇫🇮
+
+### Copenhagen
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mafintosh" height="70px" width="70px" align="left" alt="" />
+
+**Mathias Buus**\
+Topics: Peer to Peer, Node.js\
+<https://twitter.com/mafintosh>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/enthusiasto" height="70px" width="70px" align="left" alt="" />
+
+**Olga Dmitricenko**\
+Topics: Virtual Reality, Web Image Processing\
+<https://twitter.com/enthusiasto>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tereza_sokol" height="70px" width="70px" align="left" alt="" />
+
+**Tereza Sokol**\
+Topics: Elm, Visualizations\
+<https://twitter.com/tereza_sokol>
+
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Polls and Events
 
 *   [JD Esurvey](https://www.jdsoft.com/jd-esurvey.html) - Open source enterprise survey web application. ([Source Code (⭐221)](https://github.com/JD-Software/JDeSurvey)) `AGPL-3.0` `Java`
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Framework Components
 

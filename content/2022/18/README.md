@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02 - May 08, 2022
 
-53 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -563,19 +563,32 @@
 
 *   [BottomSheet (⭐74)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
-## [40. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [transit\_service\_analyst (⭐1)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
+
+### Other multimodal data formats / Ruby
+
+*   [General Bikeshare Feed Specification (GBFS) (⭐642)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
+    *   [gbfs-validator (⭐10)](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
+    *   [gbfs R package (⭐0)](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
+    *   [GBFS Documentation Platform](https://gbfs.mobilitydata.org/) - Documentation platform for the General Bikeshare Feed Specification, maintaned by [MobilityData](https://mobilitydata.org/). View the GBFS specification, change proposals, policy guides, and technical tools.
+
+## [41. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Miscellaneous / React
 
 *   [schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Runs arbitrary queries matching a GraphQL schema to find server errors.
 
-## [41. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [42. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Dependency injection
 
 *   [darkleaf/di (⭐17)](https://github.com/darkleaf/di)
 
-## [42. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [43. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
@@ -641,7 +654,7 @@
 *   [List of Jupyter notebooks II (⭐1.4k)](https://github.com/jupyter-naas/awesome-notebooks)
 *   [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/) - JupyterHub distribution for 1-50 users on a single server; more lightweight than the Zero to JupyterHub setup.
 
-## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [44. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### C# / Angular
 
@@ -651,7 +664,7 @@
 
 *   [Daily Tech](https://dailytech.email). Daily Tech is a curated newsletter about technology, startups, product, and software engineering.
 
-## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [45. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -768,19 +781,19 @@
 
 *   [@XMRer](https://twitter.com/XMRer/status/1517387830020145152)
 
-## [45. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [46. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Ringsworn](https://www.dropbox.com/s/72tq31pxzqc7bx0/Ringsworn.pdf?dl=0) - Ironsworn rules grafted onto The One Ring dice mechanics
 
-## [46. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [47. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Misc libraries
 
 *   [SasLuca/zig-nanoid (⭐16)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
-## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -809,7 +822,7 @@
 *   [Kimai](https://www.kimai.org/) - Kimai is a free & open source timetracker. It tracks work time and prints out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code (⭐1.9k)](https://github.com/kevinpapst/kimai2/)) `MIT` `PHP`
 *   [TimeTagger](https://timetagger.app) - An open source time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code (⭐553)](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
 
-## [48. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [49. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -819,13 +832,13 @@
 
 *   [VSCodeDiff (⭐10)](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
 
-## [49. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [50. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration
 
 *   [Lite SDK (TypeScript) (⭐10)](https://github.com/jacoborus/directus-lite-sdk) - Query builder for the Directus API (Browser, Deno, Node.js). Bring your own fetch.
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -860,7 +873,7 @@
 
 *   [AstroNvim/AstroNvim (⭐5k)](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich Neovim config that is extensible and easy to use with a great set of plugins.
 
-## [51. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [52. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
@@ -871,7 +884,14 @@
 
 *   [Google HCLS Data Harmonization (⭐116)](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [53. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [turf (⭐7.4k)](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+*   [turf\_dart (⭐27)](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
+
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -905,7 +925,7 @@
 
 *   [Jor1k](https://s-macke.github.io/jor1k/demos/main.html) —  a OpenRISC virtual machine capable of running Linux with network support.
 
-## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [55. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Dual-Coding Theory
 

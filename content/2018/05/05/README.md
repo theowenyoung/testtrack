@@ -1,6 +1,6 @@
 # Awesome List Updates on May 05, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,25 @@
 
 *   [Riot](https://about.riot.im/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](https://github.com/vector-im/riot-web) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [NewNode (⭐374)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+
+## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / YouTube channels
 
 *   [May I ask a Question](https://www.youtube.com/channel/UCyErLHzPqLAkL1F-SivFDcA)
 
-## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [zigbee2mqtt (⭐8.6k)](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors (Xiaomi/TRADFRI/Hue) bridge/gateway.
 
-## [4. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [5. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -38,7 +44,7 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) – Big collection of small tutorials.
 
-## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Document
 
@@ -46,7 +52,7 @@
     *   [Siggraph 2016 - Best Practices for Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/2_2D00_mmg_2D00_siggraph2016_2D00_best_2D00_practice_2D00_andrew.pdf)
     *   [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) (for mobile)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 

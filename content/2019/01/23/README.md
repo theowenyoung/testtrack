@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 23, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,7 +103,13 @@
 
 *   [Apex Chainable Batch (⭐38)](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### editors & viewers
+
+*   [geojson.tools](http://geojson.tools/): web-based editor from HERE XYZ
+
+## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Business
 
@@ -126,7 +132,7 @@
 
 *   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Download Management Tools / File Sharing
 

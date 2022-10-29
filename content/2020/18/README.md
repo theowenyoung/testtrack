@@ -1,6 +1,6 @@
 # Awesome List Updates on May 04 - May 10, 2020
 
-69 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -833,14 +833,24 @@
 
 *   [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
 
-## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / F companies
+
+*   Facebook AI Research <https://engineering.fb.com/category/ai-research/>
+
+### Companies / S companies
+
+*   Swiggy <https://bytes.swiggy.com/>
+
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [@kouts/vue-modal (⭐94)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 *   [vue-dynamic-marquee (⭐115)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
-## [50. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [51. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -1016,7 +1026,7 @@
 
 *   [播客 × 万花筒](https://pod.wht.one/)
 
-## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -1030,13 +1040,13 @@
 
 *   [Finding a problem at the bottom of the Google stack](https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems)
 
-## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In French
 
 *   [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 
-## [53. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [54. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -1093,20 +1103,20 @@
 *   [Cargo cult data science](http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html) - “Data science is best viewed as a form of company culture, rather than a set of technologies. However, many firms will try to create that company culture by acquiring data-science technology, rather than working on their culture.”
 *   [Never Use Floats for Money](https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html) - “This is precisely the problem we have when trying to represent 10^-1, or 0.1 in binary. There is not an exact binary representation of 0.1 or 0.01.”
 
-## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Others
 
 *   [Blazor-Dom-Confetti (⭐16)](https://github.com/ctrl-alt-d/blazor-dom-confetti) - ![last commit](https://img.shields.io/github/last-commit/ctrl-alt-d/blazor-dom-confetti?style=flat-square\&cacheSeconds=86400) Celebrate success with dom 🎉confetti🎉 on Blazor projects. Two versions, dom-confetti wrapper and native blazor 100% JS free.
 *   [BlazorMonaco (⭐199)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐32k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
-## [55. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [56. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
 *   [es-file-traverse (⭐2)](https://github.com/brettz9/es-file-traverse) - Obtain a list of only those files which are in use based on imports and/or requires from an entry file or files; list passable to ESLint. Intended esp. for linting 3rd party dependencies.
 
-## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [57. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Environment
 
@@ -1164,7 +1174,7 @@
 
 
 
-## [57. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [58. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -1182,7 +1192,7 @@
     *   [MSR: Mining Software Repositories conference](https://www.msrconf.org/)
     *   [PROMISE: Predictive Models and Data Analytics in Software Engineering conference](http://promise.site.uottawa.ca/SERepository/)
 
-## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
@@ -1202,7 +1212,7 @@
 *   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
 *   [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
 
-## [59. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [60. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
@@ -1213,13 +1223,13 @@
 
 *   [AnyLint (⭐116)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 
-## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [Ignition Robotics](https://ignitionrobotics.org) -  Test control strategies in safety, and take advantage of simulation in continuous integration tests.
 
-## [61. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [62. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
@@ -1233,44 +1243,44 @@
 
 *   [Code Golf Stack Exchange](https://codegolf.stackexchange.com) - Golfing problems and answers.
 
-## [62. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [63. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6\&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
-## [63. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [64. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
 
-## [64. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [65. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
 *   [V (⭐1.4k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
-## [65. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [66. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Static Analysis / Security
 
 *   [Manage Your GitHub Actions Secrets With A Simple CLI (⭐39)](https://github.com/unfor19/githubsecrets)
 *   [SecretHub (⭐46)](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 
-## [66. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [67. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/The-VP-Engineering-Role.md)
 
-## [67. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [68. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
 
-## [68. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [69. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Introduction
 
@@ -1386,7 +1396,7 @@
 
 *   [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
-## [69. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [70. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Boilerplates
 

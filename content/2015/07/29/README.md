@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2015
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,6 +13,7 @@
 *   [MIRACL (⭐506)](https://github.com/CertiVox/MIRACL) - A Multiprecision Integer and Rational Arithmetic Cryptographic Library. \[AGPL]
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## Reword the previous commit message
 
 ```sh
@@ -79,11 +80,23 @@ git ls-files --others -i --exclude-standard
 *   [on Reddit](http://www.reddit.com/r/sketchapp)
 *   [SketchTalk](http://sketchtalk.io/), unofficial forum
 
-## [7. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
+
+## [8. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 
 ### terminal
 
 *   [vantage.js (⭐3.5k)](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
+
+## [9. Tools](/content/lvwzhen/tools/README.md)
+
+### CSS
+
+*   [sassme](http://sassme.arc90.com/)
 
 ---
 

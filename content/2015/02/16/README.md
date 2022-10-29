@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 16, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,22 @@
 
 *   [dijit-claro-stylus (⭐24)](https://github.com/kfranqueiro/dijit-claro-stylus) - A straight conversion of Dijit's Claro theme from LESS to Stylus.
 
-## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [3. Htaccess](/content/phanan/htaccess/README.md)
+
+### Miscellaneous / Disable Internet Explorer Compatibility View
+
+### Disable Internet Explorer Compatibility View
+
+Compatibility View in IE may affect how some websites are displayed. The following snippet should force IE to use the Edge Rendering Engine and disable the Compatibility View.
+
+```apacheconf
+<IfModule mod_headers.c>
+    BrowserMatch MSIE is-msie
+    Header set X-UA-Compatible IE=edge env=is-msie
+</IfModule>
+```
+
+## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Button
 

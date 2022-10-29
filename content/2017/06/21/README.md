@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -119,13 +119,19 @@
 *   [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
 *   [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Vendors
+
+*   [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
+
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
 
-## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tutorials
 

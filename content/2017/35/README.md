@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2017
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -338,7 +338,13 @@
 
 *   [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 
-## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [30. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Startup Benchmarks - <https://www.startupbenchmarks.com/>
+
+## [31. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
@@ -348,13 +354,13 @@
 
 *   [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
 *   [FluentDateTime (⭐584)](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
-## [32. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [33. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Support Causes You Care About
 
@@ -381,7 +387,7 @@
 
 *   [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
 
-## [33. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Official resources
 
@@ -391,13 +397,13 @@
 
 *   [Identification of LG TV models 2011-2017](http://en.tab-tv.com/?page_id=7111) - How to get screen size, matrix type, year of development, series and ohter parameters from LG TV model name.
 
-## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs\&t)
 
-## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Interactive / Other
 

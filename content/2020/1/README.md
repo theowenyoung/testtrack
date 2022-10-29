@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2020
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -277,19 +277,46 @@
 
 *   [Safe (⭐2.1k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
-## [29. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / C companies
+
+*   CloudBees <https://www.previous.cloudbees.com/blog>
+*   Criteo <https://medium.com/criteo-labs>
+
+### Companies / E companies
+
+*   Expedia <https://medium.com/expedia-group-tech>
+
+### Companies / H companies
+
+*   Hashnode <https://engineering.hashnode.com/>
+
+### Companies / M companies
+
+*   Mixmax <https://engineering.mixmax.com/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nic Raboy <https://www.thepolyglotdeveloper.com/blog/>
+
+### Products/Technologies / R technologies
+
+*   React <https://reactjs.org/blog/>
+
+## [30. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
 *   [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf) - A 149-page document outlining motives and rationale for NoSQL databases, and common concepts, techniques and patterns among these databases; last updated around 2011.
 
-## [30. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [31. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Related
 
 *   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
 
-## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -303,7 +330,7 @@
 
 *   [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
@@ -313,13 +340,13 @@
 
 *   [jose-simple (⭐54)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
-## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Courses / Others
 
 *   [Creating Blazor Components](https://www.pluralsight.com/courses/creating-blazor-components) - December, 2019 - Building a Blazor app is building components. This course is essential for gaining a good understanding of components. On Pluralsight.
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Login
 
@@ -330,7 +357,7 @@
 
 *   [Flutter London](https://flutterldn.dev/)
 
-## [35. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [36. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Wallet
 
@@ -347,37 +374,37 @@
 
 *   [Neutrino (⭐10)](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
 
-## [36. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [37. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Resume (⭐46)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
-## [37. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [38. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / IoT
 
 *   [Apache StreamPipes (⭐348)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Integration with Javascript
 
 *   [LiveWire (⭐17k)](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
 
-## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [40. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Online Playgrounds
 
 *   [deno.town](https://deno.town)
 
-## [40. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [41. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Filesystem
 
 *   [fs-extra (⭐8.7k)](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Prototype Pollution
 
@@ -396,7 +423,7 @@
 *   [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 *   [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 
-## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [43. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -415,7 +442,7 @@
 
 *   :strawberry: [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -430,13 +457,13 @@
 
 *   [CrSignals (⭐9)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [44. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [45. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [46. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Wasm
 
@@ -455,7 +482,7 @@
 *   [Seed (⭐3.5k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐335)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [47. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
@@ -465,7 +492,7 @@
 
 *   [FloatingButton (⭐665)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -495,7 +522,7 @@
 
 
 
-## [48. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [49. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Main
 

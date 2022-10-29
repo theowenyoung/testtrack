@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [static-bytes (⭐7)](https://github.com/xoac/static-bytes): Help work with buffers without dynamic allocation. Implement traits from bytes crate. [![crate.io](https://img.shields.io/crates/v/static-bytes.svg)](https://crates.io/crates/static-bytes)
 
-## [2. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [2. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Loop - <https://app.loopinput.com/>
+
+## [3. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Useful Links
 
@@ -38,20 +44,20 @@
 *   [Handling authorization in a Laravel and Inertia.js application](https://sebastiandedeyne.com/handling-authorization-in-a-laravel-and-inertia-application/)
 *   [Handling routes in a Laravel and Inertia.js application](https://sebastiandedeyne.com/handling-routes-in-a-laravel-inertia-application/)
 
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Image Processing
 
 *   [python-barcode (⭐400)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 
-## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [nbflow (⭐152)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 
-## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Case Studies
 
@@ -65,20 +71,20 @@
 
 *   [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
 
-## [6. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [7. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Website Analyzers
 
 *   [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 *   [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Miscellaneous
 
 *   [expyplot (⭐27)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
-## [8. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [9. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
 ### JavaScript / Sistemas Operativos
 
@@ -88,25 +94,25 @@
 
 *   [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 
-## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
 *   [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 
-## [10. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Nyxo ★12 (⭐232)](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 
-## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / APIs
 
 *   [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Geocoding
 

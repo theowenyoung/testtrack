@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2017
 
-44 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -203,7 +203,13 @@
 
 *   [grade (⭐42)](https://github.com/influxdata/grade) - Track Go benchmark performance over time by storing results in InfluxDB
 
-## [20. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [20. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [geo\_assigner (⭐2)](https://github.com/stadt-karlsruhe/geo_assigner): Copy a property to all intersecting features
+
+## [21. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Official Resources
 
@@ -226,26 +232,26 @@
 
 *   [Grafana Dashboards for inspectIT (⭐1)](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
 
-## [21. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [22. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Literature / Education
 
 *   [The Serverless Framework: Quick Start](http://codemore.teachable.com/p/serverless-framework-qs-node) - Video course which provides a quick start for the Serverless Framework.
 *   [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
 
-## [22. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [23. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Reset and Normalize / Editor's Draft :black_nib:
 
 *   [MiniReset.css (⭐2.6k)](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### 2017 / Book/monograph Lists and Reviews
 
 *   [awesome-rshiny (⭐674)](https://github.com/grabear/awesome-rshiny)
 
-## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -256,13 +262,75 @@
 *   [Server Authentication with JWT (⭐104)](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 *   [Cookie handler with server render (⭐15)](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 
-## [25. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [26. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / A companies
+
+*   Allegro.tech <https://allegro.tech>
+
+### Companies / B companies
+
+*   Benchling <https://benchling.engineering/>
+
+### Companies / C companies
+
+*   Codemancers <https://crypt.codemancers.com/>
+
+### Companies / H companies
+
+*   Haptik <https://haptik.ai/tech/>
+
+### Companies / I companies
+
+*   Imgur <https://blog.imgur.com/category/eng/>
+
+### Companies / J companies
+
+*   Jobandtalent <https://jobandtalent.engineering/>
+
+### Companies / N companies
+
+*   Nordic APIs <https://nordicapis.com/blog/>
+
+### Companies / S companies
+
+*   Scrapinghub <https://blog.scrapinghub.com/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Andrew Ray <https://blog.andrewray.me/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Dragan Djuric <http://dragan.rocks>
+
+### Individuals/Group Contributors / J individuals
+
+*   Joe Armstrong <https://joearms.github.io/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Michael Crump <https://michaelcrump.net/>
+
+### Individuals/Group Contributors / O individuals
+
+*   Ofer Zelig <https://fullstack.info>
+
+### Individuals/Group Contributors / R individuals
+
+*   Radim Řehůřek <https://radimrehurek.com/blog/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Srinivas Tamada <https://www.9lessons.info/>
+
+## [27. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Wallaroo](http://www.wallaroolabs.com/community) - The ultrafast and elastic data processing engine. Big or fast data - no fuss, no Java needed.
 
-## [26. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [28. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Maps and Visualizations / Particles
 
@@ -273,7 +341,7 @@
 *   [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 *   [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 
-## [27. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -284,13 +352,13 @@
 
 *   [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 
-## [28. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Unsupervised Object Counting (⭐82)](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 
-## [29. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [31. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -301,7 +369,7 @@
 *   South America
     *   Brazil - [packagist.com.br](https://packagist.com.br)
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
@@ -311,7 +379,7 @@
 
 *   [log4net (⭐684)](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Git Tools
 
@@ -325,7 +393,7 @@
 
 *   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
-## [32. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [34. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Infrastructure
 
@@ -335,31 +403,31 @@
 
 *   [Unirgy](http://www.unirgy.com/)
 
-## [33. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [35. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Dashboard
 
 *   [PhalconTime (⭐6)](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
-## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Web project skeletons and generators
 
 *   [find-port (⭐17)](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT](https://opensource.org/licenses/MIT).
 
-## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [VueGL (⭐581)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
-## [36. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [38. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / CLI
 
 *   [png-to-ico (⭐127)](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 
-## [37. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [39. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Linters
 
@@ -370,7 +438,7 @@
 *   [how-to-markdown (⭐196)](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
 *   [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
 
-## [38. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [40. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### GNOME Communities / Skeumorphic Icons
 
@@ -382,7 +450,7 @@
 *   [`@gnome` on Twitter](https://twitter.com/gnome)
 *   [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 
-## [39. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [41. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### What is Data Science?
 
@@ -421,7 +489,7 @@
 *   [Titanic Challenge](https://www.kaggle.com/c/titanic) - Predict survival on the Titanic.
 *   [Water Pump Challenge](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) - Predict the operating condition of water pumps in Africa.
 
-## [40. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [42. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Community / Transactions
 
@@ -431,7 +499,7 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
-## [41. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -441,19 +509,19 @@
 
 *   [TablePrint (⭐844)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
-## [42. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
-## [43. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [45. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 
-## [44. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [46. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 

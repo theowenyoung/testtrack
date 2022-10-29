@@ -85,6 +85,7 @@
 *   [Genymotion](https://www.genymotion.com)
 
 ## [9. Tips](/content/git-tips/tips/README.md)
+
 ## Show the author, time and last revision made to each line of a given file
 
 ```sh

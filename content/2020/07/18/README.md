@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,23 @@
 
 *   [Apache Pulsar (⭐12k)](https://github.com/apache/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 
-## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [3. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Data Management
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/data_engineering.webp">
+
+[**Data Engineering**](https://discord.com/invite/2pER6dq) \
+Notable Channels: `#general`, `#show`, `#help`, `#career`, `#data-science` `#resources`, `#architecture`, `#cloud`, `#databases`, `#etl-workflow` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/grakn_labs.webp">
+
+[**Grakn**](https://discord.com/invite/grakn) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://grakn.ai/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/graknlabs) \
+Notable Channels: `#general`, `#graql`, `#grakn`, `#grabl`, `#build`, `#buildbuddy`, `#troubleshoot`, `#workbase`, `#biograkn`, `#kglib`, `#nlp`, `#ideas`, `#events` \
+Language: English
+
+## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -64,13 +80,13 @@
 
 *   [Wi-Fi Privacy Police (⭐151)](https://github.com/BramBonne/privacypolice) - Prevent smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [terraformer (⭐8.8k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
@@ -84,13 +100,13 @@
 
 *   [Elements (⭐2.4k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / NXP
 
 *   [`lpc845-pac`](https://crates.io/crates/lpc845-pac) - ![crates.io](https://img.shields.io/crates/v/lpc845-pac.svg)
 
-## [7. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
+## [8. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
 ### Datasets / Chemical Perturbations
 
@@ -112,13 +128,13 @@
 *   [Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images](https://doi.org/10.1002/cyto.a.23863) - Comparing several deep learning methods for nuclear segmentation.
 *   [Automating Morphological Profiling with Generic Deep Convolutional Networks](https://doi.org/10.1101/085118) - Transfer of activation features of generic CNNs to extract features for image-based profiling.
 
-## [8. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
+## [9. Awesome Qsharp](/content/ebraminio/awesome-qsharp/README.md)
 
 ### Blogs / Participants' solutions
 
 *   [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
@@ -126,19 +142,19 @@
 *   [phoenix-liveview-counter-tutorial (⭐227)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
 *   [phoenix-todo-list-tutorial (⭐107)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### HTTP Servers / Hunchentoot plugins
 
 *   [hunchentoot-errors (⭐6)](https://github.com/mmontone/hunchentoot-errors) - Augments Hunchentoot error pages and logs with request and session information. [MIT](https://opensource.org/licenses/MIT).
 
-## [11. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [12. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Browser Features
 
 *   [raf (⭐734)](https://github.com/chrisdickinson/raf) - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
-## [12. Awesome R](/content/qinwf/awesome-R/README.md)
+## [13. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Machine Learning
 

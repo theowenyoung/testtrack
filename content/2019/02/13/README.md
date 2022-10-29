@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,7 +116,19 @@
 *   [Showcase View (⭐18)](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - *Xamarin.Android* Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 *   [Animated Circle Loading View (⭐7)](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Poland 🇵🇱
+
+### Oslo
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/antonbabenko" height="70px" width="70px" align="left" alt="" />
+
+**Anton Babenko**\
+Topics: Terraform, AWS, Devops\
+<https://twitter.com/antonbabenko>
+
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Communication / Collaboration and Team Tools
 

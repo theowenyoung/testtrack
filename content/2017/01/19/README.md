@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -133,7 +133,13 @@
 
 *   [Fun with WebGL 2.0](https://www.youtube.com/playlist?list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - Video tutorial series on getting started with WebGL 2, still actively adding videos.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Travis Northcutt (⭐0)](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
+
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Trading
 
@@ -143,7 +149,7 @@
 
 *   [ASP.NET Core Library and Framework Support (⭐200)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Other Awesome Projects
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06 - Jul 12, 2020
 
-61 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -286,7 +286,17 @@
 
 *   [Docs](https://docs.rs/rusoto_core/)
 
-## [15. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [15. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+
+### V
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_v_language_and_apps.webp">
+
+[**The V Language & Apps**](https://discord.com/invite/vlang) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vlang.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vlang) \
+Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#ideas-and-suggestions`, `#documentation`, `#js-backend`, `#x64-backend`, `#v-ui`, `#volt`, `#gitly`, `#vid`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한국어, português, polski, русский, tiếng-việt, italiano
+
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
@@ -295,7 +305,7 @@
 *   [ow (⭐3.6k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
 *   [superstruct (⭐6.2k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
-## [16. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [17. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Packages
 
@@ -333,7 +343,7 @@
 
 *   [Is web monetized (⭐4)](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
-## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [18. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Back-End Development
 
@@ -343,32 +353,32 @@
 
 *   [DevSecOps (⭐745)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
-## [18. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [19. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [rocket-pipes (⭐18)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 
-## [19. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [20. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Serverless Architecture
 
 *   [serverless-reference-architectures](https://www.jeremydaly.com/serverless-reference-architectures//) - serverless microservice patterns with deployment scripts.
 
-## [20. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [21. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Roboception GmbH](https://roboception.com/en/) - Real-Time Perception for Your Robot.
 
-## [21. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [22. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [css.gg (⭐8.7k)](https://github.com/astrit/css.gg#readme) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
 *   [Heroicons (⭐17k)](https://github.com/refactoringui/heroicons#readme) - A set of free high-quality SVG icons for you to use in your web projects. ([Website](https://heroicons.dev))
 
-## [22. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [23. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -406,7 +416,7 @@
 
 *   [HEADLINER](https://headliner.app/) <sup>[698](https://t.me/s/aboutrss/698)</sup>
 
-## [23. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [24. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Players / MPEG
 
@@ -416,19 +426,19 @@
 
 *   [Community events of the VideoLAN non-profit organization](https://www.videolan.org/videolan/events)  - VideoLAN events
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / General Tools
 
 *   [Ultra TabSaver (⭐223)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
-## [25. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Signal processing / Stochastic processes
 
 *   [Think DSP](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey
 
-## [26. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [27. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Using WSL / Other WSL Uses
 
@@ -438,13 +448,13 @@
 
 *   [Terminator](https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156) - Feature-rich tabbed terminal. Requires X server.
 
-## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [28. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Other / unknown licence
 
 *   [cubit (⭐69)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
-## [28. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [29. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Filesystem
 
@@ -464,7 +474,7 @@
 
 *   [Don't expose the Docker socket (not even to a container)](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container/)
 
-## [29. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
@@ -474,14 +484,14 @@
 
 *   [framer-motion (⭐16k)](https://github.com/framer/motion) - An animation and gesture library.
 
-## [30. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [Drago](https://seashell.github.io/drago) - Flexible configuration manager for Wireguard networks that is perfect for establishing secure overlays spanning multiple Raspberry Pis.
 *   [PiVPN](https://pivpn.io) - Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command.
 
-## [31. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -491,7 +501,7 @@
 
 *   [AuthPass (⭐1.4k)](https://github.com/authpass/authpass) <!--stargazers:authpass/authpass--> - Keepass compatible password manager for mobile and desktop by [hpoul](https://github.com/hpoul)
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
@@ -510,7 +520,7 @@
 
 *   [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
 
-## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity / Directory Navigation
 
@@ -525,19 +535,19 @@
 *   [lazy-cd (⭐20)](https://github.com/pedramamini/lazy-cd) - Simple bash commands for bookmarked navigation of the file system, complete with bash-completion.
 *   [up (⭐143)](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
 
-## [34. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [35. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
 *   [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 
-## [35. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [36. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Tools
 
 *   [webextension-manifest-loader (⭐7)](https://github.com/jsmnbom/webextension-manifest-loader) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
 
-## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [37. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ODMs
 
@@ -589,38 +599,44 @@
 *   [redis-streams-fastapi-chat (⭐130)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 *   [TermPair (⭐1.5k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
-## [37. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [38. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Open Source Projects
+
+*   [Ionic 5 Social Network Starter (⭐160)](https://github.com/thenaim/ion-tk-social-network) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+
+## [39. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Books
 
 *   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 
-## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Interviewing
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
 
-## [39. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Twitter
 
 *   [Nations24](https://nations24.com)
 
-## [40. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [42. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Other / Online IDEs with V
 
 *   [V Playground](https://v-wasm.now.sh/)
 
-## [41. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [43. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Articles
 
 *   [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) - The benefits ChatOps offers in managing a virtual war room.
 *   [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) - Creating a virtual war room, step by step.
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### CLOS extensions
 
@@ -630,7 +646,7 @@
 
 *   [Geany-lisp (⭐8)](https://github.com/jasom/geany-lisp) is an experimental lisp mode for the [Geany](https://geany.org/) editor.
 
-## [43. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [45. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -640,7 +656,7 @@
     *   [Vimeo channel :red\_circle:](https://vimeo.com/luminartech)
     *   [GitHub organization :octocat:](https://github.com/luminartech)
 
-## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [46. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
@@ -650,26 +666,26 @@
 
 *   [eShopOnWeb (⭐8.1k)](https://github.com/dotnet-architecture/eShopOnWeb) - Full ASP.NET Core 3.1 reference application from Microsoft showing monolithic deployment architecture
 
-## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Science and Data analysis
 
 *   [alea (⭐11)](https://github.com/nin93/alea) - Repeatable sampling, CDF and other utilities to work with probability distributions
 
-## [46. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [48. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Misc / Official resources
 
 *   [LIRC](http://lirc.org) - A package that allows you to decode and send infra-red signals of many (but not all) commonly used remote controls.
 *   [awesome-smarttv (⭐115)](https://github.com/linuxenko/awesome-smarttv) - Another list of Smart TV resources. Discovered after this one was already done :roll\_eyes:.
 
-## [47. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [49. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -791,7 +807,7 @@
 
 *   [Cookiecutter-Django-Vue (⭐546)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
-## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [51. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -802,7 +818,7 @@
 
 *   [next-auth (⭐12k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
-## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [52. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -817,7 +833,7 @@
 
 *   [keycloak-config-cli: Configuration as Code for Keycloak (⭐414)](https://github.com/adorsys/keycloak-config-cli)
 
-## [51. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Mock / Barcode
 
@@ -835,7 +851,7 @@
 
 *   [Atributika (⭐1.1k)](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 
-## [52. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [54. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -845,19 +861,19 @@
 
 *   [react-native-360-image-viewer ★100 (⭐41)](https://github.com/phuochau/react-native-360-image-viewer) - The component helps to simulate 360 degrees image from multiple images.
 
-## [53. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [55. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 
-## [54. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [56. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Jagnik (⭐33)](https://github.com/bipin000/jagnik) - Simple elegant Photo Text Editing tool  in flutter by [Bipin Chandra Tripathi](https://github.com/bipin000)
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [57. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Authentication
 
@@ -890,7 +906,7 @@
 
 *   [DevOps and Docker Support for .NET Core Blazor Applications](https://www.udemy.com/course/devops-and-docker-support-for-net-core-blazor/?ranMID=39197\&ranEAID=w6JuN00t%2Fzo\&ranSiteID=w6JuN00t_zo-Kv09UYco3AqwmZkipiMIXw\&utm_source=aff-campaign\&LSNPUBID=w6JuN00t%2Fzo\&utm_medium=udemyads) - June 2020 - DevOps and Docker Support for .NET Core Blazor Applications, on Udemy. This Docker Support Course with DevOps concepts using ASP.NET Core Blazor will teach you Dockerisation of Blazor Apps.
 
-## [56. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [58. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -900,13 +916,13 @@
 
 *   [Wagtail Simple Captcha (⭐1)](https://github.com/acarasimon96/wagtail-django-simple-captcha) - A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha (⭐1.3k)](https://github.com/mbi/django-simple-captcha) field into the Wagtail form builder.
 
-## [57. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [59. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### VPN / Metric & Metric Collection
 
 *   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
-## [58. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [60. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Commandline Productivity
 
@@ -973,7 +989,7 @@
 *   [PoshBot (⭐492)](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework.
 *   [PoShKeePass (⭐216)](https://github.com/PSKeePass/PoShKeePass) - Module for working with [KeePass](https://keepass.info) databases.
 
-## [59. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Architecture and Design
 
@@ -991,7 +1007,7 @@
 
 *   [global\_racetrajectory\_optimization (⭐244)](https://github.com/TUMFTM/global_racetrajectory_optimization) - This repository contains multiple approaches for generating global racetrajectories.
 
-## [60. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [62. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Component Libraries
 
@@ -1001,7 +1017,7 @@
 
 *   [Shadow DOM: off the beaten track](https://docs.google.com/presentation/d/1wi74YiTLtLSfgjyccKm5LxYp9k8aeJda0AekWV5mqJI/edit?usp=sharing) by [@serhiikulykov](https://twitter.com/serhiikulykov)
 
-## [61. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [63. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 

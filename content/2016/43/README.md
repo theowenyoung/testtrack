@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2016
 
-48 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -211,13 +211,19 @@
 
 *   [Finder New item (⭐28)](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Functional Programming
+
+*   [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** \[42:17]
+
+## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### PDF
 
 *   [HexaPDF (⭐1k)](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -231,13 +237,13 @@
 
 *   [clappr (⭐6k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
-## [21. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -255,25 +261,25 @@
 
 *   [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 
-## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Pirated software download site blacklist / Package Managers
 
 *   AppKed：~~`http://www.macbed.com`~~
 
-## [24. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Monitoring & Observability & Alerting
 
 *   [Observability at Uber Engineering: Past, Present, Future](https://www.youtube.com/watch?v=2JAnmzVwgP8)
 
-## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [26. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [P8Coder (⭐88)](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
-## [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -285,19 +291,19 @@
 *   [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
 *   [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
 
-## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [28. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [rest-assured (⭐6.1k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
 
-## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Tutorials
 
 *   [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) - Appium Tutorial for Complete Beginners.
 
-## [29. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [30. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
@@ -336,7 +342,7 @@
 *   [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
 *   [SPOJ](http://www.spoj.com/) - More problems.
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
@@ -346,7 +352,25 @@
 
 *   [Vc (⭐1.2k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / C companies
+
+*   Crowdfire <https://crowdfire.engineering/>
+
+### Companies / H companies
+
+*   Haus <https://engineering.haus.com>
+
+### Companies / S companies
+
+*   SourceClear <https://blog.sourceclear.com/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Evan Jones <http://www.evanjones.ca/chronological.html>
+
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Email
 
@@ -391,7 +415,7 @@
 *   [atom-elixir (⭐413)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
-## [32. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
@@ -418,7 +442,7 @@
 *   [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 *   [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
@@ -437,7 +461,7 @@
 
 *   [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 
-## [34. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [36. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -456,13 +480,13 @@
 
 *
 
-## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Job Portal
 
 *   [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 
-## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [38. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Data
 
@@ -476,7 +500,7 @@
 
 *   [Open Guide to AWS :fire::fire::fire::fire::fire: (⭐33k)](https://github.com/open-guides/og-aws)
 
-## [37. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [39. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### TV Shows
 
@@ -486,7 +510,7 @@
 *   [Rick and Morty (Adult Swim)](http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty\&embed=episodes)
 *   [Westworld (HBO)](http://api.tvmaze.com/singlesearch/shows?q=westworld\&embed=episodes)
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -502,7 +526,7 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 
 ![](http://www.speedtest.net/result/5736595558.png)
 
-## [39. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Maps
 
@@ -525,19 +549,19 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 
 *   [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
 
-## [40. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [42. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Resources
 
 *   :computer: [Your first choo app](https://yoshuawuyts.gitbooks.io/choo/content/02_your_first_app.html)
 
-## [41. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [43. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Clubs/Organizations
 
 *   [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
-## [42. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -556,7 +580,7 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 
 *   [RNNs In TensorFlow, A Practical Guide And Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Step-by-step guide with full code examples on GitHub.
 
-## [43. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [45. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
@@ -583,14 +607,15 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 
 *   [SANS Internet Storm Center](https://isc.sans.edu/) - the ISC run a regular podcast going into the latest vulnerabilities and security news.
 
-## [44. Tips](/content/git-tips/tips/week/README.md)
+## [46. Tips](/content/git-tips/tips/week/README.md)
+
 ## Add everything, but whitespace changes
 
 ```sh
 git diff --ignore-all-space | git apply --cached
 ```
 
-## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [47. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
@@ -618,7 +643,7 @@ git diff --ignore-all-space | git apply --cached
 *   [411 (⭐968)](https://github.com/etsy/411) - an web application for alert management resulting from scheduled searches into Elasticsearch.
 *   [Atlas (⭐3.1k)](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
 
-## [46. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [48. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Language Support
 
@@ -631,7 +656,7 @@ git diff --ignore-all-space | git apply --cached
 *   [Scala Todo-Backend implementation (⭐1)](https://github.com/aesteve/vertx-scala-todomvc) - Scala implementation of the Todo MVC backend.
 *   [Grooveex Todo-Backend implementation (⭐1)](https://github.com/aesteve/todo-backend-grooveex) - Todo MVC backend implementation with Vert.x + Groovy + some syntactic sugar + DSL routing facilities.
 
-## [47. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [49. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Helpers / Tools
 
@@ -646,7 +671,7 @@ git diff --ignore-all-space | git apply --cached
 *   [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
 *   [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [50. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Maps / ORM
 

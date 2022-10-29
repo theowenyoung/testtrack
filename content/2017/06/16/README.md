@@ -1,18 +1,24 @@
 # Awesome List Updates on Jun 16, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Web Apps (open source)
+
+*   [Google I/O Transport Tracker (⭐547)](https://github.com/googlemaps/transport-tracker) - Shows shuttle arrival times for Google I/O conference, based on the open-source [transport-tracker project (⭐547)](https://github.com/googlemaps/transport-tracker).  Note: To implement this yourself, you need a [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
+
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [EmbedIO (⭐1.3k)](https://github.com/unosquare/embedio) - A tiny, cross-platform, module based web server for .NET Framework and .NET Core.
 
-## [2. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Community Resources / Blogs and Scholarship
 
@@ -22,7 +28,7 @@
 
 *   [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 
-## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Codecs
 
@@ -59,7 +65,7 @@
 
 *   [UPipe (⭐0)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 
-## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [5. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / Game Frameworks
 
@@ -132,13 +138,13 @@
 
 *   [WinDebug](http://www.henke37.cjb.net/windebug/) - Windows ANE to control applications, windows, memory, breakpoints, metadata, registry, etc.
 
-## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Development
 
 *   [Lumo (⭐1.9k)](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 
-## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Database Clients
 

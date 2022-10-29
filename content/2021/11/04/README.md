@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -171,7 +171,13 @@
 
 *   [w4/chartered (⭐117)](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
-## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** \[54:20]
+
+## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Testing Tools
 
@@ -181,19 +187,25 @@
 
 *   [TestCafe globals (⭐15)](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Preconfigured Configuration / Diagnostics
 
 *   [shaeinst/roshnivim (⭐113)](https://github.com/shaeinst/roshnivim) - Roshnivim, can be called neovim's distro, is a predefined configs so that you don't need 1000hr to setup neovim as an IDE.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Component Libraries
+
+*   [radix (⭐6.4k)](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
+
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [PrefectCloud](https://www.prefect.io/cloud/) — A complete platform for dataflow automation. All plans include 20,000 free runs every month. That's enough to power ETL for most small businesses.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
@@ -209,7 +221,8 @@
 
 
 
-## [11. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [13. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+
 - : [Semi Design](https://semi.design/en-US)
 
   Components: 👍

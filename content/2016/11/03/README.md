@@ -1,42 +1,48 @@
 # Awesome List Updates on Nov 03, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [1. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Tools
+
+*   [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
+
+## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [The Irreproducibility Of Bugs In Large-Scale Production Systems](http://www.susanjfowler.com/blog/2016/11/2/the-irreproducibility-of-bugs-in-large-scale-production-systems)
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Instrumenting / Monitoring
 
 *   [newrelic.ex (⭐62)](https://github.com/romul/newrelic.ex) - Collects metrics from your Elixir/Phoenix application and sends them to [NewRelic](https://newrelic.com/).
 
-## [3. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### System
 
 *   [SSH (⭐96)](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 
-## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [5. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Blog Posts & Articles
 
 *   [This Blog Post Was Written Using Draft.js](https://dev.to/ben/this-blog-post-was-written-using-draftjs)
 
-## [5. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [6. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Guides / General screencasts
 
 *   [Switch to Sketch](https://www.switchtosketchapp.com/)
 
-## [6. Awesome Browserify](/content/browserify/awesome-browserify/README.md)
+## [7. Awesome Browserify](/content/browserify/awesome-browserify/README.md)
 
 ### Tutorials
 
@@ -64,25 +70,25 @@
 
 *   [crypto-browserify (⭐579)](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Gesture
 
 *   [SwipyCell (⭐247)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
-## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 
 *   \[Useful Appium Series] (<http://bitbar.com/tag/appium/>) - Appium Tip Series
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 
-## [10. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [11. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Videos
 
@@ -92,7 +98,7 @@
 
 *   [ChatOps with Jason Hand](http://softwareengineeringdaily.com/2016/11/02/chatops-with-jason-hand/) - An episode about ChatOps in general.
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
@@ -111,7 +117,7 @@
 
 *   [menubar (⭐6.3k)](https://github.com/maxogden/menubar) - Menubar app framework.
 
-## [12. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [13. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 

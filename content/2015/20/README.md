@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18 - May 24, 2015
 
-19 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -315,7 +315,13 @@
 
 **websec.io** is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information
 
-## [15. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [15. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### Other
+
+*   [MaterialUp](http://www.materialup.com/) — Get your daily dose of Material design inspiration!
+
+## [16. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -413,7 +419,7 @@
     creating the list;
 *   And everyone else who has sent pull requests or suggested links to add here!
 
-## [16. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 
@@ -480,7 +486,7 @@
 *   Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
 *   Philip Walton [@philwalton](https://twitter.com/philwalton)
 
-## [17. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
+## [18. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
 
 ### Workshoppers
 
@@ -490,14 +496,14 @@
 
 
 
-## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [19. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Weird
 
 *   [superheroes (⭐225)](https://github.com/sindresorhus/superheroes) - Get superhero names.
 *   [supervillains (⭐112)](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 
-## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 

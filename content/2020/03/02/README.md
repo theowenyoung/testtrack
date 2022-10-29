@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 02, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,17 @@
 
 *   [Companies using Elm (⭐403)](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
-## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [DataFormsJS JSX Loader (⭐151)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page
+
+### React Tools / React Awesome Components
+
+*   [react-parallax-tilt (⭐553)](https://github.com/mkosir/react-parallax-tilt) - Easily apply tilt hover effect on React components
+
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2018
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,25 +61,38 @@
 
 *   HyphaROS ROS 2.0 Introduction [slides](https://drive.google.com/file/d/1MW_w7MS1DNg1EzhprgbJKY2cqmxksPaw/view)
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [6. Htaccess](/content/phanan/htaccess/README.md)
+
+### Security / Exclude URL from Redirection
+
+### Exclude URL from Redirection
+
+This snippet allows you to exclude a URL from redirection.  For example, if you have redirection rules setup but want to exclude robots.txt so search engines can access that URL as expected.
+
+```apacheconf
+RewriteEngine On
+RewriteRule ^robots.txt - [L]
+```
+
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tools/Utilities
 
 *   [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
-## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Training Courses
 
 *   [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/) - Use DDD to decompose a problem domain into manageable parts. Learn how those parts can become the foundation of Reactive Microservices and Reactive Architecture. Free, online, self-paced. Certificate offered upon completion.
 
-## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [9. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### 3D Animation and Modeling Software
 
 *   [Autodesk Software](https://www.autodesk.com/education/free-software/featured) \[FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
-## [9. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [10. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
@@ -109,13 +122,27 @@
 *   [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 *   [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Data validation / Third-party APIs
 
 *   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_\(board_game\))
+
+> Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
+
+![Carcassonne game image](https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc\(\)/pic2337577.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 30-90m |
+
+## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
@@ -126,7 +153,7 @@
 
 *   [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
-## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [14. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Screencasting
 

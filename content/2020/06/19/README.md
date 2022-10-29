@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -169,7 +169,33 @@
 *   [DOS File Path Magic Tricks](https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa) - Written by [@clr2of8](https://medium.com/@clr2of8).
 *   [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) - Written by [@cj.fairhead](https://medium.com/@cj.fairhead).
 
-## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [13. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### C and C++
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/include.webp">
+
+[**#include**](https://www.includecpp.org/discord/#getting-started-with-discord) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.includecpp.org/) \
+Notable Channels: `#assembly`, `#c-language`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/c_plus_plus_help.webp">
+
+[**C++ Help**](https://discord.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Eelis/geordi) \
+Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-showcase` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/together_c_and_c_plus_plus.webp">
+
+[**Together C & C++**](https://discord.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Headline/discord-compiler-bot) \
+Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
+Language: English
+
+<!-- markdownlint-disable MD003-->
+
+<!-- markdownlint-disable MD020-->
+
+## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Media Consumption
 

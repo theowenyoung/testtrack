@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2014
 
-1 awesome lists updated this week.
+2 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,23 @@
 
 *   [Functional Programming Books Review](http://alexott.net/en/fp/books/)
 
+## [2. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Official
+
+*   [Twitter](https://twitter.com/ripple/)
+*   [Facebook](https://www.facebook.com/ripplepay/)
+*   [Weibo](http://www.weibo.com/RippleLabs/)
+
+### Gateways / Bridges
+
+*   [Ripple Singapore](https://www.ripplesingapore.com/)
+
+### Hosted Tools
+
+*   [Ripple.txt checker](https://ripple.com/tools/txt/)
+
 ---
 
 - Prev: [Feb 10 - Feb 16, 2014](/content/2014/6/README.md)
-- Next: [Jan 13 - Jan 19, 2014](/content/2014/2/README.md)
+- Next: [Jan 20 - Jan 26, 2014](/content/2014/3/README.md)

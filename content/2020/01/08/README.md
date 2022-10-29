@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2020
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,13 +44,29 @@
 
 *   :strawberry: [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Beginner
+
+#### [Grid Garden](https://cssgridgarden.com/)
+
+**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
+
+### Advanced
+
+#### [Paqmind](http://paqmind.com)
+
+**Free** Quiz your knowledge of programming\
+*(JavaScript, Node.js, React, functional programming)*
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
 
-## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Format Checking
 
@@ -61,19 +77,67 @@
 *   [DeepChem (⭐3.9k)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 *   [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-fake3d-image-effect (⭐16)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 
-## [7. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Asia / Singapore 🇸🇬
+
+### Karachi
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ArbazPirwani" height="70px" width="70px" align="left" alt="" />
+
+**Arbaz Pirwani**\
+Topics: Android, Kotlin, Java\
+<https://twitter.com/ArbazPirwani>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bhattieric" height="70px" width="70px" align="left" alt="" />
+
+**Eric Bhatti**\
+Topics: Android, Java, Kotlin, Firebase\
+<https://twitter.com/bhattieric>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mashhoodr" height="70px" width="70px" align="left" alt="" />
+
+**Mashhood Rastgar**\
+Topics: Progressive Web Apps, Angular, Firebase\
+<https://twitter.com/mashhoodr>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/smkamranqadri" height="70px" width="70px" align="left" alt="" />
+
+**Muhammad Kamran**\
+Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
+<https://twitter.com/smkamranqadri>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/narainsagar" height="70px" width="70px" align="left" alt="" />
+
+**Narain Sagar**\
+Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
+<https://twitter.com/narainsagar>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_nasirhm_" height="70px" width="70px" align="left" alt="" />
+
+**Nasir Hussain**\
+Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
+<https://twitter.com/_nasirhm_>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/WajahatKarim" height="70px" width="70px" align="left" alt="" />
+
+**Wajahat Karim**\
+Topics: Android, Open Source, Java, Kotlin\
+<https://twitter.com/WajahatKarim>
+
+## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [functional (⭐552)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Cryptography
 
@@ -95,13 +159,13 @@
     *   [rustix (⭐639)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
     *   [zargony/fuse-rs (⭐888)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.1k)](https://github.com/libfuse/libfuse) bindings
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
 
-## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Download Managers / Free Indexers
 
@@ -115,7 +179,7 @@
 
 *   [Madsonic](https://www.madsonic.org/) Madsonic is a web-based media library and media streamer with jukebox functionality.
 
-## [11. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [13. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 

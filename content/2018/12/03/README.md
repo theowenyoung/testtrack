@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 03, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,13 +46,20 @@
 
 *   [Laravel Vue Boilerplate (⭐526)](https://github.com/alefesouza/laravel-vue-boilerplate)
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### JS
+
+*   [AngularJS (⭐17k)](https://github.com/angular/material) — Material design for AngularJS.
+*   [Angular (⭐23k)](https://github.com/angular/material2) — Material design for Angular.
+
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blog posts
 
 *   [Serverless sea change](https://www.infoq.com/articles/serverless-sea-change) - Article which defines and explains how serverless is different from other application architectures.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2012
 
@@ -61,19 +68,19 @@
     *   [Part 2](https://youtu.be/AlJdI6yNo4U) \[15:41]
     *   [Part 3](https://youtu.be/LZK-ObWu_5I) \[33:31]
 
-## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [9. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Middlewares
 
 *   [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 
-## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
 *   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐69)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
-## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Userscripts
 

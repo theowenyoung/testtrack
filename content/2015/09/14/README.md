@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,7 +20,14 @@
 
 *   [ecto\_enum (⭐550)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
-## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Richard Littauer (⭐1)](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
+*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐59k)](https://github.com/rackt/redux).
+
+## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Threat Intelligence / Forensics
 

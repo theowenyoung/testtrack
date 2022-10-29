@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,13 +52,19 @@
 
 *   [vuki656/package-info.nvim (⭐199)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   GrowthBoosters - <https://www.growthboosters.com/product/add>
+
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Courses / Hash functions
 
 *   [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - An introductory but fast-paced undergraduate/beginning graduate course on cryptography, Used for Harvard CS 127.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
@@ -204,13 +210,13 @@
     *   [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) — Presented by [Nicholas Matsakis](https://github.com/nikomatsakis) @ C++Now 2018
     *   [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — Presented by [Michael Gattozzi](https://github.com/mgattozzi) @ RustConf 2017
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Frameworks / Community
 
 *   [vitext (⭐366)](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
-## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Philosophy And Psychology
 

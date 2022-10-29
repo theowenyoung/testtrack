@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27 - May 03, 2015
 
-19 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -719,7 +719,26 @@ to this,
 
 *   [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - decentralized cloud storage system.
 
-## [19. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [19. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Response
+
+*   [Screensiz](http://screensiz.es/phone)
+
+### CSS
+
+*   [css3 animation generator](http://isux.tencent.com/css3/tools.html)
+*   [css3 maker](http://www.css3maker.com/index.html)
+
+### Image compression
+
+*   [Shrinkray](https://shrinkray.io)
+
+### API Doc
+
+*   [Easing functions](http://easings.net/en)
+
+## [20. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Game Development
 

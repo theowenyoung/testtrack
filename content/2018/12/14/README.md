@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,13 +34,31 @@
 
 *   [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 
-## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Asia / Indonesia 🇮🇩
+
+### New Delhi
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/amdsouza92" height="70px" width="70px" align="left" alt="" />
+
+**Arun Michael Dsouza**\
+Topics: webpack, React, ES6, Tooling, CSS\
+<https://twitter.com/amdsouza92>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aviaryan123" height="70px" width="70px" align="left" alt="" />
+
+**Avi Aryan**\
+Topics: Mobile Web, PWAs, Flask, Blockchain\
+<https://twitter.com/aviaryan123>
+
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Podcasts and Screencasts / Mocking
 
 *   [The Java Council](https://virtualjug.com/#podcast)
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Guides / Best Practices
 

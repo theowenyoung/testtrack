@@ -50,6 +50,7 @@
 *   [Witeboard](https://witeboard.com/) - A real-time whiteboard for your team. No signups required.
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@janl](https://github.com/janl), [CouchDB (⭐5.5k)](https://github.com/apache/couchdb)
     *   "Sustainable Open Source: The Maintainers Perspective or: How I Learned to Stop Caring and Love Open Source" ([post](http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html))
 *   [@kentcdodds](https://github.com/kentcdodds), [various](https://github.com/kentcdodds)

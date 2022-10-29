@@ -65,4 +65,4 @@
 ---
 
 - Prev: [Jan 22, 2015](/content/2015/01/22/README.md)
-- Next: [Jan 19, 2015](/content/2015/01/19/README.md)
+- Next: [Jan 20, 2015](/content/2015/01/20/README.md)

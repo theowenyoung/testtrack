@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,15 @@
 
 *   [EasyYagnaJS (⭐2)](https://github.com/figurestudios/easy-yagna-js) - Copies over Node.js dependencies directly to the provider, making developers not have to use Docker in their workflow.
 
-## [5. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [SocialHome (⭐326)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
+*   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
+*   [Ticktack ☠ (⭐55)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
+
+## [6. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Coding Challenge
 
@@ -56,14 +64,14 @@
 
 *   [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske) - Because the short-term focused Scrum processes “seem suited to particular types of development, most notably consulting or contract programming, where the customer is external to the organizations, runs the show because they are paying for development, and can change their mind at any time”. Still, google engineers already practice a culture close to what looks like the original 10-points Agile manifesto. But that's it.
 
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### System Utilities / Directory Navigation
 
 *   [btop (⭐9.2k)](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD resource monitor
 *   [lsd (⭐8.6k)](https://github.com/Peltoche/lsd) - LSDeluxe, rewrite of GNU ls with lot of added features like colors, icons, tree-view and more formatting options.
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Maps
 
@@ -86,25 +94,25 @@
 *   [encdec (⭐8)](https://github.com/mickep76/encdec) - Package provides a generic interface to encoders and decoders.
 *   [go-fasttld (⭐10)](https://github.com/elliotwutingfeng/go-fasttld) - High performance top level domains (TLD) extraction module.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [EmailLabs.io](https://emaillabs.io/en) — Send up to 24 000 Email for free every month.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Parsers
 
 *   [SQLGlot (⭐1.6k)](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
-## [10. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [11. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
 *   [ZITADEL (⭐1.6k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### ORM
 
@@ -114,7 +122,7 @@
 
 *   [YoMo x TDengine (⭐1)](https://github.com/fanweixiao/push-stream-logging) - Streaming high frequency logs to TDengine.<!--lint ignore awesome-list-item-->
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 

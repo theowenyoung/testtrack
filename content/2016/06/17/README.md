@@ -19,6 +19,7 @@
 *   [emr-sample-apps (⭐64)](https://github.com/awslabs/emr-sample-apps) - Sample apps.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Delete local tag
 
 ```sh

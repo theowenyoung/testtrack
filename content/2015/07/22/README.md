@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 22, 2015
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Trent Oswald (⭐1)](https://github.com/therebelrobot/ama) - Maker of web things [@Mashape](http://mashape.com) and [nodejs/website (⭐213)](https://github.com/nodejs/iojs.org).
+
+## [2. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Community
 
@@ -15,19 +21,20 @@
 *   [Stack Overflow `purescript` tag](http://stackoverflow.com/questions/tagged/purescript)
 *   [Google Group](https://groups.google.com/forum/#!forum/purescript)
 
-## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Animations
 
 *   [Android-Transition (⭐616)](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
 
-## [3. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Development
 
 *   [Clojure](http://clojurians.net/)
 
-## [4. Tips](/content/git-tips/tips/README.md)
+## [5. Tips](/content/git-tips/tips/README.md)
+
 ## What changed since two weeks?
 
 ```sh
@@ -40,20 +47,30 @@ git log --no-merges --raw --since='2 weeks ago'
 git whatchanged --since='2 weeks ago'
 ```
 
-## [5. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [6. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Testing / Dojo 2
 
 *   [Intern User guide](https://theintern.github.io/intern/#what-is-intern) - A quite complete manual about how to use The Intern
 *   [Intern Yeoman page objects (⭐1)](https://github.com/glamb/generator-internjs-pageobjects/) - A Yeoman generator to create unit test and suites
 
-## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Jacopo Tarantino <https://jack.ofspades.com/>
+
+### Individuals/Group Contributors / K individuals
+
+*   Kevin Burke <https://kev.inburke.com/>
+
+## [8. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### References
 
 *   [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
 
-## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Non-dedicated
 

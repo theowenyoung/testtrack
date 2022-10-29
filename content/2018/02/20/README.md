@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,13 +16,23 @@
 
 *   [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
 
-## [2. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Books
+
+*   [Automated Planning and Acting](http://projects.laas.fr/planning/) \[[pdf](http://projects.laas.fr/planning/book.pdf)]
+
+### Competitions
+
+*   [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
+
+## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [modern-cmake-sample (⭐581)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
@@ -32,14 +42,14 @@
 
 *   [C++ Awesome Pack (⭐170)](https://github.com/juniandotnet/cpp-awesome-pack) - Contains some awesome c++ codes, packed in one.
 
-## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Types / Playground
 
 *   [utility-types (⭐4.6k)](https://github.com/piotrwitek/utility-types) - Utility Types for TypeScript (provide compatibility with Flow's Utility Types)
 *   [elm-ts (⭐285)](https://github.com/gcanti/elm-ts) - Port of Elm architecture to TypeScript featuring fp-ts, io-ts, rxjs5 and React
 
-## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
@@ -49,7 +59,7 @@
 
 *   [BBC News Labs](https://github.com/BBC-News-Labs) - Open Source projects from BBC News Labs.
 
-## [6. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [7. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Frameworks
 
@@ -59,7 +69,7 @@
 
 *   [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Command-line
 
@@ -69,7 +79,7 @@
     *   [murarth/linefeed (⭐176)](https://github.com/murarth/linefeed) \[[linefeed](https://crates.io/crates/linefeed)] — Configurable, extensible, interactive line reader [![build badge](https://api.travis-ci.org/murarth/linefeed.svg?branch=master)](https://travis-ci.org/murarth/linefeed)
     *   [srijs/rust-copperline (⭐26)](https://github.com/srijs/rust-copperline) \[[copperline](https://crates.io/crates/copperline)] — pure-Rust command line editing library
 
-## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 
@@ -79,7 +89,7 @@
 
 
 
-## [9. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 

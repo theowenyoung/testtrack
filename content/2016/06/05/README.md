@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2016
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,13 +73,19 @@
 
 *   \[2014, Nordic Game] [Making of Monument Valley in Unity](https://www.youtube.com/watch?v=mCCC9hQm6MM): Peter Pashley (ustwo)
 
-## [5. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Methodologies
+
+*   [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** \[54:55]
+
+## [6. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Operating Systems:
 
 *   [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
 
-## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -91,7 +97,13 @@
 *   [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 *   [Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence)
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / P companies
+
+*   Panorama Education <http://engineering.panoramaed.com/>
+
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 

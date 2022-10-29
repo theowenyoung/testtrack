@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07 - Sep 13, 2020
 
-59 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -734,7 +734,13 @@
 
 *   [static-bytes (⭐7)](https://github.com/xoac/static-bytes): Help work with buffers without dynamic allocation. Implement traits from bytes crate. [![crate.io](https://img.shields.io/crates/v/static-bytes.svg)](https://crates.io/crates/static-bytes)
 
-## [49. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [49. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Loop - <https://app.loopinput.com/>
+
+## [50. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Useful Links
 
@@ -764,7 +770,7 @@
 
 *   [Ping CRM / Rails (⭐189)](https://github.com/ledermann/pingcrm) - Demonstration application made with Ruby on Rails and Vue.js.
 
-## [50. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [51. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Computer Vision
 
@@ -778,14 +784,14 @@
 
 *   [magenta (⭐18k)](https://github.com/magenta/magenta) - A tool to generate music and art using artificial intelligence.
 
-## [51. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [52. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [nbflow (⭐152)](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 *   [nbinteract](https://www.nbinteract.com) - Create interactive webpages from Jupyter notebooks.
 
-## [52. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [53. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Standards / Shadow DOM
 
@@ -807,20 +813,20 @@
 
 *   [How searching for a bundle-free React led me to web components](https://www.bryanbraun.com/2020/08/31/how-searching-for-a-bundle-free-react-led-me-to-web-components/)
 
-## [53. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [54. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Website Analyzers
 
 *   [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 *   [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 
-## [54. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [55. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
 *   [expyplot (⭐27)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
-## [55. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [56. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
 ### JavaScript / Sistemas Operativos
 
@@ -830,19 +836,19 @@
 
 *   [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 
-## [56. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [57. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw) - A Enciclopédia do Teatro Impossível é uma história paralela do teatro brasileiro, vista pelos seus fracassos. São relatos parte ficção parte realidade sobre produções teatrais impossíveis.
 
-## [57. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [58. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Nyxo ★12 (⭐232)](https://github.com/hello-nyxo/nyxo-app) - Sleep tracker and sleep coaching app. Available for Android and iOS.
 
-## [58. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [59. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -865,7 +871,7 @@
 
 *   [PostHog (⭐9.7k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
-## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06, 2020
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -108,7 +108,13 @@
 *   [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
     *   [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
 
-## [3. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [3. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Component Libraries
+
+*   [baseweb (⭐8k)](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
+
+## [4. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Example Apps
 
@@ -132,19 +138,19 @@
 *   [**Web Maker**](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project (⭐2.3k)](https://github.com/chinchang/web-maker))*.
 *   [**Intergram**](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project (⭐1.3k)](https://github.com/idoco/intergram))*.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
 *   [JSON::OnSteroids (⭐23)](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
 
-## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [Texar (⭐2.3k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 
-## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
@@ -156,7 +162,7 @@
 
 *   [ipfsecret (⭐20)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -168,13 +174,13 @@
 
 *   [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). [MIT](https://opensource.org/licenses/MIT).
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 
-## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
@@ -184,13 +190,19 @@
 
 *   [tmux-spotify (⭐78)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
-## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [11. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Tutorials / Basics
 
 *   [Getting started from scratch with Aseprite](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab)
 
-## [11. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [12. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
+
+## [13. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### secure tools
 

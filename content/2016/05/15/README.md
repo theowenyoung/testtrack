@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,13 +69,19 @@
 
 *   [bats (⭐7.1k)](https://github.com/sstephenson/bats) - Bash Automated Testing System.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Cognitive Development
+
+*   [Surviving the Framework Hype Cycle](https://www.youtube.com/watch?v=9zc4DSTRGeM) by **Brandon Hays** \[35:26]
+
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
 *   [SRE Hour: Tech Talks by Box & Yelp](https://www.youtube.com/watch?v=YFDwdRVTg4g)
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -86,13 +92,13 @@
 *   [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript) – An introduction to the Monad design pattern in JavaScript.
 *   [Data Structures in JavaScript](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/) – A series of blog posts that reimplements various data structures in JavaScript to better understand their benefits and downsides.
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
 
-## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Blog posts
 

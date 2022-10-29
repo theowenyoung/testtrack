@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,13 @@
 *   [Developing solutions for the Internet of Things](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/white-papers/developing-solutions-for-iot.pdf) - Intel's vision in enabling secure and seamless solutions for the Internet of Things (IoT).
 *   [Evaluation of indoor positioning based on Bluetooth Smart technology](http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf) - Master of Science Thesis in the Programme Computer Systems and Networks.
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Kahlil Lechelt (⭐0)](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
+
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 

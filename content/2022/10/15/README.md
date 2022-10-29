@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -280,7 +280,13 @@
 
 *   [nickhristov/krakdown (⭐12)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   CtrlAlt.cc - <https://ctrlalt.cc/>
+
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 

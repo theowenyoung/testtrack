@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2019
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,13 +117,32 @@
 *   [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) - Acronyms describing competing database ideologies (aka. SQL vs. NoSQL).
 *   [camelCase, snake\_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) - Different case styles where the name illustrates its appearance.
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Germany 🇩🇪
+
+### Düsseldorf
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iamjoyheron" height="70px" width="70px" align="left" alt="" />
+
+**Joy Heron**\
+Topics: Clojure, Web Apps, Security\
+<https://twitter.com/iamjoyheron>
+### Karlsruhe
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/robinweser" height="70px" width="70px" align="left" alt="" />
+
+**Robin Weser**\
+Topics: CSS, CSS in JS, React\
+<https://twitter.com/robinweser>
+
+## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Conferences & Meetups
 
 *   [ADDO - All Day DevOps](https://www.alldaydevops.com/) - A 24 hour conference that is completely online and free.
 
-## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Philosophy And Psychology
 
@@ -137,62 +156,62 @@
 
 
 
-## [10. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [11. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Open source code
 
 *   [Canvas Quiz (⭐39)](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Data Visualization on Maps
 
 *   [stadiamaps.com](https://stadiamaps.com/) — Map tiles, routing, navigation, and other geospatial APIs. 2,500 free map views and API requests / day for non-commercial usage and testing.
 
-## [12. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [13. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
 *   [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
 
-## [13. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [14. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Terminal / Extensions
 
 *   [hss (⭐305)](https://github.com/six-ddc/hss) - Never type the annoying ssh commands again.
 
-## [14. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
+## [15. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
 ### Resources / Official Resources
 
 *   [Website](https://imba.io)
 *   [Docs](https://imba.io/docs)
 
-## [15. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [16. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [Katalyst](https://katalyst.codurance.com/)
 
-## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [17. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
 *   [Action For Semantic Release (⭐328)](https://github.com/cycjimmy/semantic-release-action)
 
-## [17. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [18. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Websites and Resources
 
 *   [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Static Code Analysis
 
 *   [IKOS (⭐1.7k)](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. \[NOSA 1.3]
 
-## [19. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [20. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 

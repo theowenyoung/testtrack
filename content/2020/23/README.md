@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08 - Jun 14, 2020
 
-66 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -364,13 +364,31 @@
 
 *   [Homematic Blog Lison](https://homematic-blog.lison.ch/) - Blog, Tutorials und mehr..
 
-## [27. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### National government datasets
+
+*   [European long-distance transport operators (EU) *(Unofficial)* (⭐46)](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
+
+### Proprietary (non-standard) vendor APIs
+
+*   [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
+
+### GTFS Libraries / JavaScript
+
+*   [gtfs-utils (⭐22)](https://github.com/public-transport/gtfs-utils) – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
+
+### GTFS Realtime Convertors / Ruby
+
+*   [hafas-gtfs-rt-feed (⭐6)](https://github.com/derhuerst/hafas-gtfs-rt-feed) – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.
+
+## [28. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Misc
 
 *   [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - Help / mentorship for open source contributors.
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
@@ -380,25 +398,25 @@
 
 *   [Falcon (⭐2.2k)](https://github.com/socketry/falcon) - A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [MiniGrad (⭐76)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
 
-## [30. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [31. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Ecosystem
 
 *   [Webots](https://cyberbotics.com) - Robot simulator for ROS 2. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
 
-## [31. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [32. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Books / Automation
 
 *   [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino
 
-## [32. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [33. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
 ### Bookmarklets
 
@@ -532,32 +550,32 @@
 *   [DevSwag](http://devswag.com/)
 *   [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Media / Audio
 
 *   [AssetsAudioPlayer (⭐645)](https://github.com/florent37/Flutter-AssetsAudioPlayer) <!--stargazers:florent37/Flutter-AssetsAudioPlayer-->  Simultaneous playback of audio from assets/network/file and displaying notifications \[android / ios / web / macos]
 
-## [34. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [35. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Creation
 
 *   [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - An [Observable](https://observablehq.com/) notebook collection full of plotter-oriented work.
 
-## [35. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [36. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [gomobile-ipfs (⭐236)](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile
 *   [ShareX integration (⭐376)](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX is a file upload and manipulation tool that has a custom integration with IPFS
 
-## [36. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [37. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [An Open Source AutoML Benchmark](https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf) Peter Gijsbers, Erin LeDell, Sebastien Poirier, Janek Thomas, Berndt Bischl, Joaquin Vanschoren. (2019)
 
-## [37. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [38. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### 🔱 Workflow Automation / 酷Q Plugin
 
@@ -567,7 +585,7 @@
 
 *   [Raspberry Pi](https://www.raspberrypi.org/) <sup>[640](https://t.me/s/aboutrss/640)</sup>
 
-## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [39. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -593,7 +611,7 @@
 
 *   [AnimatedCardInput (⭐39)](https://github.com/netguru/AnimatedCardInput) - Customisable and easy to use Credit Card UI.
 
-## [39. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [40. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
@@ -605,7 +623,7 @@
 
 *   [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations).
 
-## [40. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [41. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Security
 
@@ -615,7 +633,7 @@
 *   [Security (⭐1.8k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 *   [xss (⭐48)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
-## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -625,37 +643,37 @@
 
 *   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐156)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
-## [42. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [43. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [BluePill (⭐91)](https://github.com/season-lab/bluepill) - Framework for executing and debugging evasive malware and protected executables.
 
-## [43. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [44. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [AlmostBinary (⭐5)](https://github.com/wsdt/AlmostBinary) - Code in binary and run on any platform.
 
-## [44. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [45. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Videos :tv: / 2019
 
 *   [Next-Generation Web Styling](https://www.youtube.com/watch?v=-oyeaIirVC0) - Una Kravets & Adam Argyle @ Chrome Dev Summit 2019.
 
-## [45. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
 *   [Sync Defined Files/Binaries to Wiki or External Repositories (⭐5)](https://github.com/kai-tub/external-repo-sync-action)
 
-## [46. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [47. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Package Managers
 
 *   [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) - Provides a set of functions to perform common application deployment tasks and to interact with the user during a deployment.
 
-## [47. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [48. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Fraud / Online Payments
 
@@ -665,7 +683,7 @@
 
 *   [An Overview of Visa](http://minesafetydisclosures.com/blog/2019/7/23/part-ll-an-overview-of-visa) - Great breakdown of Visa business models and metrics.
 
-## [48. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [49. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Culture / Procrastination
 
@@ -679,7 +697,7 @@
 
 *   [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/) - Guidelines and heuristics to provide a reasonable approximation of the truth while developing embedded devices. Most also applies to software projects in general.
 
-## [49. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [50. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Articles
 
@@ -689,13 +707,13 @@
 
 *   [isarray (⭐119)](https://github.com/juliangruber/isarray) - [`Array.isArray`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
 
-## [50. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [51. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
 *   [TV Randshow (⭐102)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 
-## [51. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
+## [52. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
 ### Learn / Papers
 
@@ -722,13 +740,13 @@
 
 *   [CodePen](https://codepen.io) - *bit.ly/codepen-tfjs* Best place to build, test and discover front-end code (Tensorflow\.js templates).
 
-## [52. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [53. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [CourseLit (⭐283)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
-## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [54. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
@@ -754,7 +772,7 @@
 
 *   [Sitecore (⭐53)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
-## [54. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Others
 
@@ -764,14 +782,14 @@
 
 *   [BlazorLazyLoading (⭐89)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
 
-## [55. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [56. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/) - Analyse eines ERP-Systems mit Wardley Maps und strategischem Domain-driven Design. Jun 2, 2020.
 *   [Building a working map of Ethereum 1.0](https://chainstrat.substack.com/p/building-a-working-map-of-ethereum) - 10,000 feet view of Ethereum's user needs and capabilities. Aug 13, 2019.
 
-## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -787,7 +805,7 @@
 
 *   [vue-use (⭐26)](https://github.com/openfext/vue-use) - Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
 
-## [57. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### News
 
@@ -831,7 +849,7 @@
 
 
 
-## [58. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [59. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -858,19 +876,19 @@
 *   [*Язык Swift. Самоучитель* - Айк Харазян](https://www.ozon.ru/context/detail/id/33701486/)
 *   [*Swift подробно* - Инт Чейрд](https://www.ozon.ru/context/detail/id/159640468/)
 
-## [59. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [60. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - Federal Gazette, Administrative Case Law of the Federal Authorities and more documents from the Swiss Federal Archives.
 
-## [60. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [61. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Testing
 
 *   [pytest-mypy-testing (⭐20)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 
-## [61. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [62. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Articles / Architecture
 
@@ -907,7 +925,13 @@
 
 *   [Custom Web Shadow Elements, or Whatever…](https://vimeo.com/364370506) by [@aerotwist](https://twitter.com/aerotwist)
 
-## [62. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [63. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Development Tools
+
+*   [Why Did You Render (⭐9.3k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
+
+## [64. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Libraries
 
@@ -921,7 +945,7 @@
 
 *   [Qwiic\_TOF\_Module\_RFD77402 (⭐1)](https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402) - Qwiic TOF Module (RFD77402) time-of-flight rangefinding module.
 
-## [63. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -935,7 +959,320 @@
 
 *   [stripe.cr (⭐41)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
-## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [66. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+
+### Competitive Programming
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cp_community.webp">
+
+[**CP Community**](https://discord.com/invite/algorithms) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://codeforces.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Codeforces) \
+Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Discussions on the concepts behind modern, and classical computing and its kin.
+### Computer Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/computer_science.webp">
+
+[**Computer Science**](https://discord.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+Notable Channels: `#computer-science`, `#resources`, `#algorithms-and-data-structures`,`#theory-of-computation`, `#information-and-coding-theory`, `#cryptography`, `#artificial-intelligence` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cs50.webp">
+
+[**cs50**](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.edx.org/course/cs50s-introduction-to-computer-science) \
+Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+### Internet of Things
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/home_automation.webp">
+
+[**/r/Home Automation**](https://discord.com/invite/homeautomation) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/homeautomation/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/dgparker/rosie-the-bot) \
+Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev`, `#buy-sell-trade` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/home_assistant.webp">
+
+[**Home Assistant**](https://discord.com/invite/c5DvZ4e) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.home-assistant.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/home-assistant) \
+Notable Channels: `#homeassistant`, `#support`, `#automations`, `#frontend`, `#devices`, `#templates`, `#add-ons`, `#apps`, `#cameras`, `#diy`, `#node-red`, `#voice-assistants`, `#zigbee`, `#development` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/homebridge.webp">
+
+[**Homebridge**](https://discord.com/invite/Z8jmyvb) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://homebridge.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/homebridge) \
+Notable Channels: `#general`, `#homekit`, `#ui`, `#config`, `#raspberry-pi`, `#raspbian-image`, `#macos`, `#bwindows`, `#docker`, `#verified-plugins`, `#plugins`, `#homebridge-beta-testing`, `#plugin-development` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_homekit.webp">
+
+[**r/HomeKit**](https://discord.com/invite/b2kTasd) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/HomeKit/) \
+Notable Channels: `#general`, `#homekit-discussion`, `#hk-showcase`, `#hk-questions-help`, `#homepod-discussion`, `#hp-questions-help`, `#homebridge-discussion`, `#hb-plugin-showcase` \
+Language: English
+### Haxe
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/haxe.webp">
+
+[**Haxe**](https://discord.com/invite/0uEuWH3spjck73Lo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://haxe.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/HaxeFoundation) \
+Notable Channels: `#general`, `#show-your-work`, `#tools`, `#flixel`, `#heaps`, `#kha`, `#nme`, `#haxepunk`, `#react`, `#haxe-ui`, `#lix`, `#coconut` \
+Language: English
+### Server Applications
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_plex.webp">
+
+[**/r/Plex**](https://discord.com/invite/plex) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/PleX/) \
+Notable Channels: `#general`, `#software`, `#hardware`, `#media-suggestions` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/librenms.webp">
+
+[**LibreNMS**](https://discord.com/invite/librenms) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.librenms.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/librenms) \
+Notable Channels: `#general`, `#devel` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/organizr.webp">
+
+[**Organizr**](https://discord.com/invite/TrNtY7N) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://organizr.app/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/causefx/Organizr) \
+Notable Channels: `#general`, `#customization-theming`, `#groups`, `#organizr-support` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/pi_hole.webp">
+
+[**Pi-Hole**](https://discord.gg/VzThBmB) \
+Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#other-support` \
+Language: English \ <br>
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Everything red and blue teams are leaglly allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_many_hats_club.webp">
+
+[**Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐**](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
+Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensics` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cyberseclabs_lounge.webp">
+
+[**CyberSecLabs Lounge**](https://discord.com/invite/vy75f7W) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.cyberseclabs.co.uk/) \
+Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`, `#red-teaming`, `#networking`, `#cryptography`, `#programming` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/defcon.webp">
+
+[**DEFCON**](https://discord.com/invite/defcon) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.defcon.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://media.defcon.org/) \
+Notable Channels: *Will open on August 5-8, 2021* \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/hacker101.webp">
+
+[**Hacker101**](https://discord.com/invite/32ZNZVN) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.hackerone.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Hacker0x01) \
+Notable Channels: `#general`, `#hacking-resources`, `#questions-and-answers`, `#hacktivity`, `#hackthebox`, `#mother-ctfs`, `#h1-2006-ctf`, `#ctfs`, `#a-little-something-to-get-you-started` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/infosec_and_coding.webp">
+
+[**InfoSec & Coding**](https://discord.gg/zSaDzRW) \
+Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/locke.webp">
+
+[**LOCKE**](https://discord.gg/Q8YsA7S) \
+Notable Channels: `#windows-os`, `#unix-family`, `#mac-os`, `#ethical-hacking`, `#ctf-discussion`, `#job-discussion`, `#networking`, `#cryptography`, `#mobile-devices`, `#web-dev`, `#python` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/reverse_engineering.webp">
+
+[**Reverse Engineering**](https://discord.gg/PSfAu8N) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Cryptogenic/REBot) \
+Notable Channels: `#help`, `#ctf`, `#starting-out`, `#mobile`, `#exploits-and-vulns`, `#hardware`, `#malware`, `#tools`, `#software-protections` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_cyber_mentor.webp">
+
+[**The Cyber Mentor**](https://discord.com/invite/Nu59kq5) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.twitch.tv/thecybermentor) \
+Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/whitehat_hacking.webp">
+
+[**Whitehat Hacking**](https://discord.com/invite/beczNYP) \
+Notable Channels: `#cyber-news`, `#hacking`, `#mac-os`, `#windows`, `#linux`, `#ios`, `#android`, `#hardware`, `#coding`, `#malware-analysis`, `#training`, `#c-re-arm-x86-help` \
+Language: English
+### Flight Simulation
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/coders_craft.webp">
+
+[**Coders Craft**](https://discord.com/invite/DA9qDXF) \
+Notable Channels: `#general`, `#xpl-res`, `#dev-chat`, `#lua`, `#c-cpp`, `#microsoft-flight-simulation-dev-chat`, `#modeling-texture` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/flybywire_simulations.webp">
+
+[**FlyByWire Simulations**](https://discord.com/invite/UjzuHMU) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/flybywiresim/a32nx) \
+Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#a380x-chat`, `#dev-support`, `#atsu-api`, `#lighting`, `#modeling`, `#sound`, `#your-controls` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Making of games, how to rasterize or real time ray tracing, the complexities behind each object movement, everything before publishing in the marketplace.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/brackeys.webp">
+
+[**Brackeys**](https://discord.com/invite/brackeys) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Brackeys) \
+Notable Channels: `#tutorials_and_articles`, `#unity`, `#programming`, `#mobile`, `#code_optimization`, `#shaders`, `#game_jams`, `#art`, `#audio`, `#game_design`, `#marketing`, `#collaboration` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/game_dev_league.webp">
+
+[**Game Dev League**](https://discord.com/invite/gamedev) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://gamedevleague.com/) \
+Notable Channels: `#events`, `#unity`, `#unreal-engine`, `#gamemaker-studio`, `#open-source`, `#löve-dev`, `#monogame-and-libgdx-dev`, `#godot`, `#web-dev`, `#cryengine-dev`, `#vr-dev`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/game_dev_network.webp">
+
+[**Game Dev Network**](https://discord.com/invite/gdn) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://twitter.com/gamedevnetwork_) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Game-Dev-Network) \
+Notable Channels: `#gamedev-talk`, `#career-advice`, `#gamejam`, `#work-in-progress`, `#unity`, `#unreal`, `#godot`, `#gamemaker`, `#stride-xenko`, `#roblox`, `#ui-ux`, `#3d-modeling`, `#sound`, `#looking-for-work` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/osu_dev.webp">
+
+[**osu!dev**](https://discord.com/invite/ppy) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://ppy.sh/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/ppy) \
+Notable Channels: `#osu-lazer`, `#osu-framework`, `#osu-dev`, `#difficulty-osu`, `#difficulty-taiko`, `#difficulty-catch`, `#difficulty-mania`, `#osu-wiki`, `#modding`, `#mappers-guild` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/reddit_r_gamedev.webp">
+
+[**Reddit /r/gamedev**](https://discord.com/invite/reddit-gamedev) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/gamedev/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/r-gamedev) \
+Notable Channels: `#gamedev-general`, `#show-off-your-stuff`, `#unity`, `#unreal`, `#godot`, `#lhtml5-javascript`, `#c-cpp-csharp-java`, `#opengl-vulkan`, `#gamemaker`, `#retro`, `#audio`, `#visuals`, `#jobs` \
+Language: English
+### Gaming on Linux
+
+[Linux Distributions↰](#linux-distributions)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gamingonlinux.webp">
+
+[**GamingOnLinux**](https://discord.com/invite/AghnYbMjYg) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gamingonlinux.com/) \
+Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_gaming.webp">
+
+[**Linux Gaming**](https://discord.com/invite/linuxgaming) \
+Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/lutris.webp">
+
+[**Lutris**](https://discord.gg/Pnt5CuY) \
+Notable Channels: `#news`, `#general`, `#irc`, `#requests_and_feedback`, `#lutris_support`, `#linux_support`, `#installer_creation` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/protondb_official_server.webp">
+
+[**ProtonDB Official Server**](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.protondb.com/)  \
+Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Developing for virtual, augmented, and mixed reality; the head-mounted displays that stimulate our perception of a whole new world. The applications of VR are endless.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/project_north_star.webp">
+
+[**Project North Star**](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/leapmotion/ProjectNorthStar) \
+Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
+Language: English, Deutsch, français, español, 日本語, 韓國語
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vrchat.webp">
+
+[**VRChat**](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vrchat) \
+Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/virtual_reality.webp">
+
+[**Virtual Reality**](https://discord.com/invite/virtualreality) \
+Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Data manupulation and visualization, machine learning frameworks and artificial intelligence.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_machinelearning.webp">
+
+[**/r/machinelearning**](https://discord.com/invite/FVBUKzD) \
+Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/artificial_intelligence.webp">
+
+[**Artificial Intelligence**](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://discordnetwork.com/) \
+Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/sentdex.webp">
+
+[**Sentdex**](https://discord.com/invite/sentdex) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/user/sentdex) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Sentdex) \
+Notable Channels: `#__main__`, `#help` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/tensorflow.webp">
+
+[**TensorFlow**](https://discord.com/invite/64MVzQX) \
+Notable Channels: `#tf-general`, `#ai-ethics`, `#tensorflow-javascript`, `#tensorflow-python`, `#convolutional-neural-network`, `#recurrent-neural-network`, `#generative-adversarial-networks` \
+Language: English
+### Data Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/data_science.webp">
+
+[**Data Science**](https://discord.com/invite/UYNaemm) \
+Notable Channels: `#general`, `#machine-learning`, `#math`, `#programming`, `#career`, `#visualization`, `#resources`, `#colab`, `#papers` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/dvc.webp">
+
+[**Data Version Control**](https://discord.com/invite/dvwXA2N) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://dvc.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/iterative/dvc) \
+Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_dataisbeautiful.webp">
+
+[**r/DataIsBeautiful**](https://discord.com/invite/NRnrWE7) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/dataisbeautiful/) \
+Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_data_share.webp">
+
+[**The Data Share**](https://discord.com/invite/eaPVRW3) \
+Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Discussions on interview challenges, resume reviews, job opportunities in the field of programming.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cs_career_hackers.webp">
+
+[**CS Career Hackers**](https://discord.com/invite/rGwhXJv) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.cscareerhackers.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/CS-Career-Hackers) \
+Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list
+is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
+about the notable development kit.
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Badge icons are made by [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
+
+To attribute this awesome list (as restricted by the license) see [how to attribute](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
+
+## [67. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
@@ -949,7 +1286,7 @@
 
 *   [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
-## [65. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [68. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -959,7 +1296,7 @@
 
 *   [implot (⭐2.7k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
-## [66. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [69. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Books
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27 - Oct 03, 2021
 
-56 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,50 +12,56 @@
 
 *   [Strawberry GraphQL (⭐2.7k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
-## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [SimpleX chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+
+## [3. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [BoxCam2D (⭐11)](https://github.com/samdaiya/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 
-## [3. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [4. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [FAE (⭐799)](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
 
-## [4. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
 *   [Urban Informatics & Visualization-Berkeley (⭐216)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
-## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [NautilusLink](https://soundcloud.com/nautiluslink) - Podcast sobre video-games.
 
-## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [7. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [Pimod (⭐91)](https://github.com/Nature40/pimod) - Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.
 
-## [7. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [8. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Codex Alera](https://www.goodreads.com/series/45545-codex-alera)   (2005)   *by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)*   \[4.28] 🔥
 
 *   [Furies of Calderon](https://www.goodreads.com/book/show/29396.Furies_of_Calderon) \[4.10] 🔥
 
-## [8. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [9. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Testing
 
 *   [addons-linter (⭐253)](https://github.com/mozilla/addons-linter) - Validate an extension against Mozilla's guidelines.
 
-## [9. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [10. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-branchcut](https://github.com/dlsrb6342/git-branchcut)
 
@@ -113,39 +119,39 @@ Interactive UI and fuzzy-search for Git branches.
     Deleted branch feature/test (was 257725f).
     Deleted branch feature/impl (was 8120c0b).
 
-## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [11. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Articles / Third-party articles
 
 *   [PyTest MonkeyType Introduction](https://dev.to/ldrscke/type-annotate-an-existing-python-django-codebase-with-monkeytype-254i) - Type Annotate an existing Python Django Codebase with MonkeyType.
 *   [Type Check Your Django Application](https://kracekumar.com/post/type_check_your_django_app/) - An article based on two recent talks on adding type checks to Django.
 
-## [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Justice Sworn](https://sandypuggames.itch.io/justice-sworn) -  Ironsworn in a side scrolling beat-em-up setting
 
-## [12. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
+## [13. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/week/README.md)
 
 ### Introduction
 
 *   [AI/ML YouTube Courses (⭐8.6k)](https://github.com/dair-ai/ML-YouTube-Courses)
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Web frameworks
 
 *   [Lad (⭐2.2k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 
-## [14. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 *   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
 
-## [15. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [16. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
@@ -159,14 +165,14 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 
-## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [17. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
 *   [InfluxDB](https://www.influxdata.com/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
 *   [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 
-## [17. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [18. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Books
 
@@ -228,19 +234,83 @@ Interactive UI and fuzzy-search for Git branches.
 *   [cli-mandelbrot (⭐76)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 *   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
-## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [19. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 
-## [19. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [20. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [21. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Strategy
+
+### [Axis & Allies](https://en.wikipedia.org/wiki/Axis_%26_Allies)
+
+> Played on a board depicting a Spring 1942 political map of Earth divided by territories, players take the role of one or more of the five major belligerents of World War II: the Axis powers of Germany and Japan; and the Allied powers of the Soviet Union, the United Kingdom, and the United States. Turn rotates among these belligerents, who control armies of playing pieces with which they attempt to capture enemy territories, with results determined by dice rolls.
+
+![Axis & Allies image](https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc\(\)/pic24006.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       12 | 180m |
+### [Blokus](https://en.wikipedia.org/wiki/Blokus)
+
+> Game with Tetris-like, colored pieces made from little squares that players are trying to play onto the board. Each new piece must be placed so that it touches at least one piece of the same color but only corner-to-corner contact is allowed — edges of the same color pieces cannot touch. Game ends when nobody can place any more pieces. Player with least sum of squares from not placed peaces wins the game.
+
+![Blokus game image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Blokus_board_game.jpg/200px-Blokus_board_game.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        7 | 20-30m |
+
+### Party
+
+### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
+
+> Compete with other influential families in the city to achieve the most honorable titles through the skillful use of assistants and resources at your disposal. The player who succeeds in doing this best becomes the new "Obermufti" of Marrakesh.
+> Marrakesh is played over three rounds, with each round consisting of four turns. On each turn, players simultaneously and secretly choose three colored cylinders from behind their screen. Then, in turn order, they place matching colored assistants on their player board and perform the corresponding action, then all cylinders are placed in the cube tower. Then, in turn order, players select a color and take 1-2 of the cylinders that have passed through the tower (or those that were stuck from a previous round but have now emerged) and place them on their player boards. These cylinders will enhance future actions taken in the same color in future rounds. Actions allow players to gain wealth, which can be traded for influence in the city. Performing various actions also earns bonuses and enhances actions even more as the game proceeds. The player who scores the most points by the end of the game wins.
+
+![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc\(\)/pic6289695.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |      14+ | 120m |
+### [Rat-a-Tat Cat](https://www.boardgamegeek.com/boardgame/3837/rat-tat-cat)
+
+> Get rid of the rats and go for the cats! In Rat-a-Tat Cat, less is always better, and you want to go out with the lowest score. Can you remember the numbers on the other players' cards? Can you keep a poker face, but notice when another player looks pleased? Sharpen your memory and your timing, and have fun with the cool cats and bad rats of Rat-a-Tat Cat. This is the Gamewright version.
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__itemrep/img/7bCQhZauNwAuekRT3xwbt2FCLlo=/fit-in/246x300/filters:strip_icc\(\)/pic147435.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 6 |       6+ |  10m |
+### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
+
+> In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses. But a word can only be played if it uses at least one already-played tile or adds to an already-played word. This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.
+
+![Scrabble image](https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep/img/xtiNZzN_7T6xZ3EPxzgYcBz9Ydk=/fit-in/246x300/filters:strip_icc\(\)/pic404651.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |      10+ |  90m |
+### [Unanimo Party](https://www.boardgamegeek.com/boardgame/261614/unanimo-party)
+
+> Be unanimous on 6 words!
+> A card is placed in the centre of the table. At that moment, each player writes words on his notepad which are inspired by the theme. Let your inspiration guide you… But be careful, whatever you do, don’t be original. The only answers which count are the ones which are the same as the other players!
+
+![Rat-a-Tat Cat image](https://cf.geekdo-images.com/7KL7IYpSbZ3xWVYVdKfUeg__itemrep/img/t5OBTFFAWagqcmrW6odyvW3Zn1I=/fit-in/246x300/filters:strip_icc\(\)/pic4415146.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|  3 - 12 |      10+ |  30m |
+
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Configuration
 
@@ -250,7 +320,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
 
-## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -261,37 +331,37 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/) - September 28, 2021 - Custom deployment layout for Blazor WebAssembly apps.
 *   [Blazor updates for .NET 6 using Visual Studio 2022](https://www.roundthecode.com/dotnet/blazor/blazor-updates-dotnet-6-visual-studio-2022) - September 16, 2021 - Blazor updates for .NET 6 using Visual Studio 2022.
 
-## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [24. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 
-## [23. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [25. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Educational
 
 *   [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
 
-## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
 *   [CLUnit2](https://notabug.org/cage/clunit2/) - A unit testing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [HPParallaxHeader (⭐38)](https://github.com/ngochiencse/HPParallaxHeader) - Simple parallax header for UIScrollView.
 
-## [26. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [28. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Application Containers: Kubernetes and Docker from Scratch](https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 
-## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Security Tools / File Sharing
 
@@ -306,13 +376,13 @@ Interactive UI and fuzzy-search for Git branches.
 *   [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github\&utm_medium=referral\&utm_campaign=githubproject) - Your New Favorite Free Ad Blocker for macOS and iOS: Stop seeing annoying ads in Safari. Open websites faster. Browse the web more safely.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1491889901?pt=444218\&ct=GitHub\&mt=8)
 *   [Cleaner One](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8) - All-in-one Disk Cleaning Manager: Clean up your Mac and optimize its performance. Run a quick scan now to verify what's taking up your storage. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/apple-store/id1133028347?pt=444218\&ct=GitHub\&mt=8)
 
-## [28. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [30. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Security Education Courses / Reverse Engineering Tools
 
 *   [Roppers Academy Training](https://www.hoppersroppers.org/training.html) - Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF.
 
-## [29. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Open source / Other / unknown licence
 
@@ -326,37 +396,37 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [blake2s (⭐1)](https://github.com/lkujaw/blake2s) - SPARK83 implementation of the BLAKE2s hash function.
 
-## [30. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [32. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### CDN / Other Tools
 
 *   [jsDelivr CDN](https://cdn.jsdelivr.net/npm/lit/+esm)
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
 *   [MotorAdmin (⭐480)](https://github.com/motor-admin/motor-admin-rails) - A low-code Admin panel and Business Intelligence Rails engine. No DSL - configurable from the UI.
 
-## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [34. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Recognition / Self-supervised Learning
 
 *   [PASS: An An ImageNet replacement for self-supervised pretraining without humans (⭐247)](https://github.com/yukimasano/PASS)
 
-## [33. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [35. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Cloud and Docker Solutions
 
 *   [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
 
-## [34. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [36. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Third-Party owned
 
 *   [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. [Read this article over Climate activist arrest](https://protonmail.com/blog/climate-activist-arrest/).
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -370,7 +440,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [ScottPlot](https://swharden.com/scottplot/) - A plotting library to interactively displays large datasets. Line plots, bar charts, pie graphs, scatter plots, and more. It supports WinForms, WPF, Avalonia, Console.
 
-## [36. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -380,19 +450,19 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [@vitejs/plugin-react (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
 
-## [37. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [39. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [xnbox/DeepfakeHTTP (⭐432)](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 
-## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Micrometer Keycloak extension (⭐7)](https://github.com/micrometer-metrics/micrometer-keycloak)
 
-## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [41. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -410,7 +480,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   🧩 [Tailwind Typeahead (⭐14)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
 *   📁 [OhMySMTP Templates (⭐144)](https://github.com/ohmysmtp/templates) - Set of Transactional HTML Email Templates, built with Maizzle
 
-## [40. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [42. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secure Development Guidelines
 
@@ -424,7 +494,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - *OWASP* - A repository of information about software vulnerabilities and how to prevent them.
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -438,7 +508,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [vue-use-popperjs (⭐16)](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -1178,7 +1248,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -1205,7 +1275,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [GlitchTip](https://glitchtip.com) - Open source error-tracking app. GlitchTip collects errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python`
 *   [Pachno](https://pach.no/) - Bring your team together to design, build and deliver your project with a tool that works with you and your team, and adapts when you need to. ([Source Code (⭐89)](https://github.com/pachno/pachno)) `MPL-2.0` `PHP`
 
-## [44. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [46. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Thorg
 
@@ -1222,7 +1292,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [GLM Rewards Program](https://blog.golemproject.net/community-incentives-program/) - A program that incentivizes activity within development, support, content creation, and more.
 *   [Gitcoin Bounties](https://gitcoin.co/golemfactory/bounties) - A collection of open bounties and hackathons hosted on Gitcoin.
 
-## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
@@ -1244,7 +1314,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Teachable Machine](https://teachablemachine.withgoogle.com/) - Train Machine Learning models on the fly to recognize your own images, sounds, & poses.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 
-## [46. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Internationalization
 
@@ -1254,7 +1324,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [mac-address (⭐2)](https://github.com/automatico/mac-address) - Library for working with MAC addresses
 
-## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1268,7 +1338,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [sbdchd/neoformat (⭐1.6k)](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
 
-## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -1297,7 +1367,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Godot](https://godotengine.org/)
     *   [godot-rust/godot-rust (⭐2.9k)](https://github.com/godot-rust/godot-rust) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/godot-rust/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/godot-rust/actions/workflows/full-ci.yml)
 
-## [49. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [51. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -1316,7 +1386,7 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
 
-## [50. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [52. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering / Systems Complexity
 
@@ -1327,19 +1397,19 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Why it's difficult to build teams in high growth organisations](https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337) - Describes 3 different approach a manager can take to accommodate new people in the team: 1. Sink or Swim; 2. Split and Absorb; 3. Absorb and Split.
 *   [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) - Story of a manager trying to distill the concepts of a data-driven company while growing a tiny team of 3 people. Each step covers the evolution of the technical pipeline and interactions with existing stakeholders.
 
-## [51. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [53. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Business Intelligence / Metrics
 
 *   [The SaaS Financial Model You'll Actually Use](https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a statup, which gives you extra-context on how the metrics you produce fit into the larger picture.
 
-## [52. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [54. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication
 
 *   [A Child's Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - In the same spirit as above, but this time at the service level.
 
-## [53. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [55. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -1359,13 +1429,13 @@ Interactive UI and fuzzy-search for Git branches.
 
 *   [graphql-tag (⭐7)](https://github.com/deno-libs/graphql-tag) - GraphQL schema AST from template literal.
 
-## [54. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [56. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Setup and Deployment
 
 *   [gdx-liftoff (⭐322)](https://github.com/tommyettinger/gdx-liftoff) - A modern setup tool for libGDX that uses the current Gradle 7.x series.
 
-## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1403,7 +1473,7 @@ Interactive UI and fuzzy-search for Git branches.
 *   [Components.studio](https://webcomponents.dev/) - Code components in isolation, visualize them in stories, test them and publish them on npm.
 *   [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
 
-## [56. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [58. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Bindings
 

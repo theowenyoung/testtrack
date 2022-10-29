@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,13 +31,19 @@
 
 *   [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 
-## [5. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / E companies
+
+*   Entelo <https://sourcecode.entelo.com/>
+
+## [6. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / Note Management
 
 *   [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 
-## [6. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [7. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Tools
 

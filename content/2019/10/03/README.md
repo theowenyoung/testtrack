@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2019
 
-22 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -254,7 +254,54 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [21. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [21. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Candy Land](https://en.wikipedia.org/wiki/Candy_Land)
+
+> The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
+
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        3 | 15-21m |
+
+### Strategy
+
+### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+
+> Splendor places you in the shoes of a wealthy Renaissance merchant trying to compete with others to build the most lucrative and prestigious jewelry business in all of Europe. Players will compete with each other to buy gem mines, transportation, and storefronts in order to increase their wealth and accumulate the most prestige points. As your fame and wealth grows, you may even attract the attention of the local nobles...
+
+![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  30m |
+
+### Party
+
+### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_\(board_game\))
+
+> Terraforming Mars is a game where players take the role of corporations to terraform the planet by raising the temperature and creating oxygen, water, plant and animal life. Players compete to earn the most points, which are measured by their contribution to terraforming, as well as building human infrastructure.
+
+![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   1 - 5 |       12 | 120m |
+### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
+
+> Trash Pandas is a card game where you get to play as a racoon, trying to gather useful trash as you paw through the card deck. Start a collection of precious trash items, like day-old pizza or half-eaten candy, and gain points to be the best trash panda on the block. But wait, roll the dice to sabotage other masked fiends to prevent them from taking your spot at the top, but make sure you don't mess with any Doggos that can mess with you back. Trash is treasure, and stash the most trash!
+
+![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  15m |
+
+## [22. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bytecode Manipulation
 
@@ -378,7 +425,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [22. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [23. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 

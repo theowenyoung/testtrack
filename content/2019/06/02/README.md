@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 02, 2019
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,6 +41,24 @@
 ### Development tools / Web Servers
 
 *   [Module Linker (⭐244)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+
+## [5. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React General Resources
+
+*   [React Official Website](https://reactjs.org/)
+
+### React Community
+
+*   [Reactiflux Discord Channel](http://www.reactiflux.com/)
+
+### React Tutorials / React General Tutorials
+
+*   [React Cheatsheet](https://devhints.io/react)
+
+### React Tutorials / React Performance
+
+*   [A Definitive Guide to Optimize Major Performance issues in React](https://www.simform.com/react-performance/)
 
 ---
 

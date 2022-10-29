@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 17, 2017
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,24 @@
 
 *   [Welcome to How To Grow (almost) Anything in GaudiLabs - Switzerland](http://bio.academany.org/2015/labs/luzern/final_project.html) - A guide to setting up a basic microbiology lab.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Tools](/content/lvwzhen/tools/README.md)
+
+### Response
+
+*   [Sizzy](http://sizzy.co)
+
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   Grab <http://engineering.grab.com/>
+*   Grafana <https://grafana.com/blog/>
+
+### Companies / H companies
+
+*   Heap <https://heap.engineering/>
+
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

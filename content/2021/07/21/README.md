@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,25 @@
 
 *   [Lintier (⭐9)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
 
-## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Noms ☠️ (⭐7.5k)](https://github.com/attic-labs/noms): Versioned, forkable, syncable decentralized database, philosophically descendant from the Git version control system. Nobody is working on this right now.
+
+## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
 *   [tmux-nova (⭐60)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [Deploy Now](https://deploynow.space) — Deploy smarter. Deploy faster. Deploy Now. - Deploy up to 3 web projects from your GitHub repository for free.
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -40,13 +46,13 @@
 *   [bUnit, TDD, and Sci-fi with Egil Hansen](http://codingafterwork.com/2021/07/18/episode-59-bunit-tdd-and-sci-fi-with-egil-hansen/) - July 18, 2021 - In this episode, Jimmy and Jessica talk to Egil Hansen about bUnit, test-driven development, and Sci-fi. Duration: 72 minutes.
 *   [Blazor with Chris Sainty](https://unhandledexceptionpodcast.com/posts/0019-blazor/) - July 13, 2021 - In this episode, I was thrilled to be joined by Chris Sainty to chat all about Blazor! Blazor is a new .NET technology allowing you to build SPA-like frontend web UIs in C#! Very focused on developer productivity and componentisation - Blazor is certainly going to become my go-to for frontends moving forward! And chatting with Chris in this episode, has shown me even more reasons why Blazor is becoming so immensely popular.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
 *   [MunifTanjim/nui.nvim (⭐610)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Authentication & Authorization
 
@@ -126,7 +132,7 @@
 
 
 
-## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [8. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Stub packages
 
@@ -136,19 +142,19 @@
 
 *   [nbQA (⭐610)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Quality of Life Improvements
 
 *   [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/alin23/Lunar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Other Resources / Other Technology Resource Aggregators
 
 *   [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications.
 
-## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Code generators / Individual Podcast episodes
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [httpx (⭐9.5k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   HashiCorp <https://www.hashicorp.com/blog/>
+
+## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Shells
 
@@ -55,20 +61,20 @@
 *   [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org).
     Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
 
-## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Dialog
 
 *   [Plato (⭐950)](https://github.com/uber-research/plato-research-dialogue-system) - This is the Plato Research Dialogue System, a flexible platform for developing conversational AI agents.
 *   [RNNLG (⭐493)](https://github.com/shawnwun/RNNLG) - RNNLG is an open source benchmark toolkit for Natural Language Generation (NLG) in spoken dialogue system application domains.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
 *   [ZXing.Net (⭐2.1k)](https://github.com/micjahn/ZXing.Net/) - .Net port of the original java-based barcode reader and generator library zxing.
 
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Machine Learning
 
@@ -78,19 +84,19 @@
     *   [Object detection convolutional neural network with OCaml (based on Owl) (⭐18)](https://github.com/owlbarn/owl_mask_rcnn).
     *   [PyTorch bindings (⭐360)](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
 
-## [8. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [9. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Contributors
 
 *   [Elias Dabbas](https://www.dashboardom.com)
 
-## [9. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [10. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 
 *   [NoSQL vs SQL: Demystifying NoSQL Databases (2019)](https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/) - General overview and examples of NoSQL database schema types, while covering CAP theorem tradeoffs.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 

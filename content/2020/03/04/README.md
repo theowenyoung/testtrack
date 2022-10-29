@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,13 +54,19 @@
 
 *   [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 
-## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Solving Problems The Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) by **Rafal Dittwald** \[01:02:25]
+
+## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Videos
 
 *   [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) - Understand how quantum computing can help scientists solve some of the world's most challenging problems such as land optimisation.
 
-## [8. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [9. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -73,7 +79,7 @@
 
 *   [MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing, 2020](https://arxiv.org/abs/2002.08568)
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Proxy and VPN Tools / File Sharing
 
@@ -83,13 +89,13 @@
 
 *   [Todoist](https://todoist.com/mac) - Cross-platform todo list app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id585829637?mt=12)
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Configuration
 
 *   [profig](https://profig.readthedocs.io/en/latest/) - Config from multiple formats with value conversion.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Asynchronous Event Loop
 
@@ -99,7 +105,7 @@
 
 *   [Quill (⭐660)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Font
 
@@ -107,7 +113,7 @@
 *   [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
 *   [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### WebSocket
 

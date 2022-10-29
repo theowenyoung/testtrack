@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 17, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,6 +96,12 @@
 ### Resources for those already familiar with GitHub
 
 *   [Electron](http://electron.atom.io/) - Build cross platform desktop apps with web technologies
+
+## [8. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Maxime Thirouin (⭐3)](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
 
 ---
 

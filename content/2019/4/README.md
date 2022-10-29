@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28 - Feb 03, 2019
 
-60 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -151,6 +151,7 @@
 *   [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) - The tool from Google that performs comprehesive speed check of the mobile site.
 
 ## [8. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@stuarthalloway](https://github.com/stuarthalloway), [Clojure (⭐9.7k)](https://github.com/clojure/clojure)
     *   "Stewardship Made Practical" ([video](https://www.youtube.com/watch?v=_sEOXNmzv4g))
 
@@ -253,7 +254,26 @@
 
 *   [New York City Census Reporting Tool (⭐34)](https://github.com/NYCPlanning/labs-factfinder)
 
-## [20. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / E companies
+
+*   Ebay <https://www.ebayinc.com/stories/blogs/tech/>
+
+### Companies / H companies
+
+*   Hasura <https://blog.hasura.io/>
+
+### Companies / S companies
+
+*   Stackshare <https://stackshare.io/feed>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jesal Gadhia <https://jes.al/>
+*   Junior Grossi <https://blog.jgrossi.com/>
+
+## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Server
 
@@ -263,13 +283,13 @@
 
 *   [PGXN client (⭐98)](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 
-## [21. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [22. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Search
 
 *   [CloudSh](https://cloudsh.com/) - Powerful search with a few lines of JavaScript.
 
-## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -283,32 +303,38 @@
 
 *   Slack [Flutter Berlin](https://flutterberlin.slack.com/join/shared_invite/enQtMzQ1NDI0NjU4Mjc5LWVjOTg0NmUxZmU4YzZjZjFkMWNjYWYyYTI5NjMyZWE5MDZjNDM0YzgyNWQyM2EzM2E0NDE4ZmQyMzQyMzRlNjI)
 
-## [23. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
+## [24. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
 
 ### Plugins
 
 *   [Apache](https://cordova.apache.org/plugins/)
 
-## [24. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [25. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Operating Systems
 
 *   [MCL](https://mcl.host)\
     MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed specifically to run containers. It has a small footprint of \~50MB and boots within seconds. It is currently optimized to run Docker.
 
-## [25. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [26. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Open Source Projects
+
+*   [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
+
+## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Accessing Android Logcat Logs with Appium](https://appiumpro.com/editions/53)
 
-## [26. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [28. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Browser Autofill Phishing (⭐1.4k)](https://github.com/anttiviljami/browser-autofill-phishing) - Demonstrates phishing for autofilled form fields that are hidden to the user.
 
-## [27. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [29. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Design / Miscellaneous
 
@@ -322,7 +348,7 @@
 
 
 
-## [28. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [30. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Sites for Practice / Problem Classifiers
 
@@ -334,7 +360,7 @@
 
 
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Interoperability
 
@@ -344,13 +370,13 @@
 
 *   [SolrExpress (⭐65)](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 
-## [30. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [32. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Monitoring
 
 *   [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
 
-## [31. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [33. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Documentation
 
@@ -390,14 +416,14 @@
 
 *   [Ethereum GitHub](https://github.com/ethereum/)
 
-## [32. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [NextJS Headless CMS Powered Blog Starter (⭐131)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 *   [NextJS Redux-Wrapper Material-UI (⭐125)](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 🤓 A boilerplate NextJS with Redux and Material UI.
 
-## [33. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [35. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Educational
 
@@ -420,19 +446,25 @@
 *   [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 *   [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
 
-## [34. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [36. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [Spiderless (⭐181)](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS.
 
-## [35. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [37. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [Apex Chainable Batch (⭐38)](https://github.com/rsoesemann/apex-chainable-batch) - Apex Batches can be chained by calling the successor batch from the `finish()` method of the previous batch. But such hardcoding makes this model inflexible. It's hard to build the chain from outside, neighter from a central class nor on runtime dependant on business logic.
 
-## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [38. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### editors & viewers
+
+*   [geojson.tools](http://geojson.tools/): web-based editor from HERE XYZ
+
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Download Management Tools / File Sharing
 
@@ -442,7 +474,7 @@
 
 *   [Windscribe](https://windscribe.com) - Gives 10gb per month free on the spot and gives limited(on free) location control. Connection also takes very less time.
 
-## [37. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [40. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -453,7 +485,7 @@
 
 *   [Slang (⭐1.1k)](https://github.com/kylestetz/slang) - An audio programming language built in JS
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -489,13 +521,13 @@
 
 *   [vue-scroll-to (⭐17)](https://github.com/KevinHoughton/vue-scroll-to) - Adds a directive that listens for click events and scrolls to elements.
 
-## [39. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Search / Other
 
 *   [Indexer4j (⭐47)](https://github.com/haeungun/indexer4j) - Simple and light full text indexing and searching library.
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ECMAScript
 
@@ -505,13 +537,13 @@
 
 *   [Elchemy (⭐1.1k)](https://github.com/wende/elchemy) - Compiler allowing to translate Elm programming language code to Elixir.
 
-## [41. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [44. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Diet
 
 *   [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
 
-## [42. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [45. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Official Resources
 
@@ -558,7 +590,7 @@
 
 *   [El Bruno's blog posts](https://elbruno.com/tag/q/)
 
-## [43. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Business
 
@@ -610,13 +642,13 @@
 
 *   [Tourism (⭐273)](https://github.com/bluemix/tourism-demo) - A Flutter tourism app by [Abdulmomen Kadum](https://github.com/bluemix/)
 
-## [44. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [47. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### IIoT (Industrial IoT) / Resources-websites-projects
 
 *   [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
 
-## [45. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [48. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Datasets / Subtypes of QA
 
@@ -648,7 +680,7 @@
     *   TriviaQA is a reading comprehension dataset containing over 650K question-answer-evidence triples. TriviaQA includes 95K question-answer pairs authored by trivia enthusiasts and independently gathered evidence documents, six per question on average, that provide high quality distant supervision for answering the questions.
     *   Paper: <https://arxiv.org/abs/1705.03551>
 
-## [46. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [49. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Styling / Navigation Demos
 
@@ -658,13 +690,13 @@
 
 *   [React Native Starter Kit (⭐376)](https://github.com/instamobile/react-native-starter-kit) - React Native starter kit with user onboarding elements, including Firebase Auth and Facebook Login integration.
 
-## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Hebrew
 
 *   [Deno intro in Hebrew (slides in English)](https://www.youtube.com/watch?v=9tJ_LkI6_qw)
 
-## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [51. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -1146,13 +1178,13 @@
 *   [AIToolbox (⭐774)](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 *   [Awesome CoreML (⭐528)](https://github.com/SwiftBrain/awesome-CoreML-models) - A curated list of pretrained CoreML models.
 
-## [49. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [52. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Free EDA Packages / Installable
 
 *   [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
 
-## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -1183,7 +1215,7 @@
 
 *   [Parasite (⭐22)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
-## [51. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [54. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -1202,13 +1234,13 @@
 
 *   [IoT OnOff](https://www.iot-onoff.com/) - Configurable iOS/Android app.
 
-## [52. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [55. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Tools
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [Sublimate (⭐59)](https://github.com/gabrielepalma/sublimate) – Fast prototyping with synchronization and authentication based on Sourcery.
 
-## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [56. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -1222,13 +1254,13 @@
 
 *   [Armadillo](https://gitlab.com/conradsnicta/armadillo-code) - Fast C++ library for linear algebra & scientific computing. \[Apache2] [website](http://arma.sourceforge.net/)
 
-## [54. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [57. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Books
 
 *   [Measure What Matters](https://www.whatmatters.com/book): A handbook for setting and achieving audacious goals by John Doerr.
 
-## [55. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Boilerplates
 
@@ -1242,7 +1274,7 @@
 
 *   [TSAO (⭐134)](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 
-## [56. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [59. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1260,13 +1292,13 @@
 
 *   [Building blameless working environment](https://sobolevn.me/2018/12/blameless-environment)
 
-## [57. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [60. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Presentations
 
 *   [salt-deconstructed](http://salt-decon.carson-anderson.com/) - Video and presentation (slides & PDF) by Carson Anderson.
 
-## [58. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [61. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -1306,13 +1338,13 @@
 *   [Destination Linux](https://www.patreon.com/destinationlinux) - Linux discussion and news related podcast.
 *   [This Week in Linux](https://www.patreon.com/tuxdigital) - Linux News Podcast, 2-3 times more topics per episode than other podcasts.
 
-## [59. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [62. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
 *   [Svaťa Šimara](http://svatasimara.cz/) - DDD series - language, domain, modeling, infrastructure, implementation in PHP
 
-## [60. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [63. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07 - Aug 13, 2017
 
-40 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -338,13 +338,23 @@ Webpage: <http://www.26grados.com/>
 *   [openlgtv.org.ru](http://openlgtv.org.ru) - A non-commercial project for legal reverse engineering and research on LG Television firmware. Seems a bit outdated but contains a lot of information.
 
 ## [27. Tips](/content/git-tips/tips/week/README.md)
+
 ## Push a new local branch to remote repository and track
 
 ```sh
 git push -u origin <branch_name>
 ```
 
-## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [28. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Scott Hanselman (⭐90)](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
+*   [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
+*   [Lizzie Siegle (⭐0)](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
+*   [Sami CHNITER (⭐0)](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
+
+## [29. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
@@ -354,13 +364,13 @@ git push -u origin <branch_name>
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Documentation / Runner
 
 *   [ESDoc (⭐2.7k)](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Device
 
@@ -374,7 +384,7 @@ git push -u origin <branch_name>
 
 *   [HHTabBarView (⭐132)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
-## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [32. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Graphics
 
@@ -388,7 +398,7 @@ git push -u origin <branch_name>
 
 *   [FOSSology](https://www.fossology.org/) - License compliance toolkit for software projects.
 
-## [32. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [33. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / YouTube Channels
 
@@ -403,7 +413,7 @@ git push -u origin <branch_name>
 *   [watsanfran](https://www.youtube.com/user/watsanfran/videos) - Classes and daily sermons in Thai and English.
 *   [Yuttadhammo Bhikkhu](https://www.youtube.com/user/yuttadhammo/videos) - Live broadcasts almost every day on the topics of meditation, Buddhism, and the monastic life.
 
-## [33. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
@@ -413,7 +423,7 @@ git push -u origin <branch_name>
 
 *   [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
 
-## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
@@ -430,32 +440,49 @@ git push -u origin <branch_name>
 *   [Introduction to TypeScript](https://www.packtpub.com/application-development/introduction-typescript-video) (Packt)
 *   [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 
-## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [36. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+
+### Hobby projects
+
+*   [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
+*   [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
+*   [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
+
+### How-to lockpicking guides
+
+*   [BosnianBill's Lock Picking for Beginners](https://www.youtube.com/playlist?list=PLTSWkYxuSlkXiSBwk3Hvbvx71sg-MH61s) - YouTube playlist of selected instructional videos sorted in order from first principles to techniques for specific locks.
+
+### Vendors
+
+*   [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
+*   [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
+
+## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Other Tools / Telegram
 
 *   [Datasploit (⭐2.7k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
-## [36. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Symmetric encryption
 
 *   [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
 
-## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [39. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
 *   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
 *   [flambo (⭐606)](https://github.com/yieldbot/flambo)
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### UI Automation
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
-## [39. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
@@ -471,7 +498,7 @@ git push -u origin <branch_name>
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *   [awesome-d3d12 (⭐193)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
-## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 

@@ -1,18 +1,28 @@
 # Awesome List Updates on May 08 - May 14, 2017
 
-46 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / H companies
+
+*   Heroku <https://blog.heroku.com/engineering>
+
+### Companies / S companies
+
+*   Strava <https://medium.com/strava-engineering/>
+
+## [2. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Data Validation
 
 *   [Orchestra (⭐609)](https://github.com/jeaye/orchestra)
 
-## [2. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [3. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Blogs
 
@@ -22,7 +32,7 @@
 
 *   [Lively Days](http://livelydays.com/) - Vegan recipes.
 
-## [3. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [4. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Windows Managers / Other Desktop Environments
 
@@ -68,25 +78,31 @@
 *   [speed-test (⭐3.8k)](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 *   [youtube-dl (⭐114k)](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
-## [4. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Functional Programming
+
+*   [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** \[1:00:09]
+
+## [6. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Presentation / Extensions
 
 *   [hacker-slides (⭐340)](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool
 
-## [5. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Testing
 
 *   [phalcon3-compose (⭐3)](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / Natural Language Processing
 
 *   [Montague (⭐52)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
 
-## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates
 
@@ -102,31 +118,31 @@
 
 *   [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
-## [8. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [10. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Libraries
 
 *   [Librosa (⭐5.5k)](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
 *   [RealWorld (⭐105)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐70k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
-## [10. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [12. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### System
 
 *   [Fkill (⭐461)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
-## [11. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [13. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Libraries
 
 *   [Pangolin (⭐1.8k)](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 
-## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [14. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
@@ -227,19 +243,19 @@
 *   [Mageres (⭐881)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 *   [Awesome PHP (⭐28k)](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
 
-## [13. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Examples and Exercises
 
 *   [Escape from Callback Mountain (⭐257)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
-## [14. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [16. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Podcasts / Individual Podcast episodes
 
 *   [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Injection
 
@@ -249,13 +265,13 @@
 
 *   [random\_compat (⭐8k)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 
-## [16. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [18. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [tensorpack (⭐6.2k)](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 
-## [17. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [19. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Courses
 
@@ -267,7 +283,7 @@
 
 *   [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 
-## [18. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [20. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Must Reads
 
@@ -292,13 +308,13 @@
 *   [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
 *   [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
 
-## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Static site generation
 
 *   [Wagtail-bakery (⭐147)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
-## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [22. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -308,7 +324,7 @@
 
 *   [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 
-## [21. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [23. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities
 
@@ -330,13 +346,13 @@
 *   'legal aspects'
 *   'typical mistakes'
 
-## [22. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
+## [24. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
 
 ### GUIs, Editors and Plugins / Go
 
 *   [Diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 
-## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [25. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -350,19 +366,19 @@
 
 *   [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 
-## [24. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
 *   [tag (⭐584)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
-## [25. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [App-Update-Tracker (⭐24)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
 
-## [26. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [28. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Books
 
@@ -387,25 +403,25 @@
 
 *   [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf) - Interesting idea of stacking multiple 3x3 conv+ReLU before pooling for a bigger filter size with just a few parameters. There is also a nice table for "ConvNet Configuration".
 
-## [27. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [29. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Templates / TikZ
 
 *   [Ultimate Beamer Theme List (⭐894)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
-## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [30. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [k6 (⭐18k)](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
 
-## [29. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [31. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
 *   [fontkit (⭐1.1k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 
-## [30. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -414,7 +430,7 @@
 *   [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
 *   [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [33. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -425,7 +441,7 @@
 
 *   [Orchid (⭐3.3k)](https://github.com/TheOrchid/Platform)
 
-## [32. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Distributed Computing
 
@@ -443,20 +459,26 @@
 
 *   [Dapper (⭐15k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 
-## [33. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [35. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
 *   [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
 
-## [34. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [36. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Colors / Social Sciences
 
 *   [ColorBrewer](http://colorbrewer2.org)
 *   [Paletton](http://paletton.com)
 
-## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [37. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Books
+
+*   [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
+
+## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -491,7 +513,7 @@
 
 *   [cake (⭐64)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
-## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
@@ -501,13 +523,13 @@
 
 *   [Trello](https://trello.com/) - Lean project boards.
 
-## [37. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [40. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Optimization / Training Techniques
 
 *   **Training very deep networks** (2015), R. Srivastava et al. [\[pdf\]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
-## [38. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [41. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
@@ -515,7 +537,7 @@
 *   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
 *   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐624)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -554,7 +576,7 @@
 
 *   [serum (⭐289)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Beginner
 
@@ -577,7 +599,7 @@
 
 *   [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats](http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html).
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [44. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Singapore 🇸🇬 / Outram Park
 
@@ -591,7 +613,7 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM |
 
-## [42. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [45. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Communication
 
@@ -613,25 +635,25 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 
 *   [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 
-## [43. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [46. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
-## [44. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [47. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Community
 
 *   [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
 
-## [45. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [48. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Glossaries
 
 *   [Lua 5.3 Glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) - A glossary of some essential Lua terms.
 
-## [46. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [49. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Build tools
 

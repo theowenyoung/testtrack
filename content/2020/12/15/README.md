@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,19 +76,29 @@
 *   [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
 *   [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
 
-## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [7. Tools](/content/lvwzhen/tools/README.md)
+
+### CDN
+
+*   [statically](https://statically.io/)
+
+### CSS
+
+*   [neumorphism css generator](https://neumorphism.io/)
+
+## [8. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Crash monitoring
 
 *   [Sentry (⭐592)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Books
 
 *   [Implementing DDD, CQRS and Event Sourcing](https://leanpub.com/implementing-ddd-cqrs-and-event-sourcing) - Learn how to implement DDD, CQRS and Event Sourcing. Understand the theory and put it into practice with JavaScript and Node.js.
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
@@ -98,13 +108,13 @@
 
 *   🚀 [Starter Dashboard Layout (⭐174)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
-## [10. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
 *   [Brackets (⭐34k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
-## [11. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [12. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Audio
 
@@ -163,7 +173,7 @@
 *   [Asm::X86](https://metacpan.org/pod/Asm::X86) - List of instructions and registers of x86-compatible processors, validating and converting instructions and memory references
 *   [ELF::Writer](https://metacpan.org/pod/ELF::Writer) - write and read executable ELF files
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -177,13 +187,13 @@
 
 *   [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in svg,png,jpeg an other formats.
 
-## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Style
 
 *   [padding (⭐4)](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 

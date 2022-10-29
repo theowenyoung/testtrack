@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 27, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,7 +23,13 @@
 *   [Bookmarkr (⭐16)](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 *   [Query Examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 
-## [3. Nginx Resources](/content/fcambus/nginx-resources/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Methodologies
+
+*   [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** \[47:47]
+
+## [4. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Architecture
 

@@ -13,6 +13,7 @@
 *   [ex\_chain (⭐18)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## Bypass pre-commit and commit-msg githooks
 
 ```sh

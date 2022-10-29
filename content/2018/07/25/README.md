@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,7 +39,17 @@
 *   [Nagios](https://nagios.org) - Popular network and service monitoring solution and reporting platform.
 *   [OpenNMS](https://opennms.org/) - Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).
 
-## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / M companies
+
+*   Mesosphere <https://mesosphere.com/blog/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Daniel Schmidt <https://medium.com/@dschmidt1992>
+
+## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Plotter Art For Sale / Ephemera
 
@@ -51,26 +61,27 @@
 *   [awesome-generative-art (⭐1.4k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐10k)](https://github.com/terkelg/awesome-creative-coding)
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
 *   [cride (⭐44)](https://github.com/j8r/cride) - A light CLI text editor/IDE
 
-## [8. Tips](/content/git-tips/tips/README.md)
+## [9. Tips](/content/git-tips/tips/README.md)
+
 ## Use SSH instead of HTTPs for remotes
 
 ```sh
 git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 ```
 
-## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Programming Editors and IDEs / Others
 
 *   [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -100,7 +111,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 
-## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 

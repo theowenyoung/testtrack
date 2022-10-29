@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29 - Jun 04, 2017
 
-41 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -177,7 +177,21 @@
 
 *   [crinja (⭐105)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
 
-## [18. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [18. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / J companies
+
+*   JobTeaser <https://medium.com/jobteaser-dev-team/>
+
+### Companies / S companies
+
+*   SitePoint <https://sitepoint.com>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nicolai Parlog (CodeFX) <http://codefx.org>
+
+## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -186,19 +200,19 @@
 *   [inchoo](http://inchoo.net/category/magento-2/)
 *   [integer\_net blog](https://www.integer-net.com/blog/)
 
-## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
 *   [BlogMVC (⭐7)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐214)](https://github.com/Grafikart/BlogMVC).
 
-## [20. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [21. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Clones
 
 *   [LIKO-12 (⭐999)](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 
-## [21. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [22. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Learning Swift
 
@@ -368,20 +382,20 @@
 *   [SwiftFiles (⭐39)](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground. ⏳
 *   [Earth photos (⭐6)](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
 
-## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
 *   [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
 
-## [23. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [24. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Frameworks
 
 *   [Fungus (⭐1.2k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 
-## [24. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [25. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Other
 
@@ -393,13 +407,13 @@
 
 
 
-## [25. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [26. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Datsys (⭐225)](https://github.com/metasoarous/datsys)
 
-## [26. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [27. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Blogs / Eagle
 
@@ -407,19 +421,107 @@
 *   [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
 *   [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
 
-## [27. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
-## [28. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [29. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Ionic Fundamentals
+
+*   [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
+*   [Ionic First Look Series: Your First Ionic App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)
+*   [How to Convert an Ionic 1 Application to Ionic](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)
+*   [A Simple Guide to Navigation in Ionic](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
+*   [10 Minutes with Ionic: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/)
+*   [How to Create a Data Model in Ionic](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
+*   [Ionic and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
+*   [Understanding Zones and Change Detection in Ionic & Angular 2](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
+*   [Understanding Ionic: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/)
+*   [How to Manipulate Data in Ionic: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
+*   [How to Manipulate Data in Ionic: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/)
+*   [Filtering, Mapping, and Reducing Arrays in Ionic](https://www.youtube.com/watch?v=A-4CLa05tp0)
+
+### Backend as a Service
+
+*   [10 Minutes with Ionic: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
+*   [Using Http to Fetch Remote Data from a Server in Ionic](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)
+*   [Posting data from Ionic app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)
+*   [Make HTTP Requests In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)
+
+### Theming
+
+*   [A Guide to Styling an Ionic Application](http://www.joshmorony.com/a-guide-to-styling-an-ionic-2-application/)
+*   [A List of Common CSS Utility Attributes in Ionic](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/)
+
+### Components
+
+*   [Creating a Sliding Introduction Component in Ionic](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)
+*   [How to Create a Custom Loading Component in Ionic](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)
+*   [Build a Simple Progress Bar Component in Ionic](http://www.joshmorony.com/build-a-simple-progress-bar-component-in-ionic-2/)
+*   [Create a News Feed with 360-Degree Photo Viewing in Ionic](http://www.joshmorony.com/create-a-news-feed-with-360-degree-photo-viewing-in-ionic-2/)
+*   [Build a Tap to Reveal Component in Ionic](https://www.joshmorony.com/build-a-tap-to-reveal-component-in-ionic-2/)
+
+### Authentication
+
+*   [Add Touch ID Authentication To An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)
+*   [Using An Oauth 2.0 Service Within An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)
+*   [Ionic and Auth0](http://blog.ionic.io/ionic-2-and-auth0/)
+*   [Authenticate Ionic with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
+
+### Unit Testing
+
+*   [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
+*   [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
+*   [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
+
+### Ionic Native / Cordova Plugins
+
+*   [Using Cordova Plugins in Ionic with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)
+*   [10 Minutes with Ionic: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/)
+*   [Monetize With Google Admob In An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/02/monetize-google-admob-ionic-2-mobile-app/)
+*   [Show Native Toast Notifications In An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/show-native-toast-notifications-in-an-ionic-2-mobile-app/)
+*   [Use SQLite In Ionic Instead Of Local Storage](https://www.thepolyglotdeveloper.com/2015/12/use-sqlite-in-ionic-2-instead-of-local-storage/)
+*   [Launch Websites With Ionic Using The InAppBrowser](https://www.thepolyglotdeveloper.com/2016/01/launch-websites-with-ionic-2-using-the-inappbrowser/)
+*   [Add Barcode Scanning Functionality To Your Ionic App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/)
+*   [Use Google Analytics In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/03/use-google-analytics-in-an-ionic-2-android-and-ios-app/)
+*   [Share Things On Social Media Via An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/02/share-things-on-social-media-via-an-ionic-2-mobile-app/)
+*   [How To Use PouchDB + SQLite For Local Storage In Ionic](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
+*   [Adding Background Geolocation to an Ionic Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/)
+*   [Getting Familiar with Local Notifications in Ionic](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/)
+*   [Create a Nearby Places List with Google Maps in Ionic – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/)
+*   [Create a Nearby Places List with Google Maps in Ionic – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/)
+
+### Video Tutorials
+
+*   [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)
+*   [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
+*   [Ionic: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
+*   [Ionic in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)
+*   [Build a Custom Flash Card Component in Ionic](https://www.youtube.com/watch?v=BKFQKywl_GM)
+*   [Hacking CSS in Ionic](https://www.youtube.com/watch?v=sXFmkdhOEVc)
+
+### Books
+
+*   [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
+*   [Ionic Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
+
+### Open Source Projects
+
+*   [Ionic Push Notification (⭐166)](https://github.com/aggarwalankush/ionic2-push-base)
+*   [Ionic Weather app (⭐249)](https://github.com/aggarwalankush/ionic2-mosum)
+*   [Ionic Reddit Reader (⭐128)](https://github.com/smartapant/ionic2-reddit-reader)
+*   [Ionic Advanced Components (⭐1.7k)](https://github.com/yannbf/ionic2-components)
+
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Style Guides
 
@@ -1011,26 +1113,41 @@
 *   [Player (⭐2k)](https://github.com/piemonte/Player) - iOS video player, simple drop in component for playing and streaming media.
 *   [SwiftVideoBackground (⭐331)](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 
-## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Courses
+
+*   [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
+*   [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
+*   [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
+*   [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
+*   [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
+*   [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
+
+### Books
+
+*   [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
+
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / Data Analysis / Data Visualization
 
 *   [D3.js](https://d3js.org/)
 *   [Learn JS Data](http://learnjsdata.com/)
 
-## [31. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [34. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
 *   [Avalonia (⭐16k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
-## [33. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [36. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Document Editors / Others
 
@@ -1048,13 +1165,13 @@
 
 *   [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### RSS
 
 *   [feedparser (⭐160)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
-## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -1135,7 +1252,7 @@
 *   [OsintStalker (⭐522)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1150,7 +1267,7 @@
 *   [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 *   [A collection of postmortem templates (⭐971)](https://github.com/dastergon/postmortem-templates)
 
-## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -1160,7 +1277,7 @@
 
 *   [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp. Published in 2015.
 
-## [38. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [41. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -1170,7 +1287,7 @@
 
 
 
-## [39. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [42. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -1193,13 +1310,13 @@
 
 *   [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
 
-## [40. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [43. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Python
 
 *   [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 
-## [41. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [44. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 

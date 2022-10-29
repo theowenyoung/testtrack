@@ -8,6 +8,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [castore (⭐32)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
+
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
 ### Tools / Playground

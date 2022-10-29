@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,7 +61,13 @@
 
 *   [BroYara (⭐32)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
-## [3. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / R individuals
+
+*   Robin Wilson <http://blog.rtwilson.com/>
+
+## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Fuzz Testing
 

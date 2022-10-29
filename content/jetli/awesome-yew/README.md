@@ -8,6 +8,12 @@
 
 
 
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### Projects
+
+*   [viz.rs (⭐1)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
+
 ## [Oct 12, 2022](/content/2022/10/12/README.md)
 
 ### Projects

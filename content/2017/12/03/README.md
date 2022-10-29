@@ -1,12 +1,24 @@
 # Awesome List Updates on Dec 03, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Germany 🇩🇪
+
+### Strasbourg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
+
+## [2. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Productivity
 
@@ -14,7 +26,7 @@
 *   [PDF Tools (⭐115)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 *   [Things (⭐333)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
-## [2. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Partial Access
 
@@ -28,7 +40,7 @@
 *   [buildah (⭐5.7k)](https://github.com/projectatomic/buildah)\
     A tool which facilitates building OCI container images.
 
-## [3. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
+## [4. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Videos / Old recordings
 
@@ -41,13 +53,13 @@
 *   [Unix Recovery Legend](https://www.ee.ryerson.ca/\~elf/hack/recovery.html) (1986)
 *   [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](https://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Mailspring (⭐13k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 

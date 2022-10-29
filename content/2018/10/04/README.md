@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2018
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,31 +84,37 @@
 
 *   [Capturing Browser Errors and Logs in iOS Web/Hybrid Apps](https://appiumpro.com/editions/37)
 
-## [8. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Timetable Publishing Tools / Ruby
+
+*   [TimeTablePublisher (TTPUB) (⭐24)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
+
+## [9. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Art & Design
 
 *   [Font Memory Game](https://betterwebtype.com/font-memory-game) - Recognizing different styles of fonts is one of the most challenging parts of typography.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
 *   [Sentry (⭐424)](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 
-## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [11. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Community Resources
 
 *   [Quora](https://www.quora.com/topic/Domain-Driven-Design-DDD) - Questions tagged *domain-driven-design*.
 
-## [11. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [12. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) \* An Aurelia custom element for [highlight.js](https://highlightjs.org/)
 
-## [12. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 
@@ -140,7 +146,7 @@
 *   [android app security checklist (⭐769)](https://github.com/b-mueller/android_app_security_checklist)
 *   [Mobile App Pentest Cheat Sheet (⭐3.6k)](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
-## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [14. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### 3D
 
@@ -180,7 +186,7 @@
     *   [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - Supports syntax highlighting, auto-completion, and build system.
     *   [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
-## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -192,13 +198,13 @@
 *   [SerilogAnalyzer (⭐272)](https://github.com/Suchiman/SerilogAnalyzer) - Roslyn-based analysis for code using the Serilog logging library. Checks for common mistakes and usage problems.
 *   [sourcelink (⭐1.1k)](https://github.com/dotnet/sourcelink) - SourceLink is a language- and source-control agnostic system for providing first-class source debugging experiences for binaries.
 
-## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [16. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Gallery / PGFPlots
 
 *   [alemelis/tikz\_drawings (⭐36)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
 
-## [16. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [17. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Firmware
 

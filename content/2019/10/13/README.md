@@ -76,6 +76,7 @@
 
 
 ## [10. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@brianc](https://github.com/brianc), [node-postgres (⭐11k)](https://github.com/brianc/node-postgres)
     *   "Creating and maintaining node-postgres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
 *   [@mpdehaan](https://github.com/mpdehaan), [Ansible (⭐55k)](https://github.com/ansible/ansible), [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)

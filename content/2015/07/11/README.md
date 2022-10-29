@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 11, 2015
 
-2 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Patty Delgado (⭐0)](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
+
+## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/README.md)
 
 ### Android Development
 
@@ -50,11 +56,17 @@
 
 *   [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Hardware
 
 *   [i2c-bus (⭐316)](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / A individuals
+
+*   Aaron Patterson <http://tenderlovemaking.com/>
 
 ---
 

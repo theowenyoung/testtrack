@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,13 +37,19 @@
 
 *   [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 
-## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Soshace <https://blog.soshace.com/en/>
+
+## [3. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Contributors
 
 *   [Sergey Pikhovkin](https://github.com/pikhovkin)
 
-## [3. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [4. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Websites
 
@@ -67,13 +73,13 @@ Learn about security and performance.
 
 Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
 
-## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [5. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 
 *   [Quantum Katas (⭐4k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 
-## [5. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [6. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Presentations / ROSCon 2018
 
@@ -93,13 +99,13 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   Node.js Client & Web Bridge Ready for ROS 2.0
 *   RCLAda: the Ada client library for ROS2
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
 *   [Geometric Tools](https://www.geometrictools.com) - C++ library for computing in the fields of mathematics, graphics, image analysis and physics. \[Boost] [website](https://www.geometrictools.com)
 
-## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -109,32 +115,32 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Awesome Crypto Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [8. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Preventing / Server-Side Request Forgery
 
 *   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Other lists / Hash functions
 
 *   [Awesome crypto-papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
 *   [MOS-connection (⭐13)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
-## [11. Typography](/content/deanhume/typography/README.md)
+## [12. Typography](/content/deanhume/typography/README.md)
 
 ### Web Fonts & Web Performance
 
 *   [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
-## [12. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [13. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Types of QA
 

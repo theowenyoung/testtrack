@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01 - Aug 07, 2022
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -438,25 +438,31 @@
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
-## [38. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [38. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### editors & viewers
+
+*   [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
+
+## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
 *   [MathRelay](https://www.mathrelay.com/)
 
-## [39. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [40. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Container Composition
 
 *   [ctk (⭐217)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
-## [40. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [41. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### GUI
 
 *   [capy-ui/capy (⭐528)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
-## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -474,7 +480,7 @@
 
 *   [vite-plugin-build (⭐13)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
-## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
@@ -489,13 +495,13 @@
 
 *   [cl-git (⭐51)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [43. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [44. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### ORM
 
 *   [ZORM](https://gitee.com/chunanyong/zorm) - ORM support TDenging by Go.
 
-## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -516,7 +522,7 @@
 *   [danielparks (⭐0)](https://github.com/danielparks/danielparks-zsh-theme) - Works well on dark backgrounds. Includes decorators for `git` status, user\@host when in an `ssh` session, success/failure of last command, working directory, python virtualenv, execution time of last command and whether running as `root`.
 *   [odra (⭐2)](https://github.com/ErikBenavides/odra.zsh-theme) - Colorful, works well on dark backgrounds. Includes decorators for `git` status, current directory, username and exit status of the last command.
 
-## [45. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -526,7 +532,7 @@
 
 *   [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -544,13 +550,13 @@
 
 *   [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
 
-## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [D++ (DPP) (⭐514)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
 
-## [48. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -653,7 +659,7 @@
 
 *   [Instiki](https://golem.ph.utexas.edu/wiki/instiki/show/HomePage) - Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. ([Source Code (⭐478)](https://github.com/parasew/instiki)) `Ruby` `Ruby`
 
-## [49. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [50. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Papers
 
@@ -661,7 +667,7 @@
     *   Direct link to the [paper](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan/unterguggenberger-2022-vulkan-paper.pdf).
     *   Pre-recorded presentation on [YouTube](https://youtu.be/ZG0ct4V6c0k).
 
-## [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Methodologies for Experiments / Quantitative Analysis
 
@@ -675,7 +681,7 @@
 
 *   [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***Center for Brains, Minds, and Machines MEMO No.010***, 2014. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14593712389828476130)].
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 

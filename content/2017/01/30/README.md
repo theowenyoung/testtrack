@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 30, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,6 +61,7 @@
 *   [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16\~22 Oct. 2017)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Backup untracked files.
 
 ```sh
@@ -73,7 +74,13 @@ git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 
 *   [ijkplayer (⭐31k)](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Convox <https://convox.com/blog>
+
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 

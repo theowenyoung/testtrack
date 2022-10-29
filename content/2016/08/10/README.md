@@ -7,6 +7,7 @@
 
 
 ## [1. Tips](/content/git-tips/tips/README.md)
+
 ## Forced push but still ensure you don't overwrite other's work
 
 ```sh

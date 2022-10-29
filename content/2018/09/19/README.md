@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,26 +54,38 @@
 
 *   [CANalyzat0r (⭐655)](https://github.com/schutzwerk/CANalyzat0r) - A security analysis toolkit for proprietary car protocols.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### South America / Brazil 🇧🇷
+
+### Joinville
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nexwire" height="70px" width="70px" align="left" alt="" />
+
+**Marcelo Camargo**\
+Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\
+<https://twitter.com/nexwire>
+
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### On-Call
 
 *   [Checklists: a stupidly simple but valuable operational gift](https://tech.buzzfeed.com/checklists-an-operational-gift-aaf42cf0be12)
 *   [How to write a status page update](https://blog.hostedgraphite.com/2018/09/13/how-to-write-a-status-page-update/)
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Exceptions and Error Handling
 
 *   [Ex (⭐17)](https://github.com/mpenet/ex)
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
 *   [run-electron (⭐195)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
-## [9. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+## [10. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
 ### Community
 

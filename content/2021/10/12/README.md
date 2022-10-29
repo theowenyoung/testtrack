@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -92,13 +92,19 @@
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [react-scanner (⭐433)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
+
+## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-shared-modules (⭐17)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
-## [12. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
 
@@ -106,7 +112,7 @@
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3) for OpenSUSE Leap 15.3.
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h) for OpenSUSE Leap 15.2.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 

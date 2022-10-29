@@ -7,6 +7,7 @@
 
 
 ## [1. Tips](/content/git-tips/tips/README.md)
+
 ## Restore deleted file.
 
 ```sh

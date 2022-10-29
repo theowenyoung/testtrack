@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,13 +68,23 @@
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 *   [Plan (⭐13)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
-## [7. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Routing
+
+*   [react-location (⭐2.5k)](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
+
+### Redux Tools / Charts
+
+*   [Rematch (⭐8.3k)](https://github.com/rematch/rematch) - Redux made easy
+
+## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Python tools / Misc
 
 *   [pptk (⭐532)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -101,13 +111,13 @@
 
 
 
-## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Theory of Mind / Literature Visualization
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
-## [10. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Articles / Hellonext
 

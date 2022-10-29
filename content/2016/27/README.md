@@ -159,6 +159,7 @@
 *   [lwjgl3 (⭐4k)](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 
 ## [16. Tips](/content/git-tips/tips/week/README.md)
+
 ## Show changes using common diff tools.
 
 ```sh

@@ -8,6 +8,12 @@
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Security Audits / Wallets
+
+*   [algorand-ecosystem-audits (⭐2)](https://github.com/blockshake-io/algorand-ecosystem-audits) - A growing collection of audit reports in the Algorand ecosystem maintained by [blockshake-io](https://blockshake.io).
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Tools / Wallets

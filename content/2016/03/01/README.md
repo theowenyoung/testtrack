@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 01, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / V companies
+
+*   Viget <https://www.viget.com/articles/category/code#articles>
+
+## [2. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### ViewPager
 
@@ -18,7 +24,7 @@
 
 
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
@@ -28,25 +34,25 @@
 
 *   [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
 
-## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization
 
 *   [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 
-## [4. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
+## [5. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
 ### Packages and Middleware
 
 *   [Larasupport (⭐123)](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
 
-## [5. Awesome Scala](/content/lauris/awesome-scala/README.md)
+## [6. Awesome Scala](/content/lauris/awesome-scala/README.md)
 
 ### Misc. / Devops
 
 *   [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -70,7 +76,7 @@
 
 *   [mem (⭐977)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 

@@ -6,7 +6,13 @@
 
 
 
-## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [1. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### validation
+
+*   [Jest-GeoJSON (⭐5)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
@@ -32,13 +38,13 @@
 
 *   [Mars Server (⭐19)](https://github.com/borjapazr/mars-server) - Managed home server with Docker, Docker Compose, Make and Bash. `MIT` `Docker`
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Podcasts / Others
 
 *   [Indexing Video using KlipTok with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1796) - June 2, 2022 - How do you find a great video clip after the fact? Carl and Richard talk to Jeff Fritz about his work building KlipTok, a tool for making Twitch video clips more discoverable and shareable. Jeff digs into the tricky bits of KlipTok, which is all about fast indexing and searching to get to the right clip. The conversation digs into various data storage techniques and using the cloud in a way that doesn't break the bank. Jeff may be a Microsoft employee, but that doesn't mean he uses only Microsoft tools for his projects. Duration: 57 minutes.
 
-## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Plotters
 
@@ -66,18 +72,12 @@
 
 *   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters .
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [Nebulgym (⭐179)](https://github.com/nebuly-ai/nebulgym) - Easy-to-use library to accelerate AI training. \[DEEP LEARNING]
 *   [Nebullvm (⭐1.4k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference. \[DEEP LEARNING]
-
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Testing
-
-*   [EranBoudjnah/TestIt (⭐32)](https://github.com/EranBoudjnah/TestIt) - Generate unit testing boilerplate from kotlin files.
 
 ## [6. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 

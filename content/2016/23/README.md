@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06 - Jun 12, 2016
 
-37 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,13 @@
 
 *   [Testing a React & Redux Codebase](http://silvenon.com/testing-react-and-redux/) - A comprehensive series of tutorials about testing a React and Redux project using AVA.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Web Apps (open source)
+
+*   [Transitive.js (⭐653)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
+
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
@@ -29,13 +35,13 @@
 
 *   [BWWalkthrough (⭐2.8k)](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-aggregators :fire: (⭐148)](https://github.com/awslabs/amazon-kinesis-aggregators) - Provides a simple way to create real time aggregations.
 
-## [5. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Monitoring & Observability & Alerting
 
@@ -45,13 +51,13 @@
 
 *   [Site reliability engineering kicks rote tasks out of IT ops](http://searchitoperations.techtarget.com/feature/Site-reliability-engineering-kicks-rote-tasks-out-of-IT-ops)
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Books
 
 *   [PHP Pandas](https://daylerees.com/php-pandas/) - A book about learning to write PHP by Dayle Rees.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Templates
 
@@ -61,7 +67,7 @@
 
 *   [Pkcs11Interop (⭐204)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
-## [8. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Machine Learning Extension
 
@@ -71,7 +77,7 @@
 
 *   [Big Data Analysis with Scala and Spark (Coursera)](https://www.coursera.org/learn/big-data-analysys) - Scala oriented introductory course. Part of [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala).
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -81,7 +87,7 @@
 
 *   [aws-signer.cr (⭐12)](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
 
-## [10. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
+## [11. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
 
 ### Communities / Sony
 
@@ -90,13 +96,13 @@
 *   [Open Source Photography Sub on Reddit](https://www.reddit.com/r/opensourcephotography)
 *   [Open Source Photography Group on 500px](https://500px.com/groups/open-source-photography)
 
-## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [12. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
 *   [Modular Tracking Framework](http://webdocs.cs.ualberta.ca/\~vis/mtf/index.html)
 
-## [12. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [13. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / WebAPI
 
@@ -113,31 +119,31 @@
 *   [Everything Related to Escrow](https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/)
 *   [Understanding Avatar Hash](https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/)
 
-## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [CakePHP Vagrant Setup (⭐5)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP 3.x Vanilla Dev Environments.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### E-Commerce and Payments
 
 *   [Braintree (⭐421)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
-## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [16. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Русский (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
-## [16. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
 *   [split (⭐345)](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
@@ -162,13 +168,13 @@
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 *   [Awesome C (⭐2.9k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
-## [18. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [19. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
 *   [neo4j-spark-connector (⭐293)](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
@@ -178,25 +184,25 @@
 
 *   [cloudex (⭐97)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
-## [20. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [21. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
 *   [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
 
-## [21. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
 *   [MonkeyLearn (⭐94)](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
 
-## [22. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [23. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tutorials
 
 *   [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview) - Official tutorials from Microsoft for creating Microsoft HoloLens applications.
 
-## [23. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [24. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Support Tables
 
@@ -209,13 +215,13 @@
 
 *   Continuously run automated tests in different browsers using [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) or other alternatives.
 
-## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [25. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Crypter (⭐441)](https://github.com/HR/Crypter) - Secure encryption client.
 
-## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -232,7 +238,7 @@
 *   `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 
-## [26. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [27. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Boilerplates
 
@@ -250,7 +256,7 @@
 *   [MWC-Mixin (⭐15)](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
 *   [MWC-Router (⭐4)](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
 
-## [27. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [28. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -292,7 +298,7 @@
 
 *   [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 
-## [28. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [29. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Official Resources
 
@@ -481,25 +487,26 @@
 *   New categories or improvements to the existing categorization are welcome.
 *   Pull requests should have a useful title and include a link to the package and why it should be included.
 
-## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code (⭐637)](https://github.com/amygdala/tensorflow-workshop) by Julia Ferraioli, Amy Unruh, Eli Bixby
 
-## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [31. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 
-## [31. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [32. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
 *   [jmh-compare-gui (⭐70)](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
 
-## [32. Tips](/content/git-tips/tips/week/README.md)
+## [33. Tips](/content/git-tips/tips/week/README.md)
+
 ## List all branch is WIP
 
 ```sh
@@ -537,13 +544,13 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 git config core.fileMode false
 ```
 
-## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Facebook Accounts / Book Deals (Affiliated) 🛍
 
 *   [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -553,7 +560,7 @@ git config core.fileMode false
 
 *   [You Don't Know Node.js (⭐1.4k)](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 
-## [35. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
+## [36. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
 
 ### Communities
 
@@ -568,17 +575,46 @@ git config core.fileMode false
 *   [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 *   [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
 
-## [36. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [37. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2016
 
 *   [Cheng Lou: **On the Spectrum of Abstraction**](https://www.youtube.com/watch?v=mVVNJKv9esE) \[35:31]
 
-## [37. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [38. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Courses
+
+*   [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
+
+### Companies
+
+*   [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
+
+### Related awesome lists
+
+*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Reinforcement Learning (⭐7.9k)](https://github.com/aikorea/awesome-rl/)
+
+## [39. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
+
+## [40. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / A companies
+
+*   Atomic Object <https://spin.atomicobject.com/>
+
+### Companies / B companies
+
+*   BlackRock <http://rockthecode.io/>
+
+### Companies / K companies
+
+*   Kinvolk <https://kinvolk.io/blog/>
 
 ---
 

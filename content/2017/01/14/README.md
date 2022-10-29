@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 14, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -175,6 +175,129 @@
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker-compose build && docker-compose up` - [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
+
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Cloudera <https://blog.cloudera.com/>
+
+### Companies / M companies
+
+*   Mozilla Automation Team <https://planet.mozilla.org/ateam/>
+*   Mozilla Release Engineering <https://planet.mozilla.org/releng/>
+
+### Companies / N companies
+
+*   New York Times <https://open.blogs.nytimes.com>
+
+### Companies / O companies
+
+*   Oursky <https://code.oursky.com/>
+
+### Companies / P companies
+
+*   Paperless Post <https://www.paperlesspost.com/blog/teams/tech/>
+*   Postmates <https://blog.postmates.com/tagged/engineering>
+
+### Companies / R companies
+
+*   Raizlabs <https://www.raizlabs.com/dev/>
+*   Riot Games <https://engineering.riotgames.com/>
+
+### Companies / S companies
+
+*   SurveyMonkey <https://engineering.surveymonkey.com/>
+
+### Companies / T companies
+
+*   Tumblr <https://engineering.tumblr.com/>
+
+### Companies / V companies
+
+*   VersionEye <https://blog.versioneye.com/>
+
+### Companies / Y companies
+
+*   Yahoo <https://yahooeng.tumblr.com/>
+*   Yelp <https://engineeringblog.yelp.com/>
+*   YLD! <https://blog.yld.io>
+
+### Companies / Z companies
+
+*   Zulily <https://engineering.zulily.com/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Barry Warsaw <https://www.wefearchange.org/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Dan Luu <https://danluu.com/>
+*   Dave Cheney <https://dave.cheney.net/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Eric Lippert <https://ericlippert.com/>
+*   Evan Tahler <https://blog.evantahler.com/>
+
+### Individuals/Group Contributors / F individuals
+
+*   Federico Cargnelutti <https://blog.fedecarg.com/>
+*   Federico Tomassetti <https://tomassetti.me/>
+
+### Individuals/Group Contributors / G individuals
+
+*   Guilherme Rodrigues <https://firstdoit.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jeff Atwood <https://blog.codinghorror.com/>
+*   Jeremy Kun <https://jeremykun.com/>
+*   Joel Spolsky <https://www.joelonsoftware.com/>
+*   Jon Skeet <https://codeblog.jonskeet.uk/>
+*   Jonathan Snook <https://snook.ca/>
+*   Juri Strumpflohner <https://juristr.com/blog/>
+
+### Individuals/Group Contributors / L individuals
+
+*   Larry Land <https://lg.io/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Marc Plano-Lesay <https://enoent.fr>
+*   Martin Fowler <https://martinfowler.com/>
+*   Miguel Quinones <https://www.miqu.me/>
+*   Monica Dinculescu <https://meowni.ca/>
+
+### Individuals/Group Contributors / O individuals
+
+*   Ole Begemann <https://oleb.net/blog/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Paul Irish <https://www.paulirish.com/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Steve Yegge <https://steve-yegge.blogspot.com/>
+*   Swizec Teller <https://swizec.com/blog/>
+
+### Individuals/Group Contributors / U individuals
+
+*   Una Kravets <https://una.im/>
+
+### Products/Technologies / A technologies
+
+*   Android <https://android-developers.blogspot.com/>
+
+### Products/Technologies / C technologies
+
+*   Crystal <https://crystal-lang.org/>
+
+### Products/Technologies / R technologies
+
+*   Rust <https://blog.rust-lang.org/>
 
 ---
 

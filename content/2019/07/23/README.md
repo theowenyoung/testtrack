@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,32 +24,38 @@
 
 *   [Papercut (⭐2.4k)](https://github.com/ChangemakerStudios/Papercut) - Simple Desktop SMTP Server
 
-## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [4. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Libraries
+
+*   [react-esi (⭐627)](https://github.com/dunglas/react-esi) - React Edge Side Includes
+
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### Artificial Intelligence
 
 *   [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
 *   [Morai-Maker-Engine (⭐16)](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 
-## [5. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
+## [6. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 
 ### Image - Metadata/Text
 
 *   **TextRecognition (ML Kit)** - Recognizing text using ML Kit built-in model in real-time. [Download](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Demo (⭐80)](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Wikis
 
 *   [django-wiki (⭐1.6k)](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
 
-## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [8. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Catalogs / Swift
 
 *   [dAppOcean](https://www.dappocean.io/) - Ecosystem of decentralized applications based on the Waves blockchain.
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Communication / Game Engine resources
 
@@ -79,13 +85,13 @@
 
 *   [YouTube](https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag)
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazor BarCode](https://barcoderesource.com/blazorbarcode.shtml) – A barcode library for Blazor using barcode fonts.
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
@@ -96,19 +102,19 @@
 
 *   [Extended Dreyfus Model for Incident Lifecycles (⭐24)](https://github.com/preed/incident-lifecycle-model)
 
-## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [12. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
 *   [go-stellar-ipfs (⭐25)](https://github.com/aanupam23/go-stellar-ipfs) - go-stellar-ipfs is a library that is a bridge between Stellar and IPFS.
 
-## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Database
 
 *   [sqlline (⭐534)](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
-## [13. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [14. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Visual Studio Code
 
@@ -121,7 +127,7 @@
 *   [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Official Python extension
 *   [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
-## [14. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Online Machine Learning
 

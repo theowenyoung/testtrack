@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25 - Jul 31, 2016
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -353,44 +353,63 @@
 *   [Pokémon GO Wiki](https://pkmngowiki.com/)
 *   [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 
-## [25. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [25. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / G companies
+
+*   Google Online Security <https://security.googleblog.com/>
+*   Google Research <https://research.googleblog.com/>
+
+### Companies / M companies
+
+*   Microsoft Python Engineering <https://blogs.msdn.microsoft.com/pythonengineering/>
+
+### Products/Technologies / M technologies
+
+*   Microsoft Edge <https://blogs.windows.com/msedgedev/>
+
+### Products/Technologies / N technologies
+
+*   .NET <https://blogs.msdn.microsoft.com/dotnet/>
+
+## [26. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
-## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [27. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Integration
 
 *   Dart
     *   [Vert.x Dart SockJS (⭐0)](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.
 
-## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Scientific Computing
 
 *   [Trilinos (⭐819)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
-## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [waynehoover/s3\_direct\_upload :fire::fire::fire: (⭐650)](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 
-## [29. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Resources
 
 *   [jQuery guide for teams (⭐30)](https://github.com/voorhoede/jquery-style-guide) - Tips to write consistent jQuery code, easy to use and understand by your team.
 
-## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Podcasts / Other
 
 *   [JavaScript Air: Electron Apps with @jlord and @emorikawa](https://javascriptair.com/episodes/2016-07-06)
 
-## [31. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [32. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
@@ -406,25 +425,25 @@
 *   [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 *   [Wikipedia Article](https://en.wikipedia.org/wiki/Markdown)
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
 *   [IBAnimatable (⭐8.6k)](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 
-## [33. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [34. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Productivity
 
 *   [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
 
-## [34. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [35. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [minimongo (⭐326)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 
-## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [36. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -443,19 +462,19 @@
 
 
 
-## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [37. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Conferences
 
 *   [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17\~23 Oct. 2016)
 
-## [37. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [38. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### usage stats
 
 *   **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard\&author=\&from=\&to=)** - npm registry download count
 
-## [38. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
@@ -469,7 +488,7 @@
 
 *   [ezknitr (⭐99)](https://github.com/daattali/ezknitr) - Avoid the typical working directory pain when using 'knitr'
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -495,7 +514,7 @@
 
 *   [Stubble (⭐321)](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 
-## [40. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [41. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Tutorials
 
@@ -506,7 +525,7 @@
 *   [Reactive Programming with Cycle.js](https://vimeo.com/175121069) - by Luca Mezzalira at [JSDay 2016](http://2016.jsday.it/)
 *   [Learning how to ride: an introduction to Cycle.js](https://youtu.be/31URmaeNHSs) - by Fernando Macias Pereznieto at [JS Monthly London](http://www.meetup.com/js-monthly-london/)
 
-## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -582,19 +601,19 @@
 
 *   [rrrene/elixir-style-guide (⭐390)](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo (⭐4.5k)](https://github.com/rrrene/credo).
 
-## [42. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [43. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### PHP / Symfony2
 
 *   [NelmioApiDocBundle (⭐2.1k)](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
 
-## [43. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [44. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Browser
 
 *   [document-ready (⭐57)](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
-## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Project Generators
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30 - Aug 05, 2018
 
-64 awesome lists updated this week.
+66 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -324,6 +324,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [awesome-home-assistant (⭐4.1k)](https://github.com/frenck/awesome-home-assistant)
 
 ## [21. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@jacobian](https://github.com/jacobian), [Django (⭐67k)](https://github.com/django/django)
     *   "What Part of '... for Life' Don't You Understand?" ([video](https://www.youtube.com/watch?v=EqcuzSwySR4))
 *   [@sindresorhus](https://github.com/sindresorhus), [AVA (⭐20k)](https://github.com/avajs/ava), [awesome (⭐223k)](https://github.com/sindresorhus/awesome)
@@ -486,7 +487,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [awesome-pcaptools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 *   [awesome-malware-analysis (⭐9.1k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
-## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [36. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Starter Story - <https://starterstory.com/>
+
+## [37. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Podcasts / Other Tools
 
@@ -497,13 +504,13 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [lit-ntml (⭐77)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
-## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
 *   [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
 
-## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [39. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation / Code libraries and bindings
 
@@ -546,7 +553,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [NotRuler (⭐81)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.8k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 *   [WMI Monitor (⭐113)](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
 
-## [39. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [40. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -564,7 +571,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/README.md/contributing.md) first.
 
-## [40. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [41. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### General Architecture
 
@@ -601,7 +608,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 *   [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 
-## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -619,7 +626,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [WebView (⭐1.4k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 
-## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -659,7 +666,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
-## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -680,7 +687,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 *   [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
 *   [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript.
 
-## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [45. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -694,7 +701,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Cabbage (⭐1.4k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
 
-## [45. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [46. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -776,7 +783,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [CRDTs discussion (⭐385)](https://github.com/ipfs/notes/issues/23)
 
-## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [47. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -795,20 +802,20 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [CakeMail.RestClient (⭐8)](https://github.com/Jericho/CakeMail.RestClient) - Client for CakeMail's API. Allows you to send transactional emails, bulk emails, manage lists and contacts, etc.
 
-## [47. Guides](/content/NARKOZ/guides/week/README.md)
+## [48. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / Machine Learning
 
 *   [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-## [48. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [49. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) - By Rachel Thomas.
 *   [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - By Tobbe Gyllebring.
 
-## [49. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [50. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
@@ -818,7 +825,7 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools is a toolkit for constructing robust, scalable and distributed applications leveraging Vert.x including modules for authentication, cluster management, Firebase Cloud Messaging, DynamoDB, fully generic queries, REST, and more.
 
-## [50. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [51. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Mobile
 
@@ -828,19 +835,19 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [Vue + TypeScript Cookbook (⭐270)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 
-## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [53. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [Typescript React With Mobx Starter (⭐349)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
-## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [54. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -871,13 +878,32 @@ Webpage: <http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portu
 
 *   [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 
-## [54. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [55. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / D companies
+
+*   DoorDash <https://blog.doordash.com/tagged/engineering>
+
+### Companies / F companies
+
+*   Feedzai <https://medium.com/feedzaitech>
+
+### Companies / S companies
+
+*   Serverless <https://serverless.com/blog/>
+*   Soshace <https://blog.soshace.com/en/>
+
+### Companies / T companies
+
+*   Timescale <https://blog.timescale.com/>
+
+## [56. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [Sergey Pikhovkin](https://github.com/pikhovkin)
 
-## [55. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [57. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -901,7 +927,7 @@ Learn about security and performance.
 
 Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
 
-## [56. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [58. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -911,7 +937,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 
-## [57. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [59. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Courses / Build system (ROS2)
 
@@ -935,7 +961,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   Node.js Client & Web Bridge Ready for ROS 2.0
 *   RCLAda: the Ada client library for ROS2
 
-## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [60. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -945,7 +971,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Geometric Tools](https://www.geometrictools.com) - C++ library for computing in the fields of mathematics, graphics, image analysis and physics. \[Boost] [website](https://www.geometrictools.com)
 
-## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [61. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -955,7 +981,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Awesome Crypto Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [60. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [62. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### CSP
 
@@ -967,25 +993,25 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 
-## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [63. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Other lists / Hash functions
 
 *   [Awesome crypto-papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [62. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [64. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
 *   [MOS-connection (⭐13)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
-## [63. Typography](/content/deanhume/typography/week/README.md)
+## [65. Typography](/content/deanhume/typography/week/README.md)
 
 ### Web Fonts & Web Performance
 
 *   [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
-## [64. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [66. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA
 

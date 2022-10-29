@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,16 @@
 
 *   [Generate \~/.m2/settings.xml for Maven builds (⭐46)](https://github.com/whelk-io/maven-settings-xml-action)
 
-## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [3. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Beginner
+
+#### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
+
+**Freemium** platform for learning the basics of web development\
+*(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
+
+## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Engineering to Management Transition
 
@@ -178,7 +187,7 @@
 
 *   [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - When a company lacks technical leadership: developers waste time in costly refactors, over-engineered systems, and ends up detached from the business and product.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Social
 
@@ -219,13 +228,13 @@
 
 
 
-## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
 *   [matchering (⭐696)](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 
-## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -235,13 +244,13 @@
 
 *   [GingerBread (⭐104)](https://github.com/ahrnbom/gingerbread) - A software library for making your own Game Boy games. It is made to be used alongside the book [Game Boy Assembly Programming for the Modern Game Developer (⭐102)](https://github.com/ahrnbom/gbapfomgd) which also doubles as documentation.
 
-## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [8. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
 *   [Preact-urql (⭐7.5k)](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql (⭐7.5k)](https://github.com/FormidableLabs/urql) with Preact core + hooks.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 

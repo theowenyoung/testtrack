@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 22, 2015
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_8)
 
-## [2. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐328)](https://github.com/mourner/projects). Building the future of interactive maps.
+
+## [3. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Articles
 
 *   [Getting Started With BEM (with a little help from Sass)](https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/)
 
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### C++ tools / Misc
 
@@ -32,7 +38,7 @@
 
 *   [Charted (⭐2.8k)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
 
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -130,7 +136,7 @@
 *   [Honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots)
 *   [PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools)
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
@@ -141,23 +147,41 @@
 *   [Awesome PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
 *   [Awesome Pentest (⭐17k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Static Site Generators
 
 *   [Pretzel (⭐595)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
-## [7. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [8. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### editors & viewers
+
+*   [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
+*   [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
+*   [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
+
+## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Menus / Paid Books
 
 *   [Yamm (⭐1.2k)](https://github.com/geedmo/yamm3) - Yet another megamenu for Bootstrap 3.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### XML
 
 *   [sweet\_xml (⭐328)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+
+## [11. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Beginner Books
+
+#### The R Book [\[Amazon\]](http://www.amazon.com/The-Book-Michael-J-Crawley/dp/0470973927)
+
+<img src="http://ecx.images-amazon.com/images/I/41NNNTouQbL._SX371_BO1,204,203,200_.jpg" width="200px"/>
+
+Very massive, hugely successful and popular text presenting an extensive and comprehensive guide for all R users. Covers wide variaty of R topics in great detail with very useful examples.
 
 ---
 

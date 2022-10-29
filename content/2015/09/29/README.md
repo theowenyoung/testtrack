@@ -49,6 +49,7 @@
 *   (Resources) [Sketch Repo](http://sketchrepo.com/)
 
 ## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Ignore one file on commit (e.g. Changelog).
 
 ```sh

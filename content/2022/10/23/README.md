@@ -1,17 +1,18 @@
 # Awesome List Updates on Oct 23, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+
 ### [GitHub CSV Diff (⭐2)](https://github.com/banyan/github-csv-diff) <a href="https://chrome.google.com/webstore/detail/github-csv-diff/dojeallnmgbmdjoboklnojkdfenfgiek"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
 
-Installs: 19 | Stars: 2 | Last update: 18 Apr 2021
+Installs: 18 | Stars: 2 | Last update: 18 Apr 2021
 ### [Module Linker (⭐244)](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
@@ -21,7 +22,7 @@ Installs: 60 | Stars: 246 | Last update: 27 Nov 2019
 
 Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
-Installs: 324 | Stars: 212 | Last update: 8 Aug 2021
+Installs: 327 | Stars: 212 | Last update: 8 Aug 2021
 ### [Open GitHub file links in IDE (⭐50)](https://github.com/lmichelin/open-github-links-in-ide) <a href="https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/open-github-in-ide/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
@@ -31,7 +32,7 @@ Installs: 771 | Stars: 50 | Last update: 19 Aug 2022
 
 Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.
 
-Installs: 47 | Stars: n/a | Last update: 10 Aug 2020
+Installs: 45 | Stars: n/a | Last update: 10 Aug 2020
 
 ## [2. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
@@ -86,13 +87,7 @@ Installs: 47 | Stars: n/a | Last update: 10 Aug 2020
 *   [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - Formalization to support an undergraduate course on the theory of computation, including languages and Turing machines.
 *   [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - Introduction to developing and verifying programs with Coq.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Projects
-
-*   [massivedisaster/AFM (⭐12)](https://github.com/massivedisaster/AFM) - An library to help android developers working easly with activities and fragments with Kotlin
-
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -103,7 +98,7 @@ Installs: 47 | Stars: n/a | Last update: 10 Aug 2020
 *   [astral (⭐12)](https://github.com/xwmx/astral) - Theme for dark backgrounds with zen mode. Works well with the zsh-users [zsh-syntax-highlighting (⭐16k)](https://github.com/zsh-users/zsh-syntax-highlighting) plugin. Includes decorators for execution time of last command, when it was run, its exit status, machine name, current path, `ssh` status, and `git` status.
 *   [normanius (⭐0)](https://github.com/normanius/normanius-zsh-theme) - Derived from [bira (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme). Includes decorators for `git` status, `user@host`, python `virtualenv`, and ruby `rvm` version.
 
-## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
@@ -111,13 +106,13 @@ Installs: 47 | Stars: n/a | Last update: 10 Aug 2020
 *   [emerge (⭐347)](https://github.com/glato/emerge) — Emerge is a source code and dependency visualizer that can be used to gather insights about source code structure, metrics, dependencies and complexity of software projects. After scanning the source code of a project it provides you an interactive web interface to explore and analyze your project by using graph structures.
 *   [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to  analyse your code in real time and deliver results when you hit the save button in your IDE.  Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with  GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA,  containers and IaC.
 
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [8. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### GUI Development
 
 *   [PyQt](https://doc.qt.io/qtforpython/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Notes and Tasks
 

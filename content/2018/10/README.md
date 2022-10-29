@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05 - Mar 11, 2018
 
-58 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -203,6 +203,7 @@ Webpage: <https://pt-pt.facebook.com/quatroaorato/>
 ![](http://www.speedtest.net/result/7121883484.png)
 
 ## [17. Tips](/content/git-tips/tips/week/README.md)
+
 ## Visualize the version tree.
 
 ```sh
@@ -809,7 +810,21 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
 
-## [57. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [57. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Code
+
+*   [xrpayments.co](https://xrpayments.co): Tool to generate payment request QR (with currency conversion)
+
+### Hosted Tools
+
+*   [Rich list, ledger stats & XRP distribution](https://ledger.exposed)
+
+### Social
+
+*   [XRP Tip Bot for Reddit, Twitter & Discord](https://xrptipbot.com)
+
+## [58. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -1203,7 +1218,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 
 
-## [58. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [59. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Conferences
 

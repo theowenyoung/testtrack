@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -121,25 +121,37 @@
 
 *   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
-## [9. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / France 🇫🇷
+
+### Rautalampi
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="" />
+
+**Juho Vepsäläinen**\
+Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
+<https://twitter.com/bebraw>
+
+## [10. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Developer and Requestor Resources / Miscellaneous
 
 *   [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 
-## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Book that is a practical guide which presents dozens of relevant scenarios in a convenient problem-solution-discussion format.. (early access, published continuously, final release fall 2021)
 
-## [11. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [12. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
 *   [Drishti (⭐143)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
@@ -149,7 +161,7 @@
 *   [cl-gamepad](https://shirakumo.github.io/cl-gamepad) - Access to gamepads and joysticks on Windows, Mac OS, and Linux. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [virality (⭐74)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT](https://opensource.org/licenses/MIT).
 
-## [13. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [14. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 

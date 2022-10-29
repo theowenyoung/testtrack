@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 23, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,26 +25,32 @@
 *   [ZeroDays CTF](https://zerodays.ie/)
 *   [Insomni’hack](https://insomnihack.ch/)
 
-## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** \[44:42]
+
+## [5. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Plugins and Decorators Built for Draft.js
 
 *   [Draft.js Annotatable (⭐13)](https://github.com/cltk/annotations) - Out of the box annotation system for Draft.js with support for user-created annotations.
 *   [Draft.js Regex (⭐19)](https://github.com/YozhikM/draft-regex) - The set of flexible helpers, like regex, blank lines preventing and pasted HTML clearing.
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
 *   [Coravel (⭐2.3k)](https://github.com/jamesmh/coravel) - .Net Core meets Laravel: Scheduling, Queuing, etc.
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [Using the Event Gateway to build serverless multi-cloud applications](https://www.youtube.com/watch?v=h1PIqbi93eE) - How the Event Gateway can be used to build multi-cloud applications.
 
-## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [8. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 

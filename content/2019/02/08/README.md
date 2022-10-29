@@ -1,18 +1,24 @@
 # Awesome List Updates on Feb 08, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
+
+## [2. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### People Doing Open Source Work / Hardware related
 
 *   [Reini Urban](https://www.patreon.com/rurban) - Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### General Libraries
 
@@ -45,7 +51,7 @@
 *   [ZXing.Delphi (⭐393)](https://github.com/Spelt/ZXing.Delphi). `[Delphi]` Native Object Pascal library for Delphi XE to 10.2 Tokyo that is based on the well known open source Barcode Scanning Library ZXing (Zebra Crossing). It is aimed at all of the FireMonkey mobile platforms and, starting from v3.1, it fully supports also Windows VCL applications (no dependencies on FMX.Graphics unit).
 *   [NativeJpg](https://code.google.com/p/simdesign). `[Delphi]` Fully object-oriented Pascal implementation that allows to read and write Jpeg files. You can use this software to read and write Jpeg images from files or streams. It supports baseline and progressive Jpeg, support for metadata, as well as all conceivable lossless operations.
 
-## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -58,26 +64,26 @@
 *   [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Podcast do Tecnoblog, sobre tecnologia.
 *   [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - Política, história e atualidades.
 
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [MetaDefender Cloud](https://metadefender.opswat.com/) - Scan a file, hash, IP, URL or
     domain address for malware for free.
 
-## [5. Creative Commons Media](/content/shime/creative-commons-media/README.md)
+## [6. Creative Commons Media](/content/shime/creative-commons-media/README.md)
 
 ### Video
 
 *   [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
 
-## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Package Management
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [crinja (⭐105)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
 
-## [3. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / J companies
+
+*   JobTeaser <https://medium.com/jobteaser-dev-team/>
+
+## [4. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -27,19 +33,19 @@
 *   [inchoo](http://inchoo.net/category/magento-2/)
 *   [integer\_net blog](https://www.integer-net.com/blog/)
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo
 
 *   [BlogMVC (⭐7)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐214)](https://github.com/Grafikart/BlogMVC).
 
-## [5. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [6. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Clones
 
 *   [LIKO-12 (⭐999)](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 
-## [6. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [7. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### Learning Swift
 
@@ -209,7 +215,7 @@
 *   [SwiftFiles (⭐39)](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground. ⏳
 *   [Earth photos (⭐6)](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

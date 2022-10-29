@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2017
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,20 +62,32 @@
 
 *   [Hack (⭐15k)](https://github.com/source-foundry/Hack)
 
-## [5. Awesome Linux](/content/inputsh/awesome-linux/README.md)
+## [5. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### WinForms
+
+*   [MaterialSkin (⭐2.5k)](https://github.com/IgnaceMaes/MaterialSkin) — Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
+
+## [6. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
 ### Bash Learning Resources / [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS)   \[Free]
 
 *   [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 *   [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GIS
 
 *   [GeoJSON.NET (⭐386)](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
-## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Open Source Projects
+
+*   [Ionic aiEyes - Azure Computer Vision API (⭐25)](https://github.com/brenopolanski/aiEyes)
+
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
@@ -87,38 +99,38 @@
 
 
 
-## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Articles
 
 *   [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek publish all tools, data, research notes, and papers for everyone for free
 *   [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - Craig Smith wrote a brief article on working with Metasploit’s HWBrige using ELM327 Bluetooth dongle
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Aeron.NET (⭐426)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron.
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [markov (⭐22)](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/) by [@alexjoverm](https://twitter.com/alexjoverm)
 
-## [12. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [14. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Video Courses
 
 *   [designers.how Framer Courses](https://designers.how/topics/framer) - List of basic and more advanced Framer courses.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### API
 
@@ -128,7 +140,7 @@
 
 *   [Time (⭐1.1k)](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 
-## [14. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [16. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
@@ -139,13 +151,13 @@
 
 *   [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 
-## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
 *   [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 
-## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 

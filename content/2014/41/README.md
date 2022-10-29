@@ -1,12 +1,34 @@
 # Awesome List Updates on Oct 13 - Oct 19, 2014
 
-11 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [1. Tools](/content/lvwzhen/tools/week/README.md)
+
+### CDN
+
+*   [jsDelivr](http://www.jsdelivr.com/)
+
+### JavaScript
+
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+### Pagespeed
+
+*   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
+
+### Color
+
+*   [colourco.de](http://colourco.de)
+
+### Font
+
+*   [Fontface Ninja](http://fontface.ninja/)
+
+## [2. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
@@ -16,7 +38,7 @@
 
 *   [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
@@ -64,25 +86,25 @@
 *   [lists (⭐8.5k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [free-programming-books (⭐252k)](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 
-## [3. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
 *   [Origami (⭐1.2k)](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 
-## [4. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [5. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Testing
 
 *   [Guinness (⭐43)](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 
-## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### General
 
 *   [slacko (⭐73)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### API / Runner
 
@@ -93,7 +115,7 @@
 
 *   [reveal.js (⭐62k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 
-## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
@@ -103,13 +125,13 @@
 
 *   [franc (⭐3.7k)](https://github.com/wooorm/franc) - Detect the language of text.
 
-## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Hosted Development Tools / Meetups
 
 *   [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -126,13 +148,13 @@
 *   Add the plugin to your `.zpreztorc` file
 *   Open a new terminal window or tab
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
 *   [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
 
-## [11. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [12. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Polyfills / Brunch Plugins
 

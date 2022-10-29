@@ -13,11 +13,12 @@
 *   [Azure Load Testing Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Azure%20Load%20Testing) - By Microsoft Tech Community.
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+
 ### [GitHub Highlight Selected (⭐142)](https://github.com/Nuclides/github-highlight-selected) <a href="https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://github.com/Nuclides/github-highlight-selected"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
 Highlight selected word in GitHub source view like Sublime Text.
 
-Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
+Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -1451,10 +1452,6 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 
 ## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
-### Abduction / Scientific Discovery
-
-*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
-
 ### Concepts / Human Concept Representation
 
 *   [Organizing conceptual knowledge in humans with a gridlike code](http://behavioralhealth2000.com/wp-content/uploads/2017/01/Organizing-conceptual-knowledge-in-humans-with-a-gridlike-code.pdf) - ***Science***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=10995575332310321503\&hl=en\&as_sdt=0,5)]. Original findings suggest that global relational codes may be used to organize nonspatial conceptual representations and that these codes may have a hexagonal gridlike pattern when conceptual knowledge is laid out in two continuous dimensions.
@@ -1463,6 +1460,10 @@ Installs: 1000 | Stars: 142 | Last update: 8 Oct 2019
 ### Methodologies for Experiments / Association Test
 
 *   [A Meta-Analysis on the Correlation Between the Implicit Association Test and Explicit Self-Report Measures](http://faculty.washington.edu/agg/IATmaterials/PDFs/Hofmann%20&%20al%20\(PSPB,2005\).pdf) - ***Personality and Social Psychology Bulletin***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=4888328728717829047\&hl=en\&as_sdt=0,5)].
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 ---
 

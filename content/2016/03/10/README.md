@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,6 +88,12 @@
 ### Reading
 
 *   [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
+
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / E individuals
+
+*   Edan Kwan <http://blog.edankwan.com/>
 
 ---
 

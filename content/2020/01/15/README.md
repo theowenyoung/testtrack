@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [elm-boil (⭐18)](https://github.com/GioPat/elm-boil) - Command Line Utility for creating an Elm boilerplate project easy to run, build and get deployed
 
-## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [2. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Reddit
+
+*   /r/Design\_Critiques - <https://www.reddit.com/r/design_critiques/>
+
+## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Presentations / XML
 
 *   [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Build system
 
@@ -44,19 +50,19 @@
     *   [New Rustacean](https://newrustacean.com) — A podcast about learning Rust
     *   [Rustacean Station](https://rustacean-station.org/) — A community project for creating podcast content for Rust
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [ETCD Manager (⭐321)](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 
-## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Tools
 
 *   [Zaku (⭐73)](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
 
-## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Commercial / Open source / Other / unknown licence
 
@@ -70,7 +76,7 @@
 *   [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software offers the industry's first, fully validated family of Ada Cross Compilers for real-time targets.
 *   [xgc](http://www.xgc.com/) - XGC provide GCC-based bare-metal toolchains with Ada95 support for aerospace-specific targets such as MIL1750, ERC32 and LEON. As well as a legacy M68000 toolchain.
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
@@ -80,13 +86,13 @@
 
 *   [js-lingui (⭐3.5k)](https://github.com/lingui/js-lingui) - [docs](https://lingui.js.org) – A readable, automated, and optimized (5 kb) internationalization for JavaScript.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
 *   [CodeNotary.io](https://www.codenotary.io/) — Open Source platform with indelible proof to notarize code, files, directories or container
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 

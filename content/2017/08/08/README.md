@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2017
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,29 +84,43 @@
 *   [lgtv2mqtt (⭐89)](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
 
 ## [10. Tips](/content/git-tips/tips/README.md)
+
 ## Push a new local branch to remote repository and track
 
 ```sh
 git push -u origin <branch_name>
 ```
 
-## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [11. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Scott Hanselman (⭐90)](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
+*   [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
+
+## [12. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Documentation / Runner
 
 *   [ESDoc (⭐2.7k)](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Device
 
 *   [UIDeviceComplete (⭐407)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+
+## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Vendors
+
+*   [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
 
 ---
 

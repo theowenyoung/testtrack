@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27, 2017
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,13 +13,19 @@
 *   [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
 *   [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
 
-## [2. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [2. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Code
+
+*   [RippleKit (⭐5)](https://github.com/xasos/RippleKit): Swift
+
+## [3. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### Smart Home Software supporting Homematic
 
 *   [Pimatic](https://pimatic.org/)
 
-## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Clients
 
@@ -29,7 +35,7 @@
 
 *   [smartthings-mqtt-bridge (⭐364)](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT.
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
@@ -46,7 +52,7 @@
 *   [Rx.NET (⭐5.6k)](https://github.com/Reactive-Extensions/Rx.NET) - The [Reactive Extensions](http://reactivex.io) for .NET.
 *   [Qactive (⭐151)](https://github.com/RxDave/Qactive) - Reactive queryable observable framework. `4.x.x or above`
 
-## [5. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
@@ -60,20 +66,26 @@
 
 *   [Simple Icons (⭐14k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Notifications / Runner
 
 *   [iziToast (⭐2.4k)](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 
-## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
 *   [regex\_sample (⭐1)](https://github.com/mochizukikotaro/regex_sample) -
     sample string generation from a given Regular Expression.
 
-## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Stéphane Hulard (⭐0)](https://github.com/shulard/ama) - Open source lover, dad, husband, speaker, teacher, remote worker, full-stack developer who loves playing with PHP.
+
+## [10. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Editors
 
@@ -83,7 +95,7 @@
 
 *   [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 
-## [9. Typography](/content/deanhume/typography/README.md)
+## [11. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -92,7 +104,7 @@
 *   [A History of Typeface Styles & Type Classification](https://blog.spoongraphics.co.uk/articles/a-history-of-typeface-styles-type-classification)
 *   [Variable Fonts for Responsive Design](https://alistapart.com/blog/post/variable-fonts-for-responsive-design)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 

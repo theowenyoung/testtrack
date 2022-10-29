@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08, 2015
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,11 +31,31 @@
 
 *   [Apache Oozie](http://oozie.apache.org) - Apache Oozie
 
-## [5. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Speedledger <http://engineering.speedledger.com/>
+
+## [6. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Libraries
 
 *   [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
+
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
+*   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
+*   [Wes Bos (⭐283)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Anselm Hannemann (⭐8)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
+*   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
+*   [Lewis Cowper (⭐5)](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
+*   [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
+*   [Darrin Henein (⭐4)](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
+*   [Cassie McDaniel (⭐3)](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&\&Tech, speaker and writer.
 
 ---
 

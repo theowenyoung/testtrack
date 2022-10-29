@@ -20,6 +20,7 @@
 *   [convox/rack :fire::fire::fire::fire: (⭐1.9k)](https://github.com/convox/rack) - Open-source PaaS on AWS.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Search Commit log across all branches for given text
 
 ```sh

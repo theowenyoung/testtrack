@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,19 +24,25 @@
 
 *   [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### validation
+
+*   [check-geojson](https://github.com/placemark/check-geojson): alternative to geojsonhint
+
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Augmented Reality
 
 *   [ARHeadsetKit (⭐73)](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 
-## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### ScrollView
 
 *   [SpreadsheetView (⭐3.4k)](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, Gantt chart or timetable as if you are using Excel.
 
-## [6. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [7. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Official Resources
 
@@ -46,7 +52,7 @@
 
 *   [Draw Interface (⭐7)](https://github.com/jesusgp22/directus-draw-interface) - Free draw interface for Directus app.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -56,7 +62,8 @@
 
 *   [SheetAble](https://sheetable.net) - Self-hosted music sheet organizing software for all music enthusiasts. Upload and organize your sheets for any kind of instrument. ([Source Code (⭐179)](https://github.com/SheetAble/SheetAble)) `AGPL-3.0` `Go`
 
-## [8. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [9. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+
 - : [Adobe Spectrum](https://spectrum.adobe.com)
 
   Components: 👍
@@ -1554,50 +1561,50 @@
 
 
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [tfmigrator (⭐33)](https://github.com/tfmigrator/cli) - Go library and CLI to migrate Terraform Configuration and State
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
 *   [augeas.cr (⭐6)](https://github.com/fernandes/augeas.cr) - Bindings for [Augeas](https://augeas.net/)
 
-## [11. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [12. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Free fonts / Collections
 
 *   [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [CVue-Awesome (⭐17)](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
 
-## [13. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Tools you'll need / Cloud-based options
 
 *   [markusschanta/awesome-jupyter, "Hosted Notebook Solutions" (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
 *   [ml-tooling/best-of-jupyter, "Notebook Environments" (⭐538)](https://github.com/ml-tooling/best-of-jupyter)
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Loaders
 
 *   [vite-plugin-monaco-editor (⭐86)](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 
-## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
 *   [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics) - Planetizen course teaching the basics of big data processing, analysis, and visualization. Monthly subscription required.
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -1708,7 +1715,7 @@
 
 
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 

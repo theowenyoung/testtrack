@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,14 +46,46 @@
 
 *   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Africa / Nigeria 🇳🇬
+
+> Awesome speakers in the programming and design communities
+
+Let's make it more transparent and easy to find awesome speakers for meetups and conferences! This list of speakers, their contact details and the topics they talk about is a start towards this goal.
+
+Please add to the list and help make the community better connected and richer.
+
+### Europe / United Kingdom 🇬🇧
+
+### Bristol
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/LeonieWatson" height="70px" width="70px" align="left" alt="" />
+
+**Léonie Watson**\
+Topics: Accessibility, Web Standards, Screen Readers\
+<https://twitter.com/LeonieWatson>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rachelandrew" height="70px" width="70px" align="left" alt="" />
+
+**Rachel Andrew**\
+Topics: CSS\
+<https://twitter.com/rachelandrew>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Rumyra" height="70px" width="70px" align="left" alt="" />
+
+**Ruth John**\
+Topics: Browser Technologies, Web Audio, Web MIDI\
+<https://twitter.com/Rumyra>
+
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Newsletters
 
 *   [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
 *   [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
 
-## [7. Bots](/content/hackerkid/bots/README.md)
+## [8. Bots](/content/hackerkid/bots/README.md)
 
 ### Tutorials / Go
 
@@ -65,19 +97,19 @@
 *   [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 *   [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 
-## [8. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [9. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Software
 
 *   [Zugata](http://www.zugata.com/)
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Questions
 
 *   [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 
-## [10. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [11. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 
@@ -183,7 +215,7 @@
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

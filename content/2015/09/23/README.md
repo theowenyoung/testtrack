@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2015
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,6 +103,16 @@
 ### Testing / Paid Books
 
 *   [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
+
+## [13. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Beginner Books
+
+#### R for Everyone: Advanced Analytics and Graphics [\[Amazon\]](http://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030)
+
+<img src="http://ecx.images-amazon.com/images/I/51Jib4uNx3L._SX393_BO1,204,203,200_.jpg" width="200px"/>
+
+Drawing on his unsurpassed experience teaching new users, professional data scientist Jared P. Lander has written the perfect tutorial for anyone new to statistical programming and modeling. Organized to make learning easy and intuitive, this guide focuses on the 20 percent of R functionality you’ll need to accomplish 80 percent of modern data tasks. Book's self-contained chapters start with the absolute basics, offering extensive hands-on practice and sample code. You’ll download and install R; navigate and use the R environment; master basic program control, data import, and manipulation; and walk through several essential tests. Then, building on this foundation, you’ll construct several complete models, both linear and nonlinear, and use some data mining techniques.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20 - Feb 26, 2017
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -404,6 +404,7 @@
 *   [react-lz-editor (⭐935)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 
 ## [32. Tips](/content/git-tips/tips/week/README.md)
+
 ## Saving current state of unstaged changes to tracked files
 
 ```sh
@@ -599,14 +600,23 @@ git status --short --branch
 
 *   [YAXLib (⭐0)](https://github.com/sinairv/YAXLib) - XML Serialization Library for the .NET Framework and .NET Core. Extremely flexible and powerful.
 
-## [37. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [37. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
+*   [CacheP2P (⭐867)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+*   [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
+*   [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
+
+## [38. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Games / Directory Navigation
 
 *   [nudoku (⭐256)](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
 *   [tty-solitaire (⭐229)](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
-## [38. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [39. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / Ruby Profile
 
@@ -616,19 +626,19 @@ git status --short --branch
 
 *   [LiveReload (⭐139)](https://github.com/alepez/LiveReload-sublimetext3) — a web browser page reloading plugin.
 
-## [39. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [40. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Maths / Web
 
 *   [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
-## [40. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [41. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-tags-input (⭐8)](https://github.com/TGMorais/aurelia-tags-input) \* An aurelia tags input plugin
 
-## [41. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [42. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Ruby
 
@@ -639,13 +649,13 @@ git status --short --branch
 *   [evil.sh (⭐2.1k)](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 *   [sl (⭐2.5k)](https://github.com/mtoyoda/sl) - SL (Steam Locomotive) runs across your terminal when you type "sl" as you meant to type "ls".
 
-## [42. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [43. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Books
 
 *   [TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/d/0544634497/) - by **Chris Anderson** (Houghton Mifflin Harcourt). Start to finish guide to giving powerful talks.
 
-## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Communication
 
@@ -688,7 +698,7 @@ git status --short --branch
 *   [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 *   [Superbetize](http://superbetize.com/) - Categorize your grocery list.
 
-## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [45. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -702,7 +712,7 @@ git status --short --branch
 
 *   [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) semantic segmentation and handling the TFRecord file format.
 
-## [45. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [46. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
@@ -722,7 +732,7 @@ git status --short --branch
 
 *   [Biodesign Challenge](http://biodesignchallenge.org/) - Student design competition that concentrates on envisioning the future application of biotechnology.
 
-## [46. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [47. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### C++ tools / Misc
 

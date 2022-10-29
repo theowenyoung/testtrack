@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,6 +36,16 @@
 
 *   [Web Starter Kit (⭐18k)](https://github.com/google/web-starter-kit) Web starter kit by Google.
 *   [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
+
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / W companies
+
+*   Wingify <http://engineering.wingify.com/>
+
+### Individuals/Group Contributors / T individuals
+
+*   That Thing In Swift <https://thatthinginswift.com/>
 
 ---
 

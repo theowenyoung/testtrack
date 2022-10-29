@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -167,6 +167,98 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### PDF
 
 *   [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. \[GPLv2/GPLv3]
+
+## [13. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Asia / India 🇮🇳
+
+### Mumbai
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jayeshkattar" height="70px" width="70px" align="left" alt="" />
+
+**Jayesh Katta Ramalingaiah**\
+Topics: Rust, Android, Angular, React, Web VR, Project Things, Common Voice, Web Compatibility\
+<https://twitter.com/jayeshkattar>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manjula_dube" height="70px" width="70px" align="left" alt="" />
+
+**Manjula Dube**\
+Topics: JavaScript, React, Progressive Web Apps, Node, Testing\
+<https://twitter.com/manjula_dube>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/neeharv" height="70px" width="70px" align="left" alt="" />
+
+**Neehar Venugopal**\
+Topics: Code Splitting, Standards\
+<https://twitter.com/neeharv>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chatsidhartha" height="70px" width="70px" align="left" alt="" />
+
+**Sidhartha Chatterjee**\
+Topics: React, Progressive Web Apps, Web Performance\
+<https://twitter.com/chatsidhartha>
+
+### Australia / Australia 🇦🇺
+
+### Singapore
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/renettarenula" height="70px" width="70px" align="left" alt="" />
+
+**Aysha Anggraini**\
+Topics: CSS, Animations\
+<https://twitter.com/renettarenula>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hj_chen" height="70px" width="70px" align="left" alt="" />
+
+**Chen Hui Jing**\
+Topics: CSS\
+<https://twitter.com/hj_chen>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/zellwk" height="70px" width="70px" align="left" alt="" />
+
+**Zell Liew**\
+Topics: CSS, JavaScript\
+<https://twitter.com/zellwk>
+
+### North America / United States of America 🇺🇸
+
+### Carlsbad
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mjackson" height="70px" width="70px" align="left" alt="" />
+
+**Michael Jackson**\
+Topics: React, JavaScript, React Router\
+<https://twitter.com/mjackson>
+### Nashville
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Aimee_Knight" height="70px" width="70px" align="left" alt="" />
+
+**Aimee Knight**\
+Topics: JavaScript, CSS, Angular, Growing Junior Developers\
+<https://twitter.com/Aimee_Knight>
+### New Orleans
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/GantLaborde" height="70px" width="70px" align="left" alt="" />
+
+**Gant Laborde**\
+Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking\
+<https://twitter.com/GantLaborde>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thegreengreek" height="70px" width="70px" align="left" alt="" />
+
+**Sia Karamalegos**\
+Topics: React, JavaScript, React Native, Front-End Performance\
+<https://twitter.com/thegreengreek>
+
+### South America / Brazil 🇧🇷
+
+### Buenos Aires
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/evaferreira92" height="70px" width="70px" align="left" alt="" />
+
+**Evangelina Ferreira**\
+Topics: CSS, Animations\
+<https://twitter.com/evaferreira92>
 
 ---
 

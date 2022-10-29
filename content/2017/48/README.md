@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27 - Dec 03, 2017
 
-39 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -619,7 +619,23 @@
 
 *   [Rails Event Store](https://railseventstore.org) - Rails Event Store (RES) is a library for publishing, consuming, storing and retrieving events. It's your best companion for going with an event-driven architecture for your Rails application.
 
-## [20. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / N companies
+
+*   Nvidia <https://blogs.nvidia.com/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Paweł Chudzik <https://blog.pchudzik.com/>
+
+## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Converters / Ruby
+
+*   [GTFS-OSM-Sync (⭐83)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
+
+## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### OS
 
@@ -645,13 +661,13 @@
 *   [madDisAsm](http://help.madshi.net/madDisAsm.htm). The package features a full x86 disassembler including MMX, 3dNow enhanced, SSE and SSE2 support. The disassembler can examine a single x86 instruction (see ParseCode) or a full function (see ParseFunction) and either return a short analysis or a full text disassembly. Register contents are watched/followed if possible, this improves the analyses for jump/call targets. Case/switch jump tables are automatically detected and handled correctly.
     // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
-## [21. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Theory of Statistics](http://mason.gmu.edu/\~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -678,7 +694,7 @@
 
 *   [Phoenix in Action](https://manning.com/books/phoenix-in-action) - builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done. By Geoffrey Lessel (2017).
 
-## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [25. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -695,7 +711,7 @@
 *   [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 *   [Official docs](https://electronjs.org/docs)
 
-## [24. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [26. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Introducing people to data security and cryptography / Simple: cryptography for non-engineers
 
@@ -768,7 +784,7 @@
 *   [The joy of Cryptography](http://web.engr.oregonstate.edu/\~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 *   [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography.
 
-## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [27. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Other Resources
 
@@ -787,19 +803,19 @@
 
 *   [Malware Organiser](https://github.com/uppusaikiran/malware-organiser) - A simple tool to organise large malicious/benign files into a organised Structure.
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Baidu Bigflow](http://bigflow.cloud/en/index.html) - an interface that allows for writing distributed computing programs providing lots of simple, flexible, powerful APIs to easily handle data of any scale.
 
-## [27. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [29. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
 *   **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 
-## [28. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [30. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
@@ -810,26 +826,26 @@
     *   [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
     *   [arduino-canbus-monitor (⭐226)](https://github.com/latonita/arduino-canbus-monitor) - No matter which shield is selected you will need your own sniffer. This is implementation of standard Lawicel/SLCAN protocol for Arduino + any MCP CAN Shield to use with many standard CAN bus analysis software packages or SocketCAN
 
-## [29. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [31. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Ruby / Symfony2
 
 *   [Grape](http://www.ruby-grape.org) - Opinionated micro-framework for creating REST-like APIs in Ruby.
 *   [Rails](http://guides.rubyonrails.org/api_app.html) - RailsGuides: Using Rails for API-only applications.
 
-## [30. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [32. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Reference material
 
 *   InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
 
-## [31. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -847,7 +863,7 @@
 
 *   [vue-input-number (⭐14)](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -857,7 +873,7 @@
 
 *   [aws-big-data-blog :fire::fire::fire: (⭐882)](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
@@ -902,13 +918,13 @@
 
 *   [include-what-you-use (⭐3k)](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 
-## [35. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [37. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### iBeacon for Developers
 
 *   [Traveling with Beacons: Checked Luggage Made Easy](https://medium.com/@urish/traveling-with-beacons-checked-luggage-made-easy-bbd664765ea3)
 
-## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
@@ -918,7 +934,7 @@
 
 *   [rib](http://rib.godfat.org) - A lightweight and extensible IRB replacement.
 
-## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mail
 
@@ -928,14 +944,14 @@
 
 *   [posh-dotnet (⭐38)](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI (⭐3.5k)](https://github.com/dotnet/cli)
 
-## [38. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [40. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Zulip
 
 *   [Hubot](https://hubot.github.com/) + [adapter (⭐20)](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 *   [Errbot](http://errbot.io/) + [adapter (⭐4)](https://github.com/zulip/errbot-backend-zulip) (Python)
 
-## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
@@ -944,6 +960,62 @@
 ### Javascript / Isomorphic web frameworks
 
 *   [SmackJack (⭐17)](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT](https://opensource.org/licenses/MIT).
+
+## [42. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Germany 🇩🇪
+
+### Strasbourg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+<https://twitter.com/svensauleau>
+
+### Europe / Portugal 🇵🇹
+
+### Wrocław
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ferrannp" height="70px" width="70px" align="left" alt="" />
+
+**Ferran Negre**\
+Topics: React Native, React, Testing, JavaScript, Android\
+<https://twitter.com/ferrannp>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/grabbou" height="70px" width="70px" align="left" alt="" />
+
+**Mike Grabowski**\
+Topics: React Native, JavaScript, Tooling\
+<https://twitter.com/grabbou>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thymikee" height="70px" width="70px" align="left" alt="" />
+
+**Michał Pierzchała**\
+Topics: React Native, Jest, Testing, CSS\
+<https://twitter.com/thymikee>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
+
+**Mike Chudziak**\
+Topics: React, React Native, iOS, Android\
+<https://twitter.com/michal_chudziak>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
+
+**Satyajit Sahoo**\
+Topics: React, React Native, CSS in JS, Tooling\
+<https://twitter.com/satya164>
+
+### North America / United States of America 🇺🇸
+
+### Cedar Rapids
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/levibostian" height="70px" width="70px" align="left" alt="" />
+
+**Levi Bostian**\
+Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
+<https://twitter.com/levibostian>
 
 ---
 

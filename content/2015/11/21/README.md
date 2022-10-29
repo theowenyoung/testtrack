@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21, 2015
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,7 +69,13 @@
 *   [crutches (⭐125)](https://github.com/mykewould/crutches) - Utility library for Elixir, designed to complement the standard library bundled with the language.
 *   [erlsh (⭐62)](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 
-## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Design
+
+*   [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** \[41:42]
+
+## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -84,7 +90,7 @@
 *   [Proof of concept for loading Caffe models in TensorFlow (⭐2.8k)](https://github.com/ethereon/caffe-tensorflow)
 *   [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
 
-## [5. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [6. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Eddystone by Google
 
@@ -139,7 +145,7 @@
 
 *   [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
 
-## [6. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [7. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Official Resources
 
@@ -156,13 +162,19 @@
 
 *   [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy weekly newsletter
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
 *   [ExpressionToCode (⭐145)](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / N individuals
+
+*   Nate Berkopec <http://www.nateberkopec.com/>
+
+## [10. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Unofficial
 
@@ -192,7 +204,7 @@
 *   [logstash-output-influxdb (⭐53)](https://github.com/logstash-plugins/logstash-output-influxdb) - Community-maintained [Logstash](https://www.elastic.co/products/logstash) plugin to output metrics to InfluxDB
 *   [mod-influxdb (⭐13)](https://github.com/savoirfairelinux/mod-influxdb) - [Shinken](http://www.shinken-monitoring.org/) module for exporting data to InfluxDB
 
-## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [11. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Online Judges / Randomized Algorithms
 

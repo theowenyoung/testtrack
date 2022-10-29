@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,7 +37,25 @@
 
 *   [Soil Mate (⭐8)](https://github.com/Open-Source-Agriculture/soil_mate) - Helper app designed to assist the collection of soil data.
 
-## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### WebAssembly Frameworks
+
+[WebAssembly↰](#webassembly) • [Web Frameworks↰](#web-frameworks)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/seed_rs.webp">
+
+[**seed-rs**](https://discord.com/invite/JHHcHp5) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://seed-rs.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/seed-rs) \
+Notable Channels: `#app-architecture`, `#hooks-and-style`, `#devel`, `#support`, `#showcase`, `#documentation`, `#jobs` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/yew.webp">
+
+[**Yew**](https://discord.com/invite/VQck8X4) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://yew.rs) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/yewstack) \
+Notable Channels: `#development`, `#support`, `#showcase`, `#fetch`, `#functional`, `#router`, `#ssr`, `#gloo`, `#malvolio`, `#trunk`, `#ybc`, `#yewprint`, `#yew-state`, `#yew_styles` \
+Language: English, 中文
+
+## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries
 
@@ -63,26 +81,26 @@
 
 *   [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - Compares Flax, Haiku, and Objax on the Kaggle flower classification challenge.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / I/O
 
 *   [agcom/knio2 (⭐2)](https://github.com/agcom/knio2) - Kotlinx coroutines extensions for Java NIO.2
 
-## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [ipfs.ink (⭐108)](https://github.com/kpcyrd/ipfs.ink) - Publish and render markdown essays to and from ipfs.
 *   [Watchit (⭐265)](https://github.com/ZorrillosDev/watchit-desktop) - A movie platform with a decentralized network approach.
 
-## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [9. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3.2+
 
 *   [ProtonGraph (⭐887)](https://github.com/protongraph/protongraph) - Node-based tool for procedural content creation. Like visual scripting, but for 3D model generation (needs custom engine modules).
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Hybrid
 
@@ -96,13 +114,13 @@
 
 *   [.NET Frontend day 2021](https://www.youtube.com/watch?v=P-DSBDLnFmc) - January 28, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-381%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) .NET Frontend Day 2021 sessions.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
 *   [datanymizer/datanymizer (⭐372)](https://github.com/datanymizer/datanymizer) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 
-## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [12. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -117,7 +135,7 @@
 
 *   [Social Media Awareness Toolkit](https://www.smat-app.com/about) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) - An open and intuitive way to scrutinize what’s trending on internet platforms.
 
-## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
@@ -133,7 +151,7 @@
 *   [generator-eslint (⭐165)](https://github.com/eslint/generator-eslint) - Generate ESLint
     plugin and rules with [Yeoman](http://yeoman.io/).
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Text
 

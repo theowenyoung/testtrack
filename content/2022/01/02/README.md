@@ -48,6 +48,7 @@
 *   [weborganiZm](http://weborganizm.org/) is an Ad-Free NON-indexed network for creating and sharing of the knowledges that follows these principles: Non-Profit, Reproducible, Reinforcing the Digital Commons, Grassroots.
 
 ## [4. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
 
   Description: Bitbucket Pipelines & Deployments

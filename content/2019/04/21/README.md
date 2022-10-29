@@ -7,6 +7,7 @@
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@colcarroll](https://github.com/ColCarroll), [PyMC3 (⭐7.1k)](https://github.com/pymc-devs/pymc3)
     *   "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))
 

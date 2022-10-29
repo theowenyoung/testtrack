@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2014
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,7 +29,15 @@
 
 *   [30 Days of Elixir (⭐2.9k)](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Books
+
+*   [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ\&dq=Foundations+of+Computational+Linguistics\&hl=nl\&source=gbs_navlinks_s)
+*   [Semisupervised Learning for Computational Linguistics](http://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC\&redir_esc=y)
+*   [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
+
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 

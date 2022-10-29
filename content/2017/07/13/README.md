@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,13 @@
 *   [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 *   [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind (⭐651)](https://github.com/kristjankorjus/Replicating-DeepMind)
 
-## [2. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+## [2. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### How-to lockpicking guides
+
+*   [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - Guidebook covering terminology, tool use, and techniques for picking the vast majority of pin and wafer tumbler locks.
+
+## [3. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Certification
 
@@ -39,7 +45,7 @@
 *   [Symfony 3 certification guide (⭐142)](https://github.com/raulconti/symfony-3-certification-guide)
 *   [Symfony certification preparation list (⭐548)](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Converters
 
@@ -49,7 +55,7 @@
 
 *   [crystal-email (⭐107)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
-## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 
@@ -61,7 +67,7 @@
 
 
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
@@ -70,7 +76,7 @@
 *   [iOS Developer and Designer Interview Questions (⭐1.6k)](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 *   [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

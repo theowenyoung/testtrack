@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 08, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,19 @@
 
 *   [Preact Test Utils (⭐7)](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / X companies
+
+*   XING <https://tech.xing.com/>
+
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Code Quality
 
 *   [shields.io](https://shields.io) — Quality metadata badges for open source projects
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -36,13 +42,13 @@
 *   [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
 *   [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 
 *   [crystal-base (⭐2)](https://github.com/ruivieira/crystal-base) - CentOS base docker image for Crystal development
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Stalled Development
 
@@ -56,13 +62,13 @@
     [Docs (⭐327)](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
     [Repo (⭐327)](https://github.com/justinhough/Centurion)
 
-## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
 *   [Dynamorse (⭐43)](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT swiss army knife - a Node-RED media pipeline builder, adding professional media processing nodes.
 
-## [8. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Introductions
 

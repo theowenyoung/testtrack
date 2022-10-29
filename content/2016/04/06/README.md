@@ -30,6 +30,7 @@
 *   [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## View the GPG signatures in the commit log
 
 ```sh

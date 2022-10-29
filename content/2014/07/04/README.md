@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 04, 2014
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,6 +39,14 @@
 ### HTTP
 
 *   [httpoison (⭐2.1k)](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
+
+## [3. Tools](/content/lvwzhen/tools/README.md)
+
+### CDN
+
+*   [cdnjs.cn](http://www.cdnjs.cn/)
+*   [upai](http://jscdn.upai.com/)
+*   [Baidu cdn](http://cdn.code.baidu.com/)
 
 ---
 

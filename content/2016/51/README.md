@@ -1,12 +1,13 @@
 # Awesome List Updates on Dec 19 - Dec 25, 2016
 
-38 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Tips](/content/git-tips/tips/week/README.md)
+
 ## Preformatted patch file.
 
 ```sh
@@ -199,7 +200,55 @@ git format-patch -M upstream..topic
 *   [Awesome CMake (⭐4.4k)](https://github.com/onqtam/awesome-cmake) - If you're not using qmake for your project, you're likely using CMake instead.
 *   [Awesome OpenGL (⭐1.7k)](https://github.com/eug/awesome-opengl) - Qt is commonly used for graphics applications, even providing its own wrappers around OpenGL.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / C companies
+
+*   Clever <https://engineering.clever.com/>
+*   Codelitt <https://www.codelitt.com/blog/>
+
+### Companies / M companies
+
+*   Moove-it <https://blog.moove-it.com/>
+
+### Companies / P companies
+
+*   Pluralsight <https://www.pluralsight.com/guides>
+
+### Companies / V companies
+
+*   VTS <https://buildingvts.com/>
+
+### Companies / Z companies
+
+*   Zillow <https://www.zillow.com/engineering/>
+
+### Individuals/Group Contributors / C individuals
+
+*   Carlos Becker <https://carlosbecker.com>
+*   Codrops <https://tympanus.net/codrops/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Dennis Yurichev <https://yurichev.com/blog/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Natasha Murashev <https://natashatherobot.com>
+
+### Individuals/Group Contributors / P individuals
+
+*   Philip Walton <https://philipwalton.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Ray Wenderlich <https://www.raywenderlich.com/>
+
+### Individuals/Group Contributors / W individuals
+
+*   William Kennedy <https://www.goinggo.net/>
+
+## [7. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -227,19 +276,19 @@ git format-patch -M upstream..topic
 
 *   [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
 *   [Beringei (⭐3.1k)](https://github.com/facebookincubator/beringei) - Facebook's in-memory time-series database.
 
-## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [9. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -249,7 +298,7 @@ git format-patch -M upstream..topic
 
 *   [image64](https://hex.pm/packages/image64) - A tool for working with base64 encoded images.
 
-## [10. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [11. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Security
 
@@ -278,7 +327,7 @@ git format-patch -M upstream..topic
 
 *   [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 
-## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [12. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other useful repositories
 
@@ -288,7 +337,7 @@ git format-patch -M upstream..topic
 
 
 
-## [12. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [13. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 
@@ -302,13 +351,13 @@ git format-patch -M upstream..topic
 
 *   [awesome-honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots) - The canonical awesome honeypot list.
 
-## [13. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
 *   [Wagtail-Geo-Widget (⭐107)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Functional programming
 
@@ -322,7 +371,7 @@ git format-patch -M upstream..topic
 
 *   [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 
-## [15. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [16. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -332,7 +381,7 @@ git format-patch -M upstream..topic
 
 *   [circe (⭐2.3k)](https://github.com/circe/circe) - Yet another JSON library for Scala.
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Interfaces to other package managers
 
@@ -347,7 +396,13 @@ git format-patch -M upstream..topic
 
 *   [JSCL (⭐799)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
-## [17. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Zach Leatherman (⭐0)](https://github.com/zachleat/ama) - I have a beard sometimes.
+
+## [19. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Javascript
 
@@ -381,31 +436,31 @@ git format-patch -M upstream..topic
 *   [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
 *   [Safari (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 
-## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Date and Time
 
 *   [Yasumi (⭐899)](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
 
-## [19. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [21. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
 
-## [20. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [22. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Networking
 
 *   [Nipe (⭐1.5k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
-## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [23. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Topic-specific
 
 *   *[Network Analysis Literacy. A Practical Approach to the Analysis of Networks](https://www.springer.com/us/book/9783709107409)*, by Katharina A. Zweig (2016).
 
-## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### OSINT Videos / Telegram
 
@@ -413,13 +468,13 @@ git format-patch -M upstream..topic
 *   [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 *   [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
-## [23. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [25. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Videos
 
 *   [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - A simple and understandable introduction of functional proramming in javascript.
 
-## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [26. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -469,25 +524,25 @@ git format-patch -M upstream..topic
     *   [gl\_vk\_supersampled (⭐57)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *   [Vulkan-Forward-Plus-Renderer (⭐581)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
 
-## [25. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Quick References
 
 *   [bestmomo/laravel5-3-example (⭐225)](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Neural Networks
 
 *   [Data Driven Code (⭐26)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
-## [27. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Syntax Highlighter / OpenOffice
 
 *   [AutoIt - Visual Studio (⭐57)](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
 
-## [28. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [30. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
@@ -503,21 +558,21 @@ git format-patch -M upstream..topic
 
 *   [The text/markdown Media Type (RFC7763)](https://tools.ietf.org/html/rfc7763) - This document registers the `text/markdown` media type for use with Markdown, a family of plain-text formatting syntaxes.
 
-## [29. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [31. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Pipeline Generation
 
 *   [ruby-spark (⭐224)](https://github.com/ondra-m/ruby-spark) -
     Spark bindings with an easy to understand DSL.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [VueJS 2 - The Complete Guide (incl. Vuex) - Udemy Tutorial](https://www.udemy.com/vuejs-2-the-complete-guide)
 *   [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) on [egghead.io](https://egghead.io/)
 
-## [31. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
+## [33. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
 ### Strings / Active Pickups Electronics
 
@@ -533,7 +588,7 @@ git format-patch -M upstream..topic
 *   warmer
 *   more sustain and longer decay
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -551,19 +606,19 @@ git format-patch -M upstream..topic
 
 *   [Blackhole (⭐190)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [docfx (⭐3.2k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
 *   [Fundamental Ruby (⭐432)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
-## [35. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [37. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -575,7 +630,7 @@ git format-patch -M upstream..topic
     *   Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
     *   [Labs](https://www.cs.swarthmore.edu/\~jpolitz/cs91/s15/s_labs.html)
 
-## [36. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [38. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Books
 
@@ -625,7 +680,7 @@ git format-patch -M upstream..topic
 
 *   [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare\&utm_medium=referral\&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) \[Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
 
-## [37. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Spatial
 
@@ -651,11 +706,17 @@ git format-patch -M upstream..topic
 
 *   [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
 
-## [38. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [40. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Integrated Development Environment / Web
 
 *   [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
+
+## [41. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Design
+
+*   [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** \[26:04]
 
 ---
 

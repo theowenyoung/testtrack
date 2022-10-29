@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2020
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,13 +80,19 @@
 
 *   [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
 
-## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / R companies
+
+*   REA Group <https://www.rea-group.com/category/tech/>
+
+## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Alert & Action Sheet
 
 *   [CleanyModal (⭐487)](https://github.com/loryhuz/CleanyModal) - Use nice customized alerts and action sheets with ease, API is similar to native UIAlertController.
 
-## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / R
 
@@ -98,7 +104,7 @@
     *   [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
     *   [Introduction to snahelper (Part 2)](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -108,7 +114,7 @@
 
 *   [AutoViz (⭐971)](https://github.com/AutoViML/AutoViz) AutoViz performs automatic visualization of any dataset with a single line of Python code. Give it any input file (CSV, txt or json) of any size and AutoViz will visualize it. See <a href="https://towardsdatascience.com/autoviz-a-new-tool-for-automated-visualization-ec9c1744a6ad?source=friends_link&sk=c9e9503ec424b191c6096d7e3f515d10">Medium article</a>.
 
-## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Email
 
@@ -130,44 +136,44 @@
 
 *   :strawberry: [Search plugin (⭐155)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
 *   [Torimori Sweeper](https://web.archive.org/web/20190515060747/https://coffeeboo.itch.io/sweeper) - MacOS app that lets you declutter your Downloads, one file at a time. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://coffeeboo.itch.io/sweeper)
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
 *   [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
 
-## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
 *   [Deploy an Ansible role to Ansible Galaxy (⭐24)](https://github.com/robertdebock/galaxy-action)
 
-## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [ash (⭐1.2k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
 
-## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Keycloak: Core concepts of open source identity and access management](https://developers.redhat.com/blog/2019/12/11/keycloak-core-concepts-of-open-source-identity-and-access-management)
 *   [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
 *   [CITA (⭐1.3k)](https://github.com/citahub/cita) — A high performance blockchain kernel for enterprise users.
 
-## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Rails
 

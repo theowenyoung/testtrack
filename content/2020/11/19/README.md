@@ -1,18 +1,24 @@
 # Awesome List Updates on Nov 19, 2020
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** \[49:38]
+
+## [2. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Source Generators
 
 *   [Generator.Equals (⭐58)](https://github.com/diegofrata/Generator.Equals) - Automatically implements equality and hashing for classes and records. Supports different comparison strategies. Offers similar functionality like IL weaving-based [Equals.Fody (⭐107)](https://github.com/Fody/Equals).
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -28,49 +34,56 @@
 
 
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### EBooks / Online resources
 
 *   [The Art of Network Penetration Testing](https://www.manning.com/books/the-art-of-network-penetration-testing) - Book that is a hands-on guide to running your own penetration test on an enterprise network. (early access, published continuously, final release December 2020)
 
-## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   eBool - <https://www.ebool.com/submit>
+*   Oye Startups - <https://oyestartups.com/contact>
+
+## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Domain-Specific Projects
 
 *   [Jupylet (⭐173)](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
 
-## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### IDE Extensions
 
 *   [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - Explore the classes available in your project's Tailwind CSS setup.
 
-## [6. Magictools](/content/ellisonleao/magictools/README.md)
+## [8. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Books / Voxel Editors
 
 *   [Designing Games: A Guide to Engineering Experiences](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937)
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Health / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [gammastep](https://gitlab.com/chinstrap/gammastep) - Linux tool to adjust the color temperature of your screen to your surroundings.
 
-## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Trash (⭐25)](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
@@ -79,7 +92,7 @@
 *   [BlazorRouter (⭐44)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
 *   [DataJuggler.Blazor.FileUpload (⭐22)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 

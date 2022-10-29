@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16 - Jan 22, 2017
 
-31 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,26 @@
 
 *   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐943)](https://github.com/PagerDuty/incident-response-docs).
 
-## [7. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / D companies
+
+*   Discord <https://blog.discordapp.com/>
+
+### Companies / G companies
+
+*   Grofers <https://lambda.grofers.com/>
+
+### Companies / S companies
+
+*   ShowMax <https://tech.showmax.com>
+*   Skyscanner <http://codevoyagers.com/>
+
+### Products/Technologies / I technologies
+
+*   IPFS <https://ipfs.io/blog/>
+
+## [8. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
@@ -53,20 +72,20 @@
 
 *   [The Psychology of Color in Marketing](https://www.helpscout.net/blog/psychology-of-color/)
 
-## [8. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Presentations / Hylomorphisms in the Wild
 
 *   [Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes](https://www.youtube.com/watch?v=5Kr7IykGMzU) - High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.
 *   [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 
-## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson\&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
 
-## [10. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [11. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### JavaScript References
 
@@ -94,13 +113,13 @@
 *   [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 *   [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 
-## [11. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [12. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
 *   [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design) - Domain-Driven Design mixed with security, and agile in general. Written as fictional letters to a younger programmer.
 
-## [12. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [13. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Patterns & Best Practices
 
@@ -130,7 +149,7 @@
 *   [List of CouchDB Useful Utilities](https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities)
 *   [Old Wiki's Related Projects List](https://wiki.apache.org/couchdb/Related_Projects)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -140,13 +159,13 @@
 
 *   [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
 
-## [14. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [15. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Presentation / Extensions
 
 *   [WebSlides (⭐6k)](https://github.com/jlantunez/webslides) - Making HTML presentations easy
 
-## [15. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
+## [16. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
 
 ### Getting Started
 
@@ -198,7 +217,13 @@
 *   [Responsive Grid](https://codepen.io/mecarter/pen/idKqg)
 *   [More...](https://codepen.io/tag/less/)
 
-## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [17. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Travis Northcutt (⭐0)](https://github.com/tnorthcutt/ama) - Husband, dad, nomad, PHP developer.
+
+## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Trading
 
@@ -208,7 +233,7 @@
 
 *   [ASP.NET Core Library and Framework Support (⭐200)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
-## [17. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [19. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Resources / Documentation
 
@@ -219,13 +244,13 @@
 
 *   [Markdown Cheatsheet (⭐57k)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: *Where to look when you don't remember the syntax!*
 
-## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Logging
 
 *   [pino (⭐10k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -239,7 +264,7 @@
 
 *   [balalaika\_bear (⭐11)](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 
-## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Static Code Analysis
 
@@ -249,13 +274,13 @@
 
 *   [C++ links (⭐3.3k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
-## [21. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-better-mouse-mode (⭐806)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
-## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -265,7 +290,7 @@
 
 *   [Netflix/zuul :fire::fire::fire::fire::fire: (⭐12k)](https://github.com/Netflix/zuul) - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
-## [23. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [25. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Videos / Firefox Specific Tools/Debugger
 
@@ -275,7 +300,7 @@
 
 *   [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 
-## [24. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [26. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Gerber Viewers / Online
 
@@ -304,7 +329,8 @@
 *   [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 *   [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
 
-## [25. Tips](/content/git-tips/tips/week/README.md)
+## [27. Tips](/content/git-tips/tips/week/README.md)
+
 ## logs between date range
 
 ```sh
@@ -317,13 +343,13 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ```
 
-## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
 *   [Camping (⭐747)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
-## [27. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -335,7 +361,13 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
     *   This module aims to teach students how to use the features of modern typed functional programming languages (e.g. OCaml, Haskell) to design and implement libraries and DSLs. It aims to demonstrate how such techniques can improve both correctness and efficiency. Students wishing to take the module should have some experience of a typed functional programming language and an understanding of type inference.
     *   This particular session was taught by a prominent OCaml programmer, open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
 
-## [28. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Theming
+
+*   [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html)
+
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -345,7 +377,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 *   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
-## [29. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [32. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Works with AVA
 
@@ -355,7 +387,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 *   [delay (⭐516)](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example) (⭐2.3k)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
 *   [get-stream (⭐291)](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example) (⭐8k)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
 
-## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -394,7 +426,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 *   [Awesome audio visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 *   [Awesome computer vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 

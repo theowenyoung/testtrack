@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 25, 2018
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,6 +75,7 @@
 *   [Vert.x health check (⭐10)](https://github.com/vert-x3/vertx-health-check) - Allows for remote health checking in Vert.x projects.
 
 ## [6. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@alyssais](https://github.com/alyssais), [Homebrew (⭐34k)](https://github.com/Homebrew/brew)
     *   "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
 *   [@amjith](https://github.com/amjith), [pgcli (⭐11k)](https://github.com/dbcli/pgcli)
@@ -141,6 +142,12 @@
 ### Packages / Mad science
 
 *   [Brain.js (⭐13k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / E individuals
+
+*   Erik Runyon <https://erikrunyon.com/>
 
 ---
 

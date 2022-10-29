@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25 - May 31, 2015
 
-26 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,13 +57,29 @@
     *   Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
     *   [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content\&view=article\&id=233)
 
-## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [7. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Favicon
+
+*   [favicon.cc](http://www.favicon.cc/)
+*   [iconogen](http://iconogen.com/)
+
+### CSS
+
+*   [css spritegen](http://spritegen.website-performance.org/)
+*   [csssprites](http://csssprites.com/)
+
+### Pagespeed
+
+*   [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+
+## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
 *   [Normalizando bugs no flexbox em diversos navegadores (pt-br)](http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197\&source=single)
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Books
 
@@ -73,19 +89,19 @@
 
 *   [C++ Quiz](http://q.viva64.com/) - C++ quiz in which you propose to find errors in code fragments of open source projects.
 
-## [9. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [10. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Mobile / Resources-websites-projects
 
 *   [Meteor](https://www.meteor.com/)
 
-## [10. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2012
 
 *   [Douglas Crockford: **Principles of Security**](https://www.youtube.com/watch?v=ZVCPZTTlhiM) \[59:52]
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -96,7 +112,7 @@
 
 *   [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - Podcast about technology and Open Source/Free software
 
-## [12. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [13. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Why Elm?
 
@@ -111,7 +127,7 @@
 *   <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a> by [**@sindresorhus**](https://github.com/sindresorhus)
 *   <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
 
-## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Contour Detection and Image Segmentation / Edge-preserving image processing
 
@@ -124,7 +140,7 @@
 *   [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
 *   [Edge Boxes (⭐773)](https://github.com/pdollar/edges)
 
-## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Source Code Repos
 
@@ -163,19 +179,19 @@
 
 *   [OpenShift (⭐8.2k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
 
-## [15. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [16. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Web Frameworks
 
 *   [gServ (⭐48)](https://github.com/javaConductor/gserv) - A Groovy toolkit for creating SPAs and REST based micro-services without the need for a container (Tomcat, JBoss, etc.).
 
-## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
 *   [libsodium-net (⭐351)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 
-## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / E-commerce
 
@@ -185,7 +201,7 @@
 
 *   [wsdl2phpgenerator (⭐803)](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - A tool to generate PHP classes from SOAP WSDL files.
 
-## [18. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [19. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
@@ -195,7 +211,7 @@
 
 *   [d3moji (⭐126)](https://github.com/mathisonian/d3moji) - First class emoji support
 
-## [19. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -209,7 +225,7 @@
 
 *   [If you would create a new programming language, what would it look like?](http://qr.ae/fgPsq)
 
-## [20. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [21. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -223,7 +239,7 @@
 
 *   [A curated list of awesome lists - @sindresorhus (⭐223k)](https://github.com/sindresorhus/awesome)
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Templating
 
@@ -233,7 +249,7 @@
 
 *   [Stylecow (⭐154)](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Websites
 
@@ -256,14 +272,14 @@
 
 *   [Keras - Theano based Deep Learning Library](http://keras.io)
 
-## [23. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [24. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
 *   [8 Great Backbone.js Interview Questions](http://www.toptal.com/backbone-js/interview-questions)
 *   [Integrating React With Backbone](https://quickleft.com/blog/integrating-react-with-backbone/) by Ben Lewis
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
@@ -280,7 +296,7 @@
 *   [VolDiff (⭐185)](https://github.com/aim4r/VolDiff) - Run Volatility on memory
     images before and after malware execution, and report changes.
 
-## [25. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [26. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / JavaScript Interoperability
 
@@ -301,7 +317,7 @@
 
 *   [Mies (⭐369)](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 
-## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 

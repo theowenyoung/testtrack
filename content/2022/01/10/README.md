@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2022
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,31 +99,42 @@
 
 *   [scriptable-testflight-watcher (⭐28)](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
-## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Software for Creating APIs
+
+*   [GraphHopper Routing Engine (⭐3.9k)](https://github.com/graphhopper/graphhopper/#public-transit) Open source routing engine for OpenStreetMap. Use it as Java library or server.
+*   [gtfs-server (⭐18)](https://github.com/denysvitali/gtfs-server) - A web server, written in Rust that uses PostGIS as a backend to serve GTFS data via a HTTP endpoint
+*   [hafas-rest-api (⭐12)](https://github.com/public-transport/hafas-rest-api) – Expose a [HAFAS](https://de.wikipedia.org/wiki/HAFAS) endpoint as a REST API.
+*   [Linked Connections](http://linkedconnections.org/) - An open-source, scalable intermodal route planning engine, which allows clients to execute the route planning algorithm (as opposed to the server). Uses GTFS data.
+*   [MOTIS (⭐71)](https://github.com/motis-project/motis) - Multi Objective Travel Information System, written in C++ and Java. Can consume schedule timetables in the GTFS or HAFAS format as well as real time information in the GTFS-RT (and RISML, a propriatary format at Deutsche Bahn) as input data. For pedestrian routing (handled by Per Pedes Routing) and car routing (handled by OSRM) OpenStreetMap data is used.
+*   [pyBikes (⭐491)](https://github.com/eskerda/pybikes) - Software powering [CityBikes](http://api.citybik.es) for worldwide bikeshare system info
+
+## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Blockchain
 
 *   [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
 
-## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### FIAT
 
 *   [Budget Zen](https://budgetzen.net) - Simple and Encrypted Budget Management.
 
-## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Books
 
 *   [Understanding Quantum Technologies](https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/) - Excellent Book which  provides a 360 degree approach of quantum technologies encompassing all dimensions.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Development / Newsletters
 
 *   [robotnix (⭐354)](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Third party Guides
 
@@ -142,25 +153,31 @@
 *   [AsyncLocationKit (⭐66)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [STLocationRequest (⭐640)](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / GUI
 
 *   [emilk/egui (⭐11k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 
-## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [Growform](https://www.growform.co/) - The Multi Step Form Builder that Gets You More Leads.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [13. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / Forms
+
+*   [vest (⭐2k)](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing syntax.
+
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / To-Do Lists
 
 *   [Super Productivity](https://super-productivity.com) - Cross-platform todo list app with integrated Timeboxing and time tracking capabilities. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/johannesjo/super-productivity) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/super-productivity/id1482572463?mt=12)
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Integrations
 

@@ -7,6 +7,7 @@
 
 
 ## [1. Tips](/content/git-tips/tips/README.md)
+
 ## Create new working tree from a repository (git 2.5)
 
 ```sh

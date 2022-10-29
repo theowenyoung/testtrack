@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2016
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,7 +102,17 @@
 
 *   [LevelDB (⭐31k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Crowdfire <https://crowdfire.engineering/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Evan Jones <http://www.evanjones.ca/chronological.html>
+
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Email
 
@@ -136,7 +146,7 @@
 
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
-## [11. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Websites and Resources
 
@@ -158,7 +168,7 @@
 *   [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Ted talk by Gary Wolf on the Quantified Self movement.
 *   [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - Lauren Costantini explores what it means to be human in the age of the Quantified Self.
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
@@ -168,7 +178,7 @@
 
 *   [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 
-## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computer Vision
 
@@ -187,7 +197,7 @@
 
 *
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Job Portal
 

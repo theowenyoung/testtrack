@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 29, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -118,7 +118,13 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 *   [electron-packager (⭐8.1k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
-## [10. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Books
+
+*   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+
+## [11. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
@@ -129,7 +135,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 *   [Twitter](https://twitter.com/ava__js)
 
-## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Community / Related Lists
 

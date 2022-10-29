@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2015
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,7 +49,13 @@
 *   [ASPDM (⭐58)](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 *   [pAHKlight (⭐36)](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
-## [6. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+## [6. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [JD Ballard (⭐4)](https://github.com/Qix-/ama) - Idaho native, Chalk collaborator, sunshine burns us. Likes hypotheticals, dislikes bees.
+
+## [7. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ### [hub](https://github.com/github/hub)
 
@@ -245,6 +251,16 @@
     Branch None not found, using current branch master
     Publishing master.
     Branch master set up to track remote branch master from origin.
+
+## [8. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### R Development
+
+#### Machine Learning with R [\[Amazon\]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [\[O'Reilly\]](http://shop.oreilly.com/product/9781782162148.do)
+
+<img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
+
+"Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01 - May 07, 2017
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,19 +47,25 @@
 *   [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 *   [wavemon (⭐701)](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
 
-## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** \[58:53]
+
+## [4. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Debug
 
 *   [dd (⭐20)](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
 
-## [4. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [5. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 
 *   [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Resources / Web programming
 
@@ -93,7 +99,7 @@
     *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
 
-## [6. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [7. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++
 
@@ -107,25 +113,25 @@
 
 *   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 
-## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [HOMR-REACT (⭐16)](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Asynchronous Event Loop
 
 *   [uvw (⭐1.5k)](https://github.com/skypjack/uvw) - C++ wrapper for libuv. \[MIT]
 
-## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [SoX](http://sox.sourceforge.net/) - The Swiss Army knife of sound processing programs.
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Camera
 
@@ -135,7 +141,7 @@
 
 *   [Moshi (⭐8.6k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
-## [11. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [12. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / Canvas
 
@@ -179,19 +185,19 @@
 
 *   [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-## [12. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [13. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Colormind](http://www.colormind.io/) - Colormind is a color scheme generator that uses deep learning.
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [14. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Design patterns / Chrome Extensions
 
 *   :octocat: [Design Patterns implementation (⭐4.5k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
-## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Neural Networks
 
@@ -203,7 +209,7 @@
 *   [Gym (⭐29k)](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
 *   [ViZDoom (⭐1.4k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
-## [15. Guides](/content/NARKOZ/guides/week/README.md)
+## [16. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Markup / HTML
 
@@ -264,19 +270,19 @@
 *   [Writing style](https://atlassian.design/server/foundations/writing-style/)
 *   [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 
-## [16. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### JSON Schema Tools
 
 *   [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 
-## [17. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Utilities
 
 *   [Vert.x Util (⭐2)](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -290,13 +296,13 @@
 
 *   [vue-inject (⭐184)](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 
-## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [20. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
 *   [Wagtail FilePreviews (⭐21)](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 
-## [20. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [21. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Podcasts / Other
 
@@ -506,7 +512,7 @@
 *   'how do i deal with support'
 *   'types of digital products'
 
-## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -522,13 +528,13 @@
 
 *   [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
 
-## [22. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [23. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Webdriver automation
 
 *   [Etaoin (⭐804)](https://github.com/igrishaev/etaoin)
 
-## [23. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [24. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Perceptial Models - Auditory Models
 
@@ -538,13 +544,13 @@
 
 *   [NTFLib (⭐46)](https://github.com/stitchfix/NTFLib) [:octocat: (⭐46)](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization.
 
-## [24. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [25. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [kr (⭐1.6k)](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social\&label=stars)](https://github.com/KryptCo/kr) - Kr agent that route access request to the paired mobile phone where Kryptonite is installed.
 
-## [25. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [26. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Augmented & Virtual Reality
 
@@ -555,7 +561,7 @@
 
 *   [CharacterController2D (⭐979)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
-## [26. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [27. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Community
 
@@ -565,7 +571,7 @@
 *   [Reddit](https://www.reddit.com/r/vulkan/)
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
 
-## [27. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [28. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Pipeline Generation
 
@@ -579,7 +585,7 @@
 *   [RSyntaxTree](https://yohasebe.com/rsyntaxtree/) -
     Web based demonstration of the syntactic tree visualization.
 
-## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [29. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Courses
 
@@ -593,19 +599,19 @@
 *   [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 *   [Kattis](https://open.kattis.com/)- Online judge and problem archive
 
-## [29. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer.
 
-## [31. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
@@ -634,13 +640,13 @@
 *   [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 *   [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
-## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [33. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
-## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [34. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -650,19 +656,19 @@
 
 *   [mesosphere-dc/os](https://github.com/cicdops/awesome-ciandcd/blob/master/README.md/mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.
 
-## [34. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [35. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 
-## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [36. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -677,14 +683,14 @@
 
 *   [Dependency Injection in .NET Core, 2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition)
 
-## [37. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [38. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Lebanon](http://www.paperswelovelb.club)
 *   [Winnipeg](http://pwlwpg.ca/)
 
-## [38. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [39. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
@@ -699,7 +705,7 @@
 *   [adminMongo (⭐3.8k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
 *   [Rockmongo (⭐1k)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
-## [39. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
@@ -742,7 +748,7 @@
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
-## [40. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [41. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 

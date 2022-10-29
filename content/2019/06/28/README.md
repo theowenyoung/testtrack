@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,13 +103,19 @@
 
 *   [RadioGroup (⭐185)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
+
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [Casbin.NET (⭐842)](https://github.com/casbin-net/Casbin.NET) - Authorization library that supports access control models like ACL, RBAC, ABAC in C#
 
-## [12. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [13. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Blogs
 

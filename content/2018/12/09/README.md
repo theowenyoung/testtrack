@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,13 @@
 
 *   [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
+
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Transportation
 
@@ -32,7 +38,7 @@
 
 
 
-## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Private Packagist / IRC
 
@@ -40,39 +46,39 @@
 *   [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
 *   [Private Packagist API Client (⭐31)](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### JVM and JDK
 
 *   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
 *   [OpenJ9 (⭐3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### State management / Standard
 
 *   [Bloc (⭐9.7k)](https://github.com/felangel/bloc) <!--stargazers:felangel/bloc--> - Collection of packages that help implement the BLoC design pattern by [Felix Angelov](https://github.com/felangel)
 
-## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Navigation
 
 *   [react-native-hotspot ★2 (⭐30)](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Password Managers
 
 *   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Python`
 *   [Psono](https://psono.com/) - A promising password managers fully featured for teams. ([Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)) `Apache-2.0` `Python`
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Videos
 
 *   [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Blogging/news
 
@@ -86,7 +92,7 @@
 
 *   [Project TIER (⭐10)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
-## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -96,7 +102,7 @@
 *   [enjarify (⭐828)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
 *   [Android Storage Extractor (⭐10)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
-## [11. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
+## [12. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 
 ### Libraries
 

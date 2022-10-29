@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12, 2016
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,23 @@
 
 *   [gen\_fsm (⭐37)](https://github.com/pavlos/gen_fsm) - A generic finite state-machine - Elixir wrapper around OTP's gen\_fsm.
 
-## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Beginner Books
+
+#### The R Programming Wikiboo [\[online\]](https://en.wikibooks.org/wiki/R_Programming)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wikibooks-logo-en.svg" width="200px"/>
+
+A collaborative book about R on the wikibooks website. Anyone can improve it.
+
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / E companies
+
+*   Evil Martians <https://evilmartians.com/chronicles/>
+
+## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
@@ -71,7 +87,7 @@
 *   [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 *   [HYPE\_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 
-## [5. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
@@ -81,7 +97,7 @@
 *   [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 *   [Topic Models (⭐213)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 
-## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Classics
 

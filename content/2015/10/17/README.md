@@ -1,18 +1,28 @@
 # Awesome List Updates on Oct 17, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / V companies
+
+*   Venmo <http://blog.venmo.com/?category=Engineering>
+
+### Individuals/Group Contributors / U individuals
+
+*   Undocumented Matlab <http://undocumentedmatlab.com/>
+
+## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Node.js / Scala
 
 *   [Koa](http://koajs.com/) - Next generation web framework for Node.js
 
-## [2. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
+## [3. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
 ### Record Holders and Extremes / Breaking and Gluing other characters
 
@@ -30,7 +40,7 @@
     2022](http://unicode.org/mail-arch/unicode-ml/y2015-m10/0050.html), that
     never came to be.
 
-## [3. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Videos and Lectures
 
@@ -40,13 +50,13 @@
 
 *   [Basic digit recognition neural network (⭐96)](https://github.com/joeledenberg/DigitRecognition)
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Search engine and framework
 
 *   [Sphinx Search Server](http://sphinxsearch.com/) - fulltext search engine.
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Simple Workflow
 

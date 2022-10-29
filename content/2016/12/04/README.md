@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -92,13 +92,20 @@
 
 *   [The Powercube](https://www.powercube.net/) - Some literature and workshops by community organizers for understanding power and mobilizing.
 
-## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Design
+
+*   [Unleash Your Domain](https://vimeo.com/19428577) by **Greg Young** \[45:20]
+*   [8 Lines of Code](https://www.infoq.com/presentations/8-lines-code-refactoring) by **Greg Young** \[54:43]
+
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Dependency Injection
 
 *   [Vert.x Spring Verticle Factory (⭐7)](https://github.com/juanavelez/vertx-spring-verticle-factory) - A Vert.x Verticle Factory that makes use of Spring to obtain and configure Verticles.
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Appendix of Core Services / Compute Services
 
@@ -216,7 +223,7 @@
 *   [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 *   [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
-## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Projects
 

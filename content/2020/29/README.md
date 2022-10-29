@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20 - Jul 26, 2020
 
-59 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -93,7 +93,78 @@
 
 *   [Apache Pulsar (⭐12k)](https://github.com/apache/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 
-## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+
+### Vue.js
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/bootstrapvue.webp">
+
+[**BootstrapVue**](https://discord.com/invite/j2Mtcny) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://bootstrap-vue.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/bootstrap-vue) \
+Notable Channels: `#general`, `#i-made-this` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/buefy.webp">
+
+[**Buefy**](https://discord.com/invite/ZkdFJMr) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://buefy.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/buefy) \
+Notable Channels: `#general`, `#need-help`, `#feature-request`, `#i-made-this` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gridsome.webp">
+
+[**Gridsome**](https://discord.com/invite/daeay6n) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://gridsome.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/gridsome) \
+Notable Channels: `#general`, `#help`, `#documentation`, `#showcase`, `#development`, `#starter-kits`, `#plugin-releases`, `#graphql`, `#vuejs`, `#platforms` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/nuxtjs.webp">
+
+[**Nuxt.js**](https://discord.com/invite/b3dvQ9b) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://nuxtjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/nuxt) \
+Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#middleware`, `#apollo`, `#plugins`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, français, español, 日本語, português, русский, italiano, 中文,
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/quasar_framework.webp">
+
+[**Quasar Framework**](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/quasarframework/quasar) \
+Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, Türkçe, español, 日本語, dansk, 한국어, português, polski, русский
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vue_land.webp">
+
+[**Vue Land**](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vue-land) \
+Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vue_material.webp">
+
+[**Vue Material**](https://discord.com/invite/vuematerial) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vuematerial.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](http://github.com/vuematerial) \
+Notable Channels: `#general`, `#need-help`, `#bugs`, `#ideas`, `#i-made-this` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vuesax.webp">
+
+[**Vuesax**](https://discord.com/invite/2kHwpfe) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://lusaxweb.github.io/vuesax/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/lusaxweb/vuesax) \
+Notable Channels: `#i-made-this`, `#issues`, `#ideas`, `#ssr`, `#design`, `#discord-help`, `#bugs`, `#pull-requests`, `#responsive`, `#proposals` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vuetify.webp">
+
+[**Vuetify**](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vuetifyjs) \
+Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend` \
+Language: English, Deutsch, français, español, 日本語, 한국어, português, polski, русский
+### Data Management
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/data_engineering.webp">
+
+[**Data Engineering**](https://discord.com/invite/2pER6dq) \
+Notable Channels: `#general`, `#show`, `#help`, `#career`, `#data-science` `#resources`, `#architecture`, `#cloud`, `#databases`, `#etl-workflow` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/grakn_labs.webp">
+
+[**Grakn**](https://discord.com/invite/grakn) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://grakn.ai/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/graknlabs) \
+Notable Channels: `#general`, `#graql`, `#grakn`, `#grabl`, `#build`, `#buildbuddy`, `#troubleshoot`, `#workbase`, `#biograkn`, `#kglib`, `#nlp`, `#ideas`, `#events` \
+Language: English
+
+## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -135,7 +206,7 @@
 
 *   [Wi-Fi Privacy Police (⭐151)](https://github.com/BramBonne/privacypolice) - Prevent smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -149,7 +220,7 @@
 
 *   [Elements (⭐2.4k)](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. \[MIT]
 
-## [7. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [8. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Datasets / Chemical Perturbations
 
@@ -171,13 +242,13 @@
 *   [Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images](https://doi.org/10.1002/cyto.a.23863) - Comparing several deep learning methods for nuclear segmentation.
 *   [Automating Morphological Profiling with Generic Deep Convolutional Networks](https://doi.org/10.1101/085118) - Transfer of activation features of generic CNNs to extract features for image-based profiling.
 
-## [8. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [9. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Blogs / Participants' solutions
 
 *   [The Hitchhiker's Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
@@ -185,38 +256,38 @@
 *   [phoenix-liveview-counter-tutorial (⭐227)](https://github.com/dwyl/phoenix-liveview-counter-tutorial) - complete beginners step-by-step tutorial building a real time counter in Phoenix `1.5.3` and LiveView `0.14.1`.
 *   [phoenix-todo-list-tutorial (⭐107)](https://github.com/dwyl/phoenix-todo-list-tutorial) - A complete beginners step-by-step tutorial for building a Todo List from scratch in Phoenix `1.5.3`.
 
-## [10. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [11. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Browser Features
 
 *   [raf (⭐734)](https://github.com/chrisdickinson/raf) - [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
-## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Machine Learning
 
 *   [fable (⭐492)](https://github.com/tidyverts/fable/) - a collection of commonly used univariate and multivariate time series forecasting models
 
-## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [PyTorch Geometric Temporal - Representation learning on dynamic graphs (⭐3.7k)](https://github.com/gojek/feast)
 
-## [13. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [capa (⭐2.4k)](https://github.com/fireeye/capa) - Detects capabilities in executable files.
 
-## [14. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [15. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Introduction
 
 *   [Consumer Finance: Challenges for Operational Research](https://www.jstor.org/stable/40540227) - Reviews the development of credit scoring (the way of assessing risk in consumer finance) and what is meant by a credit score. Outlines 10 challenges for Operational Research to support modelling in consumer finance.
 *   [Machine Learning in Financial Crisis Prediction: A Survey](https://ieeexplore.ieee.org/document/6069610) - Reviews 130 journal papers from the period between 1995 and 2010, focusing on the development of state-of-the-art machine-learning techniques for bankruptcy prediction and credit score modeling. Also presents their current achievements and limitations.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -226,13 +297,13 @@
 
 *   [CML (⭐3.5k)](https://github.com/iterative/cml) - A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
 
-## [16. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [17. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
 ### Tools / Debugging
 
 *   [Reqbin](https://reqbin.com/) - REST & SOAP API Online Testing Tool
 
-## [17. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Science & Math
 
@@ -248,37 +319,38 @@
 
 
 
-## [18. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [19. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Chinese
 
 *   [Deno 中文开发者社区](https://deno.js.cn)
 
-## [19. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [20. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state.
 
-## [20. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [21. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Podcasts
 
 *   [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
 
-## [21. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [22. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Browsers:
 
 *   [Brave Browser (⭐14k)](https://github.com/brave/brave-browser) - [Brave](https://brave.com/) is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. It blocks ads and website trackers, and provides a way for users to send information contributions in the form of Basic Attention Tokens to websites and content creators.
 
-## [22. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [23. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Middleware
 
 *   [Livy (⭐715)](https://github.com/apache/incubator-livy) <img src="https://img.shields.io/github/last-commit/apache/incubator-livy.svg"> - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [24. Tips](/content/git-tips/tips/week/README.md)
+
 ## Create and switch new branch
 
 ```sh
@@ -295,7 +367,7 @@ git branch <branch-name> && git checkout <branch-name>
 git switch -c <branch-name>
 ```
 
-## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [25. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Email
 
@@ -315,7 +387,7 @@ git switch -c <branch-name>
 
 *   [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 
-## [25. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [26. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C#, ASP .NET and .NET Core / More
 
@@ -333,7 +405,7 @@ git switch -c <branch-name>
 
 *   [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
 
-## [26. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [27. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -343,20 +415,20 @@ git switch -c <branch-name>
 
 *   [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
 
-## [27. Awesome](/content/craftcms/awesome/week/README.md)
+## [28. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Organizations Using Craft / Tutorials
 
 *   [Betterteam](https://www.betterteam.com/)
 *   [NameSnack](https://www.namesnack.com/)
 
-## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Blogs
 
 *   [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
 
-## [29. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [30. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### QoE / Dolby
 
@@ -366,7 +438,7 @@ git switch -c <branch-name>
 
 *   [Content Protection for HLS with AES-128 Encryption](https://www.theoplayer.com/blog/content-protection-for-hls-with-aes-128-encryption)  - We will outline the most popular method for content protection with the HTTP Live Streaming (HLS) protocol: AES-128 content encryption.
 
-## [30. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [31. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Community Modules / Miscellaneous
 
@@ -376,25 +448,25 @@ git switch -c <branch-name>
 
 *   [terraformer (⭐8.8k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
-## [31. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
 *   [Tsunami (⭐7.7k)](https://github.com/google/tsunami-security-scanner) - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 
-## [32. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [33. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Publishing and Doing Research / Other
 
 *   [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
 
-## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [34. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [Top 30 Core Java Interview Questions](https://www.janbasktraining.com/blog/core-java-interview-questions-answers/)
 
-## [34. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [35. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Papers
 
@@ -503,13 +575,13 @@ git switch -c <branch-name>
 
 *   [awesome-quant (⭐11k)](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
-## [35. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [36. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
 
-## [36. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [37. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
@@ -520,13 +592,13 @@ git switch -c <branch-name>
 *   [django-csp (⭐440)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
 *   [django-feature-policy (⭐73)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
-## [37. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [38. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### Modules
 
 *   [mutex-server (⭐22)](https://github.com/samchon/mutex-server) - Critical section controllers, like mutex and semaphore, in the network level.
 
-## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
@@ -539,7 +611,7 @@ git switch -c <branch-name>
     *   :octocat: [TGrid (⭐91)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
     *   :octocat: [Mutex-Server (⭐22)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
 
-## [39. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [40. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Operating systems / Build system (ROS2)
 
@@ -547,13 +619,13 @@ git switch -c <branch-name>
 *   [Ubuntu Server](https://ubuntu.com/server)
 *   [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
 
-## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [RNStarter (⭐30)](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
 
-## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [42. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
@@ -577,7 +649,7 @@ git switch -c <branch-name>
 *   [intermezzOS](http://intermezzos.github.io) A small teaching operating system in Rust. A book with some explanations is also included.
 *   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by @japaric — How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
 
-## [42. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [43. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
@@ -592,13 +664,13 @@ git switch -c <branch-name>
 *   [mo (⭐31)](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter and also for delightful reading experience.
 *   [summary-chart (⭐7)](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - Format ESLint output into a bar chart.
 
-## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Logging
 
 *   [structlog](https://www.structlog.org/en/stable/) - Structured logging made easy.
 
-## [44. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [45. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Public Trackers
 
@@ -608,7 +680,7 @@ git switch -c <branch-name>
 
 *   [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 
-## [45. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [46. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -618,7 +690,7 @@ git switch -c <branch-name>
 
 *   [Heroku Playwright Example (⭐18)](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
 
-## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
@@ -634,7 +706,7 @@ git switch -c <branch-name>
 *   ⭐ [log4cl (⭐61)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [47. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Component Libraries
 
@@ -648,13 +720,19 @@ git switch -c <branch-name>
 
 *   [reactify-wc (⭐147)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
-## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [49. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Competitions
+
+*   [First Lego League](https://www.firstlegoleague.org/)
+
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
 *   [version\_tools (⭐8)](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
 
-## [49. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [51. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -664,7 +742,7 @@ git switch -c <branch-name>
 
 *   [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
-## [50. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [52. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
@@ -686,7 +764,7 @@ git switch -c <branch-name>
 
 *   [Analyzing Big Data](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html)
 
-## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
@@ -703,7 +781,7 @@ git switch -c <branch-name>
 
 *   [Respounder (⭐289)](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
 
-## [52. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [54. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Mac
 
@@ -713,7 +791,7 @@ git switch -c <branch-name>
 
 *   [Parsify Desktop](https://parsify.app) - Extendable calculator for the 21st Century.
 
-## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -729,25 +807,25 @@ git switch -c <branch-name>
 
 *   [vue-ics (⭐15)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 
-## [54. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [56. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
 
-## [55. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [57. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [Ploomber (⭐2.7k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
 
-## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
 *   [gleek.io](https://www.gleek.io) — Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyword.
 
-## [57. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [59. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Cloud
 
@@ -765,7 +843,7 @@ git switch -c <branch-name>
 
 *   [EventHorizon Blazor TypeScript Interop Generator (⭐104)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 
-## [58. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -804,7 +882,7 @@ git switch -c <branch-name>
 
 *   [waymo-open-dataset (⭐2k)](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
 
-## [59. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [61. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 

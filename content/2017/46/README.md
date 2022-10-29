@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2017
 
-45 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -209,13 +209,19 @@
 
 *   [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (Boot) or Java application.
 
-## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [26. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Honza Bittner (⭐1)](https://github.com/tenhobi/ama) - Student at [FIT CTU](http://fit.cvut.cz/en), Dart lover.
+
+## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Rust / Git
 
 *   [proteus (⭐406)](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -246,7 +252,7 @@
 
 *   [CardsLayout (⭐782)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
-## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / New York   <a id="new-york">  </a>
 
@@ -260,25 +266,25 @@ Webpage: <https://www.houndstoothcoffee.com/>
 | ---- | ----- | ------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- |
 | ✔    | ✔     | ❄️/♨️         | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM |
 
-## [29. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [30. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [snmpcollector (⭐259)](https://github.com/toni-moreno/snmpcollector) - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB
 
-## [30. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [31. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 
-## [31. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [32. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Python / General
 
 *   [Steam-Trade (⭐15)](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
-## [32. Bots](/content/hackerkid/bots/week/README.md)
+## [33. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 
@@ -296,25 +302,25 @@ Webpage: <https://www.houndstoothcoffee.com/>
 *   [BotList Chat](http://t.me/botlistchat) - Telegram group.
 *   [Bot Development](http://t.me/botdevelopment) - Telegram group.
 
-## [33. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [34. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [Robotopia (⭐502)](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
 
-## [34. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [35. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Others / Useful References
 
 *   [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
 
-## [35. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [36. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [Sass Accoutrement](http://oddbird.net/open-source/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Talks
 
@@ -324,39 +330,161 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/\~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
 
-## [37. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [38. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
 *   [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) - Clever trick to estimate an optimal learning rate prior any single full training.
 
-## [38. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [39. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Functional Structures Refactoring Kata (⭐31)](https://github.com/matteobaglini/functional-structures-refactoring-kata)
 *   [incremental\_katas (⭐63)](https://github.com/Gianfrancoalongi/incremental_katas)
 
-## [39. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [40. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Germany 🇩🇪
+
+### Berlin
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/allyelle" height="70px" width="70px" align="left" alt="" />
+
+**Ally Long**\
+Topics: CSS, Performance\
+<https://twitter.com/allyelle>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iamsapegin" height="70px" width="70px" align="left" alt="" />
+
+**Artem Sapegin**\
+Topics: Styleguides, UI, CSS\
+<https://twitter.com/iamsapegin>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sonniesedge" height="70px" width="70px" align="left" alt="" />
+
+**Charlie Owen**\
+Topics: CSS, Accessibility\
+<https://twitter.com/sonniesedge>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/HernanMagrini" height="70px" width="70px" align="left" alt="" />
+
+**Hernán Magrini**\
+Topics: Web Performance, Service Workers\
+<https://twitter.com/HernanMagrini>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KittyGiraudel" height="70px" width="70px" align="left" alt="" />
+
+**Kitty Giraudel**\
+Topics: Accessibility, Diversity, Inclusivity\
+<https://twitter.com/KittyGiraudel>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Lugotype" height="70px" width="70px" align="left" alt="" />
+
+**Lu Yu**\
+Topics: Graphic Design, Typography, Branding, User Experience\
+<https://twitter.com/Lugotype>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ManuelBieh" height="70px" width="70px" align="left" alt="" />
+
+**Manuel Bieh**\
+Topics: React, JavaScript, Code Quality, Clean Code, Leadership, Developer Experience\
+<https://twitter.com/ManuelBieh>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nataliepis" height="70px" width="70px" align="left" alt="" />
+
+**Natalie Pistunovich**\
+Topics: Mobile Apps, Go\
+<https://twitter.com/nataliepis>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/oleg008" height="70px" width="70px" align="left" alt="" />
+
+**Oleg Slobodskoi**\
+Topics: CSS in JS, React\
+<https://twitter.com/oleg008>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/robinpokorny" height="70px" width="70px" align="left" alt="" />
+
+**Robin Pokorny**\
+Topics: Jest, React, AMP, Elm\
+<https://twitter.com/robinpokorny>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NikkitaFTW" height="70px" width="70px" align="left" alt="" />
+
+**Sara Vieira**\
+Topics: Styleguides, React, CSS, Preact, CSS-in-JS\
+<https://twitter.com/NikkitaFTW>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Srushtika" height="70px" width="70px" align="left" alt="" />
+
+**Srushtika Neelakantam**\
+Topics: WebVR, A-Frame, Realtime Web, JavaScript Frameworks\
+<https://twitter.com/Srushtika>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tejaskumar_" height="70px" width="70px" align="left" alt="" />
+
+**Tejas Kumar**\
+Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities\
+<https://twitter.com/tejaskumar_>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yoshuawuyts" height="70px" width="70px" align="left" alt="" />
+
+**Yoshua Wuyts**\
+Topics: Frameworks, Simplicity, Standards, Libraries\
+<https://twitter.com/yoshuawuyts>
+
+### Europe / Poland 🇵🇱
+
+### Krakow
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/szynszyliszys" height="70px" width="70px" align="left" alt="" />
+
+**Anna Migas**\
+Topics: HTML, CSS, JavaScript, Web Animations, Web Performance\
+<https://twitter.com/szynszyliszys>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kaapa_s" height="70px" width="70px" align="left" alt="" />
+
+**Kacper Sokołowski**\
+Topics: JavaScript, Security, Service Workers\
+<https://twitter.com/kaapa_s>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kdzwinel" height="70px" width="70px" align="left" alt="" />
+
+**Konrad Dzwinel**\
+Topics: Developer Tools, JavaScript\
+<https://twitter.com/kdzwinel>
+
+### Europe / Spain 🇪🇸
+
+### Madrid
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/D3DVincent" height="70px" width="70px" align="left" alt="" />
+
+**Vincenzo Chianese**\
+Topics: WebAPI, Microservices, JavaScript\
+<https://twitter.com/D3DVincent>
+
+## [41. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [42. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [41. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [43. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### PCB Batching Services / Eagle
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [42. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -375,7 +503,7 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [43. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [45. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -397,13 +525,13 @@ Webpage: <https://www.houndstoothcoffee.com/>
 
 *   [RStudio Addins (⭐741)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [44. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [46. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 

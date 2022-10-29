@@ -276,7 +276,7 @@
 
 *   [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf) - ***CogSci'21***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739\&hl=en\&as_sdt=0,5)].
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=11150567121969913334)].
 *   [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368\&hl=en\&as_sdt=0,5)].

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 11 - Sep 17, 2017
 
-35 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,37 +85,60 @@ Webpage: <http://tartine.pt/>
 
 ![](http://beta.speedtest.net/result/6628785269.png)
 
-## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [8. Codeface](/content/chrissimpkins/codeface/week/README.md)
+
+### The Gallery
+
+### [agave](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/agave)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/agave/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-light.png" width="725">
+
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [FlexLayout for iOS (⭐1.7k)](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
 
-## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Events
 
 *   [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
 
-## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / B companies
+
+*   Babbel <https://bytes.babbel.com/en/>
+
+### Companies / F companies
+
+*   Fynd <http://gofynd.io/blog>
+
+## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Miscellaneous / Symfony2
 
 *   [swagger-codegen (⭐15k)](https://github.com/swagger-api/swagger-codegen) - Auto generation of client libraries or server stubs given an OpenAPI specification (formerly known as the Swagger Specification).
 
-## [11. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [13. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Common Utilities
 
 *   [Draft.js: Export ContentState to PDFMake (⭐10)](https://github.com/datagenno/draft-js-export-pdfmake) - Export ContentState to PDFMake.
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [14. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [slush-vertx](https://www.npmjs.com/package/slush-vertx) - A template driven Vert.x project generator for different languages and build tools.
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Machine Learning
 
@@ -125,7 +148,7 @@ Webpage: <http://tartine.pt/>
 
 *   [amber (⭐2.4k)](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -148,44 +171,68 @@ Webpage: <http://tartine.pt/>
 *   [curlcpp (⭐543)](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). \[MIT]
 *   [wdt (⭐2.7k)](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. \[BSD-3-Clause]
 
-## [15. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Screencasts
 
 *   [What's new in Serverless v1.22](https://www.youtube.com/watch?v=ykkeliDAs-c) - Video walkthrough about all the new features in Serverless v1.22.
 
-## [16. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [18. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [How to Stay Calm When You Know You'll Be Stressed](https://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed) - by **Daniel Levitin** \[12:20]
 *   [The surprising secret to speaking with confidence](https://www.youtube.com/watch?v=a2MR5XbJtXU) - by **Caroline Goyder** \[18:55]
 
-## [17. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [19. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Clark Weckmann](https://github.com/clarkhacks/ama) - Web Developer, Designer, and Programmer. Specializing in small business websites and blogs.
+
+## [20. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Custom cartridges
 
 *   [Emulating a GameBoy Cartridge](https://dhole.github.io/post/gameboy_cartridge_emu_1/) - Emulating the functionality of a Game Boy cartridge with the development board STM32F4.
 
-## [18. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [21. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / New papers
 
 *   A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al. [\[pdf\]](https://arxiv.org/pdf/1702.01932)
 
-## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Demonsaw](https://www.demonsaw.com): Secure and anonymous information sharing application that makes security simple and gives you back control of your data.
+*   [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
+*   [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
+
+### Other
+
+*   [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
+
+## [23. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [CoGran (⭐103)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
+
+## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Condensed Inline Panel (⭐85)](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 
-## [20. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [25. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Paper
 
 *   [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
 
-## [21. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [26. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
@@ -195,20 +242,20 @@ Webpage: <http://tartine.pt/>
 
 *   [speechpy (⭐866)](https://github.com/astorfi/speechpy) [:octocat: (⭐866)](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
-## [22. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Icons / Homogeneous Icons
 
 *   [Numix Circle (⭐803)](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
 *   [Numix Square (⭐150)](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
-## [23. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [28. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Typography
 
 *   [Typ.io](http://typ.io/): Typography inspiration from real websites.
 
-## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Main National Search Engines
 
@@ -220,7 +267,7 @@ Webpage: <http://tartine.pt/>
 *   [Carrot2](http://search.carrot2.org) - Organizes your search results into topics.
 *   [Yippy](http://yippy.com) - Search using multiple sources at once
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Examples
 
@@ -235,13 +282,13 @@ Webpage: <http://tartine.pt/>
 *   [@hscmap/vue-window (⭐289)](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
 *   [vue-gallery (⭐434)](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 
-## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [31. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
 *   [mirrarray (⭐5)](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -251,14 +298,14 @@ Webpage: <http://tartine.pt/>
 
 *   [logstash-output-amazon\_es :fire::fire: (⭐379)](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
 
-## [28. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [33. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Wallets / Hosted Coin Wallets
 
 *   [Dogechain **DOGE**](https://my.dogechain.info/#/wallet)
 *   [Gamecredits **GAME**](https://wallet.gamecredits.com/dashboard/myWallet)
 
-## [29. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Concurrency
 
@@ -271,13 +318,13 @@ Webpage: <http://tartine.pt/>
 
 *   [nocrypto (⭐110)](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
-## [30. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [35. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / Compatibility
 
 *   [Etlas Packages (⭐61)](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Build Automation
 
@@ -316,7 +363,7 @@ Webpage: <http://tartine.pt/>
 
 *   [PdfiumViewer (⭐830)](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -335,13 +382,13 @@ Webpage: <http://tartine.pt/>
 
 *   [Giraffe (⭐1.8k)](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Swift / General-Purpose Machine Learning
 
 *   [Awesome Core ML Models (⭐5.5k)](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
-## [34. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [39. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
@@ -363,7 +410,7 @@ Webpage: <http://tartine.pt/>
 
 *   [influx-protector (⭐12)](https://github.com/ve-global/influx-protector) - proxy to prevent dangerous queries getting to influxdb
 
-## [35. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [40. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### :sparkles: Tutorials
 

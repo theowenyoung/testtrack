@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -182,7 +182,13 @@
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 *   [SWR (⭐24k)](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 
-## [16. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [16. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Hackerspad - <https://hackerspad.net/submit-software/>
+
+## [17. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 

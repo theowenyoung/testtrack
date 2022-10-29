@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11 - May 17, 2020
 
-53 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -303,6 +303,7 @@
 *   [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 
 ## [21. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [continuousphp](https://continuousphp.com/)
 
   Description: Continuous Integration and deployment for projects written in PHP
@@ -417,7 +418,44 @@
 
 *   [HITCON](https://hitcon.org/) - Hacks In Taiwan Conference held in Taiwan.
 
-## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Awesome Components
+
+*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
+*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+
+### React Tools / React Frameworks
+
+*   [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
+
+### React Tools / React Styling
+
+*   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
+
+### React Tools / React Routing
+
+*   [reach (⭐6.9k)](https://github.com/reach/router) - Next Generation Routing for React
+
+### React Tools / React Component Libraries
+
+*   [rebass (⭐7.8k)](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
+
+### React Native Awesome Components / Charts
+
+*   [react-native-gifted-chat (⭐12k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
+*   [recyclerlistview (⭐4.6k)](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
+*   [react-native-largelist (⭐2.3k)](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
+*   [react-native-gesture-handler (⭐5.1k)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
+*   [rn-placeholder (⭐2k)](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
+
+### React Native Libraries / Charts
+
+*   [sentry-react-native (⭐1.3k)](https://github.com/getsentry/sentry-react-native) - Real-time crash reporting for your web apps, mobile apps, and games.
+*   [realm-js (⭐5k)](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
+*   [react-native-device-info (⭐5.9k)](https://github.com/react-native-community/react-native-device-info) - Device Information for React Native iOS and Android
+
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### ORMs
 
@@ -436,14 +474,14 @@
 
 *   [trivial-with-current-source-from (⭐25)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [28. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [29. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [geenes](https://geenes.app/) - Create a color scale in seconds, then export it to sketch or code.
 *   [Tints and Shades](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 
@@ -453,7 +491,7 @@
 
 *   [Corvus (⭐42)](https://github.com/apodini/corvus) :penguin: - Web framework to build REST APIs with a declarative syntax.
 
-## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [31. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -464,26 +502,32 @@
 *   [2020 Keycloak Team | Keycloak Pitch](https://www.youtube.com/watch?v=GZTN_VXjoQw)
 *   [2020 Keycloak Team | Keycloak Overview](https://www.youtube.com/watch?v=duawSV69LDI)
 
-## [31. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [32. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
 *   [luneta (⭐54)](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
 
-## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Browsers / File Sharing
 
 *   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brave/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [33. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [34. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [GTFS shape mapfit (⭐7)](https://github.com/HSLdevcom/gtfs_shape_mapfit) - Python tool that fits GTFS shape files and stops to a given OSM map file. Uses [pymapmatch (⭐3)](https://github.com/tru-hy/pymapmatch) for the matching.
+
+## [35. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bouncers / Self-hosted
 
 *   [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐1.9k)](https://github.com/znc/znc)) `C++`
 *   [soju](https://git.sr.ht/\~emersion/soju) - A user-friendly IRC bouncer. `Go`
 
-## [34. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [36. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Digests
 
@@ -547,13 +591,13 @@
 *   [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) - Written by [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
 *   [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) - Written by [@t0nk42](https://twitter.com/t0nk42).
 
-## [35. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [37. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Books
 
 *   [Mobile First](http://mobile-first.abookapart.com/) - How to design sites for mobile devices (free online version).
 
-## [36. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [38. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Recent QA Models
 
@@ -594,7 +638,7 @@
 *   [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
 *   [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
 
-## [37. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [39. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Introduction
 
@@ -648,7 +692,7 @@
 
 *   [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
 
-## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Navigation / Image Picker
 
@@ -670,7 +714,7 @@
 
 *   [Flutter Intl](https://plugins.jetbrains.com/plugin/13666-flutter-intl) - 18n binding from arb files by [Localizely](https://twitter.com/localizely)
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Email
 
@@ -684,26 +728,26 @@
 
 *   [entitas.cr (⭐35)](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
 
-## [40. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [42. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
 *   [PyWebOSTV (⭐177)](https://github.com/supersaiyanmode/PyWebOSTV) - A generic & entensible WebOS 3.0 Client Library (Python2, Python3).
 
-## [41. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [43. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Diagramming
 
 *   [DrawThe.Net](http://go.drawthe.net/) - Javascript tool that uses a YAML-formatted input to programmatically create large, complex, and visually solid diagrams.
 *   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 
-## [42. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [44. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Tequila (⭐267)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
-## [43. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [45. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Community
 
@@ -711,13 +755,13 @@
 *   [Discord Server](https://discord.gg/RSaMRzg)
 *   [Facebook](https://www.facebook.com/playcanvas/)
 
-## [44. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [46. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Business Intelligence / Metrics
 
 *   [Startup financial models - 12 templates compared for SaaS](https://www.stephnass.com/blog/startup-financial-model) - A great source of inspiration to get better visibility in your operations.
 
-## [45. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [47. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
@@ -728,7 +772,7 @@
 *   [NoCode (⭐54k)](https://github.com/kelseyhightower/nocode) - Secure and reliable applications. Write nothing; deploy nowhere.
 *   [vapor.js (⭐1.3k)](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
 
-## [46. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [48. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Frameworks
 
@@ -783,17 +827,13 @@
 
 *   [RTL-SDR](https://www.rtl-sdr.com/)
 
-## [47. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Menu
 
 *   [react-planet (⭐135)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
-### Miscellaneous
-
-*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
-
-## [48. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [50. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -850,13 +890,13 @@
 
 *   [huffduffer](https://huffduffer.com/) <sup>[562](https://t.me/s/aboutrss/562)</sup>
 
-## [49. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [51. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Machine Learning
 
 *   [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary) - A boundary dividing the space of possible data points. Here you decide, everything on this side is SPAM, everything on that side is not.
 
-## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Test Data
 
@@ -872,7 +912,7 @@
 
 
 
-## [51. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [53. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -895,7 +935,13 @@
 *   [CableReady (⭐634)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
-## [52. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [54. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Broadwise.org - <https://broadwise.org/>
+
+## [55. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Private Trackers
 
@@ -905,7 +951,7 @@
 
 *   [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) Shared 1Gbps seedboxes with massive storage & lots of addon applications.
 
-## [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [56. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Polls and Events
 

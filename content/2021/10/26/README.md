@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2021
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,17 @@
 
 *   [PKI for busy people](https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b) - Quick overview of the important stuff.
 
-## [10. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Awesome Components
+
+*   [react-advanced-cropper (⭐123)](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
+
+### React Tools / React State Management
+
+*   [react-facet (⭐196)](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
+
+## [11. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
@@ -72,14 +82,14 @@
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057) - Harris, J. D., & Waggoner, B. (2019, July). Decentralized and collaborative AI on blockchain. In *2019 IEEE International Conference on Blockchain (Blockchain)* (pp. 368-375). IEEE.
 *   [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10) - Harris, J. D. (2020, September). Analysis of Models for Decentralized and Collaborative AI on Blockchain. In *International Conference on Blockchain* (pp. 142-153). Springer, Cham.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### VSCode / Third-party APIs
 
 *   [alive (⭐116)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -89,7 +99,7 @@
 
 *   [saifulapm/chartoggle.nvim (⭐23)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line for Neovim.
 
-## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [14. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Build Tools
 
@@ -114,7 +124,7 @@
 *   [fansi (⭐207)](https://github.com/com-lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 *   [mainargs (⭐147)](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
@@ -124,25 +134,25 @@
 
 *   [vite-plugin-sass-dts (⭐43)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
 
-## [16. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [17. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Editors
 
 *   [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
 
-## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Tutorials
 
 *   [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin (Github).
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,25 +50,37 @@
 *   [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 *   [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
 
-## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Books / Docs / Videos
+
+*   [Build a VueJS WebApp connecting to the Ripple Ledger](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
+*   [Most common XRP misconceptions debunked](https://fudbingo.com)
+
+### Code
+
+*   [rippled Docker container (node) (⭐44)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+*   [rippled Docker container (validator) (⭐26)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
+
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / C
 
 *   [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
 
-## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [Proton (⭐2.2k)](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
 
-## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
 *   [EBU ADM Renderer (⭐49)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

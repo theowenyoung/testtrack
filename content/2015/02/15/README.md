@@ -1,12 +1,18 @@
 # Awesome List Updates on Feb 15, 2015
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Cognitive Development
+
+*   [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** \[59:12]
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2015
 
-30 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,25 +47,31 @@
 
 *   [mqtt-panel (⭐373)](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
 
-## [2. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Functional Programming
+
+*   [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** \[42:42]
+
+## [3. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Websites / OpenOffice
 
 *   [Official Forum](https://www.autoitscript.com/forum/)
 
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [4. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Elasticity / Scala
 
 *   [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 
-## [4. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [5. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Concurrency
 
 *   [RxGroovy (⭐156)](https://github.com/ReactiveX/RxGroovy) - RxJava bindings for Groovy
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Deployment
 
@@ -79,13 +85,13 @@
 
 *   [ExcelDna (⭐961)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
 
-## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Parallel Computing
 
 *   [DistributedR (⭐162)](https://github.com/vertica/DistributedR) - A scalable high-performance platform from  HP Vertica Analytics Team.
 
-## [7. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [8. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -95,7 +101,7 @@
 
 *   [Writing Software](https://www.youtube.com/watch?v=9LfmrkyP81M) By David Heinemeier Hansson
 
-## [8. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [9. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Books
 
@@ -111,7 +117,7 @@
 *   [framer-equally-rotate-images (⭐37)](https://github.com/aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path.
 *   [SpeechSynth (⭐12)](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.
 
-## [9. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [10. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -136,7 +142,7 @@
 *   [Developing solutions for the Internet of Things](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/white-papers/developing-solutions-for-iot.pdf) - Intel's vision in enabling secure and seamless solutions for the Internet of Things (IoT).
 *   [Evaluation of indoor positioning based on Bluetooth Smart technology](http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf) - Master of Science Thesis in the Programme Computer Systems and Networks.
 
-## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -184,14 +190,25 @@
 
 *   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) - awesome-\* or \*-awesome lists.
 
-## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Misc
 
 *   [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 *   [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 
-## [12. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   James Hague <http://prog21.dadgum.com/>
+*   Jamis Buck <http://weblog.jamisbuck.org/>
+
+### Individuals/Group Contributors / W individuals
+
+*   Wilfred Hughes <http://www.wilfred.me.uk/>
+
+## [14. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Articles
 
@@ -201,19 +218,38 @@
 
 Covers a lot of useful information for developing secure Node.js applications.
 
-## [13. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [15. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / Python Profile
 
 *   [MagicPython (⭐1.3k)](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 
-## [14. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [16. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Data Science
+
+#### Mastering Data Science with R [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r)
+
+<img src="https://www.packtpub.com/sites/default/files/2028OS_1981_Mastering%20Data%20Analysis%20with%20R.jpg" width="200px"/>
+
+This book will give you the guidance you need to build and develop your knowledge and expertise. Bridging the gap between theory and practice, this book will help you to understand and use data for a competitive advantage.
+
+Beginning with taking you through essential data mining and management tasks such as munging, fetching, cleaning, and restructuring, the book then explores different model designs and the core components of effective analysis. You will then discover how to optimize your use of machine learning algorithms for classification and recommendation systems beside the traditional and more recent statistical methods.
+
+## [17. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Zeno Rocha (⭐71)](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
+*   [Kahlil Lechelt (⭐0)](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
+
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### General resources
 
 *   [Project](https://github.com/polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
 
-## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
@@ -223,7 +259,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [SoundJS (⭐4.3k)](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
 
-## [16. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [20. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Mouse / Web
 
@@ -237,7 +273,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
 
-## [17. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [21. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Navigation
 
@@ -247,13 +283,13 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [Caffeine (⭐415)](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
 
-## [18. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [22. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Other
 
 *   [Delphi.gitignore (⭐140k)](https://github.com/github/gitignore). .gitignore templates for Delphi. There is also one for Lazarus.
 
-## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -263,13 +299,13 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [Finishing Moves (⭐196)](https://github.com/forgecrafted/finishing_moves) - Small, focused, incredibly useful methods added to core Ruby classes. Includes the endlessly useful `nil_chain`.
 
-## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [FlagKit (⭐2.9k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -286,7 +322,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [Vue.js TodoMVC (⭐200k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
@@ -304,7 +340,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [gibran (⭐63)](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted (⭐156)](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 
-## [23. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 
@@ -324,7 +360,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [Post Apocalypse Flexbox (⭐29)](https://github.com/afonsopacifer/post-apocalypse-flexbox)
 
-## [24. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [28. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Standalone Code Points
 
@@ -363,7 +399,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 *   [U+F8FF](https://codepoints.net/U+F8FF) PRIVATE USE CODEPOINT - this private
     use code point is rendered as Apple logo on many Apple devices.
 
-## [25. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [29. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Foundations
 
@@ -375,7 +411,7 @@ Covers a lot of useful information for developing secure Node.js applications.
 *   [Jelastic](http://jelastic.com/)\
     Unlimited PaaS and Container-Based IaaS in a Joint Cloud Solution for DevOps.
 
-## [26. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [30. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Admin Panel / Omniauth
 
@@ -385,13 +421,13 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   [bundle-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) - bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.
 
-## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
 *   [iponmap (⭐283)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 
-## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Social / Twitter Influencers
 
@@ -409,13 +445,13 @@ Covers a lot of useful information for developing secure Node.js applications.
 
 *   2 million new EBS volumes created per day.<sup>[4](https://www.youtube.com/watch?v=OuyUbvtgfDk)</sup>
 
-## [29. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [33. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [store-utils (⭐91)](https://github.com/jexp/store-utils) - Utilities to compact, copy, fix, analyse Neo4j stores.
 
-## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [34. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Tutorials
 

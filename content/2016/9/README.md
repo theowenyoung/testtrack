@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 29 - Mar 06, 2016
 
-46 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -241,6 +241,7 @@
 *   [Vietnamese Forum](http://autoitvn.com/)
 
 ## [21. Tips](/content/git-tips/tips/week/README.md)
+
 ## List ignored files.
 
 ```sh
@@ -341,7 +342,21 @@ git log Branch1 ^Branch2
 
 *   [The Functional Art](http://www.thefunctionalart.com) - Noted data visualization author and professor Aberto Cairo's blog on dataviz trends and best practices.
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / H companies
+
+*   HireArt <http://code.hireart.com/>
+
+### Companies / V companies
+
+*   Viget <https://www.viget.com/articles/category/code#articles>
+
+### Individuals/Group Contributors / G individuals
+
+*   Grzegorz Gajos <http://ggajos.com/>
+
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Domain-specific language
 
@@ -364,7 +379,7 @@ git log Branch1 ^Branch2
 
 *   [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
 
-## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Ingestion
 
@@ -374,19 +389,19 @@ git log Branch1 ^Branch2
 
 *   [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 
-## [32. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [33. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Packages and Middleware
 
 *   [Larasupport (⭐123)](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
 
-## [33. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [34. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Misc. / Devops
 
 *   [Scalera Blog](http://www.scalera.es) - Blog about Scala language and its environment (howto's, good practices, tips,...). Weekly posts written in both spanish and english
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
@@ -412,7 +427,7 @@ git log Branch1 ^Branch2
 *   [mem (⭐977)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 *   [adit (⭐45)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
-## [35. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
@@ -431,19 +446,19 @@ git log Branch1 ^Branch2
 
 *   [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 
-## [36. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [37. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Communities
 
 *   [Haskellers](http://www.haskellers.com/) - The meeting point for Haskell Programmers
 
-## [37. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [38. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 
-## [38. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [39. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / PHP
 
@@ -477,7 +492,7 @@ git log Branch1 ^Branch2
 *   [neo4j-shell-tools (⭐287)](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell.
 *   [Gephi (⭐5k)](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 
-## [39. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [40. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -485,7 +500,7 @@ git log Branch1 ^Branch2
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
-## [40. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [41. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### ViewPager
 
@@ -507,19 +522,19 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Implementations/Compilers
 
 *   [crisp (⭐40)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
-## [42. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [43. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 
-## [43. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [44. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -547,13 +562,19 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [rtsp-server (⭐29)](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 *   [utp-native (⭐99)](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 
-## [44. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [electron-packager (⭐8.1k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
-## [45. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [46. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Books
+
+*   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+
+## [47. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
@@ -564,7 +585,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 *   [Twitter](https://twitter.com/ava__js)
 
-## [46. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [48. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Community / Related Lists
 

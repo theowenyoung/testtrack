@@ -1,6 +1,6 @@
 # Awesome List Updates on May 17, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,6 +90,20 @@
 ### Experiments
 
 *   [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
+
+## [10. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Machine Learning
+
+#### Mastering R for Quantitative Finance [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-r-quantitative-finance)
+
+<img src="http://ecx.images-amazon.com/images/I/5197WMSfufL._SX403_BO1,204,203,200_.jpg" width="200px"/>
+
+R is a powerful open source functional programming language that provides high level graphics and interfaces to other languages. Its strength lies in data analysis, graphics, visualization, and data manipulation. R is becoming a widely used modeling tool in science, engineering, and business.
+
+The book is organized as a step-by-step practical guide to using R. Starting with time series analysis, you will also learn how to forecast the volume for VWAP Trading. Among other topics, the book covers FX derivatives, interest rate derivatives, and optimal hedging. The last chapters provide an overview on liquidity risk management, risk measures, and more.
+
+The book pragmatically introduces both the quantitative finance concepts and their modeling in R, enabling you to build a tailor-made trading system on your own. By the end of the book, you will be well versed with various financial techniques using R and will be able to place good bets while making financial decisions.
 
 ---
 

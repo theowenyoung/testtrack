@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,7 +40,31 @@
 
 *   [areadline (⭐7)](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### North America / United States of America 🇺🇸
+
+### Toronto
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brnnbrn" height="70px" width="70px" align="left" alt="" />
+
+**Brenna O'Brien**\
+Topics: Motivation, Psychology, Developer Culture, Public Speaking\
+<https://twitter.com/brnnbrn>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/halathinkeths" height="70px" width="70px" align="left" alt="" />
+
+**Hala Anwar**\
+Topics: Accessibility\
+<https://twitter.com/halathinkeths>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tiffhaxell" height="70px" width="70px" align="left" alt="" />
+
+**Tiff Nogueira**\
+Topics: CSS Grids, React, Redux, Firebase, Flexbox\
+<https://twitter.com/tiffhaxell>
+
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Official Examples
 
@@ -188,7 +212,7 @@
 *   [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
 *   [vue-async-operations (⭐32)](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 
-## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Brazil 🇧🇷 / Rio de Janeiro
 
@@ -217,13 +241,13 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ![](http://www.speedtest.net/result/7911413495.png)
 
-## [7. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
+## [8. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 
 ### Extensions/Libraries
 
 *   [react-hooks-screen-type (⭐15)](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 
-## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### IPTV and DVR / Third Party Hosts
 
@@ -243,25 +267,25 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 *   [castnow (⭐3.7k)](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
 *   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Source Code (⭐23k)](https://github.com/photoprism/photoprism)) `MIT` `Go`
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Widgets / Redux / ELM / Dependency Injection
 
 *   [Functional widget (⭐518)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### WPF
 
 *   [WPF (⭐6k)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 

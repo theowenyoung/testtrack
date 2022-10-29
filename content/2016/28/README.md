@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 11 - Jul 17, 2016
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -93,6 +93,7 @@
 *   [winebarrel/roadworker :fire::fire: (⭐314)](https://github.com/winebarrel/roadworker) - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
 
 ## [7. Tips](/content/git-tips/tips/week/README.md)
+
 ## Group commits by authors and title
 
 ```sh
@@ -116,13 +117,24 @@ git shortlog
 
 *   [Android-Link-Preview (⭐421)](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 
-## [10. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Dennis Felsing <https://hookrace.net/>
+*   Dot Dev (.dev) <https://dotdev.co>
+
+### Individuals/Group Contributors / J individuals
+
+*   Juan Treminio <https://jtreminio.com>
+
+## [11. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [decheck (⭐9)](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
 
-## [11. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [12. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -151,25 +163,25 @@ git shortlog
 
 *   [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 
-## [12. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [13. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [electron-devtools-installer (⭐960)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 
-## [13. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [14. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Drivers
 
 *   [secobarbital/cycle-fetch-driver ★2 (⭐2)](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
 
-## [14. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [15. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Client/Server Communication
 
 *   [Fetch (⭐206)](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
-## [15. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [16. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### [SensioLabs PoleDev Katas](https://github.com/devdrops/Katas)
 
@@ -179,7 +191,7 @@ git shortlog
 *   [Kata 4: (Form) File Upload (⭐1)](https://github.com/devdrops/Katas/tree/kata-upload-file)
 *   [Kata 5: (Translation) Manage translations (⭐1)](https://github.com/devdrops/Katas/tree/kata-translation)
 
-## [16. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [17. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Legacy
 
@@ -189,13 +201,13 @@ git shortlog
 
 *   [Lessons Learned from My First Symfony Project](http://www.thisprogrammingthing.com/2016/lessons-from-my-first-symfony-project/) \[2016]
 
-## [17. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [18. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Swift
 
 *   [JMCiBeaconManager (⭐143)](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
 
-## [18. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [19. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Conferences & Meetups
 
@@ -209,13 +221,13 @@ git shortlog
 *   [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
 *   [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 
-## [19. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [20. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Async
 
 *   [channelstream (⭐57)](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent).
 
-## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -267,19 +279,19 @@ git shortlog
 *   [Elixir Radar](http://plataformatec.com.br/elixir-radar) - The "official" Elixir newsletter, published weekly via email by Plataformatec.
 *   [ElixirWeekly](https://elixirweekly.net) - The Elixir community newsletter, covering stuff you easily miss, shared on [ElixirStatus](http://elixirstatus.com) and the web.
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Articles
 
 *   [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 
-## [22. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [23. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Disk Image Creation Tools
 
 *   [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
 
-## [23. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [24. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Philosophy
 
@@ -293,7 +305,7 @@ git shortlog
 
 *   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 
-## [24. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [25. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tools
 
@@ -303,19 +315,19 @@ git shortlog
 
 *   [aurelia-v-grid (⭐22)](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) \* aurelia-v-grid
 
-## [25. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [26. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 
-## [26. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [27. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [A CSS Guideline Tutorial: BEM with Sass](https://assist-software.net/blog/css-guideline-tutorial-bem-sass)
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -374,7 +386,7 @@ git shortlog
 *   [AppVersionMonitor (⭐256)](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
 *   [Version Tracker Swift (⭐82)](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 
-## [28. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Italy 🇮🇹 / Rome
 
@@ -402,14 +414,14 @@ Webpage: <https://www.bop.pt>
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
-## [29. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [30. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Languages, Protocols, Browser APIs
 
 *   **[Service Workers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/languages-protocols-browser-apis/service-workers.md)**: A method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
 *   **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
 
-## [30. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [31. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Sample Progressive Web Apps
 
@@ -434,19 +446,19 @@ Webpage: <https://www.bop.pt>
 *   [PWA Dev Summit 2016 codelab - Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en) Up-to-date getting started tutorial for Progressive Web App, Push Notifications and service worker basics.
 *   [Using the Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API/Using_the_Push_API) - An article introducing Push API.
 
-## [31. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [32. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
 *   [psvm-js (⭐31)](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager
 
-## [32. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [33. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 
-## [33. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [34. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
@@ -529,7 +541,7 @@ Webpage: <https://www.bop.pt>
 
 *   [Vert.x POJO config (⭐3)](https://github.com/aesteve/vertx-pojo-config) - Allows for mapping between standard JSON configuration and a (type-safe) configuration Java bean. Also allows the configuration bean to be validated through JSR 303.
 
-## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [35. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 

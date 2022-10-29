@@ -1,24 +1,30 @@
 # Awesome List Updates on Mar 29, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Realtime Utilities / Ruby
+
+*   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐6)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
+
+## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Multimedia / Other / unknown licence
 
 *   [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
-## [2. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐64)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
-## [3. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [4. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 
@@ -30,13 +36,13 @@
 
 *   [Data Models For MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
 *   [axieax/urlview.nvim (⭐97)](https://github.com/axieax/urlview.nvim) - Browse all URLs in the current buffer.
 
-## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### SQL / Über SQL
 
@@ -50,13 +56,13 @@
 
 *   [The "Database as Code" Manifesto (⭐32)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
-## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI FeatureFlags (⭐18)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -82,7 +88,7 @@
 *   [`esp-hal`](https://github.com/esp-rs/esp-hal)
     *   An *extremely experimental* attempt at writing a HAL which targets the ESP32, ESP32-C3, ESP32-S2, and ESP32-S3.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -96,13 +102,13 @@
 
 *   [FormKit (⭐2k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 
-## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Miscellaneous
 
 *   [react-designer (⭐1.8k)](https://github.com/react-designer/react-designer) - Easy to configure, lightweight, editable vector graphics in your react components.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Command-line
 
@@ -113,13 +119,13 @@
     *   [rust-cli/rexpect (⭐163)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
     *   [zhiburt/expectrl (⭐127)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Web History and Website Capture / Telegram
 
 *   [waybackpy (⭐227)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
-## [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### QubesOS Websites
 
@@ -129,7 +135,7 @@
 
 *   [qubes-network-server (⭐76)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 
-## [13. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [14. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Arcade
 

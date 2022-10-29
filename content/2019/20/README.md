@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20 - May 26, 2019
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,13 +42,19 @@
 *   [Jacky Alcine](https://www.patreon.com/jackyalcine) - Projects in the IndieWeb sphere, Koype and contributions to other open source projects.
 *   [Michal Čihař](https://liberapay.com/nijel/) - Contributor to Weblate and phpMyAdmin.
 
-## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [6. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [KimSia Sim (⭐0)](https://github.com/simkimsia/ama) - Independent developer, [blogger](https://simkimsia.com), owner of [business apps agency](https://oppoin.com). Based in Singapore.
+
+## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Devices and Wearables / Wealth
 
 *   [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
 
-## [7. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [8. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Books
 
@@ -76,37 +82,37 @@
 
 *   [Ancient Buddhist Texts](https://www.ancient-buddhist-texts.net/) - Original texts, translations, and Pali material.
 
-## [8. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [9. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Misc
 
 *   [asgiref (⭐1.1k)](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync\_to\_async and async\_to\_sync function wrappers.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [Flycut (⭐2.1k)](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TermiT/Flycut) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
 *   [crystal-snmp (⭐15)](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
 
-## [11. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [12. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Other / CSS only
 
 *   [icono (⭐4k)](https://github.com/saeedalipoor/icono#readme) - Pure CSS, class based icon pack. ([Website](https://saeedalipoor.github.io/icono))
 
-## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Testing
 
 *   [FriendsOfCake/Fixturize plugin (⭐23)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 
-## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [14. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -120,7 +126,7 @@
 
 *   [A helper for CircuitPython development with Atom (⭐2)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 
-## [14. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [15. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -148,37 +154,37 @@ Free
 
 Free
 
-## [15. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [16. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Tutorials
 
 *   [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.
 
-## [16. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [17. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Books / WebRTC
 
 *   [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground)
 
-## [17. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [18. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Services / IRC
 
 *   [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
-## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [19. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Overlays / Webinterface
 
 *   [nix-darwin (⭐1.2k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
-## [19. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [20. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Earning Our Wings: Stories and Findings From Operating a Large-scale Concourse Deployment](https://medium.com/concourse-ci/earning-our-wings-a0c307fa73e6)
 
-## [20. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [21. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Big Data
 
@@ -188,19 +194,19 @@ Free
 
 *   [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
 
-## [21. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [22. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Static Site Generators
 
 *   [eleventy](https://www.11ty.io/) - A simpler static site generator transforming various template files into HTML.
 
-## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### View helpers
 
 *   [render\_async (⭐1k)](https://github.com/renderedtext/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
 
-## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -211,7 +217,7 @@ Free
 *   [numcl (⭐618)](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 *   [cl-ana (⭐182)](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [24. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [25. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
@@ -221,26 +227,26 @@ Free
 
 *   [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
 
-## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [26. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Public Trackers
 
 *   [Rock Box](https://rawkbawx.rocks/) Metal music tracker
 *   [Music Torrent](http://music-torrent.net) General music tracker
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
 *   [Cachyr (⭐123)](https://github.com/nrkno/yr-cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 
-## [27. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [28. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### External Services / Terraform
 
 *   [GitHub Actions for Pixela (a-know/pi) (⭐12)](https://github.com/peaceiris/actions-pixela)
 
-## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [29. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -250,7 +256,7 @@ Free
 
 *   [GOV.UK Theme (⭐96)](https://github.com/UKHomeOffice/keycloak-theme-govuk)
 
-## [29. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [30. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Functional Swift
 
@@ -284,13 +290,13 @@ Free
 
 *   [*iOS Test-Driven Development by Tutorials* by Joshua Greene, Mike Katz](https://store.raywenderlich.com/products/ios-test-driven-development)
 
-## [30. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Books
 
 *   :books: [Programming with Types](https://www.manning.com/books/programming-with-types) - A book on how to design safe, resilient, correct software that’s easy to maintain and understand by taking advantage of the power of type systems. (by Vlad Riscutia)
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -305,13 +311,13 @@ Free
 
 *   [Quru Image Server](https://quruimageserver.com/) - High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools. ([Demo](https://quruimageserver.com), [Source Code (⭐79)](https://github.com/quru/qis)) `AGPL-3.0` `Python`
 
-## [32. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [33. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Dataset / Web
 
 *   [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
 
-## [33. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Clients
 
@@ -325,7 +331,7 @@ Free
 
 *   [mqtt2mongodb (⭐15)](https://github.com/David-Lor/MQTT2MongoDB) - Subscribe to MQTT topics and insert into MongoDB.
 
-## [34. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [35. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Examples
 
@@ -337,13 +343,13 @@ Free
 *   [react-fetch-hook (⭐348)](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 *   [storeon (⭐1.9k)](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
 
-## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [36. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### SaaS
 
 *   [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 
-## [36. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
@@ -360,7 +366,7 @@ Free
 *   [Wallpaper (⭐276)](https://github.com/bimsina/wallpaper) - Wallpaper App made with Flutter with Dynamic Theming by [Bibek Timsina](https://github.com/bimsina)
 *   [Zefyr (⭐2.1k)](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications by [Memspace](https://github.com/memspace)
 
-## [37. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [38. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -371,7 +377,7 @@ Free
 
 *   [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
 
-## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Websites / Blogs
 
@@ -420,7 +426,7 @@ Free
 *   [Gitter](https://gitter.im/flutter/flutter) - Exchange channel
 *   [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让 Flutter 更简单
 
-## [39. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [40. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Graphic
 
@@ -567,7 +573,7 @@ Free
 
 *   [PasDoc](https://sourceforge.net/projects/pasdoc). `[Delphi]` `[FPC]` Documentation tool for ObjectPascal (FreePascal and Delphi) source code. Documentation is generated from comments found in source code. Available output formats are HTML, HtmlHelp, LaTeX, latex2rtf, simplexml. More output formats may be added in the future.
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Reflection
 
@@ -585,13 +591,13 @@ Free
 
 *   [Awesome Modern C++ (⭐9.6k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 
-## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [42. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
 *   [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.com/Hands-Domain-Driven-Design-NET-dp-1788834097/dp/1788834097) - Tackling complexity in the heart of software by putting DDD principles into practice by Alexey Zimarev.
 
-## [42. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [43. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -606,25 +612,25 @@ Free
 
 *   [gist-box (⭐80)](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
-## [43. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [44. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Stock Images / Storyboard
 
 *   [unDraw](https://undraw.co) - Open-source illustrations for every project you can imagine and create.
 
-## [44. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [45. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### What is Data Science?
 
 *   [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and its use as a business asset.
 
-## [45. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [46. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [react-int (⭐3)](https://github.com/leafOfTree/react-int) - A simple way to use react/react-native with redux and redux-saga.
 
-## [46. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [47. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
@@ -638,7 +644,7 @@ Free
 
 *   [open (⭐2.7k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
-## [47. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 05 - Jul 11, 2021
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -112,25 +112,31 @@
 
 *   [botocore :fire::fire::fire::fire: (⭐1.2k)](https://github.com/boto/botocore)
 
-## [17. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [17. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Platforms and toolkits
+
+*   [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
+
+## [18. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / Python
 
 *   [CanoPy (⭐103)](https://github.com/tbruno25/canopy) - A python gui used to visualize and plot message payloads in real time.
 
-## [18. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [19. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Awesome Lists / Collection View Layout
 
 *   [awesome-ios-developer (⭐646)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
 
-## [19. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [20. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Related Awesome Lists / Randomized Algorithms
 
 *   [Math (⭐6.4k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
-## [20. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Books
 
@@ -140,13 +146,13 @@
 
 *   [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.
 
-## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Resources / Web programming
 
 *   [RustViz (⭐2.1k)](https://github.com/rustviz/rustviz) — generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
 
-## [22. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [23. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Clothing
 
@@ -157,14 +163,14 @@
 
 *   [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 
-## [23. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [24. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### General / Misc
 
 *   [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
 *   [Steam Internal WebAPI Documentation by Revadike (⭐100)](https://github.com/Revadike/UnofficialSteamWebAPI)
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -175,13 +181,13 @@
 
 *   [Localeum](https://localeum.com) - Free up to 1000 strings, 1 user, unlimited languages, unlimited projects
 
-## [25. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### JavaScript / Git
 
 *   [TweetNaCl.js (⭐1.5k)](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
 
-## [26. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [27. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
@@ -192,19 +198,19 @@
 
 *   [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - Car visualizer.
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Vechai UI](https://www.vechaiui.com/) - High-quality accessible React components with the built-in dark mode using Tailwind CSS.
 
-## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-checker (⭐461)](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 
-## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -281,7 +287,7 @@
 
 
 
-## [30. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [31. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Featured (new releases)
 
@@ -324,7 +330,7 @@
 *   👤 [Firebase Facebook](https://www.facebook.com/Firebase)
 *   🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -490,7 +496,7 @@
 *   [Easy Indie App](https://easyindie.app) - Apps that can be self-hosted in a few clicks.
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
-## [32. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [33. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Computer Science
 
@@ -504,19 +510,19 @@
 
 *   [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 
-## [33. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [health-records (⭐14)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
-## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Intel(R) Extension for Scikit-learn (⭐794)](https://github.com/intel/scikit-learn-intelex) - A seamless way to speed up your Scikit-learn applications with no accuracy loss and code changes.
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
@@ -526,13 +532,13 @@
 
 *   [`mips-mcu`](https://github.com/kiffie/pic32-rs/tree/master/mips-mcu) Low level access to MIPS MCU cores - ![crates.io](https://img.shields.io/crates/v/mips-mcu.svg)
 
-## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Testing / Individual Podcast episodes
 
 *   [Elm Spec (⭐25)](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -542,19 +548,19 @@
 
 *   [clojure-vim/jazz.nvim (⭐33)](https://github.com/clojure-vim/jazz.nvim) - Acid + Impromptu = Jazz.
 
-## [38. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
+## [39. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
 
 ### BugReport-PullRequest
 
 *   In a CLI, type `julia Julia.jl` which will run the [scraper (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl). Commit the `db.csv` file too.
 
-## [39. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [40. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Quantum Computing for Everyone](https://www.amazon.com/Quantum-Computing-Everyone-Mit-Press/dp/0262539535) - Introduction into topics such as qubits, entanglement, and quantum teleportation for the general reader.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -565,7 +571,7 @@
 
 *   [Naive UI (⭐11k)](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 
-## [41. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [42. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Demographic
 

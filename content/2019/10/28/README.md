@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2019
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -2962,50 +2962,60 @@
 *   [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
 *   [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
-## [9. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [9. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### On Youtube
+
+*   [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - CC-licensed educational videos interconnected with Marburg University's e-learning platform of the same name.
+
+### Communities
+
+*   [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
+
+## [10. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Videos
 
 *   [How I Overcame My Fear of Public Speaking](https://www.youtube.com/watch?v=80UVjkcxGmA) -  by **Danish Dhamani** \[08:36]
 *   [How to speak so that people want to listen](https://www.youtube.com/watch?v=eIho2S0ZahI) -  by **Julian Treasure** \[09:58]
 
-## [10. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [11. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Dashboards / Themes
 
 *   [Google Home Theme (⭐105)](https://github.com/liri/lovelace-themes) - Two themes (light and dark) matching the design of Google Home Hub.
 
-## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [12. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Articles
 
 *   [Car Hacking in 30 Minutes or Less](https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/) - Using VirtualBox and Kali Linux, you can start car hacking using completely free open-source software and tools, including can-utils, ICSim, ScanTool, Wireshark, and tcpdump
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Mock / Barcode
 
 *   [MockSwift (⭐78)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Other Languages / Others
 
 *   [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - \[German] Blog about Blazor.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
 *   [scriptisto (⭐226)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
-## [15. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [16. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Manipulation / Data Containers
 
 *   [pandas-log (⭐202)](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
 
-## [16. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Monitoring / Tools and web interfaces
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05 - Apr 11, 2021
 
-59 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,7 +54,58 @@
 
 *   [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html). A free monthly newsletter containing latest news from the PHP community and the most interesting PHP articles from around the web. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
-## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Starter Kits and Toolchains
+
+*   [Razzle](https://razzlejs.org/) - Build production ready React applications. Razzle is toolchain for modern static and dynamic websites and web applications
+*   [Neutrino React Preset](https://neutrinojs.org/packages/react/) - `@neutrinojs/react` is a Neutrino preset that supports building React web applications
+
+### React Tools / React Component Libraries
+
+*   [ant-design (⭐82k)](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
+*   [chakra-ui (⭐29k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
+*   [eui (⭐5.4k)](https://github.com/elastic/eui) - Elastic UI Framework
+*   [react-spectrum (⭐7.4k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
+*   [ring-ui (⭐3.3k)](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
+*   [bumbag-ui (⭐1k)](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
+
+### React Tools / React Awesome Components
+
+*   [react-popper (⭐2.3k)](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
+*   [react-tsparticles (⭐4.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations
+*   [react-spring (⭐24k)](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications
+*   [framer-motion (⭐16k)](https://github.com/framer/motion) - A React library to power production-ready animations
+*   [react-cookie (⭐2.4k)](https://github.com/reactivestack/cookies) - Universal cookies for React
+*   [react-slick (⭐11k)](https://github.com/akiran/react-slick) - Carousel component built with React
+*   [react-gtm-module (⭐576)](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React
+*   [react-device-detect (⭐2.1k)](https://github.com/duskload/react-device-detect) - Detect device for React
+*   [react-colorful (⭐2.3k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component
+*   [react-modal (⭐7.1k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
+*   [cleave.js (⭐18k)](https://github.com/nosir/cleave.js) - Format input text content when you are typing
+*   [react-fontawesome (⭐3.6k)](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
+
+### React Tools / React Renderers
+
+*   [react-three-fiber (⭐20k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-pdf (⭐11k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
+*   [react-blessed (⭐4.3k)](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
+*   [react-sketchapp (⭐15k)](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+*   [react-figma (⭐2.1k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+*   [remotion (⭐14k)](https://github.com/JonnyBurger/remotion) - Create videos programmatically in React
+
+### React Tools / Charts
+
+*   [vx (⭐16k)](https://github.com/airbnb/visx) - Visualization components
+*   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+*   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - Data Visualization Components
+*   [recharts (⭐19k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+*   [nivo (⭐11k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components, built on top of the D3 and React libraries
+*   [echarts-for-react (⭐3.8k)](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
+*   [react-apexcharts (⭐999)](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
+*   [chartify (⭐684)](https://github.com/kis/chartify) - React plugin for building charts using CSS
+
+## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Distributed monitoring
 
@@ -66,26 +117,26 @@
 
 *   [certificate-expiry-monitor (⭐141)](https://github.com/muxinc/certificate-expiry-monitor) - Utility that exposes the expiry of TLS certificates as Prometheus metrics.
 
-## [7. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [8. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
 *   [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source (⭐49)](https://github.com/avojak/iridium)) `Linux`
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Russian
 
 *   [DotNet & More](https://more.dotnet.ru) - Podcast about .NET development and more. Hosted by [Aleksandr Kugushev](https://github.com/kugushev) and [Artem Akulyakov](https://github.com/oxffaa).
 *   [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Podcast about software development (programming). Discussed topics are C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA and much more. Hosted by [Dmitri Nesteruk](https://github.com/nesteruk).
 
-## [9. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [10. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch Linux Installers / Specific purpose
 
 *   [Anarchy](https://anarchyinstaller.gitlab.io) - A simple and intuitive Arch Linux installer.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -99,7 +150,7 @@
 
 *   [cpp-httplib (⭐7.9k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C
 
@@ -110,7 +161,7 @@
 *   [Lish (⭐63)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
-## [12. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [13. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Podcasts
 
@@ -120,7 +171,7 @@
 
 *   [Oh-My-Posh (⭐8.2k)](https://github.com/jandedobbeleer/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
 
-## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
@@ -134,44 +185,44 @@
 *   [Infracost (⭐8.1k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
 *   [terraform-graph-beautifier (⭐130)](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 
-## [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Blogs
 
 *   [freecodecamp Kotlin article collection](https://www.freecodecamp.org/news/tag/kotlin/)
 
-## [15. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [16. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
 *   [New to an SRE team?](https://www.linkedin.com/pulse/new-sre-team-anthony-caiafa/)
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Video Playlists
 
 *   [Keycloak Tutorial Series by CodeLens](https://www.youtube.com/watch?v=Lr9WeIMtFow\&list=PLeGNmkzI56BTjRxNGxUhh4k30FD_gy0pC)
 
-## [17. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [18. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### Animation / Grid
 
 *   [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/all-you-need-to-know-about-css-transitions/) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
 
-## [18. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [19. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Uncategorized
 
 *   [Help me help you: creating reproducible examples](https://www.youtube.com/watch?v=5gqksthQ0cM) - Making a great reprex is both an art and a science and this webinar will cover both aspects. A reprex makes a conversation about code more efficient and pleasant for all. This comes up whenever you ask someone for help, report a bug in software, or propose a new feature. The reprex package (<https://reprex.Tidyverse.org>) makes it especially easy to prepare R code as a reprex, in order to share on sites such as <https://community.rstudio.com>, <https://github.com>, or <https://stackoverflow.com>. Author: Jenny Bryan.
 
-## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Network programming
 
 *   message-io
     *   [lemunozm/message-io (⭐798)](https://github.com/lemunozm/message-io) — Event-driven message library to build network applications easy and fast. Supports TCP, UDP and WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 
-## [20. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [21. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
@@ -180,7 +231,7 @@
     *   [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 
-## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -190,26 +241,26 @@
 
 *   [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/) - April 8, 2021 - .NET 6 Preview 3 is now available and includes many great new improvements to ASP.NET Core.
 
-## [22. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [23. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit) - Very accessible computation/programming oriented tutorials. It begins from basics of matrices up to grover's algorithm. There are also accompanying videos which explain the tutorials.
 
-## [23. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [24. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Component Libraries
 
 *   [yew-components (⭐46)](https://github.com/angular-rust/yew-components) - Material Design Components for the Yew framework.
 
-## [24. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
+## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
 ### Websites / Community Newsletters
 
 *   [zodern](https://zodern.me/newsletter.html)
 *   [StorytellerCZ](https://forums.meteor.com/t/meteor-community-newsletter/50598)
 
-## [25. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [26. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -260,32 +311,32 @@
 
 *   [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
 
-## [26. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [27. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Editor Plugins
 
 *   [clojure-lsp (multiple editors) (⭐879)](https://github.com/clojure-lsp/clojure-lsp)
 
-## [27. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [28. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Utilities
 
 *   [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 
-## [28. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [29. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Hosting and media
 
 *   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐671)](https://github.com/kr1sp1n/awesome-gemini)
 
-## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
 *   [Maxima](https://maxima.sourceforge.io/)
 *   [Free Math](https://freemathapp.org)
 
-## [30. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [31. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Translation / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -295,19 +346,37 @@
 
 *   [Awesome Decentralized (⭐606)](https://github.com/croqaz/awesome-decentralized) - A curated list of decentralized, P2P, and distributed platforms and applications.
 
-## [31. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - Formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/), APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.  APDS Version 1.0 documents are [here](https://www.allianceforparkingdatastandards.org/resources).
+*   [CurbLR (⭐70)](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
+*   [Dyno-Path (⭐1)](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post (⭐19)](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
+*   [GTFS-flex (⭐90)](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
+*   [GTFS-ride (⭐43)](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
+*   [General Modeling Network Specification (GMNS) (⭐73)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+*   [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
+*   [Managed and Tolled Lanes Feed Specification (MTLFS) (⭐9)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
+*   [Mobility Data Specification (MDS) (⭐605)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+*   [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cen.eu/work/ENdev/how/Pages/default.aspx).
+*   [Open Sales and Distribution Model (OSDM) (⭐24)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+*   [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
+
+## [33. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 
 *   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
 
-## [32. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [34. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Other Datasets
 
 *   [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
-## [33. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [35. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [Drone](https://drone.io/)
 
   Description: Continuous Integration service
@@ -324,19 +393,19 @@
 
 
 
-## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts
 
-## [35. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [37. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Blogs / Other
 
 *   [Automation Panda](https://automationpanda.com/)
 
-## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [38. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / MSP430
 
@@ -347,7 +416,7 @@
 
 *   [adskalman](https://crates.io/crates/adskalman): Kalman filter and Rauch-Tung-Striebel smoothing implementation. ![crates.io](https://img.shields.io/crates/v/adskalman.svg)
 
-## [37. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [39. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Deployment Tools / Newsletters
 
@@ -358,13 +427,13 @@
 *   [nixpkgs-fmt (⭐350)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 *   [nix-tree (⭐243)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [vue-sh-cli (⭐7)](https://github.com/ddosdor/vue-sh-cli) - A CLI for generating Vue components, views, store modules & unit tests. Supports Vue 3 components template and Typescript.
 
-## [39. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [41. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Applications
 
@@ -374,7 +443,7 @@
 
 *   [saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 
-## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [42. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -388,33 +457,177 @@
 
 *   💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 
-## [41. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [43. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Books
 
 *   [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
 *   [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
-## [42. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [44. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Specs and Standards / Industry Forums
 
 *   [CTA | WAVE Project](https://cta.tech/Resources/Standards/WAVE-Project)  - The WAVE (Web Application Video Ecosystem) Project, hosted by the Consumer Technology Association (CTA)®, aims to improve how internet-delivered commercial video is handled on consumer electronics devices and to make it easier for content creators to distribute video to those devices.
 
-## [43. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [45. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Belgium 🇧🇪
+
+### Vienna
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bolonio" height="70px" width="70px" align="left" alt="" />
+
+**Adrián Bolonio**\
+Topics: React, JavaScript, Accessibility\
+<https://twitter.com/bolonio>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sharifsbeat" height="70px" width="70px" align="left" alt="" />
+
+**Ali Sharif**\
+Topics: Functional Programming, Agile, Product Development\
+<https://twitter.com/sharifsbeat>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/okonetchnikov" height="70px" width="70px" align="left" alt="" />
+
+**Andrey Okonetchnikov**\
+Topics: CSS in JS, Linting, Tooling\
+<https://twitter.com/okonetchnikov>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/christophrumpel" height="70px" width="70px" align="left" alt="" />
+
+**Christoph Rumpel**\
+Topics: PHP, Laravel, Chatbots\
+<https://twitter.com/christophrumpel>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eva_trostlos" height="70px" width="70px" align="left" alt="" />
+
+**Eva Lettner**\
+Topics: CSS, Web\
+<https://twitter.com/eva_trostlos>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glnnrys" height="70px" width="70px" align="left" alt="" />
+
+**Glenn Reyes**\
+Topics: Code Splitting, React\
+<https://twitter.com/glnnrys>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mrozilla" height="70px" width="70px" align="left" alt="" />
+
+**Jan Hruby**\
+Topics: React, Redux, CSS in JS, React Native, Serverless, GraphQL\
+<https://twitter.com/mrozilla>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/karlhorky" height="70px" width="70px" align="left" alt="" />
+
+**Karl Horky**\
+Topics: Tooling, Standards, Intersectionality, OSS, Psychology\
+<https://twitter.com/karlhorky>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mmatuzo" height="70" align="left" alt="">
+
+**Manuel Matuzović**\
+Topics: CSS, Grid, Accessibility\
+<https://twitter.com/mmatuzo>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxbck" height="70px" width="70px" align="left" alt="" />
+
+**Max Böck**\
+Topics: CSS, JavaScript, Progressive Web Apps\
+<https://twitter.com/mxbck>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxstbr" height="70px" width="70px" align="left" alt="" />
+
+**Max Stoiber**\
+Topics: React, Styled Components, OSS\
+<https://twitter.com/mxstbr>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikgraf" height="70px" width="70px" align="left" alt="" />
+
+**Nik Graf**\
+Topics: ReasonML, Serverless, GraphQL, Virtual Reality, React\
+<https://twitter.com/nikgraf>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glyphe" height="70px" width="70px" align="left" alt="" />
+
+**Oliver Schöndorfer**\
+Topics: Typography, CSS\
+<https://twitter.com/glyphe>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ryyppy" height="70px" width="70px" align="left" alt="" />
+
+**Patrick Stapfer**\
+Topics: ReasonML, Static Typing, Flow\
+<https://twitter.com/ryyppy>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ferakpeter" height="70px" width="70px" align="left" alt="" />
+
+**Peter Ferak**\
+Topics: Functional Programming, Computer Science\
+<https://twitter.com/ferakpeter>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thefubhy" height="70px" width="70px" align="left" alt="" />
+
+**Sebastian Siemssen**\
+Topics: React, GraphQL, Tooling\
+<https://twitter.com/thefubhy>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thecurlydev" height="70px" width="70px" align="left" alt="" />
+
+**Timo Obereder**\
+Topics: React, Composition, Android, RXJava, Kotlin\
+<https://twitter.com/thecurlydev>
+
+### Europe / Switzerland 🇨🇭
+
+### Stockholm
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
+
+**Muhammad Ahsan Ayaz**\
+Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
+<https://twitter.com/muhd_ahsanayaz>
+
+### Europe / United Kingdom 🇬🇧
+
+### Birmingham
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brucel" height="70px" width="70px" align="left" alt="" />
+
+**Bruce Lawson**\
+Topics: Standards, Performance\
+<https://twitter.com/brucel>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sil" height="70px" width="70px" align="left" alt="" />
+
+**Stuart Langridge**\
+Topics: JavaScript, HTML, Open Source\
+<https://twitter.com/sil>
+
+### North America / United States of America 🇺🇸
+
+### Omaha
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyheitman" height="70px" width="70px" align="left" alt="" />
+
+**Courtney Heitman**\
+Topics: UX Development, Usability, Accessibility, Scrum, Agile\
+<https://twitter.com/courtneyheitman>
+
+## [46. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [Algolia](https://www.algolia.com/for-open-source/) - `requires-approval` Search as a service API.
 
-## [44. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [47. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Food
 
 *   [The Felix Project](https://thefelixproject.org/) - London-based charity that collects fresh, nutritious food that cannot be sold. Deliver this surplus food to charities and schools so they can provide healthy meals and help the most vulnerable in our society. Reducing food waste and poverty.
 *   [OddBox](https://www.oddbox.co.uk) - English Certified B Corp that is reducing food waste. Collects food rejected by Supermarkets, directly from farms and delivers to your door. £10 off your first box with this link (<https://mention-me.com/m/ol/qd4ho-0d5026f88d>). I will plant trees through Ecologi with the £10 I get for this.
 
-## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -528,20 +741,20 @@
 
 
 
-## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
 *   [phx\_component\_helpers (⭐108)](https://github.com/cblavier/phx_component_helpers) - Extensible live\_components, without boilerplate.
 
-## [47. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [50. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - Bubble (no code platform) plugin for IPFS From URL integration
 *   [ipns-pin (⭐13)](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
 
-## [48. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [51. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Docs
 
@@ -574,13 +787,13 @@
 *   [vlc.js (beta)](https://code.videolan.org/jbk/vlc.js) - WebAssembly support for LibVLC.
 *   [dart\_vlc (⭐384)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
 
-## [49. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [52. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Koan](https://www.koan.co/)
 
-## [50. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [53. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -590,20 +803,20 @@
 
 *   [tmux-wormhole (⭐50)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
-## [51. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [54. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
 *   [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov) - *Bridgecrew* - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 *   [KICS (⭐1.2k)](https://github.com/Checkmarx/kics) - *Checkmarx* - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 
-## [52. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [55. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Games
 
 *   [FlutterDex (⭐29)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
 
-## [53. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [56. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -620,7 +833,7 @@
 
 *   [URL Rewrite (⭐23)](https://github.com/iamandycohen/UrlRewrite) - A site-specific version of Redirect / Rewrite module.
 
-## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Management System
 
@@ -643,13 +856,19 @@
 *   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.
 *   [Databox](https://databox.com) — Business Insights & Analytics by combining other analytics & BI platforms. Free Plan offers 3 users, dashboards & data sources. 11M historical data records.
 
-## [55. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
+## [58. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Felipe Plets (⭐0)](https://github.com/felipeplets/ama) - Tech lead, open source contributor, and [blogger](https://plets.me).
+
+## [59. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
 ### Follow / Critiques
 
 *   [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines.
 
-## [56. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [60. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
@@ -660,19 +879,19 @@
 *   [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country.
 *   [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 
-## [57. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [61. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [SpaceEye (⭐276)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
-## [58. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [62. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
 *   [svelte-chota (⭐274)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
-## [59. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [63. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 

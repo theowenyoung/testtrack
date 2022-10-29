@@ -1,6 +1,6 @@
 # Awesome List Updates on May 14 - May 20, 2018
 
-37 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,25 +18,31 @@
 
 *   [LuckyFlow (⭐50)](https://github.com/luckyframework/lucky_flow) - Automated browser tests similar to Capybara
 
-## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / E companies
+
+*   Entelo <https://sourcecode.entelo.com/>
+
+## [4. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Note Management
 
 *   [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 
-## [4. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [5. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Tools
 
 *   [Ether (⭐88)](https://github.com/Ether-CLI/Ether) – A Command-Line Interface for the Swift Package Manager.
 
-## [5. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [6. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Other Languages / Chinese
 
 *   [Nginx开发从入门到精通 (⭐6.5k)](https://github.com/taobao/nginx-book) ([Site](http://tengine.taobao.org/book/), cc-nc) - 一本开源的Nginx开发教程，全面介绍nginx模块的开发以及它的内部原理
 
-## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -58,39 +64,51 @@
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
 *   [PostgREST (⭐19k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [ember-visual-test (⭐24)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
 *   [AET (⭐118)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 
-## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [9. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Monitoring & Observability & Alerting
 
 *   [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 *   [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
 
-## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [10. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Books / Docs / Videos
+
+*   [Build a VueJS WebApp connecting to the Ripple Ledger](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
+*   [Most common XRP misconceptions debunked](https://fudbingo.com)
+
+### Code
+
+*   [rippled Docker container (node) (⭐44)](https://github.com/WietseWind/docker-rippled) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippled/)
+*   [rippled Docker container (validator) (⭐26)](https://github.com/WietseWind/docker-rippled-validator) - [Docker hub](https://hub.docker.com/r/xrptipbot/rippledvalidator/) - [Tutorial](https://medium.com/@WietseWind/how-to-run-a-ripple-validator-digitalocean-7e5fca1c3d77)
+
+## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / C
 
 *   [9 Essential C Interview Questions with answers](https://www.toptal.com/c/interview-questions)
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [EBU ADM Renderer (⭐49)](https://github.com/ebu/ebu_adm_renderer) - Reference implementation of the EBU ADM Renderer ([EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 
-## [11. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [13. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Libraries and Tools
 
 *   [Workbox](https://developers.google.com/web/tools/workbox/) - a set of libraries and Node modules that make it easy to cache assets and take full advantage of features used to build progressive web apps.
 
-## [12. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [14. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -148,13 +166,13 @@
 *   [NewYorkTimesTopStories ★14 (⭐16)](https://github.com/vidyuthd/NYTimesTopStories-React-Native) - Read Topstories of NewYorkTimes using its api written for android in react-native.
 *   [react-native-otello ★6 (⭐11)](https://github.com/hiaw/react_native_otello) - a reversi game written in React Native
 
-## [13. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [15. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Malte Ubl: **Designing very large JavaScript application**](https://www.youtube.com/watch?v=ZZmUwXEiPm4) \[28:55]
 
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [16. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
@@ -164,20 +182,20 @@
 
 *   [Fn (⭐7)](https://github.com/fnproject/serverless-fn) - Fn provider plugin.
 
-## [15. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [17. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Online Classes
 
 *   [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning) - New series of 5 Deep Learning courses by Andrew Ng, now with Python rather than Matlab/Octave, and which leads to a [specialization certificate](https://www.coursera.org/account/accomplishments/specialization/U7VNC3ZD9YD8).
 *   [GLO-4030/7030 Apprentissage par réseaux de neurones profonds](https://ulaval-damas.github.io/glo4030/) - This is a class given by Philippe Giguère, Professor at University Laval. I especially found awesome its rare visualization of the multi-head attention mechanism, which can be contemplated at the [slide 28 of week 13's class](http://www2.ift.ulaval.ca/\~pgiguere/cours/DeepLearning/09-Attention.pdf).
 
-## [16. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [18. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / YouTube Channels
 
 *   [Hillside Hermitage](https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw/videos) - Short Q\&A dhamma talks by Ajahn Nyanamoli Thero.
 
-## [17. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [19. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Plotting (graphs, bars, charts and etc) / Web
 
@@ -188,25 +206,25 @@
 
 *   [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6\&t=17907) - Save and restore last window position for each process. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=17907)
 
-## [18. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [20. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) - Plug-in for HS3 (HomeSeer).
 
-## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [21. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) - By Joy Ebertz.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
 *   [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code (⭐4.3k)](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`
 
-## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Internationalization
 
@@ -220,13 +238,13 @@
 
 *   [WorkflowEngine.NET (⭐741)](https://github.com/optimajet/WorkflowEngine.NET) - Component that adds workflow in your application.
 
-## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [24. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Blogs
 
 *   [No Meat Athlete](https://www.nomeatathlete.com/resources/) - Plant-based diets and fitness.
 
-## [23. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -338,7 +356,7 @@
 
 *   [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 
-## [24. Awesome](/content/craftcms/awesome/week/README.md)
+## [26. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
@@ -415,7 +433,7 @@
 *   [Sonos](https://www.sonos.com)
 *   [Wildbit](https://wildbit.com)
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assembly Manipulation
 
@@ -430,13 +448,13 @@
 
 *   [Awesome Roslyn (⭐517)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
-## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [28. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Databases
 
 *   [razi (⭐31)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
 
-## [27. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Chats
 
@@ -449,7 +467,7 @@
 
 *   [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
 
-## [28. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [30. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Testing
 
@@ -463,19 +481,19 @@
 
 *   [riddley (⭐186)](https://github.com/ztellman/riddley)
 
-## [29. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
+## [31. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
 ### Miscellaneous / Advanced
 
 *   [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
-## [30. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [32. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_templates (⭐114)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
 
-## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
@@ -485,7 +503,7 @@
 
 *   [L-systems (⭐20)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 
-## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / AST
 
@@ -513,7 +531,7 @@
 *   [Isaac Lee: Use D3 with Ember](https://www.youtube.com/watch?v=vD7H9O--tu4)
 *   [Open Source Live - Robert Jackson and Chris Manson pair on ember-cli](https://www.youtube.com/watch?v=rsftBMGOfyo)
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / iOS SDK
 
@@ -531,14 +549,14 @@
 
 *   [littlstar/s3-lambda :fire::fire::fire::fire: (⭐1.1k)](https://github.com/littlstar/s3-lambda) - Lambda functions over S3 objects with concurrency control (each, map, reduce, filter).
 
-## [34. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [36. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [한국어 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
 *   [Português do Europe (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 
-## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -602,7 +620,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | -------------------------------------- |
 | open, password on wall | ✔     | ✔      | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -616,7 +634,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 *   [vue-gallery-slideshow (⭐168)](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
-## [37. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 

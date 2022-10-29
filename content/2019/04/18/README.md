@@ -53,6 +53,7 @@
 *   [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Show changes over time for specific file
 
 ```sh

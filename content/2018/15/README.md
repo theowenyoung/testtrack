@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09 - Apr 15, 2018
 
-47 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -244,7 +244,13 @@
     *   [Flume UDP Source (⭐8)](https://github.com/whitepages/flume-udp-source)
     *   [.Net FlumeNG Clients (⭐17)](https://github.com/marksl/DotNetFlumeNG.Clients)
 
-## [24. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [24. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   10words - <https://10words.io>
+
+## [25. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Backups
 
@@ -254,19 +260,19 @@
 
 *   [ElastiFlow (⭐2.4k)](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
 
-## [25. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [26. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Services
 
 *   [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 
-## [26. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
 *   [array.chunk (⭐10)](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
 
-## [27. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [28. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Articles & Tutorials / Single Topics
 
@@ -274,7 +280,7 @@
 *   [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - Learning promises step by step.
 *   [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - Tutorial showing the advantages of consuming Promises via async functions.
 
-## [28. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [29. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### ORM and SQL generation
 
@@ -282,13 +288,13 @@
 *   [Specql (⭐125)](https://github.com/tatut/specql/)
 *   [sqlium (⭐26)](https://github.com/TheLadders/sqlium/)
 
-## [29. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [30. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
 *   [go-api-boilerplate (⭐678)](https://github.com/vardius/go-api-boilerplate) - Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC
 
-## [30. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [31. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### How To Use
 
@@ -299,7 +305,7 @@
 *   Learn about [Quicklisp](https://www.quicklisp.org/beta/).
 *   At some point, read your Lisp implementation's manual.
 
-## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [32. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -316,19 +322,19 @@
 *   [alexdiliberto.com](https://alexdiliberto.com/)
 *   [thejsguy.com](https://thejsguy.com/)
 
-## [32. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [33. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Source Code / Announcements and Memos
 
 *   [Apollo 11 Guidance Computer (⭐54k)](https://github.com/chrislgarry/Apollo-11) (1969) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 
-## [33. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [34. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [SwiftProvisioningProfile (⭐59)](https://github.com/Sherlouk/SwiftProvisioningProfile) - Parse provisioning profiles into Swift models.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -342,7 +348,7 @@
 
 *   [V·oogle (⭐41)](https://github.com/VeryWow/v-oogle) - Google.com, reVued
 
-## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [36. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Golang
 
@@ -365,26 +371,26 @@
 
 *   [parrot.live (⭐2.8k)](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 
-## [36. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [37. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Ranges
 
 *   Most commands act only on the current line by default. Notable exceptions are
     `:write` and `:global` which act on all lines.
 
-## [37. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [38. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) - A reference that aims to be easy to understand for those who know some JavaScript and basic audio principles.
 
-## [38. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [39. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Example Projects
 
 *   [Keycloak - Experimental extensions by Stian Thorgersen/Keycloak (⭐117)](https://github.com/stianst/keycloak-experimental)
 
-## [39. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [40. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
@@ -392,7 +398,7 @@
 *   [PICO-Tween (⭐65)](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 *   [p8 (⭐39)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 
-## [40. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [41. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Utilities
 
@@ -401,19 +407,26 @@
 *   [Quiver (⭐879)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 *   [route\_hierarchical (⭐29)](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 
-## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [42. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Community-maintained lists / Ruby
+
+*   [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - Add new vendors [here](http://goo.gl/forms/YDbPSPmufS).
+*   [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
+
+## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
 *   [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 
-## [42. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - External CSS and Sass + Importing images from anywhere + Prettier and Eslint + Environment variables and many more features.
 
-## [43. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [45. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Attribution Required licenses
 
@@ -423,7 +436,7 @@
 
 *   [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 
-## [44. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [46. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Hardware
 
@@ -433,13 +446,13 @@
 
 *   [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 
-## [45. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [47. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [CMakeInstallExample (⭐28)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
 
-## [46. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [48. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Learning Swift: Advanced Topics / Design Patterns
 
@@ -453,7 +466,13 @@
 
 *   [Abstract Algebra (⭐190)](https://github.com/taketo1024/SwiftyMath) - Abstract algebra concepts implemented in Swift.
 
-## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [49. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+
+### Hobby projects
+
+*   [Under Door Tool Kit Instructions](https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
+
+## [50. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 

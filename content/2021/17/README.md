@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 26 - May 02, 2021
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -527,7 +527,13 @@
 
 *   [django-celery-beat (⭐1.2k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
-## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Native Libraries / Charts
+
+*   [uncompress-react-native (⭐39)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
+
+## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Analytics
 
@@ -541,7 +547,7 @@
 
 *   [Respresso Image Converter](https://respresso.io/image-converter) - Multiplatform image converter for iOS, Android, and Web that supports pdf, svg, vector drawable, jpg, png, and webp formats.
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -558,14 +564,15 @@
 
 *   [Format Express](https://www.format-express.dev) - Instant online formatter for JSON / XML / SQL.
 
-## [40. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [41. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
     *   [GitHub repository :octocat:](https://github.com/CloudCompare)
 
-## [41. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [42. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [Kraken CI](https://kraken.ci/)
 
   Description: Self-hosted, open source, highly scalable, focused on testing.
@@ -582,19 +589,19 @@
 
 
 
-## [42. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [43. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [AI2-THOR (⭐708)](https://github.com/allenai/ai2thor) - Python framework with a Unity backend providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom annotated objects, and 200+ actions.
 
-## [43. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [44. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Projects / Smartwatches
 
 *   [Open SmartWatch](https://open-smartwatch.github.io/) - A FOSS smartwatch with GPS, an inertial unit and an extremely cool 3D-printed case.
 
-## [44. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [45. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tools / IRC
 
@@ -604,7 +611,7 @@
 
 *   [repman-io/composer-plugin (⭐9)](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file).
 
-## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Books
 
@@ -715,19 +722,19 @@
 
 
 
-## [46. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [47. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
 *   [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
 
-## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 
 *   [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/docker) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/veggiemonk/awesome-docker#readme)
 
-## [48. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [49. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
@@ -735,26 +742,26 @@
 *   [cvxpylayers (⭐1.4k)](https://github.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 *   [TensorLy (⭐1.3k)](https://github.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 
-## [49. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [50. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / Terminals
 
 *   [Fluent Terminal (⭐8.5k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
-## [50. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [51. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tutorials
 
 *   [2D Splatter Effects Using the Stencil Buffer](http://nielson.dev/2015/12/splatter-effects-in-unity-using-the-stencil-buffer) - Using the stencil buffer in Unity to draw splatter effects on surfaces. This could be used for paint or blood splatter.
 *   [Fixing Gaps Between Sprites](http://nielson.dev/2015/10/fixing-gaps-between-sprites-better-2d-in-unity-part-2) - A short tutorial about removing the small gaps that sometimes appear between adjacent sprites.
 
-## [51. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [52. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### FFMPEG / Web
 
 *   [ffmprovisr](https://amiaopensource.github.io/ffmprovisr)  - Cookbook of commonly used FFmpeg recipes with descriptions of how each command works and how to modify it to fit your needs
 
-## [52. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 

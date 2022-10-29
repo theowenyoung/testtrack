@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25, 2016
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,31 +36,49 @@
 
 *   [bankster (⭐28)](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 
-## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Reports
+
+#### R Packages [\[Online\]](http://r-pkgs.had.co.nz/)  [\[Amazon\]](http://www.amazon.com/dp/1491910593/)
+
+<img src="http://r-pkgs.had.co.nz/cover.png" width="200px"/>
+
+Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
+
+### Visualization
+
+#### R Data Visualization Cookbook [\[Amazon\]](http://www.amazon.com/dp/1466586966/)
+
+<img src="http://ecx.images-amazon.com/images/I/411f0UoYBPL._AA160_.jpg" width="200px"/>
+
+This book is packed with practical recipes, designed to provide you with all the guidance needed to get to grips with data visualization with R. It starts off with the basics of R plots and an introduction to heat maps and customizing them, before gradually taking you through creating interactive maps using the googleVis package, generating choropleth maps and contouring maps, bubble plots, and pie charts. You will then learn how to animate 2D and 3D plots in R. By the end of the book, you will be equipped with the key techniques to create impressive data visualizations with professional efficiency and precision.
+
+## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3plus-text (⭐96)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
 *   [awesome-analyzers (⭐375)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
-## [6. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Extensions / Toolbox
 
 *   [as-default (⭐5)](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 
 *   [Spark Notebook](http://spark-notebook.io) - Interactive and Reactive Data Science using Scala and Spark.
 
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [9. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Natural Language Processing
 
@@ -75,7 +93,7 @@
 
 *   [Natural Language Processing <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e8-1f1f3.png" width="20" heigth="20" align="absmiddle" class="emoji" alt=":cn:"> (⭐29)](https://github.com/BZRLC/R-notes/blob/master/NLP/readme.md) - NLP related resources in R. @Chinese
 
-## [9. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [10. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Language Utilities
 
@@ -83,19 +101,19 @@
     *   [gprof (⭐32)](https://github.com/gperfutils/gprof) - The profiling module for Groovy
     *   [gbench (⭐28)](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
-## [10. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [11. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Articles
 
 *   [RxJava - The Problem with Subjects](http://tomstechnicalblog.blogspot.co.uk/2016/03/rxjava-problem-with-subjects.html) - Thomas Nield explains why `Subject` is not a panacea.
 
-## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [12. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Frameworks
 
 *   [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 
-## [12. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
+## [13. Awesome Wicket](/content/PhantomYdn/awesome-wicket/README.md)
 
 ### Libraries
 
@@ -183,6 +201,12 @@
 *   [NextReports](http://www.next-reports.com/) - Smart business reportins.
 *   [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
 *   [Yes Cart (⭐98)](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
+
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / T companies
+
+*   Toptal <https://www.toptal.com/blog/>
 
 ---
 

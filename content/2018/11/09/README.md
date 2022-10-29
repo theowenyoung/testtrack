@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,25 @@
 
 *   [Postmark Transactional Email Templates (⭐2.6k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 
-## [3. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
+## [3. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Vendors
+
+*   [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their top-of-keyway turning tools are famous but overpriced (you can make your own).
+
+## [4. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 
 ### Miscellaneous
 
 *   [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
 
-## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blog posts
 
 *   [Hosted vs. installable serverless platforms](https://thenewstack.io/serverless-roadmaps-platforms/) - Survey which covers hosted vs. installable serverless solutions.
 
-## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Seedboxes / Seedbox Setup Tools and Guides
 
@@ -57,25 +63,25 @@
 
 *   [Movie Release Types](https://i.imgur.com/kEOrKJT.png) Table of common movie release types, their labels, and descriptions.
 
-## [6. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [7. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### IO/Storage
 
 *   [FilePicker-Plugin-for-Xamarin ★37 (⭐156)](https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows) - Simple cross-platform plug-in that allows you to pick files and work with them.
 
-## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Prototype Tools
 
 *   [Atomic.io](https://atomic.io/): Free in Browser interactive design Tool.
 
-## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [9. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Animation
 
 *   [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Dictionaries
 

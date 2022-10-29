@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 31, 2018
 
-21 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,14 +18,26 @@
 
 *   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐153)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
 
-## [3. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / T companies
+
+*   Timescale <https://blog.timescale.com/>
+
+## [4. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
 ### Related Lists
 
 *   [awesome-pcaptools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 *   [awesome-malware-analysis (⭐9.1k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
-## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Starter Story - <https://starterstory.com/>
+
+## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Podcasts / Other Tools
 
@@ -36,13 +48,13 @@
 
 *   [lit-ntml (⭐77)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
 
-## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Honeypots / Supply chain security
 
@@ -65,7 +77,7 @@
 
 *   [NotRuler (⭐81)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐1.8k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
@@ -83,7 +95,7 @@
 
 *   Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/README.md/contributing.md) first.
 
-## [8. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
+## [10. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
 ### General Architecture
 
@@ -120,7 +132,7 @@
 *   [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 *   [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 
-## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
@@ -130,7 +142,7 @@
 
 *   [WebView (⭐1.4k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -166,7 +178,7 @@
 
 *   [is (⭐19)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
@@ -183,13 +195,13 @@
 *   [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
 *   [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript.
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [EtherWalletKit (⭐134)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
@@ -268,7 +280,7 @@
 
 *   [CRDTs discussion (⭐385)](https://github.com/ipfs/notes/issues/23)
 
-## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mathematics
 
@@ -278,26 +290,26 @@
 
 *   [CakeMail.RestClient (⭐8)](https://github.com/Jericho/CakeMail.RestClient) - Client for CakeMail's API. Allows you to send transactional emails, bulk emails, manage lists and contacts, etc.
 
-## [15. Guides](/content/NARKOZ/guides/README.md)
+## [17. Guides](/content/NARKOZ/guides/README.md)
 
 ### Other / Machine Learning
 
 *   [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-## [16. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [18. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Courses / Build system (ROS2)
 
 *   [ROS2 How To: Discover Next Generation ROS (Udemy)](https://www.udemy.com/ros2-how-to/)
 
-## [17. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Posts
 
 *   [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) - By Rachel Thomas.
 *   [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - By Tobbe Gyllebring.
 
-## [18. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [20. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Microservices
 
@@ -307,7 +319,7 @@
 
 *   [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools is a toolkit for constructing robust, scalable and distributed applications leveraging Vert.x including modules for authentication, cluster management, Firebase Cloud Messaging, DynamoDB, fully generic queries, REST, and more.
 
-## [19. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [21. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### Mobile
 
@@ -317,13 +329,13 @@
 
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [Vue + TypeScript Cookbook (⭐270)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 
-## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [23. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 

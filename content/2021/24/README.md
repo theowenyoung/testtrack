@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14 - Jun 20, 2021
 
-54 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -699,7 +699,13 @@
 
 *   [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 
-## [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [46. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Crowdsourced transit data
+
+*   [GTFS-Hub (⭐19)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
+
+## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -714,7 +720,7 @@
 
 *   [kotlin-graphics/glm (⭐106)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
 
-## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -729,7 +735,7 @@
 *   [Clovery](https://clovery.app) - Integrate all your favorite Google services tightly with your Mac, let you access these services quickly and work more productively. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/webcatalog/neutron) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/clovery-for-google-apps/id1552618413)
 *   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
 
-## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -759,20 +765,26 @@
 
 
 
-## [49. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [50. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
     *   [GitHub repository :octocat: (⭐25)](https://github.com/virtual-vehicle/pointcloudset)
 
-## [50. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [51. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Graphics / TikZ
 
 *   [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
 
-## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [TheTechRobo (⭐0)](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
+
+## [53. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -794,7 +806,7 @@
 
 *   [kdheepak/lazygit.nvim (⭐514)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within Neovim.
 
-## [52. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [54. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -804,7 +816,7 @@
 
 *   [pydiogment (⭐72)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐72)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
-## [53. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [55. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -847,7 +859,7 @@
 *   [Uber](https://medium.com/uber-design)
 *   [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
-## [54. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [56. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Xamarin.Forms
 

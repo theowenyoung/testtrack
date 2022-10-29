@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 05 - Jan 11, 2015
 
-10 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -558,7 +558,17 @@
 
 *   [maru (⭐1.3k)](https://github.com/falood/maru) - Elixir copy of grape for creating REST-like APIs.
 
-## [6. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Functional Programming
+
+*   [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** \[1:07:10]
+
+### Computer History
+
+*   [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** \[46:00]
+
+## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
@@ -586,14 +596,14 @@
 *   [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
 *   [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
 
-## [7. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [8. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Books
 
 *   [Hadoop in Practice, Second Edition](http://www.manning.com/holmes2/)
 *   [Hadoop in Action, Second Edition](http://www.manning.com/lam2/)
 
-## [8. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [9. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### Plugins
 
@@ -605,13 +615,13 @@ Run `brew install qlimagesize` or [download manually (⭐1.1k)](https://github.c
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
-## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Talks
 
 *   [Thinking Beyond "Scalable CSS"](http://www.thedotpost.com/2014/11/nicolas-gallagher-thinking-beyond-scalable-css), Nicolas Gallagher (2014)
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Internet of things and sensor data
 

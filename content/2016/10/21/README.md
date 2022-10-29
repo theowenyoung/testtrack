@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,19 +33,25 @@
 
 *   [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
 
-## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** \[05:11]
+
+## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Courses / Hash functions
 
 *   [Cryptography](https://www.coursera.org/learn/cryptography) - A practical oriented course in Cryptography by University of Maryland College Park.
 
-## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [5. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Results Processing / Results Analysis
 
 *   [JMeter Result Analysis Plugin (⭐56)](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 
-## [5. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Related Projects / Themes
 
@@ -65,7 +71,7 @@
 *   [React Redux Intro (⭐33)](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 
-## [6. Awesome Relay](/content/expede/awesome-relay/README.md)
+## [7. Awesome Relay](/content/expede/awesome-relay/README.md)
 
 ### Tutorials
 

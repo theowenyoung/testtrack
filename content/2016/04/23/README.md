@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -265,7 +265,21 @@ TBD - PR Welcome!
 *   [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
 *   [Typical O'Reilly Advance Structure](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#advance)
 
-## [7. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Data Science
+
+#### Data Manipulation with R, Second Edition [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/data-manipulation-r-second-edition)
+
+<img src="http://ecx.images-amazon.com/images/I/51Jwp-z343L._SX403_BO1,204,203,200_.jpg" width="200px" />
+
+This book starts with the installation of R and how to go about using R and its libraries. We then discuss the mode of R objects and its classes and then highlight different R data types with their basic operations.
+
+The primary focus on group-wise data manipulation with the split-apply-combine strategy has been explained with specific examples. The book also contains coverage of some specific libraries such as lubridate, reshape2, plyr, dplyr, stringr, and sqldf. You will not only learn about group-wise data manipulation, but also learn how to efficiently handle date, string, and factor variables along with different layouts of datasets using the reshape2 package.
+
+By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
+
+## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Other Interpreters
 

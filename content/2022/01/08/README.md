@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -21,7 +21,13 @@
 *   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) ![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)
 *   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) ![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)
 
-## [2. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### operations
+
+*   [de9im (⭐22)](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
+
+## [3. Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md)
 
 ### Tools and Apps / Habit Trackers
 
@@ -31,13 +37,13 @@
 
 *   [n8n](https://n8n.io) - Open-source workflow automation for connecting web services with an option to self-host.
 
-## [3. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
+## [4. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
 ### Programming
 
 *   [Hardhat](https://hardhat.org/) - Ethereum development environment for professionals.
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
@@ -45,7 +51,7 @@
 *   [hcldump (⭐3)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
 *   [hclgrep (⭐77)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
-## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### CLI
 
@@ -61,31 +67,31 @@
 *   [SQLLanguageServer (⭐377)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 *   [sqls (⭐664)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Validation / Runner
 
 *   [vest (⭐2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
-## [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [8. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Other plugins
 
 *   [Data Storage SQlite (⭐66)](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [Vaex (⭐7.4k)](https://github.com/vaexio/vaex) - A high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Documentation can be found [here](https://vaex.io/docs/index.html).
 
-## [9. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Command-Line Productivity
 
 *   [bashhub-server (⭐249)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
-## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Development / Python
 
@@ -100,13 +106,13 @@
 
 *   [NFDomains](https://nf.domains/) - Algorand name service and marketplace for Non-Fungible Domains (NFDs) — unique, readable aliases for wallet addresses.
 
-## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Problem Solving / Inverse Reinforcement Learning
 
 *   [Inverse Constrained Reinforcement Learning](https://proceedings.mlr.press/v139/malik21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Inverse+Constrained+Reinforcement+Learning+S+Malik\&btnG=)].
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Feature Flags
 

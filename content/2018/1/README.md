@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01 - Jan 07, 2018
 
-39 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,13 +54,19 @@
 
 *   [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / G companies
+
+*   Graphcool <https://blog.graph.cool/>
+
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Official Documentation Translations
 
 *   [cry (⭐33)](https://github.com/elorest/cry) - Ability to execute crystal code in a fashion similar to Ruby's pry edit
 
-## [7. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [8. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -75,37 +81,44 @@
 
 *   [StackOverflow](https://stackoverflow.com/questions/tagged/dropwizard)
 
-## [8. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Home Entertainment / Firmwares for ESP based Devices
 
 *   [sonos2mqtt (⭐53)](https://github.com/svrooij/sonos2mqtt) - A bridge between Sonos and MQTT.
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [GTFS-plus (⭐19)](https://github.com/osplanning-data-standards/GTFS-PLUS) - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority.
+*   [GTFS-stat (⭐5)](https://github.com/osplanning-data-standards/GTFS-STAT) - An extension to a GTFS transit network with additional files that contain performance data developed by UrbanLabs LLC and San Francisco County Transportation Authority.
+
+## [11. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Documentation / Build system (ROS2)
 
 *   [ROS 2 Distribution (rosdistro) (⭐2)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages.
 
-## [10. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [12. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Test Frameworks
 
 *   [Appium Cucumber Test (⭐33)](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### List of Licenses / Wikis
 
 *   `GPL-3.0-or-later` - [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html)
 
-## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [14. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐829)](https://github.com/zmartzone/mod_auth_openidc)
 
-## [13. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Developer Tools
 
@@ -126,32 +139,32 @@
     *   [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
         *   [Vim plugin (⭐27)](https://github.com/def-lkb/ocp-indent-vim).
 
-## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [16. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
 *   [DMG Schematics](http://gbdev.gg8.se/wiki/articles/DMG_Schematics) - Hardware schematics.
 *   [Game Boy hardware database](https://gbhwdb.gekkio.fi/) - Data and photos of various types of Game Boy consoles.
 
-## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [17. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [Easy-Signature-Android (⭐24)](https://github.com/smalam119/Easy-Signature-Android) - An simple ui library that provides a plugable signature view.
 
-## [16. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [18. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 
-## [17. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [19. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Notable plugins
 
 *   [vagrant-scp (⭐292)](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP.
 
-## [18. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Rendering / Particles
 
@@ -159,49 +172,49 @@
 *   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
 *   [Hilo3d (⭐525)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
-## [19. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [21. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Projects to keep an eye on (ie projects in development)
 
 *   [Umbrella App (⭐206)](https://github.com/securityfirst/Umbrella_android) - an open source Android App with lessons and checklists on digital and physical security topics ranging from sending a secure mail to dealing with physical surveillance and attending a protest safely. Also includes forms for responding to security incidents and feeds to ensure users are up to date with the latest security information for their area. Also available in Spanish and Chinese.
 
-## [20. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [22. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Debugging
 
 *   [ultra (⭐1.2k)](https://github.com/venantius/ultra)
 
-## [21. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [23. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
 *   [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD (⭐1.7k)](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Web Application Framework
 
 *   [Cutelyst (⭐793)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[LGPLv2.1+] [website](https://cutelyst.org/)
 
-## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [25. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Blockchain
 
 *   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 
-## [24. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [26. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Examples
 
 *   [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - Several awesome examples with download links from designer at Dropbox.
 
-## [25. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [27. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
 *   [hasura/hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask) A boilerplate Flask application which can be deployed in 3 mins, with ready-to-use database, authentication and file APIs.
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -240,7 +253,7 @@
     and as thus is shipped in many implementations. [MIT](https://opensource.org/licenses/MIT).
 *   [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -254,7 +267,7 @@
 
 *   [DNS (⭐359)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -290,7 +303,7 @@
 *   [StatusAlert (⭐836)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 *   [Zingle (⭐109)](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
-## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [31. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Hamburg
 
@@ -316,7 +329,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 | ---- | ----- | ------------------------------------------------------------ | ------------------------------------------------ |
 | ✔    | ✔     | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar) |
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -334,7 +347,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   [quartznet (⭐5.3k)](https://github.com/quartznet/quartznet/) - Quartz Enterprise Scheduler .NET <http://www.quartz-scheduler.net>.
 
-## [31. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [33. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Python
 
@@ -344,25 +357,25 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   [Selenide (⭐1.6k)](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API. Selenide has a magic trick that resolves most problems with Ajax and timeouts.
 
-## [32. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [34. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [The implementation of Functional Programming Languages](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/start.htm) - A paper by Simon Peyton Jones
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Internationalization
 
 *   [Tolk (⭐577)](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
 
-## [34. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [36. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Wallets / Physical Coin Wallets
 
 *   [WalletGenerator.net](https://walletgenerator.net)
 
-## [35. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [37. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
@@ -395,7 +408,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   **[SideProject Book](http://www.sideprojectbook.com/)** - \[$49].
 
-## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Lua / General-Purpose Machine Learning
 
@@ -433,7 +446,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [OverFeat (⭐593)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
     *   [wav2letter (⭐6.1k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -450,7 +463,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   [vue-seamless-scroll (⭐1.5k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
 
-## [38. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [40. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Mobile Apps
 
@@ -479,7 +492,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
-## [39. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Document
 

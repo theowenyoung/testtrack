@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10 - Oct 16, 2016
 
-39 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,20 +74,26 @@
 *   [drydock (⭐62)](https://github.com/zuBux/drydock)\
     Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 
-## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [3. Tools](/content/lvwzhen/tools/week/README.md)
+
+### CSS
+
+*   [css Should I Prefix](http://shouldiprefix.com/)
+
+## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Laravel Auditing (⭐2.4k)](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
 
-## [4. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [5. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Forums and Q&A's / HTML+CSS+JS
 
 *   [Biostars](https://www.biostars.org/): StackOverflow style Q\&A site for bioinformatics.
 *   [NeuroStars](https://neurostars.org/): StackOverflow style Q\&A site for neuroinformatics.
 
-## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [6. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Conventions
 
@@ -132,13 +138,13 @@
 
 *   [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat: (⭐1k)](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - I've never heard of this language either, honestly.
 
-## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x for Visual Studio Code (⭐1)](https://github.com/pmlopes/VertxSnippet) - A Visual Studio Code (polyglot) plugin for Vert.x. Also available from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
 
-## [7. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [8. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / Game Interaction
 
@@ -150,45 +156,45 @@
 *   [steamid (⭐6)](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
 *   [steam-totp (⭐21)](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET toolkit for common microservice patterns.
 
-## [9. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [10. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
 *   [Hugo Giraudel Personal Awesome Sass List (⭐744)](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
 
-## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Database
 
 *   [Alcinoe](#general-libraries). Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL.
 
-## [11. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [12. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Utilities
 
 *   [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 
-## [12. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [13. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Framework / Question Answering
 
 *   MatConvNet: CNNs for MATLAB \[[Web](http://www.vlfeat.org/matconvnet/)]
 *   MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support \[[Web](http://mxnet.io/)]
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [14. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [We are the Google Site Reliability team. We make Google’s websites work. Ask us Anything!](https://www.reddit.com/r/IAmA/comments/177267/we_are_the_google_site_reliability_team_we_make)
 *   [We are the Google Site Reliability Engineering team. Ask us Anything!](https://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_google_site_reliability_engineering/)
 
-## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -198,7 +204,7 @@
 
 *   [pgmigrate (⭐534)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
-## [15. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
@@ -270,7 +276,7 @@
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 *   [Fluxtream (⭐142)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 
-## [16. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [17. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Other
 
@@ -280,14 +286,14 @@
 
 *   [AppEnlight](https://getappenlight.com/) - Performance, exception, and uptime monitoring for the Web
 
-## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [18. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Online tools
 
 *   [JsonStub](https://jsonstub.com/) - Online JSON faker.
 *   [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
 
-## [18. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [19. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Training Courses
 
@@ -313,13 +319,13 @@
 *   [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 *   [Denver](https://www.meetup.com/ddd-denver/)
 
-## [19. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [20. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [bashhub (⭐1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 
-## [20. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [21. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Graphics
 
@@ -331,7 +337,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/electricSheep.png)](http://electricsheep.org/)
 
-## [21. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [22. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### DevOps / Scala
 
@@ -340,7 +346,7 @@ Free
 *   [MountainWest RubyConf 2013 Hell Has Frozen Over: DevOps & Security by James Turnbull](https://www.youtube.com/watch?v=SsQF6zqzHKw)
 *   [Put Your Robots to Work: Security Automation at Twitter - Justin Collins, Neil Matatall, Alex Smolen](https://vimeo.com/54250716)
 
-## [22. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [23. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Disassemblies / Syntax highlighting packages
 
@@ -351,7 +357,7 @@ Free
 
 *   [Piglet (⭐42)](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 
-## [23. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [24. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -365,7 +371,13 @@ Webpage: <http://www.moustache.pt/>
 | ---- | ----- | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | ✔    | ✔     | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00 |
 
-## [24. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [25. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Books
+
+*   [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) \[[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
+
+## [26. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Tutorials
 
@@ -406,19 +418,20 @@ Webpage: <http://www.moustache.pt/>
 *   [buffer (⭐1.5k)](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
 *   [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
-## [25. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [27. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [Quack (⭐317)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
-## [26. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [28. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 
-## [27. Tips](/content/git-tips/tips/week/README.md)
+## [29. Tips](/content/git-tips/tips/week/README.md)
+
 ## List unpushed git commits
 
 ```sh
@@ -435,19 +448,19 @@ git log @{u}..
 git cherry -v
 ```
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [TagListView (⭐2.5k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 
-## [29. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
 
-## [30. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [32. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Gaming
 
@@ -480,13 +493,13 @@ git cherry -v
 *   [Game of Thrones (HBO)](http://api.tvmaze.com/singlesearch/shows?q=game-of-thrones\&embed=episodes)
 *   [House of Cards (Netflix)](http://api.tvmaze.com/singlesearch/shows?q=house-of-cards\&embed=episodes)
 
-## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Dependency Injection
 
 *   [AndroidAnnotations (⭐11k)](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
 
-## [32. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
+## [34. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
 
 ### Introduction
 
@@ -507,7 +520,7 @@ git cherry -v
 *   [FLOSS Weekly 150](https://twit.tv/shows/floss-weekly/episodes/150) - Interview with the developer.
 *   [FLOSS Weekly 375](https://twit.tv/shows/floss-weekly/episodes/375) - Interview about an alternative implementation.
 
-## [33. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [35. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Other Resources
 
@@ -518,13 +531,13 @@ git cherry -v
 
 *   [ProcDot](http://www.procdot.com) - A graphical malware analysis tool kit.
 
-## [34. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [36. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Miscellaneous / Utility Packs
 
 *   [npm-quick-run (⭐131)](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Ruby SDK
 
@@ -539,7 +552,7 @@ git cherry -v
 
 *   [alestic/ec2-consistent-snapshot :fire::fire: (⭐443)](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
 
-## [36. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [38. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Community
 
@@ -551,7 +564,7 @@ git cherry -v
 *   [Webinars](https://cmake.org/webinars/)
 *   [Modern CMake (⭐210)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐399)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [37. Typography](/content/deanhume/typography/week/README.md)
+## [39. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -564,13 +577,23 @@ git cherry -v
 
 *   [Type Rendering Mix](http://typerendering.com/)
 
-## [38. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [40. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### File Uploading / Omniauth
 
 *   [Dragonfly](http://markevans.github.io/dragonfly) - Dragonfly is for on-the-fly file processing - suitable for images or other attachments
 
-## [39. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / L companies
+
+*   LendingHome <https://tech.lendinghome.com/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ievgen Kuzminov <http://stdout.in/>
+
+## [42. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 

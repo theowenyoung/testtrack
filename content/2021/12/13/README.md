@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 13, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -90,13 +90,19 @@
 
 *   [Electron TypeScript Preact Boilerplate (⭐3)](https://github.com/yoctopuce-examples/electron-typescript-preact-boilerplate) - Electron starter project with TypeScript and Preact support, powered by esbuild.
 
-## [12. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [12. Tools](/content/lvwzhen/tools/README.md)
+
+### Code Playgrounds
+
+*   [AnyChart Playground](https://playground.anychart.com/)
+
+## [13. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Charting libraries
 
 *   [GraphicsJS](http://www.graphicsjs.org) - Lightweight JS graphics library with intuitive API, based on SVG/VML.
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
@@ -117,13 +123,13 @@
 *   [SRE methods and climate change](https://bpetit.nce.re/2021/03/sre-methods-and-climate-change/)
 *   [What made SLOs so messy (and what we can do about it)](https://medium.com/lightstephq/what-made-slos-so-messy-and-what-we-can-do-about-it-89be415a80b3)
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Image processing
 
 *   [rust-cv/cv (⭐392)](https://github.com/rust-cv/cv) — Rust CV is a project to implement computer vision algorithms, abstractions, and systems in Rust. #\[no\_std] is supported where possible. ![build badge](https://github.com/rust-cv/cv/workflows/tests/badge.svg)
 
-## [15. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [16. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Utils / Other Tools
 

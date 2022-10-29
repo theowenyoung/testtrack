@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2015
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,6 +67,12 @@
 ### Programming Languages / CSS
 
 *   [Font Awesome (⭐70k)](https://github.com/FortAwesome/Font-Awesome/tree/master/src) ([Site](http://fortawesome.github.io/Font-Awesome/), cc) - The iconic font and CSS toolkit
+
+## [10. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Benny Thomas (⭐0)](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
 
 ---
 

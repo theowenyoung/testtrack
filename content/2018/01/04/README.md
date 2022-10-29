@@ -1,42 +1,49 @@
 # Awesome List Updates on Jan 04, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [GTFS-plus (⭐19)](https://github.com/osplanning-data-standards/GTFS-PLUS) - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority.
+*   [GTFS-stat (⭐5)](https://github.com/osplanning-data-standards/GTFS-STAT) - An extension to a GTFS transit network with additional files that contain performance data developed by UrbanLabs LLC and San Francisco County Transportation Authority.
+
+## [2. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Documentation / Build system (ROS2)
 
 *   [ROS 2 Distribution (rosdistro) (⭐2)](https://github.com/ros2/rosdistro) - Info about distributions and the included packages.
 
-## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Test Frameworks
 
 *   [Appium Cucumber Test (⭐33)](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### List of Licenses / Wikis
 
 *   `GPL-3.0-or-later` - [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-rangedate-picker (⭐216)](https://github.com/bliblidotcom/vue-rangedate-picker) - Range date picker with simple usage
 
-## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
 *   [zmartzone mod\_auth\_openidc for Apache 2.x (⭐829)](https://github.com/zmartzone/mod_auth_openidc)
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Reference
 
@@ -54,7 +61,7 @@
     and as thus is shipped in many implementations. [MIT](https://opensource.org/licenses/MIT).
 *   [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
@@ -75,32 +82,32 @@
     *   [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
         *   [Vim plugin (⭐27)](https://github.com/def-lkb/ocp-indent-vim).
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Hardware / Opcodes
 
 *   [DMG Schematics](http://gbdev.gg8.se/wiki/articles/DMG_Schematics) - Hardware schematics.
 *   [Game Boy hardware database](https://gbhwdb.gekkio.fi/) - Data and photos of various types of Game Boy consoles.
 
-## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [Easy-Signature-Android (⭐24)](https://github.com/smalam119/Easy-Signature-Android) - An simple ui library that provides a plugable signature view.
 
-## [10. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [11. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Notation
 
 *   [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 
-## [11. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [12. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Notable plugins
 
 *   [vagrant-scp (⭐292)](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP.
 
-## [12. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [13. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Publications
 

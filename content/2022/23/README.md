@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06 - Jun 12, 2022
 
-56 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -150,32 +150,49 @@
 
 *   [WagtailParadise (⭐1)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
 
-## [18. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [18. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Web
+
+*   [perwendel/spark-kotlin (⭐970)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [jetbrains/kotless (⭐999)](https://github.com/jetbrains/kotless) - Kotlin serverless framework reducing the routine of serverless deployment.
+
+### Libraries/Frameworks / Testing
+
+*   [robfletcher/strikt (⭐441)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
+*   [tschuchortdev/kotlin-compile-testing (⭐470)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
+
+### Libraries/Frameworks / Misc
+
+*   [InsanusMokrassar/KSLog (⭐1)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
+*   [charleskorn/kaml (⭐309)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
+
+## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science) - Early access
 *   [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - Early access
 
-## [19. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [20. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Observability
 
 *   [Business metrics monitoring based on TDengine (⭐6)](https://github.com/gunnerliu/horus) - Highly customized business metrics monitoring with TDengine & Spring Boot
 
-## [20. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [21. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Components
 
 *   [yew-scroll-area (⭐0)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Awesome news / Angular
 
 *   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
 
-## [22. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [23. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Boilerplates
 
@@ -197,26 +214,26 @@
 
 *   [Preact JSX Chai (⭐57)](https://github.com/developit/preact-jsx-chai) - JSX assertion testing *(no DOM, right in Node)*.
 
-## [23. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [24. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [SkyWalking Rover (⭐79)](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) is an open-source Application Performance Monitoring (APM) platform specially designed for distributed systems with microservices, cloud-native and container-based (Kubernetes) architectures. SkyWalking Rover is an eBPF-based profiler and metrics collector for C, C++, Golang, and Rust applications.
 *   [merbridge (⭐469)](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
 
-## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [Schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Property-based testing tool for web applications built with Open API and GraphQL specifications.
 
-## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [26. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
 
-## [26. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [27. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -230,7 +247,7 @@
 
 *   [Tooljet (⭐14k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
-## [27. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / File Management
 
@@ -240,7 +257,7 @@
 
 *   [Espanso (⭐6.1k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐6.1k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 
-## [28. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [29. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
@@ -251,7 +268,7 @@
 
 *   [Command & Conquer (⭐743)](https://github.com/adityaravishankar/command-and-conquer) - Recreation of the original Command and Conquer, Real Time Strategy game entirely in HTML5 and JavaScript.
 
-## [29. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [30. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Introduction and Pre-Security / Level 1 - Intro
 
@@ -328,7 +345,13 @@
 *   [Carpe Diem 1](https://tryhackme.com/room/carpediem1) - Recover your client's encrypted files before the ransomware timer runs out.
 *   [EnterPrize](https://tryhackme.com/room/enterprize) - Enterprise-themed network to hack into.
 
-## [30. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [31. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### validation
+
+*   [Jest-GeoJSON (⭐5)](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
+
+## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -396,7 +419,7 @@
 
 *   [Wiki.js](https://wiki.js.org/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code (⭐19k)](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs`
 
-## [31. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -425,7 +448,7 @@
 
 *   [Learning Blazor](https://learning.oreilly.com/library/view/learning-blazor/9781098113230) - Build Single-Page Apps with WebAssembly and C# (By David Pine via O'Reilly Early Release February 3rd, 2022).
 
-## [32. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [34. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -455,50 +478,32 @@
 
 *   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters .
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [Nebulgym (⭐179)](https://github.com/nebuly-ai/nebulgym) - Easy-to-use library to accelerate AI training. \[DEEP LEARNING]
 *   [Nebullvm (⭐1.4k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost AI inference. \[DEEP LEARNING]
 
-## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Web
-
-*   [perwendel/spark-kotlin (⭐970)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
-*   [jetbrains/kotless (⭐999)](https://github.com/jetbrains/kotless) - Kotlin serverless framework reducing the routine of serverless deployment.
-
-### Libraries/Frameworks / Testing
-
-*   [EranBoudjnah/TestIt (⭐32)](https://github.com/EranBoudjnah/TestIt) - Generate unit testing boilerplate from kotlin files.
-*   [robfletcher/strikt (⭐441)](https://github.com/robfletcher/strikt) - An assertion library for Kotlin
-*   [tschuchortdev/kotlin-compile-testing (⭐470)](https://github.com/tschuchortdev/kotlin-compile-testing) - A library for testing Kotlin and Java annotation processors, compiler plugins and code generation
-
-### Libraries/Frameworks / Misc
-
-*   [InsanusMokrassar/KSLog (⭐1)](https://github.com/InsanusMokrassar/KSLog) - Fully customizable and lightweight logging library for Kotlin
-*   [charleskorn/kaml (⭐309)](https://github.com/charleskorn/kaml) - YAML support for kotlinx.serialization
-
-## [35. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [36. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Workflow Managers
 
 *   **[SciPipe (⭐961)](https://github.com/scipipe/scipipe)** - Workflow library embedded in the Go programming language, focusing on supporting complex workflow constructs, compiling to a single binary, providing powerful file naming and comprehensive audit reports for every output \[ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 
-## [36. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [37. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
 *   [HADWIN (⭐24)](https://github.com/brownboycodes/HADWIN) - a prototype of a fund transfer platform by [Nabhodipta Garai](https://github.com/brownboycodes).
 
-## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [38. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [tsurugi](https://tsurugi-linux.org/) - heavily customized Linux distribution that designed to support DFIR investigations, malware analysis and OSINT activities. It is based on Ubuntu 20.04(64-bit with a 5.15.12 custom kernel)
 
-## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [39. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Game engine
 
@@ -506,7 +511,7 @@
 *   [neko (⭐40)](https://github.com/load1n9/neko) - 🐈 caviar's twin frame buffer deno module with a framebuffer canvas implementation
 *   [sdl2 (⭐97)](https://github.com/littledivy/deno_sdl2) - SDL2 module for Deno
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -517,7 +522,7 @@
 
 *   [VFM (⭐1)](https://github.com/ccqgithub/vfm) - Vue driven form management tool.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -527,7 +532,7 @@
 
 *   [Megabit.Blazorise (⭐2.5k)](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 
-## [41. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [42. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines
 
@@ -536,7 +541,7 @@
     *   💸 [Unity](https://unity.com) - Biggest name in game engines, industry standard. \[[Awesome Unity (⭐5.4k)](https://github.com/RyanNielson/awesome-unity)]
     *   💸 [Unreal Engine](https://www.unrealengine.com) - AAA quality, insane feature set, photoreal visuals. \[[Awesome UE4 (⭐555)](https://github.com/insthync/awesome-ue4#readme)]
 
-## [42. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [43. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
@@ -546,13 +551,13 @@
 
 *   Visual Studio Code: [pico8-ls (⭐21)](https://github.com/japhib/pico8-ls) - PICO-8 Language Server, providing full language support for the PICO-8 dialect of Lua.
 
-## [43. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [44. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6-html-reporter (⭐17)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
 
-## [44. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [45. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -562,13 +567,13 @@
 
 *   [Hatica](https://www.hatica.io/) - Engineering Analytics to boost developer productivity `©` `SaaS`
 
-## [45. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [46. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Libraries / Java
 
 *   [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code (⭐423)](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
-## [46. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [47. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
@@ -582,7 +587,7 @@
 
 *   [Network Programming With Go](https://jan.newmarch.name/golang/)
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -603,7 +608,7 @@
 *   [link (⭐1)](https://github.com/kylegl/link-zsh-theme) - Minimalist. Includes `git` status and last command exit decorations.
 *   [zish (⭐0)](https://github.com/RubixDev/zish/) - Based on the `fish` shell's default look.
 
-## [48. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [49. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
@@ -613,7 +618,7 @@
 
 *   [Alfred Workflow (for Dart) (⭐4)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
 
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -723,7 +728,7 @@
 *   absolute de-facto libraries, like BordeauxThreads or Quicklisp,
     should be denoted with a ⭐ (Unicode code U+2B50).
 
-## [50. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [51. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### iOS / React
 
@@ -733,7 +738,7 @@
 
 *   [gqt (⭐432)](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 
-## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -752,13 +757,13 @@
 
 *   [imbacraft/dusk.nvim (⭐10)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 
-## [52. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [53. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### WWDC Students Submissions / Functional Reactive Programming
 
 *   [2022 (⭐58)](https://github.com/wwdc/2022)
 
-## [53. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [54. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / APIs
 
@@ -772,13 +777,13 @@
 
 *   [cdk-organizations (⭐91)](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
-## [54. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [55. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [Harfang 3D (⭐206)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
 
-## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CI and CD
 
@@ -796,7 +801,7 @@
 
 *   [Hookdeck](https://hookdeck.com/pricing) — Develop, test and monitor your webhooks from a single place. 100K requests and 100K attempts per month with 3 days retention.
 
-## [56. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [57. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Books / Monograph
 

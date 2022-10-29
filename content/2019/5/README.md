@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04 - Feb 10, 2019
 
-56 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,7 +28,37 @@
 
 
 
-## [4. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Cognitive Development
+
+*   [Stop Treading Water - Learning to Learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA) by **Edward Kmett** \[40:58]
+
+## [5. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [rfc7946-to-d3 (⭐10)](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible (⭐882)](https://github.com/d3/d3-geo#d3-geo) conventions.
+*   [geojsontools (⭐18)](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
+
+### conversion
+
+*   **CSV**
+    *   [csv2geojson (⭐339)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
+    *   [geojson2dsv](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
+*   [vt-geojson (⭐57)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
+*   [tokml (⭐165)](https://github.com/mapbox/tokml): convert GeoJSON to KML
+*   [wellknown (⭐237)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+*   [geoxform (⭐13)](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
+*   **SVG**
+    *   [geojson2svg (⭐159)](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
+    *   [geojson-svgify (⭐15)](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
+    *   [geojson-to-svg-cli (⭐25)](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
+    *   [svg-to-geojson (⭐105)](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
+*   [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
+*   [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
+
+## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Stalled Development
 
@@ -48,19 +78,19 @@
     [Repo (⭐842)](https://github.com/responsivebp/responsive)
     \| #SCSS
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Examples and funny stuff
 
 *   [blackjack-cr (⭐6)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Post-Mortem
 
 *   [Collection of Kubernetes Failure Stories (⭐6.2k)](https://github.com/hjacobs/kubernetes-failure-stories)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / E-Commerce and Payments
 
@@ -75,19 +105,19 @@
 
 *   [Algolia.Search (⭐110)](https://github.com/algolia/algoliasearch-client-csharp) - Repository for the official Algolia .NET client.
 
-## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Class Based
 
 *   [Corpuscule (⭐28)](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
 
-## [9. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Libraries
 
 *   [lorien/captcha\_solver (⭐193)](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 
-## [10. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [12. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -100,7 +130,7 @@
 
 *   [Lozad.js (⭐7.1k)](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
@@ -112,7 +142,7 @@
 
 *   [Vega (⭐10k)](https://github.com/vega/vega) - a visualization grammar.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
@@ -132,7 +162,7 @@
     *   [Roots (⭐1)](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
     *   [smarter\_csv (⭐1.3k)](https://github.com/tilo/smarter_csv) - Ruby Gem for smarter importing of CSV Files as Array(s) of Hashes.
 
-## [13. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tutorials
 
@@ -148,7 +178,7 @@
 
 *   [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Calendar / Barcode
 
@@ -158,7 +188,7 @@
 
 *   [DGElasticPullToRefresh (⭐3.7k)](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh.
 
-## [15. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [17. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### API for Food services
 
@@ -169,13 +199,13 @@
 *   [RecipePuppy](http://www.recipepuppy.com/about/api/) - This api lets you search through recipe puppy database of over a million recipes by keyword and/or by search query.
 *   [node-ubereats (⭐8)](https://github.com/jzarca01/node-ubereats) - A work in progress API for Uber Eats.
 
-## [16. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [18. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Organizations
 
 *   [SelfCare.Tech](http://selfcare.tech/) - A repository of self-care resources for developers & others.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Other Tools
 
@@ -189,7 +219,7 @@
 
 *   [PPSSPP](https://www.ppsspp.org) - A awesome PSP emulator for any OS you can dream of! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hrydgard/ppsspp)
 
-## [18. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [20. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Plugins and addons
 
@@ -199,7 +229,7 @@
 
 *   [hyperamp (⭐294)](https://github.com/hypermodules/hyperamp) - Humble music player.
 
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -368,13 +398,13 @@
 
 *   [Elixir Career](https://elixir.career/) - A job board for Elixir, and community of Elixir developers.
 
-## [20. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [22. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Blogs / Navigation Demos
 
 *   [Red Shift - Infinite Red](https://shift.infinite.red/) - Lots of React Native content
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [23. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -390,43 +420,43 @@
 
 *   [prometheus.cl (⭐75)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT](https://opensource.org/licenses/MIT).
 
-## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Podcasts / Other
 
 *   [davidyezsetz/you-might-not-need-jquery-plugins (⭐138)](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 
-## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [ThunderGBM (⭐646)](https://github.com/Xtra-Computing/thundergbm) - A fast library for GBDTs and Random Forests on GPUs.
 
-## [24. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [26. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
 *   [Light-4j (⭐3.4k)](https://github.com/networknt/light-4j) - A high throughput, low latency, small memory footprint and more productive microservices platform.
 
-## [25. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [27. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
 *   [FluentTerminal (⭐8.5k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 
-## [26. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Health
 
 *   [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 
-## [27. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [29. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
 
-## [28. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [30. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Communication
 
@@ -440,13 +470,13 @@
 
 *   [Why no advertising?](https://sivers.org/noads) - Through the perspective of the perfect-world ideal.
 
-## [29. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 
-## [30. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [32. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -466,7 +496,7 @@
 *   [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 *   [LiveOverflow](https://www.patreon.com/liveoverflow) - IT security videos.
 
-## [31. Bots](/content/hackerkid/bots/week/README.md)
+## [33. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Platform Documentation
 
@@ -480,7 +510,7 @@
 
 *   [BotMan (⭐5.7k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
-## [32. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Specialties
 
@@ -494,7 +524,7 @@
 
 *   [j2ada (⭐2)](https://github.com/Blady-Com/j2ada) - Translator for a Java valid source code in Ada source code.
 
-## [33. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [35. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
@@ -519,13 +549,13 @@
 
 *   [cssicon (⭐3.1k)](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
 
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Strong Naming
 
 *   [Strong Namer (⭐309)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
-## [35. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [37. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Tools / Personal use
 
@@ -537,37 +567,37 @@
 
 
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [RxAndroid (⭐20k)](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Torch (⭐1.7k)](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 
-## [38. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [40. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Python / Git
 
 *   [Crypto-Vinaigrette (⭐13)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
-## [39. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [41. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Moment (⭐76)](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
 
-## [40. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [42. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Accessibility / Web payments
 
 *   [Excellent intro to accessibility from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
 
-## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / California   <a id="california">  </a>
 
@@ -608,7 +638,7 @@ Webpage: <https://blackhammerbrewing.com>
 | ---- | ----- | -------------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00 |
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Desktop / Game Engine resources
 
@@ -618,39 +648,39 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   Slack [Flutter Brasil](https://flutterbr.slack.com)
 
-## [43. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [45. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 
-## [44. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [46. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Articles / XML
 
 *   [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno)
 
-## [45. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [47. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Educational
 
 *   [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
 
-## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [48. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 *   ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 
-## [47. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [49. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 *   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
-## [48. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [50. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Realtime
 
@@ -660,7 +690,7 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [GitHub Archive](https://www.gharchive.org/) GitHub's public timeline since 2011, updated every hour
 
-## [49. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [51. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Backoffice extensions
 
@@ -670,19 +700,37 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [Deploy Contrib (⭐11)](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** *Umbraco Cloud only*
 
-## [50. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [52. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Introductions
 
 *   [Awesome Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 
-## [51. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [53. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Poland 🇵🇱
+
+### Warsaw
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aganaplocha" height="70px" width="70px" align="left" alt="" />
+
+**Aga Naplocha**\
+Topics: CSS, Teaching Web Technologies\
+<https://twitter.com/aganaplocha>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tomasz_ducin" height="70px" width="70px" align="left" alt="" />
+
+**Tomasz Ducin**\
+Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
+<https://twitter.com/tomasz_ducin>
+
+## [54. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Resources
 
 *   [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 
-## [52. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [55. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Python
 
@@ -702,7 +750,7 @@ Webpage: <https://blackhammerbrewing.com>
 *   [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (⭐9.1k)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).
 *   [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷
 
-## [53. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [56. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Articles & Posts
 
@@ -717,7 +765,7 @@ Webpage: <https://blackhammerbrewing.com>
 
 *   [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
 
-## [54. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [57. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Autobiographies and Biographies
 
@@ -818,13 +866,13 @@ Webpage: <https://blackhammerbrewing.com>
 
 
 
-## [55. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [58. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
 *   Clojure: [clj-postgresql (⭐154)](https://github.com/remodoy/clj-postgresql)
 
-## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [59. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Open Data
 

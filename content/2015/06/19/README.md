@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,6 +30,24 @@
 
 *   [htop (⭐5.7k)](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
 *   [powertop (⭐674)](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
+
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / B individuals
+
+*   Brendan Eich <https://brendaneich.com/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nikola Brežnjak <http://www.nikola-breznjak.com/blog/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Pat Shaughnessy <http://patshaughnessy.net/>
+
+### Individuals/Group Contributors / Z individuals
+
+*   Zolmeister <https://zolmeister.com/>
 
 ---
 

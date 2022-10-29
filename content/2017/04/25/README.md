@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25, 2017
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,7 +47,13 @@
 
 *   [Conekta (⭐30)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 
-## [4. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Ken Wheeler (⭐10)](https://github.com/kenwheeler/ama) - Professional American. Manchild.
+
+## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Developer Tools
 

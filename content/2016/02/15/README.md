@@ -1,12 +1,20 @@
 # Awesome List Updates on Feb 15, 2016
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [1. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Competitions
+
+*   [RobotChallenge](http://www.robotchallenge.org/)
+*   [DARPA Robotics Challenge](http://www.theroboticschallenge.org/)
+*   [RoboCup](http://www.robocup.org/)
+
+## [2. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Utilities
 
@@ -14,7 +22,7 @@
 *   [RxCurrying (⭐38)](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
 *   [RxEither (⭐91)](https://github.com/eleventigers/rxeither) - Either type for RxJava.
 
-## [2. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [3. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Communication
 
@@ -38,19 +46,25 @@
 
 *   [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### ORM/ODM
 
 *   [Redis-Objects (⭐2.1k)](https://github.com/nateware/redis-objects) - Redis Objects provides a Rubyish interface to Redis, by mapping Redis data types to Ruby objects, via a thin layer over the redis gem.
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Data validation
 
 *   [property-validator (⭐159)](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 
-## [5. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [6. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these organizations anything!
+
+*   [HackCU](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
+
+## [7. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Caching & Session
 
@@ -62,7 +76,7 @@
 *   [pyramid\_debugtoolbar\_dogpile (⭐2)](https://github.com/jvanasco/pyramid_debugtoolbar_dogpile) -
     dogpile caching support for pyramid\_debugtoolbar
 
-## [6. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
+## [8. Awesome Lumen](/content/unicodeveloper/awesome-lumen/README.md)
 
 ### Essentials
 
@@ -136,6 +150,12 @@
 *   Feel free to create or improve a category
 *   Make sure there is no trailing whitespace
 *   Last, Make sure it is awesome!
+
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Products/Technologies / R technologies
+
+*   RocksDB <http://rocksdb.org/blog>
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 25, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -190,6 +190,13 @@ Free
 ### Table of Contents / Videos and Lectures
 
 *   [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
+
+## [12. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Tim Smith (⭐0)](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
+*   [Sam Verschueren (⭐3)](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 
 ---
 

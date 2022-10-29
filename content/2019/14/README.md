@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 08 - Apr 14, 2019
 
-40 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -72,6 +72,7 @@
 
 
 ## [8. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@indexzero](https://github.com/indexzero), [winston](https://github.com/winston)
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))
@@ -242,7 +243,13 @@
 
 *   [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
-## [24. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [24. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Platforms and toolkits
+
+*   [UralicNLP (⭐53)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+
+## [25. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Resources
 
@@ -327,7 +334,7 @@
 
 *   [spawn issues (⭐35k)](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 
-## [25. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [26. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Template Engine / Other
 
@@ -337,7 +344,7 @@
 
 *   [Java Concurrency Checklist (⭐1.1k)](https://github.com/code-review-checklists/java-concurrency)
 
-## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [27. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -348,13 +355,13 @@
 
 *   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
 
-## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [28. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Blogs / Case Study
 
 *   [Bootsity](https://bootsity.com/)
 
-## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Habits
 
@@ -364,13 +371,13 @@
 
 *   [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
 
-## [29. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [30. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Taskade](http://www.taskade.com/)
 
-## [30. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Go / Angular
 
@@ -380,19 +387,19 @@
 
 *   [Bootsity Newsletter](https://bootsity.com/). A free one-in-two-weeks newsletter curating great articles, videos and news.
 
-## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Productivity Tools / Telegram
 
 *   [Taskade](https://taskade.com)
 
-## [32. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
 
-## [33. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [34. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Documentation / Scalability and Resilience
 
@@ -440,7 +447,7 @@
 
 *   [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Bottom bars
 
@@ -450,7 +457,7 @@
 
 *   [RangeSlider (⭐352)](https://github.com/boeledi/RangeSlider) <!--stargazers:boeledi/RangeSlider--> - 2-thumb configurable RangeSlider by [Didier Boelens](https://www.didierboelens.com)
 
-## [35. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
@@ -472,7 +479,7 @@
 
 *   [d3-MQTT-Topic-Tree (⭐94)](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsible tree and MQTT over websockets.
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -482,7 +489,7 @@
 
 *   [react-native-vanilla ★185 (⭐1.5k)](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 
-## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [38. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -526,7 +533,13 @@
 
 
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Even Stensberg (⭐0)](https://github.com/evenstensberg/ama) - OSS contributor and developer.
+
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -544,13 +557,13 @@
 
 *   [firebase-admin-dotnet (⭐285)](https://github.com/firebase/firebase-admin-dotnet) - Firebase Admin .NET SDK
 
-## [39. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Monitoring / Logging
 
 *   [opensnitch (⭐7.9k)](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
-## [40. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [42. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 

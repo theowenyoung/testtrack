@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,17 @@
 
 *   [Errbot](http://errbot.io) + [adapter (⭐8)](https://github.com/Ax3Effect/errbot-vk) (Python)
 
-## [2. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** \[30:54]
+
+### Cognitive Development
+
+*   [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** \[39:48]
+
+## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Text Editors Language Support
 
@@ -20,25 +30,25 @@
 *   Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 *   Vim: [vim-pico8-syntax (⭐58)](https://github.com/justinj/vim-pico8-syntax)
 
-## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [Netflix/chaosmonkey :fire::fire::fire::fire::fire: (⭐13k)](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 
-## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [5. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [pokemongo-game-master (⭐39)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
 
-## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 
 *   [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
 
-## [6. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [7. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -88,7 +98,7 @@
 
 
 
-## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -96,7 +106,7 @@
     *   This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project. Through the course, students will use Tensorflow to build models of different complexity, from simple linear/logistic regression to convolutional neural network and recurrent neural networks with LSTM to solve tasks such as word embeddings, translation, optical character recognition. Students will also learn best practices to structure a model and manage research experiments.
     *   [Assignments (⭐10k)](https://github.com/chiphuyen/tf-stanford-tutorials) available on Github.
 
-## [8. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [9. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Software Repositories / New Functionality
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25 - May 01, 2016
 
-36 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -78,14 +78,21 @@
 
 *   [Sylius (⭐7k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
-## [5. Tips](/content/git-tips/tips/week/README.md)
+## [5. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Backend as a Service
+
+*   [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2)
+
+## [6. Tips](/content/git-tips/tips/week/README.md)
+
 ## Extract file from another branch.
 
 ```sh
 git show <branch_name>:<file_name>
 ```
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Discovery
 
@@ -99,19 +106,63 @@ git show <branch_name>:<file_name>
 *   [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 *   [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Laravel Setting (⭐841)](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files
 
-## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [9. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
 
-## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [10. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+
+### Documentation
+
+*   [RethinkDB](http://rethinkdb.com/docs/) - RethinkDB Documentation
+*   [ReQL API](http://rethinkdb.com/api/javascript/) - JavaScript ReQL command reference
+
+### Community
+
+*   [Request Slack Invite](http://slack.rethinkdb.com/)
+*   [RethinkDB StackOverflow](http://stackoverflow.com/tags/rethinkdb)
+
+### Community / ORM
+
+*   [Thinky (⭐1.1k)](https://github.com/neumino/thinky) - JavaScript ORM for RethinkDB
+*   [JSData RethinkDB (⭐32)](https://github.com/js-data/js-data-rethinkdb) - RethinkDB adapter for the js-data ORM.
+
+### Community / Extension Libraries
+
+*   [RethinkDB Pool (⭐20)](https://github.com/hden/rethinkdb-pool) - Connection-pool for RethinkDB.
+*   [Express Session RethinkDB (⭐25)](https://github.com/armenfilipetyan/express-session-rethinkdb) - RethinkDB session store for Express 4.x.
+
+### Community / Technology Integrations
+
+*   [Sails Hook Thinky (⭐19)](https://github.com/mwielbut/sails-hook-thinky) - A hook to enable the Thinky ORM for RethinkDB in Sails.
+*   [KOA RethinkDB (⭐17)](https://github.com/hden/koa-rethinkdb) - Koa middleware that gets you a RethinkDB client.
+*   [RabbitMQ](http://rethinkdb.com/docs/rabbitmq/javascript/) - Integrating RethinkDB with RabbitMQ
+
+### Community Supported Drivers / Technology Integrations
+
+*   [C# (⭐373)](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+*   [C++ (⭐91)](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
+*   [Clojure (⭐199)](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure.
+*   [Dart (⭐37)](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.
+*   [Elixir (⭐498)](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir.
+*   [Go (⭐1.6k)](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.
+*   [Haskell (⭐92)](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell.
+*   [Lisp (⭐44)](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp.
+*   [Lua](https://github.com/grandquista/Lua-ReQL) - Rethinkdb driver in Lua.
+*   [Objective-C (⭐13)](https://github.com/dparnell/rethink-db-client) - A RethinkDB client written in Objective-C.
+*   [Perl (⭐21)](https://github.com/njlg/perl-rethinkdb) - A Pure Perl RethinkDB Driver.
+*   [PHP (⭐343)](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
+*   [Scala (⭐100)](https://github.com/kclay/rethink-scala) - Scala Driver for RethinkDB.
+
+## [11. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Libraries
 
@@ -164,7 +215,7 @@ git show <branch_name>:<file_name>
 *   [The Code Side Of Color](https://www.smashingmagazine.com/2012/10/the-code-side-of-color/)
 *   [How to create the right emotions with color in web design](http://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/)
 
-## [10. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [12. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Writing Workflows and Tooling
 
@@ -176,7 +227,7 @@ git show <branch_name>:<file_name>
 *   [Do Not Buy This Book](http://blog.codinghorror.com/do-not-buy-this-book/) - Jeff Atwood's warning to potential writers.
 *   [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) - Adam Tornhill shares experience gained writing his three books (two of them self published).
 
-## [11. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Metaprogramming
 
@@ -199,7 +250,7 @@ git show <branch_name>:<file_name>
 *   [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
 *   [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer
 
-## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / General Overviews
 
@@ -224,7 +275,7 @@ git show <branch_name>:<file_name>
 
 *   [EgoNet](https://sourceforge.net/projects/egonet/) - Cross-platform Java program for ego network analysis.
 
-## [13. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [15. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2015
 
@@ -234,7 +285,7 @@ git show <branch_name>:<file_name>
 
 *   [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) \[21:26]
 
-## [14. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [16. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Service Factory
 
@@ -244,7 +295,7 @@ git show <branch_name>:<file_name>
 
 *   [Vert.x Eclipse SISU (⭐2)](https://github.com/cstamas/vertx-sisu) - Vert.x integration with [Eclipse SISU](https://www.eclipse.org/sisu/) DI container.
 
-## [15. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
@@ -254,7 +305,7 @@ git show <branch_name>:<file_name>
 
 *   [node-slug (⭐1.1k)](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 
-## [16. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [18. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
@@ -268,7 +319,7 @@ git show <branch_name>:<file_name>
 
 *   [rektide/recyclec ★0 (⭐0)](https://github.com/rektide/recyclec) - Readline driver
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -278,14 +329,23 @@ git show <branch_name>:<file_name>
 
 *   [Fido (⭐412)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
-## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [VirusShare](https://virusshare.com/) - Malware repository, registration
     required.
 
-## [19. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [21. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+
+### Advanced
+
+#### [Project Euler](https://projecteuler.net/)
+
+**Free** mathematical/computer programming problems\
+*(programming, mathematics)*
+
+## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
@@ -295,13 +355,20 @@ git show <branch_name>:<file_name>
 
 *   [elm-app-boilerplate (⭐121)](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
 
-## [20. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [23. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Jon Kuperman (⭐21)](https://github.com/jkup/ama) - I love JavaScript! I blog at [Codeplanet](https://codeplanet.io), make videos at [Nodecasts](https://nodecasts.io) and podcast at [The Web Behind](https://webbehind.com).
+*   [Max Stoiber (⭐29)](https://github.com/mxstbr/ama) - Open source developer advocate at Thinkmill, developing [KeystoneJS (⭐7.1k)](https://github.com/keystonejs/keystone) and [ElementalUI (⭐4.3k)](https://github.com/elementalui/elemental). Creator of [react-boilerplate (⭐29k)](https://github.com/mxstbr/react-boilerplate), part of React Vienna.
+
+## [24. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
 *   [dropwizard-maxmind-bundle (⭐6)](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
 
-## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
@@ -311,7 +378,7 @@ git show <branch_name>:<file_name>
 
 *   [Hexacon (⭐336)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 
-## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -334,7 +401,7 @@ git show <branch_name>:<file_name>
 
 *   [What is SRE (Site Reliability Engineering)?](https://www.oreilly.com/ideas/what-is-sre-site-reliability-engineering)
 
-## [23. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [27. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Economics on GitHub / Economists
 
@@ -351,25 +418,25 @@ git show <branch_name>:<file_name>
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
-## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [28. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Books
 
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/\~cain/textbooks/onlinebooks.html)
 
-## [25. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Community
 
 *   [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
 
-## [26. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Forms / Paid Books
 
 *   [jquery-minicolors (⭐953)](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -419,13 +486,43 @@ git show <branch_name>:<file_name>
 
 *   [Elixir Functional Programming (⭐358)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
-## [28. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Finance
+
+#### Introduction to R for Quantitative Finance [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-quantitative-finance)
+
+<img src="http://ecx.images-amazon.com/images/I/516emfY3voL._SX404_BO1,204,203,200_.jpg" width="200px"/>
+
+Introduction to R for Quantitative Finance will show you how to solve real-world quantitative finance problems using the statistical computing language R. The book covers diverse topics ranging from time series analysis to fi nancial networks. Each chapter briefl y presents the theory behind specific concepts and deals with solving a diverse range of problems using R with the help of practical examples.
+
+This book will be your guide on how to use and master R in order to solve quantitative finance problems. This book covers the essentials of quantitative finance, taking you through a number of clear and practical examples in R that will not only help you to understand the theory, but how to effectively deal with your own real-life problems.
+
+Starting with time series analysis, you will also learn how to optimize portfolios and how asset pricing models work. The book then covers fixed income securities and derivatives such as credit risk management.
+
+### Reports
+
+#### R Packages [\[Online\]](http://r-pkgs.had.co.nz/)  [\[Amazon\]](http://www.amazon.com/dp/1491910593/)
+
+<img src="http://r-pkgs.had.co.nz/cover.png" width="200px"/>
+
+Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
+
+### Visualization
+
+#### R Data Visualization Cookbook [\[Amazon\]](http://www.amazon.com/dp/1466586966/)
+
+<img src="http://ecx.images-amazon.com/images/I/411f0UoYBPL._AA160_.jpg" width="200px"/>
+
+This book is packed with practical recipes, designed to provide you with all the guidance needed to get to grips with data visualization with R. It starts off with the basics of R plots and an introduction to heat maps and customizing them, before gradually taking you through creating interactive maps using the googleVis package, generating choropleth maps and contouring maps, bubble plots, and pie charts. You will then learn how to animate 2D and 3D plots in R. By the end of the book, you will be equipped with the key techniques to create impressive data visualizations with professional efficiency and precision.
+
+## [33. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3plus-text (⭐96)](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -443,19 +540,19 @@ git show <branch_name>:<file_name>
 
 *   [awesome-analyzers (⭐375)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
-## [30. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Extensions / Toolbox
 
 *   [as-default (⭐5)](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 
 *   [Spark Notebook](http://spark-notebook.io) - Interactive and Reactive Data Science using Scala and Spark.
 
-## [32. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [37. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Web Technologies and Services
 
@@ -482,7 +579,7 @@ git show <branch_name>:<file_name>
 *   [RStartHere (⭐645)](https://github.com/rstudio/RStartHere) - A guide to some of the most useful R packages, organized by workflow.
 *   [Web Technologies (⭐165)](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
 
-## [33. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [38. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Language Utilities
 
@@ -490,19 +587,19 @@ git show <branch_name>:<file_name>
     *   [gprof (⭐32)](https://github.com/gperfutils/gprof) - The profiling module for Groovy
     *   [gbench (⭐28)](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy
 
-## [34. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [39. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava - The Problem with Subjects](http://tomstechnicalblog.blogspot.co.uk/2016/03/rxjava-problem-with-subjects.html) - Thomas Nield explains why `Subject` is not a panacea.
 
-## [35. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [40. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 
-## [36. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
+## [41. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
 ### Libraries
 
@@ -590,6 +687,20 @@ git show <branch_name>:<file_name>
 *   [NextReports](http://www.next-reports.com/) - Smart business reportins.
 *   [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
 *   [Yes Cart (⭐98)](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
+
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / T companies
+
+*   Toptal <https://www.toptal.com/blog/>
+
+### Products/Technologies / L technologies
+
+*   Laravel <https://laravel-news.com/blog/>
+
+### Products/Technologies / S technologies
+
+*   Swift <https://developer.apple.com/swift/blog/>
 
 ---
 

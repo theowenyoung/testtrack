@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02 - Jul 08, 2018
 
-39 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [Local Auth (⭐16k)](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android
 
-## [2. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Cognitive Development
+
+*   [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** \[21:22]
+
+## [3. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
@@ -21,25 +27,25 @@
 *   [Math Words](http://www.mathwords.com/)
 *   [Wolfram Alpha](http://www.wolframalpha.com/)
 
-## [3. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [4. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Boilerplate Destruction
 
 *   [Brahma-HibernateUtils (⭐9)](https://github.com/gozefo/brahma-hibernateutils) - An annotation processor to keep track of `@Entity` classes to make entity registration in dropwizard super simple.
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### WPF
 
 *   [Extended WPF Toolkit™ (⭐3.3k)](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / PHP SDK
 
 *   [aws-sdk-php-laravel :fire::fire::fire::fire: (⭐1.5k)](https://github.com/aws/aws-sdk-php-laravel)
 
-## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
@@ -49,7 +55,7 @@
 
 *   [HypoPG (⭐783)](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
 
-## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -69,7 +75,7 @@
 *   [Making Your Appium Tests Fast and Reliable, Part 5: Setting Up App State](https://appiumpro.com/editions/23)
 *   [Making Your Appium Tests Fast and Reliable, Part 6: Tuning Your Capabilities](https://appiumpro.com/editions/24)
 
-## [8. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
@@ -83,13 +89,13 @@
 
 *   [MobiDevelop's RoboVM Fork (⭐776)](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targeting iOS, Mac OSX and Linux.
 
-## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Howler.js (⭐21k)](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Routing
 
@@ -103,13 +109,13 @@
 
 *   [SimpleSource (⭐96)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
 
-## [11. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [12. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### Modules
 
 *   [rpc-websockets (⭐475)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
 
-## [12. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [13. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Laravel / More
 
@@ -122,7 +128,7 @@
 
 *   [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Reinforcement Learning
 
@@ -130,7 +136,7 @@
 *   [Retro (⭐2.7k)](https://github.com/openai/retro) - Retro Games in Gym
 *   [SLM Lab (⭐1.1k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
@@ -140,13 +146,13 @@
 
 *   [Stack Edit (⭐20k)](https://github.com/benweet/stackedit/) - In-browser Markdown editor
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Office
 
 *   [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software office software. Software is tested and used daily by a large and devoted user community. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://www.libreoffice.org/about-us/source-code/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [17. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Frontend (like SOP bypass, URL spoofing, and something like that)
 
@@ -156,13 +162,19 @@
 
 *   [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) - Written by [@wanderingglitch](https://twitter.com/wanderingglitch).
 
-## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Collaboration and Project Management / Telegram
 
 *   [Cardsmith](http://cardsmith.co) - Build visual collaboration systems with the familiarity of sticky notes on a white board.
 
-## [18. Typography](/content/deanhume/typography/week/README.md)
+## [19. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### JS
+
+*   [DevExtreme](https://js.devexpress.com) — 65+ responsive and feature-complete UI components with customizable Material Design compliant themes. Available for Angular, React, Vue and jQuery.
+
+## [20. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -194,7 +206,7 @@
 *   [Web Fonts are Rocket Science](https://www.filamentgroup.com/lab/rocket-science.html)
 *   [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
-## [19. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [21. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Tools
 
@@ -231,13 +243,13 @@
 *   [OpenPublic](https://www.drupal.org/project/openpublic) - For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector.
 *   [OpenPublish](https://www.drupal.org/project/openpublish) - OpenPublish is a Drupal 7 packaged distribution designed for the online news industry. It is deployed in a variety of media outlets sites including magazines, newspapers, journals, trade publications, broadcast, wire service, multimedia sites and membership publications.
 
-## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [22. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [H2O (⭐6k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 
-## [21. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [23. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -603,7 +615,7 @@
 *   [Theravada (⭐109)](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 *   [inspectIT (⭐21)](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 
-## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [24. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Videos / Third-party Service Integration
 
@@ -613,7 +625,7 @@
 
 *   [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 
-## [23. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [25. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -623,14 +635,14 @@
 
 *   [git-quick-stats (⭐5.5k)](https://github.com/arzzen/git-quick-stats) - Git quick statistics is a simple and efficient way to access various statistics in git repository.
 
-## [24. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [26. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Videos / Individual Videos
 
 *   [Ask A Monk: Divorce](https://www.youtube.com/watch?v=Uq4ibpX-nS0) - Discussion of divorce that leads back to the fundamentals of Buddhism.
 *   [Ask A Monk: Life Partners](https://www.youtube.com/watch?v=MHu46KZVchY) - Suffering does not come from not getting what you want, but from the wanting itself.
 
-## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [27. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Web Applications
 
@@ -644,19 +656,19 @@
 *   [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 *   [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
-## [26. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [28. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Front-End Development
 
 *   [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
 
-## [27. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [29. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) \[39:38]
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -666,19 +678,19 @@
 
 *   [Manatee.Trello (⭐118)](https://github.com/gregsdennis/Manatee.Trello) - A fully object-oriented .Net wrapper for Trello's RESTful API written in C#.
 
-## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [31. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Installation
 
 *   [Brew PHP Switcher (⭐856)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 
-## [30. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [32. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
 *   [pgwatch2 (⭐1.3k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 
-## [31. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [33. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Experts on personal blogs
 
@@ -700,13 +712,13 @@
 
 *   [ag-grid-aurelia (⭐9.3k)](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 
-## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [34. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Utils & Infra / Navigation Demos
 
 *   [react-native-call-observer (⭐6)](https://github.com/liamse/react-native-call-observer) - Helps to observe call status like incoming, ended, and connected (iOS).
 
-## [33. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [35. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Design
 
@@ -724,23 +736,45 @@
 
 *   [Startup Jobs](https://startup.jobs/)
 
-## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [36. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Preact Component Console (⭐29)](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 
-## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [37. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+
+### How-to lockpicking guides
+
+*   [Beginner's Guide to Security Pins](https://web.archive.org/web/20171210065243/http://www.ninjacache.com:80/secpins_intro) - Short article guiding beginners comfortable with picking padlocks towards an understanding of more complex locks.
+*   [Lock Picking: Detail Overkill](https://web.archive.org/web/20170730120626/http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
+
+### Vendors
+
+*   [Spooxe](http://spooxe.com/) - German retailer of lock picking tools, tool cases and locks.
+
+## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@bbatsov](https://github.com/bbatsov), [Rubocop (⭐12k)](https://github.com/rubocop-hq/rubocop)
     *   "Interview with Bozhidar Batsov: The Creator’s Thoughts on RuboCop and the Ruby Style Guide" ([post](https://blog.sideci.com/interview-with-bozhidar-batsov-99b049b6fd6a))
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [Cpp-Taskflow (⭐7.4k)](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ Parallel Programming with Task Dependencies. \[MIT]
 
-## [37. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Libraries / R
+
+*   [trread (⭐8)](https://github.com/r-gtfs/trread) - A transit (GTFS) file reader for R.
+
+### SIRI / Ruby
+
+*   [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - Automatically generated documentation from the (incredibly well) annotated SIRI 2.0 Schema Definition.
+
+## [41. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -750,7 +784,38 @@
 
 *   [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comparison tool.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / E companies
+
+*   Evernote <https://evernote.com/blog/>
+
+### Companies / J companies
+
+*   Jet Technology <https://tech.jet.com/>
+
+### Companies / L companies
+
+*   Latacora <https://latacora.singles/>
+
+### Companies / P companies
+
+*   Pinterest <https://medium.com/@Pinterest_Engineering>
+
+### Companies / R companies
+
+*   Red Hat <https://developers.redhat.com/blog/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Bohops <https://bohops.com/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Eddie Smith <http://www.practicallyefficient.com/>
+*   Edgar Aroutiounian <https://hyegar.com/>
+
+## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -761,7 +826,7 @@
 *   [Understanding error budget overspend - part one - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/understanding-error-budget-overspend-cre-life-lessons.html)
 *   [Good housekeeping for error budgets - part two - CRE life lessons](https://cloudplatform.googleblog.com/2018/06/cre-life-lessons-good-housekeeping-for-error-budgets.html)
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,19 +99,25 @@
 
 *   🧩 [Gust UI](https://www.gustui.com/) - Sleek Tailwind CSS components for web applications in React and HTML.
 
-## [8. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Competitions
+
+*   [RoboMasters](https://www.robomaster.com/en-US)
+
+## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Upper Elementary
 
 *   [Finch Robot](https://www.birdbraintechnologies.com/finch2/) - A small robot designed for computer science education with support for multiple programming languages.
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Books
 
 *   [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara
 
-## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [11. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 

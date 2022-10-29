@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18 - Apr 24, 2022
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -280,7 +280,13 @@
 *   [functional.js (⭐217)](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 *   [fp-multik (⭐6)](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Realtime Validators / Ruby
+
+*   [gtfs-realtime-validator (⭐14)](https://github.com/MobilityData/gtfs-realtime-validator) - A GTFS Realtime validation tool originally developed by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](https://www.usf.edu/) and now maintained by [MobilityData](https://mobilitydata.org/).
+
+## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Game Engines / Runner
 
@@ -295,13 +301,13 @@
 *   [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
 *   [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Layout / Barcode
 
 *   [Scaling Header Scroll View (⭐323)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
-## [30. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [31. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
@@ -311,7 +317,7 @@
 
 *   [Raw: Paralympics XR](https://www.phoria.com.au/projects/paralympics-xr/) - Webby 2022 nominated WebXR 360 video experience.
 
-## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Explainability / Trustworthy AI
 
@@ -322,7 +328,7 @@
 *   [Beneficial and harmful explanatory machine learning](https://link.springer.com/article/10.1007%2Fs10994-020-05941-0) - ***Machine Learning***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16983722694047294963\&hl=en\&as_sdt=0,5)].
 *   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐786)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-## [32. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [33. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Build tools
 
@@ -375,7 +381,7 @@
 
 *   [Introduction to Vert.x](https://vertx.io/get-started/)
 
-## [33. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [34. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### specifically from (  *a certain platform*  ) / YouTube
 
@@ -385,7 +391,7 @@
 
 *   [Rest In Peace Google Reader](https://web.archive.org/web/20210420205654/https://www.ripgooglereader.com/) <sup>[1001](https://t.me/s/aboutrss/1001)</sup>
 
-## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -395,7 +401,7 @@
 
 *   [Mathematical Monk](https://www.youtube.com/user/mathematicalmonk)
 
-## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -420,20 +426,20 @@
     *   [Slime breakpoints (⭐5)](https://github.com/mmontone/slime-breakpoints)
     *   [Slite (⭐40)](https://github.com/tdrhq/slite/) - a test runner for FiveAM.
 
-## [36. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [37. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Documentation
 
 *   [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source).
 
-## [37. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [38. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Spotify
 
 *   [librespot (⭐3.4k)](https://github.com/librespot-org/librespot): Requires Spotify Premium Account - librespot is an open source client library for Spotify. It enables applications to use Spotify's service to control and play music via various backends, and to act as a Spotify Connect receiver. It is an alternative to the official and now deprecated closed-source libspotify. Additionally, it will provide extra features which are not available in the official library
 *   [oggify](https://github.com/pisto/oggify): Download Spotify tracks to Ogg Vorbis (with a Spotify premium account), based on librespot
 
-## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -443,13 +449,13 @@
 
 *   [js.cool (⭐270)](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
 
-## [39. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [40. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Social
 
 *   [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - Chat with other Substrate developers, also bridged to [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 
-## [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -472,7 +478,7 @@
 *   [skill (asafaeirad) (⭐10)](https://github.com/ASafaeirad/oh-my-zsh-skill-theme) - Includes decorations for working directory, `git` working branch, working directory status and tracking branch status.
 *   [skill (frontendmonster) (⭐10)](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - Optimized for a dark terminal, displays `git` status decorations.
 
-## [41. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [42. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.2+
 
@@ -490,19 +496,19 @@
 *   [AntialiasedLine2D (⭐72)](https://github.com/godot-extended-libraries/godot-antialiased-line2d) - Higher-quality antialiased Line2D and Polygon2D drawing compared to the default Godot implementation (GLES3 + GLES2, all platforms).
 *   [Godot VirtualJoystick (⭐5)](https://github.com/mcunha-br/Godot_VirtualJoystick) - A simple vitual joystick for mobile devices.
 
-## [42. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Security Acronyms (⭐3)](https://github.com/cloudsecurelab/security-acronyms) - A curated list of security related acronyms and concepts
 
-## [43. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [44. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Networking / Web
 
 *   [Rufaydium WebDriver (⭐42)](https://github.com/Xeo786/Rufaydium-Webdriver) - by Xeo786 - Webdriver Library to support any Chromium based browser only requiring webdriver (no selenium/websocket) - Forum [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&p=457302)
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -527,7 +533,7 @@
 *   MQTT
     *   [bytebeamio/rumqtt (⭐718)](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) over TCP and WebSockets, with or without TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
 
-## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [46. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -552,7 +558,7 @@
 
 *   [vite-plugin-xml-loader (⭐9)](https://github.com/lorenzoc25/vite-plugin-xml-loader) - Loads xml file as JSON.
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -563,13 +569,13 @@
 
 *   [ggandor/leap.nvim (⭐1.9k)](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
 
-## [47. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [48. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Tools / Building
 
 *   [esbuild-plugin-lit](https://www.npmjs.com/package/esbuild-plugin-lit) - ESBuild plugin to import CSS, SVG, HTML, XLIFF files as JavaScript tagged-template literal objects.
 
-## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [49. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 

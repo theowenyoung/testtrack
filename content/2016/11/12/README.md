@@ -1,12 +1,18 @@
 # Awesome List Updates on Nov 12, 2016
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Python](/content/vinta/awesome-python/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Miro Cupak <https://mirocupak.com/>
+
+## [2. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Admin Panels
 
@@ -339,7 +345,7 @@
 *   [cola (⭐1.5k)](https://github.com/chineking/cola) - A distributed crawling framework.
 *   [pyspider (⭐16k)](https://github.com/binux/pyspider) - A powerful spider system.
 
-## [2. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [3. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Build Tools
 

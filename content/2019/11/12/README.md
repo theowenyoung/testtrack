@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12, 2019
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,13 +36,19 @@
 
 *   [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Resources
+
+*   [Low Resource Languages (⭐294)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐64)](https://github.com/braintree/restricted-input)
 
-## [6. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Front-End Development
 
@@ -52,18 +58,35 @@
 
 *   [PlayCanvas (⭐172)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
-## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [graph-2-text (⭐145)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 *   [Transformers (⭐73k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
-## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [9. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### UI / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Essence (⭐1)](https://github.com/essence-language/vscode-extension)
+
+## [10. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Mathematics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/mathematics.webp">
+
+[**Mathematics**](https://discord.com/invite/BacbVax) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+Notable Channels: `#prealg-algebra`, `#calculus`, `#linear-algebra`,`#computing-software`, `#probability-statistics`, `#discrete-math`, `#abstract-algebra`, `#questions`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+### Physics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/physics.webp">
+
+[**Physics**](https://discord.com/invite/N5jVwsg) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+Notable Channels: `#questions`, `#undergrad-physics`, `#graduate-physics` `#mathematical-physics`, `#astronomy-and-cosmology`, `#computational-physics`, `#engineering`, `#challenges` \
+Language: English
 
 ---
 

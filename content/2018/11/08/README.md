@@ -21,6 +21,7 @@
 *   [`prussia`](https://github.com/ZirconiumX/prussia) - SDK for the PlayStation 2.
 
 ## [3. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@fatih](https://github.com/fatih), [vim-go (⭐15k)](https://github.com/fatih/vim-go)
     *   "Taking an indefinite sabbatical from my projects" ([post](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/))
 

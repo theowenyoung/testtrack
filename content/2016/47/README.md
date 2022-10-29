@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21 - Nov 27, 2016
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -702,31 +702,37 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [37. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / R companies
+
+*   RapidAPI <http://blog.rapidapi.com/>
+
+## [38. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [38. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [39. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Video tutorials
 
 *   [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
 *   [mbedTLS (⭐3.8k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
-## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [HGCircularSlider (⭐2.4k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
-## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -736,14 +742,14 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [UnifiedArchive (⭐264)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
-## [42. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [43. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [enviar (⭐34)](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 *   [kaktus (⭐0)](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 
-## [43. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [44. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Settings
 

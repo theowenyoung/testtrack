@@ -23,6 +23,7 @@
 *   [vue-notice (⭐48)](https://github.com/marcius-studio/vue-notice) - Vue.js 2 wrapper around Noty.js with native API
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Create and switch new branch
 
 ```sh

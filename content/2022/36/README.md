@@ -410,6 +410,7 @@
 *   [bytebase (⭐4.1k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [44. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [Betterscan](https://www.betterscan.io)
 
   Description: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)

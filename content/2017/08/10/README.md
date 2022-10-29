@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,14 @@
 
 *   [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
 
-## [3. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Lizzie Siegle (⭐0)](https://github.com/elizabethsiegle/ama) - iOS and web developer, developer evangelist, hackathon hacker and judge, [Spectra](http://sospectra.com) organizer, racially ambiguous.
+*   [Sami CHNITER (⭐0)](https://github.com/chniter/ama) - Microsoft Exchange, Office, Skype For Business, PowerShell developer, blogger, and software geek.
+
+## [4. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
@@ -33,13 +40,13 @@
 
 *   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 
-## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Screencasts
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### File Carving / Other Resources
 

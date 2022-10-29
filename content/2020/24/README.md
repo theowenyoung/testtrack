@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15 - Jun 21, 2020
 
-70 awesome lists updated this week.
+72 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -498,7 +498,29 @@
 *   [Pangolin:Incremental Hybrid Fuzzing with Polyhedral Path Abstraction, 2020](https://qingkaishi.github.io/public_pdfs/SP2020.pdf)
 *   [RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization, 2020](https://www.semanticscholar.org/paper/RetroWrite%3A-Statically-Instrumenting-COTS-Binaries-Dinesh-Burow/845cafb153b0e4b9943c6d9b6a7e42c14845a0d6)
 
-## [41. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [41. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   AngelList - <https://angel.co/>
+*   Saijo's Tools List - <https://saijogeorge.com/best-marketing-tools/>
+
+## [42. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Libraries / Python
+
+*   [GTFS Kit (⭐0)](https://github.com/mrcagney/gtfs_kit) - A Python 3.6+ tool kit for analyzing General Transit Feed Specification (GTFS) data. Supersedes [GTFSTK](https://github.com/araichev/gtfstk).
+*   [GTFSTK](https://github.com/araichev/gtfstk) - A Python 3 toolkit for analyzing GTFS data in memory. Uses Pandas and Shapely for speed. Superseded by [GTFS Kit (⭐0)](https://github.com/mrcagney/gtfs_kit).
+
+### GTFS Analysis Tools / Ruby
+
+*   [Busbuzzard (⭐7)](https://github.com/bmander/busbuzzard) - Inference of probabilistic schedules from empirical data about transit vehicles.
+
+### GTFS Realtime Utilities / Ruby
+
+*   [gtfs-rt-admin (⭐6)](https://github.com/conveyal/gtfs-rt-admin) - An admin tool for managing GTFS-RT service alerts (JavaScript and Java).
+
+## [43. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Messenger Games
 
@@ -507,25 +529,25 @@
 *   [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
 *   [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
 
-## [42. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [44. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [MIMIC IoT Simulator](https://www.gambitcomm.com/site/iot_simulator.php) - Simulate large IoT environments for agile development / testing / proof-of-concept / training of IoT Applications based on MQTT, CoAP, REST
 
-## [43. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [45. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Articles
 
 *   [How to build a dApp for team motivation](https://medium.com/wavesprotocol/how-to-build-a-dapp-for-team-motivation-8943504e3feb) - Billy is DApp in the form of a bot that allows for an incentive and reward system aiming to motivate employees through Slack, a business communication platform ([ru](https://vk.com/@wavesprotocol-kak-sozdat-dapp-dlya-motivacii-sotrudnikov)).
 
-## [44. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [46. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-anchor-point ★14 (⭐173)](https://github.com/sueLan/react-native-anchor-point) - Make the fancy 3D transform easier in react native
 
-## [45. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [47. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### No-Code Platforms
 
@@ -535,7 +557,7 @@
 
 *   [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
 
-## [46. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [48. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### IDEs
 
@@ -544,7 +566,7 @@
     *   [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua in VSCode.
     *   [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode) - Simple Lua debugger with no dependencies. Löve specific launch.json example provided.
 
-## [47. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [49. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Consent Management
 
@@ -555,13 +577,13 @@
 
 *   [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components\&utm_medium=referral\&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
-## [48. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [50. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Libraries / Telegram
 
 *   [vgram (⭐118)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
-## [49. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [51. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -637,7 +659,7 @@
 *   [Sprites as a service (⭐261)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 *   [Slackers (⭐65)](https://github.com/uhavin/slackers) - Slack webhooks API.
 
-## [50. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [52. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Security monitoring / Network Security Monitoring (NSM)
 
@@ -647,19 +669,19 @@
 
 *   [Zabbix](https://www.zabbix.com/) - Mature, enterprise-level platform to monitor large-scale IT environments.
 
-## [51. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [53. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Additional Resources / Miscellaneous Tools
 
 *   Microsoft [WSL Official Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
 
-## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [54. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Tadam](https://www.tadam-framework.dev/)
 
-## [53. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [55. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -676,13 +698,13 @@
 *   [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
 *   [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
 
-## [54. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [56. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Business Intelligence / Tools
 
 *   [`falcon`](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac with builtin graphs.
 
-## [55. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [57. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
@@ -692,7 +714,7 @@
 
 *   [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 
-## [56. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Layout / Barcode
 
@@ -706,7 +728,7 @@
 
 *   [Mocker (⭐870)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
-## [57. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [59. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
@@ -717,7 +739,7 @@
 
 *   [Testing Library (⭐774)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
-## [58. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [60. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
@@ -739,7 +761,7 @@
 
 *   [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
 
-## [59. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [61. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Component Libraries
 
@@ -761,20 +783,20 @@
 
 *   [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
 
-## [60. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [62. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Web Development
 
 *   [JAMstacked](https://jamstack.email/). An email update on the evolving JAMstack ecosystem.
 
-## [61. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [63. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Anti-Spam
 
 *   [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
 *   [rspamd (⭐1.7k)](https://github.com/rspamd/rspamd) - Fast, free and open-source spam filtering system.
 
-## [62. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [64. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Tools / Timecode
 
@@ -784,19 +806,19 @@
 
 *   [awesome-linuxaudio (⭐1k)](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
 
-## [63. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [65. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / Python
 
 *   [Scapy (⭐8.1k)](https://github.com/secdev/scapy) - A python library to send, receive, edit raw packets. Supports CAN and automotive protocols: see the [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)
 
-## [64. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [66. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐119)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
-## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [67. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Dependency Injection
 
@@ -818,14 +840,14 @@
 
 *   [Crank (⭐50)](https://github.com/arktisklada/crank) - A Procfile-based application manager (like Foreman)
 
-## [66. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [68. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [waka-box-go (⭐143)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 *   [steam-box (⭐118)](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
 
-## [67. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [69. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -991,20 +1013,20 @@
 *   [HazeOver](https://hazeover.com/github-students.html) \[FREE] - Get focused while working on your projects or studying with HazeOver for Mac.Free app license, including minor updates.
 *   [Github Campus Experts](https://apply.githubcampus.expert/) \[FREE] - GitHub Campus Experts are students who build technical communities on campus, with training and support from GitHub.Apply to become part of the program while you’re a student.
 
-## [68. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [70. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
 *   🔧 [Typesaurus (⭐313)](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 
-## [69. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [71. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Yew Fullstack Boilerplate (⭐40)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 *   [Chord Quiz (⭐11)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
-## [70. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [72. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / External Docs
 

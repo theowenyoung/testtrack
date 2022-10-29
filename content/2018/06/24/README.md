@@ -1,12 +1,22 @@
 # Awesome List Updates on Jun 24, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Jon Kensy <http://www.jonkensy.com/>
+
+### Individuals/Group Contributors / L individuals
+
+*   LiveOverflow <https://liveoverflow.com/blog/index.html>
+
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -16,13 +26,13 @@
 
 *   [Channel9](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) - YouTube
 
-## [2. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Other
 
 *   [Disroot](https://disroot.org/) - Collection of ethical alternatives to email, cloud storage, collaborative document editing, and more.
 
-## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Hardware / Companies
 
@@ -35,7 +45,7 @@
 
 *   [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) - Requirements to qualify for the Free Software Foundation's RYF certification.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
@@ -70,7 +80,7 @@
 
 *   [Snap](http://indragie.com/snap) - Launch an app in a snap. Ridiculously easy shortcut management. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id418073146)
 
-## [5. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [6. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Official resources
 
@@ -132,13 +142,13 @@
 *   [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) - Subreddit collecting all Prometheus-related resources on the internet.
 *   [PromCon](https://promcon.io/) - The Prometheus conference.
 
-## [6. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### ORM
 
 *   [phalcon-repositories (⭐18)](https://github.com/micheleangioni/phalcon-repositories) - Easy Repository pattern for Phalcon
 
-## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Projects
 

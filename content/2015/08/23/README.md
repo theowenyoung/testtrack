@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -91,6 +91,50 @@
 ### Miscellaneous
 
 *   [semver.c (⭐170)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
+
+## [3. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Beginner Books
+
+#### Learning R [\[Amazon\]](https://github.com/RomanTsegelskyi/rbooks/blob/master/README.md/www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105/)
+
+<img src="http://akamaicovers.oreilly.com/images/0636920028352/cat.gif" width="200px"/>
+
+Learn how to perform data analysis with the R language and software environment, even if you have little or no programming experience. With the tutorials in this hands-on guide, you’ll learn how to use the essential R tools you need to know to analyze data, including data types and programming concepts.
+#### Hands-On Programming with R [\[Amazon\]](http://www.amazon.com/Hands-On-Programming-Write-Functions-Simulations/dp/1449359019)
+
+<img src="http://ecx.images-amazon.com/images/I/51Hbowka72L._SX379_BO1,204,203,200_.jpg" width="200px"/>
+
+Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you' ll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools.
+#### R Cookbook [\[Amazon\]](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/)
+
+<img src="http://ecx.images-amazon.com/images/I/51ZWUV2DEyL._SX379_BO1,204,203,200_.jpg" width="200px"/>
+
+With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
+
+### Advanced Books
+
+#### Advanced R [\[Online\]](http://adv-r.had.co.nz/)  [\[Amazon\]](http://www.amazon.com/dp/1466586966/) *Free*
+
+<img src="http://ecx.images-amazon.com/images/I/41Lb4gmBobL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+
+Advanced R presents useful tools and techniques for attacking many types of R programming problems, helping you avoid mistakes and dead ends. With more than ten years of experience programming in R, the author illustrates the elegance, beauty, and flexibility at the heart of R.
+
+### Reports
+
+#### Dynamic Documents with R and knitr, Second Edition [\[Amazon\]](http://www.amazon.com/dp/1498716962/)
+
+<img src="http://ecx.images-amazon.com/images/I/516z-S%2BUXjL._SX331_BO1,204,203,200_.jpg" width="200px"/>
+
+Suitable for both beginners and advanced users, Dynamic Documents with R and knitr, Second Edition makes writing statistical reports easier by integrating computing directly with reporting. Reports range from homework, projects, exams, books, blogs, and web pages to virtually any documents related to statistical graphics, computing, and data analysis. The book covers basic applications for beginners while guiding power users in understanding the extensibility of the knitr package.
+
+### Visualization
+
+#### Report Writing for Data Science in R [\[Leanpub\]](https://leanpub.com/reportwriting) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/reportwriting/large?1440030475" width="200px"/>
+
+This book teaches the fundamental concepts and tools behind reporting modern data analyses in a reproducible manner. As data analyses become increasingly complex, the need for clear and reproducible report writing is greater than ever. The material for this book was developed as part of the industry-leading Johns Hopkins Data Science Specialization.
 
 ---
 

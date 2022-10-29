@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 23, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [NEETS (Navy Electricity and Electronics Training Series)](https://maritime.org/doc/#neets) ([alternative link](https://github.com/thinkitdata/neets/tree/master/modules))- U.S. Navy Non-Resident Training Course Material.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Cryptor (⭐30)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - XMPP - Servers
 
@@ -26,7 +32,7 @@
 
 *   [Notes'n'Todos (⭐15)](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Command-line
 
@@ -34,19 +40,19 @@
     *   [nukesor/comfy-table (⭐479)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
     *   [zhiburt/tabled (⭐1.2k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-openlayers (⭐364)](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 
-## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Marketing / Angular
 
 *   [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 
-## [6. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Data Optimization
 
@@ -56,20 +62,20 @@
 
 *   [Yagna-binaries for aarch64 (⭐7)](https://github.com/MarijnStevens/yagna-binaries) - Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi.
 
-## [7. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [8. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Lower Elementary
 
 *   [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website.
 *   [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age) - more graphics to learn Python type of code. ( Not-free for advanced levels )
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Sea\_battle (⭐0)](https://github.com/MAE664128/sea_battle) - A simple example of a sea battle game. Rust + Yew.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -98,7 +104,7 @@
 
 *   [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Transportation
 
@@ -114,7 +120,7 @@
 
 
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 

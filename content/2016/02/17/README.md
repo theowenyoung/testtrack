@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,7 +51,13 @@
 *   [Sulong (⭐627)](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
 *   [Truffle (⭐18k)](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
 
-## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Software for Creating APIs
+
+*   [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
+
+## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / CLI
 
@@ -62,7 +68,7 @@
 *   [pkg-conf (⭐115)](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 *   [normalize-pkg (⭐18)](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
-## [7. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [8. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Community / Quora
 
@@ -88,7 +94,7 @@
 
 
 
-## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Hardware Support
 

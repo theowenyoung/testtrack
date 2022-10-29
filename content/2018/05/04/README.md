@@ -1,6 +1,6 @@
 # Awesome List Updates on May 04, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,13 +16,19 @@
 
 *   [Tips for High Availability](https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c)
 
-## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Agency Tools
+
+*   [RidePilot (⭐15)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies (for more info see [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
+
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [xLearn (⭐3k)](https://github.com/aksnzhy/xlearn) - A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertisement and recommender systems.
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -36,7 +42,7 @@
 
 *   [vue-array (⭐13)](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
 
-## [4. Awesome](/content/craftcms/awesome/README.md)
+## [5. Awesome](/content/craftcms/awesome/README.md)
 
 ### Official Links
 
@@ -315,38 +321,38 @@
 *   [Stearns & Foster](http://www.stearnsandfoster.com)
 *   [Yale Environment 360](http://e360.yale.edu)
 
-## [5. Awesome Python](/content/vinta/awesome-python/README.md)
+## [6. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Science
 
 *   [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 
-## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Icons / Icons Packages and Collections
 
 *   [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Operating systems
 
 *   [tock/tock (⭐3.8k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
 
-## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
 *   [Customising Ember Power Select](https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c)
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Build Systems
 
 *   [clib (⭐4.4k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 *   [waf](https://github.com/waf-project/waf) - Python-based framework for configuring, compiling and installing applications. \[BSD] [website](https://waf.io/)
 
-## [10. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Applications / Command Line Tools
 
@@ -356,7 +362,7 @@
 
 *   [cclib (⭐252)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
-## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Command Line Tools
 

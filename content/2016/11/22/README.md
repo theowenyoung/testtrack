@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 22, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,19 @@
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [4. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / R companies
+
+*   RapidAPI <http://blog.rapidapi.com/>
+
+## [5. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Videos / Video tutorials
 

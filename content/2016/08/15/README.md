@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,6 +32,7 @@
 *   [Laravel Collection Macros (⭐1.5k)](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Revert: Reverting an entire merge
 
 ```sh
@@ -208,6 +209,12 @@ git revert -m 1 <commit-ish>
 ### Profilers
 
 *   [jitwatch-intellij (⭐165)](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
+
+## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / I individuals
+
+*   Ian Sommerville <http://iansommerville.com/systems-software-and-technology/>
 
 ---
 

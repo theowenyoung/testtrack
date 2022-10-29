@@ -28,6 +28,7 @@
 *   [ChemicalX (⭐571)](https://github.com/AstraZeneca/chemicalx) -> A PyTorch based deep learning library for drug pair scoring
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [SurplusCI](https://surplusci.com/)
 
   Description: Affordable dedicated runners for your CI pipeline builds, usable with your current CI platform.

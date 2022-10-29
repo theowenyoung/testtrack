@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01, 2020
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,20 @@
 
 *   [vue-use-infinite-scroll (⭐109)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
 
-## [3. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Design
+
+*   [Kill "Microservices" Before Its Too Late](https://www.youtube.com/watch?v=-UKEPd2ipEk) by **Chad Fowler** \[39:41]
+*   [The Lost Art Of Software Design](https://www.youtube.com/watch?v=XPSZC3mJRO0) by **Simon Brown** \[46:15]
+
+## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Videos
 
 *   [Wardley Maps BarCamp 2020](https://www.youtube.com/playlist?list=PLP0vnsXbJsRVZSbkzWUA-q0eRU5R5bBu1) - Over 10 hours of presentations by 17 speakers.
 
-## [4. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [5. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Android TV / Articles
 
@@ -34,7 +41,7 @@
 
 *   [docker-tizen-webos-sdk (⭐40)](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI. Allows to develop, build, launch and debug Smart TV apps without installing Tizen Studio and webOS SDK.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -92,7 +99,7 @@
 
 *   [Flourish](https://flourish.studio)
 
-## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [7. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Time Series Data
 
@@ -138,7 +145,7 @@
 
 *   [tulipnode (⭐440)](https://github.com/TulipCharts/tulipnode) - Official Node.js wrapper for Tulip Indicators. Provides over 100 technical analysis overlay and indicator functions.
 
-## [7. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [8. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Libraries / Others
 

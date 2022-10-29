@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 01, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -233,19 +233,25 @@
 
 *   [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
 
-## [2. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Computer History
+
+*   [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** \[44:12]
+
+## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Communities
 
 *   [ElixirLangMoscow](http://elixir-lang.moscow/) - Russian Elixir community
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Scheduler and Job
 
 *   [Gofer.NET (⭐453)](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [zplug](https://github.com/zplug/zplug)
 
@@ -263,7 +269,7 @@
 *   Interactive interface ([fzf (⭐48k)](https://github.com/junegunn/fzf), [peco (⭐7.1k)](https://github.com/peco/peco), [zaw (⭐527)](https://github.com/zsh-users/zaw), and so on)
 *   Cache mechanism for reducing [the startup time (⭐5.2k)](https://github.com/zplug/zplug#vs)
 
-## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 30, 2022
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,24 +23,14 @@
 *   [kyonifer/koma (⭐266)](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
 *   [JetBrains/lets-plot-kotlin (⭐285)](https://github.com/JetBrains/lets-plot-kotlin) - Grammar of graphics visualization for Kotlin
 *   [Kotlin/dataframe (⭐313)](https://github.com/Kotlin/dataframe) - A Kotlin library for in-memory data manipulation
-*   [Kotlin/multik (⭐470)](https://github.com/Kotlin/multik) - A Kotlin library for working with multi-demensional arrays
 *   [mipt-npm/kmath (⭐476)](https://github.com/mipt-npm/kmath) - A (not so numpy-like) multiplatform mathematical library with higher level abstractions.
 *   [holgerbrandl/krangl (⭐548)](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
 *   [Kotlin/kotlin-jupyter (⭐765)](https://github.com/Kotlin/kotlin-jupyter) - Official Kotlin Jupyter kernel
 *   [JetBrains/KotlinDL](https://jetbrains.github.io/KotlinDL/) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 
-### Libraries/Frameworks / Command Line Interface
-
-*   [xenomachina/kotlin-argparser (⭐465)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
-*   [ajalt/mordant (⭐644)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
-
 ### Libraries/Frameworks / API Clients
 
 *   [awslabs/aws-sdk-kotlin (⭐232)](https://github.com/awslabs/aws-sdk-kotlin) - Multiplatform AWS SDK for Kotlin
-
-### Libraries/Frameworks / Internationalisation and Localization
-
-*   [cashapp/barber (⭐126)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
 
 ### Libraries/Frameworks / Logging
 
@@ -54,19 +44,29 @@
 
 *   [wuseal/JsonToKotlinClass (⭐2.7k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
 
-## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [TIDES project (⭐5)](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
+
+### On-line courses / Ruby
+
+*   [GTFS-books (⭐2)](https://github.com/MobilityData/GTFS-books) - Comprehensive guides to GTFS and GTFS Realtime. These books were written by [Quentin Zervaas](https://github.com/HendX), and have been donated to [MobilityData](https://mobilitydata.org/) and made open access.
+
+## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Monitoring / Tools and web interfaces
 
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐818)](https://github.com/tribe29/checkmk)) `Python/PHP`
 
-## [3. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [4. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
 *   [k6 Learn (⭐55)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
-## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [5. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Frameworks
 
@@ -76,7 +76,7 @@
 
 *   [IoTSharp (⭐520)](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -86,7 +86,7 @@
 
 *   [searocket (⭐0)](https://github.com/dk949/searocket/) - Slimmed down version of [spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt). Includes decorators for working directory, last command exit code, user, background jobs, `bun`, `d`, elm, go, nodejs, python, zig and `git` status.
 
-## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

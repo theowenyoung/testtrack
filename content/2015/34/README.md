@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24 - Aug 30, 2015
 
-22 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -86,20 +86,74 @@
 *   [os-locale (⭐212)](https://github.com/sindresorhus/os-locale) - Get the system locale.
 *   [file-type (⭐2.8k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
-## [2. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [2. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Beginner Books
+
+#### Learning R [\[Amazon\]](https://github.com/RomanTsegelskyi/rbooks/blob/master/README.md/www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105/)
+
+<img src="http://akamaicovers.oreilly.com/images/0636920028352/cat.gif" width="200px"/>
+
+Learn how to perform data analysis with the R language and software environment, even if you have little or no programming experience. With the tutorials in this hands-on guide, you’ll learn how to use the essential R tools you need to know to analyze data, including data types and programming concepts.
+#### Hands-On Programming with R [\[Amazon\]](http://www.amazon.com/Hands-On-Programming-Write-Functions-Simulations/dp/1449359019)
+
+<img src="http://ecx.images-amazon.com/images/I/51Hbowka72L._SX379_BO1,204,203,200_.jpg" width="200px"/>
+
+Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you' ll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools.
+#### R Cookbook [\[Amazon\]](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/)
+
+<img src="http://ecx.images-amazon.com/images/I/51ZWUV2DEyL._SX379_BO1,204,203,200_.jpg" width="200px"/>
+
+With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
+
+### Advanced Books
+
+#### Advanced R [\[Online\]](http://adv-r.had.co.nz/)  [\[Amazon\]](http://www.amazon.com/dp/1466586966/) *Free*
+
+<img src="http://ecx.images-amazon.com/images/I/41Lb4gmBobL._SY344_BO1,204,203,200_.jpg" width="200px"/>
+
+Advanced R presents useful tools and techniques for attacking many types of R programming problems, helping you avoid mistakes and dead ends. With more than ten years of experience programming in R, the author illustrates the elegance, beauty, and flexibility at the heart of R.
+
+### Reports
+
+#### Dynamic Documents with R and knitr, Second Edition [\[Amazon\]](http://www.amazon.com/dp/1498716962/)
+
+<img src="http://ecx.images-amazon.com/images/I/516z-S%2BUXjL._SX331_BO1,204,203,200_.jpg" width="200px"/>
+
+Suitable for both beginners and advanced users, Dynamic Documents with R and knitr, Second Edition makes writing statistical reports easier by integrating computing directly with reporting. Reports range from homework, projects, exams, books, blogs, and web pages to virtually any documents related to statistical graphics, computing, and data analysis. The book covers basic applications for beginners while guiding power users in understanding the extensibility of the knitr package.
+
+### Visualization
+
+#### Report Writing for Data Science in R [\[Leanpub\]](https://leanpub.com/reportwriting) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/reportwriting/large?1440030475" width="200px"/>
+
+This book teaches the fundamental concepts and tools behind reporting modern data analyses in a reproducible manner. As data analyses become increasingly complex, the need for clear and reproducible report writing is greater than ever. The material for this book was developed as part of the industry-leading Johns Hopkins Data Science Specialization.
+
+## [3. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [ansi (⭐438)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 *   [mo (⭐463)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 
-## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
 *   [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 
-## [4. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / P companies
+
+*   PullReview <http://blog.8thcolor.com/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Idontgetoutmuch's Weblog <https://idontgetoutmuch.wordpress.com/>
+
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -115,19 +169,19 @@
 
 *   [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler's choice of articles, videos, books, and podcasts that can teach you more about the microservices architectural style.
 
-## [5. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
+## [7. Awesome Db](/content/numetriclabz/awesome-db/week/README.md)
 
 ### JAVA
 
 *   [lmdbjni (⭐201)](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 
-## [6. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [8. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Database
 
 *   [Tayra (⭐144)](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 
-## [7. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [9. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Image and Language / Video Captioning
 
@@ -140,7 +194,68 @@
 *   Univ. Toronto / MIT \[[Paper](http://arxiv.org/pdf/1506.06724.pdf)]
     *   Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler, Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books, arXiv:1506.06724
 
-## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [10. Htaccess](/content/phanan/htaccess/week/README.md)
+
+### Rewrite and Redirection / Redirect an Entire Site
+
+### Redirect an Entire Site
+
+```apacheconf
+Redirect 301 / http://newsite.com/
+```
+
+This way does it with links intact. That is `www.oldsite.com/some/crazy/link.html` will become `www.newsite.com/some/crazy/link.html`. This is extremely helpful when you are just “moving” a site to a new domain. [Source](http://css-tricks.com/snippets/htaccess/301-redirects/)
+
+### Rewrite and Redirection / Redirect Using RedirectMatch
+
+### Redirect Using RedirectMatch
+
+```apacheconf
+RedirectMatch 301 /subdirectory(.*) http://www.newsite.com/newfolder/$1
+RedirectMatch 301 ^/(.*).htm$ /$1.html
+RedirectMatch 301 ^/200([0-9])/([^01])(.*)$ /$2$3
+RedirectMatch 301 ^/category/(.*)$ /$1
+RedirectMatch 301 ^/(.*)/htaccesselite-ultimate-htaccess-article.html(.*) /htaccess/htaccess.html
+RedirectMatch 301 ^/(.*).html/1/(.*) /$1.html$2
+RedirectMatch 301 ^/manual/(.*)$ http://www.php.net/manual/$1
+RedirectMatch 301 ^/dreamweaver/(.*)$ /tools/$1
+RedirectMatch 301 ^/z/(.*)$ http://static.askapache.com/$1
+```
+
+[Source](http://www.askapache.com/htaccess/301-redirect-with-mod_rewrite-or-redirectmatch.html#301_Redirects_RedirectMatch)
+
+### Rewrite and Redirection / Alias Paths to Script
+
+### Alias Paths to Script
+
+```apacheconf
+FallbackResource /index.fcgi
+```
+
+This example has an `index.fcgi` file in some directory, and any requests within that directory that fail to resolve a filename/directory will be sent to the `index.fcgi` script. It’s good if you want `baz.foo/some/cool/path` to be handled by `baz.foo/index.fcgi` (which also supports requests to `baz.foo`) while maintaining `baz.foo/css/style.css` and the like. Get access to the original path from the PATH\_INFO environment variable, as exposed to your scripting environment.
+
+```apacheconf
+RewriteEngine On
+RewriteRule ^$ index.fcgi/ [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.fcgi/$1 [QSA,L]
+```
+
+This is a less efficient version of the FallbackResource directive (because using `mod_rewrite` is more complex than just handling the `FallbackResource` directive), but it’s also more flexible.
+
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Native Apps (open source)
+
+*   [OpenTripPlanner Android (⭐128)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [OpenTripPlanner iOS (⭐65)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
+
+### Native Apps (closed source)
+
+*   [Moovit](http://moovitapp.com/)
+
+## [12. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -183,7 +298,8 @@
 
 *   [<img src="https://partners.salesforce.com/s/SalesforceUniversity.png?v=1" align="right" width="100">](https://github.com/mailtoharshit/awesome-salesforce/blob/master/README.md/)[Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
 
-## [9. Tips](/content/git-tips/tips/week/README.md)
+## [13. Tips](/content/git-tips/tips/week/README.md)
+
 ## Rename a branch
 
 ```sh
@@ -211,7 +327,7 @@ git archive master --format=zip --output=master.zip
 git add --all && git commit --amend --no-edit
 ```
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
@@ -226,7 +342,7 @@ git add --all && git commit --amend --no-edit
 *   [Alchemist-Server (⭐195)](https://github.com/tonini/alchemist-server) - Editor/IDE independent background server to inform about Elixir mix projects.
 *   [elixir\_generator (⭐9)](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
 
-## [11. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [15. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks
 
@@ -275,13 +391,13 @@ git add --all && git commit --amend --no-edit
 *   [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) - Building Responsive Email Templates with Ink.
 *   [Litmus learning](https://litmus.com/community/learning) - Litmus learning resources.
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [16. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
 *   [AndroidFillableLoaders (⭐2k)](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Compilers, Transpilers and Languages
 
@@ -296,7 +412,7 @@ git add --all && git commit --amend --no-edit
 *   [NBuilder (⭐52)](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
 *   [Rhino Mocks (⭐255)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Caching
 
@@ -323,7 +439,7 @@ git add --all && git commit --amend --no-edit
     *   [Daru::View (⭐82)](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
     *   [Rgl (⭐329)](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Markup and CSS
 
@@ -333,7 +449,7 @@ git add --all && git commit --amend --no-edit
 
 *   [JoliNotif (⭐1.2k)](https://github.com/jolicode/JoliNotif) - A cross-platform library for desktop notification (support for Growl, notify-send, toaster, etc)
 
-## [16. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -425,7 +541,7 @@ git add --all && git commit --amend --no-edit
 
 *   [lists (⭐8.5k)](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 
-## [17. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [21. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Questions
 
@@ -436,7 +552,7 @@ git add --all && git commit --amend --no-edit
 *   [iTeML (⭐66)](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 *   [Pa\_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
 
-## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tutorials
 
@@ -522,7 +638,7 @@ git add --all && git commit --amend --no-edit
 *   [ Yichuan Tang ](http://www.cs.toronto.edu/\~tang/)
 *   [ Yoshua Bengio ](http://www.iro.umontreal.ca/\~bengioy/yoshua_en/index.html)
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [23. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -540,7 +656,7 @@ git add --all && git commit --amend --no-edit
 
 *   [C++Now 2015 Presentations (⭐204)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
-## [20. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
@@ -557,7 +673,7 @@ git add --all && git commit --amend --no-edit
 
 *   [DCEVM](http://dcevm.github.io) - Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.
 
-## [21. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [25. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -593,7 +709,7 @@ git add --all && git commit --amend --no-edit
 
 
 
-## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Templating Engines / Runner
 

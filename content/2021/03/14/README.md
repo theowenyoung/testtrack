@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,6 +109,12 @@
 ### Catalyst
 
 *   [*Catalyst by Tutorials* By Marin Bencevic, Andy Pereira and Nick Bonatsakis](https://www.raywenderlich.com/books/catalyst-by-tutorials/v2.0)
+
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Other
+
+*   [DataToken (⭐17)](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
 
 ---
 

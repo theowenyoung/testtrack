@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2015
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,20 @@
 
 *   [Flexbox - CSS Day](https://vimeo.com/131664957)
 
-## [2. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Lauri Tervonen (⭐0)](https://github.com/mollikka/ama) - CS & SE university student in Finland.
+*   [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
+
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Matt Might <http://matt.might.net/articles/>
+
+## [4. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### General Tools
 
@@ -22,7 +35,7 @@
 
 *   Download it via youtube-dl and then convert it.
 
-## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [5. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Videos
 

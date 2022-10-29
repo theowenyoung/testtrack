@@ -146,6 +146,7 @@
 *   [cpp-project (⭐496)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
 
 ## [13. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@mikeal](https://github.com/mikeal), [request (⭐26k)](https://github.com/request/request/)
     *   "Request's Past, Present and Future" ([post (⭐26k)](https://github.com/request/request/issues/3142))
 

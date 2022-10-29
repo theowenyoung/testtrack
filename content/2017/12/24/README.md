@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,19 +24,25 @@
 
 *   [osquery](https://osquery.io/) - osquery is an instrumentation framework that expose the operating system as a high-performance relational database.
 
-## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** \[32:22]
+
+## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Web Frameworks
 
 *   [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Professional services
 
 *   [Seraro](http://www.seraro.com) - Agency.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / IDE
 

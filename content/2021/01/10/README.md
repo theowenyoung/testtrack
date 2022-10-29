@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -145,7 +145,13 @@
 *   [libGDX](https://libgdx.com) - All-round cross-platform, high-level framework.
 *   [Litiengine](https://litiengine.com/) - AWT-based, lightweight 2D game engine.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** \[36:35]
+
+## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Content Management Systems
 
@@ -159,7 +165,7 @@
 
 *   [Biological Visualizations (⭐97)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 
-## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Dialog
 

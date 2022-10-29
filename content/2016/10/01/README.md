@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,6 +62,12 @@ Webpage: N/A
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-data-visualization-sample :fire: (⭐172)](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
+
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 
 ---
 

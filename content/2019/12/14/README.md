@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,13 +37,24 @@
 
 *   [IUP (⭐116)](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/) Portable User Interface library (pre-ALPHA). IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
 
-## [6. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React Internals
+
+*   [Entire React code base explanation by visual block schemes (⭐5.1k)](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
+
+### React Tools / React Component Libraries
+
+*   [reakit (⭐6.3k)](https://github.com/reakit/reakit) - Accessible, Composable and Customizable components for React
+*   [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+
+## [7. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [Gilded Rose - Many languages (⭐2.5k)](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
-## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Tools / Collection View Layout
 

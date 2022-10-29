@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22 - Oct 28, 2018
 
-69 awesome lists updated this week.
+73 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,43 +55,56 @@
 
 *   HyphaROS ROS 2.0 Introduction [slides](https://drive.google.com/file/d/1MW_w7MS1DNg1EzhprgbJKY2cqmxksPaw/view)
 
-## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [5. Htaccess](/content/phanan/htaccess/week/README.md)
+
+### Security / Exclude URL from Redirection
+
+### Exclude URL from Redirection
+
+This snippet allows you to exclude a URL from redirection.  For example, if you have redirection rules setup but want to exclude robots.txt so search engines can access that URL as expected.
+
+```apacheconf
+RewriteEngine On
+RewriteRule ^robots.txt - [L]
+```
+
+## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tools/Utilities
 
 *   [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
-## [6. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [7. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Training Courses
 
 *   [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/) - Use DDD to decompose a problem domain into manageable parts. Learn how those parts can become the foundation of Reactive Microservices and Reactive Architecture. Free, online, self-paced. Certificate offered upon completion.
 
-## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [8. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### 3D Animation and Modeling Software
 
 *   [Autodesk Software](https://www.autodesk.com/education/free-software/featured) \[FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
 
-## [8. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [9. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Screencasting
 
 *   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐22k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
 
-## [9. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Lower Elementary
 
 *   [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced.
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [11. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Community / Other
 
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/electron)
 
-## [11. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [12. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
@@ -118,13 +131,13 @@
 *   [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
 *   [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 
-## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Books / Streaming
 
 *   [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask) - Data Science at Scale with Python and Dask teaches you how to build distributed data projects that can handle huge amounts of data.
 
-## [13. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [14. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -154,7 +167,7 @@
     *   [Syllabus](https://courses.cit.cornell.edu/physics4481-7681_2018fa/)
     *   [Lectures](https://courses.cit.cornell.edu/physics4481-7681_2018fa/)
 
-## [14. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [15. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -178,7 +191,7 @@
 
 *   [SHTAP](https://notimetoplay.org/engines/shtap/) - Reusable text adventure engine for Bash 4
 
-## [15. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [16. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -218,19 +231,19 @@
 
 
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Z (⭐15k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
 
-## [17. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Podcasts
 
 *   [Test and Code](https://testandcode.com/)
 
-## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [19. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Books
 
@@ -254,7 +267,7 @@
 *   [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution, 2012](https://pdfs.semanticscholar.org/488a/b1e313f5109153f2c74e3b5d86d41e9b4b71.pdf)
 *   [Call-Flow Aware API Fuzz Testing for Security of Windows Systems, 2008](https://www.computer.org/csdl/proceedings/iccsa/2008/3243/00/3243a019-abs.html)
 
-## [19. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [20. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Hooks
 
@@ -266,14 +279,20 @@
 *   [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 *   [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
-## [20. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
 *   [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
 
-## [21. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [22. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### data
+
+*   [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
+
+## [23. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Official resources
 
@@ -292,31 +311,31 @@
 
 *   [SaltConf](https://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
 
-## [22. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [24. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Graphics and image / OpenOffice
 
 *   [Photoshop CS5 (by karime1)](https://www.autoitscript.fr/forum/viewtopic.php?f=21\&t=9531) - a new UDF to Control Photoshop CS5 Obj using AutoIt.
 
-## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Community Chat Rooms
 
 *   [embedded-hal-mock](https://crates.io/crates/embedded-hal-mock) Mock implementation of `embedded-hal` traits for testing without accessing real hardware. - ![crates.io](https://img.shields.io/crates/v/embedded-hal-mock.svg)
 
-## [24. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [26. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Libre Franklin (⭐332)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 
-## [25. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [27. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Audio Visualizer (⭐22)](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 
-## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
@@ -326,7 +345,90 @@
 
 *   [Coach (⭐2.2k)](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel® AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
 
-## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [29. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Family
+
+### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
+
+> Build a Unicorn Army. Betray your friends. Unicorns are your friends now.
+
+![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 8 |       14 | 30-45m |
+
+### Strategy
+
+### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_\(board_game\))
+
+> A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
+
+![Game of thrones boardgame image](https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__itemrep/img/ZdvVWyy_BWv4QMZ7x1bxYGU0DE0=/fit-in/246x300/filters:strip_icc\(\)/pic1077906.jpg)
+
+| Players | Min. Age |     Time |
+| ------: | -------: | -------: |
+|   3 - 6 |       12 | 180-360m |
+### [YINSH](https://en.wikipedia.org/wiki/YINSH)
+
+> Players start with five rings on the board. First player to remove 3 rings becomes the winner. Every time a ring is moved, it leaves a marker behind. Markers are white on one side and black on the other, and each time they are jumped they must be flipped. Once a player forms a row of 5 markers of their color, they can remove a ring. The challenge is each row you make brings you closer to victory-but also makes you weaker, because you have one fewer ring to play with.
+
+![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |        9 | 30-60m |
+### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
+
+> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
+
+![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 8 |       12 | 90-120m |
+### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
+
+> Anachrony is a competitive Euro-style strategy game set in a post-apocalyptic world rebuilt along four different ideological Paths. The game is played through a series of turns called Eras, with past ones reachable through time travel later in the game. Players assume the roles of iconic leaders of the four Paths, striving not only for the supremacy and well-being of their people, but also their survival. After the fourth Era, an asteroid impact shakes Earth, threatening to destroy the World Capital, Earth’s last independent city. The Paths should prepare for the coming cataclysm, and when the time comes, take their part in evacuating the collapsing Capital. In the end, one of the Paths will be the new home to the reformed World Council, and lead humanity into a new future.
+
+![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 4 |       15 | 30-120m |
+### [Clockwork Wars](https://boardgamegeek.com/boardgame/139952/clockwork-wars)
+
+> In Clockwork Wars each player commands a unique race of creatures in a tense war game set in a fantasy-steampunk universe. Take control of the calculating Purebreeds, the industrious Troglodytes, the mighty Rhinochs, or the proud Mongrels. Your goal is to vanquish your foes and accumulate the most victory points through nine turns of play. You earn points by fighting for control of territories that contain valuable natural resources. To win these battles, you need manpower gained by seizing villages and developing them into cities. Invest in research and discover astonishing new technologies, position your troops, research powerful discoveries, employ espionage, and conquer your enemies to win the game!
+
+![Clockwork Wars game image](https://cf.geekdo-images.com/hqnGEUQvqBevvs6vmA_N8Q__itemrep/img/YBF6w9nWSsasYnzP_mQ4drM02-g=/fit-in/246x300/filters:strip_icc\(\)/pic2355823.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |       13 | 90-120m |
+### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_\(board_game\))
+
+> Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
+
+![Carcassonne game image](https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc\(\)/pic2337577.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 30-90m |
+
+### Party
+
+### [Munchkin](http://www.worldofmunchkin.com/game/)
+
+> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+
+![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   3 - 6 |       10 | 60-120m |
+
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -336,13 +438,13 @@
 
 *   [Keyboard Visibility Event (⭐15)](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 
-## [28. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [snowboy2mqtt (⭐6)](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
 
-## [29. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [32. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
@@ -354,13 +456,13 @@
 
     A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
 
-## [30. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Drivers
 
 *   [mrpierrot/cycle-net ★0 (⭐2)](https://github.com/mrpierrot/cycle-net) - A Cycle.js driver for Node.js HTTP(S)/WS(S)/Socket.io server
 
-## [31. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [34. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
@@ -370,13 +472,13 @@
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
-## [32. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [35. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 
-## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -396,7 +498,7 @@
 *   [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 *   [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
-## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Web / Other / unknown licence
 
@@ -410,19 +512,19 @@
 
 *   [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 
-## [35. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [38. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Learning and MOOCs
 
 *   [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/\~goldbe/projects/eclipseEth.pdf)
 
-## [36. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [39. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Presentations
 
 *   [gitpitch (⭐5.4k)](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
 
-## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -440,13 +542,13 @@
 
 *   [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 
-## [38. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles about Data
 
 *   [Creating a Default Record When a belongsTo Request Errors](https://shipshape.io/blog/ember-data-belongs-to-find-or-create/)
 
-## [39. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Non-deterministic, logic programming
 
@@ -461,7 +563,7 @@
 
 *   [clavier (⭐16)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [40. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -472,37 +574,97 @@
 
 *   [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
-## [41. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [44. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Ukraine 🇺🇦
+
+### Kyiv
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh" height="70px" width="70px" align="left" alt="" />
+
+**Aleksey Shvayka**\
+Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk\
+[https://twitter.com/shvaikalesh\_](https://twitter.com/shvaikalesh)
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/listochkin" height="70px" width="70px" align="left" alt="" />
+
+**Andrey Listochkin**\
+Topics: Rust, JavaScript, Skills, Architecture\
+<https://twitter.com/listochkin>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eagleeye_s" height="70px" width="70px" align="left" alt="" />
+
+**Andrii Shumada**\
+Topics: JavaScript, Node.js, Streams\
+<https://twitter.com/eagleeye_s>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/SilentImp" height="70px" width="70px" align="left" alt="" />
+
+**Anton Nemtsev**\
+Topics: HTML, CSS, Web Standards\
+<https://twitter.com/SilentImp>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yavorsky_" height="70px" width="70px" align="left" alt="" />
+
+**Artem Yavorsky**\
+Topics: Babel, ECMAScript, Compilers\
+<https://twitter.com/yavorsky_>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/roman01la" height="70px" width="70px" align="left" alt="" />
+
+**Roman Liutikov**\
+Topics: ClojureScript, React, Compilers\
+<https://twitter.com/roman01la>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tshemsedinov" height="70px" width="70px" align="left" alt="" />
+
+**Timur Shemsedinov**\
+Topics: Node.js, Programming, JavaScript, Highload\
+<https://twitter.com/tshemsedinov>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mourner" height="70px" width="70px" align="left" alt="" />
+
+**Vladimir Agafonkin**\
+Topics: Maps, Algorithms\
+<https://twitter.com/mourner>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/akella" height="70px" width="70px" align="left" alt="" />
+
+**Yuri Artyukh**\
+Topics: HTML, CSS, JavaScript, WebGL\
+<https://twitter.com/akella>
+
+## [45. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Boxes
 
 *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
-## [42. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [46. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [3Box](https://3box.io) - Create and manage your Ethereum Profile, and your personal data. Use the 3box-js library to integrate profiles into your dapp. [Source (⭐416)](https://github.com/uport-project/3box)
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Regular Expression
 
 *   [CTRE (⭐2.5k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
-## [44. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [48. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Ruby / Scala
 
 *   [Grape (⭐9.6k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
-## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-mdx-blog (⭐68)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -516,19 +678,19 @@
 
 *   [RazorLight (⭐1.3k)](https://github.com/toddams/RazorLight) - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
 
-## [47. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [51. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Misc
 
 *   [ruia (⭐1.6k)](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
 
-## [48. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [52. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Related projects
 
 *   [Mutton (⭐16)](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
 
-## [49. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [53. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -544,7 +706,7 @@
 *   [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 *   [Sider](https://sider.review/) Automated code review service for GitHub.
 
-## [50. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [54. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -559,7 +721,7 @@
 
 *   [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 
-## [51. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [55. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Media
 
@@ -569,13 +731,13 @@
 
 *   [Sharpnado.Presentation.Forms ★28 (⭐607)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
 
-## [52. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [56. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Security
 
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 
-## [53. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [57. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
@@ -585,19 +747,19 @@
 
 *   [securitybuilder (⭐44)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
 
-## [54. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [58. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
 *   [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
-## [55. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [59. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [spring-projects/aws-maven :fire::fire: (⭐216)](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3.
 
-## [56. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [60. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -615,13 +777,13 @@
 
 *   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐139)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
-## [57. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [61. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Application Hosting / Third-party Service Integration
 
 *   [RunCloud](https://runcloud.io/)
 
-## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [62. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -658,7 +820,7 @@
 
 *   [OnboardKit (⭐461)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
-## [59. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [63. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
@@ -697,7 +859,7 @@
 
 *   [MongoModel (⭐40)](https://github.com/spohlenz/mongomodel) - Ruby ODM for interfacing with MongoDB databases.
 
-## [60. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [64. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -729,7 +891,7 @@
 *   [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 *   [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
-## [61. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [65. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
@@ -740,13 +902,13 @@
 *   [Dan Docs](https://shonumi.github.io/dandocs.html) - Obscure Game Boy hardware documentation.
 *   [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 
-## [62. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [66. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Books
 
 *   [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
-## [63. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [67. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -890,19 +1052,19 @@
 
 *   [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
 
-## [64. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [68. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Lorem Ipsum (⭐39)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
-## [65. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [69. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
 *   [Mixin (⭐1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
-## [66. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [70. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -917,7 +1079,7 @@
 *   [pgbadger (⭐2.8k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 *   [sqlcheck (⭐2.2k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
-## [67. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [71. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -972,7 +1134,7 @@
 
 *   [nano (⭐414)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 
-## [68. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [72. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
@@ -980,7 +1142,7 @@
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 *   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
-## [69. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [73. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 

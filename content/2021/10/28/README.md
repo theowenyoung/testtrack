@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,7 +50,15 @@
 
 *   [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) (October, 2021)
 
-## [6. Julia.jl](/content/svaksha/Julia.jl/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Native Apps (open source)
+
+*   OneBusAway Apps - [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-ios), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK (⭐422)](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
+*   [Trufi App (⭐1)](https://github.com/trufi-association/trufi-app) - A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [MACS Transit Android App (⭐8)](https://github.com/yeSpud/MACSTransitApp) - A bus tracker app for Android devices for the MACS Transit system in Fairbanks, Alaska. Uses RouteMatch APIs.
+
+## [7. Julia.jl](/content/svaksha/Julia.jl/README.md)
 
 ### Guidelines
 
@@ -64,20 +72,20 @@
 
 *   Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it via a BR (not a PR ;-)).
 
-## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [PyDMD (⭐509)](https://github.com/mathLab/PyDMD) - Dynamic Mode Decomposition (DMD) in Python.
     (Python, MIT, GitHub)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-persistedstate (⭐12)](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
 
-## [9. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [10. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Open Source / Casual
 
@@ -91,7 +99,7 @@
 
 *   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐64)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -175,13 +183,13 @@
 
 *   [gennaro-tedesco/boilit (⭐50)](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure for Neovim plugins.
 
-## [11. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [12. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### VLC native plugins
 
 *   [vlc-win10smtc (⭐8)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Compression
 
@@ -191,7 +199,7 @@
 
 *   [vl53l5cx (⭐3)](https://github.com/mp-extras/vl53l5cx) - MicroPython and CircuitPython Package for the [VL53L5CX](https://www.st.com/en/imaging-and-photonics-solutions/vl53l5cx.html) (4x4/8x8 ToF sensor array).
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -391,7 +399,7 @@
 
 
 
-## [14. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [15. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Metaverse
 
@@ -405,7 +413,7 @@
 
 *   [GOODJOBS](https://goodjobs.careers/) - A job board with hand-picked engineering positions at companies trying to fix problems like climate-change and food insecurity
 
-## [15. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [16. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Videos
 

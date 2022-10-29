@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09, 2016
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,25 @@
 
 *   [Fuse Pokedex (⭐6)](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 
-## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Michael Novotny (⭐2)](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
+
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / R companies
+
+*   RoseHosting <https://www.rosehosting.com/blog/>
+
+## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 
-## [4. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [6. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Art & Design
 
@@ -43,7 +55,7 @@
 *   [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 *   [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 
-## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Other / Event listeners for fonts loading on a web page
 

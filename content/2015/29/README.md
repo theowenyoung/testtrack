@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20 - Jul 26, 2015
 
-29 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,26 +96,90 @@
 *   [Exploring CSS Layout Techniques While Trying To Get a Subtitle to Wrap](https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/)
 *   [Flexbox - CSS Day](https://vimeo.com/131664957)
 
-## [11. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [11. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### Icons, Fonts and Colors
+
+*   [material-design-icons (⭐47k)](https://github.com/google/material-design-icons) — Material Design icons by Google.
+*   [material-design-iconic-font (⭐1.4k)](https://github.com/zavoloklom/material-design-iconic-font) — Material Design Iconic Font and CSS toolkit.
+*   [material-design-fonticons (⭐74)](https://github.com/designjockey/material-design-fonticons) — Material Design Fonticons is a font converted version of the Google Material Design Icon set.
+*   [material-colors (⭐265)](https://github.com/shuhei/material-colors) — Colors of Google's Material Design made available to coders.
+*   [material-color (⭐134)](https://github.com/mrmlnc/material-color) — The colour palette, based on Google's Material Design, for use in your project.
+*   [LESS-Material-design-colors](https://github.com/tisign/LESS-Material-design-colors) — A .less file with al the Google material design colors.
+*   [sass-material-colors (⭐131)](https://github.com/minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project.
+*   [Google-Material-Design-Font-Icon (⭐5)](https://github.com/Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
+
+### Components
+
+*   [SVG-Morpheus (⭐2.7k)](https://github.com/alexk111/SVG-Morpheus) — JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
+*   [Material-Design-ColorPicker (⭐11)](https://github.com/Fraina/Material-Design-ColorPicker) — A Material Design Color Picker.
+*   [material-design-color-palette (⭐170)](https://github.com/zavoloklom/material-design-color-palette) — Material Design Color Palette: LESS/CSS toolkit.
+*   [md-date-time (⭐174)](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
+*   [ng-material-floating-button (⭐468)](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
+
+### CSS
+
+*   [Surface (⭐347)](https://github.com/mildrenben/surface) — A lightweight, CSS only framework based on Material Design.
+*   [material-ui (⭐82k)](https://github.com/callemall/material-ui) — A CSS Framework and a Set of React Components that Implement Google's Material Design.
+*   [bootstrap-material-design (⭐22)](https://github.com/FezVrasta/bootstrap-material-design) — Material design theme for Bootstrap 3.
+*   [materialize (⭐39k)](https://github.com/Dogfalo/materialize) — Materialize, a CSS Framework based on Material Design.
+*   [materialBootstrap (⭐69)](https://github.com/throrin19/materialBootstrap) — Twitter Bootstrap theme for Google material design.
+*   [material-playground (⭐256)](https://github.com/ebidel/material-playground) — Polymer material design playground.
+*   [material-framework (⭐388)](https://github.com/nt1m/material-framework) — An easy to use material design based framework.
+
+### JS
+
+*   [ember-paper (⭐879)](https://github.com/miguelcobain/ember-paper) — The Ember approach to Material Design.
+*   [material-design-lite (⭐32k)](https://github.com/google/material-design-lite/) — Material Design Lite Components in HTML/CSS/JS.
+
+### SASS
+
+*   [google-material-design (⭐16)](https://github.com/axyz/google-material-design) — Small SASS library inspired by google material design guidelines.
+
+### WordPress
+
+*   [MaterialPress (⭐107)](https://github.com/alexpatin/MaterialPress) — MaterialPress is a WordPress theme, influenced heavily by Google's Material Design philosophy.
+*   [materialwp (⭐460)](https://github.com/braginteractive/materialwp) — Material Design WordPress Theme.
+
+### Other
+
+*   [material-color-scheme (⭐70)](https://github.com/paradox41/material-color-scheme) — Sublime Text syntax theme based off the Material Design color palette.
+*   [framaterial (⭐42)](https://github.com/Framaterial/framaterial) — A Framework to create Material Design projects.
+*   [Material Design Templates](http://themeforest.net/tags/material%20design) — Various material design inspired themes and templates on ThemeForest.
+*   [Material Palette](http://www.materialpalette.com/) — Choose your favorite colors and generate your Material Design palette.
+*   [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
+
+## [12. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Mobile / Resources-websites-projects
 
 *   [NativeScript](https://www.nativescript.org/)
 
-## [12. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [13. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Examples and boilerplates
 
 *   [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
 
-## [13. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Matt Might <http://matt.might.net/articles/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Petr Mitrichev <http://petr-mitrichev.blogspot.com/>
+*   Piotr Wittchen <http://blog.wittchen.biz.pl/>
+
+## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Prometheus
 
 *   [Prometheus.io (⭐45k)](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
 *   [HAProxy Exporter (⭐578)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
-## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
@@ -167,13 +231,14 @@
 
 *   [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
 
-## [15. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [17. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### DevOps Tools / NoSQL Databases
 
 *   [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
-## [16. Tips](/content/git-tips/tips/week/README.md)
+## [18. Tips](/content/git-tips/tips/week/README.md)
+
 ## git-tips
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
@@ -288,7 +353,7 @@ git config --global core.autocrlf false
 
 <!-- @doxie.inject end -->
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
@@ -298,7 +363,7 @@ git config --global core.autocrlf false
 
 *   [cpr (⭐5k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://whoshuu.github.io/cpr/)
 
-## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -308,7 +373,7 @@ git config --global core.autocrlf false
 
 *   [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - Notícias sobre as novidades do PHP para desenvolvedores experientes e iniciantes.
 
-## [19. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [21. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -324,39 +389,39 @@ git config --global core.autocrlf false
 
 *   [Instant-ish Real Service Architecture](https://vimeo.com/37930578)
 
-## [20. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [22. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### File System Utilities
 
 *   [Groovy-Vfs (⭐63)](https://github.com/ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
 *   [Directree (⭐11)](https://github.com/kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
-## [21. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Online Courses
 
 *   [Cornell University – Data Structures and Functional Programming](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php).
 
-## [22. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 
-## [23. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [25. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Development APIs / File
 
 *   [File system API](http://www.w3.org/TR/file-system-api/)
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Podcasts / Other
 
 *   [willianjusten/awesome-svg (⭐4.4k)](https://github.com/willianjusten/awesome-svg)
 *   [davidsonfellipe/awesome-wpo (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo)
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
@@ -366,19 +431,19 @@ git config --global core.autocrlf false
 
 *   [Shouldly (⭐1.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
-## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [28. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Git / Extensions
 
 *   [git-semver (⭐350)](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 
-## [27. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [29. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns) - Presentation by [Nick Johnstone](https://twitter.com/widdnz)
 
-## [28. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [30. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Talks
 
@@ -396,7 +461,7 @@ git config --global core.autocrlf false
 *   [OpenGL Tutorial](http://www.opengl-tutorial.org) by **Bonder Wu**
 *   [OpenGL Tutorial](http://www.songho.ca/opengl) by **Song Ho Ahn**
 
-## [29. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [31. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Programming Languages / CSS
 
@@ -409,6 +474,18 @@ git config --global core.autocrlf false
 ### Programming Languages / Forth
 
 *   Thinking Forth Project Thinking Forth Project ([PDF](http://www.dnd.utwente.nl/\~tim/colorforth/Leo-Brodie/thinking-forth.pdf), cc-nc-sa)
+
+## [32. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Benny Thomas (⭐0)](https://github.com/virtueme/ama/) - Full stack developer caring about children reading.
+*   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
+*   [Matthew Mueller (⭐3)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
+*   [Hugo Giraudel (⭐42)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
+*   [Will Binns-Smith (⭐0)](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
+*   [Lauri Tervonen (⭐0)](https://github.com/mollikka/ama) - CS & SE university student in Finland.
+*   [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
 
 ---
 

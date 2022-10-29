@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2021
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,51 @@
 
 *   [Strawberry GraphQL (⭐2.7k)](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses.
 
-## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [SimpleX chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+
+## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [BoxCam2D (⭐11)](https://github.com/samdaiya/BoxCam2D) - Simplest way to implement grid-based 2D camera movement (Godot 3.x).
 
-## [3. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [4. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [FAE (⭐799)](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Axis & Allies](https://en.wikipedia.org/wiki/Axis_%26_Allies)
+
+> Played on a board depicting a Spring 1942 political map of Earth divided by territories, players take the role of one or more of the five major belligerents of World War II: the Axis powers of Germany and Japan; and the Allied powers of the Soviet Union, the United Kingdom, and the United States. Turn rotates among these belligerents, who control armies of playing pieces with which they attempt to capture enemy territories, with results determined by dice rolls.
+
+![Axis & Allies image](https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc\(\)/pic24006.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |       12 | 180m |
+
+### Party
+
+### [Scrabble](https://boardgamegeek.com/boardgame/320/scrabble)
+
+> In this classic word game, players use their seven drawn letter-tiles to form words on the gameboard. Each word laid out earns points based on the commonality of the letters used, with certain board spaces giving bonuses. But a word can only be played if it uses at least one already-played tile or adds to an already-played word. This leads to slightly tactical play, as potential words are rejected because they would give an opponent too much access to the better bonus spaces.
+
+![Scrabble image](https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__itemrep/img/xtiNZzN_7T6xZ3EPxzgYcBz9Ydk=/fit-in/246x300/filters:strip_icc\(\)/pic404651.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |      10+ |  90m |
+
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -34,33 +66,33 @@
 
 *   [dcampos/nvim-snippy (⭐125)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.4k)](https://github.com/honza/vim-snippets).
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [dkimvalidator.com](https://dkimvalidator.com/) - Test if email's dns/spf/dkim/dmarc settings are correct, free service by roundsphere.com
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Text editors
 
 *   [ilai-deutel/kibi (⭐844)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
-## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
 *   [Urban Informatics & Visualization-Berkeley (⭐216)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Heart\_Disease-Prediction (⭐0)](https://github.com/ShivamChoudhary17/Heart_Disease) - Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 *   [Flight Fare Prediction (⭐0)](https://github.com/ShivamChoudhary17/Flight_Fare_Prediction) - This basically to gauge the understanding of Machine Learning Workflow and Regression technique in specific.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 

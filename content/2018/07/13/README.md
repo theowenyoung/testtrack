@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,19 @@
 
 *   [Gravitee.io](https://gravitee.io) - An OSS API Platform including an API Gateway and an OAuth2 / OIDC authorization server based on Vert.x Core / Vert.x Web and other modules.
 
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [3. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### Components
+
+*   [DevExtreme Reactive](https://devexpress.github.io/devextreme-reactive/react) - High-performance plugin-based React components for Material Design.
+
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / React
 
 *   [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 
-## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### SSRF - Server-Side Request Forgery
 
@@ -34,7 +40,7 @@
 
 *   [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa) - Written by [Wallarm](https://wallarm.com/).
 
-## [5. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Resources / Books
 

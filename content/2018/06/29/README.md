@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 29, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,20 +61,34 @@
 
     BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
-## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / B companies
+
+*   Baidu Research <http://research.baidu.com/Blog>
+
+### Individuals/Group Contributors / \# individuals
+
+*   0xADADA <https://0xadada.pub/>
+
+### Products/Technologies / R technologies
+
+*   Red <http://www.red-lang.org>
+
+## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Sweet.apex (⭐43)](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
-## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [9. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-bootstrap-plugins (⭐46)](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) \* A set of plugins to bridge with 3rd party Bootstrap addons - [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
 *   [aurelia-slickgrid (⭐116)](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / ORM
 

@@ -39,6 +39,7 @@
 *   [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack)
 
 ## [3. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@indexzero](https://github.com/indexzero), [winston](https://github.com/winston)
     *   "Keeping Important Code Alive" ([slides](https://speakerdeck.com/indexzero/keeping-important-code-alive-seattlejs-march-2015))
     *   "Modernizing winston for node\@4" ([video](https://www.youtube.com/watch?v=uPw7QIx3JZM), [slides](https://speakerdeck.com/indexzero/modernizing-winston-for-node-at-4))

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,26 +59,32 @@
 
 *   [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## [9. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Ale Muñoz (⭐1)](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
+
+## [10. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 
 ### Bundle Analyzers
 
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
 *   [crisp-react (⭐154)](https://github.com/winwiz1/crisp-react) - Express integration in TypeScript with support for multiple SPAs and pitfall avoidance.
 
-## [11. Awesome Python](/content/vinta/awesome-python/README.md)
+## [12. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Date and Time
 
 *   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 
-## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [13. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Fiction / Fantasy
 
@@ -110,7 +116,7 @@
 
 
 
-## [13. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [14. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / DDoS Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04, 2020
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,67 +22,85 @@
 
 *   [Homematic Blog Lison](https://homematic-blog.lison.ch/) - Blog, Tutorials und mehr..
 
-## [3. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### National government datasets
+
+*   [European long-distance transport operators (EU) *(Unofficial)* (⭐46)](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
+
+### Proprietary (non-standard) vendor APIs
+
+*   [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
+
+### GTFS Libraries / JavaScript
+
+*   [gtfs-utils (⭐22)](https://github.com/public-transport/gtfs-utils) – Utilities to process GTFS data sets (e.g., "flattening" `calendar.txt` & `calendar_dates.txt`, computing arrival/departure times of trips).
+
+### GTFS Realtime Convertors / Ruby
+
+*   [hafas-gtfs-rt-feed (⭐6)](https://github.com/derhuerst/hafas-gtfs-rt-feed) – A Javascript tool to generate a GTFS Realtime feed from a HAFAS endpoint.
+
+## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Misc
 
 *   [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - Help / mentorship for open source contributors.
 
-## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Articles / Architecture
 
 *   [A deep analysis into isomorphic, autonomous cross-framework usage #MicroFrontends](https://itnext.io/a-deep-analysis-into-isomorphic-autonomous-cross-framework-usage-microfrontends-364271dc5fa9)
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Web Frameworks
 
 *   [Pakyow](https://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
 *   [stdgpu (⭐750)](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. \[Apache2]
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Note-taking & Editors
 
 *   [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code (⭐156)](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Others
 
 *   [GEmojiSharp.Blazor (⭐27)](https://github.com/hlaueriksson/GEmojiSharp) - ![last commit](https://img.shields.io/github/last-commit/hlaueriksson/GEmojiSharp?style=flat-square\&cacheSeconds=86400) GitHub Emoji for Blazor ([Demo](https://hlaueriksson.github.io/GEmojiSharp/)).
 
-## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Game Development
 
 *   [*Dive Into SpriteKit* by Paul Hudson](https://www.hackingwithswift.com/store/dive-into-spritekit)
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [MiniGrad (⭐76)](https://github.com/kennysong/minigrad) – A minimal, educational, Pythonic implementation of autograd (\~100 loc).
 
-## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Ecosystem
 
 *   [Webots](https://cyberbotics.com) - Robot simulator for ROS 2. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Books / Automation
 
 *   [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino
 
-## [13. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+## [14. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 
 ### Bookmarklets
 
@@ -215,6 +233,22 @@
 *   [DevStickers](http://devstickers.com/)
 *   [DevSwag](http://devswag.com/)
 *   [StickerMule](https://www.stickermule.com/marketplace/collections/open-source-stickers/)
+
+## [15. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Computer Science
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/computer_science.webp">
+
+[**Computer Science**](https://discord.com/invite/eF3Wjsd) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+Notable Channels: `#computer-science`, `#resources`, `#algorithms-and-data-structures`,`#theory-of-computation`, `#information-and-coding-theory`, `#cryptography`, `#artificial-intelligence` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cs50.webp">
+
+[**cs50**](https://discord.com/invite/QYZQfZ6) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.edx.org/course/cs50s-introduction-to-computer-science) \
+Notable Channels: `#lectures`, `#scratch`, `#hello`,`#mario`, `#cash`, `#credit`, `#readability`, `#caesar`, `#substitution`, `#plurality`, `#runoff`, `#tideman`, `#c-to-python-sentimental`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
 
 ---
 

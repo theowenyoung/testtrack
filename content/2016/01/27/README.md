@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [Trumbowyg (⭐3.8k)](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Seth Alexander (⭐0)](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -35,7 +41,7 @@
 
 *   [ex\_unit\_fixtures (⭐11)](https://github.com/obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 
-## [5. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
+## [6. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
 ### General
 
@@ -47,7 +53,7 @@
 
 *   [Marionette Form View (⭐78)](https://github.com/viverae/marionette.formview)
 
-## [6. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Natural Language Processing
 
@@ -62,14 +68,14 @@
 
 *   [git2r (⭐190)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
-## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Salesforce ReactJS SPA Starter (⭐16)](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 *   [ForceSpinner (⭐8)](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
-## [8. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [9. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Videos
 
@@ -103,13 +109,13 @@
 *   [The biggest pitfalls of OKRs and how to avoid them](https://www.atiim.com/blog/the-biggest-pitfalls-of-okrs-and-how-to-avoid-them/): Some common issues while adopting OKRs
 *   [This Is The Internal Grading System Google Uses For Its Employees — And You Should Use It Too](http://www.businessinsider.com/googles-ranking-system-okr-2014-1?IR=T): Another article from Business Insider regarding OKR and great insights from the Kris Klau talk at Google
 
-## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
 *   [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 
-## [10. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Mocking / Symfony2
 

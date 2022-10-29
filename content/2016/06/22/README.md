@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,14 +42,25 @@
 
 *   [mhart/react-server-routing-example :fire::fire: (⭐300)](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
-## [7. Tips](/content/git-tips/tips/README.md)
+## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Journals
+
+*   [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai)
+
+### Competitions
+
+*   [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
+
+## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Interactive staging.
 
 ```sh
 git add -i
 ```
 
-## [8. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [9. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Resources / Projects Using Spark
 
@@ -59,7 +70,7 @@ git add -i
 
 *   [sequenceiq/docker-spark (⭐767)](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
-## [9. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09, 2015
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,13 @@
 
 *   [Pragmatic Segmenter (⭐503)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by **Daniel Spiewak** \[39:24]
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Eventhandling
 
@@ -41,7 +47,74 @@
 
 *   [http (⭐11)](https://github.com/slogsdon/http) - HTTP server for Elixir.
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Htaccess](/content/phanan/htaccess/README.md)
+
+### Rewrite and Redirection / Force HTTPS Behind a Proxy
+
+### Force HTTPS Behind a Proxy
+
+Useful if you have a proxy in front of your server performing TLS termination.
+
+```apacheconf
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+```
+
+### Rewrite and Redirection / Alias a Single Directory
+
+### Alias a Single Directory
+
+```apacheconf
+RewriteEngine On
+RewriteRule ^source-directory/(.*) /target-directory/$1 [R=301,L]
+```
+
+### Rewrite and Redirection / Alias “Clean” URLs
+
+### Alias “Clean” URLs
+
+This snippet lets you use “clean” URLs -- those without a PHP extension, e.g. `example.com/users` instead of `example.com/users.php`.
+
+```apacheconf
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([^.]+)$ $1.php [NC,L]
+```
+
+[Source](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
+
+### Security / Deny Access to Hidden Files and Directories
+
+### Deny Access to Hidden Files and Directories
+
+Hidden files and directories (those whose names start with a dot `.`) should most, if not all, of the time be secured. For example: `.htaccess`, `.htpasswd`, `.git`, `.hg`...
+
+```apacheconf
+RewriteCond %{SCRIPT_FILENAME} -d [OR]
+RewriteCond %{SCRIPT_FILENAME} -f
+RewriteRule "(^|/)\." - [F]
+```
+
+Alternatively, you can just raise a “Not Found” error, giving the attacker no clue:
+
+```apacheconf
+RedirectMatch 404 /\..*$
+```
+
+### Miscellaneous / Switch to Another PHP Version
+
+### Switch to Another PHP Version
+
+If you’re on a shared host, chances are there are more than one version of PHP installed, and sometimes you want a specific version for your website. The following snippet should switch the PHP version for you.
+
+```apacheconf
+AddHandler application/x-httpd-php56 .php
+
+# Alternatively, you can use AddType
+AddType application/x-httpd-php56 .php
+```
+
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 

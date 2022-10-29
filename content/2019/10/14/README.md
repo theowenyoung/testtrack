@@ -1,12 +1,26 @@
 # Awesome List Updates on Oct 14, 2019
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [1. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_\(card_game\))
+
+> Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
+
+![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       10 |  20m |
+
+## [2. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Converters
 
@@ -40,13 +54,13 @@
 
 *   [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 
-## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [3. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Uncategorised
 
 *   [Beaker Browser](https://beakerbrowser.com/) an experimental browser for exploring the p2p web.
 
-## [3. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [4. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
@@ -56,13 +70,13 @@
 
 *   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
-## [4. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [5. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 
 *   [The Beverages Prices Refactoring Kata (⭐1)](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -84,19 +98,19 @@
 
 *   [Open Event Server (⭐2.9k)](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`
 
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Search
 
 *   [Laravel-Searchy (⭐535)](https://github.com/TomLingham/Laravel-Searchy) - Fuzzy search, basic string matching, Levenshtein Distance
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI / Loading Images
 
 *   [Coil (⭐8.6k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Algorithm
 
@@ -106,26 +120,26 @@
 
 *   [SwiftFormat (⭐6.2k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 
-## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
 *   [RocketSkill App iOS Interview Questions (⭐13)](https://github.com/mindash/iOS-structured-interview)
 
-## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Performance Testing / Mobile Apps
 
 *   [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
 
-## [11. Awesome Math](/content/rossant/awesome-math/README.md)
+## [12. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
 *   [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
 *   [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) - Per Martin-Lof
 
-## [12. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Water
 
@@ -145,7 +159,7 @@
 
     They believe in optimizing the energy consumption without compromising with the convenience and then neutralizing the remaining energy requirement. Their vision is to provide accessibility to affordable power derived from renewable resources, free of geographic and transmission constraints.
 
-## [13. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [14. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Wargames
 
@@ -157,13 +171,13 @@
 
 *   [HackThisSite (⭐216)](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
 
-## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [crie (⭐12)](https://github.com/c910335/crie) - Compile-time Trie
 
-## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -174,7 +188,7 @@
 *   [Automatically add Label or Assignee to an Issue (⭐56)](https://github.com/Naturalclar/issue-action)
 *   [Action to send LGTM reaction as image or GIF when we say lgtm (⭐59)](https://github.com/micnncim/action-lgtm-reaction)
 
-## [16. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [17. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / IDE
 

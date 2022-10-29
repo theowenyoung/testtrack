@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24 - Dec 30, 2018
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -199,7 +199,37 @@
 *   [MetaDefender Threat Intelligence Feed](https://www.opswat.com/developers/threat-intelligence-feed) -
     List of the most looked up file hashes from MetaDefender Cloud.
 
-## [22. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [22. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Russia 🇷🇺
+
+### Moscow
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nikitonsky" height="70px" width="70px" align="left" alt="" />
+
+**Nikita Prokopov**\
+Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
+<https://twitter.com/nikitonsky>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/elixir_lang_mos" height="70px" width="70px" align="left" alt="" />
+
+**Nikita Sobolev**\
+Topics: Elixir, Python, JavaScript, Management, RSDP\
+<https://twitter.com/elixir_lang_mos>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ai_boy" height="70px" width="70px" align="left" alt="" />
+
+**Oleksii Okhrymenko**\
+Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
+<https://twitter.com/ai_boy>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chicoxyzzy" height="70px" width="70px" align="left" alt="" />
+
+**Sergey Rubanov**\
+Topics: Standards, Web Assembly\
+<https://twitter.com/chicoxyzzy>
+
+## [23. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Bug Reporting
 
@@ -209,7 +239,7 @@
 
 *   [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 
-## [23. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [24. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Resources
 
@@ -227,32 +257,32 @@
 
 *   [utf8proc (⭐828)](https://github.com/JuliaStrings/utf8proc) - Small, clean library for processing UTF-8 Unicode data. [`License`](https://github.com/JuliaStrings/utf8proc/blob/master/LICENSE.md)
 
-## [24. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [25. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Cheat Sheets / Hylomorphisms in the Wild
 
 *   [The Hitchhiker's Guide to Morphisms](https://ipfs.io/ipfs/QmTppu1VDAQWsdiyVSZX6qb8PErdpwzNP2oKfEhcgaBvWR/guide-to-morphisms.pdf) - Overview of different morphisms including a printable PDF.
 
-## [25. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [26. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Swift programming / iOS
 
 *   [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
-## [26. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Spread Some Holiday Cheer Using Appium](https://appiumpro.com/editions/49)
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Accompanying Repos
 
 *   [aws-arch-backoff-simulator :fire: (⭐214)](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
 
-## [28. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [29. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### List of Lists
 
@@ -1075,19 +1105,19 @@
 
 
 
-## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
 *   [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why.
 
-## [30. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [31. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
 *   [rgbds-mode (⭐3)](https://github.com/japanoise/rgbds-mode) - Emacs major mode for RGBDS assembly.
 
-## [31. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [32. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Analysis
 
@@ -1220,20 +1250,20 @@
 
 *   [SQL-exercise (⭐1.1k)](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Community / Workflow
 
 *   [ASP.NET](https://forums.asp.net)
 *   [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
 
-## [33. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [34. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-opn (⭐34)](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
@@ -1243,20 +1273,20 @@
 
 *   [nanopb (⭐3.2k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
-## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Testing
 
 *   [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 
-## [36. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [37. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [Luke Singham](https://lukesingham.com/)
 *   [Pascal Bugnion](https://pascalbugnion.net)
 
-## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Tutorial
 
@@ -1284,7 +1314,7 @@
 
 *   [History Of Everything (⭐6.2k)](https://github.com/2d-inc/HistoryOfEverything) <!--stargazers:2d-inc/HistoryOfEverything--> - Animated vertical timeline of humanity by [2D, Inc](https://www.2dimensions.com/)
 
-## [38. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [39. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Cloud Computing
 
@@ -1294,20 +1324,20 @@
 
 *   [CoreDNS](https://coredns.io/) - Flexible DNS server written on Go.
 
-## [39. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [40. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
 *   [Tortoise ORM (⭐3.2k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
-## [40. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [41. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [Serverless.com](http://serverless.com) - Serverless.com homepage.
 *   [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 

@@ -1,25 +1,31 @@
 # Awesome List Updates on May 22 - May 28, 2017
 
-42 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [1. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Image compression
+
+*   [Trimage](https://trimage.org)
+
+## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [HelloIoT (⭐94)](https://github.com/adrianromero/helloiot) - HelloIoT is a MQTT client and dashboard application.
 
-## [2. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [3. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 
 *   [Bootstrap-sass (⭐13k)](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
 *   [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 
-## [3. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [4. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -30,19 +36,19 @@
 *   [Snapchat](https://www.snapchat.com/brand-guidelines#general-usage-guidelines)
 *   [Atlassian](https://atlassian.design/)
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Utilities
 
 *   [Vert.x Web Accesslog (⭐23)](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
 
-## [5. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [6. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Music
 
 *   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 
-## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Label / Form
 
@@ -54,19 +60,19 @@
 
 
 
-## [7. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [8. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [I1820](https://i1820.github.io/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [InAppSettingsKit (⭐3.1k)](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -96,13 +102,13 @@
 
 *   [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Package Management / Directory Navigation
 
 *   [shundle (⭐78)](https://github.com/javier-lopez/shundle) - Plugin manager for shell scripts
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Others
 
@@ -117,7 +123,7 @@
 *   [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
 *   [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
 
-## [12. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [13. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Utilities
 
@@ -127,14 +133,14 @@
 
 *   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐954)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 
-## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Low-level Vision / Video Object Segmentation
 
 *   [DAVIS: Densely Annotated VIdeo Segmentation](http://davischallenge.org/)
 *   [SegTrack v2](http://web.engr.oregonstate.edu/\~lif/SegTrack2/dataset.html)
 
-## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [15. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -151,7 +157,7 @@
 
 *   [Next News](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
@@ -161,13 +167,20 @@
 
 *   [MG4J](http://mg4j.di.unimi.it/) - MG4J (Managing Gigabytes for Java) is a full-text search engine for large document collections written in Java. It is highly customisable, high-performance and provides state-of-the-art features and new research algorithms.
 
-## [16. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / Z companies
+
+*   Zendesk <https://medium.com/zendesk-engineering>
+*   Zendesk(old) <https://developer.zendesk.com/blog>
+
+## [18. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
 
-## [17. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [19. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -177,7 +190,7 @@
 
 *   [Cheat Sheet (wallpaper)](https://www.lexaloffle.com/bbs/?tid=28207) - An enhancement of the printable cheat sheet for use as a desktop wallpaper.
 
-## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Recommender Systems
 
@@ -185,7 +198,7 @@
 *   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
 *   [implicit (⭐3k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
-## [19. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
@@ -196,13 +209,13 @@
 *   [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
 *   [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
 
-## [20. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [22. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Community / Constituency Parsing
 
 *   [Stack Overflow](https://stackoverflow.com/search?q=%5Bnlp%5D+and+%5Bruby%5D)
 
-## [21. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
+## [23. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
 
 ### Getting Started
 
@@ -307,19 +320,19 @@
 *   [jumper](http://yonaba.github.io/Jumper/) - Super-fast grid-based pathfinding for Lua.
 *   [Bresenham (⭐13)](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua.
 
-## [22. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [24. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Gist: SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Collection of recipes for writing awesome ssh config files.
 
-## [23. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
 *   [OWASP Mobile Security Testing Guide (⭐9.5k)](https://github.com/OWASP/owasp-mstg) - A comprehensive manual for mobile app security testing and reverse engineering.
 
-## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Logic
 
@@ -343,7 +356,7 @@
 
 *   [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/\~marshall/math_536/Notes.pdf) - Donald E. Marshall
 
-## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [27. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
@@ -353,7 +366,7 @@
 
 *   [schedule.cr (⭐69)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
-## [26. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [28. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
@@ -382,13 +395,13 @@
 *   [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
 *   [Voldemort (⭐2.6k)](https://github.com/voldemort/voldemort) - Open source clone of Amazon DynamoDB
 
-## [27. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [29. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Cookiecutters
 
 *   [Pylons](https://github.com/Pylons?q=cookiecutter) - official cookiecutter templates
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### General
 
@@ -417,13 +430,13 @@
 
 *   [YamlDotNet (⭐1.9k)](https://github.com/aaubry/YamlDotNet) - .NET
 
-## [29. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [31. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### General / Other
 
 *   [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
@@ -433,7 +446,7 @@
 
 *   [Kangaru (⭐362)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -446,13 +459,13 @@
 *   [vue2-simplert (⭐216)](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 *   [vue-model-autoset (⭐18)](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
 
-## [32. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [34. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Resources
 
 *   [Kopimi](http://kopimi.com/) - Symbol showing that you want a work to be copied.
 
-## [33. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [35. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Podcasts / Other
 
@@ -460,19 +473,25 @@
 
     [Ben Orenstein](http://www.benorenstein.com/) (former growth/product lead at Thoughtbot) and [Derrick Reimer](https://twitter.com/derrickreimer) (co-founder of Drip) talk weekly about growing their SaaS businesses.
 
-## [34. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
+## [36. Awesome Mastodon](/content/tleb/awesome-mastodon/week/README.md)
 
 ### Tools
 
 *   [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 
-## [35. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [37. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [Serverless working group (⭐1.4k)](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
 
-## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Methodologies
+
+*   [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) by **Michael Feathers** \[52:02]
+
+## [39. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / Natural Language Processing
 
@@ -482,13 +501,13 @@
 
 *   [AMIDST Toolbox](http://www.amidsttoolbox.com/) - A Java Toolbox for Scalable Probabilistic Machine Learning.
 
-## [37. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Insomnia (⭐24k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -501,13 +520,13 @@
 *   [(Un)Reliability Budgets - Finding Balance between Innovation and Reliability](https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf)
 *   [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
 
-## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [42. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
 *   [Wagtail Medium Editor (⭐17)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
 
-## [40. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Audio and Video
 
@@ -632,13 +651,13 @@
 *   [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
 *   [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 
-## [41. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 

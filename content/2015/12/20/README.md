@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 20, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,13 +28,19 @@
 
 *   [Anko (⭐16k)](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
 
-## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Mykhailo Kozik <http://mishadoff.com/>
+
+## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Web Hacking (⭐4.3k)](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 
-## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Go SDK
 
@@ -65,13 +71,13 @@
 
 *   Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Static Site Generators
 
 *   [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### XML
 

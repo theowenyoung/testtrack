@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2019
 
-39 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -694,7 +694,21 @@
 *   [Open Watcom V2 (⭐690)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
-## [32. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [32. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Strategy
+
+### [Commonspoly](https://commonspoly.cc/)
+
+> Commonspoly is a fun strategy and turn based RPG game where players of the game work together to defend their world from being taken over by speculators. The game is like the direct opposite of what one does in the game of Monopoly. For in Commonspoly owning private goods is frowned upon and converting the privately owned goods to either public or community owned ones will be the task of the players. The game is really fun as its a pit against good and evil, where evil is/are depicted by the speculator characters in the game. Speculators go around the game and try to undo the efforts of the defendors. Also the game is released under Peer Production License and can be downloaded for free and printed at home to play.
+
+![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   4 - 8 |        7 | 30-90m |
+
+## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -708,7 +722,7 @@
 
 *   Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
@@ -742,13 +756,13 @@
 
 *   [ValidatedPropertyKit (⭐857)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
-## [34. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [35. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Shell
 
 *   [gulp-execa (⭐52)](https://github.com/ehmicky/gulp-execa) - Cross-platform command execution in Gulp.js.
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
@@ -758,13 +772,31 @@
 
 *   [BinarySerializer (⭐248)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
 
-## [36. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [37. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tutorials / React Performance
+
+*   [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
+
+### React Tools / React Libraries
+
+*   [react-extras (⭐690)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
+
+## [38. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [zDog (⭐9.4k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
-## [37. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Wendell Hu](https://github.com/wendzhue/ama) - Front-end developer at Alibaba.
+*   [Jim Lesperance (⭐1)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
+*   [Greg Edelston (⭐1)](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
+
+## [40. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -775,13 +807,13 @@
 
 *   [CryptOSS (⭐8)](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
 
-## [38. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### PDF
 
 *   [Open HTML to PDF (⭐1.5k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-## [39. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 

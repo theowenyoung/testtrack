@@ -13,6 +13,7 @@
 *   [Solid (⭐79)](https://github.com/joshwilsonvu/eslint-plugin-solid) - Linting rules for Solid and JSX.
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+
 ### [Tab Size on GitHub (⭐283)](https://github.com/sindresorhus/tab-size-on-github) <a href="https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Make tab indented code more readable by forcing the tab size to 4 instead of 8.

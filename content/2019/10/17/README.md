@@ -243,6 +243,7 @@
 *   [Arm - PerfDoc (⭐111)](https://github.com/ARM-software/perfdoc) - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 
 ## [13. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@ashfurrow](https://github.com/ashfurrow), [Moya (⭐14k)](https://github.com/moya/moya)
     *   "Building Open Source Communities" ([slides](https://speakerdeck.com/ashfurrow/building-open-source-communities))
 *   [@hzoo](https://github.com/hzoo), [Babel (⭐42k)](https://github.com/babel/babel)

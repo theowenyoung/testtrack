@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 23 - Mar 29, 2020
 
-48 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -221,20 +221,26 @@
 
 *   [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
 
-## [26. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
+## [26. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### editors & viewers
+
+*   [Web GIS](https://drewweth.github.io/geodebugger): tools to view, inspect, and manipulate geospatial data
+
+## [27. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
 ### Web Apps (frontend only) / [Dnote](https://github.com/dnote/dnote)
 
 *   golang, react, typescript
 *   GPLv3 License, AGPLv3 License
 
-## [27. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [28. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
 *   [BStone (⭐229)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
-## [28. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [29. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / SIP Servers
 
@@ -250,25 +256,37 @@
 
 *   [dart-sip-ua (⭐247)](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
 
-## [29. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Continuous Integration
 
 *   [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 
-## [30. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [31. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Libraries
+
+*   [react-open-doodles (⭐49)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+
+## [32. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### CLI & Editor / iOS
 
 *   🔧 [Svarog (⭐35)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 
-## [31. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [33. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [LightSaber (⭐52)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
-## [32. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [34. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com).
+
+## [35. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Community
 
@@ -295,7 +313,7 @@
 
 *   [devrs.com/gb](http://devrs.com/gb) - Old home of the scene: examples, sources, complete documentation, guides, tutorials and various tools.
 
-## [33. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [36. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Erlang
 
@@ -309,7 +327,7 @@
 
 *   [GTFL](http://www.martin-loetzsch.de/gtfl/) - A graphical terminal for Lisp, meant for Lisp programmers who want to debug or visualize their own algorithms. A graphical trace in the browser. BSD-style.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
@@ -342,7 +360,7 @@
 *   [vue-paypal-checkout (⭐154)](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
 *   [vue-plaid-link (⭐31)](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
 
-## [35. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [38. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
@@ -385,7 +403,7 @@
         *   California
             *   [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
 
-## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Health
 
@@ -401,7 +419,7 @@
 
 
 
-## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### France 🇫🇷 / Paris
 
@@ -419,7 +437,7 @@
 
 Food: Vending Machine + Cafés and Diners + Convenience stores
 
-## [38. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [41. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Software / Vector Utilities
 
@@ -429,7 +447,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 *   [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 
-## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [42. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
@@ -443,14 +461,14 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 *   [Evilginx2 (⭐6.3k)](https://github.com/kgretzky/evilginx2) - Standalone Machine-in-the-Middle (MitM) reverse proxy attack framework for setting up phishing pages capable of defeating most forms of 2FA security schemes.
 
-## [40. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [43. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Utils
 
 *   [playwright-fluent (⭐91)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 *   [headless-testing](https://headlesstesting.com) - Connect your Playwright tests with browsers in the Cloud.
 
-## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Discussion Groups and Mailing Lists
 
@@ -460,7 +478,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 *   [Keycloak user migration – connect your legacy authentication system to Keycloak](https://codesoapbox.dev/keycloak-user-migration/)
 
-## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / Misc
 
@@ -474,7 +492,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 *   [Lightwood (⭐290)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
-## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [46. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation
 
@@ -484,25 +502,25 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 *   [Tang (⭐320)](https://github.com/latchset/tang) - Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
 
-## [45. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [48. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
 
-## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Form / Barcode
 
 *   [ObjectForm (⭐174)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
 
-## [47. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [50. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Carousel
 
@@ -512,15 +530,11 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 *   [react-google-flight-datepicker (⭐347)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
 
-### Icons
-
-*   [react-open-doodles (⭐49)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
-
 ### CSS / Style / Mouse Events
 
 *   [aesthetic (⭐199)](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 
-## [48. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
+## [51. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
 ### Cancer
 

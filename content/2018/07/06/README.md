@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 06, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / E individuals
+
+*   Eddie Smith <http://www.practicallyefficient.com/>
+
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Routing
 
@@ -20,13 +26,13 @@
 
 *   [SimpleSource (⭐96)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
 
-## [2. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
+## [3. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
 ### Modules
 
 *   [rpc-websockets (⭐475)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
 
-## [3. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [4. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Laravel / More
 
@@ -39,7 +45,7 @@
 
 *   [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
@@ -47,13 +53,13 @@
 *   [Retro (⭐2.7k)](https://github.com/openai/retro) - Retro Games in Gym
 *   [SLM Lab (⭐1.1k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Stack Edit (⭐20k)](https://github.com/benweet/stackedit/) - In-browser Markdown editor
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Office
 

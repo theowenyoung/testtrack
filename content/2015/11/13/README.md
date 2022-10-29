@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2015
 
-24 awesome lists updated today.
+27 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,7 +37,18 @@
 
 *   [QuickApps-CMS (⭐162)](https://github.com/quickapps/cms) - Open source content management system.
 
-## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [3. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### JS
+
+*   [react-material (⭐403)](https://github.com/BerkeleyTrue/react-material) — Material design components written with React.js and React Style.
+
+### SASS
+
+*   [quantum-colors (⭐40)](https://github.com/nkpfstr/quantum-colors) — Material Design color palette for your Sass projects.
+*   [quantum-shadows (⭐32)](https://github.com/nkpfstr/quantum-shadows) — Material Design drop shadows for your Sass projects.
+
+## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -89,7 +100,7 @@
 
 
 
-## [4. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [5. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Elements / Canvas
 
@@ -125,7 +136,7 @@
 
 *   [Mozilla Hacks Weekly Articles](https://hacks.mozilla.org/category/mozilla-hacks-weekly/)
 
-## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 
@@ -232,7 +243,30 @@
 *   [TempoIQ](https://www.tempoiq.com/) - Cloud-based sensor analytics.
 *   [Pubnub](https://www.pubnub.com/) - Data stream network
 
-## [6. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [7. Tools](/content/lvwzhen/tools/README.md)
+
+### Favicon
+
+*   [favicon-generator](http://www.favicon-generator.org/)
+
+### CDN
+
+*   [bootcss cdn](http://www.bootcdn.cn/)
+*   [cdnjs](https://cdnjs.com/)
+
+### Image compression
+
+*   [webresizer](http://webresizer.com/resizer/)
+
+### Font
+
+*   [webfonts](http://www.fonts.com/web-fonts)
+
+### API Doc
+
+*   [Jquery API](http://www.jquery123.com/)
+
+## [8. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Transpilers
 
@@ -263,19 +297,19 @@
 *   [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 *   [Recast (⭐4.3k)](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator (⭐3.7k)](https://github.com/facebook/regenerator) and [es6-arrow-function (⭐52)](https://github.com/esnext/es6-arrow-function).
 
-## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### File Uploading / Omniauth
 
 *   [Paperclip (⭐9.1k)](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord.
 
-## [8. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
+## [10. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 
 ### Documentation
 
 *   [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 
-## [9. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [11. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Parsers
 
@@ -288,7 +322,7 @@
 
 *   [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
 
-## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [12. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Organizations
 
@@ -306,7 +340,7 @@
 
 *   [mysql-native (⭐79)](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 
-## [11. Inspire](/content/noahbuscher/inspire/README.md)
+## [13. Inspire](/content/noahbuscher/inspire/README.md)
 
 ### Creation / These sites are good for building a basic framework for the site.
 
@@ -327,7 +361,7 @@
 *   [1stWebDesign](http://www.1stwebdesigner.com/blog/) - A good, simple blog on web development and design.
 *   [Mentor](http://www.mentor.so/) - Get random advice from other designers and developers.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Standard Libraries
 
@@ -404,7 +438,7 @@
 *   [Coding For Speed](https://codingforspeed.com/) - Coding For Speed DOT COM, Less Execution Time.
 *   [Sticky Bits](https://blog.feabhas.com/)
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [15. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -456,7 +490,7 @@
 
 *   [fitex (⭐2)](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 
-## [14. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [16. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / HTTP Handler
 
@@ -470,7 +504,7 @@
 
 *   [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 
-## [15. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [17. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
@@ -496,7 +530,7 @@
 
 *   [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 
-## [16. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [18. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### *Basics*
 
@@ -556,7 +590,7 @@
 *   [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
 *   [Revised report](https://www.haskell.org/onlinereport/) - Haskell 98 Language and Libraries. The Revised Report.
 
-## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
@@ -620,7 +654,7 @@
 
 *   [instanceofpro/awesome-backbone (⭐403)](https://github.com/sadcitizen/awesome-backbone)
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -662,7 +696,7 @@
 
 *   [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
 
-## [19. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [21. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
@@ -696,7 +730,7 @@
 *   [Mythbusting Modern Hardware to Gain 'Mechanical Sympathy'](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) - Martin Thompson.
 *   [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) - Martin Thompson.
 
-## [20. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [22. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Charts
 
@@ -730,20 +764,26 @@
 
 *   [Groovy Language Support for Android (⭐855)](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
 
-## [21. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Security / Tools
 
 *   [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)\
     Open Source Vulnerability Analysis for your Containers.
 
-## [22. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
+## [24. Awesome Sketch](/content/diessica/awesome-sketch/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [User Flow (⭐1.4k)](https://github.com/abynim/UserFlows)
 
-## [23. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [25. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Anthony Ramella (⭐1)](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
+
+## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Community
 
@@ -754,7 +794,7 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Geospatial
 

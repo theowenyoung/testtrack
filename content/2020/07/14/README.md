@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,13 +77,19 @@
 
 *   [reactify-wc (⭐147)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Competitions
+
+*   [First Lego League](https://www.firstlegoleague.org/)
+
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Misc
 
 *   [version\_tools (⭐8)](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
 
-## [11. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [12. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -93,7 +99,7 @@
 
 *   [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
@@ -111,7 +117,7 @@
 
 *   [Analyzing Big Data](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html)
 
-## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Service meshes
 

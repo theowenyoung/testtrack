@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 22, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,13 +40,28 @@
 
 *   [Find A Photo](http://finda.photo/) - Search through thousands of free (CC0 licensed) stock photos.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Courses
+
+*   [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
+*   [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
+*   [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
+*   [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
+*   [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
+
+### Misc
+
+*   [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
+*   [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
+
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
 *   [comeonin\_ecto\_password (⭐34)](https://github.com/vic/comeonin_ecto_password) - Ecto custom type for storing encrypted password using Comeonin.
 
-## [7. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Articles
 
@@ -66,7 +81,7 @@
 *   [generator-nm (⭐731)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [npm-issues (⭐49)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
-## [8. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### SaaS Tools / Symfony2
 

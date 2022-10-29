@@ -1,12 +1,22 @@
 # Awesome List Updates on Feb 20, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [1. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Cabal (⭐761)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+
+### Related Lists
+
+*   <https://lhs.nu/archive>
+
+## [2. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Package and Build Management
 
@@ -16,7 +26,7 @@
 
 *   [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 
-## [2. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [3. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -36,7 +46,7 @@
 
 *   [A Quantitative Approach to Product Market Fit](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) - Metrics produced above have a greater reach, as they're used as important signals to validate product-market fit.
 
-## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Product Management / Product-Market Fit
 
@@ -46,43 +56,43 @@
 
 *   [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement) - A step further from the previous advice, in which is detailed an aggressive strategy to consolidate monopolies.
 
-## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Scraping
 
 *   [DiDOM (⭐2k)](https://github.com/Imangazaliev/DiDOM) - A super fast HTML scrapper and parser.
 
-## [5. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [6. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Evaluation
 
 *   [compare-mt (⭐418)](https://github.com/neulab/compare-mt) - A tool for holistic analysis of language generations systems.
 
-## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
+## [7. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
 ### Blockchains for data / Blockchain projects for AI algorithms
 
 *   [Cyber](http://cyber.page/) - A decentralized search engine, able to learn from knowledge graphs and provide predictive models.
 
-## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Plugins
 
 *   [tmux-jump (⭐199)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [PrivacyFlash Pro (⭐138)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your Swift iOS app from its code.
 
-## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Side-channel Tools / Reverse Engineering Tools
 
 *   [SGX-Step (⭐353)](https://github.com/jovanbulck/sgx-step) - Open-source framework to facilitate side-channel attack research on Intel x86 processors in general and Intel SGX (Software Guard Extensions) platforms in particular.
 
-## [10. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [11. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Data Management
 

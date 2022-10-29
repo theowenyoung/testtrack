@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28 - Jul 04, 2021
 
-50 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,7 +114,13 @@
 
 *   [ROS2-Industrial training material (⭐137)](https://github.com/ros-industrial/ros2_i_training)
 
-## [10. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / C companies
+
+*   Credit Karma <https://engineering.creditkarma.com/>
+
+## [11. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Misc
 
@@ -125,13 +131,13 @@
 *   [Devop Engineers](https://www.devopsengineers.com/)
 *   [SweetOps](https://slack.cloudposse.com/)
 
-## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [12. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Spark
 
 *   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐542)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
@@ -153,38 +159,45 @@
 
 *   [Microsoft Clarity](https://clarity.microsoft.com/) - Session recording completely free with "no traffic limits", no project limits, and no sampling
 
-## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [14. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Code
+
+*   [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
+*   [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
+
+## [15. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects / Games
 
 *   [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
 *   [Solana (⭐9.5k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 
-## [15. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [17. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Magic](https://en.wikipedia.org/wiki/Magic_\(programming\)) - A magic program/piece of code is doing it's job but nobody knows how. Like in reality, magic doesn't actually exists. Once you understand it, it's not magic anymore.
 
-## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   :strawberry: [CakeDC/Enum plugin (⭐27)](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
 *   [LinkScanner plugin (⭐2)](https://github.com/mirko-pagliai/cakephp-link-scanner) - A plugin for recursively scanning links.
 
-## [17. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [19. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
 *   :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
 
-## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Browser Games
 
@@ -202,25 +215,25 @@
 *   [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 *   [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
 
-## [19. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [21. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
 *   [3DModelsCC0](https://www.3dmodelscc0.com/) - Library of public domain 3D models.
 
-## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### i18n / Mouse Events
 
 *   [react-localized (⭐4)](https://github.com/fakundo/react-localized) - Internationalization for React components based on `gettext` format.
 
-## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [Downloader (⭐584)](https://github.com/bezzad/Downloader) - Downloader is a modern, fluent, asynchronous, testable and portable library for .NET. This is a multipart downloader with asynchronous progress events.
 
-## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [24. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -230,13 +243,13 @@
 
 *   [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
 
-## [23. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
+## [25. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/week/README.md)
 
 ### Management / ArtNet Libraries
 
 *   [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -246,19 +259,19 @@
 
 *   [Heroes Wear Masks](https://heroeswearmasks.fun/) - A fun TensorFlow\.js-based oracle that tells, whether one wears a face mask or not. It can even tell when one wears the mask incorrectly.
 
-## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Books
 
 *   [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - How to develop effective and optimal data manipulation and analytics pipelines
 
-## [26. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [28. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
 
-## [27. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [29. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Coding Challenge Platforms:
 
@@ -266,13 +279,13 @@
 
 
 
-## [28. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [30. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 
-## [29. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [31. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Tutorials
 
@@ -291,7 +304,7 @@
 *   [Twitter](https://twitter.com/videolan) - The official VideoLAN Twitter account.
 *   [Reddit](https://www.reddit.com/r/vlc) - Unofficial VLC community on Reddit.
 
-## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -301,7 +314,7 @@
 
 *   [vite-plugin-mock-server (⭐27)](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 
-## [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [33. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -381,7 +394,7 @@
 
 *   [socks5-proxy-server (⭐47)](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Nodejs`
 
-## [32. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [34. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Code Quality
 
@@ -391,7 +404,7 @@
 
 *   [Svelte (⭐339)](https://github.com/sveltejs/eslint-plugin-svelte3) - Linting rules for Svelte v3 Components.
 
-## [33. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [35. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -446,7 +459,7 @@
 
 
 
-## [34. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -508,19 +521,19 @@
 
 *   [Publish SPA for GitHub Pages (⭐28)](https://github.com/jsakamoto/PublishSPAforGitHubPages.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/PublishSPAforGitHubPages.Build?style=flat-square\&cacheSeconds=86400) Add this NuGet package to your Blazor WebAssembly project to easily publish it to GitHub Pages.
 
-## [35. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [37. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Stub packages
 
 *   [torchtyping (⭐1.1k)](https://github.com/patrick-kidger/torchtyping) - Enhanced type annotations for [pytorch](https://pytorch.org/).
 
-## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [38. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Terminal UI
 
 *   [piotr-yuxuan/malli-cli (⭐41)](https://github.com/piotr-yuxuan/malli-cli)
 
-## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Spain 🇪🇸 / Oviedo
 
@@ -534,26 +547,26 @@
 
 ![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 
-## [38. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [40. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Libraries
 
 *   [seed\_heroicons (⭐0)](https://github.com/mh84/seed_heroicons) - Library providing [Heroicons](https://heroicons.com/) to include into Seed-based applications.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-feather-icons (⭐571)](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 *   [vue-feather (⭐121)](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
 
-## [40. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [42. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Libraries / GUI Programming
 
 *   [GTK](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
 
-## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [43. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### HLSL / More
 
@@ -572,7 +585,7 @@
 
 *   [Visual Studio Code API](https://code.visualstudio.com/api) section of [Official Documentation](https://code.visualstudio.com/docs)
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -607,19 +620,19 @@
 
 *   [Microsoft Visual C++](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-160) - MSVC, developed by Microsoft.
 
-## [43. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [45. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [yap8b (⭐0)](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 
-## [44. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [46. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Development Environment
 
 *   [Docker PHP Extension Installer (⭐2.6k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 
-## [45. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [47. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Reddit
 
@@ -629,7 +642,7 @@
 
 *   [Pluja's Awesome Privacy (⭐7.1k)](https://github.com/pluja/awesome-privacy): A curated list of services and alternatives that respect your privacy because privacy matters.
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [48. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Nordic
 
@@ -639,7 +652,7 @@
 
 *   [IST7920](https://crates.io/crates/ist7920) - SPI monochrome LCD display - ![crates.io](https://img.shields.io/crates/v/ist7920.svg)
 
-## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -653,7 +666,7 @@
 
 *   [tmdb.cr (⭐2)](https://github.com/mmacia/tmdb.cr) - The Movie DB (TMDb) api wrapper
 
-## [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -663,13 +676,13 @@
 
 *   [keycloak-scanner Python CLI (⭐28)](https://github.com/NeuronAddict/keycloak-scanner)
 
-## [49. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [51. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Articles
 
 *   [Recipes (⭐20k)](https://github.com/avajs/ava/tree/main/docs/recipes)
 
-## [50. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Datasets / Sensor and Acuator Interfaces
 

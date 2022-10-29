@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 02 - Sep 08, 2019
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -334,7 +334,13 @@
 
 *   [AwaitToast (⭐137)](https://github.com/k-lpmg/AwaitToast) - 🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.
 
-## [32. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [32. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Color
+
+*   [Image Color Picker](https://image-color.com)
+
+## [33. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpouse Machine Learning
 
@@ -646,37 +652,37 @@
 *   [ONNX (⭐13k)](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 *   [MMdnn (⭐5.6k)](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
 
-## [33. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [34. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Design
 
 *   [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system
 
-## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [35. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Language-related
 
 *   [Inlined records in constructors](https://www.lexifi.com/ocaml/inlined-records-constructors/)
 
-## [35. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [36. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Commercial WebServices / DSP
 
 *   [PagerDuty::Agent](https://metacpan.org/pod/PagerDuty::Agent) - A perl PagerDuty client
 
-## [36. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [37. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Deep learning
 
 *   [ruby-dnn (⭐40)](https://github.com/unagiootoro/ruby-dnn) - Simple deep learning for Ruby.
 
-## [37. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [38. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Case Studies / RFID NFC Tools
 
 *   [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 
-## [38. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [39. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Journals and Events / Journals
 
@@ -692,7 +698,7 @@
     *   [Alsentzer et al Clinical BERT (⭐478)](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
     *   [Huang et al ClinicalBERT (⭐246)](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -702,7 +708,7 @@
 
 *   [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 
-## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [41. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / R
 
@@ -710,13 +716,13 @@
     *   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
     *   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
 
-## [41. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [42. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
 *   [Microsoft R](https://mran.microsoft.com/) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 
-## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [43. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -730,13 +736,13 @@
 
 *   [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
 
-## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [44. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Media & Document Management
 
 *   [Laravel FFmpeg (⭐1.2k)](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel 5.8.
 
-## [44. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [45. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -751,13 +757,13 @@
 
 *   [Run Go lint checks on PR event (⭐10)](https://github.com/ArangoGutierrez/GoLinty-Action)
 
-## [45. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [46. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Practical Resources / Librairies and Implementations
 
 *   [Neuraxle (⭐543)](https://github.com/Neuraxio/Neuraxle) - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
 
-## [46. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [47. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Conferences
 

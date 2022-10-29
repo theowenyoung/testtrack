@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18 - Apr 24, 2016
 
-36 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -235,7 +235,21 @@ TBD - PR Welcome!
 *   [How Book Advances Work – A Simple Explanation for Writers](http://www.writersdigest.com/online-editor/how-book-advances-work-a-simple-explanation-for-writers)
 *   [Typical O'Reilly Advance Structure](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html#advance)
 
-## [7. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [7. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Data Science
+
+#### Data Manipulation with R, Second Edition [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/data-manipulation-r-second-edition)
+
+<img src="http://ecx.images-amazon.com/images/I/51Jwp-z343L._SX403_BO1,204,203,200_.jpg" width="200px" />
+
+This book starts with the installation of R and how to go about using R and its libraries. We then discuss the mode of R objects and its classes and then highlight different R data types with their basic operations.
+
+The primary focus on group-wise data manipulation with the split-apply-combine strategy has been explained with specific examples. The book also contains coverage of some specific libraries such as lubridate, reshape2, plyr, dplyr, stringr, and sqldf. You will not only learn about group-wise data manipulation, but also learn how to efficiently handle date, string, and factor variables along with different layouts of datasets using the reshape2 package.
+
+By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
+
+## [8. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Segmentation / On-line APIs
 
@@ -247,25 +261,25 @@ TBD - PR Welcome!
 *   [weka (⭐67)](https://github.com/paulgoetze/weka-jruby) -
     JRuby bindings for Weka, different ML algorithms implemented through Weka.
 
-## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [9. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Extensions / Toolbox
 
 *   [comment (⭐5)](https://github.com/subk/vorpal-comment) - Bash-like comment support.
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Resources
 
 *   [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Templating
 
 *   [Pug (⭐21k)](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
-## [11. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [12. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -275,13 +289,13 @@ TBD - PR Welcome!
 
 *   [npm-upgrade (⭐312)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### WebSocket
 
 *   [Firehose (⭐724)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
-## [13. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [14. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Videos / Tutorial-only
 
@@ -291,19 +305,19 @@ TBD - PR Welcome!
 
 *   [SketchApp Rocks](http://sketchapp.rocks/)
 
-## [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [15. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Subtitling
 
 *   [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
 *   [Mobius: C# API for Spark (⭐931)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
-## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -332,26 +346,26 @@ TBD - PR Welcome!
 
 
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
 *   [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)
 *   [NET-A-PORTER case study](https://developers.google.com/web/showcase/case-study/net-a-porter)
 
-## [18. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Public REST APIs To Use In Tests / Symfony2
 
 *   [APIs.guru](http://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
 
-## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
 *   [CodeXL (⭐974)](https://github.com/GPUOpen-Tools/CodeXL) - CodeXL goes open source. \[MIT]
 
-## [20. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [21. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -361,7 +375,7 @@ TBD - PR Welcome!
 
 *   [ReactJS.NET (⭐2.2k)](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 
-## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
@@ -376,25 +390,25 @@ TBD - PR Welcome!
 
 *   [pay (⭐26)](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [chartd](http://chartd.co/) - responsive, retina-compatible charts with just an img tag.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Data Structure and Storage
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 
-## [24. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [25. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Orchestration / Extensions
 
 *   [azk (⭐906)](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Auto Layout / Barcode
 
@@ -404,7 +418,7 @@ TBD - PR Welcome!
 
 *   [PlayerView (⭐132)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
-## [26. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [27. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
@@ -418,7 +432,7 @@ TBD - PR Welcome!
 *   [rho (⭐131)](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
 *   [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
-## [27. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [28. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
@@ -429,7 +443,7 @@ TBD - PR Welcome!
 *   [Apoc : Awesome Procedures on Cypher (⭐1.5k)](https://github.com/neo4j-contrib/neo4j-apoc-procedures) - Collection of useful procedures for Neo4j 3.x
 *   [Graphgen (⭐8)](https://github.com/graphaware/neo4j-graphgen-procedure) - Neo4j procedure for generating test data easily with Cypher
 
-## [28. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [29. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
@@ -450,13 +464,13 @@ TBD - PR Welcome!
 
 *   [mciparelli/cyclejs-gravatar ★0 (⭐0)](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
 
-## [29. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [30. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Javascript Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Formulon (⭐55)](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -472,13 +486,13 @@ TBD - PR Welcome!
 
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
 
-## [31. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [32. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
 *   [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612) - A blog post describing a possible approach to reducing TEA boilerplate. Useful for component libraries and anyone interested in seeing the amazing things you can do with function types.
 
-## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -551,7 +565,7 @@ TBD - PR Welcome!
 *   [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
 *   [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
 
-## [33. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [34. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Featured
 
@@ -597,14 +611,14 @@ TBD - PR Welcome!
 
 *   [Building Native Desktop apps using Electron](https://www.youtube.com/watch?v=nXIrFq5-FC8)
 
-## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [35. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [fn-curry (⭐6)](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 *   [date-fp (⭐123)](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -622,7 +636,13 @@ TBD - PR Welcome!
 
 *   [Service Level Agreements in the Cloud: Who cares?](http://www.wired.com/insights/2011/12/service-level-agreements-in-the-cloud-who-cares/)
 
-## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / R individuals
+
+*   Rachel Kroll <https://rachelbythebay.com/w/>
+
+## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Dissemination
 

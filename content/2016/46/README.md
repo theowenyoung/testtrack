@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14 - Nov 20, 2016
 
-45 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -437,7 +437,55 @@
 
 *   [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
 
-## [32. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [32. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Reddit
+
+*   /r/AlphaandBetausers - <https://www.reddit.com/r/alphaandbetausers/>
+*   /r/Coupons - <https://www.reddit.com/r/coupons/>
+*   /r/Entrepreneur - <http://reddit.com/r/entrepreneur>
+*   /r/IMadeThis - <http://reddit.com/r/imadethis>
+*   /r/IndieBiz - <https://www.reddit.com/r/indiebiz/>
+*   /r/LadyBusiness - <https://www.reddit.com/r/ladybusiness/>
+*   /r/RoastMyStartup - <https://www.reddit.com/r/roastmystartup>
+*   /r/ShamelessPlug - <https://www.reddit.com/r/shamelessplug/>
+*   /r/SideProject - <http://reddit.com/r/sideproject>
+*   /r/SmallBusiness - <https://www.reddit.com/r/smallbusiness/>
+*   /r/Startups - <http://reddit.com/r/startups>
+
+### Websites
+
+*   All Startups - <http://www.allstartups.info/Startups/Submit>
+*   All Top Startups - <http://alltopstartups.com/submit-startup/>
+*   App Advice - <http://appadvice.com/page/about-us>
+*   Appoid - <http://appiod.com/submit-app-for-review/>
+*   Apps 400 - <http://apps400.com/submit-your-application-for-review>
+*   Apps Listo - <http://appslisto.com/submit-your-app/>
+*   Apps Mamma - <http://appsmamma.com/submit-your-app/>
+*   AppsThunder - <http://appsthunder.com/submit-your-app/>
+*   Beta Bound - <http://www.betabound.com/announce/>
+*   Betafy - <https://www.betafy.co/easysignup/startup>
+*   CrozDesk - <https://vendor.crozdesk.com/user/signup>
+*   Discova - <http://www.discova.co/>
+*   Discover Cloud - <https://www.discovercloud.com/become-a-vendor>
+*   F6S - <http://www.f6s.com/>
+*   Feed My App - <https://feedmyapp.com/submit/>
+*   Get App - <http://getapp.com/>
+*   Getworm - <https://getworm.com/submit-startup>
+*   Gust - <https://www.gust.com>
+*   Launch List - <https://launchlister.com/submit-startup>
+*   Next Big What - <http://nextbigwhat.com/>
+*   Product Hunt - <http://www.producthunt.com/>
+*   Software Advice - <https://softwareadvice-markets.questionpro.com/>
+*   Startup Lift - <http://www.startuplift.com/>
+*   Startup Resources - <https://startupresources.io>
+*   Startup Stash - <http://startupstash.com/>
+*   Startup Tabs - <http://startuptabs.com/>
+*   State of Tech - <http://stateoftech.net/advertise?submit-an-app-for-review>
+*   Tech Map - <http://thetechmap.com/>
+*   Vator - <http://www.vator.tv/>
+
+## [33. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
@@ -456,19 +504,26 @@
 *   [Series of Sass tutorials showing the installing of, the basics, and using key features](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 *   [Sass or LESS? What should you use?](https://www.youtube.com/watch?v=lJclQekSfSM)
 
-## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [34. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Artem Sapegin (⭐15)](https://github.com/sapegin/ama) - Frontend developer at Here, creator of [React Styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) and passionate photographer.
+*   [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy (⭐114)](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
+
+## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [pglistend (⭐26)](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 
-## [34. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [36. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Chat Clients
 
 *   [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](http://quassel-irc.org/) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [37. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -480,13 +535,13 @@
 
 
 
-## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [38. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
-## [37. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [39. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
@@ -497,19 +552,39 @@
 
 *   [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 
-## [38. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
-## [39. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / E companies
+
+*   Elastic <https://www.elastic.co/blog/category/engineering>
+*   Erlang Solutions <https://www.erlang-solutions.com/blog.html>
+
+### Companies / L companies
+
+*   Lyft <https://eng.lyft.com/>
+
+### Companies / S companies
+
+*   Squarespace <https://engineering.squarespace.com/>
+*   Stack Overflow <https://stackoverflow.blog/engineering/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Brujo Benavides <https://medium.com/@elbrujohalcon>
+
+## [42. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   \[Inspect iOS app's with Appium 1.6] (<https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo>) - The options of inspecting iOS 10 app with Appium 1.6
 
-## [40. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [43. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Documents and Shellcode / Other Resources
 
@@ -522,13 +597,13 @@
     framework with extensive plugin support, from input to output, and everything
     in between.
 
-## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [44. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 
-## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [45. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -544,19 +619,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [47. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [45. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [48. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 

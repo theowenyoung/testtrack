@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2020
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,28 @@
 
 *   [Unity (⭐1.6k)](https://github.com/unitycontainer/unity) - A lightweight, extensible dependency injection container.
 
-## [3. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [3. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Books
+
+*   [Locks, Safes and Security: An International Police Reference](https://www.goodreads.com/en/book/show/525753.Locks_Safes_and_Security) - Information on locks, safes and security by Marc Weber Tobias.
+
+### Hobby projects
+
+*   [Lock Dice](http://schuylertowne.com/blog/lockpicking-with-dice) - In this dice-based locksport game, as a budding lock maker you have set out to test your designs against your peers.
+
+### Online resources
+
+*   [Dark Sim 905's Lockpicking pages](https://web.archive.org/web/20191127182007/https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
+*   [Raking Techniques](https://elvencraft.com/lpd/Raking%20Techniques.html) - Raking techniques illustrated with awesome animations.
+
+## [4. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Videos
 
 *   [Imitation Learning and its Application to Natural Language Generation](https://slideslive.com/38922816/imitation-learning-and-its-application-to-natural-language-generation)
 
-## [4. Awesome R](/content/qinwf/awesome-R/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### 2019
 
@@ -215,7 +230,7 @@
 
 *   [R Books List (⭐190)](https://github.com/RomanTsegelskyi/rbooks) - List of R Books.
 
-## [5. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [6. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Online Classes
 

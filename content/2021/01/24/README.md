@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 24, 2021
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,6 +39,12 @@
 ### Articles
 
 *   [Install npm packages globally without sudo on macOS and Linux (⭐2.3k)](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
+
+## [6. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Sindre Sorhus (⭐124)](https://github.com/sindresorhus/ama) - Aspiring rebel. Fabulously quirky. Creator of [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 
 ---
 

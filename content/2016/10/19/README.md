@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2016
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -172,6 +172,20 @@
 ### Add Citations to Your Code / HTML+CSS+JS
 
 *   [duecredit (⭐215)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / B companies
+
+*   Backtrace <https://backtrace.io/blog/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Julia Evans <https://jvns.ca/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Marek Majkowski <https://idea.popcount.org/>
 
 ---
 

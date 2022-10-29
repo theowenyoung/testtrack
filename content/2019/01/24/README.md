@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 24, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,19 +46,25 @@
 *   [MCL](https://mcl.host)\
     MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed specifically to run containers. It has a small footprint of \~50MB and boots within seconds. It is currently optimized to run Docker.
 
-## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [6. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Open Source Projects
+
+*   [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
+
+## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [Accessing Android Logcat Logs with Appium](https://appiumpro.com/editions/53)
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Browser Autofill Phishing (⭐1.4k)](https://github.com/anttiviljami/browser-autofill-phishing) - Demonstrates phishing for autofilled form fields that are hidden to the user.
 
-## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Design / Miscellaneous
 
@@ -72,13 +78,13 @@
 
 
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [10. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Styling / Navigation Demos
 
 *   [binstorm ★5 (⭐11)](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
 
-## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [11. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Sites for Practice / Problem Classifiers
 
@@ -90,7 +96,7 @@
 
 
 
-## [11. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [12. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Datasets / Subtypes of QA
 

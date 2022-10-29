@@ -20,6 +20,7 @@
 *   [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Skip staging area during commit.
 
 ```sh

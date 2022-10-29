@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2021
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,37 +69,43 @@
 
 *   [embedded-hal-compat (⭐7)](https://github.com/ryankurte/embedded-hal-compat), a compatibility layer to provide interoperability between `v0.2.x` and `v1.x.x` hal implementations and drivers
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Retroshare](https://retroshare.cc): Encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
+
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 500 free requests per month.
 
-## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 
 *   [Auction (⭐24)](https://github.com/y-pakorn/flutter_web3_auction) — A Defi ERC20 Token Auction Website by [y\_pakorn](https://github.com/y-pakorn)
 
-## [9. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [10. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Miscellaneous / Editor's Draft :black_nib:
 
 *   [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
 *   [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
-## [11. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [12. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
 ### 1 - Agnósticos / Algoritmos y Estructuras de Datos
 
 *   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cloud Storage & File Sharing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,13 +51,22 @@
 
 *   [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
 
-## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Intermediate
+
+#### LinkedIn Learning: [Web Development](https://www.linkedin.com/learning/topics/web-development), [Web Design](https://www.linkedin.com/learning/topics/web-design)
+
+**Paid** platform for video courses on web development and design\
+*(HTML, CSS, JavaScript, web development, web design)*
+
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 
 *   [Vert.x JsonPath (⭐0)](https://github.com/NoEnv/vertx-jsonpath) - A very basic implementation of JsonPath using Vert.x’s JsonObject and JsonArray, mimicking their getX, containsKey, put and remove methods.
 
-## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [7. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Germany
 
@@ -71,19 +80,19 @@
 
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 
-## [7. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [8. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Audio
 
 *   [VOICEVOX (⭐1.2k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
-## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
 *   [react-animatable (⭐9)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
-## [9. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -93,7 +93,13 @@
 
 *   [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
 
-## [7. Awesome Chess](/content/hkirat/awesome-chess/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Chef <https://blog.chef.io>
+
+## [8. Awesome Chess](/content/hkirat/awesome-chess/README.md)
 
 ### Websites
 

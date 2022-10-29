@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2016
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -129,11 +129,33 @@
 
 *   [tg\_client (⭐12)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Beta Page - <https://betapage.co/>
+
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Native Apps (closed source)
+
+*   [Transit](http://transitapp.com/)
+
+## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Conferences & Meetups
 
 *   [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
+
+## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / R companies
+
+*   RetailMeNot <https://medium.com/retailmenot-engineering/>
+
+### Companies / T companies
+
+*   TripAdvisor <http://engineering.tripadvisor.com/>
 
 ---
 

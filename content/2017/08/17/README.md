@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17, 2017
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,7 +17,92 @@
 
 *   [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) - About the CC0 public domain dedication.
 
-## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Airbnb <https://medium.com/airbnb-engineering>
+*   Appnexus <https://techblog.appnexus.com/>
+
+### Companies / B companies
+
+*   Binary Studio <https://binary-studio.com/blog/>
+
+### Companies / D companies
+
+*   Data Artisans <https://data-artisans.com/blog/>
+*   Deliveroo <https://deliveroo.engineering/>
+
+### Companies / F companies
+
+*   Foursquare <https://engineering.foursquare.com/>
+
+### Companies / G companies
+
+*   GitHub <https://githubengineering.com/>
+*   Grammarly <https://tech.grammarly.com/blog/index.html>
+
+### Companies / J companies
+
+*   Just Eat <https://tech.just-eat.com/>
+
+### Companies / L companies
+
+*   LINE <https://engineering.linecorp.com/en/blog>
+
+### Companies / N companies
+
+*   Netflix <https://medium.com/netflix-techblog>
+
+### Companies / O companies
+
+*   OCTO Technology <https://blog.octo.com/en/>
+*   Okta <https://developer.okta.com/blog/>
+
+### Companies / S companies
+
+*   Sharethis <https://www.sharethis.com/category/engineering/>
+*   Sift Science <https://blog.siftscience.com/?category=Engineering>
+*   Stride <https://blog.stridenyc.com/>
+
+### Companies / T companies
+
+*   Teamwork <https://engineroom.teamwork.com/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Ben McCormick <https://benmccormick.org/>
+*   Blake Erickson <https://blog.blakeerickson.com/>
+
+### Individuals/Group Contributors / C individuals
+
+*   Code with style! <https://codewithstyle.info/>
+
+### Individuals/Group Contributors / G individuals
+
+*   Graham King <https://www.darkcoding.net/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jan Lelis <https://idiosyncratic-ruby.com/>
+*   Jerry Gamblin <https://jerrygamblin.com/>
+*   John Resig <https://johnresig.com/category/blog/>
+*   Jonathan Dekhtiar <http://www.born2data.com/>
+*   Justin Weiss <https://www.justinweiss.com/articles/archives/>
+
+### Individuals/Group Contributors / K individuals
+
+*   K. Harrison <https://useyourloaf.com/>
+
+### Individuals/Group Contributors / L individuals
+
+*   Luciano Mammino <https://loige.co/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Philipp Oppermann <https://os.phil-opp.com/>
+
+## [3. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
 ### Places / Monasteries
 
@@ -38,25 +123,31 @@
 *   [The Noble Path](https://www.youtube.com/user/Dhammavat/videos) - Several documentaries on Buddhism in the late 1900s.
 *   [Wat Marp Jan (วัดมาบจันทร์)](https://www.youtube.com/user/watmarpjan) - Events at a Thai Forest monastery established by Ajahn Anan Akiñcano.
 
-## [3. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [4. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Research Papers
 
 *   [A Vulnerability in Modern Automotive Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
 
-## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
 *   [Voltron (⭐5.8k)](https://github.com/snare/voltron) - Extensible debugger UI toolkit written in Python.
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Screencasts
 
 *   [FaaS performance comparison](https://www.youtube.com/watch?v=JS2h8pmqsww) - Comparing serverless function performance.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
+
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Editor Plugins
 
@@ -74,19 +165,19 @@
 
 *   [The Clojure Style Guide (⭐3.9k)](https://github.com/bbatsov/clojure-style-guide)
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [libui (⭐10k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [Auth0 (⭐251)](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 
-## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [11. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Server
 
@@ -101,7 +192,7 @@
 *   [Official Appium Docker Images (⭐452)](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
 *   [Appium Docker Images (⭐5k)](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
 
-## [10. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [12. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Community
 

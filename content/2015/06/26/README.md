@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 26, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,13 @@
 
 *   [Cordova](http://slack.cordova.io/)
 
-## [5. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / T individuals
+
+*   Thomas Young <http://upcoder.com>
+
+## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Other
 

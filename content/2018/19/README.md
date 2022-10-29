@@ -1,6 +1,6 @@
 # Awesome List Updates on May 07 - May 13, 2018
 
-39 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,7 +19,15 @@
 *   [Official joke API (⭐635)](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
 *   [Event Gateway Getting Started (⭐48)](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
 
-## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [3. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [LCVPN (⭐497)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [Meshbird (⭐3.4k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
+*   [nuTorrent ☠️ (⭐231)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
+
+## [4. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Books
 
@@ -29,7 +37,13 @@
 
 *   [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 
-## [4. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [5. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Pagespeed
+
+*   [GTmetrix](https://gtmetrix.com/)
+
+## [6. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Books
 
@@ -60,7 +74,7 @@
 *   [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram
     Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.org/pdf/1609.03499v2.pdf) used as a vocoder can be conditioned on generated Mel Spectrograms from the Tacotron 2 LSTM neural network with attention to generate neat audio from text.
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -69,25 +83,25 @@
     *   [Notes](http://www.eecs189.org/)
     *   [Homework](http://www.eecs189.org/)
 
-## [6. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [8. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Pimg (⭐98)](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [9. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify](https://snipcart.com/blog/static-forms-serverless-gatsby-netlify)
 
-## [8. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [10. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Games
 
 *   [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
@@ -129,7 +143,7 @@
 
 *   [getatrex (⭐6)](https://github.com/alexfilatov/getatrex) - Automatic translation tool of Gettext locales with Google Translate for Elixir/Phoenix projects.
 
-## [10. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [12. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Compilers
 
@@ -235,13 +249,13 @@
 
 *   [libusb](https://libusb.info/) - Generic access to USB devices. [`LGPL2.1`](https://github.com/libusb/libusb/blob/master/COPYING)
 
-## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [13. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [MIDI to PICO-8 (⭐57)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
-## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -255,7 +269,7 @@
 
 *   [Movies For Hackers (⭐9.3k)](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
-## [13. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [15. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Organizations
 
@@ -266,7 +280,7 @@
 
 *   [Awesome Humane Tech (⭐2.8k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
 
-## [14. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [16. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Programming Tools / Others
 
@@ -276,20 +290,20 @@
 
 *   [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### System
 
 *   [baked\_file\_system (⭐157)](https://github.com/schovi/baked_file_system) - Virtual file system implementation
 *   [hardware (⭐68)](https://github.com/crystal-community/hardware) - Get CPU, Memory and Network informations of the running OS and its processes
 
-## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
 
-## [17. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [19. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Plugins / Hooks
 
@@ -299,7 +313,7 @@
 
 *   [awesome-microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
 
-## [18. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [20. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Debug
 
@@ -313,13 +327,13 @@
 
 *   [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) - Introduction to OpenGL in C++
 
-## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [21. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Review Articles / Archeological and Historical Networks
 
 *   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006); *IET Systems Biology*, 2007).
 
-## [20. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [22. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
@@ -329,20 +343,20 @@
 
 *   [emr-bootstrap-actions :fire::fire::fire: (⭐612)](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
 
-## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
 *   [MalPipe (⭐94)](https://github.com/silascutler/MalPipe) - Malware/IOC ingestion and
     processing engine, that enriches collected data.
 
-## [22. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [24. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
 *   [gcalcli (⭐2.9k)](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -356,7 +370,7 @@
 
 *   [vue-router-user-roles (⭐241)](https://github.com/anthonygore/vue-router-user-roles) - Protects routes based on user roles. Add your own authentication.
 
-## [24. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [26. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / General Purpose
 
@@ -366,7 +380,7 @@
 
 *   [JChemPaint (⭐88)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 
-## [25. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [27. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Automation
 
@@ -398,13 +412,13 @@
 
 *   [Developing ember apps on glitch.com](https://www.youtube.com/watch?v=uhXA6ECaknw)
 
-## [26. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [28. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Conferences / Third-party Service Integration
 
 *   [Laravel Live UK](https://laravellive.uk/)
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
@@ -416,13 +430,13 @@
 *   [ML.NET (⭐8.1k)](https://github.com/dotnet/machinelearning) - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers. ML.NET was originally developed in Microsoft Research and evolved into a significant framework over the last decade and is used across many product groups in Microsoft like Windows, Bing, PowerPoint, Excel and more.
 *   [Vulpes (⭐117)](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
-## [28. Bots](/content/hackerkid/bots/week/README.md)
+## [30. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tools For Building Bots
 
 *   [Dialogflow](https://dialogflow.com/) - Build natural and rich conversational experiences.
 
-## [29. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -433,7 +447,7 @@
 
 *   [homeeToMqtt (⭐10)](https://github.com/odig/homeeToMqtt) - Bidirectional Interface between homee and MQTT.
 
-## [30. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [32. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### NoSQL / Metric & Metric Collection
 
@@ -442,13 +456,13 @@
     *   [Redis](http://redis.io/) - Networked, in-memory, key-value data store with optional durability.
     *   [Riak](http://docs.basho.com/) - Another fault-tolerant key-value NoSQL database.
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [33. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
 *   [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
 
-## [32. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [34. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -465,19 +479,19 @@
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [User Manager Service (⭐69)](https://github.com/skelpo/UserManager) – A small, useful user manager made for production application setups.
 
-## [33. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Metadata
 
 *   [SDPoker (⭐29)](https://github.com/Streampunk/sdpoker) - CLI tool and library for testing SMPTE ST2110 SDP files.
 
-## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Container Security (⭐7)](https://github.com/kai5263499/container-security-awesome) - A curated list of awesome resources related to container building and runtime security
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
@@ -520,7 +534,7 @@
 
 *   [EasyTransitions (⭐1.6k)](https://github.com/marcosgriselli/EasyTransitions) - A simple way to create custom interactive UIViewController transitions.
 
-## [36. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
+## [38. Awesome Css Learning](/content/micromata/awesome-css-learning/week/README.md)
 
 ### CSS References
 
@@ -571,20 +585,20 @@
 *   [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
 *   [animatable](http://leaverou.github.io/animatable/) - Nice little page demonstrating which CSS properties are animatable.
 
-## [37. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [39. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 
 *   [dada (⭐58)](https://github.com/sellout/dada) for Dhall - a library for recursion
     schemes in Dhall.
 
-## [38. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [40. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Elixir Outlaws](https://elixiroutlaws.com) - Panel discussions of topics in and around Elixir development.
 
-## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Assets
 

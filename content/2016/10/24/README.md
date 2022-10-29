@@ -96,6 +96,7 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 *   [SANS Internet Storm Center](https://isc.sans.edu/) - the ISC run a regular podcast going into the latest vulnerabilities and security news.
 
 ## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Add everything, but whitespace changes
 
 ```sh

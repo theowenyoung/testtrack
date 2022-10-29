@@ -1,18 +1,36 @@
 # Awesome List Updates on Feb 26, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
+## [1. Htaccess](/content/phanan/htaccess/README.md)
+
+### Miscellaneous / Allow Cross-Domain Fonts
+
+### Allow Cross-Domain Fonts
+
+CDN-served webfonts might not work in Firefox or IE due to [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing). This snippet solves the problem.
+
+```apacheconf
+<IfModule mod_headers.c>
+    <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
+        Header set Access-Control-Allow-Origin "*"
+    </FilesMatch>
+</IfModule>
+```
+
+[Source (⭐3k)](https://github.com/h5bp/server-configs-apache/issues/32)
+
+## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
 *   [GopherLua (⭐5.1k)](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler implemented in Go with Go APIs.
 
-## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Intrinsic Images / Edge-preserving image processing
 

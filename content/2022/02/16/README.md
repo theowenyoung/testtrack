@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 16, 2022
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,17 @@
 
 *   [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 
-## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐203)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐113)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+
+### Academic papers / Ruby
+
+*   [Higgins et al. - "Calculating place-based transit accessibility: Methods, tools and algorithmic dependence" (2022)](https://doi.org/10.5198/jtlu.2022.2012) - Compares software tools for calculating accessibility by walking and public transit including ArcGIS Pro, Emme, R5R, and OpenTripPlanner.
+
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -36,49 +46,49 @@
 
 *   [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS and GKE Kubernetes clusters in one free and open-source framework.
 
-## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Games
 
 *   [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [ddev (⭐0)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐1.5k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
 
-## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [Kotlin/kotlinx.atomicfu (⭐611)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
-## [9. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+## [10. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ### Techniques
 
 *   [MoonBounce: the dark side of UEFI firmware](https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468) - An in-depth write up about one particular UEFI bootkit.
 
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Standard APIs
 
 *   [OData](https://www.odata.org/) - An open protocol that allows the creation and consumption of queryable and interoperable REST APIs in a simple and standard way.
 
-## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2021
 
@@ -157,25 +167,25 @@
 
 *   [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-orm (⭐114)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
 *   [ThePrimeagen/harpoon (⭐1.3k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Username Check / Telegram
 
 *   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 
-## [15. Awesome Go](/content/avelino/awesome-go/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Trees
 
@@ -185,13 +195,13 @@
 
 *   [mailx (⭐5)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Representation / Commonsense Knowledgebase
 
 *   [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=9033452473914228535)].
 
-## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [18. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
@@ -222,7 +232,7 @@
 *   [Awesome Data Science Ideas (⭐613)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐73)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 

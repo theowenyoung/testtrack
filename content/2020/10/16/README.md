@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -150,7 +150,13 @@
 
 *   [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze.html) - Memoryze for Mac is Memoryze but then for Macs. A lower number of features, however.
 
-## [18. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [18. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Tools
+
+*   [Ionic Vetur Intellisense (⭐3)](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion
+
+## [19. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / Functional
 

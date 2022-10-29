@@ -8,6 +8,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Websites / Godot version unknown
+
+*   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Templates / Godot 3.5+
@@ -283,10 +289,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Flash Module (⭐23)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
 *   [GodotAIGym (⭐138)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
 
-### Websites / Godot version unknown
-
-*   [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
-
 ## [Feb 15 - Feb 21, 2021](/content/2021/7/README.md)
 
 ### Demos / Godot 3.2+
@@ -524,7 +526,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Godot-Trail-System (⭐266)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 *   [Level of Detail (LOD) (⭐183)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
 *   [MDFramework (⭐69)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-*   [Mitigate-IK (⭐3)](https://github.com/Kylogias/godot-mitigate-ik) - Mitigates the scaling effects of SkeletonIK.
 *   [NI mate Motion Capture (⭐28)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
 *   [Qodot (⭐768)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 *   [Scatter (⭐1k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.

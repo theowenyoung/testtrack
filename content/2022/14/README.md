@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04 - Apr 10, 2022
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -313,19 +313,35 @@
 
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 
-## [32. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### 3rd party GTFS URL directories
+
+*   [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - List of GTFS and [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) feeds. [Archives and validates](https://openmobilitydata.org/p/capital-metro/24) the GTFS feeds and allows you to preview both [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) and [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) through the browser. Formerly TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) it is end-of-life as of early 2022 with a shutdown date to be determined.
+*   [The Mobility Database](https://database.mobilitydata.org/) - JSON and CSV files [on GitHub (⭐80)](https://github.com/MobilityData/mobility-database-catalogs) that is a repository of 1300+ mobility datasets across the world. Contains contents of OpenMobilityData/TransitFeeds.com.
+*   [Transitland](https://transit.land/) - Community editable list of many transit agency GTFS datasets. Also provides an API to access the data as JSON/GeoJSON and a playground to try out the data.
+
+### Web Apps (open source)
+
+*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. No longer maintained.
+
+### Native Apps (open source)
+
+*   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
+
+## [33. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Traveling
 
 *   [location-location-location (⭐28)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
-## [33. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [34. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Observability
 
@@ -343,7 +359,7 @@
 
 *   [insomnimus/nodi (⭐3)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 
-## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [36. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
@@ -378,25 +394,25 @@
 *   [DataHub (⭐6.5k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 *   [Marquez (⭐1.2k)](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
-## [36. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [37. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
 *   [Filebase](https://filebase.com)  is the first S3-compatible object storage platform that allows you to store data in a secure, redundant, and performant manner across multiple decentralized storage networks. Its unique storage backend connects to multiple decentralized storage networks, enabling global presence and reliability. Filebase currently supports storage on the IPFS, Sia, Skynet and Storj networks.
 
-## [37. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Reference Projects
 
 *   [k6-template-es6 (⭐50)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
 
-## [38. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [39. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2021
 
 *   [Auditing Black-Box Prediction Models for Data Minimization Compliance](https://www.cs.bu.edu/faculty/crovella/paper-archive/minimization-audit-Neurips21.pdf) - (NeurIPS) *Measures the level of data minimization satisfied by the prediction model using a limited number of queries.*
 
-## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -410,7 +426,7 @@
 
 *   [vite-go (⭐61)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
-## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
@@ -427,7 +443,7 @@
 
 *   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐1.2k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
 
-## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [42. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Machine Learning
 
@@ -442,7 +458,7 @@
 *   [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 
-## [42. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [43. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Multimedia
 
@@ -451,7 +467,7 @@
 *   [DDEX](https://ddex.net/standards/) - The industry standard for music metadata, including archiving, sound recording, sales and usage reporting, royalties and license deals.
 *   [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - Quality insurance guidelines to format music, art, and metadata to increase discoverability.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -470,7 +486,7 @@
 
 *   [CanKolay3499/CNvim (⭐15)](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 
-## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bit-packing and Compression
 
@@ -664,7 +680,7 @@
 
 *   [justforfunc](https://www.youtube.com/c/justforfunc) - Youtube channel dedicated to Go programming language tips and tricks, hosted by  Francesc Campoy [@francesc](https://twitter.com/francesc).
 
-## [45. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [46. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Learning with Cognitive Plausibility / Visual Complexity
 

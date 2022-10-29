@@ -1,24 +1,30 @@
 # Awesome List Updates on Feb 23, 2016
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Jay Fields <http://blog.jayfields.com>
+
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Editors / Runner
 
 *   [Draft.js (⭐22k)](https://github.com/facebook/draft-js) - A React framework for building text editors.
 
-## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Guides
 
 *   [The Flexbox Reading List: Techniques and Tools](https://www.smashingmagazine.com/author/cosima-mielke/)
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -29,25 +35,31 @@
 
 *   [efrisby (⭐17)](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Amit Merchant (⭐1)](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
+
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Applications
 
 *   [SnappyData (⭐1k)](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 
-## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### C / Syntax highlighting packages
 
 *   [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
 
-## [6. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 
-## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### DVB & WiFi
 
@@ -63,13 +75,13 @@
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
 *   [MP4Box.js (⭐1.3k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
-## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Game Frameworks / XML
 
 *   [DAllegro5 (⭐39)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 
-## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -78,7 +90,7 @@
     *   [Course Page](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
     *   [Recorded Lectures](http://techtalks.tv/deep-learning-nyu-spring-2015/)
 
-## [10. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [12. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Hadoop
 

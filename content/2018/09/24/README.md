@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24, 2018
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -96,19 +96,31 @@
 
 *   [crystalworld (⭐39)](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
 
-## [6. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [6. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Code
+
+*   [ripple-python-lib (⭐24)](https://github.com/arsenlosenko/python-ripple-lib): Python implementation of JSON-RPC and Data API calls
+
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Riza Fahmi (⭐2)](https://github.com/rizafahmi/ama) - Developer, mentor, speaker. Curriculum Director, Co-Founder Hacktiv8 Coding Bootcamp.
+
+## [8. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Tools / Third-Party Tools
 
 *   [Qompoter (⭐19)](https://github.com/Fylhan/qompoter) - Dependency manager for Qt / C++.
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Privacy Respecting (⭐1.8k)](https://github.com/nikitavoloboev/privacy-respecting) - A curated list of privacy-respecting Services and Software.
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Dependency Injection
 
@@ -118,7 +130,7 @@
 
 *   [FlexiblePageControl (⭐721)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
-## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Hardware / Opcodes
 
@@ -148,7 +160,7 @@
 
 *   [The Game Boy Archive - Salvage (⭐18)](https://github.com/gb-archive/salvage) - Historical archive of software, old articles, FAQs and various documents.
 
-## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software Containers / Metric & Metric Collection
 
@@ -157,7 +169,7 @@
     *   [Docker Swarm](https://docs.docker.com/engine/swarm/) - Manage cluster of Docker Engines.
     *   [Portainer](https://portainer.io/) - Simple management UI for Docker.
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [13. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 

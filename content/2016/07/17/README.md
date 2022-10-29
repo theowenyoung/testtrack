@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [EasyIntro](https://github.com/meNESS/EasyIntro) - The flexible, easy to use, all in one app intro library for your Android project.
 
-## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Dennis Felsing <https://hookrace.net/>
+
+## [3. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Web Framework
 
@@ -22,7 +28,7 @@
 
 *   [exercism.io](http://exercism.io/languages/clojure)
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Bluetooth
 
@@ -38,13 +44,13 @@
 
 *   [KRAlertController (⭐52)](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
 
-## [4. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [5. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Related Technologies
 
 *   [Background Sync (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
 
-## [5. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
+## [6. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
 ### Service Workers
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27, 2017
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,6 +24,42 @@
 ### Javascript / Isomorphic web frameworks
 
 *   [SmackJack (⭐17)](https://github.com/aarvid/SmackJack) - An Ajax Common Lisp Library using parenscript to generate javascript and hunchentoot (for now) as the web server. Also allows a server-side lisp function to call a client-side parenscript one. [MIT](https://opensource.org/licenses/MIT).
+
+## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Portugal 🇵🇹
+
+### Wrocław
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ferrannp" height="70px" width="70px" align="left" alt="" />
+
+**Ferran Negre**\
+Topics: React Native, React, Testing, JavaScript, Android\
+<https://twitter.com/ferrannp>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/grabbou" height="70px" width="70px" align="left" alt="" />
+
+**Mike Grabowski**\
+Topics: React Native, JavaScript, Tooling\
+<https://twitter.com/grabbou>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thymikee" height="70px" width="70px" align="left" alt="" />
+
+**Michał Pierzchała**\
+Topics: React Native, Jest, Testing, CSS\
+<https://twitter.com/thymikee>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
+
+**Mike Chudziak**\
+Topics: React, React Native, iOS, Android\
+<https://twitter.com/michal_chudziak>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
+
+**Satyajit Sahoo**\
+Topics: React, React Native, CSS in JS, Tooling\
+<https://twitter.com/satya164>
 
 ---
 

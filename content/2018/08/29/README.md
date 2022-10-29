@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29, 2018
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,39 +56,49 @@
 
 *   [TypeScript composite monorepo (⭐125)](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [Mobility as a Service API](http://maas-api.org/) - A set of open documents and test suite that defines a MaaS-compatible API (e.g., a [MaaS Transport Service Provider Booking API (⭐14)](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
+
+### Government reports / Ruby
+
+*   [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
+
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Texas Instruments
 
 *   [`tm4c123x`](https://crates.io/crates/tm4c123x) Peripheral access API for TM4C123x microcontrollers (generated using svd2rust)
 *   [`tm4c129x`](https://crates.io/crates/tm4c129x) Peripheral access API for TM4C129x microcontrollers (generated using svd2rust)
 
-## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### User Groups / Ruby
 
 *   [Barcelona](https://www.meetup.com/dddbcn/)
 
-## [10. Guides](/content/NARKOZ/guides/README.md)
+## [11. Guides](/content/NARKOZ/guides/README.md)
 
 ### Other / Bots
 
 *   [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 *   [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### SSRF
 
 *   [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) - Written by [@0xacb](https://twitter.com/0xacb).
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Security
 
 *   [Jwt.Net (⭐1.9k)](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 
-## [13. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Automation / Code libraries and bindings
 
@@ -100,7 +110,7 @@
 
 *   [ThreatIngestor (⭐601)](https://github.com/InQuest/ThreatIngestor) - Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.
 
-## [14. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [15. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Development Tools
 

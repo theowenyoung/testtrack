@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -132,6 +132,32 @@
 ### Components & Libraries / UI Components
 
 *   [vue3-tabs (⭐28)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
+
+## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
+
+> Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
+
+![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30-60m |
+
+### Party
+
+### [Catan: Explorers & Pirates Expansion](https://boardgamegeek.com/boardgame/135378/catan-explorers-pirates)
+
+> Catan: Explorers & Pirates is the fourth major expansion for The Settlers of Catan. It includes five scenarios and three missions; some of the scenarios make use of the missions while others do not. This expansion is based on the CATAN base game rules but also contains a number of new game mechanisms. For example, ships are now equipped for expeditions and can be moved freely across the board. In the ships you transport settlers, crews, fish, or spices across the seas. The main goal is to build new outposts on the islands that are still undiscovered and to complete the Council of Catan's missions in the most skillful way possible. Catan: Explorers & Pirates differs from the Catan base game in three main ways. First, instead of having only a single island in the game on which players build and compete for resources, three islands are present. Second, instead of using cities, Catan: Explorers & Pirates allows players to build port settlements. Like cities, port settlements are worth two victory points (VPs), and the number of VPs required to win depends on the scenario. Third, if a player receives no resources during the production roll (other than on a roll of 7), she receives one gold in compensation. The winner is the first one who reaches 17 VPs.
+
+![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc\(\)/pic2420310.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |      12+ | 90-120m |
 
 ---
 

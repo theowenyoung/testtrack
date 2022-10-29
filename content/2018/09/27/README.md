@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -236,6 +236,28 @@ Webpage: <https://ironcladcoffee.com/>
 ### Visual Programming Languages
 
 *   [cables](https://cables.gl) \[Cross-platform/Web] - Your model kit for creating beautiful interactive content. Currently in private beta, invites can be requested.
+
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / France 🇫🇷
+
+### Lille
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/EmmanuelDemey" height="70px" width="70px" align="left" alt="" />
+
+**Emmanuel Demey**\
+Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch\
+<https://twitter.com/EmmanuelDemey>
+
+### North America / Canada 🇨🇦
+
+### Montréal
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AurelienLoyer" height="70px" width="70px" align="left" alt="">
+
+**Aurélien Loyer**\
+Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT\
+<https://twitter.com/AurelienLoyer>
 
 ---
 

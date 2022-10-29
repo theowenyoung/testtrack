@@ -1,12 +1,13 @@
 # Awesome List Updates on Apr 08, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@KrauseFx](https://github.com/krausefx), [fastlane (⭐36k)](https://github.com/fastlane/fastlane)
     *   "Scaling open source communities" ([post](https://krausefx.com/blog/scaling-open-source-communities))
 
@@ -74,13 +75,19 @@
 
 *   [L3GD20](https://crates.io/crates/l3gd20) - SPI - Gyroscope - [Intro blog post](http://blog.japaric.io/wd-1-2-l3gd20-lsm303dlhc-madgwick/) - ![crates.io](https://img.shields.io/crates/v/l3gd20.svg)
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Chaitanya Giri (⭐0)](https://github.com/chaitanyagiri/ama) - Full-stack developer, JavaScript <3, tabs over spaces, open source enthusiast.
+
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Event Gateway (⭐29)](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
@@ -90,7 +97,7 @@
 
 *   [vue-ramda (⭐18)](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 
-## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Getting Help
 

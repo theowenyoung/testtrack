@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12 - Sep 18, 2016
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -660,19 +660,25 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [A Nerd’s Guide to Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
-## [32. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [32. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Favicon
+
+*   [favicomatic](http://www.favicomatic.com/)
+
+## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Journals / Topic-specific
 
 *   *[IEEE Transactions on Network Science and Engineering](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true\&punumber=6488902)* (IEEE).
 
-## [33. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [34. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Other
 
 *   [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
-## [34. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Deploy
 
@@ -683,13 +689,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [CulturalMe/meteor-slingshot :fire::fire::fire: (⭐597)](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 *   [ncw/rclone :fire::fire::fire::fire::fire: (⭐35k)](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 
-## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Development Setup / Third-party Service Integration
 
 *   [Laragon](https://laragon.org/) -  Isolated development environment on Windows
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -717,7 +723,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) - A Group For Individuals Who Tackle Reliability Challenges For Web-Scale Systems.
 
-## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [38. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Color
 
@@ -727,7 +733,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 *   [Lonely Planet](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
@@ -742,13 +748,13 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 *   [Jint (⭐2.9k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
 *   [Jurassic (⭐724)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
-## [39. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [40. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
-## [40. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [41. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### System Utilities / Directory Navigation
 

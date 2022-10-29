@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -150,6 +150,7 @@
 *   [Microservices Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - Guide to ponder costs and benefits of the mircoservices architectural style.
 
 ## [6. Tips](/content/git-tips/tips/README.md)
+
 ## Get the name of current branch.
 
 ```sh
@@ -175,6 +176,12 @@ git rev-parse --abbrev-ref HEAD
 ### Nix tools
 
 *   [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) - Visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.
+
+## [8. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 
 ---
 

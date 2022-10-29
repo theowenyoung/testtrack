@@ -18,5 +18,5 @@
 
 ---
 
-- Prev: [Dec 14, 2013](/content/2013/12/14/README.md)
-- Next: [Nov 28, 2013](/content/2013/11/28/README.md)
+- Prev: [Dec 08, 2013](/content/2013/12/08/README.md)
+- Next: [Dec 05, 2013](/content/2013/12/05/README.md)

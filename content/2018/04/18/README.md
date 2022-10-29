@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2018
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,16 @@
 
 *   [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 
-## [2. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Agency Tools
+
+*   [AC Transit RestroomFinder (⭐0)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
+*   [AC Transit Training and Education Department (TED) application (⭐7)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
+*   [AC Transit Customer Relations application (CusRel) (⭐6)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
+*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐13)](https://github.com/camsys/transam_core).
+
+## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Packagist Mirrors / IRC
 
@@ -22,7 +31,7 @@
     *   Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
     *   Japan - [packagist.jp](https://packagist.jp)
 
-## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -41,25 +50,25 @@
 
 *   [HTTPLab (⭐3.8k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 
-## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Commercial Offerings
 
 *   [JIRA SSO Plugin by codecentric](https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview)
 
-## [5. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
+## [6. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
 
 ### Editors
 
 *   [VS Code (⭐18)](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code.
 
-## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Java
 
 *   [seleniumQuery (⭐70)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
@@ -69,13 +78,21 @@
 
 *   [Fleck (⭐2k)](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Guides
 
 *   [Error message catalog (⭐437)](https://github.com/yogthos/clojure-error-message-catalog)
 
-## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [10. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### operations
+
+*   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
+*   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
+*   [geojson-polygon-labels (⭐73)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+
+## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -89,20 +106,20 @@
 
 *   [Moving Past Shallow Incident Data](http://www.adaptivecapacitylabs.com/blog/2018/03/23/moving-past-shallow-incident-data/)
 
-## [10. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
+## [12. Awesome Unity](/content/RyanNielson/awesome-unity/README.md)
 
 ### Augmented & Virtual Reality
 
 *   [Virtual Reality Toolkit (⭐3.6k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Pomidorus (⭐177)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Container Service
 

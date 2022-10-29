@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Fabio Spampinato (⭐3)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 
@@ -62,25 +68,25 @@
 
 
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Social Networking / System Related Tools
 
 *   [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [5. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
+## [6. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 
 ### Articles
 
 *   [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [envato/stack\_master :fire::fire: (⭐276)](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Algorithms and Data Structures
 
@@ -88,7 +94,7 @@
 *   [Ke (⭐45)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
@@ -98,19 +104,19 @@
 
 *   [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### API
 
 *   [SwiftyInsta (⭐214)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
-## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-using (⭐11)](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 

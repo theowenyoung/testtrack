@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 19, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,49 +26,63 @@
 
 *   [Stack Overflow](https://stackoverflow.com/tags/dart)
 
-## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / W companies
+
+*   Wemake.services <https://medium.com/wemake-services>
+
+### Individuals/Group Contributors / D individuals
+
+*   Daily JS <https://medium.com/dailyjs>
+
+### Individuals/Group Contributors / H individuals
+
+*   Henrik Warne <https://henrikwarne.com/>
+
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Routing addons
 
 *   [ember-router-scroll (⭐203)](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
-## [4. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Tutorials
 
 *   [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Content management systems
 
 *   [KeystoneJS (⭐7.1k)](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chat
 
 *   [MessengerKit (⭐1.4k)](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI
 
 *   [Flip Panel (⭐531)](https://github.com/hnvn/flutter_flip_panel) <!--stargazers:hnvn/flutter_flip_panel--> - Flip panel with built-in animation by [HungHD](https://github.com/hnvn)
 
-## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop'n'play sampler: drop .WAV samples on the SD card, and play!
 
-## [9. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [10. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2012
 
 *   [Brian Leroux: **WTFJS**](https://www.youtube.com/watch?v=et8xNAc2ic8) \[18:26]
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Admin Interface
 

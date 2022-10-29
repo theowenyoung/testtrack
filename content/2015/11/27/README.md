@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 27, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,22 @@
 
 *   [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
 
-## [4. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Papers
+
+*   [Optimization Based Controller Design and Implementation for the
+    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/\~cga/drc/ICHR15_0025_MS.pdf)
+
+### Competitions
+
+*   [European Robotics Challenges](http://www.euroc-project.eu/)
+
+### Misc
+
+*   [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
+
+## [5. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Modules
 

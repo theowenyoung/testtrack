@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,7 +80,13 @@
 
 *   [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
-## [11. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / Z companies
+
+*   Zapier <https://zapier.com/engineering/>
+
+## [12. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -95,7 +101,7 @@
 
 
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

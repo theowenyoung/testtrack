@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2017
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -158,6 +158,12 @@
 *   Professor Forcing: A New Algorithm for Training Recurrent Networks (2016), A. Lamb et al. [\[pdf\]](https://arxiv.org/pdf/1610.09038)
 *   What makes for effective detection proposals? (2016), J. Hosang et al. [\[pdf\]](https://arxiv.org/pdf/1502.05082)
 *   Trust Region Policy Optimization (2015), J. Schulman et al. [\[pdf\]](http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf)
+
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Curalate <http://engineering.curalate.com/>
 
 ---
 

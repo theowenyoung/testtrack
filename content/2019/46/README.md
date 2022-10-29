@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18 - Nov 24, 2019
 
-54 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -480,13 +480,19 @@
 
 *   [Planet Lisp](http://planet.lisp.org/) - A meta blog that collects the contents of various Lisp-related blogs.
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Resources
+
+*   [Low Resource Languages (⭐294)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-restricted-input (⭐11)](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input (⭐64)](https://github.com/braintree/restricted-input)
 
-## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -505,20 +511,69 @@
 
 *   [Digital History (⭐145)](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
-## [46. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [47. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [graph-2-text (⭐145)](https://github.com/diegma/graph-2-text) - Graph to sequence implemented in Pytorch combining Graph convolutional networks and opennmt-py.
 *   [Transformers (⭐73k)](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
 
-## [47. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [48. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### UI / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Essence (⭐1)](https://github.com/essence-language/vscode-extension)
 
-## [48. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [49. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+
+### Mathematics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/mathematics.webp">
+
+[**Mathematics**](https://discord.com/invite/BacbVax) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+Notable Channels: `#prealg-algebra`, `#calculus`, `#linear-algebra`,`#computing-software`, `#probability-statistics`, `#discrete-math`, `#abstract-algebra`, `#questions`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+### Physics
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/physics.webp">
+
+[**Physics**](https://discord.com/invite/N5jVwsg) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/)\
+Notable Channels: `#questions`, `#undergrad-physics`, `#graduate-physics` `#mathematical-physics`, `#astronomy-and-cosmology`, `#computational-physics`, `#engineering`, `#challenges` \
+Language: English
+### Microprocessors and Microcontrollers
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/amulius___embedded_engineering__.webp">
+
+[**Amulius - Embedded Engineering**](https://discord.com/invite/SrJEYjq) \
+Notable Channels: `#general`, `#arm`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#career`, `#dsp-machine-learning`, `#fpga`, `#pcb`, `#protocols-rf` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/arduino.webp">
+
+[**Arduino**](https://discord.gg/jQJFwW7) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://arduino.cc/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/BluLightShow/arduino-bot) \
+Notable Channels: `#arduino-discussion`, `#product-help`, `#coding-help`, `#pcb-help`,`#adafruit-help`, `#show-off-your-ideas`, `#project-ideas` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/raspberry_pi.webp">
+
+[**Raspberry Pi**](https://discord.com/invite/bVVbSqQ) \
+Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
+Language: English
+### DIY
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/adafruit.webp">
+
+[**Adafruit**](https://discord.com/invite/5FBsBHU) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.adafruit.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/adafruit) \
+Notable Channels: `#circuitpython`, `#arduino`, `#3dprinting`, `#radio`,`#raspberry-pi`, `#wearables`, `#robotics`, `#help-with-projects`, `#iot`, `#events` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/diy_tech.webp">
+
+[**DIY Tech**](https://discord.com/invite/diytech) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/KazWolfe/HuskyBot) \
+Notable Channels: `#programming`, `#hardware-help`, `#software-help`,`#code-review`, `#project-showcase`, `#audio-tech`, `#retro-tech` \
+Language: English
+
+## [50. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -540,7 +595,7 @@
 
 *   [Publish module to Puppet Forge (⭐8)](https://github.com/barnumbirr/action-forge-publish)
 
-## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [51. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -550,7 +605,7 @@
 
 *   [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
 
-## [50. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [52. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Wallet
 
@@ -560,13 +615,13 @@
 
 *   [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 
-## [51. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [53. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Open source code
 
 *   [Spellcast (⭐5)](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
 
-## [52. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [54. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -577,13 +632,14 @@
 *   [StringSifter (⭐586)](https://github.com/fireeye/stringsifter) - A machine learning tool
     that automatically ranks strings based on their relevance for malware analysis.
 
-## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Storage and Media Processing
 
 *   [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
 
-## [54. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [56. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
     *   "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
     *   "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))

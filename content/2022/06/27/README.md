@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 27, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1262,7 +1262,13 @@
 
 *   [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
-## [9. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [tidytransit (⭐111)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+
+## [10. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -1273,7 +1279,7 @@
 
 *   [Awesome Electronics (⭐4.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -1287,13 +1293,13 @@
 
 *   [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
 *   [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
 
-## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### OS Encryption
 
@@ -1304,7 +1310,7 @@
 
 *   [No-Telemetry (⭐148)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
-## [13. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [14. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Monitoring
 

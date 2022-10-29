@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02 - May 08, 2016
 
-37 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,49 @@
 
 *   [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 
-## [2. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [2. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+
+### Community
+
+*   [RethinkDB Blog](https://www.rethinkdb.com/blog/)
+
+### Community / Drivers
+
+*   [RethinkDB JavaScript](https://www.rethinkdb.com/docs/install-drivers/javascript/) - Officially Supported JavaScript Driver.
+*   [RethinkDB Dash (⭐854)](https://github.com/neumino/rethinkdbdash) - An advanced Node.js driver for RethinkDB with connection pool and Streams Support.
+*   [RethinkDB Python](https://www.rethinkdb.com/docs/install-drivers/python/) - Officially Supported JavaScript Driver.
+*   [RethinkDB Ruby](http://rethinkdb.com/docs/install-drivers/ruby/) - Officially Supported Ruby Driver.
+*   [RethinkDB Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Supported Java Driver.
+
+### Community / ORM
+
+*   Maintainer: `Michel`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/twitter.png)](https://twitter.com/neumino)
+*   Maintainer: `JS Data Organization`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/js-data)
+*   [Remodel (⭐195)](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
+*   [Rethink (⭐16)](https://github.com/caoimhghin/rethink) - Python RethinkDB Object Mapper Interface Inspired by Appengine NDB.
+*   Maintainer: `Kevin Amerson`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/caoimhghin) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/twitter.png)](https://twitter.com/kevinamerson)
+
+### Community / Technology Integrations
+
+*   Maintainer: `Hao-kang Den`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/hden)
+*   [Hapi RethinkDB CRUD (⭐3)](https://github.com/athlite/hapi-rethinkdb-crud) - CRUD handlers for Hapi interaction with Rethinkdb.
+*   Maintainer: `Thomas Eng`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/athlite)
+*   Maintainer: `Matt Wielbut`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/mwielbut) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/twitter.png)](https://twitter.com/mwielbut)
+*   Maintainer: `Andrei Horak`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/linkyndy) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/twitter.png)](https://twitter.com/linkyndy)
+*   [flask-rethinkdb (⭐27)](https://github.com/linkyndy/flask-rethinkdb) - Adds RethinkDB support to Flask.
+*   [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - Integrating RethinkDB with RabbitMQ
+
+### Community / Extension Libraries
+
+*   Maintainer: `@armenfilipetyan`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/raw/master/black/png/16/github.png)](https://github.com/armenfilipetyan)
+
+## [3. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Documentation / Python
 
 *   [Wikipedia](https://en.wikipedia.org/wiki/Test_Anything_Protocol)
 
-## [3. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [4. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Videos
 
@@ -39,32 +75,38 @@
 *   [start-ava (⭐8)](https://github.com/start-runner/ava) - Run tests with Start.
 *   [sigh-ava (⭐0)](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [Tim-B/grunt-aws-lambda :fire::fire: (⭐246)](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 
-## [5. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [6. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Audio
 
 *   [Incompetech](http://incompetech.com/music/) - Royalty free music from Kevin MacLeod.
 
-## [6. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Organizations
 
 *   [OpenAI](https://openai.com/about/)
 *   [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [8. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Joe Lencioni (⭐1)](https://github.com/lencioni/ama) - Building [ImportJS (⭐518)](https://github.com/Galooshi/import-js) and [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f). Web infra at [Airbnb](https://www.airbnb.com).
+
+## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
 *   [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 
-## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [10. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Code
 
@@ -78,7 +120,7 @@
 
 *   [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Public Domain
 
@@ -100,7 +142,7 @@
 
 *   [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -110,13 +152,13 @@
 
 *   [electron-rebuild (⭐900)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
-## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Misc
 
 *   [ReactJS.NET (⭐2.2k)](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
 
-## [12. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [14. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Serial port
 
@@ -138,56 +180,62 @@
 *   [DHibernate (⭐6)](https://github.com/thecocce/delphi-hibernate). `[Delphi]` Object Persistent Framework based on Hibernate and NHibernate for Delphi.
     // *Abandoned since 2012*
 
-## [13. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [15. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Visualization, Dashboards / Firmwares for ESP based Devices
 
 *   [mqtt-svg-dash (⭐57)](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.
 
-## [14. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [16. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [PacketQ (⭐379)](https://github.com/dotse/PacketQ): A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON, CSV and XML and includes a build-in webserver with JSON-api and a nice looking AJAX GUI.
 
-## [15. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [17. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [geojson-multiply (⭐2)](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
+
+## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Lists / Book/monograph Lists and Reviews
 
 *   [RStudio Addins (⭐741)](https://github.com/daattali/addinslist) - List of RStudio addins.
 
-## [16. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Miscellaneous
 
 *   [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
 
-## [17. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [20. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 
-## [18. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [21. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### GitHub
 
 *   [GitHub Template Guidelines (⭐196)](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 
-## [19. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 *   [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
 
-## [21. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -203,7 +251,7 @@
 
 *   [crustache (⭐77)](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
 
-## [22. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [25. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Self Publishing
 
@@ -213,25 +261,25 @@
 
 *   [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
 
-## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [26. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [spam (⭐102)](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
 
-## [24. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [27. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### More Awesome Lists
 
 *   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
-## [25. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [28. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### browserify
 
 *   [glslify (⭐2k)](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
 
-## [26. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [29. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Implementations
 
@@ -256,7 +304,7 @@
 
 *   [The introduction to Reactive programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - Reactive programming using Observables.
 
-## [27. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -271,14 +319,43 @@
 
 *   [Reddit](https://www.reddit.com/r/tensorflow)
 
-## [28. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [31. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [UniversalRelayBoilerplate (⭐713)](https://github.com/codefoundries/UniversalRelayBoilerplate)
     Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
 
-## [29. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
+## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Companies
+
+*   [Boston Dynamics](http://www.bostondynamics.com/) robotics R\&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
+*   [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
+*   [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
+*   [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
+*   [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
+*   [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
+*   [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+
+### Misc
+
+*   [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
+*   [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
+*   [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
+
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / I companies
+
+*   Intel <https://software.intel.com/en-us/blogs/>
+
+### Individuals/Group Contributors / F individuals
+
+*   Filippo Valsorda <https://blog.filippo.io/>
+
+## [34. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/week/README.md)
+
 ### Back to Top Button
 
 By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin to create a simple scroll-to-top animation:
@@ -381,7 +458,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -403,7 +480,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 
-## [31. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [36. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Admin interface
 
@@ -419,7 +496,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 *   [pyramid\_sms (⭐6)](https://github.com/websauna/pyramid_sms) -
     SMS services for Pyramid web framework.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### StackView / Barcode
 
@@ -430,13 +507,13 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [SwiftyUtils (⭐529)](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 
-## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
-## [34. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
@@ -447,7 +524,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [is-fqdn (⭐22)](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 
-## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [40. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Social, Economic and Political Networks
 
@@ -455,7 +532,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 *   [OSoMe](http://osome.iuni.iu.edu/) - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
 *   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](http://partnertool.net/) - Excel-based tool for building networks from surveys.
 
-## [36. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [41. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Plugins and libraries
 
@@ -466,7 +543,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 *   [Testing (⭐15)](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
-## [37. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [42. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 

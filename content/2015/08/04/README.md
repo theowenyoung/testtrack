@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,6 +46,13 @@
 
 *   [isitup (⭐53)](https://github.com/lord63/isitup) - Check whether a website is up or down
 *   [licen (⭐33)](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / D companies
+
+*   Databricks <https://databricks.com/blog>
+*   DataFox <http://eng.datafox.co/>
 
 ---
 

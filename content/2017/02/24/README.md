@@ -31,6 +31,7 @@
     Ruby bindings to [Hunspell](https://hunspell.github.io/) via Ruby C API.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Saving current state of unstaged changes to tracked files
 
 ```sh

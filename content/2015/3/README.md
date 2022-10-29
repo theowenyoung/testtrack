@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19 - Jan 25, 2015
 
-20 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -213,32 +213,46 @@
 *   [The Fundamental Matrix Song](http://danielwedge.com/fmatrix/)
 *   [The RANSAC Song](http://danielwedge.com/ransac/)
 
-## [4. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [4. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### Animation
+
+*   JavaScript
+    *   [Waves (⭐3.5k)](https://github.com/fians/Waves) — Click effect inspired by Google's Material Design.
+    *   [material-design-hamburger (⭐93)](https://github.com/swirlycheetah/material-design-hamburger) — Android's Material Design hamburger animation built in CSS.
+    *   [Material-Preloader (⭐375)](https://github.com/aarondo/Material-Preloader) — A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
+    *   [Google-material-design-ripple-effect (⭐13)](https://github.com/ninox92/Google-material-design-ripple-effect) — jQuery plugin recreates ripple and focus effect.
+
+### Other
+
+*   [material\_design\_zh (⭐3.1k)](https://github.com/1sters/material_design_zh) — Material Design Collaborative Chinese translation
+
+## [5. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Documentation
 
 *   [CFScript Reference (⭐100)](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
 
-## [5. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [6. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Websites
 
 *   [Planet Erlang](http://www.planeterlang.com/) - Planet site/RSS feed of blog posts covering topics across the Erlang ecosystem.
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Weird
 
 *   [cat-names (⭐263)](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 *   [dog-names (⭐123)](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 
-## [7. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Hardware and Embedded Systems
 
 *   [eLua](http://www.eluaproject.net/) - Lua, extended with optimizations and specific features for efficient and portable embedded software development.
 
-## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -277,7 +291,7 @@
 
 
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
@@ -322,44 +336,92 @@
 *   [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 *   [A chess AI that learns to play chess using deep learning. (⭐761)](https://github.com/erikbern/deep-pink)
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Videos / Third-party Service Integration
 
 *   [Laracasts](https://laracasts.com/)
 
-## [11. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [12. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Bootstraps and boilerplates
 
 *   [dojo.js (⭐15)](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Machine Learning and Data Science
 
 *   [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
 *   [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   Clone new plugins into `.zsh.local/modules`
 
-## [14. Guides](/content/NARKOZ/guides/week/README.md)
+## [15. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / Go
 
 *   [Go Code Review Comments (⭐105k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
-## [15. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [16. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Official
+
+*   [Ripple Website](https://ripple.com/)
+*   [Ripple Github](https://github.com/ripple/)
+
+### Books / Docs / Videos
+
+*   [Ripple Labs: Building the Internet of Money](https://www.youtube.com/watch?v=aoixyCNWg5k)
+
+### Gateways / Bridges
+
+*   [PaxMoneta](https://paxmoneta.com)
+*   [Ripple Market Korea](http://ripple-market.co.kr/)
+*   [ShapeShift](https://shapeshift.io): Buy Coins Instantly, No Account Needed
+
+### Code
+
+*   [rippled (⭐4.2k)](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
+*   [ripple-python (⭐49)](https://github.com/miracle2k/ripple-python/): Python Lib
+*   [rubblelabs/ripple (⭐89)](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+*   [ripple-client (⭐1.3k)](https://github.com/ripple/ripple-client/): Web client
+*   [ripple-client-desktop (⭐118)](https://github.com/ripple/ripple-client-desktop): Desktop client
+*   [ripplecharts (⭐33)](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
+*   [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
+*   [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
+*   [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
+*   [ripple-blobvault (⭐36)](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+*   [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
+*   [rippled-historical-database (⭐91)](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+*   [ripple-data-api (⭐47)](https://github.com/ripple/ripple-data-api)
+*   [ripple-vault-client](https://github.com/vhpoet/awesome-ripple/blob/master/README.md/ripple-vault-client)
+*   [federation-python (⭐4)](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+*   [Ripple Rails (⭐5)](https://github.com/singpolyma/ripple-rails/)
+*   [Ripple Gen (⭐24)](https://github.com/CodeShark/RippleGen/)
+*   [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
+*   [rubblelabs/tx (⭐18)](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+
+### Hosted Tools
+
+*   [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
+
+### Codius
+
+*   [Codius Website](https://codius.org/)
+*   [Codius Github](https://github.com/codius)
+
+## [17. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Websites and Tutorials
 
 *   [Draw Particles using HTML5 Canvas](https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a) - Shortcut tutorial shows how create simple and colorful particles.
 
-## [16. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -381,7 +443,7 @@
     *   [data\_miner (⭐299)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
     *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Markdown
 
@@ -391,7 +453,7 @@
 
 *   [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
 
-## [18. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [20. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Class Builder / DSP
 
@@ -492,7 +554,7 @@
 
 *   [bayandin/awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
 
-## [19. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
+## [21. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
 ### GDC Talks / Table of Contents
 
@@ -512,7 +574,7 @@
 *   \[2014, Indievelopment] [Attempting Deep Work, Surviving Long Projects](http://vimeo.com/94259578): Jonathan Blow (Number None, Inc.)
 *   \[2011, Berkeley] [Programming Aesthetics Learned From Making Independent Games](https://www.youtube.com/watch?v=JjDsP5n2kSM): Jonathan Blow (Number None, Inc.)
 
-## [20. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [22. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2015
 
-32 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -259,6 +259,7 @@
 *   [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
 
 ## [16. Tips](/content/git-tips/tips/week/README.md)
+
 ## Show inline word diff.
 
 ```sh
@@ -286,31 +287,47 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [Linked.in](https://www.linkedin.com/groups/100943) - Large and active group on Linked.in.
 
-## [18. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [18. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / A companies
+
+*   AWS <https://aws.amazon.com/blogs/aws/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Mykhailo Kozik <http://mishadoff.com/>
+
+## [19. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Armagan Amcalar (⭐1)](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
+
+## [20. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
 *   [CSS](https://atom.io/packages/linter-stylelint) — stylelint
 
-## [19. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [21. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 
 *   [Babel 6.0](https://www.youtube.com/watch?v=Q_ncaTYEizc) By Sebastian McKenzie
 
-## [20. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Light Table (⭐12k)](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 
-## [21. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [23. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Web services
 
 *   [Protobox](http://getprotobox.com/) - PuPHPet analog, but uses own installer with YAML configuration format to control everything that is installed on the virtual machine.
 
-## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Natural Language Processing / Data Analysis / Data Visualization
 
@@ -324,7 +341,7 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [TDB (⭐1.4k)](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 
-## [23. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [25. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
@@ -340,7 +357,7 @@ git update-index --no-assume-unchanged <file_name>
 *   [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
 *   [Zopim](https://www.zopim.com/) - Live chat with free trial.
 
-## [24. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [26. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Application Frameworks
 
@@ -389,26 +406,26 @@ git update-index --no-assume-unchanged <file_name>
 *   [Official Lucee Server Documentation](http://docs.lucee.org/) - New Lucee Documentation
 *   [Railo Documentation (⭐245)](https://github.com/getrailo/railo/wiki) - Official Railo docs
 
-## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Haskell / Symfony2
 
 *   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [26. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [28. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [30. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Polyfills
 
@@ -430,7 +447,7 @@ git update-index --no-assume-unchanged <file_name>
 *   Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
 *   Nicolas [@necolas](https://twitter.com/necolas)
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -440,7 +457,7 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [30. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -464,13 +481,13 @@ git update-index --no-assume-unchanged <file_name>
 *   full privileges -> isolate on kernel level
 *   absolute privileges -> run it in separate vm
 
-## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [D3.compose (⭐699)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

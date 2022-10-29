@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09, 2015
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,23 @@
 
 *   [Tabris.js](https://tabrisjs.com/)
 
-## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Maxime Euzière (⭐5)](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
+*   [Lim Chee Aun (⭐11)](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
+*   [Darcy Clarke (⭐2)](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
+*   [Vishnu Ks (⭐2)](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
+*   [Nick Desaulniers (⭐0)](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
+
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / L companies
+
+*   Laterooms <http://engineering.laterooms.com/>
+
+## [5. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Benchmark
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2017
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,35 @@
 
 *   [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
+*   [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
+*   [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
+
+### Other
+
+*   [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
+*   [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
+*   [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
+
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   HomeAway <https://tech.homeaway.com/>
+
+### Companies / N companies
+
+*   Novoda <https://www.novoda.com/blog/>
+
+### Companies / S companies
+
+*   Sqreen <https://blog.sqreen.io/>
+
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 

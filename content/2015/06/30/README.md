@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 30, 2015
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,14 +42,20 @@
 
 *   [log4cplus (⭐1.4k)](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. \[BSD & Apache2]
 
-## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** \[1:10:14]
+
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 
 *   [libasync (⭐138)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 *   [libhttp2 (⭐34)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 
-## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Sharing
 
@@ -58,11 +64,21 @@
 *   [Share on Google Plus](http://plus.google.com/share?url=https://jiwonkim.org/awesome-deep-vision)
 *   [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true\&url=https://jiwonkim.org/awesome-deep-vision\&title=Awesome%20Deep%20Vision\&summary=\&source=)
 
-## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Articles
 
 *   [Upgrading to 1.0](https://www.bithound.io/blog/post/upgrading-to-polymer-10) bitHound Blog
+
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Arkency <http://blog.arkency.com/>
+
+### Companies / O companies
+
+*   OpenDNS <https://engineering.opendns.com/>
 
 ---
 

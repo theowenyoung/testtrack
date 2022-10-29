@@ -1,12 +1,106 @@
 # Awesome List Updates on Oct 20 - Oct 26, 2014
 
-6 awesome lists updated this week.
+8 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [1. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Platforms and toolkits
+
+*   [Haxe-linguistics (⭐26)](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
+*   [Natural (⭐9.9k)](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
+*   [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
+*   [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
+
+### Algorithms
+
+*   [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.
+*   [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
+
+### On Wikipedia
+
+*   [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
+*   [Document classification](http://en.wikipedia.org/wiki/Document_classification)
+*   [Language models](http://en.wikipedia.org/wiki/Language_model)
+*   [Naive Bayes classification](http://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+*   [Natural language processing](http://en.wikipedia.org/wiki/Natural_language_processing)
+*   [Outline of natural language processing](http://en.wikipedia.org/wiki/Outline_of_natural_language_processing)
+*   [Parts of speech tagging](http://en.wikipedia.org/wiki/Part-of-speech_tagging)
+*   [Sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis)
+*   [Term frequency - inverse document frequency](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+*   [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
+
+### Books
+
+*   [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ\&dq=Foundations+of+Computational+Linguistics\&hl=nl\&source=gbs_navlinks_s)
+*   [Semisupervised Learning for Computational Linguistics](http://books.google.com/books/about/Semisupervised_Learning_for_Computationa.html?id=VCd67cGB_rAC\&redir_esc=y)
+*   [The Oxford Handbook of Computational Linguistics](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199276349.001.0001/oxfordhb-9780199276349)
+
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** \[1:04:34]
+*   [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** \[32:55]
+*   [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** \[39:32]
+*   [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** \[33:46]
+*   [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** \[27:35]
+*   [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** \[1:10:04]
+*   [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** \[1:01:26]
+*   [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** \[1:10:54]
+*   [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** \[53:30]
+
+### Object-Oriented Programming
+
+*   [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** \[27:29]
+
+### Functional Programming
+
+*   [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** \[51:13]
+*   [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** \[50:34]
+*   [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** \[48:33]
+*   [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak** \[45:46]
+*   [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott** \[56:24]
+*   [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** \[1:06:53]
+
+### Software Design
+
+*   [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** \[58:48]
+*   [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** \[54:40]
+*   [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** \[1:11:09]
+*   [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** \[54:40]
+*   [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland** \[45:19]
+*   [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard** \[1:03:03]
+*   [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski** \[42:34]
+*   [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** \[1:00:18]
+*   [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** \[1:02:30]
+
+### Web Development
+
+*   [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** \[49:06]
+*   [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** \[4:17]
+*   [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** \[29:22]
+*   [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** \[36:30]
+*   [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** \[21:39]
+*   [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** \[27:25]
+*   [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** \[41:42]
+
+### Test-Driven Development
+
+*   [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** \[1:00:37]
+*   [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** \[1:00:33]
+*   [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** \[33:44]
+
+### Methodologies
+
+*   [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** \[45:41]
+*   [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** \[13:12]
+*   [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** \[47:22]
+
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -121,7 +215,7 @@
 
 *   [30 Days of Elixir (⭐2.9k)](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -131,7 +225,7 @@
 
 *   [Skylight (⭐280)](https://github.com/skylightio/skylight-ruby) - A smart profiler for your Rails apps that visualizes request performance.
 
-## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -146,7 +240,7 @@
 
 *   [nvm for Windows (⭐24k)](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
@@ -156,7 +250,7 @@
 
 *   [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Biology
 
@@ -217,7 +311,7 @@
 
 *   [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 

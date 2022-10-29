@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2022
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,7 +37,21 @@
 *   [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - Podcast com Schaeppi como host, para falar sobre diversos assuntos de games..
 *   [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura, para falar sobre diversos assuntos de tecnologia.
 
-## [3. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
+
+> In Jackal the players take command of pirate bands disembarking on Treasure Island. Each player may move their selected pirate once per round. The players explore the island in search of treasure to load on board their ships, while trying to recapture treasure from each other at the same time. The object of the game is to load more gold onto your ship than any other player.
+
+![Jackal image](https://cf.geekdo-images.com/LmNDNw-RdbcQzntcfQjmoQ__itemrep/img/kJZf7177r0fj_W9RmzJdX9t_3Cc=/fit-in/246x300/filters:strip_icc\(\)/pic1638334.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 | 120m |
+
+## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### iOS
 
@@ -63,13 +77,84 @@
 
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+### Links / Courses
+
+*   [Programming Fundamentals in Kotlin](https://www.coursera.org/learn/meta-programming-fundamentals-kotlin) - Practice and expand on the fundamentals of programming that are core to any language as well as the unique aspects of Kotlin syntax.
+*   [Advanced Programming in Kotlin](https://www.coursera.org/learn/advanced-programming-in-kotlin) - Get ready to expand on your Kotlin skills to create common advanced functionality that typical Android apps need.
+
+### Libraries/Frameworks / Tools
+
+*   [facebookincubator/ktfmt (⭐469)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
+
+### Libraries/Frameworks / Misc
+
+*   [ivanisidrowu/KtRssReader (⭐73)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
+
+### Libraries/Frameworks / Command Line Interface
+
+*   [aPureBase/arkenv (⭐17)](https://github.com/aPureBase/arkenv) - Fully fledged command line arguments / environment variables parser via simple Kotlin delegates
+*   [dbaelz/Konclik (⭐46)](https://github.com/dbaelz/Konclik) - Konclik: Kotlin/Native Command Line Interface Kit
+*   [varabyte/kotter (⭐218)](https://github.com/varabyte/kotter) - A declarative, Kotlin-idiomatic API for writing dynamic command line applications
+*   [xenomachina/kotlin-argparser (⭐465)](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
+*   [ajalt/mordant (⭐644)](https://github.com/ajalt/mordant) - Mordant - Full-featured text styling for Kotlin command line applications.
+*   [ajalt/clikt (⭐1.9k)](https://github.com/ajalt/clikt) - Clikt - Intuitive command line interface parsing for Kotlin.
+
+### Libraries/Frameworks / Browsers
+
+*   [wendigo/chrome-reactive-kotlin (⭐72)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+
+### Libraries/Frameworks / I/O
+
+*   [rsocket/rsocket-kotlin](https://rsocket.io) - Kotlin implementation of RSocket.
+*   [square/okio](https://square.github.io/okio) - A modern I/O library for Android, Kotlin, and Java.
+
+### Libraries/Frameworks / Internationalisation and Localization
+
+*   [cashapp/barber (⭐126)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
+
+### Projects / Web
+
+*   [derveloper/kiny](https://github.com/derveloper/kiny) - Your super simple private serverless service running your kotlin functions like AWS lambda.
+*   [MichaelGrigoryan25/kotlin-url-shortener](https://github.com/MichaelGrigoryan25/kotlin-url-shortener) - Basic URL shortener built with Kotlin, Redis and Javalin
+*   [viniciusccarvalho/kodein-cloud-functions (⭐3)](https://github.com/viniciusccarvalho/kodein-cloud-functions) - Provides adapters to different cloud functions providers (AWS, Azure) to run vanilla kotlin functions defined as kodein modules
+*   [yyunikov/spring-boot-2-kotlin-starter (⭐17)](https://github.com/yyunikov/spring-boot-2-kotlin-starter) - Spring Boot 2.0 Kotlin application starter with configurations for Gradle, Mongo, JUnit 5 tests, logging, CircleCI and Docker compose.
+*   [IRus/kotlin-dev-proxy (⭐19)](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
+*   [ratpack/example-ratpack-gradle-kotlin-app (⭐37)](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
+*   [eddywm/KTFLITE (⭐179)](https://github.com/eddywm/KTFLITE) - Computer Vision on Android with Kotlin and Tensorflow Lite.
+*   [mixitconf/mixit (⭐528)](https://github.com/mixitconf/mixit) - MiXiT website
+*   [sdeleuze/spring-boot-kotlin-demo (⭐574)](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
+*   [corda/corda (⭐3.9k)](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners.
+
+### Projects / Build tools
+
+*   [cbeust/kobalt (⭐426)](https://github.com/cbeust/kobalt) - Build system inspired by Gradle.
+
+### Projects / Misc
+
+*   [neworld/gradle-jdeploy-plugin (⭐2)](https://github.com/neworld/gradle-jdeploy-plugin) - Gradle plugin to publish JVM applications via npmjs.com
+*   [krzema12/fsynth (⭐8)](https://github.com/krzema12/fsynth) - Music synthesizer as a Kotlin multiplatform project
+*   [madhead/tyzenhaus (⭐9)](https://github.com/madhead/tyzenhaus) - Shared expenses tracking Telegram bot
+*   [lice-lang/lice (⭐125)](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
+*   [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin (⭐133)](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
+*   [borisf/classyshark-bytecode-viewer (⭐198)](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+*   [chrislo27/RhythmHeavenRemixEditor (⭐385)](https://github.com/chrislo27/RhythmHeavenRemixEditor) - An audio custom remix editor designed for the Rhythm Heaven series, using libGDX and Kotlin.
+*   [sourcerer-io/sourcerer-app (⭐6.7k)](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+*   [quicktype/quicktype (⭐8.8k)](https://github.com/quicktype/quicktype) - Generate Kotlin types and converters from JSON, Schema, TypeScript, and GraphQL
+
+### Projects / Desktop
+
+*   [ice1000/Dekoder (⭐19)](https://github.com/ice1000/Dekoder) - A kotlin music player, materially designed.
+*   [yschimke/okurl (⭐120)](https://github.com/yschimke/okurl) - cURL-like client based on OkHttp.
+
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [7. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -79,25 +164,25 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [kvrohit/mellow.nvim (⭐10)](https://github.com/kvrohit/mellow.nvim) - A soothing dark color scheme with tree-sitter support.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
 
-## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Frontend framework
 
 *   [packup (⭐288)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 

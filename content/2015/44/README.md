@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02 - Nov 08, 2015
 
-36 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,21 @@
     *   Explores concepts and techniques for design and construction of reliable and maintainable software systems in modern high-level languages; program structure and design; program-correctness approaches, including testing.
     *   [Lectures, Assignments, and Exams](http://courses.cs.washington.edu/courses/cse331/15sp/#all)
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / G companies
+
+*   Gusto <http://engineering.gusto.com/>
+
+### Companies / R companies
+
+*   Robert Elder Software <http://blog.robertelder.org/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nelson Elhage <https://blog.nelhage.com/>
+
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Social / Twitter Influencers
 
@@ -56,20 +70,20 @@
 *   [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
 *   [@Werner](https://twitter.com/Werner) - Werner Vogels: CTO.
 
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [MarkRight (⭐907)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 
-## [7. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [8. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2015
 
 *   [Andre Staltz: **What if the user was a function?**](https://www.youtube.com/watch?v=1zj7M1LnJV4) \[32:19]
 *   [Gilmore Davidson: **Time zone of your life**](https://www.youtube.com/watch?v=2BdFg5JT9lg) \[23:40]
 
-## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [9. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### The Fiery Meter of AWSome
 
@@ -78,7 +92,7 @@
 *   [Awesome Browser Extensions (⭐39)](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
 *   [Awesome Heroku (⭐10)](https://github.com/mailtoharshit/awesome-heroku)
 
-## [9. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
@@ -92,7 +106,7 @@
 
 *   [Http-console (⭐1.4k)](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
 
-## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [11. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Papers
 
@@ -136,13 +150,13 @@
 *   [Idris Koans (⭐169)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 *   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 
-## [11. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
 *   [Lettering.js (⭐5.4k)](https://github.com/davatron5000/Lettering.js)
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Caching
 
@@ -156,13 +170,13 @@
 
 *   [FluentAutomation (⭐235)](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 
-## [13. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [14. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Miscellaneous Plugins / Paid Books
 
 *   [Readmore.js (⭐1.5k)](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 
-## [14. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [15. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 
@@ -172,7 +186,7 @@
 
 *   [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
 
-## [15. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [16. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
@@ -218,7 +232,7 @@
 
 *   [Forms (⭐2)](https://github.com/refinery/refinerycms-forms)
 
-## [16. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [17. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
@@ -233,7 +247,7 @@
 *   [The United States Code (⭐732)](https://github.com/divegeek/uscode) - The complete United States Code.
 *   [Le code civil français sous git (⭐2.7k)](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
 
-## [17. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [18. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Specifications
 
@@ -250,7 +264,7 @@
 *   [sysdig-container-ecosystem (⭐102)](https://github.com/draios/sysdig-container-ecosystem)\
     The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
 
-## [18. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [19. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
@@ -284,13 +298,14 @@
 
 *   [RxJava-Android-Samples (⭐7.6k)](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
 
-## [19. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Brainstorm - Fast, flexible and fun neural networks. (⭐1.3k)](https://github.com/IDSIA/brainstorm)
 
-## [20. Tips](/content/git-tips/tips/week/README.md)
+## [21. Tips](/content/git-tips/tips/week/README.md)
+
 ## Everyday Git in twenty commands or so
 
 ```sh
@@ -313,7 +328,7 @@ git fetch origin pull/<id>/head:<branch-name>
 git pull origin pull/<id>/head:<branch-name>
 ```
 
-## [21. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [22. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -369,31 +384,61 @@ git pull origin pull/<id>/head:<branch-name>
 
 
 
-## [22. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [23. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Data Science
+
+#### Practical Data Science with R [\[Amazon\]](http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560)
+
+<img src="http://ecx.images-amazon.com/images/I/51SklHvc%2BZL._SX397_BO1,204,203,200_.jpg" width="200px"/>
+
+Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (such as A/B tests), build predictive models, and present results to audiences of all levels.
+
+This book is accessible to readers without a background in data science. Some familiarity with basic statistics, R, or another scripting language is assumed.
+#### R in Action: Data Analysis and Graphics with R [\[Amazon\]](http://www.amazon.com/gp/product/1617291382)
+
+<img src="http://ecx.images-amazon.com/images/I/41cUuaLl2PL._SX396_BO1,204,203,200_.jpg" width="200px"/>
+
+With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
+#### R Programming for Data Science [\[Leanpub\]](https://leanpub.com/rprogramming) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/rprogramming/large?1437358922" width="200px"/>
+
+R in Action, Second Edition teaches you how to use the R language by presenting examples relevant to scientific, technical, and business developers. Focusing on practical solutions, the book offers a crash course in statistics, including elegant methods for dealing with messy and incomplete data. You'll also master R's extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on forecasting, data mining, and dynamic report writing.
+
+### Finance
+
+#### Exploratory Data Analysis with R [\[Leanpub\]](https://leanpub.com/exdata) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200px"/>
+
+This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
+
+## [24. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
 *   [TakeCharge.io (⭐9)](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
 
-## [23. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [25. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
 *   [Subreddit](https://www.reddit.com/r/pico8/)
 
-## [24. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [26. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Graphics
 
 *   [Unsplash](https://unsplash.com/) - Library of high-resolution images.
 
-## [25. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [27. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 
-## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Game Development
 
@@ -403,14 +448,14 @@ git pull origin pull/<id>/head:<branch-name>
 
 *   [Android-Image-Filter (⭐624)](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 
-## [27. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Wargames
 
 *   [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 *   [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -475,7 +520,7 @@ git pull origin pull/<id>/head:<branch-name>
 
 *   [Pusher (⭐655)](https://github.com/pusher/pusher-http-ruby) - Ruby server library for the Pusher API.
 
-## [29. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [31. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -496,13 +541,19 @@ git pull origin pull/<id>/head:<branch-name>
 
 *   [Re-Inventing the Rosetta Stone Together](https://www.youtube.com/watch?v=OOzAly5Rs7g) By Mariko Kosaka
 
-## [30. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [32. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### conversion
+
+*   [gtfs2geojson (⭐25)](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
+
+## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
@@ -512,7 +563,7 @@ git pull origin pull/<id>/head:<branch-name>
 
 *   [Localize-Swift (⭐2.9k)](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
@@ -530,13 +581,13 @@ git pull origin pull/<id>/head:<branch-name>
 
 *   [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 
-## [33. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Audio
 
 *   [Alda (⭐5.2k)](https://github.com/alda-lang/alda)
 
-## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### SDK / Other
 
@@ -546,7 +597,7 @@ git pull origin pull/<id>/head:<branch-name>
 
 *   [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 
-## [35. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [38. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Code Points that Affect Others
 
@@ -570,7 +621,7 @@ git pull origin pull/<id>/head:<branch-name>
     | U+1F3FE | EMOJI MODIFIER FITZPATRICK TYPE-5   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5-bw.png" alt="" height="20" width="auto">   |
     | U+1F3FF | EMOJI MODIFIER FITZPATRICK TYPE-6   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png" alt="" height="20" width="auto">   |
 
-## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 28, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,13 +40,31 @@
 
 *   [Conjure (Neovim) (⭐1.1k)](https://github.com/Olical/conjure)
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Aether (⭐1.1k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
+*   [Airshare (⭐587)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+    communities with auditable moderation and mod elections.
+*   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
+*   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
+*   [Hyperpad (⭐196)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [instant.io (⭐3.1k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
+*   [IPFS bin ☠️ (⭐131)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
+*   [IPFS Desktop (⭐4.6k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [iWant ☠️ (⭐286)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+*   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
+*   [Peertransfer ☠️ (⭐275)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
+
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [serpro69/kotlin-faker (⭐288)](https://github.com/serpro69/kotlin-faker) - Port of ruby faker gem written in kotlin
 
-## [6. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
+## [7. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/README.md)
 
 ### Resources
 
@@ -104,26 +122,26 @@
 *   [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
 *   [Written Tutorials](https://mdbootstrap.com/docs/standard/getting-started/)
 
-## [7. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [8. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Platforms
 
 *   [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-easy-range-date-picker (⭐3)](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
 *   [vue-manual-data-masking (⭐5)](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 2000 free API calls per month.
 
-## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Secrets Management / Ansible
 
@@ -133,7 +151,7 @@
 
 *   [Preflight (⭐136)](https://github.com/spectralops/preflight) - *Spectral* - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -149,13 +167,13 @@
 
 
 
-## [12. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Social Network
 
 *   [Harpy (⭐1.6k)](https://github.com/robertodoering/harpy) - A Twitter app built with Flutter [Roberto Doering (⭐1.6k)](https://github.com/robertodoering/harpy)
 
-## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Display / LCD TFT
 

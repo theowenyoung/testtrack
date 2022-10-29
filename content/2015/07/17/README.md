@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17, 2015
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,44 +18,57 @@
 *   [dqe (⭐9)](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.
 *   [elastix (⭐250)](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.
 
-## [2. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / P individuals
+
+*   Piotr Wittchen <http://blog.wittchen.biz.pl/>
+
+## [3. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Prometheus
 
 *   [HAProxy Exporter (⭐578)](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Hugo Giraudel (⭐42)](https://github.com/hugogiraudel/ama) - CSS goblin, Sass hacker, margin psycho.
+
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### HTTP Clients and tools
 
 *   [Http-2 (⭐871)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
-## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Online Build System
 
 *   [codecov](https://codecov.io)  Continuous code coverage. Featuring browser extenstions and awesome pull request commentsto track coverage over time on your GitHub/Bitbucket/Gitlab repo
 
-## [5. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [7. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### Scripts / High quality GIF
 
 *   Generate a palette :
 *   Output the GIF using the palette :
 
-## [6. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
+## [8. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
 ### Talks
 
 *   [Managing CSS Projects with ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss), Harry Roberts (2014)
 
-## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Presentations / Videos
 
 *   [Exploring CSS Layout Techniques While Trying To Get a Subtitle to Wrap](https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/)
 
-## [8. Tips](/content/git-tips/tips/README.md)
+## [10. Tips](/content/git-tips/tips/README.md)
+
 ## Get list of all remote references
 
 ```sh
@@ -83,7 +96,7 @@ git branch -r
 curl -L http://git.io/vfhol > ~/.git-completion.bash && echo '[ -f ~/.git-completion.bash ] && . ~/.git-completion.bash' >> ~/.bashrc
 ```
 
-## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [11. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Programming Languages / Ruby
 

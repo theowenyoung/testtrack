@@ -1,18 +1,24 @@
 # Awesome List Updates on Mar 11 - Mar 17, 2019
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [1. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Manu Sunny](https://github.com/manupsunny/ama) - Back-end .NET/Java developer.
+
+## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [FFmbc (⭐171)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
 
-## [2. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
+## [3. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
 ### Guitar Bodies / Other Rare Bridge Variants
 
@@ -25,7 +31,7 @@
 *   String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)
 *   Strap holders
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Continuous Integration & Continuous Deployment
 
@@ -42,26 +48,26 @@
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
 *   [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 
-## [5. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [6. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - How to setup Cache-Control to achieve the best reponse time.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Telegram Channels / Book Deals (Affiliated) 🛍
 
 *   [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 *   [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
-## [7. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Design
 
@@ -85,7 +91,7 @@
 
     Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
 
-## [8. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
+## [9. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
 ### Courses / Introductory
 
@@ -171,13 +177,13 @@
 *   [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 *   [HUST Online Judge System (⭐59)](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
 
-## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [jest-puppeteer-react (⭐66)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
-## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [11. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Conferences / Topic-specific
 
@@ -297,7 +303,7 @@
     *   [Taming Complexity](http://barabasi.com/f/182.pdf).
     *   [The Network Takeover](http://barabasi.com/f/362.pdf).
 
-## [11. Bots](/content/hackerkid/bots/week/README.md)
+## [12. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tools For Building Bots
 
@@ -307,25 +313,25 @@
 
 *   [BotStar](https://www.botstar.com) - A fullfledged chatbot platform but the visual editor can be used as a mockup tool as well.
 
-## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### General / Other
 
 *   [Strong node.js (⭐472)](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
 
-## [13. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [14. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Videos
 
 *   [Learn Wagtail](https://learnwagtail.com/) - Regular video tutorials about all aspects of Wagtail.
 
-## [14. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Communications security (COMSEC) / Service meshes
 
 *   [GPG Sync (⭐331)](https://github.com/firstlookmedia/gpgsync) - Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Unity SDK
 
@@ -335,7 +341,7 @@
 
 *   [sparkleformation/sparkle\_formation :fire::fire: (⭐223)](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
 
-## [16. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [17. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Articles
 
@@ -366,13 +372,13 @@
 
 *   [Treebo PWA Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/) - Treebo - React And Preact PWA Performance Case Study.
 
-## [17. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [18. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Database
 
 *   [Apache Drill](https://drill.apache.org) - Distributed, schema on-the-fly, ANSI SQL query engine for Big Data exploration.
 
-## [18. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [19. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### UI Libraries
 
@@ -398,19 +404,19 @@
 *   [purescript-arraybuffer (⭐6)](https://github.com/jacereda/purescript-arraybuffer) - Bindings to the ArrayBuffer JavaScript type.
 *   [purescript-arraybuffer-class (⭐5)](https://github.com/athanclark/purescript-arraybuffer-class) - Typeclasses for ArrayBuffer encoding and decoding.
 
-## [19. Awesome](/content/craftcms/awesome/week/README.md)
+## [20. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Videos / Plugins
 
 *   [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin)
 
-## [20. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Videos
 
 *   [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This liveVideo breaks down key concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents.
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Note-taking & Editors
 
@@ -420,7 +426,7 @@
 
 *   `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
 
-## [22. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [23. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Go
 
@@ -433,31 +439,31 @@
 
 *   [Morphia (⭐1.6k)](https://github.com/MorphiaOrg/morphia) - Java ODM
 
-## [23. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [24. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js with Express and Babel (⭐3)](https://github.com/pd-smith/next-express-babel) - An application skeleton for those who want to transpile their Express as well as their Next.js code using Babel.
 
-## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [25. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Cookie-AutoDelete (⭐1.4k)](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
 
-## [25. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [26. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Courses
 
 *   [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) by Andrew Ng (2019)
 
-## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [27. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32l1xx-hal`](https://crates.io/crates/stm32l1xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32l1xx-hal.svg)
 
-## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Prototyping and Mind-Mapping Tools
 
@@ -471,19 +477,19 @@
 
 *   [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/trello/id1278508951?ls=1\&mt=12)
 
-## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
 
-## [29. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [30. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [extrakto (⭐589)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
-## [30. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Audio
 
@@ -499,7 +505,7 @@
 *   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 *   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐7.5k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -509,7 +515,7 @@
 
 *   [react-native-iphone-se-helper ★0 (⭐8)](https://github.com/heyman333/react-native-iphone-se-helper) - utils for developing iphone SE size.
 
-## [32. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [33. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -536,13 +542,13 @@
 *   [Malware Search+++](https://addons.mozilla.org/fr/firefox/addon/malware-search-plusplusplus/) Firefox extension allows
     you to easily search some of the most popular malware databases
 
-## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [34. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 
-## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Youtube Series
 
@@ -554,7 +560,7 @@
 *   [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw\&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 *   [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0\&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
-## [35. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [36. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
@@ -575,19 +581,19 @@
 
 *   [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) - How to algorithmically decode Game Boy instructions (as opposed to writing one huge switch-case statement).
 
-## [36. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Pixelfed (⭐3.9k)](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [38. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Microsoft Recommenders (⭐14k)](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 
-## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Email
 
@@ -597,13 +603,13 @@
 
 *   [transfer\_more](https://git.sceptique.eu/Sceptique/transfer_more) - Clone of transfer.sh to uploads files
 
-## [39. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [40. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Women Make](https://womenmake.com/) - A community where women are in the forefront.
 
-## [40. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -703,7 +709,7 @@
 
 *   [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -726,7 +732,7 @@
 *   [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 *   [foonathan::blog()](https://foonathan.net/index.html)
 
-## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Code check/review, debug
 
@@ -736,7 +742,7 @@
 *   [delphiunitsizes (⭐13)](https://github.com/VilleKrumlinde/delphiunitsizes). `[Delphi]` Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
 *   [MapFileStats](https://www.delphitools.info/other-tools/mapfilestats). `[Delphi]` Tool that provides simple binary size statistics from .MAP files (any Delphi version up to at least Delphi XE5).
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Third party Guides
 
@@ -750,7 +756,7 @@
 
 *   [Doric Design System Foundation (⭐93)](https://github.com/jayeshk/Doric) - Protocol oriented, type safe, scalable design system foundation framework for iOS.
 
-## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Sliders
 
@@ -776,13 +782,13 @@
 
 *   [Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets) - Collection of commonly used classes and methods by [Nash](https://twitter.com/Nash0x7E2)
 
-## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Related
 
 *   [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 
-## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -820,7 +826,7 @@
 
 *   [Decidim (⭐1.2k)](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 
-## [47. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [48. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -830,7 +836,7 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## [48. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [49. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Build Tools
 
@@ -876,7 +882,7 @@
 
 *   [Seed Docker image](https://hub.docker.com/r/tindzk/seed/tags) - Docker image for cross-platform builds with [Seed (⭐237)](https://github.com/tindzk/seed).
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -898,7 +904,7 @@
 
 *   [NWebsec (⭐509)](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET <http://www.nwebsec.com>.
 
-## [50. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [51. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Style
 
@@ -909,13 +915,13 @@
 
 *   [Jasmine (⭐94)](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine.
 
-## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [paessler.com](https://www.paessler.com/) — Powerful infrastructure and network monitoring solution including alerting, strong visualization capabilities and basic reporting. Free up to 100 sensors.
 
-## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Static Analysis / Linting
 
@@ -930,13 +936,13 @@
 *   [Trigger multiple GitLab CI Pipeline (⭐60)](https://github.com/appleboy/gitlab-ci-action)
 *   [Trigger multiple Jenkins Jobs (⭐78)](https://github.com/appleboy/jenkins-action)
 
-## [53. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [54. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Games
 
 *   [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 
-## [54. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [55. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -945,7 +951,7 @@
 *   [I Can't Do It All: My Burnout Story](https://dev.to/molly_struve/i-cant-do-it-all-my-burnout-story-1e54) - By Molly Struve.
 *   [My Mental Health Toolbelt](https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149) - By Taylor Otwell.
 
-## [55. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [56. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment
 

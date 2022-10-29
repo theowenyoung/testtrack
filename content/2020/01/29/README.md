@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -79,7 +79,13 @@
 
 *   [EISK (⭐129)](https://github.com/EISK/eisk.webapi) - Provides developer resources with simple use cases to build scalable applications on top of .NET Core with [architectural best practices](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures) (DDD, onion architecture etc)
 
-## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Frameworks
+
+*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Dedicated
 
@@ -98,7 +104,7 @@
 
 *   [cleanflux (⭐32)](https://github.com/Transatel/cleanflux) - proxy around /query endpoint with auto retention policy selection and on the wire bug corrections
 
-## [7. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Data Management
 
@@ -118,14 +124,14 @@
 *   [Model Governance Reducing the Anarchy of Production](https://www.usenix.org/conference/atc18/presentation/sridhar) 🎓
 *   [TFX: A tensorflow-based Production-Scale ML Platform](https://dl.acm.org/doi/pdf/10.1145/3097983.3098021?download=true) 🎓
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Events
 
 *   [Events in Italy (⭐145)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 *   [Events in the Netherlands (⭐50)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Layout / Barcode
 
@@ -135,19 +141,19 @@
 
 *   [ASCollectionView (⭐363)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
-## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Philippines](https://www.facebook.com/groups/laravelph)
 
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 
 *   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
-## [12. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [13. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Resources / Books
 

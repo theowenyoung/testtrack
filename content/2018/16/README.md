@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 16 - Apr 22, 2018
 
-51 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -446,13 +446,19 @@
 *   [awesome-npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
-## [18. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Krzysztof Cieslak (⭐7)](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker.
+
+## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Index
 
 *   [Pilosa (⭐2.3k)](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 
-## [19. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [20. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Articles
 
@@ -462,13 +468,13 @@
 
 *   [Katalyst (⭐22)](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
 
-## [20. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [21. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Community
 
 *   [OCaml Discord Chat](https://discord.gg/ZBgYuvR)
 
-## [21. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
+## [22. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
 
 ### §2.1. AGPLv3 and ODbL
 
@@ -476,7 +482,7 @@
 *   The **software** used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
 *   ALL copies and forks of this work must retain the Copyright, respective Licence files for program code (AGPLv3) and data (ODbL) along with this permission notice in all copies or substantial portions of the new work.
 
-## [22. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [23. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Dissemination
 
@@ -544,19 +550,19 @@
 *   [Fitting Large Signed Two-mode Blockmodels: Problems and Prospects](http://patrickdoreian.com/wp-content/uploads/2017/12/large-signed-2mode-networks_UNGA.pdf).
 *   [Partitioning Signed Two-Mode Networks](http://patrickdoreian.com/wp-content/uploads/2017/12/partitioning-signed-social-networks.pdf).
 
-## [23. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reference Cards / Book/monograph Lists and Reviews
 
 *   [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Conference Management
 
 *   [pretalx](https://pretalx.org) - Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools. ([Source Code (⭐476)](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
-## [25. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
+## [26. Awesome Git Addons](/content/stevemao/awesome-git-addons/week/README.md)
 
 ### [git-issue](https://github.com/dspinellis/git-issue)
 
@@ -695,13 +701,22 @@
     assign   clone    comment  git      init     log      pull     show     watcher
     attach   close    edit     help     list     new      push     tag
 
-## [26. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Web
 
 *   [Calculator.net](http://www.calculator.net/) - Huge collection of various calculators.
 
-## [27. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Agency Tools
+
+*   [AC Transit RestroomFinder (⭐0)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
+*   [AC Transit Training and Education Department (TED) application (⭐7)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
+*   [AC Transit Customer Relations application (CusRel) (⭐6)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
+*   [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github (⭐13)](https://github.com/camsys/transam_core).
+
+## [29. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Packagist Mirrors / IRC
 
@@ -711,7 +726,7 @@
     *   Indonesia - [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
     *   Japan - [packagist.jp](https://packagist.jp)
 
-## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -730,44 +745,52 @@
 
 *   [HTTPLab (⭐3.8k)](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
 
-## [29. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [31. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Commercial Offerings
 
 *   [JIRA SSO Plugin by codecentric](https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview)
 
-## [30. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
+## [32. Awesome Ledger](/content/sfischer13/awesome-ledger/week/README.md)
 
 ### Editors
 
 *   [VS Code (⭐18)](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code.
 
-## [31. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [33. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
 *   [seleniumQuery (⭐70)](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 
-## [32. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [34. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Guides
 
 *   [Error message catalog (⭐437)](https://github.com/yogthos/clojure-error-message-catalog)
 
-## [33. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [35. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
+*   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
+*   [geojson-polygon-labels (⭐73)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+
+## [36. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Augmented & Virtual Reality
 
 *   [Virtual Reality Toolkit (⭐3.6k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Pomidorus (⭐177)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [38. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
@@ -777,7 +800,7 @@
 
 *   [devops-israel/aws-inventory :fire::fire: (⭐385)](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
 
-## [36. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [39. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -1021,19 +1044,28 @@
 *   [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 *   [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 
-## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [40. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐372)](https://github.com/ssbc/patchbay).
+*   [PeerTube (⭐11k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
+*   [Syncthing-GTK (⭐1.1k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
+
+## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Internals
 
 *   [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
-## [38. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [42. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Community / Lists
 
 *   [Wagtail’s first hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) – Kickstarter campaign to accelerate the development of Wagtail.
 
-## [39. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Poland 🇵🇱 / Krakow
 
@@ -1070,19 +1102,19 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ![](http://www.speedtest.net/result/7234244439.png)
 
-## [40. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Ruby
 
 *   [Cat Facts (⭐8)](https://github.com/fabrik42/cat_facts) - Adds random cat facts to HTTP response headers. 🐈
 
-## [41. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [45. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Examples / Templates
 
 *   [cpp14-project-template (⭐62)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
@@ -1096,7 +1128,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 *   [Merge Conflict](http://www.mergeconflict.fm/)
 
-## [43. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [47. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Build tools, setup and CI
 
@@ -1145,13 +1177,13 @@ Webpage: <http://www.borealcoffee.ch/>
 *   [Greachconf](http://greachconf.com)
 *   [GR8Conf USA](http://gr8conf.us)
 
-## [44. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [48. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
 *   [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
 
-## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [49. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Mind Mapping, Concept Mapping and Idea Generation Tools / Telegram
 
@@ -1161,26 +1193,26 @@ Webpage: <http://www.borealcoffee.ch/>
 
 *   [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
 
-## [46. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [50. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Miscellaneous
 
 *   [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 *   [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 
-## [47. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [51. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Shared tasks
 
 *   [SAB Corpus (Spanish Corpus for Sentiment Analysis towards Brands)](http://sabcorpus.linkeddata.es/)
 
-## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [52. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Quality of Life Improvements
 
 *   [Shifty](http://shifty.natethompson.io) - A macOS menu bar app that gives you more control over Night Shift. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/thompsonate/Shifty)
 
-## [49. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [53. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
@@ -1190,7 +1222,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 *   [Apache JMeter](https://jmeter.apache.org/usermanual/realtime-results.html) - Popular load testing tool, you can get real-time results sent to a backend through the InfluxDBBackendListenerClient which allows you to send metrics (active threads, response time ...) to an InfluxDB Backend using UDP or HTTP protocols
 
-## [50. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [54. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1213,7 +1245,7 @@ Webpage: <http://www.borealcoffee.ch/>
 
 *   [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
 
-## [51. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [55. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Images
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -95,19 +95,54 @@
 
 *   [Apache ServiceComb Java Chassis (⭐1.8k)](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 
-## [11. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [11. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Microprocessors and Microcontrollers
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/amulius___embedded_engineering__.webp">
+
+[**Amulius - Embedded Engineering**](https://discord.com/invite/SrJEYjq) \
+Notable Channels: `#general`, `#arm`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#career`, `#dsp-machine-learning`, `#fpga`, `#pcb`, `#protocols-rf` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/arduino.webp">
+
+[**Arduino**](https://discord.gg/jQJFwW7) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://arduino.cc/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/BluLightShow/arduino-bot) \
+Notable Channels: `#arduino-discussion`, `#product-help`, `#coding-help`, `#pcb-help`,`#adafruit-help`, `#show-off-your-ideas`, `#project-ideas` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/raspberry_pi.webp">
+
+[**Raspberry Pi**](https://discord.com/invite/bVVbSqQ) \
+Notable Channels: `#tech-talk`, `#i-need-help`, `#python-dev`, `#projects-chat`,`#project-showcase`, `#show-off-your-ideas`, `#project-ideas` \
+Language: English
+### DIY
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/adafruit.webp">
+
+[**Adafruit**](https://discord.com/invite/5FBsBHU) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.adafruit.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/adafruit) \
+Notable Channels: `#circuitpython`, `#arduino`, `#3dprinting`, `#radio`,`#raspberry-pi`, `#wearables`, `#robotics`, `#help-with-projects`, `#iot`, `#events` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/diy_tech.webp">
+
+[**DIY Tech**](https://discord.com/invite/diytech) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/KazWolfe/HuskyBot) \
+Notable Channels: `#programming`, `#hardware-help`, `#software-help`,`#code-review`, `#project-showcase`, `#audio-tech`, `#retro-tech` \
+Language: English
+
+## [12. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Additional resources / Hellonext
 
 *   [Stratechery by Ben Thompson](https://stratechery.com/) - Product and strategy insights from the industry.
 
-## [12. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [13. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Buenos Aires](https://paperswelove.org/buenos-aires/)
 
-## [13. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [14. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Integrations / Transactions
 

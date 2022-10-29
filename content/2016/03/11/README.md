@@ -33,6 +33,7 @@
     *   [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Open all conflicted files in an editor.
 
 ```sh

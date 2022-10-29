@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -116,31 +116,37 @@
 *   [redis-streams-fastapi-chat (⭐130)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 *   [TermPair (⭐1.5k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [10. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Open Source Projects
+
+*   [Ionic 5 Social Network Starter (⭐160)](https://github.com/thenaim/ion-tk-social-network) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+
+## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Books
 
 *   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Games
 
 *   [Minesweeper (⭐167)](https://github.com/exceptionnotfound/BlazorGames) - ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400) Minesweeper using C# and Blazor WebAssembly.
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Interviewing
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
 
-## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Twitter
 
 *   [Nations24](https://nations24.com)
 
-## [14. Awesome V](/content/vlang/awesome-v/README.md)
+## [15. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Other / Online IDEs with V
 

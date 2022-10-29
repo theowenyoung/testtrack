@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 27, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,19 +31,33 @@
 
 *   [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
 
-## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / E companies
+
+*   Envoy <https://envoy.engineering/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Andreas Schuster <https://computer.forensikblog.de/en/>
+
+### Individuals/Group Contributors / H individuals
+
+*   Hayden James <https://haydenjames.io/>
+
+## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Domain and IP Research / Telegram
 
 *   [Pulsedive](https://pulsedive.com)
 
-## [6. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Backend-Driven
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 13, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,31 +68,37 @@
 *   [speed-test (⭐3.8k)](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 *   [youtube-dl (⭐114k)](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** \[1:00:09]
+
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Task management
 
 *   [cake (⭐64)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
-## [5. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Presentation / Extensions
 
 *   [hacker-slides (⭐340)](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool
 
-## [6. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [7. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Testing
 
 *   [phalcon3-compose (⭐3)](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / Natural Language Processing
 
 *   [Montague (⭐52)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
 
-## [8. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Books
 

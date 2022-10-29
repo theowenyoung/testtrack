@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2021
 
-24 awesome lists updated today.
+25 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -181,32 +181,38 @@
 
 *   [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [20. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
+
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 
 *   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
-## [21. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [22. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Static Analysis / Multi-Language Support
 
 *   [DevSkim (⭐748)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
 
-## [22. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [23. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Data structures / Windows
 
 *   [What is Data Structure? | Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
-## [23. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [24. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
 *   [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 
-## [24. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [25. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 

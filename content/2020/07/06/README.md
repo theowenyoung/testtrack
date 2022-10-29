@@ -1,62 +1,77 @@
 # Awesome List Updates on Jul 06, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [1. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Books
+
+*   [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
+*   [Keys to the Kingdom by Deviant Ollam, 2012](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
+*   [Lock Picking: Detail Overkill by Solomon](https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
+*   [Practical Lock Picking by Deviant Ollam, 2012](https://www.elsevier.com/books/practical-lock-picking/ollam/978-1-59749-989-7)
+*   [Practical Lock Picking: A Physical Penetration Tester's Training Guide](https://web.archive.org/web/20200309084722/http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
+
+### Online resources
+
+*   [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
+*   [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
+
+## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Databases / Other Tools
 
 *   [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://pydantic-docs.helpmanual.io/).
     *   [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - Accompanying blog post from the author of the extension.
 
-## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
 *   [acme](https://deepmind.com/research/publications/Acme) - An Open Source Distributed Framework for Reinforcement Learning that makes build and train your agents easily.
 
-## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Assorted
 
 *   [Flutter vs React Native - Choosing your approach](https://buttercms.com/blog/flutter-vs-react-native-choosing-your-approach) - Comparison article to help you choose the best approach depending on your project and experience.
 
-## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Themes
 
 *   [nord tmux (⭐854)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
 
-## [5. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
+## [6. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/README.md)
 
 ### Institutional Credit Risk
 
 *   [Credit Scoring and the Availability, Price, and Risk of Small Business Credit](https://muse.jhu.edu/article/181124) - Finds that small business credit scoring is associated with expanded quantities, higher averages prices, and greater average risk levels for small business credits under $100,000, after controlling for bank size and other differences across banks.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
 *   [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
 *   [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
 
-## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Testing
 
 *   [axe-core (⭐4.8k)](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
-## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
 *   [Go-Wardley (⭐25)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Personality
 
@@ -83,7 +98,7 @@
 
 
 
-## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -101,7 +116,7 @@
 
 *   [Rapid.Generics (⭐73)](https://github.com/d-mozulyov/Rapid.Generics). `[Delphi]` Rapid generics/defaults equivalent classes for Delphi (XE8+)
 
-## [11. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
+## [12. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
 ### Social
 
@@ -112,7 +127,7 @@
 *   [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
 *   [ReviewsOnMyWebsite](https://reviewsonmywebsite.com/) - Collect, monitor and display customer reviews.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
@@ -126,13 +141,13 @@
 
 *   [Bert Belder - Deno - dotJS 2019](https://www.youtube.com/watch?v=puXyo1jGQys)
 
-## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Frameworks / Angular
 
 *   [Building and consuming Angular Elements as Web Components](https://indepth.dev/building-and-bundling-web-components/)
 
-## [14. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [15. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Open Source / Casual
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -153,7 +153,13 @@
 
 *   [cl-advice (⭐1)](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md) - an attempt of portable layer advice library for SBCL, CCL, LispWorks and Allegro. Not in Quicklisp.
 
-## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Routing
+
+*   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
+
+## [10. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Images
 
@@ -163,25 +169,25 @@
 
 *   [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 
-## [10. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [11. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 
 *   [GitHub collapse markdown (⭐1.4k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Clojure / Git
 
 *   [secrets.clj (⭐81)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
 *   [Prisma (⭐4)](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 
-## [13. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [14. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Quantification / Clustering
 
@@ -192,7 +198,7 @@
 
 *   **[bcftools (⭐484)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 

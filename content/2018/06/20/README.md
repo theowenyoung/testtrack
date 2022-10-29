@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2018
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,19 +53,25 @@
 
 *   [Flinto](https://www.flinto.com/):  App to create interactive and animated prototypes of designs.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Visualizations
+
+*   [gtfspy-webviz (⭐33)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy).
+
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
 *   [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code (⭐1.6k)](https://github.com/movim/movim)) `AGPL-3.0` `PHP`
 
-## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Fact Checking / Telegram
 
 *   [Captin Fact](https://captainfact.io/)
 
-## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Algorithms
 
@@ -73,13 +79,13 @@
     *   Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
     *   [Lectures and Assignments (⭐1.5k)](https://github.com/jaehyunp/stanfordacm)
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [swift-protobuf (⭐4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -91,7 +97,7 @@
     *   [msgpack-cli (⭐791)](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
     *   [MessagePack-CSharp (⭐4.2k)](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -102,6 +108,16 @@
 *   [Ride Receipts (⭐138)](https://github.com/ridereceipts/ridereceipts) - Simple automation desktop app to download and organize your tax invoices from Uber and Lyft.
 *   [Laqu-l (⭐131)](https://github.com/laqul/laqul) - A complete App starter kit with Quasar Framework, GraphQL API backend with OAUTH 2.0 authentication, Firebase ready, multilanguage capability and more.
 *   [Minimal Notes (⭐124)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+
+## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / M companies
+
+*   MapTiler <https://www.maptiler.com/blog/>
+
+### Companies / O companies
+
+*   OLX <https://tech.olx.com/>
 
 ---
 

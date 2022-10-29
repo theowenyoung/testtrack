@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2021
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,20 @@
 
 *   [Data Exchange Framework Docs (⭐1)](https://github.com/Sitecore/Data-Exchange-Framework-Docs) - Sitecore Data Exchange Framework Documentation generated using Sphinx.
 
-## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [2. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Books
+
+*   [Expedient B and E: Tactics and Techniques for Bypassing Alarms and Defeating Locks - Carl Hammer](https://www.amazon.com/Expedient-Tactics-Techniques-Bypassing-Defeating/dp/0873646886/)
+*   [The Use of Locks in Physical Crime Prevention - James M Edgar and William D Mclnerey](https://www.scribd.com/book/282594402/The-Use-of-Locks-in-Physical-Crime-Prevention-National-Crime-Prevention-Institute)
+
+## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tutorials
 
 *   [Tmux Tutorial for Beginners](https://protechnotes.com/comprehensive-tmux-tutorial-for-beginners-with-a-cheat-sheet/)
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Social
 
@@ -34,13 +41,13 @@
 
 
 
-## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Host-based tools / Sandboxes
 
 *   [Bubblewrap (⭐2.8k)](https://github.com/containers/bubblewrap) - Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.
 
-## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Tools
 
@@ -56,7 +63,7 @@
 
 *   [chrome2mqtt (⭐18)](https://github.com/tbowmo/chrome2mqtt) - Python program to enable MQTT control endpoints for chromecasts (both audio and video).
 
-## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
@@ -69,20 +76,26 @@
 *   [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb) - Building a Wardley Map from a value chain for "real time business automation" by James Urquhart. Dec 30, 2016.
 *   [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8) - Exploring a value chain using a basic architecture of data flow by James Urquhart. Dec 22, 2016.
 
-## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Storage / Scala
 
 *   [Pilosa (⭐2.3k)](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 *   [TiKV](https://github.com/tikv) - Distributed transactional key-value database.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
+
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
 *   [TypinExamples (⭐203)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐203)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -92,7 +105,7 @@
 
 *   [Android Studio](https://d.android.com/studio) — Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE, free for everyone and the best to develop Android apps. Available for Windows,Mac,Linux and even ChromeOS!
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Official
 
@@ -104,7 +117,7 @@
 
 *   [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - Building a REST API without using a framework like Express.
 
-## [11. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [13. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 

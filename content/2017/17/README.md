@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24 - Apr 30, 2017
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -394,7 +394,14 @@
 *   [Joda-Time Android (⭐2.6k)](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 *   [True Time (⭐1.3k)](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
 
-## [32. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [32. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Ken Wheeler (⭐10)](https://github.com/kenwheeler/ama) - Professional American. Manchild.
+*   [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
+
+## [33. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -404,7 +411,7 @@
 
 *   [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
 
-## [33. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [34. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Articles
 
@@ -423,7 +430,7 @@
 
 *   [Forrest (⭐338)](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -433,13 +440,13 @@
 
 *   [Conekta (⭐30)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 
-## [35. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [36. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
 *   [Beyond flux: going full cycle with FRP](https://clementd-files.cellar.services.clever-cloud.com/blog/frp-full-cycle-ncrafts.html) - by [Clément Delafargue](http://clementd.cleverapps.io/)
 
-## [36. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [37. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Articles
 
@@ -460,13 +467,13 @@
 
 *   [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 
-## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [38. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Machine Learning
 
 *   [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 
-## [38. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [39. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Resources
 
@@ -476,7 +483,7 @@
 
 *   [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - Series of articles explaining the basics of compilers and interpreters and how to build one.
 
-## [39. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [40. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Image: Segmentation / Object Detection
 
@@ -490,7 +497,7 @@
 
 *   TACOTRON: Towards end-to-end speech synthesis (2017), Y. Wang et al. [\[pdf\]](https://arxiv.org/pdf/1703.10135.pdf)
 
-## [40. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [41. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Community
 
@@ -511,7 +518,7 @@
 *   [React (⭐196k)](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [Inferno (⭐16k)](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 
-## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 

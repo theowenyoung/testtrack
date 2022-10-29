@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,13 @@
 
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-## [2. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Misc
+
+*   [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
+
+## [3. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Developer Utilities
 

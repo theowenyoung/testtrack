@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2015
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -483,13 +483,19 @@
 
 *   [gcmex (⭐7)](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Web Development
+
+*   [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** \[53:40]
+
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Sliders / Runner
 
 *   [Flickity (⭐7.2k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 
-## [11. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [12. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Queueing / NoSQL Databases
 

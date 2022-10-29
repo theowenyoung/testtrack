@@ -41,6 +41,7 @@
 *   [Try Flexbox](https://zyxneo.github.io/flexbox/try-flexbox)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Show git status short
 
 ```sh

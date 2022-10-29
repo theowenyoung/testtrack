@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11 - May 17, 2015
 
-21 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -388,7 +388,14 @@ A secure OAuth2 server implementation
 
 *   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
 
-## [12. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [12. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Hosted Tools
+
+*   [GateHub](https://gatehub.net/)
+*   [Ripple Live (GateHub)](https://gatehub.net/live)
+
+## [13. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
@@ -406,7 +413,7 @@ A secure OAuth2 server implementation
 *   [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 *   [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 
-## [13. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [14. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
@@ -432,13 +439,13 @@ A secure OAuth2 server implementation
 
 *   [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
-## [14. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [15. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
 *   [JSON Server (⭐64k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 
-## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -490,7 +497,7 @@ A secure OAuth2 server implementation
 
 
 
-## [16. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [17. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -500,13 +507,13 @@ A secure OAuth2 server implementation
 
 *   [BEM Grid (⭐135)](https://github.com/bem-incubator/bem-grid)
 
-## [17. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [18. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
 *   [JavaScript](https://atom.io/packages/linter-eslint) — eslint
 
-## [18. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [19. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Libraries / SVG
 
@@ -520,19 +527,19 @@ A secure OAuth2 server implementation
 *   Apple Watch
     *   [Specifications: Animations](https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations)
 
-## [19. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [20. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Testing
 
 *   [Speclj (⭐421)](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 
-## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [21. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / Ruby
 
 *   [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 

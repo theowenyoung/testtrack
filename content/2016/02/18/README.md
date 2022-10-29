@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18, 2016
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,26 @@
 
 *   [FluentScheduler (⭐2.5k)](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
 
-## [3. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / J companies
+
+*   Jane Street <https://blogs.janestreet.com/category/ocaml/>
+
+### Companies / S companies
+
+*   Sky Betting & Gaming <http://engineering.skybettingandgaming.com/>
+
+## [4. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Beginner
+
+#### [Vertabelo Academy](https://academy.vertabelo.com/)
+
+**Free** SQL courses with interactive exercises and quizzes\
+*(SQL, database concepts)*
+
+## [5. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### General
 
@@ -37,7 +56,7 @@
 *   [Font Face Observer (⭐4.1k)](https://github.com/bramstein/fontfaceobserver)
 *   [Web Font Loader (⭐9k)](https://github.com/typekit/webfontloader)
 
-## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Date & Time
 
@@ -51,25 +70,31 @@
 
 *   [glob (⭐7.7k)](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Rob Thomas (⭐0)](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
+
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Transition / Barcode
 
 *   [BubbleTransition (⭐3.3k)](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
 
-## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Fast Packet Processing
 
 *   [netmap](http://info.iet.unipi.it/\~luigi/netmap/) - netmap is a framework for high speed packet I/O. Together with its companion VALE software switch, it is implemented as a single kernel module and available for FreeBSD, Linux and now also Windows.
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Hardware Support
 
 *   [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
 
-## [8. Awesome Relay](/content/expede/awesome-relay/README.md)
+## [11. Awesome Relay](/content/expede/awesome-relay/README.md)
 
 ### Libraries & Packages
 

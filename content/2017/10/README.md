@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06 - Mar 12, 2017
 
-51 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,17 @@
 
 *   [Errbot](http://errbot.io) + [adapter (⭐8)](https://github.com/Ax3Effect/errbot-vk) (Python)
 
-## [2. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Test-Driven Development
+
+*   [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** \[30:54]
+
+### Cognitive Development
+
+*   [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** \[39:48]
+
+## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Text Editors Language Support
 
@@ -20,19 +30,19 @@
 *   Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 *   Vim: [vim-pico8-syntax (⭐58)](https://github.com/justinj/vim-pico8-syntax)
 
-## [3. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [4. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [pokemongo-game-master (⭐39)](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
 
-## [4. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [5. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
 
-## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [6. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Software Repositories / New Functionality
 
@@ -46,7 +56,7 @@
 *   [VLC](https://www.videolan.org/vlc) [:package:](https://code.videolan.org) - One of the most flexible open source video players in existence.
 *   [Wireshark](https://www.wireshark.org) [:package:](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) - The most popular packet-sniffer out there.  You *are* going to use this for good and not evil, right?
 
-## [6. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [7. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -116,25 +126,25 @@
 
 
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
 *   [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 
-## [8. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [9. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Joystick / Web
 
 *   [JoystickWrapper](https://autohotkey.com/boards/viewtopic.php?f=19\&t=28889) - by evilC - Full event-based, 8 axis, 128 button, 4 POV joystick reading (C# DLL, Uses Lexikos' CLR).
 
-## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
 *   [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [11. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -146,31 +156,31 @@
 
 *   [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
 
-## [11. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Examples
 
 *   [Vert.x Gradle Starter (⭐10)](https://github.com/yyunikov/vertx-gradle-starter) - Java 8 starter application with example of using Vert.x with Gradle build system, profiles configuration and SLF4J.
 
-## [12. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [13. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Moving largish data from R to H2O - spam detection with Enron emails](https://ellisp.github.io/blog/2017/02/18/svmlite) Feb 18, 2016
 
-## [13. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [14. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### More / HTML+CSS+JS
 
 *   [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 
-## [14. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [15. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
 *   [Megadraft (⭐1.1k)](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -187,7 +197,7 @@
 
 *   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 
-## [16. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [17. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
@@ -197,7 +207,7 @@
 
 *   [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash\&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
 
-## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Injection
 
@@ -207,7 +217,7 @@
 
 *   [Kint (⭐2.6k)](https://github.com/kint-php/kint) - A debugging and profiling tool.
 
-## [18. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [19. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -237,13 +247,13 @@
 *   [Wagtail Accessibility (⭐28)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
 *   [Wagtail Factories (⭐79)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 
-## [19. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [20. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [Flexible Grid System with BEM (⭐14)](https://github.com/flexiblegs/flexiblegs-bem)
 
-## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -275,7 +285,7 @@
 
 *   [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/) - An online course that teaches both the Elixir language and the Phoenix framework.
 
-## [21. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [22. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -290,19 +300,62 @@
     *   This course will cover the fundamentals and contemporary usage of the Tensorflow library for deep learning research. We aim to help students understand the graphical computational model of Tensorflow, explore the functions it has to offer, and learn how to build and structure models best suited for a deep learning project. Through the course, students will use Tensorflow to build models of different complexity, from simple linear/logistic regression to convolutional neural network and recurrent neural networks with LSTM to solve tasks such as word embeddings, translation, optical character recognition. Students will also learn best practices to structure a model and manage research experiments.
     *   [Assignments (⭐10k)](https://github.com/chiphuyen/tf-stanford-tutorials) available on Github.
 
-## [22. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [23. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [Liquigraph (⭐122)](https://github.com/liquigraph/liquigraph) - Database migrations management tool, based on how Liquibase works.
 
-## [23. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / D companies
+
+*   Deezer <https://deezer.io/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Sakib Sami <https://www.sakib.ninja>
+
+## [25. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / Authentication
 
 *   [steam-login (⭐53)](https://github.com/cpancake/steam-login) - Simple Connect / Express Steam authentication library.
 
-## [24. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [26. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Data sets
+
+*   [EuroRomCom Data (⭐16)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+
+### On Youtube
+
+*   [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+
+## [27. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Collaborizm - <https://www.collaborizm.com>
+*   Designer News - <https://www.designernews.co/>
+
+## [28. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### editors & viewers
+
+*   [dropchop](http://dropchop.io/): browser-based GIS based on Turf.js
+
+### serialization
+
+*   [geojson-jackson (⭐239)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+*   [mapbox-java (⭐376)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
+
+### resources
+
+*   [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
+*   [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
+
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Mood
 
@@ -312,7 +365,7 @@
 
 *   [Quality Time](http://www.qualitytimeapp.com/) - Precise time tracker for Android (Android).
 
-## [25. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [30. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
@@ -322,7 +375,7 @@
 
 *   [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 
-## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CMS
 
@@ -332,25 +385,25 @@
 
 *   [FluentMigrator (⭐2.8k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 
-## [27. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [32. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment
 
 *   [pockyt (⭐471)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [fuku-ml (⭐279)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 
-## [29. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [34. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Book / Survey / Review
 
 *   Neural Network and Deep Learning (Book, Jan 2017), Michael Nielsen. [\[html\]](http://neuralnetworksanddeeplearning.com/index.html)
 
-## [30. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [35. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Getting started
 
@@ -358,31 +411,31 @@
 *   [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
 *   [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 
-## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [LibSass Host (⭐79)](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system.
 
-## [32. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Elixir
 
 *   [Commanded (⭐1.6k)](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
 
-## [33. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [38. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Maps / Third Party
 
 *   [d3.geo2rect (⭐190)](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### DBaaS
 
 *   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / IoT SDK
 
@@ -392,13 +445,13 @@
 
 *   [Netflix/chaosmonkey :fire::fire::fire::fire::fire: (⭐13k)](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 
-## [36. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [41. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Machine Learning and Statistical Learning
 
 *   [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
 
-## [37. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [42. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Development
 
@@ -411,20 +464,20 @@
 *   [Chord (⭐435)](https://github.com/jarohen/chord) – Designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async.
 *   [Sente (⭐1.7k)](https://github.com/ptaoussanis/sente) – Clojure(Script) + core.async + WebSockets/Ajax.
 
-## [38. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [43. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [ComcastifyJS (⭐1.3k)](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
 *   [fartscroll.js (⭐2.8k)](https://github.com/theonion/fartscroll.js) - Everyone farts. And now your web pages can too.
 
-## [39. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [44. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Videos / Help
 
 *   [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - Series of videos on building an 8-bit computer on breadboards with excellent explanations of all the sub-circuits.
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -514,7 +567,7 @@
 *   [simple-currency (⭐7)](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 *   [trivial-garbage (⭐35)](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 
-## [41. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [46. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -530,7 +583,7 @@
 *   [Measuring the performance of your Dropwizard application](https://www.aytech.ca/blog/measuring-performance-dropwizard-application/)
 *   [Heroku + Gradle + Dropwizard](https://www.aytech.ca/blog/heroku-gradle-dropwizard/)
 
-## [42. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [47. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Munich
 
@@ -543,19 +596,19 @@
 | ---- | ----- | ------------------------------------------------------------ | ------------------------------------ |
 | ✔    | ✔     | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00 |
 
-## [43. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [48. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Directories
 
 *   [Webcomponents.org](https://webcomponents.org/)
 
-## [44. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [49. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.
 
-## [45. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [50. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
@@ -642,7 +695,7 @@
 *   [FontForge (⭐4.9k)](https://github.com/fontforge/fontforge) - Cross-platform font editor
 *   [Powerline Fonts (⭐24k)](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
-## [46. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [51. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -656,7 +709,7 @@
 
 *   [Budapest Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
 
-## [47. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Hardware
 
@@ -668,19 +721,19 @@
 
 *   [Hashnode](https://hashnode.com/n/nodejs)
 
-## [48. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [53. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 
-## [49. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [54. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
 *   [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 
-## [50. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [55. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Map/Reduce
 
@@ -725,7 +778,7 @@
 *   [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - Some things aren't on new wiki yet.
 *   [Cloudant Official Guides](https://docs.cloudant.com/guides.html) - Applicable to CouchDB.
 
-## [51. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [56. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Data Structures
 

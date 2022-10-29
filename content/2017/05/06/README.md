@@ -1,36 +1,42 @@
 # Awesome List Updates on May 06, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** \[58:53]
+
+## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### Debug
 
 *   [dd (⭐20)](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
 
-## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### JSON / Field Validation
 
 *   [Moshi (⭐8.6k)](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
-## [3. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [4. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Frameworks
 
 *   [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [SRE: What’s The Big Idea?](https://youtu.be/8dfYLRAWn_c)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Resources / Web programming
 
@@ -64,7 +70,7 @@
     *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
 
-## [6. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### C++
 
@@ -78,7 +84,7 @@
 
 *   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 
-## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Privacy, Security and Cryptography / Others
 

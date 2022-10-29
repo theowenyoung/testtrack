@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,31 +38,47 @@
 *   [Formidable](https://www.formidablejs.org/) - Imba Framework for Rapid API Development.
 *   [Imba Shell (⭐13)](https://github.com/donaldp/imba-shell) - Interactive debugger and REPL for Imba.
 
-## [5. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Noir](https://boardgamegeek.com/boardgame/242483/noir)
+
+> Noir is a "denouement" game that lasts only a few minutes per round. The "denouement mechanic" is a special type of storytelling game, where the key elements of the stories events are determined by the game, then the players must weave them together in the most inventive of ways.
+> Noir is packed with a grim cast of Femme Fatales, gum shoe P.I.s, mean Mobsters and hardened Hit Men. The play throws up stories which are by turns dark, hilarious, inventive and always, always memorable.
+> At the bitter end the best denouement of the game wins!
+
+![Noir game image](https://cf.geekdo-images.com/4gaw7uVUCijAZa5bnZP84Q__itemrep/img/iymr5JN2rzqoDvm7soJFk0IvquI=/fit-in/246x300/filters:strip_icc\(\)/pic3941376.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 6 |      10+ | 10-60m |
+
+## [6. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Databases
 
 *   [Zover](http://www.mgc.ac.cn/cgi-bin/ZOVER/main.cgi) - A conglomeration of the previous bat ([DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/README.md/www.mgc.ac.cn/DBatVir)) and rodent virus ([DRodVir](http://www.mgc.ac.cn/DRodVir/)) databases with the addition of mosquito- and tick- borne viruses. Database is described [here](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab862/6389491?login=true).
 
-## [6. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+## [7. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ### Software Engineering
 
 *   [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - A better sourced article on the difficulty of implementing search engines.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Alert / Barcode
 
 *   [Toast-Swift (⭐182)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Common Section / Angular
 
 *   [GIMTEC](https://www.gimtec.io/). The weekly newsletter I wish I had when I finished my development bootcamp.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
@@ -72,7 +88,7 @@
 
 *   [LemmyNet/lemmy (⭐6.8k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Machine Learning
 
@@ -102,20 +118,20 @@
 
 
 
-## [11. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Tools you'll need / Cloud-based options
 
 *   [Deepnote](https://deepnote.com/) allows for real-time collaboration
 *   [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
-## [12. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Open Chemistry](https://opencollective.com/open-chemistry) - Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.
 
-## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

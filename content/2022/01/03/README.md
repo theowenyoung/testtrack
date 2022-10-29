@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -155,13 +155,19 @@
 
 *   [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Awesome Components
+
+*   [data-source (⭐12k)](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - Library to power streaming data visualisations as used in Facebook's Flipper
+
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
 *   [booperlv/nvim-gomove (⭐144)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
-## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Archive of Icons
 
@@ -172,7 +178,7 @@
 
 *   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Data Visualization / Runner
 

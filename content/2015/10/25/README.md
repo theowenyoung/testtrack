@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,13 +80,19 @@
 
 *   [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
 
-## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** \[42:42]
+
+## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Websites / OpenOffice
 
 *   [Official Forum](https://www.autoitscript.com/forum/)
 
-## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Presentations / Videos
 

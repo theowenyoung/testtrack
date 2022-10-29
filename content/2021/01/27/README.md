@@ -1,25 +1,59 @@
 # Awesome List Updates on Jan 27, 2021
 
-18 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [1. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Rust
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/arorust.webp">
+
+[**Ärorust**](https://discord.com/invite/RXNsMXc) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://twitter.com/AeroRust) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/AeroRust) \
+Notable Channels: `#resources`, `#drones`, `#space`, `#general-aviation`, `#rtos`, `#osal`, `#splice`, `#godwit`, `#ideas`, `#books`, `#conferences` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/rust_programming_language_community_server.webp">
+
+[**Rust Programming Language Community Server**](https://discord.com/invite/aVESxV8) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/ivandardi/RustBot) \
+Notable Channels: `#beginners`, `#code-review`, `#dev-tools`, `#black-magic`, `#macros`, `#async`, `#crypto-and-security`, `#games-and-graphics`, `#lang-dev`, `#net-and-web`, `#os-dev`\
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/tauri_apps.webp">
+
+[**Tauri Apps**](https://discord.com/invite/SpmNs4S) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://tauri.studio) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/tauri-apps) \
+Notable Channels: `#webview`, `#didathing`, `#help`, `#gamedevs`, `#app-devs`, `#vue-cli-plugin`, `#testing-core`, `#documentation`, `#community-projects`, `#working-groups`, `#cli-node`, `#core-rust` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_rust_programming_language.webp">
+
+[**The Rust Programming Language**](https://discord.com/invite/rust-lang) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.rust-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/rust-lang) \
+Notable Channels: `#beginners`, `#contribute`, `#community-team`, `#rustbridge`, `#design`, `#compiler`, `#wg-grammar`, `#wg-async-foundation`, `#type-theory`, `#wg-wasm`, `#wg-gamedev`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/tokio.webp">
+
+[**Tokio**](https://discord.com/invite/tokio) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://tokio.rs/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/tokio-rs) \
+Notable Channels: `#tokio-users`, `#tokio-dev`, `#tokio-docs`, `#ecosystem`, `#butte`, `#hyper`, `#h3`, `#kube`, `#mio`, `#prost`, `#reqwest`, `#tonic`, `#tower`, `#tracing`, `#warp`, `#loom`, `#rdbc`, `#metrics` \
+Language: English
+
+## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [Cloudrail (⭐22)](https://github.com/indeni/cloudrail-demo) - Terraform and Live Cloud context-based analysis tool for terraform>=0.12 :heavy\_dollar\_sign:
 
-## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Ada Lovelace Day](https://findingada.com/) [iTunes](https://podcasts.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - Achievements of women in science, technology, engineering and maths (STEM).
 *   [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - British podcast about Software Testing practices
 
-## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
@@ -175,13 +209,13 @@
     *   [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - Code analysis by MaiZure.
 *   [Wolfenstein 3D (⭐1.8k)](https://github.com/id-Software/wolf3d) - FPS developed by id Software set in the Nazi German prison Castle Wolfenstein. Features pseudo-3D graphics with raycasting technique. Written in C and assembly.
 
-## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Integrating with Cassandra / Spark
 
 *   [Spark + Cassandra Best Practices](https://blog.pythian.com/spark-cassandra-best-practices/) - Outlines general use cases and best practices of Spark & Cassandra together.
 
-## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Python / Angular
 
@@ -195,7 +229,7 @@
 
 *   [Kleroteria](https://www.kleroteria.org). A free, unique "lottery" newsletter where a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
-## [6. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
@@ -213,7 +247,7 @@
 *   [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 *   [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 
-## [7. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [8. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -231,7 +265,7 @@
 
 
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
@@ -242,25 +276,25 @@
 
 *   [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
 
-## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [10. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Plotters
 
 *   [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Synthia (⭐29)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -270,13 +304,19 @@
 
 *   [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform, integrating metrics and logs with Grafana. Free: 3 users, 10 dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
 
-## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
+
+## [15. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [RightsTech Women](https://rightstech.org) - Switzerland-based nonprofit that combines robotics, technology and human rights training for girls and women.
 
-## [14. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [16. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Frameworks and Stacks
 
@@ -286,7 +326,7 @@
 
 *   [ipygany (⭐468)](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -296,13 +336,19 @@
 
 *   [vuejs-generate (⭐2)](https://github.com/tomosterlund/generate-vue-component) - An easy CLI for generating Vue components, stores, store modules & unit tests.
 
-## [16. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [18. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Contests, conferences, and events
+
+*   [OzSecCon](https://ozseccon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
+
+## [19. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Data / CSV <-> JSON
 
 *   [United Nations data](https://data.un.org) - Data from the UN
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [20. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -332,7 +378,7 @@
 
 
 
-## [18. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [21. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 

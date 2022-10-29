@@ -67,6 +67,7 @@
 *   [Say Hello to Offline-First](https://www.youtube.com/watch?v=nNfaxNdyCgI) By Ola Gasidlo
 
 ## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Change previous two commits with an interactive rebase.
 
 ```sh

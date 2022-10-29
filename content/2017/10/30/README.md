@@ -82,6 +82,7 @@
 *   [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
 
 ## [12. Tips](/content/git-tips/tips/README.md)
+
 ## Remove sensitive data from history, after a push
 
 ```sh

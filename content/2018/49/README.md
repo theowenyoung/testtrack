@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 03 - Dec 09, 2018
 
-43 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,13 @@
 
 *   [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 
-## [2. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Mastodon](https://joinmastodon.org): Social networking, back in your hands. Follow friends, discover new ones. Publish anything you want: links, pictures, text, video. A platform that is community-owned and ad-free.
+
+## [3. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Private Packagist / IRC
 
@@ -24,33 +30,33 @@
 *   [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
 *   [Private Packagist API Client (⭐31)](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
-## [3. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [4. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### JVM and JDK
 
 *   [Avian (⭐1.2k)](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
 *   [OpenJ9 (⭐3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
-## [4. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [5. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Navigation
 
 *   [react-native-hotspot ★2 (⭐30)](https://github.com/lawnstarter/react-native-hotspot) - A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
 *   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Python`
 *   [Psono](https://psono.com/) - A promising password managers fully featured for teams. ([Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)) `Apache-2.0` `Python`
 
-## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Videos
 
 *   [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 
-## [7. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -64,7 +70,7 @@
 
 *   [Project TIER (⭐10)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
-## [8. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 
@@ -74,32 +80,32 @@
 *   [enjarify (⭐828)](https://github.com/Storyyeller/enjarify) - A tool for translating Dalvik bytecode to equivalent Java bytecode.
 *   [Android Storage Extractor (⭐10)](https://github.com/51j0/Android-Storage-Extractor) - A tool to extract local data storage of an Android application in one click.
 
-## [9. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
+## [10. Awesome Wicket](/content/PhantomYdn/awesome-wicket/week/README.md)
 
 ### Libraries
 
 *   [wicket-crudifier (⭐11)](https://github.com/premium-minds/wicket-crudifier) - Library to easily create CRUD's with wicket.
 *   [wicket-jersey (⭐4)](https://github.com/OrienteerBAP/wicket-jersey) - Adapter to run JAR-RX resources on [Jersey2](https://jersey.github.io/) under Wicket.
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Cognito
 
 *   [cognito-sample-nodejs :fire: (⭐124)](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [stb-image (⭐20k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [13. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Videos / Automation
 
 *   [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
 
-## [13. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [14. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Crack / General
 
@@ -127,25 +133,25 @@
 *   [muchrooms/zheye (⭐778)](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
 *   [aaronshan/12306-captcha (⭐265)](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 
-## [14. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [15. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
 *   [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor) - Handles big files, does miraculous things. A timeless editor for a timeless format.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Graphics
 
 *   [Veldrid (⭐2.1k)](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
-## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
 *   [MOCL](https://wukix.com/mocl) - CL as a library for mobile devices (iOS & Android) and OSX.
 
-## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
@@ -194,7 +200,7 @@
 *   [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 *   [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 
-## [18. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [19. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Applications / Other / unknown licence
 
@@ -204,13 +210,13 @@
 
 *   [svd2ada (⭐50)](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [SCM Breeze (⭐2.6k)](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/scmbreeze/scm_breeze)
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Blog Posts
 
@@ -221,7 +227,7 @@
 
 *   [DynamoDb-GUI-Client (⭐632)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
-## [21. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [22. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Conferences
 
@@ -231,19 +237,19 @@
 
 *   [Developers, Entrepreneurs And Depression - Business Of Software 2015](https://www.youtube.com/watch?v=zUQjZZJjKsY) - By Greg Baugues.
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Sending Arbitrary Keystrokes With The Actions API](https://appiumpro.com/editions/46)
 
-## [23. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [24. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Misc / Case Study
 
 *   [LaravelLinks Telegram Channel](https://telegram.me/laravellinks)
 
-## [24. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [25. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -287,7 +293,7 @@
 
 
 
-## [25. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [26. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Base Shells
 
@@ -410,7 +416,7 @@
 
 *   [the-art-of-command-line (⭐112k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
-## [26. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [27. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Science and Medicine
 
@@ -436,7 +442,7 @@
 
 
 
-## [27. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [28. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Frameworks / Angular
 
@@ -459,25 +465,25 @@
 
 *   [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Style Guides
 
 *   [Google](https://google.github.io/swift/) - This style guide is based on Apple’s excellent Swift standard library style and also incorporates feedback from usage across multiple Swift projects within Google.
 
-## [29. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [30. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Language Support
 
 *   [EcmaScript (⭐827)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
 
-## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Blockchain
 
 *   [Meadow (⭐127)](https://github.com/MeadowSuite/Meadow) - An integrated Ethereum implementation and tool suite focused on Solidity testing and development.
 
-## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
@@ -496,19 +502,19 @@
 *   [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
 *   [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
 
-## [32. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [33. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
 *   [is-wsl for Node (⭐168)](https://github.com/sindresorhus/is-wsl) - Check if the current process is running inside Windows Subsystem for Linux, useful for scripting. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [33. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [34. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tools
 
 *   [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
 
-## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [35. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Effect
 
@@ -522,7 +528,7 @@
 
 *   [Transform Widget (⭐28)](https://github.com/DrPaulT/flutter-engine-test) - Image widgets as 3D game engine sprites by [Paul Thomas](https://github.com/DrPaulT)
 
-## [35. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [36. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Documentation Generation
 
@@ -532,7 +538,7 @@
 
 *   [GLFW](https://www.glfw.org/) - Multi-platform library for creating windows with OpenGL contexts. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
@@ -548,13 +554,13 @@
 
 *   [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 
-## [37. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [38. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Charcoal (⭐178)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
@@ -564,7 +570,14 @@
 
 *   [LaravelLinks](https://telegram.me/laravellinks) - A Telegram Channel dedicated to sharing great Laravel Resources
 
-## [39. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [40. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### JS
+
+*   [AngularJS (⭐17k)](https://github.com/angular/material) — Material design for AngularJS.
+*   [Angular (⭐23k)](https://github.com/angular/material2) — Material design for Angular.
+
+## [41. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blog posts
 
@@ -575,7 +588,7 @@
 *   [Firecracker (⭐20k)](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 *   [Cirrus (⭐102)](https://github.com/ucbrise/cirrus) - Serverless machine learning framework.
 
-## [40. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [42. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2012
 
@@ -584,19 +597,19 @@
     *   [Part 2](https://youtu.be/AlJdI6yNo4U) \[15:41]
     *   [Part 3](https://youtu.be/LZK-ObWu_5I) \[33:31]
 
-## [41. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [43. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 
-## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [SMS 2 Factor Authentication for Keycloak via AWS SNS (⭐69)](https://github.com/nickpack/keycloak-sms-authenticator-sns)
 
-## [43. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [45. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Userscripts
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,7 +58,57 @@
 
 *   [Pulsar](https://pulsar.apache.org/) - Distributed pub-sub messaging system.
 
-## [8. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Ionic Fundamentals
+
+*   [Build a basic mobile app with Ionic 4](https://enappd.com/blog/how-to-create-an-ionic-4-app-for-beginners/13) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Read SMS in Ionic 4 apps](https://enappd.com/blog/automatically-read-sms-in-ionic-4-apps/42) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Geolocation, geocoding and reverse geocoding in Ionic 4](https://enappd.com/blog/using-geolocation-geocoding-and-reverse-geocoding-in-ionic-4/45) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Google Vision in Ionic 4 apps](https://enappd.com/blog/implement-google-vision-in-ionic-4/43) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [RTL (right-to-left) layout in Ionic 4 apps](https://enappd.com/blog/rtl-right-to-left-use-in-ionic-4/50) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Push notifications in Ionic 4 apps](https://enappd.com/blog/implement-ionic-4-firebase-push/34) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+
+### Authentication
+
+*   [Twitter Login in Ionic 4 App using Firebase](https://enappd.com/blog/twitter-login-in-ionic-4-apps-using-firebase/24) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Facebook Login in Ionic 4 App using Firebase](https://enappd.com/blog/facebook-login-in-ionic-4-apps-using-firebase/25) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Google Login in Ionic 4 App using Firebase](https://enappd.com/blog/google-login-in-ionic-4-apps-using-firebase/39) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Anonymous Login in Ionic 4 App using Firebase](https://enappd.com/blog/firebase-anonymous-login-in-ionic-4/37) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Basic Email Login in Ionic 4 App using Firebase](https://enappd.com/blog/email-authentication-with-firebase-in-ionic-4/38) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+
+### Ionic Native / Cordova Plugins
+
+*   [Playing music in Ionic 4 apps](https://enappd.com/blog/spotify-like-music-in-ionic-4-apps/48) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [How to implement health plugin - Pedometer in Ionic 4](https://enappd.com/blog/best-fitness-plugins-for-ionic-4-how-to-use-pedometer/15) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+
+### Payment Gateway Integrations
+
+*   [Ionic 4 Stripe Payment Integration](https://enappd.com/blog/ionic-4-stripe-payment-integration-with-firebase-for-apps-and-pwa/17) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Ionic 4 PayPal Payment Integration](https://enappd.com/blog/ionic-4-paypal-payment-integration-for-apps-and-pwa/16) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Ionic 4 Apple Pay Payment Integration](https://enappd.com/blog/how-to-integrate-apple-pay-in-ionic-4-apps/21) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+*   [Ionic 4 Razorpay Payment Integration](https://enappd.com/blog/how-to-integrate-razorpay-in-ionic-4-apps-and-pwa/20) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+
+### i18n & l10n
+
+*   [Internationalize and Localize Your Ionic 4 App](https://enappd.com/blog/how-to-translate-in-ionic-4-globalization-internationalization-and-localization/11) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png)
+
+### Open Source Projects
+
+*   [Firebase push notifications in Ionic 4 (⭐3)](https://github.com/enappd/ionic-4-push) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Receive SMS automatically in Ionic 4 (⭐11)](https://github.com/enappd/Ionic-4-sms-receive) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Playing music in Ionic 4 (⭐40)](https://github.com/enappd/ionic-4-music) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Stripe Payment Integration (⭐10)](https://github.com/enappd/ionic4-stripe) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 PayPal Payment Integration (⭐9)](https://github.com/enappd/ionic4-paypal) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Apple Pay Payment Integration (⭐7)](https://github.com/enappd/ionic4-applepay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Razorpay Payment Integration (⭐4)](https://github.com/enappd/ionic4-razorpay) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Twitter login with Firebase (⭐1)](https://github.com/enappd/Ionic-4-Twitter-auth) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Facebook login with Firebase (⭐3)](https://github.com/enappd/ionic4-facebookAuth) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Google login with Firebase](https://github.com/enappd/Ionic-4-google-auth) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Translation in Ionic 4 - Internationalization and localization (⭐6)](https://github.com/enappd/ionic4-i18n) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+*   [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/) ![](https://github.com/candelibas/awesome-ionic/raw/master/v4.png) \[NEW]
+
+## [9. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Official Resources and Documentation
 
@@ -76,7 +126,7 @@
 *   [trueChart](https://www.truechart.com)
 *   [VizLib](https://www.vizlib.com)
 
-## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -87,20 +137,20 @@
 
 *   [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Communication / Misc
 
 *   [FlutterX](https://flutterx.com) - Searchable list of resources by [Hillel Coren](https://twitter.com/hillelcoren)
 
-## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
 *   [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 *   [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### JSON
 

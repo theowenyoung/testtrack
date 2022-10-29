@@ -376,7 +376,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Logging
 
-*   [slog (⭐135)](https://github.com/gookit/slog) Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐135)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -384,7 +384,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [CodeCrafters Golang Track](https://app.codecrafters.io/tracks/go) — Achieve mastery in advanced Go by building your own Redis, Docker, Git, and SQLite. Featuring goroutines, systems programming, file I/O, and more.
+*   [CodeCrafters Golang Track](https://app.codecrafters.io/tracks/go) - Achieve mastery in advanced Go by building your own Redis, Docker, Git, and SQLite. Featuring goroutines, systems programming, file I/O, and more.
 
 ## [Jun 16, 2022](/content/2022/06/16/README.md)
 
@@ -452,7 +452,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Parsers/Encoders/Decoders
 
-*   [tokenizer (⭐21)](https://github.com/bzick/tokenizer) — Parse any string, slice or infinite buffer to any tokens.
+*   [tokenizer (⭐21)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -1927,7 +1927,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-cairo (⭐125)](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library.
 *   [go-gd (⭐56)](https://github.com/bolknote/go-gd) - Go binding for GD library.
 *   [go-nude (⭐360)](https://github.com/koyachi/go-nude) - Nudity detection with Go.
-*   [go-opencv (⭐1.3k)](https://github.com/lazywei/go-opencv) - Go bindings for OpenCV.
 *   [go-webcolors (⭐27)](https://github.com/jyotiska/go-webcolors) - Port of webcolors library from Python to Go.
 *   [go-webp (⭐86)](https://github.com/kolesa-team/go-webp) - Library for encode and decode webp pictures, using libwebp.
 *   [gocv (⭐5.1k)](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 3.3+.

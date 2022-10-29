@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,7 +41,17 @@
 
 *   [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS
+
+*   [GTFS Spec](https://developers.google.com/transit/gtfs/) - Specification for the General Transit Data Feed, or GTFS. Also available in [Español](https://developers.google.com/transit/gtfs/?hl=es), [Français](https://developers.google.com/transit/gtfs/?hl=fr).
+
+### GTFS Realtime / Ruby
+
+*   [GTFS-realtime documentation (⭐373)](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español (⭐373)](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+
+## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / California   <a id="california">  </a>
 
@@ -54,13 +64,13 @@
 | ---- | ----- | ------------------------------------------------------------------------------------ | ---------- |
 | ✔    | ✔     | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM |
 
-## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
 *   [billboard.js (⭐5.4k)](https://github.com/naver/billboard.js) - Re-usable chart library \[bar, line, area, donut, pie, step, spline]
 
-## [6. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / StreamField
 
@@ -70,7 +80,7 @@
 
 *   [Wagtail Error Pages](https://gitlab.com/alexgleason/wagtailerrorpages) - Pretty, smart, customizable error pages for Wagtail.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 

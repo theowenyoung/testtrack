@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26 - Apr 01, 2018
 
-41 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -612,19 +612,41 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 *   [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 *   [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 
-## [29. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [29. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Code
+
+*   [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (even on dumbphones)
+
+## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### SIRI / Ruby
+
+*   [pysiri2validator (⭐0)](https://github.com/laidig/pysiri2validator) - Simple validator for SIRI 2.0 written in Python 3.
+
+## [31. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
 *   [Joyous (⭐67)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
-## [30. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [32. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Internet of Things
 
 *   [GRiSP](https://grisp.org/) - Run the Erlang VM on an IoT board with many hardware interfaces and low-level drivers using a small realtime unikernel called RTEMS
 
-## [31. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Joe Nelson <https://begriffs.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Mark Seaborn <http://lackingrhoticity.blogspot.de/>
+
+## [34. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Guidelines
 
@@ -642,7 +664,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [Marvel App](https://marvelapp.com/): Free mobile & web prototyping for designers.
 
-## [32. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [35. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References
 
@@ -653,7 +675,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [glTF (⭐5.9k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 
-## [33. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [36. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Common Utilities
 
@@ -663,19 +685,19 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
-## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [37. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Architecture, Convention / Firmwares for ESP based Devices
 
 *   [The Homie Convention (⭐647)](https://github.com/homieiot/convention) - A lightweight MQTT convention for the IoT.
 
-## [35. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [38. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Collections
 
 *   [Overpass](http://overpassfont.org/) - An open source font family inspired by Highway Gothic
 
-## [36. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [39. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Unofficial
 
@@ -686,7 +708,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 *   [accelerometer2influx (⭐12)](https://github.com/CorpGlory/accelerometer2influx) - Android application that takes the x-y-z axis metrics from your phone accelerometer and sends the data to InfluxDB.
 *   [proc\_to\_influxdb (⭐1)](https://github.com/d-led/proc_to_influxdb) - Console app to observe Windows process starts and stops via InfluxDB
 
-## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [40. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Redis
 
@@ -696,7 +718,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [Codewars](https://www.codewars.com/kata/search/clojure)
 
-## [38. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [41. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Date and Time
 
@@ -724,7 +746,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
     *   [Robot Framework (⭐7.4k)](https://github.com/robotframework/robotframework) - A generic test automation framework.
     *   [unittest](https://docs.python.org/3/library/unittest.html) - (Python standard library) Unit testing framework.
 
-## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [42. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -918,7 +940,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 *   [Next: latest (⭐105k)](https://github.com/facebook/react-native/releases/latest)
 
-## [40. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [43. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -932,7 +954,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 

@@ -7,6 +7,7 @@
 
 
 ## [1. Tips](/content/git-tips/tips/README.md)
+
 ## Visualize the version tree.
 
 ```sh

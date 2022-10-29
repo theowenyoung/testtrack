@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,32 +39,42 @@
 
 *   [remote4me.com](https://remote4me.com/)
 
-## [4. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [4. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Books
+
+*   [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) \[[pdf](https://arxiv.org/pdf/1709.00084)]
+
+### Misc
+
+*   [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
+
+## [5. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490) Konstantinos N. Vougas, Thomas Jackson, Alexander Polyzos, Michael Liontos, Elizabeth O. Johnson, Vassilis Georgoulias, Paul Townsend, Jiri Bartek, Vassilis G. Gorgoulis. (2016)
 *   [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) Rogerio Normand, Hugo Alexandre Ferreira. (2015)
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Housing
 
 *   [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
 
-## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Testing
 
 *   [cljs.test (⭐9k)](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test (⭐166)](https://github.com/cemerick/clojurescript.test))
 
-## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Serverless Framework Plugins
 
 *   [Cloudflare Workers (⭐156)](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers.
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Miscellaneous
 

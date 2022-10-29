@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,29 @@
 
 *   [Safe (⭐2.1k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
-## [2. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Criteo <https://medium.com/criteo-labs>
+
+### Companies / H companies
+
+*   Hashnode <https://engineering.hashnode.com/>
+
+## [3. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/README.md)
 
 ### Overview of NoSQL
 
 *   [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf) - A 149-page document outlining motives and rationale for NoSQL databases, and common concepts, techniques and patterns among these databases; last updated around 2011.
 
-## [3. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
+## [4. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 
 ### Related
 
 *   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
@@ -34,7 +44,7 @@
 
 *   [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / HTTP
 
@@ -44,7 +54,7 @@
 
 *   [jose-simple (⭐54)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
-## [6. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [7. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Uncategorised
 
@@ -60,7 +70,7 @@
 *   [object-is (⭐25)](https://github.com/es-shims/object-is) - [`Object.is`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is)
 *   [json3 (⭐1k)](https://github.com/bestiejs/json3) - [`JSON`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 
-## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Miscellaneous
 
@@ -70,13 +80,13 @@
 
 *   :strawberry: [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Courses / Others
 
 *   [Creating Blazor Components](https://www.pluralsight.com/courses/creating-blazor-components) - December, 2019 - Building a Blazor app is building components. This course is essential for gaining a good understanding of components. On Pluralsight.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Music
 
@@ -92,13 +102,13 @@
 
 
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇬🇧 United Kingdom / Misc
 
 *   [Flutter London](https://flutterldn.dev/)
 
-## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [12. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Wallet
 
@@ -115,19 +125,19 @@
 
 *   [Neutrino (⭐10)](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
 
-## [12. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Resume (⭐46)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
-## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Graphics
 
 *   [AnimatedGradientView (⭐429)](https://github.com/rwbutler/AnimatedGradientView) - A simple framework to add animated gradients to your iOS app.
 
-## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Books / Wasm
 

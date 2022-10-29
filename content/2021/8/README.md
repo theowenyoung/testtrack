@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 22 - Feb 28, 2021
 
-62 awesome lists updated this week.
+63 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,6 +19,7 @@
 *   [Flask-Shell2HTTP (⭐125)](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [flow.ci](https://github.com/flowci)
 
   Description: Self-Hosted, powerful and user-friendly CI/CD server
@@ -880,7 +881,23 @@
 
 *   [Namics.Foundation.Logger (⭐0)](https://github.com/merkle-open/Namics.Foundation.Logger) - Provides a set of static methods to use for logging with flexible options
 
-## [53. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [53. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Plugins and scripts / Various Godot versions
+
+*   [Ridiculous Coding (⭐307)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
+
+### Plugins and scripts / Godot 3.2+
+
+*   [Funexpected Flash Tools (⭐14)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+*   [Shell Fur (⭐222)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
+
+### Modules / Godot 3.2+
+
+*   [Flash Module (⭐23)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
+*   [GodotAIGym (⭐138)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
+
+## [54. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Official Resources
 
@@ -1053,13 +1070,13 @@
 
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 
-## [54. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [55. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
 *   [imax (⭐29)](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
 
-## [55. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [56. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -1070,43 +1087,23 @@
 *   [Keycloak Identity and Access Management by Łukasz Budnik](https://www.youtube.com/playlist?list=PLPZal7ksxNs0mgScrJxrggEayV-TPZ9sA)
 *   [Keycloak by Niko Köbler](https://www.youtube.com/playlist?list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY)
 
-## [56. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [57. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Tools
 
 *   [Codaptor (⭐15)](https://github.com/180Protocol/codaptor) - Create REST API for any CorDapp running on a Corda node automatically.
 
-## [57. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [58. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Text processing
 
 *   [becheran/wildmatch (⭐37)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
-## [58. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [59. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.qufy.me/> by [@queensferryme](https://github.com/queensferryme) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.qufy.me%2F)
-
-## [59. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
-
-### Plugins and scripts / Various Godot versions
-
-*   [Ridiculous Coding (⭐307)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous (Godot 3.x).
-
-### Plugins and scripts / Godot 3.2+
-
-*   [Funexpected Flash Tools (⭐14)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
-*   [Shell Fur (⭐222)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
-
-### Modules / Godot 3.2+
-
-*   [Flash Module (⭐23)](https://github.com/funexpected/godot-flash-module) - Use Adobe Animate (Flash) projects in Godot.
-*   [GodotAIGym (⭐138)](https://github.com/lupoglaz/GodotAIGym) - Make your Godot project into an OpenAI Gym environment to train RL models with PyTorch.
-
-### Websites / Godot version unknown
-
-*   [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
 
 ## [60. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
@@ -1135,6 +1132,12 @@
 ### Capacity Planning
 
 *   [How Back Market SREs prepared for Black Friday](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408)
+
+## [63. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Methodologies
+
+*   [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** \[00:07:42]
 
 ---
 

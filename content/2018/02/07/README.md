@@ -88,6 +88,7 @@ Webpage: <https://edinburghhacklab.com/>
 *   [vue-jsx-sync (⭐10)](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
 
 ## [11. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@danvet](https://github.com/danvet), [Linux drm-intel](https://cgit.freedesktop.org/drm-intel)
     *   "Maintainers Don't Scale" ([video](https://www.youtube.com/watch?v=KJ9Y0midtW4), [slides](http://blog.ffwll.ch/slides/lca-2017.pdf), [post](http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html))
     *   "Burning Down the Castle" ([video](https://www.youtube.com/watch?v=BB0luXmuo3g\&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))

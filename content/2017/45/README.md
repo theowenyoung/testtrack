@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06 - Nov 12, 2017
 
-46 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -322,13 +322,20 @@
 *   [Kubernetes](http://slack.kubernetes.io/)
 *   [DevOps](https://devopschat.co/)
 
-## [28. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [28. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
+*   [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
+
+## [29. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
 *   [react-tv (⭐2k)](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Articles / Other
 
@@ -338,13 +345,13 @@
 
 *   [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - Includes some good talks on improving app startup time, debugging crashes, etc.
 
-## [30. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Objective-C / Git
 
 *   [ObjectivePGP (⭐614)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
-## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [32. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Videos
 
@@ -365,19 +372,19 @@
 *   [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU\&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) - Introduction to matrices by Greg Tatum.
 *   [Making Things With Maths](https://acko.net/tv/wdcode/) - Talk by Steven Wittens about bezier curves, procedural generation, physics engines and fractals.
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
-## [33. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Community
 
 *   [OCaml Discourse Web Forum](https://discuss.ocaml.org/)
 
-## [34. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
@@ -401,13 +408,13 @@
 *   [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) Apr 25, 2017
 *   [Machine learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) Jan 23, 2017
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-scaling-utils :fire::fire: (⭐331)](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
 
-## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -419,7 +426,7 @@ Webpage: <http://4sq.com/XuO7me>
 | ---- | ----- | ------------------------------------------------------------------------- | -------------------- |
 | ✔    | ?     | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00 |
 
-## [37. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Front-end build tools
 
@@ -428,7 +435,7 @@ Webpage: <http://4sq.com/XuO7me>
 *   [Grunt js interview questions for beginners](http://www.talkingdotnet.com/grunt-js-interview-questions/)
 *   [Grunt js interview questions](https://mindmajix.com/grunt-interview-questions)
 
-## [38. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [39. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
@@ -443,7 +450,7 @@ Webpage: <http://4sq.com/XuO7me>
 
 *   [jeysal/pretty-format-snabbdom ★0 (⭐5)](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format (⭐41k)](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
-## [39. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### License
 
@@ -459,7 +466,7 @@ Free (pay what you want)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -470,13 +477,13 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [Hubaga (⭐23)](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 
-## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
 
-## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -545,13 +552,13 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) - (Portuguese) The book provides introduction to functional and concurrent programming with Elixir by Tiago Davi(2014).
 *   [Phoenix Inside Out](https://shankardevy.com/phoenix-book/) - The goal of this series is to enable you as a Confident Phoenix developer. There are 3 different editions to address varied needs of devs jumping into Phoenix.
 
-## [43. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [44. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Books
 
 *   [Automation and Monitoring with Hubot](https://leanpub.com/automation-and-monitoring-with-hubot) - An e-book that walks you through building a Hubot driven ChatOps implementation.
 
-## [44. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [45. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -559,13 +566,13 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
     Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship.
 
-## [45. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
 *   [deviceframe (⭐538)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -585,6 +592,384 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### PDF
 
 *   [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. \[GPLv2/GPLv3]
+
+## [48. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Asia / India 🇮🇳
+
+### Mumbai
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jayeshkattar" height="70px" width="70px" align="left" alt="" />
+
+**Jayesh Katta Ramalingaiah**\
+Topics: Rust, Android, Angular, React, Web VR, Project Things, Common Voice, Web Compatibility\
+<https://twitter.com/jayeshkattar>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manjula_dube" height="70px" width="70px" align="left" alt="" />
+
+**Manjula Dube**\
+Topics: JavaScript, React, Progressive Web Apps, Node, Testing\
+<https://twitter.com/manjula_dube>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/neeharv" height="70px" width="70px" align="left" alt="" />
+
+**Neehar Venugopal**\
+Topics: Code Splitting, Standards\
+<https://twitter.com/neeharv>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/chatsidhartha" height="70px" width="70px" align="left" alt="" />
+
+**Sidhartha Chatterjee**\
+Topics: React, Progressive Web Apps, Web Performance\
+<https://twitter.com/chatsidhartha>
+
+### Asia / Pakistan 🇵🇰
+
+### Tyre
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarasoueidan" height="70px" width="70px" align="left" alt="" />
+
+**Sara Soueidan**\
+Topics: Animations, CSS, SVG\
+<https://twitter.com/sarasoueidan>
+
+### Australia / Australia 🇦🇺
+
+### Singapore
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/renettarenula" height="70px" width="70px" align="left" alt="" />
+
+**Aysha Anggraini**\
+Topics: CSS, Animations\
+<https://twitter.com/renettarenula>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hj_chen" height="70px" width="70px" align="left" alt="" />
+
+**Chen Hui Jing**\
+Topics: CSS\
+<https://twitter.com/hj_chen>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/zellwk" height="70px" width="70px" align="left" alt="" />
+
+**Zell Liew**\
+Topics: CSS, JavaScript\
+<https://twitter.com/zellwk>
+
+### Europe / Austria 🇦🇹
+
+### Melbourne
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/glenmaddern" height="70px" width="70px" align="left" alt="" />
+
+**Glen Maddern**\
+Topics: CSS, Styled Components, React, JavaScript\
+<https://twitter.com/glenmaddern>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fox" height="70px" width="70px" align="left" alt="" />
+
+**Karolina Szczur**\
+Topics: CSS, HTML, Web, Inclusivity, Diversity\
+<https://twitter.com/fox>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/markdalgleish" height="70px" width="70px" align="left" alt="" />
+
+**Mark Dalgleish**\
+Topics: Design Systems, Web Design\
+<https://twitter.com/markdalgleish>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/philnash" height="70px" width="70px" align="left" alt="" />
+
+**Phil Nash**\
+Topics: JavaScript, Web Development, Progressive Web Apps\
+<https://twitter.com/philnash>
+### Linz
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ddprrt" height="70px" width="70px" align="left" alt="" />
+
+**Stefan Baumgartner**\
+Topics: Web Ops, JavaScript, CSS, Tooling\
+<https://twitter.com/ddprrt>
+### Salzburg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisi_linhart" height="70px" width="70px" align="left" alt="" />
+
+**Lisi Linhart**\
+Topics: CSS, Web Animations\
+<https://twitter.com/lisi_linhart>
+
+### Europe / Bulgaria 🇧🇬
+
+### Hasselt
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sambego" height="70px" width="70px" align="left" alt="" />
+
+**Sam Bellen**\
+Topics: Web Audio, Browser APIs\
+<https://twitter.com/sambego>
+
+### Europe / Czech Republic 🇨🇿
+
+### Sofia
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rstankov" height="70px" width="70px" align="left" alt="" />
+
+**Radoslav Stankov**\
+Topics: React, Redux, Ruby, Testing, GraphQL\
+<https://twitter.com/rstankov>
+
+### Europe / Finland 🇫🇮
+
+### Helsinki
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="" />
+
+**Eemeli Aro**\
+Topics: Open Source, React, YAML\
+<https://twitter.com/eemeli_aro>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="" />
+
+**Juha Lindstedt**\
+Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js\
+<https://twitter.com/pakastin>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="" />
+
+**Juha Linnanen**\
+Topics: React Native, TypeScript, GraphQL\
+<https://twitter.com/plrdev>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="" />
+
+**Juha-Matti Santala**\
+Topics: Community building, Documentation, JavaScript, Programming\
+<https://twitter.com/Hamatti>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
+
+**Maaret Pyhäjärvi**\
+Topics: Testing\
+<https://twitter.com/maaretp>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="" />
+
+**Varya Stepanova**\
+Topics: CSS in JS, Style Guides, Visual Regression Testing\
+<https://twitter.com/varya_en>
+
+### Europe / France 🇫🇷
+
+### Paris
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/manekinekko" height="70px" width="70px" align="left" alt="" />
+
+**Wassim Chegham**\
+Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\
+<https://twitter.com/manekinekko>
+
+### Europe / Germany 🇩🇪
+
+### Freiburg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/smashingmag" height="70px" width="70px" align="left" alt="" />
+
+**Vitaly Friedman**\
+Topics: Web Design, Web Development, Responsive Web Design\
+<https://twitter.com/smashingmag>
+### Hamburg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
+
+**Mario Nebl**\
+Topics: JavaScript, Node, JS Architecture\
+<https://twitter.com/marionebl>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
+
+**Martin Kleppe**\
+Topics: Weird JS\
+<https://twitter.com/aemkei>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PalmaSwell" height="70px" width="70px" align="left" alt="" />
+
+**Mauricio Palma**\
+Topics: CSS, JavaScript\
+<https://twitter.com/PalmaSwell>
+
+### Europe / Greece 🇬🇷
+
+### Munich
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fhinkel" height="70px" width="70px" align="left" alt="" />
+
+**Franziska Hinkelmann**\
+Topics: Node, V8\
+<https://twitter.com/fhinkel>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mathias" height="70px" width="70px" align="left" alt="" />
+
+**Mathias Bynens**\
+Topics: JavaScript (TC39), V8, Chrome\
+<https://twitter.com/mathias>
+
+### Europe / Netherlands 🇳🇱
+
+### Milan
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/granze" height="70px" width="70px" align="left" alt="" />
+
+**Maurizio Mangione**\
+Topics: Web Components, Polymer, Progressive Web Apps\
+<https://twitter.com/granze>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cef62" height="70px" width="70px" align="left" alt="" />
+
+**Matteo Ronchi**\
+Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
+<https://twitter.com/cef62>
+
+### Europe / Norway 🇳🇴
+
+### Zwolle
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/NorbertdeLangen" height="70px" width="70px" align="left" alt="" />
+
+**Norbert de Langen**\
+Topics: Component Libraries, React, Storybook, Open Source, Communities\
+<https://twitter.com/NorbertdeLangen>
+
+### Europe / Poland 🇵🇱
+
+### Poznań
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tlakomy" height="70px" width="70px" align="left" alt="" />
+
+**Tomasz Łakomy**\
+Topics: React, Virtual Reality, jQuery\
+<https://twitter.com/tlakomy>
+
+### Europe / Portugal 🇵🇹
+
+### Lisbon
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sericaia" height="70px" width="70px" align="left" alt="" />
+
+**Daniela Matos de Carvalho**\
+Topics: Web protocols, Web security, JavaScript, React, Node.js, Offline First\
+<https://twitter.com/sericaia>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/daviddias" height="70px" width="70px" align="left" alt="" />
+
+**David Dias**\
+Topics: IPFS, Peer to Peer, JavaScript, Node.js\
+<https://twitter.com/daviddias>
+
+### Europe / Spain 🇪🇸
+
+### Córdoba
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/javivelasco" height="70px" width="70px" align="left" alt="" />
+
+**Javi Velasco**\
+Topics: React, CSS in JS, React Toolbox\
+<https://twitter.com/javivelasco>
+
+### Europe / Ukraine 🇺🇦
+
+### Zurich
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/g33konaut" height="70px" width="70px" align="left" alt="" />
+
+**Martin Splitt**\
+Topics: Virtual Reality, Web Performance\
+<https://twitter.com/g33konaut>
+
+### Europe / United Kingdom 🇬🇧
+
+### Brighton
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/adactio" height="70px" width="70px" align="left" alt="" />
+
+**Jeremy Keith**\
+Topics: Standards, Web Development, Web Design, CSS, Accessibility\
+<https://twitter.com/adactio>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/paulrobertlloyd" height="70px" width="70px" align="left" alt="" />
+
+**Paul Robert Lloyd**\
+Topics: Design, Web Design, Architecture, Design Systems, Trains\
+<https://twitter.com/paulrobertlloyd>
+### Leighton Buzzard
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cjforms" height="70px" width="70px" align="left" alt="" />
+
+**Caroline Jarrett**\
+Topics: Forms Usability, User Research\
+<https://twitter.com/cjforms>
+
+### North America / Canada 🇨🇦
+
+### Ottawa
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shehackspurple" height="70px" width="70px" align="left" alt="">
+
+**Tanya Janca**\
+Topics: InfoSec, Web App Security\
+<https://twitter.com/shehackspurple>
+
+### North America / United States of America 🇺🇸
+
+### Carlsbad
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mjackson" height="70px" width="70px" align="left" alt="" />
+
+**Michael Jackson**\
+Topics: React, JavaScript, React Router\
+<https://twitter.com/mjackson>
+### Nashville
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Aimee_Knight" height="70px" width="70px" align="left" alt="" />
+
+**Aimee Knight**\
+Topics: JavaScript, CSS, Angular, Growing Junior Developers\
+<https://twitter.com/Aimee_Knight>
+### New Orleans
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/GantLaborde" height="70px" width="70px" align="left" alt="" />
+
+**Gant Laborde**\
+Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking\
+<https://twitter.com/GantLaborde>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thegreengreek" height="70px" width="70px" align="left" alt="" />
+
+**Sia Karamalegos**\
+Topics: React, JavaScript, React Native, Front-End Performance\
+<https://twitter.com/thegreengreek>
+
+### South America / Brazil 🇧🇷
+
+### Buenos Aires
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/evaferreira92" height="70px" width="70px" align="left" alt="" />
+
+**Evangelina Ferreira**\
+Topics: CSS, Animations\
+<https://twitter.com/evaferreira92>
+### Belo Horizonte
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/obetomuniz" height="70px" width="70px" align="left" alt="" />
+
+**Beto Muniz**\
+Topics: React, JavaScript, Progressive Web Apps, Polymer, Community\
+<https://twitter.com/obetomuniz>
+### Curitiba
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fdaciuk" height="70px" width="70px" align="left" alt="" />
+
+**Fernando Daciuk**\
+Topics: React, JavaScript\
+<https://twitter.com/fdaciuk>
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12 - Apr 18, 2021
 
-57 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,31 +24,54 @@
 
 *   [TextBuilder (⭐178)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
-## [4. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [4. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tutorials / React General Tutorials
+
+*   [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+### React Tutorials / React Hooks
+
+*   [Awesome React Hooks (⭐8.6k)](https://github.com/rehooks/awesome-react-hooks)
+*   [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+*   [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
+
+### React Tools / Forms
+
+*   [formik (⭐31k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+*   [react-hook-form (⭐31k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
+*   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
+*   [unform (⭐4.5k)](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
+*   [formily (⭐8.7k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+*   [uniforms (⭐1.7k)](https://github.com/vazco/uniforms) - A React library for building forms from any schema
+*   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
+*   [react-formal (⭐523)](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+
+## [5. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
 *   [CyberBattleSim (⭐1.5k)](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 
-## [5. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [6. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
 *   [**Cinemate**](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Testing
 
 *   [Blackfire.io](https://blackfire.io/) - Performance testing.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Dependency injection
 
 *   [piotr-yuxuan/closeable-map (⭐49)](https://github.com/piotr-yuxuan/closeable-map)
 
-## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -58,7 +81,7 @@
 
 *   [stat.ucla.edu](http://statistics.ucla.edu/)
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -105,44 +128,44 @@
 
 *   [Nullboard (⭐2.3k)](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`
 
-## [10. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [11. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Oxfeed (⭐7)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 
-## [11. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
 *   [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
 
-## [12. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [13. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [hitokoto-box (⭐8)](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 
-## [13. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [14. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Utilities
 
 *   [httrack2warc (⭐21)](https://github.com/nla/httrack2warc) - Convert HTTrack archives to WARC format (Java).
 
-## [14. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [15. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Datasets
 
 *   [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/) - This dataset gathers 728,321 biographies from wikipedia. It aims at evaluating text generation algorithms.
 
-## [15. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [16. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### CLI & Editor / iOS
 
 *   📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 
-## [16. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -167,13 +190,13 @@
 
 *   [Unminus](https://www.unminus.com/) - [:copyright:](https://www.unminus.com/license) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 
-## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [18. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Datasets / Topic-specific
 
 *   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
 
-## [18. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [19. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Component Libraries
 
@@ -183,14 +206,14 @@
 
 *   [Fanchao MENG](https://github.com/pingf)
 
-## [19. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [20. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Social Networks
 
 *   [FoxQL](https://foxql.com) is a social network that runs on your browser as peer to peer. It does not require any setup or registration.
     There is no management stuff for checking the content. Users can decide which topics and content will stay in foxql cycle. [foxql-core (⭐167)](https://github.com/foxql/foxql)
 
-## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [21. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
@@ -202,7 +225,7 @@
 *   [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
 *   [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -217,19 +240,19 @@
 
 *   [vue-it-bigger (⭐179)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 
-## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [Chromatic](https://www.chromatic.com/) - Visual testing and UI review for component libraries. Cloud-based. [Video](https://youtu.be/6KDLJBcutQE)
 
-## [23. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [24. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / MOOCs
 
 *   [Neuromatch Academy (⭐2.3k)](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
 
-## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [25. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -240,7 +263,7 @@
 *   [8-Bit Wonderland (⭐18)](https://github.com/gb-archive/salvage/blob/master/misc/8bit_wonderland.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
 *   [Infinity (⭐8)](https://github.com/gb-archive/infinity-gbc) - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
 
-## [25. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [26. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Use Cases
 
@@ -333,13 +356,13 @@
 *   [Instaclustr Exporter (⭐54)](https://github.com/instaclustr/cassandra-exporter) - Java agent that exports Cassandra metrics to Prometheus.
 *   [Instaclustr Go Client for Instaclustr Icarus (⭐4)](https://github.com/instaclustr/instaclustr-icarus-go-client) - Go client for Instaclustr Icarus sidecar.
 
-## [26. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Build and Package / Other / unknown licence
 
 *   [cmake-ada-offa (⭐11)](https://github.com/offa/cmake-ada) - Ada language support for CMake.
 
-## [27. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [28. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Food
 
@@ -350,13 +373,13 @@
 
 *   [awesome-sustainability-jobs (⭐367)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
-## [28. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [29. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Installation Media / Newsletters
 
 *   [nixos-up (⭐166)](https://github.com/samuela/nixos-up) - Super easy NixOS installer that can be used from the installation ISO.
 
-## [29. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [30. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -368,13 +391,13 @@
 *   [Interaction Media Features and Their Potential (for Incorrect Assumptions](https://css-tricks.com/interaction-media-features-and-their-potential-for-incorrect-assumptions/) - On detection of various input devices.
 *   [Mobile Performance Inequality Gap](https://infrequently.org/2021/03/the-performance-inequality-gap/) - Why you need to care of performance on cheap smartphones.
 
-## [30. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [31. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Theory Teaching
 
 *   [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Scala / General-Purpose Machine Learning
 
@@ -385,13 +408,13 @@
 
 *   [NDScala (⭐39)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
 
-## [32. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [33. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Security
 
 *   [pii (⭐3)](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
 
-## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / MSP430
 
@@ -410,25 +433,36 @@
 
 *   [cam-geom](https://crates.io/crates/cam-geom): Geometric models of cameras for photogrammetry. ![crates.io](https://img.shields.io/crates/v/cam-geom.svg)
 
-## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [35. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Form Widgets / Calendar
 
 *   [Duet Date Picker (⭐1.6k)](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 
-## [35. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Academic papers / Ruby
+
+*   [Brakewood and Watkins - "A literature review of the passenger benefits of real-time transit information"](https://www.tandfonline.com/doi/full/10.1080/01441647.2018.1472147?scroll=top\&needAccess=true) (2018) - An overview of many different research studies looking at the benefits of real-time transit information.
+
+### Government reports / Ruby
+
+*   [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) (2015) - A comprehensive report looking at the benefits and challenges of open transit data.
+*   [TCRP Research Report 213: Data Sharing Guidance for Public Transit Agencies – Now and in the Future](http://www.trb.org/Main/Blurbs/180188.aspx) (2020) - A report designed to help agencies make decisions about sharing their data, including how to evaluate benefits, costs, and risks.
+
+## [37. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - Encyclopedia of musicians persecuted during the Nazi era.
 
-## [36. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -446,19 +480,19 @@
 
 *   [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
 
-## [38. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [40. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Math
 
 *   [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/) - This article explains how to compute the main descriptive statistics in R and how to present them graphically. Author - Antoine Soetewey.
 
-## [39. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [41. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [La Marque](https://marque.la/) - Generate & pin content from your phone. Validate "La Marque" assets by verifying received images from others.
 
-## [40. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [42. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -470,13 +504,13 @@
 
 *   [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
-## [41. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [43. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Strategy
 
 *   [OpenHV (⭐284)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
 
-## [42. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [44. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -555,13 +589,13 @@
 
 *   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
 
-## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [45. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Logic / Mouse Events
 
 *   [Formily (⭐8.7k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
-## [44. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [46. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Testing
 
@@ -571,7 +605,7 @@
 
 *   [@vitjs/vit (⭐92)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
-## [45. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -581,7 +615,7 @@
 
 *   [keycloakify: Create Keycloak themes using React (⭐605)](https://github.com/InseeFrLab/keycloakify)
 
-## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [48. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -633,7 +667,7 @@
 
 *   [has\_scope (⭐1.6k)](https://github.com/heartcombo/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -783,7 +817,7 @@
 
 
 
-## [48. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [50. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Azure
 
@@ -813,7 +847,7 @@
 
 *   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
-## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -823,32 +857,44 @@
 
 *   [link-header (⭐1)](https://github.com/spider-gazelle/link-header) - HTTP Link Header Parser
 
-## [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [RRethy/nvim-base16 (⭐277)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
 *   [fenetikm/falcon (⭐607)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
-## [51. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [53. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Blogs / Participants' solutions
 
 *   [Q# Community](https://qsharp.community)
 
-## [52. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [54. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### JavaScript
 
 *   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
-## [53. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [55. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / France 🇫🇷
+
+### Rautalampi
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="" />
+
+**Juho Vepsäläinen**\
+Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
+<https://twitter.com/bebraw>
+
+## [56. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Developer and Requestor Resources / Miscellaneous
 
 *   [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 
-## [54. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [57. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Web Application Firewall
 
@@ -858,7 +904,7 @@
 
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Book that is a practical guide which presents dozens of relevant scenarios in a convenient problem-solution-discussion format.. (early access, published continuously, final release fall 2021)
 
-## [55. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [58. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -892,7 +938,7 @@
 
 *   [Medical Data for Machine Learning (⭐5.3k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
-## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [59. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -980,7 +1026,7 @@
 
 *   [verbose](https://shinmera.github.io/verbose) - A fast and highly configurable logging framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [57. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [60. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 

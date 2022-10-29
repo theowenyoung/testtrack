@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29 - Sep 04, 2016
 
-36 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,7 +30,19 @@
 
 *   [Green Coffee (⭐227)](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [5. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Open Source Projects
+
+*   [Ionic Firebase Chat App (⭐37)](https://github.com/ionic2blueprints/firebase-chat)
+*   [Ionic Ecommerce App (⭐26)](https://github.com/ionic2blueprints/ionic2-marketcloud)
+*   [Ionic Conference App based on Lanyrd API (⭐7)](https://github.com/ionic2blueprints/conference-app)
+*   [Ionic Stock Tracking App (⭐16)](https://github.com/ionic2blueprints/ionic2-stockmarket)
+*   [Ionic Wordpress Client (⭐20)](https://github.com/ionic2blueprints/ionic2-wp-client)
+*   [Ionic Media Player (⭐31)](https://github.com/ionic2blueprints/media-player)
+*   [Ionic Social App (⭐25)](https://github.com/ionic2blueprints/social-app)
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Compression
 
@@ -43,38 +55,48 @@
 
 *   [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [minio/minio :fire::fire::fire::fire::fire: (⭐36k)](https://github.com/minio/minio) - Object storage server compatible with S3.
 
-## [8. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [9. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Noteit (⭐11)](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Cryptography
 
 *   [sfackler/rust-native-tls (⭐355)](https://github.com/sfackler/rust-native-tls) — Bindings for native TLS libraries
 
-## [10. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [11. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blogs
 
 *   [Serverless Blog](http://blog.serverless.com) - Official blog of the Serverless Framework.
 *   [Serverless Stories](https://medium.com/serverless-stories) - Medium publication from the team behind the Serverless Framework.
 
-## [11. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / H companies
+
+*   Housing.com <https://medium.com/engineering-housing>
+
+### Individuals/Group Contributors / J individuals
+
+*   John Wittenauer <http://www.johnwittenauer.net/>
+
+## [13. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Experts on personal blogs
 
@@ -94,7 +116,7 @@
 
 *   [aurelia-datatable (⭐32)](https://github.com/SpoonX/aurelia-datatable) \* A 100% aurelia based data table component <http://aurelia-datatable.spoonx.org>
 
-## [12. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [14. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
@@ -104,7 +126,7 @@
 
 *   [GitIgnore for Salesforce  (⭐29)](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
-## [13. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [15. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
@@ -116,13 +138,13 @@
 
 *   [Octavian (⭐169)](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 
-## [14. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [16. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
 
-## [15. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
@@ -132,7 +154,7 @@
 
 *   [DDD/CQRS Google Group](https://groups.google.com/forum/?utm_source=digest\&utm_medium=email#!forum/dddcqrs) - An active mailing list and an excellent resource to ask questions and learn fine-grained details about DDD/CQRS.
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Errors and Exception Handling
 
@@ -197,31 +219,31 @@
 
 *   [ffmpex (⭐186)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
-## [17. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [19. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Blog Posts & Articles
 
 *   [Implementing todo list in Draft.js](http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html)
 
-## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Sounds & Music / Icons Packages and Collections
 
 *   [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 
-## [19. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [21. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Pattern Matching
 
 *   [Akar (⭐174)](https://github.com/missingfaktor/akar)
 
-## [20. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [22. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Applications/Ideas built around Papers We Love
 
 *   Love a Paper - [@loveapaper](https://twitter.com/loveapaper)
 
-## [21. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [23. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Really Simple Forms
 
@@ -231,13 +253,13 @@
 
 *   [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
 
-## [22. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [24. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Slides
 
 *   [Functional Reactive Programming with Cycle.js](https://slides.com/artfuldev/frp-with-cycle-js) - by Sudarsan Balaji
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -256,19 +278,19 @@
 
 *   [Adventures in SRE-land: Welcome to Google Mission Control](https://cloudplatform.googleblog.com/2016/07/adventures-in-SRE-land-welcome-to-Google-Mission-Control.html)
 
-## [24. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [26. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Paddle - PArallel Distributed Deep LEarning by Baidu (⭐19k)](https://github.com/baidu/paddle)
 
-## [25. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [27. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [RxComprehensions (⭐86)](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps.
 
-## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Compilers, Transpilers and Languages
 
@@ -295,7 +317,7 @@
 
 *   [Visual Studio Uninstaller (⭐3.8k)](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 
-## [27. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -304,13 +326,13 @@
     *   [Assignments](https://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html): Extensive programming assignments, using MIT/GNU Scheme. Students should have significant programming experience in Scheme, Common Lisp, Haskell, CAML or other "functional" language.
     *   [Readings](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/)
 
-## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### SQL-like processing
 
 *   [Apache Calcite](http://calcite.apache.org/) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Using Electron / Other
 
@@ -329,7 +351,7 @@
 *   [Cross-Platform Desktop Apps with Electron](https://www.youtube.com/watch?v=9xX_G0l5jLU)
 *   [Electron Fundamentals course - Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals) 💲
 
-## [30. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [32. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
@@ -343,37 +365,37 @@
 
 *   [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [33. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
 *   [Scaffold Interface (⭐889)](https://github.com/amranidev/scaffold-interface) - A Smart CRUD Generator For Laravel
 
-## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Internationalization
 
 *   [Termit (⭐507)](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 
-## [33. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [35. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
 *   [Flask-Potion (⭐490)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
-## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Honey Pot / Honey Net
 
 *   [HoneyPy (⭐426)](https://github.com/foospidy/HoneyPy) - HoneyPy is a low to medium interaction honeypot. It is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations.
 
-## [35. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [37. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Parsers / Brunch Plugins
 
 *   [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format (⭐4.3k)](https://github.com/estree/estree)
 
-## [36. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [38. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 

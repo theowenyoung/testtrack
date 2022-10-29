@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2018
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -496,6 +496,16 @@
 ### Frameworks, Libraries and Tools / Web Socket
 
 *   [websocket-manager (⭐434)](https://github.com/radu-matei/websocket-manager) - Real-Time library for ASP .NET Core.
+
+## [49. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / F companies
+
+*   Freeletics <https://freeletics.engineering/>
+
+### Products/Technologies / S technologies
+
+*   Sketch <https://blog.sketchapp.com/>
 
 ---
 

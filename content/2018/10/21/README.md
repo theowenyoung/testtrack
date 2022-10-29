@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,31 +54,37 @@
 
 *   [Scout (⭐162)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
-## [4. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [CY Lim (⭐0)](https://github.com/cylim/ama) - Full-stack JavaScript digital nomad.
+
+## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Books / Algorithms and Data structures
 
 *   [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 
 *   [couchdb.cr (⭐12)](https://github.com/TechMagister/couchdb.cr) - CouchDB client
 
-## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Web Frameworks
 
 *   [Starlette (⭐7.5k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Books / Graph Based approach
 
 *   [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combine graph theory and models to improve machine learning projects
 
-## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -274,7 +280,7 @@
 *   [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 *   [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -284,13 +290,13 @@
 
 *   [dotnet-env (⭐289)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 
-## [10. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [11. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 
 *   [itikz (⭐55)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

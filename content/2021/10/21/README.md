@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2021
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -124,37 +124,48 @@
 
 *   [Introduction to Quantum Information Science](https://www.arturekert.org/iqis) - “Introduction to Quantum Information” by Professor Artur Ekert at the University of Oxford.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Courses
+
+*   [Robotics Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity** :dollar:
+*   [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2019/5b151c51e8bf47c29d97f8a12369df17/) **edX**
+
+### Companies
+
+*   [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots.
+
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [As .NET 6 Nears GA, Blazor WebAssembly Can Now Use Native Dependencies](https://visualstudiomagazine.com/articles/2021/10/15/aspnet-update.aspx) - October 15, 2021 - Less than a month before .NET 6 ships, Microsoft announced Blazor WebAssembly apps can now use native dependencies, allowing developers to tap into native C code, for example, upon jumping through a few hoops.
 
-## [12. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [13. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Others / Object detection and object tracking
 
 *   [ARHeadsetKit (⭐73)](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction (⭐19)](https://github.com/philipturner/scene-color-reconstruction).
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Command Line / Diagnostics
 
 *   [gelguy/wilder.nvim (⭐810)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Docker Related
 
 *   [Platform9](https://platform9.com/) - Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself.
 
-## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Educational and Informational Resources / Literature Resources
 
 *   [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome) - Provides access to a range of full-text current and historical documents from the National Transportation Library. Resources are available from all modes of transportation as well as related disciplines such as climate change research.
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 

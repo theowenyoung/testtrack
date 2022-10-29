@@ -25,6 +25,7 @@
 *   [Reactive Ble (⭐425)](https://github.com/PhilipsHue/flutter_reactive_ble) <!--stargazers:PhilipsHue/flutter_reactive_ble--> - Handles BLE operations for multiple devices by [Philips Hue](https://github.com/PhilipsHue)
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@BurntSushi](https://github.com/BurntSushi), [Rust libraries](https://github.com/BurntSushi?tab=repositories)
     *   "My FOSS Story" ([post](https://blog.burntsushi.net/foss/))
 

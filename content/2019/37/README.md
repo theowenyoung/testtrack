@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16 - Sep 22, 2019
 
-50 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,56 +84,73 @@
 *   [State of Web Type (⭐67)](https://github.com/bramstein/stateofwebtype) - Support tables for type and typographic features on the web.
 *   [Can I Email?](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. Inspired by [Can I use](http://caniuse.com/).
 
-## [12. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Design
+
+*   [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** \[1:06:38]
+
+## [13. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [padding-oracle-attacker (⭐154)](https://github.com/KishanBagaria/padding-oracle-attacker) - padding-oracle-attacker is a CLI tool and library to execute padding oracle attacks (which decrypts data encrypted in CBC mode) easily, with support for concurrent network requests and an elegant UI.
 
-## [13. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / D companies
+
+*   Docker <https://blog.docker.com/>
+*   Doximity <https://engineering.doximity.com>
+
+### Companies / P companies
+
+*   Postman <https://medium.com/better-practices>
+
+## [15. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools
 
 *   [redial (⭐187)](https://github.com/taypo/redial) [![stars](https://img.shields.io/github/stars/taypo/redial?style=social)](https://github.com/taypo/redial) - Terminal Based SSH Session Manager for Unix Systems
 
-## [14. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects / Operating Systems
 
 *   [Slackware Linux](https://www.patreon.com/slackwarelinux) - Linux distribution.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Queues and Messaging
 
 *   [NATS.io (⭐40)](https://github.com/nats-io/nats.cr) - NATS client
 
-## [16. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [18. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
 
-## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
 *   [Hauk (⭐427)](https://github.com/bilde2910/Hauk) - Easy to setup location sharing platform that lets you temporarily share your location with anyone in real-time. ([Demo (⭐427)](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 
-## [18. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [20. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
 *   [pivotsuite (⭐373)](https://github.com/RedTeamOperations/PivotSuite) - Portable, platform independent and powerful network pivoting toolkit.
 
-## [19. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Deployment Tools / Newsletters
 
 *   [morph (⭐537)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
-## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
@@ -143,13 +160,13 @@
 
 *   [react-chartjs-2 (⭐5.4k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 
-## [21. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [23. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Validation / Paid Books
 
 *   [jQuery-form-validation (⭐33)](https://github.com/bnabriss/jquery-form-validation) - Validatie html forms using Laravel syntax.
 
-## [22. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [24. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain projects for AI algorithms
 
@@ -160,43 +177,49 @@
 
 *   [BurstIQ](https://www.burstiq.com/) - Healthcare data marketplace with granular ownership and granular consent of data. By using on-chain storage on a custom blockchain, BurstIQ can comply with HIPAA, GDPR, and other regulations.
 
-## [23. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [25. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Learning
 
 *   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## [24. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Component Libraries
+
+*   [rsuite (⭐7.2k)](https://github.com/rsuite/rsuite) - A suite of React components
+
+## [27. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Reactive
 
 *   [CrossPlatformLiveData (⭐3)](https://github.com/jakdor/CrossPlatformLiveData) - Android LiveData inspired .NET implementation - lifecycle aware rx streams.
 
-## [25. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
 *   [PID Loops and the Art of Keeping Systems Stable](https://www.youtube.com/watch?v=3AxSwCC7I4s)
 
-## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
 *   [A one-on-one chat app in Vue with CometChat (⭐5)](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 
-## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [30. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
 *   [Wagtail-Lazyimages (⭐21)](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
 
-## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
 *   :octocat: [FoalTS (⭐1.6k)](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: <https://foalts.org>)
 
-## [29. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [32. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -214,7 +237,7 @@
 
 
 
-## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
@@ -228,7 +251,7 @@
 
 *   [Keycloak Terraform Provider (⭐417)](https://github.com/mrparkers/terraform-provider-keycloak)
 
-## [31. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [34. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -263,7 +286,7 @@
 
 *   [GitHub Action for Google Cloud Platform (GCP) (⭐206)](https://github.com/exelban/gcloud)
 
-## [32. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
+## [35. Awesome Splunk](/content/sduff/awesome-splunk/week/README.md)
 
 ### Apps
 
@@ -300,7 +323,7 @@
 *   [IRC](https://wiki.splunk.com/Community:IRC) - Instructions for connecting to `#splunk` of Efnet.
 *   [Splunk Store](https://www.mylogocloud.com/splunk) - Order some Splunk Schwag you missed from a meetup or .conf.
 
-## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -314,13 +337,13 @@
 
 *   [Adeva](https://adevait.com) - An exclusive remote developers network. Adeva partners with companies to scale engineering teams on-demand.
 
-## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
 *   [Prequel (⭐1.4k)](https://github.com/Protoqol/Prequel/) - A clear and concise database management GUI tweaked for Laravel.
 
-## [35. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [38. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### CMS & Blogs
 
@@ -339,7 +362,7 @@
 *   [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
 *   [Phalcon Blog](https://blog.phalcon.io/) - Phalcon Blog
 
-## [36. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [39. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### IoT / OS
 
@@ -349,7 +372,7 @@
 
 *   [BalenaCloud](https://www.balena.io/)
 
-## [37. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
+## [40. Awesome Ads](/content/cenoura/awesome-ads/week/README.md)
 
 ### Acronyms and Abbreviations
 
@@ -413,26 +436,26 @@
 *   [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 *   [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Reflection
 
 *   [magic\_get (⭐135)](https://github.com/apolukhin/magic_get) - std::tuple like methods for user defined types without any macro or boilerplate code. \[Boost]
 
-## [39. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [42. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Courses and Tutorials / Third Party Hosts
 
 *   [CourseClub](https://courseclub.me/) Download courses from (Lynda, Pluralsight, CBG Nuggets, etc)
 *   [FreeCourseSite](https://freecoursesite.com/) Mostly highest rated udemy courses torrent
 
-## [40. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [43. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [Research Papers from Robert Harper, Carnegie Mellon University](https://www.cs.cmu.edu/\~rwh/papers/index.html)
 
-## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -442,7 +465,7 @@
 
 *   [Simple Diagrams](https://www.simplediagrams.com/) - A desktop app for creating hand-drawn-like, fast, clear sketches of problems, processes, workflows, ideas and more!
 
-## [42. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
+## [45. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
 ### General
 
@@ -480,7 +503,7 @@
 
 *   [TBA Node API (⭐0)](https://github.com/Team2537/tba-api-node) - A Node.js library for interacting with The Blue Alliance API.
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Key Value Store
 
@@ -494,19 +517,19 @@
 
 *   [NKVPhonePicker (⭐138)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
-## [44. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [47. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Web / Other / unknown licence
 
 *   [yass (⭐17)](https://github.com/yet-another-static-site-generator/yass) - Yet Another Static Site Generator (like Jekyll or Hugo).
 
-## [45. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [48. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) A thorough description of how Google engineers do code reviews, from the Google's Engineering Practices documentation.
 
-## [46. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [49. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
@@ -516,13 +539,13 @@
 
 *   [intermix.io](https://intermix.io/) - Performance Monitoring for Amazon Redshift
 
-## [47. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Code Analysis and Linter
 
 *   [clj-kondo (⭐1.5k)](https://github.com/borkdude/clj-kondo)
 
-## [48. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [51. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Code Analysis
 
@@ -533,7 +556,7 @@
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
     *   [wemake-python-styleguide (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 
-## [49. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [52. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### ACL 2019
 
@@ -542,7 +565,7 @@
 *   [SemEval-2019 Task 10: Math Question Answering](https://www.aclweb.org/anthology/S19-2153), Mark Hopkins, et al., ACL-W 2019, Jun 2019.
 *   [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761), Tom Kwiatkowski, et al., TACL 2019, Jan 2019.
 
-## [50. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [53. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 

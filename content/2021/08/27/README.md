@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 27, 2021
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,7 +52,13 @@
 *   [youki (⭐3.8k)](https://github.com/containers/youki)\
     A container runtime written in Rust.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project): General purpose platform for creating interconnected websites featuring a decentralized identity, communications, and permissions framework built using common webserver technology.
+
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -121,19 +127,19 @@
 
 
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-tauri (⭐92)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Automation / DSL
 
 *   [jmeter-java-dsl](https://abstracta.github.io/jmeter-java-dsl/) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
@@ -156,31 +162,31 @@
 
 *   [Getting Started with Blazor](https://codered.eccouncil.org/course/getting-started-with-blazor) - June 2021 - Discover the Core Concepts of Blazor and learn to create web applications with ease.
 
-## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [12. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Other
 
 *   [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
 
-## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Password Recovery
 
 *   [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
-## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Official Venues / Skeumorphic Icons
 
 *   [Apps for GNOME](https://apps.gnome.org/)
 
-## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Files and Directories / Files
 
 *   [RecoverPy (⭐412)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
-## [15. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
+## [16. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -191,14 +197,14 @@
 
 *   [CityCoin (⭐69)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
 
-## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Template engine
 
 *   [handlebars (⭐22)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
-## [17. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [18. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
@@ -208,7 +214,7 @@
 
 *   [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queriable via web-based API's.
 
-## [18. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [19. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Videos / Other Tools
 

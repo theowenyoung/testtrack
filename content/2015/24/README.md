@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15 - Jun 21, 2015
 
-18 awesome lists updated this week.
+21 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,167 @@
 
 *   [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 
-## [3. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / A companies
+
+*   AdRoll <http://tech.adroll.com/blog/>
+*   Artsy <http://artsy.github.io/>
+
+### Companies / B companies
+
+*   BlaBlaCar <http://blablatech.com/blog/>
+
+### Companies / C companies
+
+*   Canva <https://engineering.canva.com>
+*   Cerner <http://engineering.cerner.com/>
+*   Chartbeat <http://engineering.chartbeat.com/>
+*   CodeName One <http://www.codenameone.com/blog.html>
+
+### Companies / D companies
+
+*   Dropbox <https://blogs.dropbox.com/tech/>
+
+### Companies / E companies
+
+*   Etsy <https://codeascraft.com/>
+
+### Companies / F companies
+
+*   Facebook <https://code.facebook.com/posts/>
+*   Fiftythree <http://making.fiftythree.com/>
+*   Finn.no <http://tech.finn.no/>
+*   Flickr <http://code.flickr.net/>
+
+### Companies / G companies
+
+*   Galois <https://galois.com/blog/>
+*   GameChanger <http://tech.gc.com/>
+*   GitHub Old <https://github.com/blog/category/engineering>
+*   GoCardless <https://gocardless.com/blog/tagged/engineering/>
+*   GoSquared <https://engineering.gosquared.com/>
+*   Groupon <https://engineering.groupon.com/>
+
+### Companies / H companies
+
+*   HackerEarth <http://engineering.hackerearth.com/>
+*   Harry's <http://engineering.harrys.com/>
+*   Honeybadger <http://blog.honeybadger.io/>
+
+### Companies / I companies
+
+*   Intent Media <http://intentmedia.com/blog/>
+
+### Companies / K companies
+
+*   Khan Academy <http://engineering.khanacademy.org>
+*   Kickstarter <https://www.kickstarter.com/backing-and-hacking>
+
+### Companies / M companies
+
+*   Medallia <http://engineering.medallia.com/blog/>
+*   MemSQL <http://blog.memsql.com/content/engineering/>
+
+### Companies / N companies
+
+*   Nextdoor <https://engblog.nextdoor.com/>
+
+### Companies / P companies
+
+*   Prezi <https://medium.com/prezi-engineering>
+
+### Companies / R companies
+
+*   Rightscale <http://eng.rightscale.com/>
+
+### Companies / S companies
+
+*   Salesforce <https://developer.salesforce.com/blogs/engineering/>
+*   Simple <https://www.simple.com/engineering>
+*   Soundcloud <https://developers.soundcloud.com/blog/>
+*   Spotify <https://labs.spotify.com/>
+*   Square <https://corner.squareup.com/>
+
+### Companies / T companies
+
+*   Takipi <http://blog.takipi.com/>
+*   Thoughtbot <https://robots.thoughtbot.com/>
+*   Thumbtack <https://www.thumbtack.com/engineering/>
+*   Trivago <http://tech.trivago.com/>
+*   Twitter <https://blog.twitter.com/engineering>
+
+### Companies / V companies
+
+*   Vine <http://engineering.vine.co/>
+*   Vinted <http://engineering.vinted.com/>
+
+### Companies / W companies
+
+*   Wattpad <http://engineering.wattpad.com/>
+*   Wayfair <http://engineering.wayfair.com/>
+*   Wealthfront <http://eng.wealthfront.com/>
+*   Wonga Technology <http://tech.wonga.com/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Antirez <http://antirez.com/latest/0>
+
+### Individuals/Group Contributors / B individuals
+
+*   Bad Concurrency <http://bad-concurrency.blogspot.com/>
+*   Brendan Gregg <http://www.brendangregg.com/blog/>
+
+### Individuals/Group Contributors / K individuals
+
+*   Kyle Kingsbury <https://aphyr.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Marco Pivetta <http://ocramius.github.io/>
+*   Matt Cutts <https://www.mattcutts.com/blog/>
+*   Mike Ash <https://www.mikeash.com/pyblog/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nicolas Liochon <http://blog.thislongrun.com/>
+*   NSHipster <http://nshipster.com/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Paul Graham <http://www.paulgraham.com/articles.html>
+*   Peter Norvig <http://norvig.com/>
+*   Peteris Krumins <http://www.catonmat.net/blog/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Reginald Braithwaite <http://raganwald.com/#essays>
+*   Robert C. Martin <http://blog.cleancoder.com/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Scott Hanselman <http://www.hanselman.com/blog/>
+*   Stephen Colebourne <http://blog.joda.org/>
+
+### Individuals/Group Contributors / T individuals
+
+*   The Daily WTF <http://thedailywtf.com/>
+
+### Individuals/Group Contributors / V individuals
+
+*   Vanilla Java <http://vanillajava.blogspot.com/>
+
+### Individuals/Group Contributors / Y individuals
+
+*   Yegor Bugayenko <http://www.yegor256.com/>
+
+## [4. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / C/C++
 
 *   [Can a local variable's memory be accessed outside its scope?](http://stackoverflow.com/a/6445794/1104488)
 
-## [4. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [5. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -40,26 +194,32 @@
 *   [Built with Polymer](http://builtwithpolymer.org/)
 *   [Components Kitchen](http://component.kitchen/)
 
-## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [6. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Distributed Media Processing
 
 *   [StormCV (⭐169)](https://github.com/sensorstorm/StormCV) - Apache Storm + OpenCV = large scale distributed image and video analysis.
 
-## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### ORM / Database / Datamapping
 
 *   [PersistRelatedData plugin (⭐12)](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 
-## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [8. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### *Basics*
 
 *   [hsenv (⭐123)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 *   [Stack (⭐3.8k)](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [9. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### data
+
+*   [strava-geojson (⭐26)](https://github.com/tmcw/strava-geojson): export *all* strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
+
+## [10. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -138,7 +298,13 @@
 *   [ts (⭐52)](https://github.com/thinkerbot/ts) - A shell test script
 *   [The Art of Command Line (⭐112k)](https://github.com/jlevy/the-art-of-command-line)
 
-## [9. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
+## [11. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Web Development
+
+*   [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** \[10:14:37]
+
+## [12. Awesome Slack](/content/matiassingers/awesome-slack/week/README.md)
 
 ### :hammer_and_wrench:   Libraries and SDKs / Python
 
@@ -148,7 +314,7 @@
 
 *   [slack-scala-client (⭐183)](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -158,7 +324,7 @@
 
 *   [gimei\_ex (⭐6)](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 
-## [11. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [14. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -168,7 +334,7 @@
 
 *   [Psychedelic Chat](http://psychedelicchat.com/)
 
-## [12. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -200,7 +366,7 @@
 
 
 
-## [13. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [16. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -214,26 +380,26 @@
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
-## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [17. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Other / Brunch Plugins
 
 *   [babel-node](https://babeljs.io/docs/usage/cli/#babel-node) - Run node cli with ES6 transpiling using Babel.
 
-## [15. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [18. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
 *   [Python](https://atom.io/packages/linter-pylama) — pylama
 *   [Stylus](https://atom.io/packages/linter-stylint) — stylint
 
-## [16. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [19. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
 *   [LDAvis (⭐521)](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 
-## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -251,7 +417,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 *   [obetomuniz/awesome-webcomponents (⭐436)](https://github.com/obetomuniz/awesome-webcomponents)
 
-## [18. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [21. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Java Libraries
 

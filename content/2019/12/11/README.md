@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2019
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,14 +88,20 @@
 
 *   [Wirefly](https://www.wirefly.world/) - The first tech & arts festival of its kind in Germany ⪢ 4 days of ✓ talks ✓ music ✓ events ✓ food ✓ camping - all that and more at a unique venue on the beach! **(August)**
 
-## [10. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / Graphics
+
+*   [react-svg-pan-zoom (⭐639)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+
+## [11. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
 *   [Boxicons (⭐2k)](https://github.com/atisawd/boxicons#readme) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 *   ICONSVG - Quick customizable SVG icons, easily customize strokes, ends, and joins of paths. ([Website](https://iconsvg.xyz))
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Chemistry
 
@@ -105,7 +111,7 @@
 
 *   [autodiff (⭐1.1k)](https://github.com/autodiff/autodiff) - A modern, fast and expressive C++ library for automatic differentiation. \[MIT] [website](https://autodiff.github.io)
 
-## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 

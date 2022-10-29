@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18 - Dec 24, 2017
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,14 +12,20 @@
 
 *   [shainet (⭐161)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
-## [2. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Test-Driven Development
+
+*   [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** \[32:22]
+
+## [3. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
 *   [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
     *   [Open-source Driver (⭐1.4k)](https://github.com/GPUOpen-Drivers/AMDVLK)
 
-## [3. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Web Frameworks
 
@@ -29,13 +35,13 @@
 
 *   [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - A gentle introduction to asynchronous programming from basic examples working up to URL fetching.
 
-## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [5. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [PHP Women](http://phpwomen.org) - An inclusive & global network providing support within the PHP community.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Text / Barcode
 
@@ -45,14 +51,14 @@
 
 *   [CountryPickerView (⭐457)](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps.
 
-## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
 *   [GrijjyFoundation (⭐208)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
     // *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
 
-## [7. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Optimization / NLP
 
@@ -62,13 +68,13 @@
 
 *   [stockstats (⭐1.1k)](https://github.com/jealous/stockstats) - Supply a wrapper `StockDataFrame` based on the `pandas.DataFrame` with inline stock statistics/indicators support.
 
-## [8. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [9. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Multimedia
 
 *   [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
 
-## [9. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [10. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Literature / Education
 
@@ -78,13 +84,13 @@
 
 *   [Seraro](http://www.seraro.com) - Agency.
 
-## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [11. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Books
 
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
-## [11. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [12. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
@@ -94,31 +100,31 @@
 
 *   [framer-modules (⭐336)](https://github.com/kysely/framer-modules) - Discover, install and save your favorite modules at one place.
 
-## [12. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [13. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Corpora
 
 *   [Opinion Mining - User reviews on Cars, Hotels, Washing machines, Books, Cell phones, Music..](https://www.sfu.ca/\~mtaboada/SFU_Review_Corpus.html)
 
-## [13. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [14. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Others / Particles
 
 *   [Turbulenz (⭐3.9k)](https://github.com/turbulenz/turbulenz_engine) - Modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [vue-storefront (⭐10k)](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Ingestion
 
 *   [Apache NiFi](https://nifi.apache.org/) - Apache NiFi is an integrated data logistics platform for automating the movement of data between disparate systems.
 
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -133,13 +139,25 @@
 *   [GCeasy](http://gceasy.io/) - Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.
 *   [osquery](https://osquery.io/) - osquery is an instrumentation framework that expose the operating system as a high-performance relational database.
 
-## [17. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [18. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Open Source Projects
+
+*   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
+
+## [19. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Applets / Design Tooling
 
 *   [Docker Integration (⭐148)](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 
-## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Products/Technologies / K technologies
+
+*   Kotlin <https://blog.jetbrains.com/kotlin/>
+
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -168,7 +186,7 @@
 *   [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework (⭐8.4k)](https://github.com/caffe2/caffe2)
 *   [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web (⭐8.5k)](https://github.com/PAIR-code/deeplearnjs)
 
-## [19. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Startpages / Telegram
 
@@ -178,7 +196,7 @@
 
 *   [Calculist](https://app.calculist.io/)
 
-## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [23. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -226,13 +244,13 @@
 *   [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 *   [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 
-## [21. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [24. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [Chimp (⭐787)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
-## [22. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -255,13 +273,13 @@
 *   [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
 *   [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [simplebeerservice :fire::fire: (⭐314)](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
-## [24. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [27. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
@@ -271,7 +289,7 @@
 
 *   [uuid (⭐13k)](https://github.com/kelektiv/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 
-## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### CLI and REPL
 
@@ -282,19 +300,19 @@
     3.  Make script executable: `chmod +x script.ts`
     4.  Run directly: `./script.ts` :)
 
-## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [29. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   [TokenVerify plugin (⭐9)](https://github.com/mosaxiv/cakephp-token-verify) - Easily issue tokens that can be used for mail authentication.
 
-## [27. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Date and Time
 
@@ -316,13 +334,13 @@
 
 *   [xBehave.net (⭐387)](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. <http://xbehave.github.io>
 
-## [29. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [32. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Read-Write
 
 *   [stempeg (⭐71)](https://github.com/faroit/stempeg) [:octocat: (⭐71)](https://github.com/faroit/stempeg) [:package:](https://pypi.python.org/pypi/stempeg/) - read/write of STEMS multistream audio.
 
-## [30. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [33. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Music, Radio and Podcasts / Others
 
@@ -332,7 +350,7 @@
 
 *   [Taskade](https://taskade.com/) - Collaborative notes, task lists, and outlines. Sign up is optional.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -342,7 +360,7 @@
 
 *   [sentences (⭐335)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
-## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Video
 

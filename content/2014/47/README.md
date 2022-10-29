@@ -1,12 +1,18 @@
 # Awesome List Updates on Nov 24 - Nov 30, 2014
 
-12 awesome lists updated this week.
+13 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Cognitive Development
+
+*   [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** \[18:54]
+
+## [2. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Elements / WebVTT
 
@@ -17,19 +23,19 @@
 *   [Video from google developers](https://www.youtube.com/watch?v=4zoC3eaa9z0)
 *   [Draft from W3C](https://w3c.github.io/frame-timing/)
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GIS
 
 *   [NetTopologySuite (⭐1.1k)](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
 
-## [3. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [4. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Polyfills / Brunch Plugins
 
 *   [`String.prototype.includes`](https://github.com/mathiasbynens/String.prototype.includes)
 
-## [4. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [5. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### iBeacon Resources by Apple
 
@@ -72,19 +78,19 @@
 *   [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 *   [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [Geometry (⭐92)](https://github.com/artman/Geometry) - extensions for UIView.
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
 *   [Apipie (⭐2.3k)](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Metaprogramming
 
@@ -94,13 +100,13 @@
     *   [ppx\_monad (⭐7)](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
     *   [ppx\_deriving\_yojson (⭐133)](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 
-## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [Banana (⭐667)](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### QA Tools / Runner
 
@@ -110,7 +116,7 @@
 
 *   [mithril.js (⭐13k)](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -137,7 +143,7 @@
 
 *   [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -238,7 +244,7 @@
 
 *   [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 
-## [12. Typography](/content/deanhume/typography/week/README.md)
+## [13. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 

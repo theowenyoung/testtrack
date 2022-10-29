@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2018
 
-10 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -72,7 +72,76 @@
 
 *   [Making a Lunar Lander in JavaScript](http://students.cs.ucl.ac.uk/schoolslab/projects/HT5) - A 5 lesson tutorial that explain how to make a Lunar Lander game in JavaScript.
 
-## [4. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Netherlands 🇳🇱
+
+### Breda
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/detonite" height="70px" width="70px" align="left" alt="" />
+
+**Job van Achterberg**\
+Topics: Accessibility\
+<https://twitter.com/detonite/>
+
+### North America / Canada 🇨🇦
+
+### Kingston
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/svinkle" height="70px" width="70px" align="left" alt="">
+
+**Scott Vinkle**\
+Topics: Accessibility\
+<https://twitter.com/svinkle>
+
+### North America / United States of America 🇺🇸
+
+### Buffalo
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aardrian" height="70px" width="70px" align="left" alt="" />
+
+**Adrian Roselli**\
+Topics: Accessibility\
+<https://twitter.com/aardrian>
+### Chapel Hill
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shepazu" height="70px" width="70px" align="left" />
+
+**Doug Schepers**\
+Topics: Data visualization, Accessibility, SVG\
+<https://twitter.com/shepazu>
+### Madison
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cariefisher" height="70px" width="70px" align="left" alt="" />
+
+**Carie Fisher**\
+Topics: Accessibility\
+<https://twitter.com/cariefisher>
+### Redwood City
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
+
+**Jesse Beach**\
+Topics: Accessibility, React\
+<https://twitter.com/jessebeach>
+
+### South America / Argentina 🇦🇷
+
+### Seattle
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
+
+**Jaime Lopez**\
+Topics: iOS, Swift, Software Architecture, Development Processes\
+<https://twitter.com/DevWithTheHair>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ShellELittle" height="70px" width="70px" align="left" alt="" />
+
+**Shell Little**\
+Topics: Accessibility\
+<https://twitter.com/ShellELittle>
+
+## [5. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Academic Papers
 
@@ -96,25 +165,51 @@
 *   [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 *   [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 
-## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles about Data
 
 *   [The case against async relationships in Ember Data](https://embermap.com/notes/83-the-case-against-async-relationships)
 
-## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [Peartree (⭐144)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [transitr (⭐18)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
+
+## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** \[50:42]
+
+### Test-Driven Development
+
+*   [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
+
+## [9. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Frameworks
 
 *   [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 
-## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [10. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Intermediate
+
+#### [1 Million Women To Tech Summer of Code (⭐627)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+
+**Free** programming course material for beginner, intermediate and advanced levels\
+*(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
+
+## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Linters / More
 
 *   [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 
-## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Trackers / Semi-Private Trackers
 
@@ -149,7 +244,7 @@
 
 *   [ByPassed](https://bypassed.wtf/) ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
-## [9. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [13. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### IDE and Editor Support
 
@@ -159,7 +254,7 @@
 
 *   [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen and Baruch Sadogursky discuss news and insight from the Groovy ecosystem.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Phone Number Research / Telegram
 

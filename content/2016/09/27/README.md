@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,13 @@
 *   [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 *   [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Arjun Mayilvaganan (⭐0)](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at [CEG](https://en.wikipedia.org/wiki/College_of_Engineering,_Guindy). Striving to make it as a Full stack developer.
+
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GUI
 
@@ -53,13 +59,13 @@
 
 *   [CefSharp (⭐9k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
-## [6. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [7. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Testing Methods
 
 *   [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Utility / ORM
 
@@ -73,7 +79,7 @@
 
 *   [Android Tips & Tricks (⭐4.6k)](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,45 +12,57 @@
 
 *   [AjahnBrahmRetreats](https://www.youtube.com/user/AjahnBrahmRetreats) - Recordings of meditation retreats with Ajahn Brahm at Jhana Grove Meditation Retreat Centre.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Hobby projects
+
+*   [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
+*   [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
+*   [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
+
+### Vendors
+
+*   [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
+
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [Tossit (⭐61)](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
-## [3. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
+## [4. Awesome Eta](/content/sfischer13/awesome-eta/README.md)
 
 ### Community / Official Resources
 
 *   [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 *   [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Peripherals / Opcodes
 
 *   [Mobile Game Boy Adapter](https://bulbapedia.bulbagarden.net/wiki/Mobile_Game_Boy_Adapter)
 *   [GB KISS LINK MODEM](http://nectaris.tg-16.com/GB-KISS-LINK-FAQ-hudson-gameboy-nectaris.html)
 
-## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Development Utilities
 
 *   [Auto Cache Flush (⭐21)](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
-## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Open Source
 
 *   [11t (⭐86)](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Crystal / General-Purpose Machine Learning
 
 *   [machine (⭐42)](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
 
-## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [9. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 
@@ -60,7 +72,7 @@
 
 
 
-## [9. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [10. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### LG webOS / Third-party remote control libraries
 
@@ -70,13 +82,13 @@
 
 *   [openlgtv.org.ru](http://openlgtv.org.ru) - A non-commercial project for legal reverse engineering and research on LG Television firmware. Seems a bit outdated but contains a lot of information.
 
-## [10. Awesome Linux](/content/inputsh/awesome-linux/README.md)
+## [11. Awesome Linux](/content/inputsh/awesome-linux/README.md)
 
 ### Console-based Applications and Tools / Package management and creation tools
 
 *   [shellcheck (⭐30k)](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 
-## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [12. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 
@@ -92,7 +104,7 @@
 
 *   [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - JavaScript math snippets for movement.
 
-## [12. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
+## [13. Awesome Ledger](/content/sfischer13/awesome-ledger/README.md)
 
 ### Background
 

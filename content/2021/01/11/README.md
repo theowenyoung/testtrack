@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,43 +31,58 @@
 
 *   [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Courses
+
+*   [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **Coursera**
+*   [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
+*   [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
+*   [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
+*   [Advanced Robotics](http://www.cs.berkeley.edu/\~pabbeel/cs287-fa13/) **UC Berkeley**
+
+### Misc
+
+*   [Hexapod Robot Simulator (⭐466)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others
 
 *   [Modulight (⭐5)](https://github.com/StardustDL/delights) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/delights?style=flat-square\&cacheSeconds=86400) A light modular framework aimed to be low intrusive based on dependency injection for Blazor. Support lazy loading and prerendering for javascript, css stylesheets, and assemblies. Built with the new features introduced in .NET 5 such as WebAssembly Lazy Loading and Javascript Isolation.
 
-## [6. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [7. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
 
-## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### .Net Libraries
 
 *   [NBitcoin (⭐1.7k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
 *   [PlotNeuralNet (⭐18k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for drawing neural networks for reports and presentation.
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [10. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tutorials / iOS
 
 *   [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
-## [10. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [11. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Preprocessing
 
 *   [svelte-preprocess (⭐1.4k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
-## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [12. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Awesome Lists
 

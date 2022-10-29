@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -544,19 +544,41 @@
 *   [LoadRunner Raw Results Exporter](https://admhelp.microfocus.com/lr/en/12.60-12.62/help/WebHelp/Content/Controller/raw_results_exporter.htm) - To export scenario results (load test results) to InfluxDB
 *   [nmon2influxdb (⭐77)](https://github.com/adejoux/nmon2influxdb) - Import [nmon](http://nmon.sourceforge.net/pmwiki.php) file into InfluxDB
 
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### North America / Canada 🇨🇦
+
+### Hamilton
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/wesbos" height="70px" width="70px" align="left" alt="" />
+
+**Wes Bos**\
+Topics: JavaScript, CSS, Tooling\
+<https://twitter.com/wesbos>
+
+### North America / United States of America 🇺🇸
+
+### Mountain View
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="" />
+
+**Addy Osmani**\
+Topics: Chrome DevTools, Performance\
+<https://twitter.com/addyosmani>
+
+## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / APIs
 
 *   [Laravel GraphQL (⭐1.9k)](https://github.com/rebing/graphql-laravel) - Supports Relay, eloquent models, validation and GraphiQL
 
-## [10. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [11. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
 *   [ClearX (⭐20)](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
 
-## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Technology in General / Angular
 

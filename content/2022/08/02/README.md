@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,31 +44,37 @@
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
-## [7. Awesome Math](/content/rossant/awesome-math/README.md)
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### editors & viewers
+
+*   [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
+
+## [8. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Learning Platforms
 
 *   [MathRelay](https://www.mathrelay.com/)
 
-## [8. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [9. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
 *   [ctk (⭐217)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
-## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 
 *   [capy-ui/capy (⭐528)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
 *   [vite-plugin-build (⭐13)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Third-party APIs
 
@@ -83,7 +89,7 @@
 
 *   [cl-git (⭐51)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### ORM
 

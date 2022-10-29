@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2018
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,19 +68,26 @@
 *   [jemalloc (⭐7.5k)](https://github.com/jemalloc/jemalloc) - General purpose malloc(3) implementation that emphasizes fragmentation avoidance and scalable concurrency support. \[BSD] [website](http://jemalloc.net/)
 
 ## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Visualize the tree including commits that are only referenced from reflogs
 
 ```sh
 git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ```
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [9. Tools](/content/lvwzhen/tools/README.md)
+
+### webpack
+
+*   [Visual webpack config tool](https://webpack.jakoblind.no/)
+
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 
 *   [coconutBattery](https://www.coconut-flavour.com/coconutbattery/) - Shows live information about the battery in your Mac. Includes: manufacture date, capacity, cycle count, battery status, temperature, discharging power.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
@@ -90,7 +97,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [vue2-perfect-scrollbar (⭐262)](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Charts
 
@@ -100,13 +107,13 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 *   [YuanaItemSettingView (⭐15)](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
 
-## [12. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [13. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Laravel / More
 
 *   [Laravel Model Snippets](https://marketplace.visualstudio.com/items?itemName=ahinkle.laravel-model-snippets) - Quickly get models up and running with Laravel Model Snippets.
 
-## [13. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [14. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Python tools / Misc
 

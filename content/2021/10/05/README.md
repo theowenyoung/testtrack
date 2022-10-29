@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,25 +48,51 @@
 
 *   [tfe-state-explorer (⭐17)](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
+
+> Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
+
+![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc\(\)/pic4071903.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+
+### Party
+
+### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
+
+> An area control game where players control different fantasy races with a unique set of abilities. The goal is to conquer and control as much of the player board as possible and halting your opponents' expansion. When your race can't expand any further you let it fall into decline and pick a new race to continue the quest for dominance.
+
+![Small World game image](https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc\(\)/pic428828.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 40-80m |
+
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Articles
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Vue-Admin-Template (⭐6)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 
 *   [One Second Diary (⭐89)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
-## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [11. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
@@ -113,20 +139,20 @@
 
 *   [Awesome Microsoft Power Platform (⭐42)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
-## [11. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 *   [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
 
-## [12. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [13. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Governance
 
 *   [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -197,7 +223,7 @@
 
 *   [Context Note (⭐567)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 

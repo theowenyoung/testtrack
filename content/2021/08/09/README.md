@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,13 +58,19 @@
 
 *   [@tool-belt/type-predicates (⭐46)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Vdo.Ninja (⭐1.8k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
+
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Protocols
 
 *   [JSON-RPC](https://www.jsonrpc.org/specification) - Designed to be simple, it's a stateless, lightweight remote procedure call (RPC) protocol.
 
-## [7. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
@@ -74,7 +80,7 @@
 
 *   [Ping CRM / Clojure (⭐76)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
-## [8. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [9. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Image Processing
 

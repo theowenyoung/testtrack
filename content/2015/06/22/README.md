@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,21 @@
 
 *   [How does bellard.org/jslinux work?](http://qr.ae/7AymJb)
 
-## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / A individuals
+
+*   Andrew Bancroft <http://www.andrewcbancroft.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Ramon Fried <https://nativeguru.wordpress.com/>
+
+### Individuals/Group Contributors / Y individuals
+
+*   Yifan Lu <http://yifan.lu/>
+
+## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Source Code Management
 

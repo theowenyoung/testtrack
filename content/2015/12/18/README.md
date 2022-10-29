@@ -140,6 +140,7 @@
 *   [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
 
 ## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Show inline word diff.
 
 ```sh

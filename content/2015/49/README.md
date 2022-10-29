@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07 - Dec 13, 2015
 
-34 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,32 +19,38 @@
 
 *   [del-cli (⭐265)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
-## [3. Guides](/content/NARKOZ/guides/week/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Computer History
+
+*   [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** \[48:36]
+
+## [4. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / C++
 
 *   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
 
-## [5. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [6. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Roman Numeral Converter](https://en.wikipedia.org/wiki/Roman_numerals)
 
-## [6. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [7. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Clouds
 
 *   [Joyent](https://www.joyent.com/)\
     High-Performance Container-Native Infrastructure for Today's Demanding Real-Time Web and Mobile Applications.
 
-## [7. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [8. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Tutorials
 
@@ -59,32 +65,32 @@
 
 *   [js-doc-parse (⭐12)](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation
 
-## [8. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [9. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Components
 
 *   [Cart (⭐82)](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Testing / Barcode
 
 *   [Erik (⭐532)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
-## [10. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2015
 
 *   [Elijah Manor: **Eliminate JavaScript Code Smells**](https://www.youtube.com/watch?v=JVlfj7mQZPo) \[29:15]
 
-## [11. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Theming/Styling
 
 *   [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
 *   [Material Palette](https://www.materialpalette.com/) Palette generator based on Material Design
 
-## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
@@ -113,19 +119,19 @@
 *   [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 *   [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
 
-## [13. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [14. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [gitify](http://gitify.io/) - All your GitHub notifications on your menu.
 
-## [14. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [15. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Plugins
 
 *   [Atom (⭐29)](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
 
-## [15. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [16. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### FEN Parsers
 
@@ -152,7 +158,7 @@
 *   [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
 *   [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)
 
-## [16. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [17. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Libraries
 
@@ -162,31 +168,31 @@
 
 *   [Ripple (⭐25)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Sqlectron (⭐4.1k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
-## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [19. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Flutter / Custom Dialog
 
 *   [awesome-android-performance (⭐2.8k)](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 
-## [19. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [20. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
 
-## [20. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Utilities
 
 *   [mandrake (⭐9)](https://github.com/mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
 
-## [21. Typography](/content/deanhume/typography/week/README.md)
+## [22. Typography](/content/deanhume/typography/week/README.md)
 
 ### Tools
 
@@ -196,19 +202,19 @@
 
 *   [Google Web Font inspiration in HTML & CSS](http://tobiasahlin.com/typesource/)
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### RDBMS
 
 *   [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 
-## [23. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [24. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Git / Extensions
 
 *   [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
 
-## [24. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [25. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
@@ -244,13 +250,13 @@
 
 *   For those unable to use git, create a github account, then fork this\` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
-## [25. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [26. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Editors / Markdown
 
 *   [Markx](http://markx.herokuapp.com/)(`Cloud`): Markdown editor for scientific writing. Batteries included.
 
-## [26. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [27. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Calendar and Scheduling
 
@@ -262,7 +268,13 @@
 *   [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
 *   [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
 
-## [27. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / R individuals
+
+*   ReactJS News <https://reactjsnews.com>
+
+## [29. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
@@ -272,13 +284,19 @@
 
 *   [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 
-## [28. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [30. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Books
 
 *   [Backbone Tutorials](https://leanpub.com/backbonetutorials) by Thomas Davis
 
-## [29. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
+## [31. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Steel Brain (⭐0)](https://github.com/steelbrain/ama) - The Rebel™, also a Node.js, PHP and HackLang developer.
+
+## [32. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
 
 ### Grunt tasks
 
@@ -288,13 +306,13 @@
 
 *   [inline-critical (⭐106)](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
 
-## [30. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [33. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icons Packages and Collections
 
 *   [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -325,7 +343,7 @@
 
 *   [C# Algorithms, Data Structures (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
-## [32. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [35. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -341,13 +359,19 @@
 *   [Haskell/Category Theory](https://en.wikibooks.org/wiki/Haskell/Category_theory) - A good overview on Category Theory applied to Haskell from Wikibooks.
 *   [Haskell Wiki](https://wiki.haskell.org/Haskell)
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [36. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### services
+
+*   [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
+
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [LMDB++ (⭐257)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
-## [34. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [38. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 

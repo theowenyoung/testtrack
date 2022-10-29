@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2019
 
-80 awesome lists updated this week.
+82 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,6 +25,7 @@
 *   [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. \[LGPL v3 and zlib]
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@brianc](https://github.com/brianc), [node-postgres (⭐11k)](https://github.com/brianc/node-postgres)
     *   "Creating and maintaining node-postgres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
 *   [@mpdehaan](https://github.com/mpdehaan), [Ansible (⭐55k)](https://github.com/ansible/ansible), [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)
@@ -1001,7 +1002,13 @@
 
 *   [Cortex (⭐7.8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
-## [72. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [72. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Agency Tools
+
+*   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
+
+## [73. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -1015,13 +1022,13 @@
 
 *   [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 
-## [73. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
+## [74. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
 
 ### Useful Lua-Libraries / Plugins
 
 *   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
 
-## [74. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [75. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -1107,7 +1114,7 @@
 
 
 
-## [75. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [76. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -1129,7 +1136,33 @@
 
 *   [Background Music (⭐12k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
-## [76. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [77. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Family
+
+### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
+
+> Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
+
+![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        8 |  20m |
+
+### Strategy
+
+### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
+
+> Persian Wars is a card-driven wargame depicting the Greco-Persian conflict from 494 to 466 B.C. Players control either the Persian empire and its generals, Xerxes, Artabazus, Artayntes, Artemisia and Mardonius or the Greek city-states and their generals, the Athenians Xanthippus, Miltiades and Themistocles and Spartans, Leonidas and Pausanias.
+
+![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       12 | 60-90m |
+
+## [78. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Materials
 
@@ -1182,7 +1215,7 @@
 
 *   [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
-## [77. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [79. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -1192,7 +1225,7 @@
 
 *   Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
-## [78. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [80. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -1202,7 +1235,7 @@
 
 *   [HackingLab](https://www.hacking-lab.com/)
 
-## [79. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [81. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
@@ -1212,7 +1245,7 @@
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 
-## [80. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [82. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### How to Use
 

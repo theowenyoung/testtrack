@@ -83,6 +83,7 @@
 *   [PWA.rocks](https://pwa.rocks/) - A showcase of several progressive web apps, collected by the [Opera Dev Relations team](https://twitter.com/ODevRel).
 
 ## [6. Tips](/content/git-tips/tips/README.md)
+
 ## Group commits by authors and title
 
 ```sh

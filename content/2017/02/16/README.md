@@ -99,6 +99,7 @@ Webpage: <http://www.novaarcada.pt/>
 *   Towards AI-complete question answering: A set of prerequisite toy tasks (2015), J. Weston et al. [\[pdf\]](http://arxiv.org/pdf/1502.05698)
 
 ## [12. Tips](/content/git-tips/tips/README.md)
+
 ## Quickly switch to the previous branch
 
 ```sh

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23 - Jul 29, 2018
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -353,6 +353,7 @@
 *   [base62.cr (⭐9)](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
 
 ## [27. Tips](/content/git-tips/tips/week/README.md)
+
 ## Use SSH instead of HTTPs for remotes
 
 ```sh
@@ -407,25 +408,39 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / M companies
+
+*   Mesosphere <https://mesosphere.com/blog/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Daniel Schmidt <https://medium.com/@dschmidt1992>
+
+### Individuals/Group Contributors / E individuals
+
+*   Edward Faulkner <https://eaf4.com/>
+
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Services / Bluetooth / NFC / Beacon
 
 *   [Dialogflow (⭐204)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 
-## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [MicroRust](https://droogmic.github.io/microrust/) Introductory book for embedded development in Rust on the micro:bit.
 
-## [35. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [36. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Vert.x Vaadin (⭐40)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
-## [36. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
@@ -447,13 +462,13 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [GRASSMARLIN (⭐765)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 *   [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT\&CK framework.
 
-## [37. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [38. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
 
-## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -464,7 +479,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -474,19 +489,19 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Mac Cache Cleaner (⭐203)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [40. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [41. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### Deployment
 
 *   `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cryptography / Barcode
 
 *   [Themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
-## [42. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [43. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -497,7 +512,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [pg\_chameleon (⭐320)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
-## [43. Awesome](/content/craftcms/awesome/week/README.md)
+## [44. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
@@ -507,7 +522,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
 
-## [44. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [45. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Academic Papers
 
@@ -538,7 +553,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) How to do effective code review while remaining kind to the original author.
 *   [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 

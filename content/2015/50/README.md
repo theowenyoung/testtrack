@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14 - Dec 20, 2015
 
-31 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,31 +38,37 @@
 
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 
-## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Misc
+
+*   [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
+
+## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Version Control / Git
 
 *   [dev-time (⭐176)](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 
-## [4. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [5. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
 *   [refinerycms-testimonials (⭐2)](https://github.com/anitagraham/refinerycms-testimonials) - Manage and display testimonials
 
-## [5. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [6. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Natural sort order](https://en.wikipedia.org/wiki/Natural_sort_order)
 
-## [6. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
+## [7. Awesome Spanish Nlp](/content/dav009/awesome-spanish-nlp/week/README.md)
 
 ### Corpora / Shared tasks
 
 *   [Exploiting Parallel Texts for Statistical  Machine Translation -  NAACL 2006 in New York City](http://www.statmt.org/wmt06/shared-task/)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -108,7 +114,7 @@
 
 *   [Swiftx (⭐219)](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 
-## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Network / Other Resources
 
@@ -117,19 +123,37 @@
     malicious and/or generally suspicious trails and featuring an reporting
     and analysis interface.
 
-## [9. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [10. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Code generation / Brunch Plugins
 
 *   [generator-gulp-babelify (⭐3)](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
 
-## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / C companies
+
+*   CenturyLink <https://www.ctl.io/developers/blog>
+
+### Individuals/Group Contributors / D individuals
+
+*   Daily Tech Video <http://dailytechvideo.com/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Piotr Pasich <http://piotrpasich.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Rob Allen <https://akrabat.com/>
+
+## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Theming/Styling
 
 *   [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
-## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -139,25 +163,31 @@
 
 *   [TinyTDS (⭐587)](https://github.com/rails-sqlserver/tiny_tds) - FreeTDS bindings for Ruby using DB-Library.
 
-## [12. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these organizations anything!
+
+*   [Vim Taiwan (⭐16)](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
+
+## [15. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
 *   [CodePen](http://codepen.io/) - Central repository of user submitted code concepts/snippets. Great for experiments.
 
-## [13. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [16. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Blogs of core committer
 
 *   [Jochen Theodorou's blog](http://blackdragsview.blogspot.com/)
 
-## [14. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [17. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 
-## [15. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [18. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
@@ -169,31 +199,31 @@
 *   [Multiple Experts using Entropy Minimization](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)
 *   [TGPR](http://www.dabi.temple.edu/\~hbling/code/TGPR.htm)
 
-## [16. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [19. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Open Source Wallets
 
 *   [Electrum](https://electrum.org/)
 
-## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icon Fonts
 
 *   [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 
-## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Incident Response (⭐5.6k)](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
 
-## [19. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [22. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
 *   [RxTuples (⭐113)](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
 
-## [20. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [23. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Documentation
 
@@ -220,7 +250,7 @@
 
 *   [Relay Starter Kit (⭐1k)](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 
-## [21. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [24. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
@@ -256,26 +286,26 @@
 *   [Haka](http://www.haka-security.org/): An open source security oriented language which allows to describe protocols and apply security policies on (live) captured traffic. The scope of Haka language is twofold. First of all, it allows to write security rules in order to filter/alter/drop unwanted packets and log and report malicious activities. Second, Haka features a grammar enabling to specify network protocols and their underlying state machine.
 *   [RIPE-NCC Hadoop for PCAP (⭐202)](https://github.com/RIPE-NCC/hadoop-pcap): A Hadoop library to read packet capture (PCAP) files. Bundles the code used to read PCAPs. Can be used within MapReduce jobs to natively read PCAP files. Also features a Hive Serializer/Deserializer (SerDe) to query PCAPs using SQL like commands.
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### ORM
 
 *   [AsyncPoco (⭐127)](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
 *   [NPoco (⭐808)](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
 
-## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Machine Learning
 
 *   [BidMach (⭐912)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
-## [24. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [27. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
 *   [SalesForce Lightning](https://www.lightningdesignsystem.com/design/motion/)
 
-## [25. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [28. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Understanding Nginx
 
@@ -314,7 +344,7 @@
 
 *   [NGINX Conference](https://www.nginx.com/nginxconf/)
 
-## [26. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
@@ -325,7 +355,7 @@
 
 *   [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
 
-## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -402,13 +432,13 @@
 
 *   [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
 
-## [28. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [31. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [ineo (⭐76)](https://github.com/cohesivestack/ineo)- A simple but useful Neo4j instance manager.
 
-## [29. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [32. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -430,7 +460,7 @@
 *   [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
 *   Some other solutions from [awesome-etl list (⭐2.7k)](https://github.com/pawl/awesome-etl).
 
-## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / AngularJS
 
@@ -651,7 +681,7 @@
 *   [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 *   [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
 
-## [31. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [34. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Repos
 

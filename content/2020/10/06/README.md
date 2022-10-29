@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,7 +68,21 @@
 
 *   [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc\(\)/pic244662.jpg)
+
+> Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
+
+![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc\(\)/pic244662.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  90m |
+
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Examples and funny stuff
 
@@ -90,13 +104,13 @@
 
 *   [uef-lib (⭐14)](https://github.com/DOBRO/uef-lib) - Useful Erlang Functions Library that provides modules for manipulating lists, binaries, maps, numbers, date and time. It  contains some functions optimized for performance in specific cases (e.g. for file I/O operations or binary transformations).
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / JavaScript
 
 *   [DeriveJS (⭐53)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
 
-## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Online database creator apps
 
@@ -106,14 +120,14 @@
 
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 
-## [12. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Programming languages
 
 *   [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
 *   [PharoThings (⭐91)](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
 
-## [13. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [14. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Tools
 
@@ -125,13 +139,13 @@
     *   EU, The Hague, September.
     *   USA, Santa Clara, June.
 
-## [14. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [15. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Dashboards / Custom Cards
 
 *   [Restriction Card (⭐161)](https://github.com/iantrich/restriction-card) - A card to provide restrictions on Lovelace cards defined within.
 
-## [15. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [16. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Version Control System / Online Git Service
 
@@ -139,7 +153,7 @@
     *   GitLab includes unlimited free private repositories.
     *   GitLab comes with a continuous integration tool that is more powerful than GitHub Actions.
 
-## [16. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [17. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
@@ -198,13 +212,13 @@
 *   [DHIS](https://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
 *   [Snow Owl (⭐223)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 
-## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [18. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Inclusion / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [IETF Inclusive Language](https://tools.ietf.org/html/draft-knodel-terminology-04) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ietf/terminology) - Terminology for inclusive language conventions (latest version on github).
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -223,13 +237,13 @@
 *   [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, 3 heatmaps, 3 widgets, free bug tracking
 *   [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
 
-## [19. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [20. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Tooling / Wasm
 
 *   [Trunk (⭐2k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
 
-## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

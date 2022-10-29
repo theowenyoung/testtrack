@@ -1,12 +1,22 @@
 # Awesome List Updates on Jan 28, 2017
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Computer History
+
+*   [The History (and the Future) of Software](https://www.youtube.com/watch?v=OdI7Ukf-Bf4) by **Grady Booch** \[01:09:27]
+
+### Databases
+
+*   [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey** \[1:06:23]
+
+## [2. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -16,48 +26,60 @@
 
 *   [Codedoodl.es](http://codedoodl.es/) - Showcase of curated creative coding sketches.
 
-## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Videos / Help
 
 *   [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
 
-## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Native Apps (open source)
+
+*   [Transportr (⭐830)](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler (⭐326)](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+
+## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [Tangled](http://netlabelday2016.yarnaudio.com/) - Audio-visual release by Berlin based netlabel Yarn Audio, visuals made in [cables](https://cables.gl/). Drag to rotate, scroll to zoom.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
 *   [Available...or not? That is the question - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/available-or-not-that-is-the-question-CRE-life-lessons.html)
 
-## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### ORM and SQL generation
 
 *   [Toucan (⭐534)](https://github.com/metabase/toucan)
 
-## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Cloud Support
 
 *   [S3 (⭐30)](https://github.com/hubrick/vertx-s3-client) - A fully functional Vert.x client for S3.
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [9. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
 *   [rtree (⭐990)](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R\*-tree implementations in Java with reactive api.
 *   [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [dotnetfiddle](https://dotnetfiddle.net) - .NET sandbox for developers to quickly try out code and share code snippets.
+
+## [11. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### editors & viewers
+
+*   [geojson2image (⭐11)](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 
 ---
 

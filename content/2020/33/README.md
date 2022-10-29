@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 17 - Aug 23, 2020
 
-57 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -211,14 +211,23 @@
 
 
 
-## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [20. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+
+### Intermediate
+
+#### [CodinGame](https://www.codingame.com/)
+
+**Free** Learn to code and game at the same time.\
+*(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
+
+## [21. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 *   [BlazorX.NavigationState (⭐9)](https://github.com/diegofrata/BlazorX.NavigationState) - ![last commit](https://img.shields.io/github/last-commit/diegofrata/BlazorX.NavigationState?style=flat-square\&cacheSeconds=86400) BlazorX.NavigationState provides a set of utilities that allow you to observe and bind query strings directly to Blazor components.
 
-## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Widgets
 
@@ -236,7 +245,7 @@
 
 *   [Federal Election Commission (⭐81)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 
-## [22. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [23. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Web
 
@@ -246,19 +255,19 @@
 
 *   🔧 [Firetable (⭐3.7k)](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals!
 
-## [23. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
+## [24. Awesome Credit Modeling](/content/mourarthur/awesome-credit-modeling/week/README.md)
 
 ### Credit Scoring
 
 *   [Classification methods applied to credit scoring: Systematic review and overall comparison](https://www.sciencedirect.com/science/article/abs/pii/S1876735416300101) - The need for controlling and effectively managing credit risk has led financial institutions to excel in improving techniques designed for this purpose, resulting in the development of various quantitative models by financial institutions and consulting companies. Hence, the growing number of academic studies about credit scoring shows a variety of classification methods applied to discriminate good and bad borrowers. This paper aims to present a systematic literature review relating theory and application of binary classification techniques for credit scoring financial analysis. The general results show the use and importance of the main techniques for credit rating, as well as some of the scientific paradigm changes throughout the years.
 
-## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [25. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Pull Requests / Code Coverage
 
 *   [Pull Request Lint With Regex (⭐42)](https://github.com/MorrisonCole/pr-lint-action)
 
-## [25. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [26. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Desktop integration
 
@@ -294,7 +303,8 @@
 
 *   [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen\&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
 
-## [26. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [27. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [builds.sr.ht](https://builds.sr.ht)
 
   Description: Continuous Integration services for [sourcehut](https://sourcehut.org), the hacker's forge
@@ -311,31 +321,31 @@
 
 
 
-## [27. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [28. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Books :books: / 2015
 
 *   [Every Layout: Relearn CSS Layout](https://every-layout.dev/) – Solving responsive layout problems using algorithmic design.
 
-## [28. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [29. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Support Tables
 
 *   [Is Houdini ready yet?](https://ishoudinireadyyet.com/) - Overview of support for Houdini (low-level APIs exposing parts of the CSS rendering engine) across browsers.
 
-## [29. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [30. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
 *   [simdjson (⭐16k)](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second.
 
-## [30. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [31. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Tributary (⭐5)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Clipboard Tools
 
@@ -345,13 +355,13 @@
 
 *   [AltTab](https://alt-tab-macos.netlify.app) - Open source window switcher with window previews. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lwouis/alt-tab-macos)
 
-## [32. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [33. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
 ### Resources / Glyphs & Icons
 
 *   [Tabler Icons](https://tablericons.com/)
 
-## [33. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [34. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Calculators
 
@@ -366,7 +376,7 @@
 
 *   [agx-ruby (⭐5)](https://github.com/brycejohnston/agx-ruby) - Ruby client for Proagrica's agX platform APIs.
 
-## [34. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [35. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Machine Learning
 
@@ -381,13 +391,13 @@
 
 *   [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development.
 
-## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [dht-sensor](https://crates.io/crates/dht-sensor) - 1-Wire - DHT11/DHT22 temperature/humidity sensor driver - [github (⭐13)](https://github.com/michaelbeaumont/dht-sensor) - ![crates.io](https://img.shields.io/crates/v/dht-sensor.svg)
 
-## [36. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -405,26 +415,26 @@
 
 *   [acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
 *   [geohash\_nif (⭐1)](https://github.com/wstucco/geohash_nif/) - Drop in replacement for Geohash encode/decode library implemented as a NIF.
 *   [wheretz (⭐8)](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
 
-## [38. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [39. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [RustMart (⭐244)](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 
-## [39. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [40. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Deployment / Cassandra Deployment on Kubernetes / Kubernetized Cassandra
 
 *   [Strapdata - Elassandra Operator for Kubernetes (⭐11)](https://github.com/strapdata/elassandra-operator) - The Elassandra Kubernetes Operator automates the deployment and management of Elassandra clusters deployed in multiple Kubernetes clusters.
 
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Proxy
 
@@ -438,7 +448,7 @@
 
 *   [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code (⭐1.6k)](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python`
 
-## [41. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [42. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Operating systems / Build system (ROS2)
 
@@ -460,13 +470,13 @@
     *   [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
     *   [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
 
-## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
 *   [PGM-index (⭐634)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
-## [43. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [44. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
@@ -480,7 +490,7 @@
 
 *   [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve.
 
-## [44. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [45. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### PHP / Scala
 
@@ -496,7 +506,7 @@
 *   [Service per Team](https://microservices.io/patterns/decomposition/service-per-team.html) - Each team is responsible for one or more business functions (e.g. business capabilities). A team owns a code base consisting of one or more modules. Its code base is sized so as to not exceed the cognitive capacity of team. The team deploys its code as one or more services. A team should have exactly one service unless there is a proven need to have multiple services.
 *   [Start with Team Cognitive Load - Team Topologies](https://www.youtube.com/watch?v=haejb5rzKsM) :small\_red\_triangle:<sup>YT</sup> - DOES19 London. The "monoliths vs microservices" debate often focuses on technological aspects, ignoring strategy and team dynamics. Instead of technology, smart-thinking organizations are beginning with team cognitive load as the guiding principle for modern software. In this talk, we explain how and why, illustrated by real case studies.
 
-## [45. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [46. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Web Feed Specifications
 
@@ -562,7 +572,7 @@
 
 *   [KKBOX for Podcasters](https://podcast.kkbox.com/podcasters) <sup>[743](https://t.me/s/aboutrss/743)</sup>
 
-## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [47. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -592,7 +602,7 @@
 *   [Wheelmap](https://wheelmap.org/) - The world's biggest crowdsourced and open database for wheelchair-accessible places.
 *   [WikiProject Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red) - Increasing the representation of women on Wikipedia through biographies and articles of women’s achievements.
 
-## [47. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Communications security (COMSEC) / Service meshes
 
@@ -608,7 +618,7 @@
 *   [Chef InSpec](https://www.chef.io/products/chef-inspec) - Language for describing security and compliance rules, which become automated tests that can be run against IT infrastructures to discover and report on non-compliance.
 *   [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) - Both a library and a command line tool (`oscap`) used to evaluate a system against SCAP baseline profiles to report on the security posture of the scanned system(s).
 
-## [48. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [49. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### GUI Development
 
@@ -618,7 +628,7 @@
 
 *   [Prefect (⭐10k)](https://github.com/PrefectHQ/prefect) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
 
-## [49. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [50. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Introducing people to data security and cryptography / General cryptographic interest
 
@@ -650,13 +660,13 @@
 *   [id0-rsa crypto challenges](https://id0-rsa.pub/).
 *   [MTC3](https://www.mysterytwisterc3.org/en/) - xipher contest with more than 200 challenges of different levels, a moderated forum, and a hall-of-fame.
 
-## [50. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [51. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Game dev
 
 *   [DarkGlass (⭐6)](https://github.com/kenjones007/DarkGlass). `[Delphi]` DarkGlass is a general purpose game engine written using Delphi.
 
-## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Development Environment / Debugging and Tracing
 
@@ -674,7 +684,7 @@
 
 *   [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) - 3D map for autonomous driving and simulation created from nothing but two cameras and GPS in downtown San Francisco.
 
-## [52. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [53. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -721,7 +731,7 @@
 *   [Remote Workplace Communications Access](https://www.nad.org/remote-workplace-communications-access-for-employers/) - Recommendations for Employers In Times of Expanded Telework.
 *   [Improving Virtual Workspace Meetings](https://www.deafhhtech.org/rerc/accessible-virtual-meeting-tips/) - Accessibility Tips for a Better Virtual Meeting Experience.
 
-## [53. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [54. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
@@ -730,19 +740,19 @@
 *   [Jelly (⭐732)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
 *   [Tru (⭐3)](https://github.com/sungwoncho/tru) - A stack-based language with prefix-free brackets.
 
-## [54. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [55. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Testing
 
 *   [treebeard (⭐154)](https://github.com/treebeardtech/treebeard) - GitHub Action for testing/scheduling Jupyter notebooks.
 
-## [55. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [56. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Projects Using Seed
 
 *   [Music composer (⭐5)](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
 
-## [56. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [57. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -754,7 +764,7 @@
 
 *   [next-joi (⭐107)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
-## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [58. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Integrations
 

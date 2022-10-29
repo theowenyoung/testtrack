@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,7 +80,18 @@
 *   [dev.hel.fi (⭐13)](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
 *   [Digital Helsinki (⭐17)](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 
-## [7. Tips](/content/git-tips/tips/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Avenue Code <http://blog.avenuecode.com/>
+
+### Companies / I companies
+
+*   IBM developerWorks <https://developer.ibm.com/dwblog/>
+
+## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Generates a summary of pending changes
 
 ```sh

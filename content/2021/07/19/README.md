@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,7 +54,13 @@
 
 *   [ConsoleMe (⭐2.9k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Projectium Network - <https://projectium.network>
+
+## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -65,7 +71,7 @@
 *   [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
 *   [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
@@ -78,7 +84,7 @@
 *   [Blazor Anchor Tag Scroll To](https://nu-codyanhorn-tech.azurewebsites.net/blog/blazor-anchor-tag-scroll-to) - July 9, 2021 - This article goes over an issue with Blazor applications and scrolling to a hash anchor on the current page.
 *   [Thoughts on Microsoft, and Blazor](https://www.mistergoodcat.com/post/thoughts-on-microsoft-and-blazor) - July 2, 2021 - Thoughts on Microsoft, and Blazor, by Peter Kuhn aka Mister Goodcat.
 
-## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / Pengwin Enterprise
 
@@ -99,25 +105,25 @@
 *   [Pro Windows Subsystem for Linux (WSL): Powerful Tools and Practices for Cross-Platform Development and Collaboration](https://www.amazon.com/Hayden-Barnes-ebook/dp/B096TRZMW1)
 *   [Windows Subsystem for Linux: Tactics, Mindset and Tips](https://www.amazon.com/Windows-Subsystem-Linux-Tactics-Mindset/dp/1977718094)
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [Email Permutator](https://www.polished.app/email-permutator/)
 
-## [11. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [12. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
 *   [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Official Guides
 
 *   [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) - Official SwiftUI tutorial with 4+ hours of content and interactive tutorials.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
@@ -131,7 +137,7 @@
 
 *   [BlackHole (⭐9.7k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
 
-## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Entertainment
 

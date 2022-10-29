@@ -7,6 +7,7 @@
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@withoutboats](https://github.com/withoutboats), [Rust](https://github.com/rust-lang)
     *   "Organizational Debt" ([post](https://boats.gitlab.io/blog/post/rust-2019/))
 

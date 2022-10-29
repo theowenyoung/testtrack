@@ -1,12 +1,34 @@
 # Awesome List Updates on Oct 11, 2014
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Tools](/content/lvwzhen/tools/README.md)
+
+### CDN
+
+*   [jsDelivr](http://www.jsdelivr.com/)
+
+### JavaScript
+
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+
+### Pagespeed
+
+*   [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
+
+### Color
+
+*   [colourco.de](http://colourco.de)
+
+### Font
+
+*   [Fontface Ninja](http://fontface.ninja/)
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 

@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 17, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [1. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
+
+## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Boilerplate
 
@@ -16,7 +22,7 @@
 *   [mevn-cli (⭐783)](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
 *   [scaffold-static (⭐118)](https://github.com/jamesgeorge007/scaffold-static) - Scaffolding utility for vanilla JS.
 
-## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Backups
 
@@ -30,19 +36,19 @@
 
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
-## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Applications
 
 *   [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 
-## [4. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [5. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Open Source Applications / Custom Time Series
 
 *   [Netflix-Priam (⭐1k)](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
 
-## [5. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
+## [6. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
 
 ### Software / Genetic Perturbations
 
@@ -74,7 +80,7 @@
 *   [Minimum redundancy feature selection from microarray gene expression data](https://doi.org/10.1142/S0219720005001004) - Minimum redundancy - maximum relevance feature selection framework.
 *   [Weakly supervised learning of single-cell feature embeddings](https://doi.org/10.1109/CVPR.2018.00970) - Training CNNs using a weakly supervised approach for feature learning.
 
-## [6. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md)
+## [7. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/README.md)
 
 ### Guides
 
@@ -99,31 +105,31 @@
 
 *   [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io\&t=year) - Reddit posts relating to Adafruit IO.
 
-## [7. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [8. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Articles
 
 *   [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
 
-## [8. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
 *   [Microsoft Graph Toolkit (⭐734)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 
-## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [MalwareAnalyser.io](https://malwareanalyser.io/) - Online malware anomaly-based static analyser with heuristic detection engine powered by data mining and machine learning.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [SYM (⭐501)](https://github.com/zqqf16/SYM) - GUI Application to symbolicate iOS crash log. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/zqqf16/SYM)
 
-## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
@@ -131,13 +137,13 @@
 *   [rn-action-picker (⭐1)](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
 *   [rn-collapsible-section (⭐1)](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 
-## [12. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
+## [13. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
 ### Projects / Swift
 
 *   [WavesAffi (⭐1)](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 
-## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 

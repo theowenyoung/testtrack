@@ -51,6 +51,7 @@
 *   [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen\&type=Issues) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [builds.sr.ht](https://builds.sr.ht)
 
   Description: Continuous Integration services for [sourcehut](https://sourcehut.org), the hacker's forge

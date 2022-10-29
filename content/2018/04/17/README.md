@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -250,7 +250,15 @@
 *   [Expat](http://www.libexpat.org/) - Stream-oriented XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 *   [libxml2](http://xmlsoft.org/) - Standards-compliant, portable XML parser. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 
-## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐372)](https://github.com/ssbc/patchbay).
+*   [Syncthing-GTK (⭐1.1k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
+
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
@@ -260,19 +268,19 @@
 
 *   [Site Reliability Engineering: 4 Things to Know](https://www.networkcomputing.com/data-centers/site-reliability-engineering-4-things-know/888724300)
 
-## [3. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Internals
 
 *   [Wait… What Happens When my React Native Application Starts? — An In-depth Look Inside React Native](https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f)
 
-## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [5. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Community / Lists
 
 *   [Wagtail’s first hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) – Kickstarter campaign to accelerate the development of Wagtail.
 
-## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Turkey 🇹🇷 / Istanbul
 
@@ -288,25 +296,25 @@ Webpage: <http://www.borealcoffee.ch/>
 
 ![](http://www.speedtest.net/result/7234244439.png)
 
-## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [7. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Ruby
 
 *   [Cat Facts (⭐8)](https://github.com/fabrik42/cat_facts) - Adds random cat facts to HTTP response headers. 🐈
 
-## [7. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [8. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [cpp14-project-template (⭐62)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Podcasts / Workflow
 
 *   [Merge Conflict](http://www.mergeconflict.fm/)
 
-## [9. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [10. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### IDE and Editor Support
 
@@ -342,13 +350,13 @@ Webpage: <http://www.borealcoffee.ch/>
 *   [Greachconf](http://greachconf.com)
 *   [GR8Conf USA](http://gr8conf.us)
 
-## [10. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [11. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 
 *   [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Mind Mapping, Concept Mapping and Idea Generation Tools / Telegram
 

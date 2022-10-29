@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 18, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -83,14 +83,20 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React General Tutorials
+
+*   [Setup Flow with React](https://flow.org/en/docs/react/)
+
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐8.7k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐11k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Books
 

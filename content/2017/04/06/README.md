@@ -93,6 +93,7 @@ Free
 *   [pg\_migrate (⭐26)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 
 ## [10. Tips](/content/git-tips/tips/README.md)
+
 ## Checkout a commit prior to a day ago
 
 ```sh

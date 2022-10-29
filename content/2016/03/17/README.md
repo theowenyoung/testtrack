@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 17, 2016
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,19 +58,33 @@
 
 *   [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
-## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / I individuals
+
+*   Ian Hummel <https://themodernlife.github.io/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Milosz Galazka <https://blog.sleeplessbeastie.eu/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nick Galbreath <http://www.client9.com/>
+
+## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [feathers (⭐14k)](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Logging
 
 *   [storyboard (⭐726)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
-## [11. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
+## [12. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 
 ### Analytics
 

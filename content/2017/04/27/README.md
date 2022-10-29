@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -54,13 +54,19 @@
 *   [Fio (⭐3.8k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Helen V. Holmes](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
+
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 
 *   [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
 
-## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Date & Time / Custom Dialog
 
@@ -68,7 +74,7 @@
 *   [Joda-Time Android (⭐2.6k)](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 *   [True Time (⭐1.3k)](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Networking
 
@@ -78,7 +84,7 @@
 
 *   [SimMetrics.Net (⭐91)](https://github.com/StefH/SimMetrics.Net) - A Similarity Metric Library, e.g. from edit distance's (Levenshtein, Gotoh, Jaro etc) to other metrics, (e.g Soundex, Chapman)
 
-## [8. Colorful](/content/Siddharth11/Colorful/README.md)
+## [9. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Tools / Libraries
 
@@ -93,13 +99,13 @@
 *   [Cubehelix, or How I Learned to Love Black & White Printers](http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html)
 *   [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
 
-## [9. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Examples
 
 *   [HTTP/2 showcase (⭐7)](https://github.com/aesteve/http2-showcase) - A simple demo, showing how HTTP/2 can drastically improve user experience when a huge latency is involved.
 
-## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 

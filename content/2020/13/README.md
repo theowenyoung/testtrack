@@ -1,18 +1,26 @@
 # Awesome List Updates on Mar 30 - Apr 05, 2020
 
-49 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [1. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Component Libraries
+
+*   [react-bulma-components (⭐1.2k)](https://github.com/couds/react-bulma-components) - React components for Bulma framework
+*   [react-bulma (⭐466)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+*   [trunx (⭐60)](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
+
+## [2. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Deployment and Operation
 
 *   [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a/li17a.pdf)🎓
 
-## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -20,25 +28,25 @@
 *   [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 *   [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 
-## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript. +CT, +TS.
 
-## [4. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online books
 
 *   [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 
-## [5. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [6. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [e-gs](https://www.e-gs.ethz.ch/) - Online web portal of the ETH Zurich Graphics Collection.
 
-## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Self-Hosted Services
 
@@ -47,19 +55,19 @@
 *   [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 *   [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Data Validation
 
 *   [struct (⭐117)](https://github.com/funcool/struct)
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [MailyGo](https://codeberg.org/jlelse/MailyGo) - MailyGo is a small tool written in Go that allows to send HTML forms, for example from static websites without a dynamic backend, via email. `MIT` `Go`
 
-## [9. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [10. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Videos
 
@@ -72,7 +80,7 @@
 *   [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04) - Walkthrough on automated provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04.
 *   [How To Install and Configure Salt Master and Minion Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-salt-master-and-minion-servers-on-ubuntu-14-04) - SaltStack installation walkthrough for Ubuntu 14.04.
 
-## [10. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -82,7 +90,7 @@
 
 
 
-## [11. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Natural Language Processing
 
@@ -97,13 +105,13 @@
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
     *   [Stanza (⭐6.3k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
-## [12. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [13. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Resources
 
 *   [Tutorial (⭐23)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
 
-## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -113,13 +121,13 @@
 
 *   [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) - Videos of the sessions from EmberConf 2020.
 
-## [14. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [15. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
 
-## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Datasets
 
@@ -129,13 +137,13 @@
 
 *   [iprfc (⭐2)](https://github.com/RTradeLtd/iprfc) - IETF RFC downloader which stores RFCs on IPFS and indexes them with RTradeLtd/Lens.
 
-## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [17. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Web Archiving (⭐1.3k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Encoding
 
@@ -146,7 +154,7 @@
     *   [serde-rs/json (⭐3.4k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.2k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
     *   [simd-lite/simd-json (⭐704)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
-## [18. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
@@ -207,7 +215,7 @@
 *   [Archives Unleashed Toolkit (⭐121)](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
 *   [Tweet Archvies Unleashed Toolkit (⭐8)](https://github.com/archivesunleashed/twut) - An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark. *(In Development)*
 
-## [19. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [20. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
@@ -242,7 +250,7 @@
 *   [rastrea2r (⭐203)](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 *   [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
-## [20. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [21. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -256,25 +264,31 @@
 
 *   [Setup Mint (⭐9)](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 
-## [21. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [22. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Platformer
 
 *   [Omnispeak (⭐265)](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 
-## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Experimental / Redux / ELM / Dependency Injection
 
 *   [styled\_widget (⭐925)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
-## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [24. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Berty (⭐6.2k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+
+## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-thumbs (⭐575)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
-## [24. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [26. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Analytics
 
@@ -553,13 +567,13 @@
 *   [xConnectDeployer (⭐2)](https://github.com/boro2g/xConnectDeployer) - An example console application you can use to deploy the Marketing Automation Engine.
 *   [Right To Be Forgotten (⭐0)](https://github.com/steviemcg/SitecoreComms.RTBF) - A "Execute Right To Be Forgotten" plugin for Marketing Automation Action.
 
-## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Personal Security (⭐9.7k)](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
 
-## [26. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [28. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Development
 
@@ -573,7 +587,7 @@
 
 *   [Arthas (⭐31k)](https://github.com/alibaba/arthas) - Allows to troubleshoot production issues for applications without modifying code or restarting servers.
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
@@ -584,13 +598,13 @@
 *   [CodableCSV (⭐356)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
 *   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
-## [28. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [How to get Keycloak working with Docker](https://www.ivonet.nl/2015/05/23/Keycloak-Docker/)
 
-## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -606,13 +620,13 @@
 
 
 
-## [30. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Windows Utilities / Web Exploitation Books
 
 *   [ctftool (⭐1.6k)](https://github.com/taviso/ctftool) - Interactive Collaborative Translation Framework (CTF) exploration tool capable of launching cross-session edit session attacks.
 
-## [31. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [33. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Carbon Reduction
 
@@ -854,7 +868,7 @@
 *   [WageWorks Bicycle Reimbursement Program](https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/) - Ride your bike to work and pay for eligible bike-related expenses, and then get reimbursed for those expenses.
 *   [Waze Carpool](https://www.waze.com/carpool) - Choose to drive or ride, and match with people based on route and time of day.
 
-## [32. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [34. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Architecture
 
@@ -868,7 +882,7 @@
 
 *   :strawberry: [Http/Adapter/Cake library (⭐3)](https://github.com/php-http/cakephp-adapter) - Adapter for [HTTPlug (⭐2.4k)](https://github.com/php-http/httplug) HTTP client abstraction.
 
-## [33. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [35. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
@@ -878,7 +892,7 @@
 
 *   🔌 [Firecoil (⭐35)](https://github.com/rosariopfernandes/firecoil) - Load images from GCS in your Android app using the image loading library Coil.
 
-## [34. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [36. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Menu
 
@@ -892,13 +906,13 @@
 
 *   [PrivacyFlash Pro (⭐138)](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code
 
-## [35. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [37. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Communication / Writing
 
 *   [Technical Writing Courses](https://developers.google.com/tech-writing) - This collection of courses and learning resources aims to improve your technical documentation. Learn how to plan and author technical documents. You can also learn about the role of technical writers in a company.
 
-## [36. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [38. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
@@ -909,25 +923,39 @@
 
 *   [How to Grow Neat Software Architecture out of Jupyter Notebooks (⭐514)](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Article and [video](https://www.youtube.com/watch?v=K4QN27IKr0g) about growing a neat software architecture from notebooks.
 
-## [37. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [39. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [Mutation testing elements (⭐17)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
 
-## [38. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [40. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Managing-Remotely.md)
 
-## [39. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [41. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Performance Testing / Streaming Protocols
 
 *   [HLS JMeter Plugin (⭐38)](https://github.com/Blazemeter/HLSPlugin)
 
-## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / H companies
+
+*   Helpshift <https://medium.com/helpshift-engineering/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Itamar Turner-Trauring <https://codewithoutrules.com>
+
+### Individuals/Group Contributors / T individuals
+
+*   Tania Rascia <https://tania.dev/>
+
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
@@ -937,19 +965,19 @@
 
 *   [Shivneri (⭐21)](https://github.com/ujjwalguptaofficial/shivneri) - Component based MVC web framework for crystal targeting good code structures, modularity & performance
 
-## [41. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [44. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Related Projects
 
 *   [React Admin](https://marmelab.com/react-admin/) - A frontend Framework for building admin applications running in the browser, on top of REST/GraphQL APIs, using ES6, React and Material Design.
 
-## [42. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [45. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Courses
 
 *   [Molecular modeling course](https://dasher.wustl.edu/chem478/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
 
-## [43. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [46. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Unions
 
@@ -959,19 +987,19 @@
 
 *   [Resolving Dart package version conflicts, faster than ever](https://iiro.dev/2018/08/28/resolving-dart-package-version-conflicts/) - How to use any package version in pub to resolve package version conflicts.
 
-## [44. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [47. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### AI
 
 *   [astar (⭐8)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
 
-## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Privacy and Encryption Tools / Telegram
 
 *   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock)
 
-## [46. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [49. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
@@ -981,13 +1009,13 @@
 
 *   [Apoapse](https://apoapse.space/) is dedicated to advancing cybersecurity into general use across the business ecosystem. A variety of open-source solutions are offered, such as Apoapse Pro, a self-hosted collaborative messaging platform, or Apoapse Protocol, a secure message and data sharing C++ network library.
 
-## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [denomander (⭐126)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -1005,7 +1033,7 @@
 
 *   [vuetify-dialog (⭐195)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
-## [49. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Theming
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09 - Feb 15, 2015
 
-13 awesome lists updated this week.
+15 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,19 +85,128 @@
 
 *   [dojo-node-boilerplate (⭐17)](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
 
-## [5. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Design
+
+*   [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** \[1:03:30]
+
+## [6. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / References
 
 *   [Reference Manual](http://www.lua.org/manual/5.3/) - The official definition of the Lua language.
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loading Status / Runner
 
 *   [Mprogress.js (⭐1.5k)](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [8. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+
+### Beginner
+
+#### [Codecademy](https://www.codecademy.com/)
+
+**Free** platform for learning to code in web technologies\
+*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+#### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
+
+**Free** interactive 1-hour course to learn the very basics of web development\
+*(HTML, CSS, JavaScript, SQL)*
+#### [Treehouse](https://teamtreehouse.com/)
+
+**Paid** platform for courses how to build websites & apps\
+*(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
+#### [Learn CSS Layout](https://learnlayout.com/)
+
+**Free** tutorial for how to do layout with CSS\
+*(CSS)*
+#### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
+
+**Freemium** marketplace of courses from third party providers. Quality may vary.\
+*(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
+#### [Code Avengers](https://www.codeavengers.com/)
+
+**Freemium** platform for basic web and app develoment courses\
+*(HTML, CSS, JavaScript)*
+#### [learn.shayhowe.com](https://learn.shayhowe.com/)
+
+**Free** beginner to intermediate guides on web development\
+*(HTML, CSS, JavaScript)*
+#### [HTML Dog](https://www.htmldog.com/)
+
+**Free** beginner and intermediate guides on web development\
+*(HTML, CSS, JavaScript)*
+#### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
+
+**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
+*(HTML, CSS, JavaScript, AngularJS, Rails)*
+
+### Intermediate
+
+#### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
+
+**Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
+*(HTML, CSS, JavaScript, algorithms, cryptography)*
+#### [Udacity](https://www.udacity.com/)
+
+**Free** platform for computer science and web development courses\
+*(HTML, CSS, JavaScript, data science, Python, computer science topics)*
+#### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+
+**Paid** book and course for beginner through intermediate Python programming\
+*(Python, object-oriented programming, web development)*
+#### [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+
+**Free** online book covering all stages of creating a Ruby on Rails application\
+*(HTML, CSS, JavaScript, Ruby, Rails)*
+#### [Thinkful](https://www.thinkful.com/)
+
+**Paid** platform for mentored web and mobile development courses from industry experts\
+*(web development, frontend web development, AngularJS, Android, iOS)*
+#### [exercism.io](https://exercism.io/)
+
+**Free** crowdsourced mentorship platform of programming exercises and code reviews\
+*(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
+#### [Stanford on iTunes U](https://itunes.stanford.edu/)
+
+**Free** programming and mobile development courses on iTunes from Stanford University\
+*(programming, startups, iOS)*
+#### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48\&sort=popular)
+
+**Paid** platform for web development courses\
+*(JavaScript, AngularJS, Java)*
+#### [CodeChef Problems](https://www.codechef.com/problems/easy/)
+
+**Free** intermediate to advanced programming problems\
+*(programming)*
+#### [CodingBat](https://codingbat.com/)
+
+**Free** practice problems in Python and Java\
+*(Python, Java)*
+
+### Advanced
+
+#### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering\&subcat=computerscience)
+
+**Free** courses from MIT on advanced computer science topics\
+*(varied and extensive computer science topics, C, C++, ..)*
+#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
+
+**Free** platform for courses from universities and organizations worldwide\
+*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
+#### [Awesome CS Courses (⭐43k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+
+**Free** university-level courses scoured from around the internet.\
+*(varied and extensive computer science topics, ...)*
+#### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)
+
+**Free** graphs of interconnected topics required to master concepts\
+*(programming, machine learning)*
+
+## [9. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Tools
 
@@ -117,14 +226,14 @@
 *   Classifiers
     *   [classifier-reborn (⭐531)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
-## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Books
 
 *   [HTML5 Canvas Cookbook](https://www.packtpub.com/web-development/html5-canvas-cookbook) - by Eric Rowell
 *   [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/title.html) - by Josh Marinacci
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -206,7 +315,7 @@
 
 *   [Elixir Github Wiki (⭐21k)](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [12. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Philosophy
 
@@ -217,13 +326,13 @@
 *   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
 *   [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
 
-## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Tutorials & Blogs / Third-party Service Integration
 
 *   [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
 
-## [12. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [14. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Encoding-Decoding
 
@@ -255,7 +364,7 @@
 
 *   [Fortran WIKI](http://fortranwiki.org/fortran/show/HomePage) - An open venue for discussing all aspects of the Fortran programming language and scientific computing.
 
-## [13. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 

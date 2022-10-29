@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2017
 
-13 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,13 +35,19 @@
 
 *   [Kestrel (⭐6)](https://github.com/papertrail/kestrel) - distributed message queue system.
 
-## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Competitions
+
+*   [ICRA Robot Challenges](http://www.icra2017.org/conference/robot-challenges)
+
+## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Node.js / Scala
 
 *   [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
@@ -52,7 +58,7 @@
 
 *   [Building Twitter’s Next-Gen Alerting System](https://www.youtube.com/watch?v=jQggG0qIjTM)
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
@@ -110,25 +116,31 @@
 
 *   [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
 
-## [6. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Community
 
 *   [Blog](https://medium.com/@fusetools/latest) - The official Fuse blog on Medium
 
-## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Capgemini <https://capgemini.github.io/>
+
+## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Database / Security
 
 *   [rails\_db (⭐1.4k)](https://github.com/igorkasyanchuk/rails_db) - Rails Database Viewer and SQL Query Runner
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Logging
 
 *   [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **\[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **\[$]**
 
-## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [11. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
@@ -147,7 +159,7 @@
 *   [Selenium (⭐845)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐9k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
-## [10. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [12. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Online Courses
 
@@ -157,7 +169,7 @@
 *   [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
 *   [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
 
-## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [13. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
@@ -168,7 +180,7 @@
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
 *   [Screen Recorder (⭐386)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -178,7 +190,7 @@
 
 *   [Wire (⭐380)](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
 
-## [13. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [15. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### GUI / Edit
 

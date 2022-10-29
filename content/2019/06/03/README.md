@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2019
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -101,19 +101,30 @@
 
 *   **[The $100 Startup](http://100startup.com/)** \[$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React Performance
+
+*   [React Optimizing Performance](https://reactjs.org/docs/optimizing-performance.html)
+*   [Optimizing React: Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
+
+### Important Talks / Charts
+
+*   [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [15Five](https://www.15five.com/careers/) - Join our mission to create the spaces where people become their greatest selves, by joining some of the greatest employees around.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Libraries / Class Based
 
 *   [Lightning Web Components (⭐1.3k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 
-## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [8. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
@@ -127,57 +138,58 @@
     *   [Twitter](https://twitter.com/mintynet)
     *   [Website](https://www.mintynet.com/)
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Assorted
 
 *   [Best Practices for Building a Large Scale React Application](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 
-## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [10. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@ceejbot](https://github.com/ceejbot), [Entropic (⭐5.3k)](https://github.com/entropic-dev/entropic), [npm (⭐6.5k)](https://github.com/npm/cli)
     *   "The economics of open source" ([video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post (⭐479)](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md))
 *   [@dhh](https://github.com/dhh), [Rails](https://github.com/rails)
     *   "Open source beyond the market" ([video](https://www.youtube.com/watch?v=VBwWbFpkltg), [post](https://m.signalvnoise.com/open-source-beyond-the-market/))
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇨🇦 Canada / Misc
 
 *   Meetup [Toronto](https://www.meetup.com/FlutterToronto)
 
-## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Neural Networks
 
 *   [nn\_builder (⭐152)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
-## [12. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
 *   [eps (⭐594)](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
     using [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend using [GSL](https://www.gnu.org/software/gsl/).
 
-## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [Ceil (⭐40)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [14. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [15. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [Kaspersky CyberTrace](https://support.kaspersky.com/13850) - Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
 
-## [15. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
     (Python, 2-clause BSD, [GitHub (⭐191)](https://github.com/pymor/pymor/))
 
-## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2015
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,14 @@
     *   [Speeches](https://www.justice.gov/api/v1/speeches.json?pagesize=2)
     *   [Vacancy Announcements](http://www.justice.gov/api/v1/vacancy_announcements.json?pagesize=2)
 
-## [2. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+*   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
+
+## [3. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Other Awesome Lists / Dojo 2
 
@@ -29,7 +36,7 @@
     *   [awesome-all (⭐179)](https://github.com/bradoyler/awesome-all) - awesome lists
     *   [awesome-awesome (⭐248)](https://github.com/erichs/awesome-awesome) - awesome lists
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Sliders / Runner
 
@@ -41,13 +48,13 @@
 
 *   [prettyembed.js (⭐1.1k)](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
 
-## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Third-party Service Integration
 
 *   [Laravel Newsletter (⭐1.5k)](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 
-## [5. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tools
 
@@ -57,7 +64,13 @@
 
 *   [Web components tester istambul (⭐28)](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
 
-## [6. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Cognitive Development
+
+*   [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** \[1:16:26]
+
+## [8. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Syntax Highlighter / OpenOffice
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27 - Apr 02, 2017
 
-49 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -617,7 +617,17 @@
 
 *   [Facebook - Brand Resource Center Book](https://en.facebookbrand.com/)
 
-## [38. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [38. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / M companies
+
+*   Mallow Tech <http://blog.mallow-tech.com/>
+
+### Individuals/Group Contributors / K individuals
+
+*   Kirill Shevchenko <https://medium.com/@kirill_shevch>
+
+## [39. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Map/Reduce
 
@@ -661,7 +671,7 @@
 *   [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/) - Article on IBM about backups.
 *   [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html) - Cloudant docs on backups.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -679,7 +689,7 @@
 
 *   [@skyrpex/props-to-local (⭐6)](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
 
-## [40. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [41. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Video Courses
 
@@ -693,7 +703,7 @@
 
 *   [framer-QueryInterface (⭐27)](https://github.com/marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 
-## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -897,19 +907,19 @@
 *   [Awesome public datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
-## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [43. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [SharpVk (⭐139)](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). \[MIT]
 
-## [43. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [44. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
 *   [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
 
-## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -931,13 +941,20 @@
 
 *   [Edi.Net (⭐360)](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
 
-## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Image-to-Image Translation with Conditional Adversarial Networks (⭐139)](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).\[DEEP LEARNING]
 
-## [46. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [47. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   G2 Crowd - <https://www.g2crowd.com/products/new>
+*   Startup Collections - <http://startupcollections.com/>
+
+## [48. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -947,20 +964,20 @@
 *   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
 *   [xortool (⭐1.2k)](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
 
-## [47. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [49. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Flowblade (⭐1.8k)](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 *   [Snowmix](https://sourceforge.net/projects/snowmix/) - Live Video Mixer.
 
-## [48. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [50. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### File Uploading / Omniauth
 
 *   [shrine (⭐3k)](https://github.com/janko-m/shrine) -File Attachment toolkit for Ruby applications
 
-## [49. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [51. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 

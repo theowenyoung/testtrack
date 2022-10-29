@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,33 @@
 
 *   [Conversation Design Institute](https://www.conversationdesigninstitute.com/) - An institute, first of its kind (as far as I know), offering courses, certifications, and an annual conference on Conversational Design.
 
-## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Proprietary (non-standard) vendor APIs
+
+*   [Citymapper API](https://docs.external.citymapper.com/api/) - REST API for transit journey planning, realtime transit data and walk, cycle, scooter travel times.
+
+### SDKs
+
+*   [Citymapper SDK](https://citymapper.com/powers) - Allows you to add journey planning and turn-by-turn navigation for walking, cycling, scooting and transit into native iOS and Android apps.
+
+### GTFS Libraries / Python
+
+*   [combine\_gtfs\_feeds (⭐4)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
+
+## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Remote / Aggregator
 
 *   [TheRemoteWork](https://theremotework.co/)
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Responsive / Syntax Highlight
 
 *   [CoreUI for React (⭐493)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Blockchain Explorers
 
@@ -79,19 +93,19 @@
 *   [algorealm (⭐16)](https://github.com/cusma/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
 *   [minter (⭐8)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 
-## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Helpers
 
 *   [hump (⭐49)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
-## [7. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Really Simple Forms
 
 *   [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 
-## [8. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [9. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Art
 
@@ -101,13 +115,13 @@
 
 *   [Third Axis](https://thirdaxis.io/) - A design studio based in NYC that creates 3D, AR, and VR content on the web.
 
-## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Secrets Management / Ansible
 
 *   [Keyscope (⭐356)](https://github.com/SpectralOps/keyscope) - *Spectral* - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
@@ -117,7 +131,7 @@
 
 *   [tmux-mouse-swipe (⭐4)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
@@ -133,7 +147,7 @@
 
 
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 

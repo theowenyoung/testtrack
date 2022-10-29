@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,7 +88,13 @@
 
 *   [Ruby neural networks](https://www.honeybadger.io/blog/ruby-neural-networks/)
 
-## [14. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Frameworks
+
+*   [aleph.js (⭐4.9k)](https://github.com/alephjs/aleph.js) - The React Framework in Deno
+
+## [15. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -106,13 +112,13 @@
 
 *   [Pointcloudprinter :octocat: (⭐141)](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 
-## [15. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [16. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Learning / Switzerland
 
 *   [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
 
-## [16. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [17. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Normal Forms
 

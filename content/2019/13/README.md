@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 01 - Apr 07, 2019
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -317,7 +317,39 @@
 
 *   [ClearX (⭐20)](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
 
-## [25. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [25. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Netherlands 🇳🇱
+
+### Bergambacht
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stefannhs" height="70px" width="70px" align="left" alt="" />
+
+**Stefan Nieuwenhuis**\
+Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos, Design Systems\
+<https://twitter.com/stefannhs>
+
+### North America / Canada 🇨🇦
+
+### Hamilton
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/wesbos" height="70px" width="70px" align="left" alt="" />
+
+**Wes Bos**\
+Topics: JavaScript, CSS, Tooling\
+<https://twitter.com/wesbos>
+
+### North America / United States of America 🇺🇸
+
+### Mountain View
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="" />
+
+**Addy Osmani**\
+Topics: Chrome DevTools, Performance\
+<https://twitter.com/addyosmani>
+
+## [26. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Anonymity Tools
 
@@ -701,7 +733,7 @@
 *   [redsnarf (⭐1.2k)](https://github.com/nccgroup/redsnarf) - Post-exploitation tool for retrieving password hashes and credentials from Windows workstations, servers, and domain controllers.
 *   [wePWNise](https://labs.mwrinfosecurity.com/tools/wepwnise/) - Generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software.
 
-## [26. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [27. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Device / Augmented Reality
 
@@ -716,7 +748,7 @@
 *   Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 *   Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 
-## [27. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [28. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -763,7 +795,7 @@
 *   [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
 *   [pgMustard](https://www.pgmustard.com) - A user interface for Postgres explain plans, plus tips to improve performance.
 
-## [28. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [29. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -798,13 +830,13 @@
 *   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 *   [SciDe (⭐67)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-## [29. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [StellarGraph (⭐2.5k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
-## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -821,7 +853,7 @@
 
 *   [21 Useful Open Source Packages for React Native](https://medium.com/crowdbotics/21-useful-open-source-packages-for-react-native-807f65a818a1)
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [32. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -831,14 +863,14 @@
 
 *   [NFluent](http://www.n-fluent.net) - NFluent is an assertion library which aims to fluent your .NET TDD experience.
 
-## [32. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [33. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
 *   [Can't Unsee](https://cantunsee.space/) - A game where your attention to details earns you a lot of coins.
 *   [The Boolean Game](https://boolean.method.ac/) - Learn how to use boolean operations in Sketch, Figma, and other vector editors.
 
-## [33. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -866,7 +898,7 @@
 
 *   [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 
-## [34. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [35. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
@@ -896,13 +928,13 @@
 
 *   [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 
-## [35. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [36. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Frameworks / Bridges
 
 *   [matterbridge (⭐5.2k)](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ ... `Go`
 
-## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -918,13 +950,13 @@
 
 
 
-## [37. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [38. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Video
 
 *   [Mux](https://mux.com/) - Paid - An API to play videos directly to the client. Can also power live streams.
 
-## [38. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [39. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Userscripts
 
@@ -1016,7 +1048,7 @@
 *   [PiracyArchive (⭐418)](https://github.com/nid666/PiracyArchive) A complete backup of the Reddit /r/Piracy subreddit
 *   [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) Wikipedia's list of warez groups and individuals.
 
-## [39. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [40. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### Build Systems
 
@@ -1053,19 +1085,19 @@
 
 *   [mini-xml (⭐360)](https://github.com/michaelrsweet/mxml) - Small XML reading and writing library. No dependencies aside from C standard library. [`Apache 2.0 with exceptions`](https://github.com/michaelrsweet/mxml/blob/master/LICENSE)
 
-## [40. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [41. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Deployment / Code Coverage
 
 *   [Deploy a Theme to Shopify (⭐110)](https://github.com/pgrimaud/action-shopify)
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
 *   [IPList](https://www.iplist.cc) — Lookup details about any IP address, such as Geo IP information, tor addresses, hostnames and ASN details. Free for personal and business users.
 
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
@@ -1076,13 +1108,13 @@
 
 *   [Motrix](https://motrix.app/) - Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk, etc. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/agalwood/Motrix) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Deploy
 
 *   [aws-codedeploy-samples :fire::fire::fire: (⭐613)](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
-## [44. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [45. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Common Section / Angular
 

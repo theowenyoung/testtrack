@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 09, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,29 @@
 *   [Twitter](https://twitter.com/polymer)
 *   [Google+ Community](https://plus.google.com/u/1/communities/115626364525706131031)
 
-## [4. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
+## [4. Htaccess](/content/phanan/htaccess/README.md)
+
+### Rewrite and Redirection / Remove Trailing Slash
+
+### Remove Trailing Slash
+
+This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (except for actual directories), e.g. `http://www.example.com/blog/` to `http://www.example.com/blog`. This is important for SEO, since it’s [recommended](http://overit.com/blog/canonical-urls) to have a canonical URL for every page.
+
+```apacheconf
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]
+```
+
+[Source](https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url#27264788)
+
+## [5. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
 ### Resources / Scriptable by Lua
 
 *   [KoReader (⭐12k)](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
 
-## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Datasets
 

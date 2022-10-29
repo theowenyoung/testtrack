@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12 - Jul 18, 2021
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -6441,7 +6441,13 @@
 *   [devshell (⭐625)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 *   [flake-utils (⭐483)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React State Management
+
+*   [react-query (⭐30k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
+
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -6452,7 +6458,7 @@
 
 *   [vue-tiny-validate (⭐107)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -6471,7 +6477,7 @@
 
 *   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
 
-## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -6489,13 +6495,13 @@
 
 *   [shorturl](https://git.mills.io/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`
 
-## [50. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
+## [51. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
 ### TensorFlow models / Other
 
 *   [Tensorflow detection model zoo (⭐75k)](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) - Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.
 
-## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [52. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 

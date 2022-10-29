@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 15, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,13 +22,23 @@
 
 *   [Android-Link-Preview (⭐421)](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 
-## [3. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Dot Dev (.dev) <https://dotdev.co>
+
+### Individuals/Group Contributors / J individuals
+
+*   Juan Treminio <https://jtreminio.com>
+
+## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
 *   [decheck (⭐9)](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Scanning / Pentesting
 
@@ -57,7 +67,7 @@
 
 *   [Linux Malware Detect](https://www.rfxn.com/projects/linux-malware-detect/) - A malware scanner for Linux designed around the threats faced in shared hosted environments.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 

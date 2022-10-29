@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,13 @@
 
 *   [JSCL (⭐799)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
-## [5. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Zach Leatherman (⭐0)](https://github.com/zachleat/ama) - I have a beard sometimes.
+
+## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Javascript
 
@@ -77,31 +83,31 @@
 *   [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
 *   [Safari (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver) - The SafariDriver is implemented as a Safari browser extension. The driver inverts the traditional client/server relationship and communicates with the WebDriver client using WebSockets (only supported for Safari <= v9, all new Safari version comming with macOS Sierra come with an integrated SafariDriver that is closed source by Apple).
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Date and Time
 
 *   [Yasumi (⭐899)](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
 
-## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 
 *   [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
 
-## [8. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [9. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Networking
 
 *   [Nipe (⭐1.5k)](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
-## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Topic-specific
 
 *   *[Network Analysis Literacy. A Practical Approach to the Analysis of Networks](https://www.springer.com/us/book/9783709107409)*, by Katharina A. Zweig (2016).
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 

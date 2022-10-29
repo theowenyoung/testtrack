@@ -1,6 +1,6 @@
 # Awesome List Updates on May 06, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -58,6 +58,12 @@
 
 *   [Lynks](https://lynksoft.com/) - Web-based tool for simple network analysis and visualization.
 *   [OSoMe](http://osome.iuni.iu.edu/) - Web-based platform to analyze social media data, including through Twitter-based and co-occurrence networks.
+
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### operations
+
+*   [geojson-multiply (⭐2)](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
 
 ---
 

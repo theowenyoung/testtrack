@@ -19,6 +19,7 @@
 *   [elm-webpack-starter (⭐871)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Reuse recorded resolution, record and reuse previous conflicts resolutions.
 
 ```sh

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2020
 
-38 awesome lists updated today.
+39 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -134,7 +134,93 @@
 
 *   [vue-inline-svg (⭐141)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
-## [16. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [16. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
+
+> Slide, collide and score to win the game of Sorry! Draw cards to see how far you get to move one of your pawns on the board. If you land on a Slide you can zip to the end and bump your opponents' pawns or your own!
+
+![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        6 |  30m |
+### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
+
+> Klask is a board game that has a ball field shape with two deep holes functioning as goals in each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
+
+![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  10m |
+### [Battleball](https://boardgamegeek.com/boardgame/6795/battleball)
+
+> Battleball is a football board game but with teams made of players with physical and mechanical enhancements - which has made the sport more intense and more deadly. Plan a strategy and do your best to score two touchdowns without having all of your players be destroyed!
+
+![Battleball Image](https://cf.geekdo-images.com/itemrep/img/_ybsCFVKunSnqyGPCiuXbT2kuDo=/fit-in/246x300/filters:strip_icc\(\)/pic227687.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  45m |
+
+### Strategy
+
+### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
+
+> Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
+
+![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+
+| Players | Min. Age |  Time |
+| ------: | -------: | ----: |
+|       2 |        6 | 1-10m |
+### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
+
+> Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
+> You belong to one of these groups and must conceal your identity from others since you don't know whom you can trust—at least not initially. Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.
+
+![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|     4-8 |       13 |  45m |
+### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
+
+> Guess the color of hidden pegs. A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.
+
+![Mastermind image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/226px-Mastermind.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |        8 |  30m |
+
+### Party
+
+### [SuperFight](https://www.superfightgame.com/)
+
+> A game of absurd arguments
+
+Superfight is a game where you argue with your friends over ridiculous fights. The game is very simple. Players use the cards to create ridiculous fighters, and argue about which character would win in a fight. Then everyone around the table votes on the winner. As you can imagine, the fights are epic and hilarious. It’s fun for all ages and works for all kinds of players.
+
+![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        8 |  15m |
+### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
+
+> Mind the Gap is a card game that replicates the iconic design of the London Underground map, and the game is licensed by Transport for London. Players have a hand of cards, each representing stations on the London Underground. Each player lays a card face up and players in turn play cards that are on a line that matches that of the previous card. If they cannot lay a card, they draw a card. The winner is the first player to exhaust their hand.
+
+![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 8 |        6 |  20m |
+
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Logging / Barcode
 
@@ -162,45 +248,45 @@
 
 *   [BlueSignals (⭐91)](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Robotics
 
 *   [YARP (Yet Another Robot Platform) (⭐442)](https://github.com/robotology/yarp) - Library and toolkit for communication and device interfaces. \[BSD-3-Clause] [website](http://www.yarp.it/)
 
-## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [Alpine.js (⭐22k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 
-## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### SaaS
 
 *   [Loom Pro](https://support.loom.com/hc/en-us/articles/360006579637-Loom-Pro-Free-for-Students-and-Teachers/?ref=codegena.com)\[FREE] - Loom is a video recording tool that helps you get your message across through instantly shareable videos.
 
-## [20. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [21. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Components
 
 *   [`<player-x>`](https://github.com/playerxo/playerx) - Media player web component.
 *   [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
 
-## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [22. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Talks
 
 *   [2019 DevConf | Fine - Grained Authorization with Keycloak SSO (Marek Posolda)](https://www.youtube.com/watch?v=yosg4St0iUw)
 *   [2019 VoxxedDays Minsk | Bilding an effective identity and access management architecture with Keycloak (Sebastien Blanc)](https://www.youtube.com/watch?v=RupQWmYhrLA)
 
-## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Board support crates / Teensy
 
 *   [`teensy4-rs`](https://github.com/mciantyre/teensy4-rs) Board Support create for the \[Teensy 4.0]
 
-## [23. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [24. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Manufacturers
 
@@ -209,7 +295,7 @@
 *   [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology. The headquarter is located in San Jose, California, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -219,26 +305,26 @@
 
 *   [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code (⭐2k)](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Iteration
 
 *   [trivial-do (⭐13)](https://github.com/yitzchak/trivial-do/) -  Additional dolist style macros for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [picl (⭐15)](https://github.com/anlsh/picl) - An (almost) complete port of Python's itertools package, complete with laziness where applicable, and not relying on cl-cont. [MIT](https://opensource.org/licenses/MIT).
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Search
 
 *   [elasticsearch\_elixir\_bulk\_processor (⭐12)](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - An efficient and flexible way to insert into Elasticsearch.
 
-## [27. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [28. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Uncategorized / Twitter
 
 *   [AppDaemon (⭐689)](https://github.com/AppDaemon/appdaemon) - AppDaemon is a loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps.
 
-## [28. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [29. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Package suites
 
@@ -255,31 +341,31 @@
 
 *   **[POA (⭐61)](https://github.com/ljdursi/poapy)** - Partial-Order Alignment for fast alignment and consensus of multiple homologous sequences. \[ [paper-2002](https://academic.oup.com/bioinformatics/article/18/3/452/236691) ]
 
-## [29. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [30. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Tech / Europe
 
 *   [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 
-## [30. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [31. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Health and Fitness
 
 *   [Covid19-Tracker (⭐31)](https://github.com/adityanjr/covid19-tracker) - Tracking the impact of COVID-19 cases based on your location by [Aditya Singh](https://github.com/adityanjr)
 
-## [31. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [32. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Minisauras (⭐46)](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 
-## [32. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [33. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Wikis
 
 *   [DevSecOps Hub](https://snyk.io/devsecops/) - *Snyk* - Introduction to key DevSecOps concepts, processes and technologies.
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
@@ -363,13 +449,13 @@
 
 *   [MLFlow](https://mlflow.org/) - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework and language agnostic, take a look at all the built-in integrations.
 
-## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [RasComm RaspberryPi MorseCode Translator (⭐6)](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [36. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
@@ -379,7 +465,7 @@
 
 *   [Lorem Picsum](https://picsum.photos/) - A Free tool, easy to use stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image.
 
-## [36. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [37. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
@@ -402,7 +488,7 @@
 *   [GoatDroid (⭐227)](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 *   [Android InsecureBank (⭐981)](https://github.com/dineshshetty/Android-InsecureBankv2)
 
-## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [38. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
@@ -416,7 +502,7 @@
 
 *   [UnderJS Podcast](https://underjs.ru/) - Podcast about JS, React Native, Nodejs.
 
-## [38. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [39. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### System / Navigation Demos
 

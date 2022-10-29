@@ -1,6 +1,6 @@
 # Awesome List Updates on May 22, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,32 +26,38 @@
 
 *   [Serverless working group (⭐1.4k)](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Methodologies
+
+*   [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) by **Michael Feathers** \[52:02]
+
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / Natural Language Processing
 
 *   [word-embedding (⭐379)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [Insomnia (⭐24k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
 *   [Reliable releases and rollbacks - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/reliable-releases-and-rollbacks-CRE-life-lessons.html)
 *   [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 
-## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Rich text editor extensions
 
 *   [Wagtail Medium Editor (⭐17)](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
 
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Communication
 
@@ -72,19 +78,19 @@
 *   [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
 *   [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
 
-## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Blog posts
 
 *   [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
 
-## [10. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [11. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Productivity
 
 *   [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

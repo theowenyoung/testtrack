@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 18, 2016
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Hardware
+
+*   [Bus Tracking GPS (⭐25)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+
+## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### User / Omniauth
 
@@ -16,13 +22,13 @@
 
 *   [Pronto (⭐2.5k)](https://github.com/mmozuras/pronto) - Quick automated code review of your changes
 
-## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
 *   [Darknet (⭐23k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
@@ -32,19 +38,25 @@
 
 *   [chatter (⭐26)](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 
-## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Visual Tracking / Image Super-resolutions
 
 *   [Tracking Manipulation Tasks (TMT)](http://webdocs.cs.ualberta.ca/\~vis/trackDB/)
 
-## [5. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / B individuals
+
+*   Bartlomiej Filipek <http://www.bfilipek.com/>
+
+## [7. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
 ### Reporters / JavaScript
 
 *   [tap-teamcity (⭐8)](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
-## [6. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
+## [8. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md)
 
 ### Deployment
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 25, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,25 +24,39 @@
 
 *   [Mastering ZSH (⭐892)](https://github.com/rothgar/mastering-zsh) is a great tutorial that builds on the basics to show you advanced ZSH usage, customizations, and practical examples.
 
-## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Strategy
+
+### [Gorgasali: Battle Royale](https://www.gorgasalibr.com)
+
+> Gorgasali: Battle Royale is a role-playing board game based mainly on the concept of battle royale. The story of the game is fictional, and the game mechanics - completely unique. Start the game from the sector and enter the map through the gate. Scroll through the map and try to open the boxes to collect the cards needed for the fight. Engage in battle with an opponent to knock him out of the game and earn his own cards. Higher strength cards give you a better chance of winning. Be careful with the reducing of the zone, due to having less space to navigate without taking damage. To win the game you must be the only surviving player on the map.
+
+![Gorgasali: Battle Royale Image](https://cf.geekdo-images.com/rEZCI1GVQMDIeeZ-IWGtRw__itemrep/img/L_ehmv4w5hR9hPdOF1RwoZIovK4=/fit-in/246x300/filters:strip_icc\(\)/pic4960193.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    2-10 |       10 | 40-180m |
+
+## [5. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [freeCodeCamp](https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/)
 
-## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Steelforged](https://drive.google.com/drive/folders/1X7P2R-rD_89fMWR8JiYKDk5lm62UPhfL) - High fantasy supplements for Starforged
 
-## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Product Configurators
 
 *   [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - Product visualizer for Montblanc pens, watches, wallets and headphones.
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Bindings / Other / unknown licence
 
@@ -51,13 +65,13 @@
 *   [ada-lua (⭐36)](https://github.com/AdaCore/ada-lua) - Ada binding for Lua.
 *   [coreland-lua-ada (⭐5)](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [arrow-kt/arrow-meta (⭐346)](https://github.com/arrow-kt/arrow-meta) - Functional companion to Kotlin's Compiler.
 
-## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [10. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Archive of Icons
 
@@ -73,13 +87,13 @@
 
 *   [Bitcoin-Icons (⭐78)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
@@ -93,19 +107,19 @@
 
 *   [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
 
-## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [13. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [iommi (⭐299)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 

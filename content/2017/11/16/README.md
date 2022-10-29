@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,13 +59,19 @@
 
 *   [AmmoBin.ca (⭐18)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
 
-## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Honza Bittner (⭐1)](https://github.com/tenhobi/ama) - Student at [FIT CTU](http://fit.cvut.cz/en), Dart lover.
+
+## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Blog posts
 
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### XML
 

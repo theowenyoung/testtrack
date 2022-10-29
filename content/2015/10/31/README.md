@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,7 +33,21 @@
 
 *   [rxpresso (⭐369)](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   Gusto <http://engineering.gusto.com/>
+
+### Companies / R companies
+
+*   Robert Elder Software <http://blog.robertelder.org/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nelson Elhage <https://blog.nelhage.com/>
+
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Social / Twitter Influencers
 
@@ -43,7 +57,7 @@
 *   [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
 *   [@Werner](https://twitter.com/Werner) - Werner Vogels: CTO.
 
-## [5. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Featured Projects / Slides and Notes
 

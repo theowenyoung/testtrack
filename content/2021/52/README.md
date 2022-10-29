@@ -121,6 +121,7 @@
 *   [fixed-fft](https://crates.io/crates/fixed-fft): Fixed-point Fast Fourier Transform - [![Crates.io](https://img.shields.io/crates/v/fixed-fft.svg)](https://crates.io/crates/fixed-fft)
 
 ## [15. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
 
   Description: Bitbucket Pipelines & Deployments

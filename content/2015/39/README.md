@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28 - Oct 04, 2015
 
-29 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -360,13 +360,23 @@
 
 *   [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_8)
 
-## [18. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Vladimir Agafonkin (⭐6)](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries (⭐328)](https://github.com/mourner/projects). Building the future of interactive maps.
+
+### Ask these organizations anything!
+
+*   [Ruby Taiwan (⭐116)](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
+
+## [19. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [Getting Started With BEM (with a little help from Sass)](https://www.packtpub.com/books/content/getting-started-bem-little-help-sass/)
 
-## [19. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [20. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### C++ tools / Misc
 
@@ -380,7 +390,7 @@
 
 *   [Charted (⭐2.8k)](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
 
-## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -479,7 +489,7 @@
 *   [Infosec (⭐4.2k)](https://github.com/onlurking/awesome-infosec)
 *   [PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools)
 
-## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [22. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
@@ -490,7 +500,15 @@
 *   [Awesome PCAP Tools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
 *   [Awesome Pentest (⭐17k)](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things.
 
-## [22. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [23. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### editors & viewers
+
+*   [geojson.io](http://geojson.io/): web-based editor, supports many filetype imports & exports, operations, sharing via GitHub
+*   [umap](http://umap.openstreetmap.fr/en/): web-based editor, supports sharing on-site
+*   [mapstarter](http://mapstarter.com/): helps generate svg, images, and code from GeoJSON
+
+## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Editors / Paid Books
 
@@ -512,7 +530,7 @@
 *   [Qunit](http://qunitjs.com/) - A JavaScript Unit Testing framework, used by the jQuery, jQuery UI and jQuery mobile projects.
 *   [Mockjax (⭐2.1k)](https://github.com/jakerella/jquery-mockjax) - Provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -522,7 +540,22 @@
 
 *   [sweet\_xml (⭐328)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Beginner Books
+
+#### The R Book [\[Amazon\]](http://www.amazon.com/The-Book-Michael-J-Crawley/dp/0470973927)
+
+<img src="http://ecx.images-amazon.com/images/I/41NNNTouQbL._SX371_BO1,204,203,200_.jpg" width="200px"/>
+
+Very massive, hugely successful and popular text presenting an extensive and comprehensive guide for all R users. Covers wide variaty of R topics in great detail with very useful examples.
+#### R for Everyone: Advanced Analytics and Graphics [\[Amazon\]](http://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030)
+
+<img src="http://ecx.images-amazon.com/images/I/51Jib4uNx3L._SX393_BO1,204,203,200_.jpg" width="200px"/>
+
+Drawing on his unsurpassed experience teaching new users, professional data scientist Jared P. Lander has written the perfect tutorial for anyone new to statistical programming and modeling. Organized to make learning easy and intuitive, this guide focuses on the 20 percent of R functionality you’ll need to accomplish 80 percent of modern data tasks. Book's self-contained chapters start with the absolute basics, offering extensive hands-on practice and sample code. You’ll download and install R; navigate and use the R environment; master basic program control, data import, and manipulation; and walk through several essential tests. Then, building on this foundation, you’ll construct several complete models, both linear and nonlinear, and use some data mining techniques.
+
+## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
@@ -536,7 +569,7 @@
 
 *   [Pretzel (⭐595)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
-## [25. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [28. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -569,7 +602,7 @@
 *   [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 *   [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 
-## [26. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key Map Data Model
 
@@ -577,7 +610,7 @@
 *   [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 *   [Apache HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 
-## [27. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [30. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -674,13 +707,13 @@
 
 *   [Alaska (⭐54)](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
 
-## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
-## [29. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [32. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 

@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md) · ⭐ 94 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md) · ⭐ 97 · 🏷️ Theory
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
@@ -71,9 +71,9 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Sep 19, 2022](/content/2022/09/19/README.md)
 
-### Abduction / Scientific Discovery
+### Meta-Level Considerations / The Aha! Moment
 
-*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
+*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 ## [Sep 16, 2022](/content/2022/09/16/README.md)
 
@@ -381,7 +381,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142\&hl=en\&as_sdt=0,44)].
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [Bridging Levels of Analysis for Probabilistic Models of Cognition](https://cocosci.princeton.edu/tom/papers/LabPublications/BridgingLevelsAnalysis.pdf) - ***Current Directions in Psychological Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=5063382112136991296\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on probabilistic models.
 *   [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on computational social science.
@@ -805,13 +805,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jul 07, 2022](/content/2022/07/07/README.md)
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368\&hl=en\&as_sdt=0,5)].
 
 ## [Jul 06, 2022](/content/2022/07/06/README.md)
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=11150567121969913334)].
 

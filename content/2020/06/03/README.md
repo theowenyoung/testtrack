@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -95,7 +95,105 @@
 
 *   [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations).
 
-## [11. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [11. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Competitive Programming
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cp_community.webp">
+
+[**CP Community**](https://discord.com/invite/algorithms) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://codeforces.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Codeforces) \
+Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Discussions on the concepts behind modern, and classical computing and its kin.
+### Haxe
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/haxe.webp">
+
+[**Haxe**](https://discord.com/invite/0uEuWH3spjck73Lo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://haxe.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/HaxeFoundation) \
+Notable Channels: `#general`, `#show-your-work`, `#tools`, `#flixel`, `#heaps`, `#kha`, `#nme`, `#haxepunk`, `#react`, `#haxe-ui`, `#lix`, `#coconut` \
+Language: English
+### Gaming on Linux
+
+[Linux Distributions↰](#linux-distributions)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gamingonlinux.webp">
+
+[**GamingOnLinux**](https://discord.com/invite/AghnYbMjYg) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gamingonlinux.com/) \
+Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_gaming.webp">
+
+[**Linux Gaming**](https://discord.com/invite/linuxgaming) \
+Notable Channels: `#support-general`, `#support-hardware`, `#support-gaming`, `#new-to-linux`, `#tech-general`, `#coding`, `#unixporn`, `#original-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/lutris.webp">
+
+[**Lutris**](https://discord.gg/Pnt5CuY) \
+Notable Channels: `#news`, `#general`, `#irc`, `#requests_and_feedback`, `#lutris_support`, `#linux_support`, `#installer_creation` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/protondb_official_server.webp">
+
+[**ProtonDB Official Server**](https://discord.com/invite/uuwK9EV) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.protondb.com/)  \
+Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Developing for virtual, augmented, and mixed reality; the head-mounted displays that stimulate our perception of a whole new world. The applications of VR are endless.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/project_north_star.webp">
+
+[**Project North Star**](https://discord.com/invite/2aE2Nfq) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://developer.leapmotion.com/northstar) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/leapmotion/ProjectNorthStar) \
+Notable Channels: `#build-planning`, `#northstar3-2`, `#jenson-redesing`, `#triton`, `#exii-raspberry-pi`, `#cad`, `#eye-tracking`, `#calibration`, `#steamvr`, `#mechanical`, `#firmware`, `#troubleshooting` \
+Language: English, Deutsch, français, español, 日本語, 韓國語
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vrchat.webp">
+
+[**VRChat**](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vrchat) \
+Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/virtual_reality.webp">
+
+[**Virtual Reality**](https://discord.com/invite/virtualreality) \
+Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Data manupulation and visualization, machine learning frameworks and artificial intelligence.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_machinelearning.webp">
+
+[**/r/machinelearning**](https://discord.com/invite/FVBUKzD) \
+Notable Channels: `#quick-questions`, `#machine-learning-projects`, `#resources`, `#math-questions`, `#programming-questions`, `#andrew-ng-coursera-machine-learning` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/artificial_intelligence.webp">
+
+[**Artificial Intelligence**](https://discord.com/invite/CbVJYtz) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://discordnetwork.com/) \
+Notable Channels: `#questions`, `#machine-learning`, `#deep-learning`, `#reinforcement-learning`, `#natural-language-processing`, `#systems-neuroscience`, `#computer-vision`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/sentdex.webp">
+
+[**Sentdex**](https://discord.com/invite/sentdex) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/user/sentdex) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Sentdex) \
+Notable Channels: `#__main__`, `#help` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/tensorflow.webp">
+
+[**TensorFlow**](https://discord.com/invite/64MVzQX) \
+Notable Channels: `#tf-general`, `#ai-ethics`, `#tensorflow-javascript`, `#tensorflow-python`, `#convolutional-neural-network`, `#recurrent-neural-network`, `#generative-adversarial-networks` \
+Language: English
+
+## [12. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Security
 
@@ -105,7 +203,7 @@
 *   [Security (⭐1.8k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 *   [xss (⭐48)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 

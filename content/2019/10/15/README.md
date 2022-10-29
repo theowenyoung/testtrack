@@ -1,31 +1,45 @@
 # Awesome List Updates on Oct 15, 2019
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [1. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
+
+> Battle with your opponents and the buzzer in this quick-thinking, fast-paced game of categories. How many famous actors, pizza topping, things that are red, or breeds of dog can you name under pressure? ‘Pinch’ and ‘pass’ category cards differ in that you try to snag pinch cards from other players by shouting out something from the category and you try to get rid of pass cards hot-potato style by saying something from the category. Whoever’s left holding the card when the buzzer goes off reaps the benefit (for pinch cards) or suffering the penalty (for pass cards). First player to the finish line is the winner, but don’t get knocked out for getting caught with too many pass cards! Each player may also call another player out for a head-to-head round. You can only do it once, so make it count!
+
+![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 6 |       12 |  30m |
+
+## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Plugins / Aurelia Articles
 
 *   [aurelia-kis-oidc (⭐8)](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library (⭐2.4k)](https://github.com/IdentityModel/oidc-client-js).
 
-## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Books / Other Resources
 
 *   [Learning Malware Analysis](https://www.packtpub.com/networking-and-servers/learning-malware-analysis) - Learning Malware Analysis: Explore the concepts, tools, and techniques to analuze and investigate Windows malware
 *   [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering) - Mastering Reverse Engineering: Re-engineer your ethical hacking skills
 
-## [3. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Miscellaneous
 
 *   [markcat (⭐34)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -35,7 +49,7 @@
     *   [Lecture Videos](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
     *   [Lecture Notes](https://webpages.uncc.edu/\~jmconrad/EducationalMaterials/index.html)
 
-## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Introspection
 
@@ -43,7 +57,7 @@
 *   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.3k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
-## [6. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Official Resources
 
@@ -67,20 +81,20 @@
 *   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 *   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
-## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Server Side Swift
 
 *   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 *   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 
-## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -105,19 +119,19 @@
 *   [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
 *   [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist and XcodeProj libraries, articles.
 
-## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Currents: The Remote Developer Experience (July 2019)](https://blog.digitalocean.com/currents-july2019/)
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
 *   [Lyra (⭐373)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
-## [12. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [13. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### UK / London
 
@@ -131,7 +145,7 @@
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [13. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Competition / Other
 
@@ -141,7 +155,7 @@
 
 *   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Blogging Platforms
 
@@ -151,7 +165,7 @@
 
 *   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.8k)](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
 
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Dictionaries
 
@@ -181,25 +195,25 @@
 
 
 
-## [16. Awesome Math](/content/rossant/awesome-math/README.md)
+## [17. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Foundations of Mathematics / Type Theory
 
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
-## [17. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [18. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts / Third Party
 
 *   [v-chart-plugin (⭐198)](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
 
-## [18. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [19. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 
-## [19. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [20. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Forensics
 

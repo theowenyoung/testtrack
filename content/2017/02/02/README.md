@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,19 +85,25 @@
 
 *   [geohash (⭐380)](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
 
-## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Settled <https://engineroom.settled.co.uk/>
+
+## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Code Review
 
 *   [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
 
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Machine Learning
 
 *   [xgboost (⭐23k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
-## [10. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [11. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Videos / Help
 

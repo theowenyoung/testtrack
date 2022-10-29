@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 16, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,13 @@
 
 *   [pest-parser/pest (⭐3.3k)](https://github.com/pest-parser/pest) — The Elegant Parser [![Build Status](https://api.travis-ci.org/pest-parser/pest.svg?branch=master)](https://travis-ci.org/pest-parser/pest)
 
-## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   The Changelog - [https://github.com/thechangelog/ping (⭐268)](https://github.com/thechangelog/ping)
+
+## [6. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Code Editors / HTML+CSS+JS
 
@@ -54,7 +60,7 @@
     *   [Vundle (⭐23k)](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
     *   [vimrc from amix (⭐28k)](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
-## [6. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
+## [7. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
 
 ### Tutorials
 
@@ -66,7 +72,7 @@
 *   [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - Comparision between the tracing systems inspectIT and Zipkin.
 *   [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - Introduction into inspectIT's cross-JVM tracing.
 
-## [7. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [8. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Internet and Networking
 
@@ -131,7 +137,7 @@
 *   [Valadoc](https://valadoc.org/) - Documentation about Vala.
 *   [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Parsing
 
@@ -146,7 +152,7 @@
 
 *   [swindon (java.util.zip wrapper) (⭐2)](https://github.com/AeroNotix/swindon)
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Date
 
@@ -156,7 +162,7 @@
 
 *   [FluxCapacitor (⭐123)](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
 
-## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [11. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [wavebell (⭐41)](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
 
-## [2. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Rishi Pithadiya (⭐0)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
+
+## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Use The Source / HTML+CSS+JS
 
@@ -41,7 +47,7 @@
 *   [Academicons](https://jpswalsh.github.io/academicons/)
 *   [Phylopic](http://phylopic.org/)
 
-## [3. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [4. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### REST API / Python
 
@@ -59,37 +65,37 @@
 
 *   [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
 *   [Arilux\_AL-LC0X (⭐196)](https://github.com/mertenats/Arilux_AL-LC0X) - This is an alternative firmware for Arilux LED controllers which uses MQTT.
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
 *   [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Projects
 
 *   [CloudWatch public metrics (⭐27)](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
 
-## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [Game Boy video effects (⭐5)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
 
-## [8. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [9. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies connects women with the best jobs and opportunities in tech.
 
-## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [10. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Misc
 
@@ -98,7 +104,7 @@
     *   [Assignments](https://cs50.github.io/games/assignments)
     *   [Lecture Videos](https://cs50.github.io/games/lectures)
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

@@ -23,6 +23,7 @@
 *   [Lorien (⭐3.4k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [Thundra Foresight](https://thundra.io/foresight)
 
   Description: A visibility tool into CI pipelines by spotting test failures in no time.

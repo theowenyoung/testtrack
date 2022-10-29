@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 25 - Mar 03, 2019
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -444,7 +444,17 @@
 
 *   [Express Gateway (⭐2.7k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these organizations anything!
+
+*   [Nikita Voloboev (⭐31)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+
+### Ask these people anything!
+
+*   [Fabio Spampinato (⭐3)](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
+
+## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Documents & Productivity
 
@@ -488,7 +498,7 @@
 
 
 
-## [43. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [44. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -502,19 +512,19 @@
 
 *   [Flume](https://flumeapp.com) - A beautiful Instagram experience for your Mac. The free version is good enough if you only want to do the browsing instead of posting.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [44. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [45. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Articles
 
 *   [Porting to console via Unity](https://do-games.com/blog/the-adventure-pals-console-tech-part1)
 
-## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [46. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudFormation
 
 *   [envato/stack\_master :fire::fire: (⭐276)](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 
-## [46. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [47. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Algorithms and Data Structures
 
@@ -522,7 +532,7 @@
 *   [Ke (⭐45)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
-## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [48. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -532,7 +542,7 @@
 
 *   [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 
-## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### API
 
@@ -542,13 +552,13 @@
 
 *   [Carbon (⭐1.2k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 
-## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [50. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [deno-using (⭐11)](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 
-## [50. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 

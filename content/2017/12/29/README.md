@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 29, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,32 +22,44 @@
 
 *   [flatbuffers (⭐11)](https://github.com/huntlabs/flatbuffers) - D Programming Language implementation of the google flatbuffers library.
 
-## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / United Kingdom 🇬🇧
+
+### Leeds
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/LukeB_UK" height="70px" width="70px" align="left" alt="" />
+
+**Luke Bonaccorsi**\
+Topics: Node, JavaScript, Automation\
+<https://twitter.com/LukeB_UK>
+
+## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Post-Mortem
 
 *   [Social Issues In Postmortems](https://medium.com/@allspaw/social-issues-in-postmortems-d48dde624d18)
 
-## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby on Rails
 
 *   [Top 53 Ruby on Rails Interview Questions & Answers](https://career.guru99.com/top-34-ruby-on-rail-interview-questions/)
 *   [10 Ruby on Rails interview questions and answers](https://www.upwork.com/i/interview-questions/ruby-on-rails/)
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
 *   [Parcel (⭐41k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Web Framework
 
 *   [Fulcro (⭐1.4k)](https://github.com/fulcrologic/fulcro)
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [8. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Documentation
 

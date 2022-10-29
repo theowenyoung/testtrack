@@ -13,6 +13,7 @@
 *   [Project Website](https://www.djangoproject.com/) - Official Django website.
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+
 ### [Isometric Contributions (⭐3.2k)](https://github.com/jasonlong/isometric-contributions) <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.

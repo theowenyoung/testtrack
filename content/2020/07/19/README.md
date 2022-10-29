@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2020
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,65 @@
 
 *   [Quizmaster (⭐127)](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [3. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Vue.js
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/bootstrapvue.webp">
+
+[**BootstrapVue**](https://discord.com/invite/j2Mtcny) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://bootstrap-vue.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/bootstrap-vue) \
+Notable Channels: `#general`, `#i-made-this` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/buefy.webp">
+
+[**Buefy**](https://discord.com/invite/ZkdFJMr) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://buefy.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/buefy) \
+Notable Channels: `#general`, `#need-help`, `#feature-request`, `#i-made-this` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gridsome.webp">
+
+[**Gridsome**](https://discord.com/invite/daeay6n) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://gridsome.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/gridsome) \
+Notable Channels: `#general`, `#help`, `#documentation`, `#showcase`, `#development`, `#starter-kits`, `#plugin-releases`, `#graphql`, `#vuejs`, `#platforms` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/nuxtjs.webp">
+
+[**Nuxt.js**](https://discord.com/invite/b3dvQ9b) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://nuxtjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/nuxt) \
+Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#middleware`, `#apollo`, `#plugins`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, français, español, 日本語, português, русский, italiano, 中文,
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/quasar_framework.webp">
+
+[**Quasar Framework**](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/quasarframework/quasar) \
+Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, Türkçe, español, 日本語, dansk, 한국어, português, polski, русский
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vue_land.webp">
+
+[**Vue Land**](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vue-land) \
+Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한국어, português, polski, русский
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vue_material.webp">
+
+[**Vue Material**](https://discord.com/invite/vuematerial) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vuematerial.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](http://github.com/vuematerial) \
+Notable Channels: `#general`, `#need-help`, `#bugs`, `#ideas`, `#i-made-this` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vuesax.webp">
+
+[**Vuesax**](https://discord.com/invite/2kHwpfe) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://lusaxweb.github.io/vuesax/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/lusaxweb/vuesax) \
+Notable Channels: `#i-made-this`, `#issues`, `#ideas`, `#ssr`, `#design`, `#discord-help`, `#bugs`, `#pull-requests`, `#responsive`, `#proposals` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/vuetify.webp">
+
+[**Vuetify**](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/vuetifyjs) \
+Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend` \
+Language: English, Deutsch, français, español, 日本語, 한국어, português, polski, русский
+
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
@@ -34,7 +92,7 @@
 *   [intermezzOS](http://intermezzos.github.io) A small teaching operating system in Rust. A book with some explanations is also included.
 *   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by @japaric — How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Code Generators
 
@@ -99,7 +157,7 @@
 
 *   [ActiveJ](https://activej.io) - Lightweight asynchronous framework built from the ground up for developing high-performance web applications.
 
-## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simultaneous Localization and Mapping / Visual
 

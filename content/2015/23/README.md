@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08 - Jun 14, 2015
 
-21 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -269,7 +269,17 @@
 
 *   [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
 
-## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [20. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [geojson-join (⭐34)](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
+
+### services
+
+*   [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
+
+## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -288,7 +298,7 @@
 
 *   [MaterialKit (⭐2.5k)](https://github.com/nghialv/MaterialKit) - Material design components.
 
-## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 

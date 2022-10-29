@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,6 +60,7 @@
     *   [SSheldon/rust-objc (⭐332)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Count unpacked number of objects and their disk consumption.
 
 ```sh
@@ -111,7 +112,13 @@ git gc --prune=now --aggressive
 
 *   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
-## [10. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [10. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Unbug Lee (⭐0)](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
+
+## [11. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### Image and Language / Question Answering
 

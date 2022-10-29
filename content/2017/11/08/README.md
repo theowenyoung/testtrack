@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,6 +97,28 @@
 ### Web Frameworks
 
 *   [websockets (⭐4.2k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+
+## [12. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Asia / Pakistan 🇵🇰
+
+### Tyre
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarasoueidan" height="70px" width="70px" align="left" alt="" />
+
+**Sara Soueidan**\
+Topics: Animations, CSS, SVG\
+<https://twitter.com/sarasoueidan>
+
+### Europe / United Kingdom 🇬🇧
+
+### Leighton Buzzard
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cjforms" height="70px" width="70px" align="left" alt="" />
+
+**Caroline Jarrett**\
+Topics: Forms Usability, User Research\
+<https://twitter.com/cjforms>
 
 ---
 

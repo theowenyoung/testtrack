@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09 - Mar 15, 2015
 
-22 awesome lists updated this week.
+23 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -133,7 +133,16 @@
 
 *   [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) \[22:05]
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [11. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+
+### Advanced
+
+#### [HackerRank](https://www.hackerrank.com/)
+
+**Free** programming challenges and contests\
+*(artificial intelligence, algorithms, functional programming, machine learning)*
+
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTTP
 
@@ -143,38 +152,38 @@
 
 *   [chinese\_translation (⭐88)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Architectural
 
 *   [Functional PHP (⭐1.9k)](https://github.com/lstrojny/functional-php) - A functional programming library.
 *   [Iter (⭐1.1k)](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 
-## [13. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [14. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Applications / Dojo 2
 
 *   [dapi (⭐12)](https://github.com/dojo/dapi) - node.js Dojo API viewer
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
 *   [SpriteKit+Spring (⭐242)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Web Servers
 
 *   [XSP (⭐197)](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
-## [16. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [17. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 
 *   [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/), by Philip Walton (3/3/15)
 
-## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [18. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### ViewPager
 
@@ -196,7 +205,7 @@
 
 
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
@@ -207,13 +216,13 @@
 *   [8cc (⭐5.7k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
-## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Resources / Web programming
 
 *   [Rust Guidelines](http://aturon.github.io/)
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -223,7 +232,7 @@
 
 *   [biz (⭐471)](https://github.com/zendesk/biz) - Time calculations using business hours.
 
-## [21. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Machine Learning / Nearest Neighbor Field Estimation
 
@@ -255,7 +264,7 @@
 *   [Transformed Self-Exemplars](https://sites.google.com/site/jbhuang0604/publications/struct_sr)
     *   Jia-Bin Huang, Abhishek Singh, and Narendra Ahuja, Single Image Super-Resolution using Transformed Self-Exemplars, IEEE Conference on Computer Vision and Pattern Recognition, 2015
 
-## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [23. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 

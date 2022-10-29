@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2015
 
-30 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,14 +31,20 @@
 
 *   [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly\&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184\&utm_medium=email\&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665\&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
 
-## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** \[36:00]
+
+## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
 ### Desktop Apps / [Wesnoth](https://github.com/wesnoth/wesnoth)
 
 *   GPLv2 License
 *   c, c++, lua
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Git Tools
 
@@ -79,25 +85,25 @@
 *   [SignalR (⭐8.8k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
 *   [SuperSocket (⭐3.4k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
-## [7. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [8. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Language Utilities
 
 *   [groovy-extra-list-behaviour (⭐2)](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Data Validation
 
 *   [clova (⭐14)](https://github.com/markwoodhall/clova)
 
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Community / Other
 
 *   [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 
-## [10. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [11. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### [CodeKata](http://codekata.com/)
 
@@ -156,46 +162,83 @@
 *   [Look and Say Sequence](https://en.wikipedia.org/wiki/Look-and-say_sequence)
 *   [AKS primality test](https://en.wikipedia.org/wiki/AKS_primality_test)
 
-## [11. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [12. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### C
 
 *   [Libslack](http://libslack.org/) -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, \&c.
 
-## [12. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [13. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Convenience Utilities / Others
 
 *   [promise-do-until (⭐1)](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 
-## [13. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [14. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Simple Android Keyboards (⭐8)](https://github.com/imaaronjames/Simple-Android-Keyboards) - Easily add a static Android Keyboard to your Framer Studio project with just one line of code.
 *   [Simple Android Toast (⭐3)](https://github.com/imaaronjames/Simple-Android-Toast) - Use this module to easily add Android toasts to your Framer Studio projects.
 
-## [14. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### SaaS Tools / Symfony2
 
 *   [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
 *   [Apigee](https://apigee.com) - Apigee is the leading provider of API technology and services for enterprises and developers.
 
-## [15. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [16. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Backoffice extensions
 
 *   [refinerycms-dynamicfields (⭐16)](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
 
-## [16. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [17. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
 *   IBM
     *   [IBM Design Language – Animation design guidelines](http://www.ibm.com/design/language/framework/animation/introduction)
 
-## [17. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [18. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Courses
+
+*   [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
+
+### Books
+
+*   [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
+*   [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
+*   [Planning Algorithms](http://planning.cs.uiuc.edu/)
+*   [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/\~murray/mlswiki/?title=First_edition)
+*   [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
+*   [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
+*   [INTECH Books](http://www.intechopen.com/subjects/robotics)
+
+### Papers
+
+*   [Optimization Based Controller Design and Implementation for the
+    Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/\~cga/drc/ICHR15_0025_MS.pdf)
+
+### Competitions
+
+*   [European Robotics Challenges](http://www.euroc-project.eu/)
+
+### Misc
+
+*   [Let's Make Robots](http://letsmakerobots.com/)
+*   [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
+
+### Related awesome lists
+
+*   [Awesome Artificial Intelligence (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence)
+*   [Awesome Computer Vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision)
+*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Attribution Required licenses
 
@@ -205,7 +248,7 @@
 
 *   [Maps Icon (⭐2.1k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.1k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 
-## [18. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [20. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Record Holders and Extremes / Breaking and Gluing other characters
 
@@ -217,27 +260,27 @@
     [U+006C](https://codepoints.net/U+006C) LATIN SMALL LETTER L with 70
     entries.
 
-## [19. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [21. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [The Inheritance Trilogy](https://en.wikipedia.org/wiki/The_Inheritance_Trilogy_\(N.K._Jemisin\))     *by [N.K. Jemisin](https://en.wikipedia.org/wiki/N._K._Jemisin)*
 
 *   [The Hundred Thousand Kingdoms](http://www.goodreads.com/book/show/6437061-the-hundred-thousand-kingdoms) \[4.2]
 
-## [20. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Veles - Samsung Distributed machine learning platform (⭐898)](https://github.com/Samsung/veles)
 *   [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework (⭐414)](https://github.com/PrincetonVision/marvin)
 
-## [21. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [23. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [pathpicker (⭐4.8k)](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 *   [qfc (⭐548)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 
-## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
@@ -250,7 +293,7 @@
 *   [gs-collections (⭐1.8k)](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
 *   [transducers-java (⭐117)](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 
-## [23. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [25. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### iBeacon for Developers
 
@@ -260,13 +303,13 @@
 
 *   [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [ggfortify (⭐502)](https://github.com/sinhrks/ggfortify) - Unified interface to ggplot2 popular R packages.
 
-## [25. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [27. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### Websites
 
@@ -287,7 +330,7 @@
 *   [Icons on flaticons](http://www.flaticon.com/search/chess)
 *   [Icons on thenounproject](https://thenounproject.com/search/?q=chess)
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Build Tools
 
@@ -339,20 +382,20 @@
 
 *   [sips\_downloader (⭐15)](https://github.com/DavsX/SipsDownloader) - Elixir module for downloading the ElixirSips episodes and all other files.
 
-## [27. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [29. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Videos
 
 *   [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) - Explanation on
     one of the most obscure topics of Functional Programming by Microsoft researcher Brian Beckman.
 
-## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Key Value Store
 
 *   [Zephyr (⭐833)](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
-## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [31. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -362,7 +405,7 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 

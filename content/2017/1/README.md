@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02 - Jan 08, 2017
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,6 +22,7 @@
 *   [perspective-view (⭐40)](https://github.com/mrrocks/perspective-view) - Module for FramerJS to enable a perspective view of your prototype.
 
 ## [3. Tips](/content/git-tips/tips/week/README.md)
+
 ## Get the repo name.
 
 ```sh
@@ -276,7 +277,13 @@ git rev-parse --show-toplevel
 
 *   [Fortran Machine (⭐783)](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Realtime Convertors / Ruby
+
+*   [NextBus API to GTFS-realtime (⭐15)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki) - A Java-based command-line utility to convert from the [NextBus API format](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) to GTFS-realtime.  Note that NextBus now directly offers a GTFS-realtime API for their products.  See [Cubic site](http://nextbus.cubic.com/Products/Real-Time-Rider-Information) and [this FAQ](https://medium.com/omnimodal/want-more-riders-open-up-your-nextbus-api-with-gtfs-realtime-7387c80f31e1#.pkuzizhl5).
+
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Chatting
 
@@ -294,26 +301,26 @@ git rev-parse --show-toplevel
 
 *   [chemistry (⭐6)](https://github.com/genericlady/chemistry) - Testing Framework for Elixir.
 
-## [29. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [30. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / XMPP / Jabber
 
 *   [Jabberjay (⭐36)](https://github.com/vbauer/jabberjay) (Clojure)
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 *   [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. \[Apache2]
 
-## [31. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [32. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [User Interfaces as Pure Functions of Time](https://www.youtube.com/watch?v=9BG0Y3C6WqM) - Lightning talk by [Thomas Belin](http://twitter.com/atomrc) at [dotjs 2016](http://dotjs.io/)
 
-## [32. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [33. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -323,7 +330,7 @@ git rev-parse --show-toplevel
 
 *   [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 
-## [33. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [34. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -333,7 +340,7 @@ git rev-parse --show-toplevel
 
 *   [WC-Loader (⭐100)](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 
-## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -347,7 +354,7 @@ git rev-parse --show-toplevel
 
 *   [Jil (⭐2.1k)](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
 
-## [35. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [36. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
@@ -365,13 +372,13 @@ git rev-parse --show-toplevel
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 *   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐7.3k)](https://github.com/bkimminich/juice-shop#docker-container--)
 
-## [36. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [37. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
 
-## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [38. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -402,7 +409,7 @@ git rev-parse --show-toplevel
 *   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 *   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 
-## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Static Site Generators
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 14 - Dec 20, 2020
 
-63 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -426,7 +426,13 @@
 *   [Getopts (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 *   [Fishtape (⭐310)](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
 
-## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Blog posts / Ruby
+
+*   ["How to use GTFS data to track transit vehicles in realtime" by Tom Camp](https://www.ably.io/blog/gtfs-data-track-transit-vehicles-realtime) - Using GTFS and GTFS Realtime to provide continuous realtime updates.
+
+## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / HTTP
 
@@ -444,38 +450,38 @@
 
 *   [nut.js (⭐1k)](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
-## [22. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [23. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [IconPark (⭐6.5k)](https://github.com/bytedance/IconPark#readme) - IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. ([Website](https://iconpark.bytedance.com))
 *   [Remix Icon (⭐4.9k)](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 
-## [23. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [Web.Dev](https://web.dev/measure/) — This is a free tool that allows you to see the performance of your website and improve the SEO to get higher rank list in search engines.
 
-## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [25. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### QA and Testing Road Map / Useful References
 
 *   [How to start QA and Testing career (⭐1.2k)](https://github.com/fityanos/Quality-Assurance-Road-Map) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
 
-## [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [PHP-ML](https://gitlab.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 
-## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### CSS / Angular
 
 *   [Tailwind Weekly](https://tailwindweekly.com/). Weekly newsletter about all things TailwindCSS.
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -489,7 +495,7 @@
 
 *   🚀 [Shopify Theme Lab (⭐622)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue and Tailwind CSS.
 
-## [28. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [29. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -506,7 +512,7 @@
 *   [Hexen: Beyond Heretic (⭐29)](https://github.com/OpenSourcedGames/Hexen) - Indirect sequel to Heretic.
     *   Original [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -516,19 +522,25 @@
 
 *   [How do you do Capacity Planning](https://jvns.ca/blog/2016/03/20/how-do-you-do-capacity-planning/)
 
-## [30. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [31. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Tools / Custom Time Series
 
 *   [Instaclustr Minotaur (⭐5)](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
 
-## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [32. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Best Practices
 
 *   [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
-## [32. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [33. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tutorials / React and TypeScript
+
+*   [React by Example](https://reactbyexample.github.io/)
+
+## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Databases
 
@@ -539,7 +551,7 @@
     *   [dokeysto (⭐11)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
         values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
 
-## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [35. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / SEO and SMO
 
@@ -549,19 +561,19 @@
 
 *   [Wagtail SVG (⭐29)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
-## [34. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [36. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [javascript-algorithms (⭐153k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
-## [35. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [37. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 
-## [36. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [38. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based projects / Not Linux
 
@@ -571,13 +583,13 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [37. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [39. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
 *   [Depix (⭐23k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
 
-## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [40. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Fuzzing
 
@@ -588,26 +600,26 @@
 *   [FireEye's Red Team Tool Countermeasures (⭐2.5k)](https://github.com/fireeye/red_team_tool_countermeasures) - Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.
 *   [YARA Rules (⭐3.3k)](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
 
-## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
 *   [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.
 
-## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Computer Vision
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
 *   [JavaCV (⭐6.2k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
-## [41. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [43. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tools / Editors
 
 *   [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
 
-## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [44. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Control packs
 
@@ -618,25 +630,25 @@
 *   [Keras4Delphi (⭐37)](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
 *   [TZDB (⭐70)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
-## [43. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [45. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
 *   [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 
-## [44. Guides](/content/NARKOZ/guides/week/README.md)
+## [46. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / CLI
 
 *   [Command Line Interface Guidelines](https://clig.dev/#guidelines)
 
-## [45. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [47. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -647,13 +659,13 @@
 
 *   [vue-context-composition (⭐17)](https://github.com/AlbertBrand/vue-context-composition) - share state created with the composition API between components, similar to `useContext` from React Hooks
 
-## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Timelane](http://timelane.tools) - Visually profile your asynchronous code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/icanzilb/Timelane) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [48. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [50. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Args
 
@@ -685,7 +697,7 @@
 
 *   [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
 
-## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [51. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -715,7 +727,7 @@
 
 
 
-## [50. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Legend
 
@@ -742,7 +754,7 @@
 *   [terrahub (⭐211)](https://github.com/TerraHubCorp/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
 *   [tfjson (⭐180)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
 
-## [51. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [53. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services
 
@@ -753,7 +765,7 @@
 *   [ipfs-pinner (⭐37)](https://github.com/wabarc/ipfs-pinner) - A toolkit help upload files to IPFS pinning services.
 *   [wbipfs (⭐2)](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 
-## [52. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [54. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Overview
 
@@ -1053,7 +1065,7 @@
 
 *   [cryptoanarchy.wiki](https://cryptoanarchy.wiki) - Cypherpunks overlaps with security. This wiki compiles information about the movement, its history and the people/events of note.
 
-## [53. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [55. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -1097,7 +1109,7 @@
 *   Make a change.
 *   Commit and push to your repo.
 
-## [54. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [56. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -1107,7 +1119,7 @@
 
 *   [DailyTxT (⭐76)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
 
-## [55. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [57. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Motivation / Happiness
 
@@ -1125,13 +1137,13 @@
 
 *   [How the Digg team was acquihired](https://lethain.com/digg-acquihire/) - Acqui-hire of a whole team can be seen as a type of reorg. In which managers will have to negotiate the new employment contracts in bulk in one or two days: “Because acquihires are “star” oriented, if you're a senior leaders who doesn't explicitly refuse to move forward, pressure will converge on you from all sides”.
 
-## [56. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [58. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Boilerplates
 
 *   [snowpack-cycle (⭐2)](https://github.com/rajasegar/snowpack-cycle) - Snowpack app template to create Cycle.js projects with create-snowpack-app
 
-## [57. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [59. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Cost Forecast / Market Research
 
@@ -1175,7 +1187,7 @@
 
 *   [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - Accounting paintings were a significant genre in Dutch art.
 
-## [58. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [60. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Meta
 
@@ -1255,13 +1267,13 @@
 
 *   [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - A complete reverse of the falsehoods format, on the topic of case (as in uppercase and lowercase text).
 
-## [59. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [61. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Getting Started with Service Accounts in Keycloak](https://medium.com/@mihirrajdixit/getting-started-with-service-accounts-in-keycloak-c8f6798a0675)
 
-## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [62. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -1283,7 +1295,7 @@
 
 *   [CamVox (⭐432)](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 
-## [61. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [63. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -1293,7 +1305,7 @@
 
 *   [celestine (⭐81)](https://github.com/celestinecr/celestine) - Create SVG images using a DSL
 
-## [62. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [64. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bots / Self-hosted
 
@@ -1304,7 +1316,7 @@
 
 *   [teleirc (⭐116)](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
 
-## [63. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [65. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Custom Scrollbar
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 24, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,39 +12,45 @@
 
 *   [lambda-refarch-fileprocessing :fire::fire: (⭐436)](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** \[43:39]
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-tour (⭐2.1k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
-## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Blogs
 
 *   [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 *   [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 
-## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Blogs / Bare metal / kernel development
 
 *   [blog.dlang.org](https://dlang.org/blog/) - Official blog.
 
-## [5. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Apps
 
 *   [waveform-playlist (⭐1.2k)](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   Stocks
     *   [Trady (⭐499)](https://github.com/lppkarl/Trady) - Handy library for computing technical indicators, and it targets to be an automated trading system that provides stock data feeding, indicator computing, strategy building and automatic trading.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Git Tools
 

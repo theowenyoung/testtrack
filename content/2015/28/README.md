@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13 - Jul 19, 2015
 
-22 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,7 +102,36 @@
 
 *   [YCSB (⭐4.3k)](https://github.com/brianfrankcooper/YCSB) - The Yahoo! Cloud Serving Benchmark (YCSB) is an open-source specification and program suite for evaluating retrieval and maintenance capabilities of computer programs. It is often used to compare relative performance of NoSQL database management systems.
 
-## [14. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [14. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Simon Boudrias (⭐2)](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
+*   [Reza Akhavan (⭐3)](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
+*   [Wes Bos (⭐283)](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+*   [Anselm Hannemann (⭐8)](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
+*   [Blain Smith](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
+*   [Lewis Cowper (⭐5)](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
+*   [Blake Winton](https://github.com/bwinton/ama) - UX Engineer for Mozilla Firefox, and the author of Whimsy.
+*   [Darrin Henein (⭐4)](https://github.com/darrinhenein/ama) - Design Lead for Firefox Mobile at Mozilla, creator of Lastronaut.
+*   [Cassie McDaniel (⭐3)](https://github.com/cassiemc/ama) - Design Director for Mozilla Foundation, cofounder of Women&\&Tech, speaker and writer.
+*   [Maxime Euzière (⭐5)](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
+*   [Lim Chee Aun (⭐11)](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
+*   [Darcy Clarke (⭐2)](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
+*   [Vishnu Ks (⭐2)](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
+*   [Nick Desaulniers (⭐0)](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
+*   [Mikola Lysenko (⭐8)](https://github.com/mikolalysenko/ama) - Geometry vagrant.
+*   [Drew Minns (⭐0)](https://github.com/drewminns/ama) - Designer/Developer and Educator. Lead Developer and Instructor with [HackerYou](http://hackeryou.com).
+*   [Heather Payne (⭐1)](https://github.com/heatherpayne/ama) - CEO of [HackerYou](http://hackeryou.com), founder of [Ladies Learning Code](http://ladieslearningcode.com).
+*   [Ryan Christiani (⭐0)](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at [HackerYou](http://hackeryou.com) in Toronto.
+*   [Ahmad Nassri](https://github.com/ahmadnassri/ama) - Head of Engineering at [Mashape](https://www.mashape.com). Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
+*   [Patty Delgado (⭐0)](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
+*   [Nicholas C. Zakas (⭐14)](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
+*   [Lance He (⭐0)](https://github.com/indigofeather/ama) - Full stack developer and speaker.
+*   [Derick Bailey (⭐2)](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
+*   [Andy Jiang (⭐1)](https://github.com/lambtron/ama/) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).
+
+## [15. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Open Source / Eclipse
 
@@ -120,13 +149,13 @@
 *   [dropwizard-user](https://groups.google.com/forum/#!forum/dropwizard-user)
 *   [`@dropwizardio` on twitter](https://twitter.com/dropwizardio)
 
-## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
 
-## [16. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [17. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Android Development
 
@@ -175,7 +204,7 @@
 *   [Web Starter Kit (⭐18k)](https://github.com/google/web-starter-kit) Web starter kit by Google.
 *   [OSWD](http://www.oswd.org/) Platform for sharing standards-compliant free web design templates
 
-## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [18. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Introduction to CS
 
@@ -184,7 +213,7 @@
     *   [Lecture Videos](https://www.youtube.com/course?category=University%2FEngineering%2FComputer%2520Science%2FProgramming%2520Languages\&list=EC6D76F0C99A731667)
     *   [Assignments and Notes](http://berkeley-cs61as.github.io/textbook.html)
 
-## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [19. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
@@ -195,7 +224,7 @@
 
 *   [Fluent.Ribbon (⭐2.1k)](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 
-## [19. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [20. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### GLSL Editors
 
@@ -210,13 +239,13 @@
 *   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 *   [awesome-computer-vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 
-## [20. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
 *   [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 
-## [21. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [22. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -235,12 +264,46 @@
 
 
 
-## [22. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [23. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2015
 
 *   [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) \[19:17]
 *   [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) \[14:15]
+
+## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / L companies
+
+*   Laterooms <http://engineering.laterooms.com/>
+
+### Companies / S companies
+
+*   Speedledger <http://engineering.speedledger.com/>
+
+### Companies / T companies
+
+*   Transferwise <http://tech.transferwise.com/>
+
+### Companies / W companies
+
+*   Wingify <http://engineering.wingify.com/>
+
+### Individuals/Group Contributors / A individuals
+
+*   Aaron Patterson <http://tenderlovemaking.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jessie Frazelle <https://blog.jessfraz.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Mike Fogus <http://blog.fogus.me/>
+
+### Individuals/Group Contributors / T individuals
+
+*   That Thing In Swift <https://thatthinginswift.com/>
 
 ---
 

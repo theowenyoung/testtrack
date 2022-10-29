@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 23, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,7 +20,13 @@
 *   [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
 *   [Social Networking Kata (⭐33)](https://github.com/sandromancuso/social_networking_kata)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Libraries / Python
+
+*   [partridge (⭐122)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -31,13 +37,13 @@
 
 *   [vue-inputmask (⭐117)](https://github.com/scleriot/vue-inputmask) - Vue.js directive to add Robin Herbots' inputmask library to your inputs (vanilla javascript).
 
-## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Build And Release System
 
 *   [PHP Censor (⭐659)](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.
 
-## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 

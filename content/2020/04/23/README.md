@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,7 +36,17 @@
 
 *   [Brightspace UI core (⭐38)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 
-## [6. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [6. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Lisp
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/lisp.webp">
+
+[**Lisp**](https://discord.com/invite/hhk46CE) \
+Notable Channels: `#clojure`, `#common-lisp`, `#emacs-lisp`, `#racket`, `#scheme`, `#lisp-gamedev`, `#beginner-questions`, `#algorithms`, `#compiler-theory`\
+Language: English
+
+## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -48,13 +58,13 @@
 
 
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
 *   [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -84,31 +94,31 @@
 
 
 
-## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### PDF
 
 *   [Eclipse BIRT](https://www.eclipse.org/birt) - Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Feed Readers
 
 *   [Newspipe](https://git.sr.ht/\~cedric/newspipe) - Newspipe is a web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`
 
-## [11. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Data Structures and Algorithms
 
 *   [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/) - A type of priority queue and a reference to the infamously unorganized queues in Israel. Here items can *cut in line* when they *have already waiting friends*.
 
-## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [13. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Data
 
 *   [mongo-connector (⭐1.9k)](https://github.com/yougov/mongo-connector) - Streaming replication to Elasticsearch, Solr, or MongoDB
 
-## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
@@ -129,7 +139,7 @@
 
 *   iOS RSS Reader: Prime ([Group](https://t.me/meiyiumingzi))
 
-## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 

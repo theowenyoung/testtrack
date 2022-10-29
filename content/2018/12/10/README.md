@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,20 +26,110 @@
 
 *   [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 
-## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### North America / United States of America 🇺🇸
+
+### New York City
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/andrey_sitnik" height="70px" width="70px" align="left" alt="">
+
+**Andrey Sitnik**\
+Topics: PostCSS, CRDT\
+<https://twitter.com/sitnikcode>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swannodette" height="70px" width="70px" align="left" alt="" />
+
+**David Nolen**\
+Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science\
+<https://twitter.com/swannodette>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/broccolini" height="70px" width="70px" align="left" alt="" />
+
+**Diana Mounter**\
+Topics: Design Systems, CSS, Product Design\
+<https://twitter.com/broccolini>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/left_pad" height="70px" width="70px" align="left" alt="" />
+
+**Henry Zhu**\
+Topics: Open Source, Babel\
+<https://twitter.com/left_pad>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jaredpalmer" height="70px" width="70px" align="left" alt="">
+
+**Jared Palmer**\
+Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS\
+<https://twitter.com/jaredpalmer>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jensimmons" height="70px" width="70px" align="left" alt="" />
+
+**Jen Simmons**\
+Topics: Design, CSS, HTML, Web\
+<https://twitter.com/jensimmons>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joe_sepi" height="70px" width="70px" align="left" alt="" />
+
+**Joe Sepi**\
+Topics: Open Source, Community, Node.js, JavaScript\
+<https://twitter.com/joe_sepi>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kurtiskemple" height="70px" width="70px" align="left" alt="" />
+
+**Kurtis Kemple**\
+Topics: React, React Native, GraphQL, Universal Components\
+<https://twitter.com/kurtiskemple>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="" />
+
+**Lara Hogan**\
+Topics: Design, Performance, Engineering Management, Public Speaking\
+<https://twitter.com/lara_hogan>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kosamari" height="70px" width="70px" align="left" alt="" />
+
+**Mariko Kosaka**\
+Topics: HTML, CSS, JavaScript, Web\
+<https://twitter.com/kosamari>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/peggyrayzis" height="70px" width="70px" align="left" alt="" />
+
+**Peggy Rayzis**\
+Topics: React, React Native, GraphQL\
+<https://twitter.com/peggyrayzis>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/swyx" height="70px" width="70px" align="left" alt="" />
+
+**Shawn Wang**\
+Topics: React, Serverless, JAMstack\
+<https://twitter.com/swyx>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/una" height="70px" width="70px" align="left" alt="">
+
+**Una Kravets**\
+Topics: CSS, Web\
+<https://twitter.com/una>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bitandbang" height="70px" width="70px" align="left" alt="">
+
+**Tierney Cyren**\
+Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
+<https://twitter.com/bitandbang>
+
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
 *   [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 
-## [4. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Journals / Others
 
 *   [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
 *   [Journal of Chemical Information and Modeling (ACS Publications)](https://pubs.acs.org/journal/jcisd8)
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -49,14 +139,14 @@
 
 *   [PreMailer.Net (⭐574)](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
-## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Packagist Mirrors / IRC
 
 *   Africa
     *   South Africa - [packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/README.md/packagist.co.za)
 
-## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Browser Extensions
 
@@ -137,13 +227,13 @@
 *   [F-Droid](https://f-droid.org/fr/) An installable catalogue of FOSS (Free and Open Source Software) Android applications
 *   [Yalp Store (⭐2.2k)](https://github.com/yeriomin/YalpStore) Download apks from Google Play Store
 
-## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Talks
 
 *   [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo\&t=387s) - Inspiring talk by Zach Lieberman.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 

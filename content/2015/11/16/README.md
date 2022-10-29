@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 16, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,7 +40,70 @@
 *   [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
 *   [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
-## [2. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / B companies
+
+*   Bandcamp <https://bandcamptech.wordpress.com/>
+*   BenefitFocus <https://www.benefitfocus.com/blogs/design-engineering>
+*   Bigcommerce <http://www.bigeng.io/>
+
+### Companies / C companies
+
+*   Cloudflare <https://blog.cloudflare.com/>
+
+### Companies / E companies
+
+*   eFounders <https://medium.com/unexpected-token>
+
+### Companies / F companies
+
+*   Future Processing <https://www.future-processing.pl/technical-blog/>
+
+### Companies / G companies
+
+*   Guardian <https://www.theguardian.com/info/developer-blog>
+
+### Companies / I companies
+
+*   Indeed <http://engineering.indeedblog.com/blog/>
+
+### Companies / L companies
+
+*   LiveChat <https://developers.livechatinc.com/blog/>
+
+### Companies / M companies
+
+*   Medium <https://medium.com/medium-eng>
+*   Mixpanel <https://code.mixpanel.com/>
+
+### Companies / R companies
+
+*   Redino <http://redino.net/blog/>
+*   RisingStack <https://blog.risingstack.com/>
+
+### Companies / T companies
+
+*   ThoughtWorks <https://www.thoughtworks.com/insights>
+
+### Companies / Z companies
+
+*   Zynga <https://www.zynga.com/blogs/engineering>
+
+### Individuals/Group Contributors / D individuals
+
+*   David Walsh <https://davidwalsh.name/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Evan Miller <http://www.evanmiller.org/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Real Python <https://realpython.com/blog/>
+*   Rudy Huyn <http://www.rudyhuyn.com/blog/>
+
+## [3. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Websites / OpenOffice
 
@@ -50,13 +113,13 @@
 
 *   [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 
-## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
 *   [debug-menu (⭐133)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
-## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Payments
 
@@ -82,25 +145,25 @@
 
 *   [Laravel China](https://phphub.org/)
 
-## [5. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Problem Child (⭐48)](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 
-## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [7. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### REST API / Other
 
 *   [neo4j-elasticsearch (⭐200)](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Third-party APIs
 
 *   [Slack Notifier (⭐1.5k)](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
-## [8. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [9. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### HTTP
 

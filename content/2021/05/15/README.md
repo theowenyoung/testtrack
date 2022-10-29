@@ -135,7 +135,6 @@
 *   [cypressious/KotlinW (⭐18)](https://github.com/cypressious/KotlinW) - A small wrapper for the Kotlin compiler that can be used to execute .kts scripts.
 *   [mkohm/detekt-hint (⭐68)](https://github.com/mkohm/detekt-hint) - Detection of design principle violations as a plugin to detekt.
 *   [s1monw1/KtsRunner (⭐192)](https://github.com/s1monw1/KtsRunner) - Library for executing .kts files from regular Kotlin code using Java Scripting Engines API
-*   [facebookincubator/ktfmt (⭐469)](https://github.com/facebookincubator/ktfmt) - Kotlin code formatter that reflows lines and always produces the same result.
 *   [jtransc/jtransc (⭐613)](https://github.com/jtransc/jtransc) - JVM AOT compiler created in Kotlin.
 *   [jmfayard/refreshVersions (⭐1.4k)](https://github.com/jmfayard/refreshVersions) - Better Gradle dependencies management inside the IDE. Search for available updates.
 *   [holgerbrandl/kscript (⭐1.8k)](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin.

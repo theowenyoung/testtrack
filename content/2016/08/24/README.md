@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2016
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -83,25 +83,41 @@
 
 *   [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail
 
-## [8. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
+## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** \[1:06:43]
+
+### Object-Oriented Programming
+
+*   [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** \[54:17]
+
+## [9. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
 ### Miscellaneous / Ruby
 
 *   [How to become a Hacker?](http://www.catb.org/\~esr/faqs/hacker-howto.html)
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
 *   [Aeron.NET (⭐426)](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
 *   [TypeShape (⭐262)](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [DotLoader (⭐136)](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 *   [PodSlider (⭐135)](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
+
+## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / Z companies
+
+*   ZeeMee <https://zeemee.engineering/>
 
 ---
 

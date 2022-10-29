@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 04, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -139,19 +139,29 @@
 *   [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
 *   [Web Starter Kit (⭐18k)](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / D companies
+
+*   DoorDash <https://blog.doordash.com/tagged/engineering>
+
+### Companies / S companies
+
+*   Serverless <https://serverless.com/blog/>
+
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [pose (⭐991)](https://github.com/tonerdo/pose) - Replace any .NET method (including static and non-virtual) with a delegate
 
-## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [8. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### DApp directories / Services
 
 *   [EOSindex](https://eosindex.io/)
 
-## [8. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Resources / Groups
 
@@ -161,13 +171,13 @@
 
 *   [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 
-## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Debugging Tools / ORM
 
 *   [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Database Drivers
 

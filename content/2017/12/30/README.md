@@ -1,30 +1,40 @@
 # Awesome List Updates on Dec 30, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** \[33:05]
+
+### Cryptocurrencies
+
+*   [Delivering Liberty, at Scale](https://www.youtube.com/watch?v=AecPrwqjbGw) by **Andreas Antonopoulos** \[30:15]
+
+## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Libraries / Drivers
 
 *   [helmoski/cycle-selection-driver (⭐4)](https://github.com/helmoski/cycle-selection-driver) - A Cycle.js driver for interacting with the [Selection API](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
 
-## [2. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [3. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
 *   [Preact Feather Icons (⭐30)](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact.
 
-## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [4. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Alternatives / Reference
 
 *   [Weather.gov](http://www.weather.gov/) - Weather reports for places in the United States.
 
-## [4. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 
@@ -34,7 +44,7 @@
 
 
 
-## [5. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
+## [6. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
 ### Calculator apps: / Android
 
@@ -77,7 +87,7 @@
 *   [Calculator.js](https://material-calculator.netlify.com/) - Open-Source, web calculator with beautiful Google Material Design interface.
 *   [Notepad Calculator](http://notepadcalculator.com/) - Calculator with user-friendly, unique notepad interface.
 
-## [6. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [7. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### PlaygroundBooks
 
@@ -87,7 +97,7 @@
 
 *   [Astronomy (⭐24)](https://github.com/cl7/Astronomy) - A 3D earth model written in swift playground using SceneKit.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -102,7 +112,7 @@
 *   `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-sa/3.0/)
 *   `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

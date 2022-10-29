@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2019
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -21,13 +21,26 @@
 
 *   [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 
-## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [3. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Beginner
+
+#### [Programming Historian](https://programminghistorian.org/en/lessons/)
+
+**Free** Peer reviewed introductory courses for digital humanists.\
+*(Python, R, Unity, QGIS, HTML, Regular Expressions)*
+#### [Software Carpentry](https://software-carpentry.org/lessons/)
+
+**Free** Foundational coding and data science skills for researchers.\
+*(Python, R, OpenRefine, Unix Shell, Git)*
+
+## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 
 *   [SmoothOverscrollableScrollView (⭐27)](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
 
-## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [5. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 

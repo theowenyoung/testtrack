@@ -1,18 +1,32 @@
 # Awesome List Updates on Oct 16, 2019
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
+
+> TZAAR is the second game in the GIPF series of abstract strategy games. Each player has types of pieces (6 tzaars, 9 tzarras, and 15 totts). Players take turns trying to capture opponent's pieces or stacking their pieces. Stacking pieces makes them stronger but reduces the number of pieces the player has on the board. Players lose if they cannot capture their opponent's piece or they do not have at least one type of each piece on the board.
+
+![TZAAR image](https://cf.geekdo-images.com/83RmBw8qTkDJo7qC-YY8og__itemrep/img/MsIQXw5i3XfQPNqcsKM56bPS-So=/fit-in/246x300/filters:strip_icc\(\)/pic3607816.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       13 | 30-60m |
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
 *   [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
 
-## [2. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -27,7 +41,13 @@
 
 *   [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 
-## [3. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+## [4. Tools](/content/lvwzhen/tools/README.md)
+
+### Font
+
+*   [Adobe Fonts](https://fonts.adobe.com/)
+
+## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ### Books / Algorithms and Data structures
 
@@ -37,7 +57,7 @@
 
 *   [Firecode](https://www.firecode.io/) - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
 
-## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Open Source / Casual
 
@@ -47,19 +67,19 @@
 
 *   [BGUG (⭐84)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
-## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
 *   [GitHub Actions for Android (⭐156)](https://github.com/Malinskiy/action-android)
 
-## [6. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [8. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Databases
 
 *   [SQLite4S (⭐29)](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
 
-## [7. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
@@ -71,19 +91,19 @@
 
 *   [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
 
-## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### MOOCs
 
 *   [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/) - Explanations through problems. Curated along with Microsoft and Alphabet X.
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### ORM / Database / Datamapping
 
 *   [Fetchable plugin (⭐0)](https://github.com/riesenia/cakephp-fetchable) - Behavior for fetching entities from cache / memory.
 
-## [10. Awesome Math](/content/rossant/awesome-math/README.md)
+## [12. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Algebra / Galois Theory
 

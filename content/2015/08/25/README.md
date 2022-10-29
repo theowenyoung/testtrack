@@ -1,18 +1,34 @@
 # Awesome List Updates on Aug 25, 2015
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [1. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Visualization
+
+#### R Graphics Cookbook [\[Amazon\]](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956)
+
+<img src="http://ecx.images-amazon.com/images/I/51gjgnl23VL._AA160_.jpg" width="200px"/>
+
+This practical guide provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
+
+Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
+
+Your contributions are always welcome and greately appreciated, just follow [the rules (⭐190)](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+## [2. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Utils / Third Party
 
 *   [d3.svg.ribbon (⭐22)](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
 
-## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Newsletter
 
@@ -23,7 +39,8 @@
 
 *   [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
 
-## [3. Tips](/content/git-tips/tips/README.md)
+## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Prunes references to remove branches that have been deleted in the remote.
 
 ```sh
@@ -36,20 +53,20 @@ git fetch -p
 git remote prune origin
 ```
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Mobile Development
 
 *   [dryrun (⭐3.8k)](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
 *   [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
 
-## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Nix tools
 
 *   [perf-tools (⭐8.7k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace.
 
-## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [7. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -61,7 +78,7 @@ git remote prune origin
 *   [HtmlViewer (⭐331)](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
     // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
-## [7. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
+## [8. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
 
 ### [git-extras](https://github.com/tj/git-extras)
 
@@ -415,13 +432,19 @@ git remote prune origin
 
 To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.
 
-## [8. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [9. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Resources / Twitter
 
 *   [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / H individuals
+
+*   Huon Wilson <http://huonw.github.io/>
+
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
@@ -431,13 +454,13 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components
 
 *   [raygun (⭐18)](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
 
-## [11. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [13. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Templates
 

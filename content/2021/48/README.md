@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29 - Dec 05, 2021
 
-48 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,22 @@
 *   [SLI Deep Dive](https://medium.com/site-reliability-engineering-leadership/sli-deep-dive-cae92bd90a79)
 *   [Measuring Reliability in GCP: Step By Step SLO creation guide using Cloud Operation Sandbox](https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f)
 
-## [5. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [5. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### conversion
+
+*   **OpenStreetMap**
+    *   [osmtogeojson (⭐575)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
+    *   [osm2geojson](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
+    *   [geojsontoosm (⭐13)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+    *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
+    *   [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
+    *   [query-overpass (⭐138)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐575)](https://github.com/tyrasd/osmtogeojson)
+
+## [6. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Pre-Literate
 
@@ -56,13 +71,13 @@
 
 *   [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### FreshRSS / Outline Processor Markup Language
 
 *   <https://rss.rssforever.com/> by [思有云 - IOIOX](https://www.ioiox.com/) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frss.rssforever.com%2F)
 
-## [7. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Science & Math
 
@@ -92,7 +107,7 @@
 
 
 
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Time Series / NLP
 
@@ -106,7 +121,7 @@
 *   [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 *   [maya (⭐3.4k)](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
 
-## [9. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [10. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Tools you'll need / If you prefer local installation
 
@@ -151,7 +166,7 @@
 *   [*Time Series Forecasting with Bayesian Modeling by Michael Grogan*](https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling), a 5-project series - paid but the first project is free.
 *   [Bayesian Modelling in Python (⭐2.4k)](https://github.com/markdregan/Bayesian-Modelling-in-Python). Uses [PyMC (⭐7.1k)](https://github.com/pymc-devs/pymc) as well.
 
-## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Health
 
@@ -161,7 +176,7 @@
 
 *   [Automated Decision-Making and the Law Clearinghouse Project](https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/) - The aim of this clearinghouse project thus is to highlight seminal and impactful articles focused on issues of AI Decision-Making and the law.
 
-## [11. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [12. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Datasets / Chemical Perturbations
 
@@ -212,14 +227,14 @@
 *   [CytoGAN: Generative Modeling of Cell Images](https://doi.org/10.1101/227645) - Generative network displaying potential for learning latent representation of biological conditions from cell images.
 *   [Self-supervised feature extraction from image time series in plant phenotyping using triplet networks](https://doi.org/https://doi.org/10.1093/bioinformatics/btaa905) - Direct extraction of phenotypic features from plant images.
 
-## [12. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   ITU Measuring digital development: Contains a snapshot of the most important ICT indicators, including estimates for the current year. ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf))
 *   Network Readiness Index - ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf))([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
@@ -246,32 +261,38 @@
 
 *   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java`
 
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Forms / Image Picker
 
 *   [Form Builder (⭐1.2k)](https://github.com/danvick/flutter_form_builder) <!--stargazers:danvick/flutter_form_builder--> - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by [Danvick Miller](https://github.com/danvick)
 *   [Reactive Forms (⭐327)](https://github.com/joanpablo/reactive_forms) <!--stargazers:joanpablo/reactive_forms--> - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.
 
-## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
 
-## [16. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [17. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Linters
 
 *   [flake8-type-checking (⭐58)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
-## [17. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [18. Tools](/content/lvwzhen/tools/week/README.md)
+
+### UI Builders
+
+*   [Windframe](https://www.devwares.com/windframe/)
+
+## [19. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Global
 
 *   [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - Book search engine for finding hundreds of millions of media in catalogs worldwide.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Functional Programming
 
@@ -279,19 +300,19 @@
     *   [JasonShin/fp-core.rs (⭐1.1k)](https://github.com/JasonShin/fp-core.rs) — A library for functional programming in Rust
     *   [myrrlyn/tap (⭐201)](https://github.com/myrrlyn/tap) - Suffix-Position Pipeline Behavior
 
-## [19. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tutorials
 
 *   [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 
-## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
 *   [ts-codec (⭐8)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 
-## [21. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -305,7 +326,7 @@
 
 *   [vite-plugin-svelte (⭐563)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
-## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -324,13 +345,13 @@
 
 *   [ethanholz/nvim-lastplace (⭐167)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 
-## [23. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [25. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼🌍 [Inspect Flow](https://inspectflow.io) - The complete developer tool for Tailwind CSS.
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -348,7 +369,7 @@
 
 *   [FlatSharp (⭐288)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
-## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [27. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Databases & Spreadsheets
 
@@ -358,7 +379,7 @@
 
 *   [swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
-## [26. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [28. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C++ / More
 
@@ -368,31 +389,31 @@
 
 *   [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
-## [27. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [29. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Generation
 
 *   [captcha-api](https://captcha-api.akshit.me) - Free, fast and reliable Captcha API POWERED BY AI
 
-## [28. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [30. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [SVT Encore (⭐219)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
 
-## [29. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [31. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Nano Stores (⭐2k)](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager with many atomic tree-shakable stores.
 
-## [30. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [32. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### UI Animation / Syntax Highlight
 
 *   [react-voodoo (⭐10)](https://github.com/react-voodoo/react-voodoo) - [demo/samples (⭐3)](https://github.com/react-voodoo/react-voodoo-samples) - Additive animation engine allowing complex android/iOs-like animations, rendering sliders on SSR, predictive inertia, multitouch, etc
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Testing
 
@@ -421,13 +442,13 @@
 *   [scrnshts](https://scrnshts.club/) - \[Mobile screenshots] A hand-picked collection of the finest app store design screenshots.
 *   [UI Garage](https://uigarage.net/) - \[Mobile and web screenshots] Daily UI inspiration & patterns for designers, developers to find inspiration, tools and the best resources for your project.
 
-## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [34. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Blogs
 
 *   [Quantumfy](https://quantumfyed.com/) - Snippets on the latest quantum computing news and quantum infographics.
 
-## [33. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [35. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / Angular
 
@@ -437,7 +458,7 @@
 
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 
-## [34. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [36. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Notebooks and IDEs
 
@@ -460,7 +481,7 @@
 
 *   [Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark](https://cs.stanford.edu/\~matei/papers/2018/sigmod_structured_streaming.pdf) - Structured Streaming is a new high-level streaming API, it is a declarative API based on automatically incrementalizing a static relational query.
 
-## [35. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [37. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra from Relational / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -489,13 +510,13 @@
 
 *   [Working with .NET and Cassandra/DataStax Enterprise](https://www.youtube.com/watch?v=7W1tOmfREnw) - Getting a C# .NET core application started to work against a Cassandra or DSE database.
 
-## [36. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [38. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Board
 
 *   Omnichess - [Web](https://www.omnichess.club), [Android](https://play.google.com/store/apps/details?id=club.omnichess), [iOS](https://apps.apple.com/us/app/omnichess/id1593756511) - Create and play your own Chess variants! 2-8 players. Online/AI. Square/Hexagonal tiled boards. By [Chirag Patel](https://github.com/orgs/Omnimind-Ltd)
 
-## [37. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [39. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Command-Line Productivity
 
@@ -507,7 +528,7 @@
 *   [bashly (⭐1.3k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 *   [bash-modules (⭐94)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
-## [38. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [40. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Code
 
@@ -523,13 +544,13 @@
 *   Fork [this repository (⭐489)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
-## [39. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [41. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
 *   [CertiGraph (⭐10)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 
-## [40. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -543,7 +564,7 @@
 
 *   [spolnik/JAlgoArena (⭐35)](https://github.com/spolnik/JAlgoArena) - JAlgoArena is a highly scalable programming contest platform which you can host on own infrastructure. It allows to define new problems and solve them in Kotlin and Java.
 
-## [41. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [43. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Video Collections
 
@@ -554,7 +575,7 @@
 
 *   [GlobalAppTesting engineering](https://gat.engineering) - GlobalAppTesting's engineering blog with materials on practical DDD and CQRS.
 
-## [42. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [44. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Community
 
@@ -564,13 +585,13 @@
 
 *   [webpack-target-webextension (⭐33)](https://github.com/awesome-webextension/webpack-target-webextension) - Adds code-splitting support to WebExtensions build with Webpack.
 
-## [43. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [45. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [imbalanced-ensemble (⭐152)](https://github.com/ZhiningLiu1998/imbalanced-ensemble) - Python toolbox for quick implementation, modification, evaluation, and visualization of ensemble learning algorithms for class-imbalanced data. Supports out-of-the-box multi-class imbalanced (long-tailed) classification.
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -587,13 +608,13 @@
 
 *   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐7)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
-## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [47. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 
 *   [Playwright (⭐44k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
-## [46. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [48. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Backoffice extensions
 
@@ -615,7 +636,7 @@
 
 *   [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - Fast and easy way to setup search for your website.
 
-## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -630,7 +651,7 @@
 *   [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/keepassxreboot/keepassxc) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/strongbox-password-safe/Strongbox) [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/strongbox/id1270075435?mt=12)
 
-## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Harvard / Commonsense Knowledgebase
 

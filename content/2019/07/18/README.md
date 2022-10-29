@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2019
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [ant-design-dark-theme (⭐470)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
 *   [ant-dark-theme (⭐14)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### SIRI / Ruby
+
+*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+
+## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Reference
 
@@ -92,32 +98,38 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Security
 
 *   [StopSpam plugin (⭐1)](https://github.com/mirko-pagliai/cakephp-stop-spam) - A plugin that allows you to check if a username, email address or IP address has been reported as a spammer.
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [10. Tools](/content/lvwzhen/tools/README.md)
+
+### Image compression
+
+*   [Compress-Or-Die](https://compress-or-die.com/)
+
+## [11. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [Minerva (⭐25)](https://github.com/bdchain/Minerva) - Minerva is a storage plugin of Apache Drill that connects IPFS's decentralized storage and Drill's flexible query engine.
 *   [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source (⭐6)](https://github.com/smwa/wistfulbooks)
 
-## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [12. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Similar libraries / Other Tools
 
 *   [htm (⭐7.9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Ecosystem / Tools
 
 *   [web-component-analyzer (⭐402)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [14. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -142,13 +154,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Command Line Tools
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -64,13 +64,19 @@
 
 *   [vue-pdf-embed (⭐136)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### CSS
+
+*   [Tronic247 Material](https://www.tronic247.com/material/) - A material design framework based on jQuery and CSS
+
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
 *   [Urban & Regional Planning (⭐113)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 
-## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Assembly / Tools
 
@@ -82,26 +88,26 @@
 *   **[Prokka (⭐598)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
 *   **[Bakta (⭐225)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
-## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
 *   [pico8-deploy (⭐17)](https://github.com/tducasse/pico8-deploy) - An easy way to export and deploy PICO-8 projects to itch.io
 
-## [12. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [13. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Misc / Other / unknown licence
 
 *   [septum (⭐348)](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Rich Text Editor
 
 *   [react-codemirror (⭐597)](https://github.com/uiwjs/react-codemirror) - [demo](https://uiwjs.github.io/react-codemirror/) - CodeMirror component for React.
 *   [react-monacoeditor (⭐192)](https://github.com/jaywcjlove/react-monacoeditor) - Monaco Editor component for React.
 
-## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [15. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 

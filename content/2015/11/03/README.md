@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,14 @@
 
 *   [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 
-## [7. Tips](/content/git-tips/tips/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Dragan Gaic <http://www.gajotres.net/>
+
+## [8. Tips](/content/git-tips/tips/README.md)
+
 ## Show the most recent tag on the current branch.
 
 ```sh

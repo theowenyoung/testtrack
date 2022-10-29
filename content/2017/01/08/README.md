@@ -28,6 +28,7 @@
 *   [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) - Tutorials Point set of article to get you familiar with WebGL terms.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Get the repo name.
 
 ```sh

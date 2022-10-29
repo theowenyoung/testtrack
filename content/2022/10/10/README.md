@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2022
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,13 +27,27 @@
 
 *   [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server side applications. Use our hosted API, deploy to your own private cloud, or run on-premise
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
+
+> Each player builds a stained glass window by building up a grid of dice on their player board. Each board has some restrictions on which color or shade (value) of die can be placed there. Dice of the same shade or color may never be placed next to each other. Dice are drafted in player order, with the start player rotating each round, snaking back around after the last player drafts two dice. Scoring is variable per game based on achieving various patterns and varieties of placement...as well as bonus points for dark shades of a particular hidden goal color.
+
+![Sagrada game image](https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__itemrep/img/fLGFtsAiZgj3VwTDvgCn2yBIDYw=/fit-in/246x300/filters:strip_icc\(\)/pic3525224.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   1 - 4 |       10 | 30-45m |
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [senv (⭐0)](https://github.com/joepvd/senv) - Report presence of sensitive environment variables in the prompt
 
-## [4. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [5. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Learning
 
@@ -41,19 +55,19 @@
 *   [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers.
 *   [Dear Console](https://codepo8.github.io/dearconsole) - A collection of snippets to use in the browser console.
 
-## [5. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [OliverOverend/gym-simplifiedtetris (⭐3)](https://github.com/OliverOverend/gym-simplifiedtetris#readme) - GIF demo. Short description of the project. Badges. TOC. Installation and usage instructions, with copy-pastable comments and dependencies. Contributing file. Overview of the environments and agents provided.
 
-## [6. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [7. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### License / Related
 
 *   License: [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/leomaurodesenv/game-datasets/blob/master/README.md/LICENSE)
 
-## [7. Magictools](/content/ellisonleao/magictools/README.md)
+## [8. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Graphics / Tile/Level Editors
 
@@ -76,23 +90,19 @@
 
 *   [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - Popular yearly game jam
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Artificial Intelligence / Machine Learning / Big Data / Angular
 
 *   [True Positive Weekly](https://aiweekly.substack.com/). The most important artificial intelligence and machine learning links of the week.
 
-## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Frameworks
-
-*   [LouisCAD/Splitties (⭐2.2k)](https://github.com/LouisCAD/Splitties) - A family of small Kotlin libraries for delightful Android development including View DSLs
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Boilerplate
 
 *   [bufferapp/android-clean-architecture-boilerplate (⭐3.6k)](https://github.com/bufferapp/android-clean-architecture-boilerplate) - A clean architecture boilerplate for android written in Kotlin
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -102,19 +112,19 @@
 
 *   [kubeval](https://kubeval.instrumenta.dev) — Validates your Kubernetes configuration files and supports multiple Kubernetes versions.
 
-## [11. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [12. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Books and Resources
 
 *   [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  - Reasonable advice about code style
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Metascience / Literature Mining
 
 *   [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454\&hl=en\&as_sdt=0,5)].
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -124,7 +134,7 @@
 
 *   [Motor Admin](https://www.getmotoradmin.com/) - No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ([Source Code (⭐1.4k)](https://github.com/motor-admin/motor-admin)) `AGPL-3.0` `Ruby`
 
-## [14. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [15. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
@@ -153,7 +163,7 @@
 *   [File picker (⭐33)](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 *   [Photo editor (⭐6)](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
-## [15. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [16. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 
@@ -163,7 +173,7 @@
 
 *   [Docker Volume Backup (⭐542)](https://github.com/offen/docker-volume-backup) Backup Docker volumes locally or to any S3 compatible storage. By [@offen](https://github.com/offen)
 
-## [16. Awesome Go](/content/avelino/awesome-go/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Continuous Integration
 
@@ -173,7 +183,7 @@
 
 *   [retry-go (⭐1.1k)](https://github.com/avast/retry-go) - Simple library for retry mechanism.
 
-## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [18. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -185,7 +195,7 @@
 *   [vite-plugin-mock-data (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
 *   [vite-plugin-reverse-proxy (⭐13)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
 
-## [18. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### What is Magento?
 
@@ -385,19 +395,19 @@
 *   [Awesome Magento (⭐83)](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content
     by [sunel](https://github.com/sunel).
 
-## [19. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
+## [20. Awesome Pleb Projects](/content/quilloughbee/awesome-pleb-projects/README.md)
 
 ### Lightning / Tools
 
 *   [storage4sats (⭐1)](https://github.com/rottingcleaner/storage4sats) - Upload a file, pay with sats. No account, no ads.
 
-## [20. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [21. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mods / Technology
 
 *   [ComputerCraft](https://computercraft.cc) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 
-## [21. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [22. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Teamworking Tools
 

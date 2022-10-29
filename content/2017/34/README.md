@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 21 - Aug 27, 2017
 
-41 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -214,7 +214,13 @@
 *   [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
 *   [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
 
-## [17. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [17. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Benjamin Reitzammer (⭐4)](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
+
+## [18. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
@@ -222,13 +228,13 @@
 *   [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/) - How to use a blendmap to multitexture a terrain.
 *   [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) - Create particle effects by applying a technique called billboarding.
 
-## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icon Fonts
 
 *   [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 
-## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -257,13 +263,13 @@
 
 
 
-## [20. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [21. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
 *   [RamdaScript (⭐132)](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
-## [21. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [22. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Twitter / Official Resources
 
@@ -271,19 +277,19 @@
 *   [TypeLead](https://twitter.com/typelead) - Company behind Eta.
 *   [Rahul Muttineni](https://twitter.com/rahulmutt) - Creator of Eta and CTO of TypeLead.
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Google - Sequence to Sequence  Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
-## [23. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [24. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### Backoffice extensions / Property Editors
 
 *   [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
 
-## [24. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [25. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Miscellaneous
 
@@ -292,7 +298,7 @@
 *   [See the guide (⭐5.5k)](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### AI
 
@@ -319,7 +325,7 @@
 *   [AZTableViewController (⭐73)](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
 *   [HGPlaceholders (⭐2.1k)](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 
-## [26. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [27. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Support Causes You Care About
 
@@ -420,7 +426,7 @@
 *   `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
 *   `Skunk` (Signatum Coin / **SIGT**)
 
-## [27. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [28. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Angular / Themes
 
@@ -434,19 +440,19 @@
 
 *   [Ng-Alain (⭐4.4k)](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
-## [28. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [29. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Podcasts
 
 *   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) The show about modern data infrastructure.
 
-## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Crash monitoring / Field Validation
 
 *   [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
 
-## [30. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [31. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Libraries / New Functionality
 
@@ -456,7 +462,13 @@
 
 *   [Rolisteam](http://www.rolisteam.org) [:octocat: (⭐174)](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games.
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Getting started
+
+*   [GTFS Realtime](https://developers.google.com/transit/gtfs-realtime/) - GTFS Realtime consists of three binary files that contain realtime vehicle positions, realtime arrival information, and service alerts. Transit agencies typically update these files every minute.
+
+## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
@@ -485,19 +497,19 @@
 
 *   [batch-loader (⭐942)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
-## [32. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [34. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
 *   [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
-## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [35. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐7)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
@@ -555,14 +567,14 @@
 *   Visual Studio Code
     *   [vscode-crystal-lang (⭐238)](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
-## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Social, Economic and Political Networks
 
 *   [Graph Commons](https://graphcommons.com/) - Collaborative platform for mapping, analyzing and publishing data-networks.
 *   [Metamaps](https://metamaps.cc/) - Free, open-source platform to draw networks, currently in beta.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
@@ -573,7 +585,7 @@
 
 *   [StrongGrid (⭐152)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
-## [37. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [39. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Online Classes
 
@@ -582,25 +594,25 @@
 *   [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) - Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts. I especially liked the section on Q-Learning.
 *   [Neural networks class by Hugo Larochelle, Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Interesting class about neural networks available online for free by Hugo Larochelle, yet I have watched a few of those videos.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-date-picker (⭐56)](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 
-## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
 
-## [40. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [42. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Colors / Social Sciences
 
 *   [Color Calculator](https://www.sessions.edu/color-calculator/)
 
-## [41. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [43. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Discovery
 

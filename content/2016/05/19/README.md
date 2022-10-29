@@ -1,6 +1,6 @@
 # Awesome List Updates on May 19, 2016
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,7 +45,14 @@
 *   [TypeScript Interpret - Terminal Emulator](http://niutech.github.io/typescript-interpret/) by @niutech
 *   [TypeScript Editor](http://drake7707.github.io/Typescript-Editor/) by @drake7707
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Community
+
+*   [TransitWiki](http://transitwiki.org) - A community wiki for transit planners. Like this repo, but better.
+*   [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
+
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Other Awesome Lists
 
@@ -80,7 +87,7 @@
 
 *   [MenuItemKit (⭐838)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
-## [5. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
+## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 
 ### ImageNet Classification
 
@@ -182,38 +189,38 @@
 
 *   \[CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
 *   [eikon (⭐11)](https://github.com/tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 
-## [7. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Monitoring
 
 *   [check\_mongodb (⭐15)](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
 *   [nagios-plugin-mongodb (⭐350)](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios plugin (in Python)
 
-## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [9. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Miscellaneous
 
 *   [noCAPTCHA (⭐339)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / PHP SDK
 
 *   [Repo :fire::fire::fire::fire::fire: (⭐5.7k)](https://github.com/aws/aws-sdk-php)
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### REST and API
 
 *   [ApiPagination plugin (⭐40)](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
 
-## [11. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
+## [12. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
 ### Eddystone by Google
 
@@ -237,7 +244,7 @@
 
 *   [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
 
-## [12. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [13. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Open Courses
 
@@ -379,14 +386,14 @@
 
 
 
-## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Books
 
 *   [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 *   [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 
-## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [15. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### GUI / Custom Controls
 
@@ -425,7 +432,7 @@
 
 *   [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - Documentation [link](https://pyahk.readthedocs.io/en/latest/).
 
-## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 

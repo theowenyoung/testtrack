@@ -25,6 +25,7 @@
 *   [jfr-flame-graph (⭐244)](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## List only the root and merge commits.
 
 ```sh

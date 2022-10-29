@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 08, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,14 +55,28 @@
 
 *   [AtlasDB (⭐785)](https://github.com/palantir/atlasdb) - Transactional layer on top of a key value store.
 
-## [7. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Semaphore CI Engineering <http://semaphoreci.com/blog/tags/engineering.html>
+
+### Individuals/Group Contributors / E individuals
+
+*   Eric Elliot <https://medium.com/javascript-scene/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ivan Ursul <https://ivanursul.com/>
+
+## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Community Resources
 
 *   [Software Engineering Stack Exchange](http://softwareengineering.stackexchange.com/questions/tagged/domain-driven-design) - Software Engineering Stack Exchange questions tagged *domain-driven-design*.
 *   [Code Review Stack Exchange](http://codereview.stackexchange.com/questions/tagged/ddd) - Code Review Stack Exchange questions tagged *domain-driven-design*.
 
-## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [9. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Online tools
 

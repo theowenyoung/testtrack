@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,7 +41,13 @@
 *   [Mailing Lists Description](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
 *   [Grokbase](http://grokbase.com/s/couchdb) - Mailing lists in a [Stack Overflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface.
 
-## [2. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Olavi Haapala (⭐1)](https://github.com/olpeh/ama) - Web and mobile developer from Finland.
+
+## [3. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### General
 
@@ -152,7 +158,7 @@
 
 *   [Framer Snippets (⭐487)](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow.
 
-## [3. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [4. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### RAD Studio IDE plugins/wizards
 
@@ -174,7 +180,7 @@
 *   [Delphi Preview Handler (⭐134)](https://github.com/RRUZ/delphi-preview-handler). Preview handler for Windows Vista, 7 and 8 which allow you read your object pascal, C++ and Assembly code with Syntax highlighting without open in a editor
 *   [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
-## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [5. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
@@ -190,7 +196,7 @@
 
 *   [Wikipedia/Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) - Wikipedia list of esoteric languages.
 
-## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Journals / Topic-specific
 

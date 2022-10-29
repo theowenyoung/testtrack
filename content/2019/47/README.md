@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 25 - Dec 01, 2019
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -127,6 +127,7 @@
 *   [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 
 ## [15. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@pgbovine](https://github.com/pgbovine), [Python Tutor](https://github.com/pgbovine/OnlinePythonTutor)
     *   "Python Tutor Software Development Philosophy" ([video](https://www.youtube.com/watch?v=sVtXLdBRfyE))
     *   "Ten years and nearly ten million users: my experience being a solo maintainer of open-source software in academia" ([post](http://pgbovine.net/python-tutor-ten-years.htm))
@@ -607,26 +608,32 @@
 
 *   [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf) :small\_orange\_diamond:<sup>PDF</sup> - The serverless computing abstraction exposes several low-level operational details that make it hard for programmers to write and reason about their code. This paper sheds light on this problem by presenting λ, an operational semantics of the essence of serverless computing.
 
-## [47. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [47. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Converters / Ruby
+
+*   [gtsf (⭐3)](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL.
+
+## [48. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 *   [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
-## [48. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [49. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Architecture
 
 *   [*Hands-On Design Patterns with Swift* by Giordano Scalzo, Florent Vilmart, Sergio De Simone](https://www.packtpub.com/application-development/hands-design-patterns-swift#tab-label-additional)
 
-## [49. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [50. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) Dec 10, 2019
 
-## [50. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [51. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Torrenting
 
@@ -672,7 +679,7 @@
 
 *   [netflix-proxy (⭐3.4k)](https://github.com/ab77/netflix-proxy/) Smart DNS proxy to watch Netflix out-of-region
 
-## [51. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [52. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
@@ -683,7 +690,7 @@
 
 *   [Nick Higham's blog](https://nhigham.com/) - Mostly on MATLAB, general computing advice.
 
-## [52. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [53. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Virtualization
 

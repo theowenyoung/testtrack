@@ -10,7 +10,7 @@
 
 ### Logging
 
-*   [slog (⭐135)](https://github.com/gookit/slog) Lightweight, configurable, extensible logger for Go.
+*   [slog (⭐135)](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 
 ### Third-party APIs
 
@@ -18,7 +18,7 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [CodeCrafters Golang Track](https://app.codecrafters.io/tracks/go) — Achieve mastery in advanced Go by building your own Redis, Docker, Git, and SQLite. Featuring goroutines, systems programming, file I/O, and more.
+*   [CodeCrafters Golang Track](https://app.codecrafters.io/tracks/go) - Achieve mastery in advanced Go by building your own Redis, Docker, Git, and SQLite. Featuring goroutines, systems programming, file I/O, and more.
 
 ## [2. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 

@@ -59,6 +59,7 @@
 *   [tw.crystal-lang.org](http://tw.crystal-lang.org/) - Chinese Traditional
 
 ## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Add custom editors.
 
 ```sh

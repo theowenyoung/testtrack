@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,31 +28,37 @@
 *   [MPI (⭐20)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 *   [MQTT (⭐19)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / S individuals
+
+*   Scott Johnson <http://www.fuzzyblog.io/blog/>
+
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Machine Learning and Data Science
 
 *   [Spreads (⭐382)](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 
-## [5. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-ya-semantic-modal (⭐20)](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SQS
 
 *   [phstc/shoryuken :fire::fire::fire::fire: (⭐1.9k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
 
-## [8. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### DevOps
 

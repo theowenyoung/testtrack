@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 31, 2016
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,26 +18,37 @@
 
 *   [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Books
+
+*   [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
+*   [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
+
+### Competitions
+
+*   [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
+
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compilers, Transpilers and Languages
 
 *   [roslyn (⭐17k)](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
 *   [Sprache (⭐2k)](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
 
-## [4. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
+## [5. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
 ### Other Utilities / Utility Packs
 
 *   [headr (⭐3)](https://github.com/heldr/headr) - Add header / banner info to a file.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [bluebird-promisell (⭐46)](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -56,17 +67,23 @@
 *   [Time To Detect - Netflix](https://www.youtube.com/watch?v=wsgpV67MLFo)
 *   [Why Percentiles Don’t Work the Way you Think](https://www.vividcortex.com/blog/why-percentiles-dont-work-the-way-you-think)
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Static Code Analysis
 
 *   [Infer (⭐14k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. \[BSD]
 
-## [8. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Varia / Tutorials
 
 *   [Network Map of Knowledge and Art](https://paolonegrini.wordpress.com/2012/11/19/network-map-of-knowledge-and-art/) - DBPedia-derived networks of who-was-influenced-by-whom directed ties, using SPARQL and Gephi.
+
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / P companies
+
+*   Paypal <https://www.paypal-engineering.com/>
 
 ---
 

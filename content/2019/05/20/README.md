@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,6 +33,7 @@
 *   [Adafruit IO (⭐38)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@antirez](https://github.com/antirez), [Redis (⭐57k)](https://github.com/antirez/redis)
     *   "The struggles of an open source maintainer" ([post](http://antirez.com/news/129))
 *   [@feross](http://github.com/feross), [WebTorrent (⭐27k)](https://github.com/webtorrent/webtorrent)
@@ -81,6 +82,12 @@
 
 *   [Copy files and artifacts via SSH (⭐694)](https://github.com/appleboy/scp-action)
 *   [Executing remote ssh commands (⭐2.6k)](https://github.com/appleboy/ssh-action)
+
+## [12. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Theming
+
+*   [5 Animation Packages You Can Immediately Use Inside Your Ionic App](https://devdactic.com/5-animation-packages-ionic/)
 
 ---
 

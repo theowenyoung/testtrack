@@ -111,6 +111,7 @@
 *   [Future of Coding](https://futureofcoding.org/) - Monthly interviews.
 
 ## [3. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@evancz](https://github.com/evancz), [Elm (⭐7k)](https://github.com/elm/compiler)
     *   "The Hard Parts of Open Source" ([video](https://www.youtube.com/watch?v=o_4EX4dPppA), [slides](https://prezi.com/oowcpzsnwp-8/the-hard-parts-of-open-source/))
     *   "On Storytelling" ([video](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling))

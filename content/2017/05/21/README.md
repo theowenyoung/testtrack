@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,7 +33,13 @@
 
 *   [C/C++ Clang Command Adapter (⭐118)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
-## [5. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Rachel Andrew (⭐314)](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+
+## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Official Elements
 
@@ -47,7 +53,7 @@
 *   [Layout](https://www.webcomponents.org/collection/PolymerElements/layout-elements) A collection of layout related elements.
 *   [\[Obsolete\] Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
 
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Development Setup / Third-party Service Integration
 
@@ -59,7 +65,7 @@
 
 *   [Dev Marketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists)
 
-## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Privacy, Security and Cryptography / Others
 
@@ -77,7 +83,7 @@
 
 *   [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
-## [8. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [9. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Boilerplates / Themes
 

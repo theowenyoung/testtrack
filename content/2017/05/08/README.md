@@ -1,12 +1,18 @@
 # Awesome List Updates on May 08, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Books
+
+*   [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
@@ -24,7 +30,7 @@
 
 *   [neph (⭐194)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
 
-## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Communication
 
@@ -34,13 +40,13 @@
 
 *   [Trello](https://trello.com/) - Lean project boards.
 
-## [3. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [4. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Optimization / Training Techniques
 
 *   **Training very deep networks** (2015), R. Srivastava et al. [\[pdf\]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
-## [4. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
@@ -48,7 +54,7 @@
 *   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
 *   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐624)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Authentication
 
@@ -83,7 +89,7 @@
 
 *   [serum (⭐289)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Beginner
 
@@ -106,7 +112,7 @@
 
 *   [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats](http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html).
 
-## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Singapore 🇸🇬 / Outram Park
 
@@ -120,7 +126,7 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM |
 
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Communication
 
@@ -142,25 +148,25 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 
 *   [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 
-## [9. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### JavaScript
 
 *   [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
-## [10. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Community
 
 *   [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
 
-## [11. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
+## [12. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
 ### Resources / Glossaries
 
 *   [Lua 5.3 Glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) - A glossary of some essential Lua terms.
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Build tools
 

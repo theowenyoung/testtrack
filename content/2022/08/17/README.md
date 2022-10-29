@@ -48,7 +48,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [pseudo-projectile (⭐2)](https://github.com/git-girl/pseudo-projectile-plugin/) - Like `projectile` in emacs? This adds similar functionality to your ZSH environment.
+*   [pseudo-projectile (⭐2)](https://github.com/git-girl/pseudo-projectile-plugin/) - Like `projectile` in emacs? This adds similar functionality to your ZSH environment by opening `fzf`-selected paths in `nvim`.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

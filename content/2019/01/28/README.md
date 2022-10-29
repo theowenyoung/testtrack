@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 28, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,25 +60,43 @@
 
 *   [Awesome Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 
-## [9. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Poland 🇵🇱
+
+### Warsaw
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aganaplocha" height="70px" width="70px" align="left" alt="" />
+
+**Aga Naplocha**\
+Topics: CSS, Teaching Web Technologies\
+<https://twitter.com/aganaplocha>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tomasz_ducin" height="70px" width="70px" align="left" alt="" />
+
+**Tomasz Ducin**\
+Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
+<https://twitter.com/tomasz_ducin>
+
+## [10. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Resources
 
 *   [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 
-## [10. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [11. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Python
 
 *   [Like-my-GF (⭐396)](https://github.com/cyandterry/Like-My-GF) - This is an auto-robot to like your girlfriend's post on Instagram.
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Relocation Incentives
 
 *   [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
 
-## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [13. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -134,13 +152,13 @@
 
 
 
-## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Language bindings
 
 *   Clojure: [clj-postgresql (⭐154)](https://github.com/remodoy/clj-postgresql)
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 

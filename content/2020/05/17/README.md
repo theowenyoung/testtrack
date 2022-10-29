@@ -1,42 +1,48 @@
 # Awesome List Updates on May 17, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** \[1:07:57]
+
+## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Others
 
 *   [eiR (⭐3)](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Scheduling
 
 *   [que-scheduler (⭐97)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 
 *   [Pixel Nodes](https://pixelnodes.app/) \[iPad] - Live graphics node editor, powered by PixelKit.
 
-## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Architecture
 
 *   [*The Clean Swift Handbook* by Raymond Law](https://clean-swift.com/handbook)
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Configuration & Discovery / Scala
 
 *   [Microconfig](https://microconfig.io) - Modern and simple way of microservice configuration management.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Real World / Use Cases
 
@@ -50,13 +56,13 @@
 *   [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
 *   [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services
 
 *   [Visual Regression Tracker (⭐446)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
@@ -66,13 +72,13 @@
 
 *   [denolib/awesome-deno (⭐3.8k)](https://github.com/denolib/awesome-deno)
 
-## [9. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [10. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / General Purpose
 
 *   [LSP](https://packagecontrol.io/packages/LSP) — Language Server Protocol support for Sublime Text 3 that gives you IDE features.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
@@ -84,7 +90,7 @@
     *   [Typing (⭐1.2k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
     *   [MicroPython (⭐689)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
-## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [12. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Generation
 
@@ -98,7 +104,7 @@
 
 *   [Hashcash for PHP/JavaScript forms (⭐42)](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / GPS
 
@@ -123,7 +129,7 @@
 *   [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook) - By Marwan Alsabbagh. ISBN 9781838649951.
 *   [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937) - By Yury Magda. ISBN 9781090900937.
 
-## [13. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [14. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 

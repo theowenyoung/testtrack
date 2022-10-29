@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,26 +47,36 @@
 
 *   [Rakam (⭐792)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
-## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / E companies
+
+*   Erlang Solutions <https://www.erlang-solutions.com/blog.html>
+
+### Individuals/Group Contributors / B individuals
+
+*   Brujo Benavides <https://medium.com/@elbrujohalcon>
+
+## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 
 *   \[Inspect iOS app's with Appium 1.6] (<https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo>) - The options of inspecting iOS 10 app with Appium 1.6
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Documents and Shellcode / Other Resources
 
 *   [box-js (⭐517)](https://github.com/CapacitorSet/box-js) - A tool for studying JavaScript
     malware, featuring JScript/WScript support and ActiveX emulation.
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Music drivers and trackers
 
 *   [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 
-## [9. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [10. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -82,19 +92,19 @@ Webpage: <https://www.facebook.com/wishslowcoffeehouse>
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
-## [10. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [11. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
 *   `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 
-## [11. Awesome Python](/content/vinta/awesome-python/README.md)
+## [12. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Podcasts
 
 *   [Python Bytes](https://pythonbytes.fm)
 
-## [12. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [13. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Introduction to CS
 

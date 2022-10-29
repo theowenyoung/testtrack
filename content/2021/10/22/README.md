@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22, 2021
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,32 +47,42 @@
 
 *   [NBomber (⭐1.6k)](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
 
-## [6. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Deltachat](https://delta.chat): Delta Chat is like Telegram or Whatsapp but without the tracking or central control. It doesn't have their own servers but uses the most massive and diverse open messaging system ever: the existing e-mail server network. Chat with anyone if you know their e-mail address, no need for them to install DeltaChat, all you need is a standard e-mail account.
+
+### Other
+
+*   [Solid](https://solidproject.org): Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Solid is a specification that lets people store their data securely in decentralized data stores called Pods. Pods are like secure personal web servers for your data. For developer resources, see [Developer Resources](https://solidproject.org/developers). For a listing of some Solid applications, see [Solid Applications](https://solidproject.org/apps).
+
+## [7. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Developer and Requestor Resources / Miscellaneous
 
 *   [Yagna Python API docs](https://yapapi.readthedocs.io/) - Documentation for Yapapi.
 
-## [7. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [8. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
 *   [Oak (Deno) (⭐5)](https://github.com/jcs224/oak_inertia)
 
-## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Books
 
 *   [Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes) - Take the fast track in your journey to continuous delivery, with open source tools for Kubernetes and cloud applications
 *   [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - Book that shows you how to build pipelines that optimize your development process so you can deliver software seamlessly to production.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
 *   [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — Free CockroachDB up to 5GB and 1vCPU (limited [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -183,13 +193,13 @@
 
 
 
-## [11. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [12. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Low Code Application Platform
 
 *   [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / LoRaWAN
 
@@ -207,7 +217,8 @@
 
 *   [micropython-bno055 (⭐25)](https://github.com/micropython-IMU/micropython-bno055) - Bosch BNO055 driver for MicroPython. IMU with hardware sensor fusion.
 
-## [13. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [14. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+
 - : [Meetup Swarm](https://meetup.github.io/swarm-design-system/)
 
   Components: 👍

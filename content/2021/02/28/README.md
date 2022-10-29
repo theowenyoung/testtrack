@@ -38,6 +38,7 @@
 *   [vite-plugin-ts-nameof (⭐12)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐455)](https://github.com/dsherret/ts-nameof) in TypeScript.
 
 ## [6. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [flow.ci](https://github.com/flowci)
 
   Description: Self-Hosted, powerful and user-friendly CI/CD server

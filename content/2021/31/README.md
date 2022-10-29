@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02 - Aug 08, 2021
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,19 @@
 
 *   [ROS2 Quality Assurance Guidelines (⭐6)](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - A collection of guidelines and tutorials for improving package quality, following REP-2004 quality standards and integrating Continuous Integration.
 
-## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [3. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   GrowthBoosters - <https://www.growthboosters.com/product/add>
+
+## [4. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Courses / Hash functions
 
 *   [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - An introductory but fast-paced undergraduate/beginning graduate course on cryptography, Used for Harvard CS 127.
 
-## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Philosophy And Psychology
 
@@ -38,7 +44,7 @@
 
 
 
-## [5. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
@@ -49,7 +55,7 @@
 
 *   [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - By Richard W. Hamming.
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### App Routing
 
@@ -59,44 +65,44 @@
 
 *   [Codemagic](https://codemagic.io) - Build, test and deliver iOS apps 20% faster with Codemagic CI/CD.
 
-## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [8. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Typing / Web
 
 *   [DateHotkey (⭐15)](https://github.com/tiuub/DateHotkey) - Hotkey to easily receive current, past or upcomming date strings. Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=89929)
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
 *   [SoccerPong (⭐2)](https://github.com/mdeclerk/SoccerPong) - ![last commit](https://img.shields.io/github/last-commit/mdeclerk/SoccerPong?style=flat-square\&cacheSeconds=86400) A soccer variant of classic Pong using Blazor WebAssembly. [Demo](https://mdeclerk.github.io/SoccerPong).
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
 *   [Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=Y9U9IE0gVHA) - Tutorial series on making a vulkan game engine by Brendan Galea on YouTube.
 
-## [10. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [11. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Books / Custom Time Series
 
 *   [Expert Apache Cassandra Administration](https://link.springer.com/book/10.1007/978-1-4842-3126-5)
 
-## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Official Venues / Skeumorphic Icons
 
 *   [This Week in GNOME](https://thisweek.gnome.org/) - Weekly news from project maintainers from the community.
 *   [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs.
 
-## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Authentication & OAuth
 
 *   [Phalcon Auth (⭐6)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
 
-## [13. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [14. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Methods / Stakeholder Interviews
 
@@ -201,13 +207,13 @@
 *   [Hemingway](https://www.hemingwayapp.com/) - Hemingway App makes your writing bold and clear.
 *   [The Writer](https://www.thewriter.com/what-we-think/readability-checker/) - How readable is your writing?.
 
-## [14. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [15. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [CloudCannon](https://cloudcannon.com/) - The Git-based CMS for your Jamstack sites.
 
-## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [16. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Community
 
@@ -221,7 +227,7 @@
 
 *   [ARA (⭐1.6k)](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 
-## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Converters
 
@@ -231,7 +237,7 @@
 
 *   [crystal-bacnet (⭐0)](https://github.com/spider-gazelle/crystal-bacnet) - BACnet protocol implementation with BACnet/IP client
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -242,19 +248,19 @@
 
 *   [vuki656/package-info.nvim (⭐199)](https://github.com/vuki656/package-info.nvim) - Display latest package version as virtual text in package.json.
 
-## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
 *   [Ximera](https://ximera.osu.edu/) : free interactive mathematics textbooks (Ohio State University)
 
-## [19. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [20. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
 *   [SOLID Machine Learning](https://www.umaneo.com/post/the-solid-principles-applied-to-machine-learning) - The SOLID principles applied to Machine Learning.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -338,7 +344,7 @@
 
 *   [wiki](https://git.mills.io/prologic/wiki) - Simple Markdown based wiki engine. ([Demo](https://wiki.mills.io)) `MIT` `Go`
 
-## [21. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [22. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Data Science
 
@@ -346,13 +352,13 @@
 
     ***
 
-## [22. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Blog posts
 
 *   [Visual regression testing using Jest, Chromeless and AWS Lambda (⭐17)](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - Tutorial using Chromeless and jest-image-snapshot.
 
-## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [24. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Frameworks / Community
 
@@ -362,13 +368,13 @@
 
 *   [Laravel Vite (⭐570)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
-## [24. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [25. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tools
 
 *   [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
 
-## [25. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [26. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
@@ -463,13 +469,13 @@
 *   [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 *   [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
-## [26. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -639,7 +645,7 @@
     *   [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) — Presented by [Nicholas Matsakis](https://github.com/nikomatsakis) @ C++Now 2018
     *   [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — Presented by [Michael Gattozzi](https://github.com/mgattozzi) @ RustConf 2017
 
-## [28. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [29. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Videos / Talks
 
@@ -654,7 +660,7 @@
 
 *   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -674,14 +680,14 @@
 *   [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
 *   [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
-## [30. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [31. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [Dynamic\_logistics\_Warehouse (⭐77)](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses.
 *   [OpenCDA (⭐687)](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 
-## [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -716,7 +722,7 @@
 *   [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 *   [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
-## [32. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Debugging
 
@@ -731,7 +737,7 @@
 
 *   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
-## [33. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [34. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -741,14 +747,14 @@
 
 *   [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
-## [34. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [35. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Tools
 
 *   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
 *   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 
-## [35. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [36. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
@@ -758,31 +764,31 @@
     *   [dvm.cmd (⭐2)](https://github.com/MarkTiedemann/dvm.cmd) - Deno Version Manager for Windows. Written as a single batch file.
     *   [ghosind/dvm (⭐25)](https://github.com/ghosind/dvm) - A lightweight Deno Version Manager for Linux/MacOS.
 
-## [36. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Code Analysis
 
 *   :strawberry: [CakeDC/PHPStan (⭐17)](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 
-## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Blogs
 
 *   [@captain-yossarian's blog](https://catchts.com/) - fully dedicated to static typings in TypeScript
 
-## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [39. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Security / Scala
 
 *   [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol) - Grant Negotiation and Authorization Protocol defines a mechanism for delegating authorization to a piece of software, and conveying that delegation to the software. This delegation can include access to a set of APIs as well as information passed directly to the software.<sup>DRAFT</sup>
 
-## [39. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [40. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [upf-bpf (⭐123)](https://github.com/navarrothiago/upf-bpf) - An in-kernel solution based on XDP for 5G UPF.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -798,7 +804,7 @@
 *   [v-network-graph (⭐208)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 *   [vue-word-highlighter (⭐97)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 
-## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -853,7 +859,7 @@
 
 
 
-## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Audio
 
@@ -905,7 +911,7 @@
 
 *   [DFMJSON (⭐26)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 

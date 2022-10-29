@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25 - May 31, 2020
 
-66 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -494,7 +494,13 @@
 *   [Ant Design Blazor (⭐4.5k)](https://github.com/ant-design-blazor/ant-design-blazor) - ![GitHub stars](https://img.shields.io/github/stars/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ant-design-blazor/ant-design-blazor?style=flat-square\&cacheSeconds=86400) A set of enterprise-class UI components based on Ant Design and Blazor. ([Docs as Demo](https://ant-design-blazor.github.io/)).
 *   [ComponentOne Blazor UI Components](https://www.grapecity.com/componentone/blazor-ui-controls) - External link. A fast datagrid, listview, input and other native Blazor components for server and client-side apps.
 
-## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Development Tools
+
+*   [docz (⭐23k)](https://github.com/doczjs/docz) - Zero Config, live-reloading documentation with Markdown + JSX
+
+## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -508,13 +514,13 @@
 
 *   [Task Keeper (⭐25)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
-## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [36. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -563,7 +569,7 @@
 
 *   [flume (⭐35)](https://github.com/scripbox/flume) - A blazing fast job processing system backed by GenStage & Redis.
 
-## [37. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Howtos
 
@@ -582,7 +588,7 @@
 
 *   Telegram [FlutterLagos](https://t.me/joinchat/PAH0fVA0l7F_zMM537lo9w)
 
-## [38. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [39. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Tutorials
 
@@ -597,7 +603,7 @@
 *   [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/contest/1357)
 *   [Microsoft Q# Coding Contest (Summer 2020) Warmup Round](https://codeforces.com/contest/1356)
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -616,13 +622,13 @@
 
 *   [vue-zeye-client (⭐5)](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server (⭐4)](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
 
-## [40. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [41. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
 *   [The Force Engine (⭐375)](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 
-## [41. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [42. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Articles / PEPs
 
@@ -645,7 +651,7 @@
 *   [PEP-612](https://www.python.org/dev/peps/pep-0612/) - Parameter Specification Variables.
 *   [PEP-613](https://www.python.org/dev/peps/pep-0613/) - Explicit Type Aliases.
 
-## [42. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [43. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -653,7 +659,7 @@
 *   [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) - On performance as a key factor for the business.
 *   [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) - Musings on the impact of foldable phones on web.
 
-## [43. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -704,7 +710,7 @@
 *   [Podbase](https://podba.se/validate/) <sup>[621](https://t.me/s/aboutrss/621)</sup>
 *   [Cast Feed Validator](https://castfeedvalidator.com/) <sup>[621](https://t.me/s/aboutrss/621)</sup>
 
-## [44. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [45. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Speech Processing
 
@@ -714,7 +720,7 @@
 
 *   [pyannote.audio: neural building blocks for speaker diarization](https://arxiv.org/abs/1911.01255), [Video](https://www.youtube.com/watch?v=37R_R82lfwA) - Hervé Bredin, Ruiqing Yin, Juan Manuel Coria, Gregory Gelly, Pavel Korshunov, Marvin Lavechin, Diego Fustes, Hadrien Titeux, Wassim Bouaziz, Marie-Philippe Gill, ICASSP 2020.
 
-## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -728,13 +734,13 @@
 
 *   [Google Fonts](https://fonts.google.com/) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
 
-## [46. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [47. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
 
-## [47. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [48. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / General Purpose
 
@@ -745,13 +751,13 @@
 *   [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 *   [chemminetools (⭐36)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 
-## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
 *   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
-## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [50. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Standards / CSS Shadow Parts
 
@@ -829,13 +835,13 @@
 *   [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf) by [@bashmish](https://twitter.com/bashmish)
 *   [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) by [@vogloblinsky](https://twitter.com/vogloblinsky)
 
-## [50. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [51. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / YouTube
 
 *   [Hide YouTube recommendations (⭐11)](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 
-## [51. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [52. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Quick Start
 
@@ -859,13 +865,50 @@
 *   Australia
     *   [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 
-## [52. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [53. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [GTFS Builder](http://nationalrtap.org/Web-Apps/GTFS-Builder) - A free web-based application to help you create GTFS files. Maintained by the National Rural Transit Assistance Program (RTAP).
+
+### GTFS Libraries / C
+
+*   [CGTFS (⭐4)](https://github.com/rakhack/cgtfs) - C library for reading static GTFS feeds. Supports reading unpacked feeds into application memory or into SQLite databases.
+*   [RRRR Rapid Real-time Routing (⭐149)](https://github.com/bliksemlabs/rrrr) - RRRR (usually pronounced R4) is a C-language implementation of the RAPTOR public transit routing algorithm.
+
+### GTFS Libraries / Python
+
+*   [ESRI public-transit-tools (⭐129)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS (license for ArcGIS required).
+*   [gtfsdb (⭐125)](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+*   [gtfsman (⭐20)](https://github.com/geops/gtfsman) - Repository-like tool in Python to manage and update a huge number of GTFS feeds.
+*   [gtfspy (⭐126)](https://github.com/CxAalto/gtfspy) - Public transport network analysis and travel time computations using Python3. Compatible with Postgres/PostGIS, Oracle, MySQL, and SQLite. Used by [gtfspy-webviz (⭐33)](https://github.com/CxAalto/gtfspy-webviz).
+*   [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
+*   [Mapzen GTFS (⭐27)](https://github.com/transitland/mapzen-gtfs) - A Python GTFS library that supports reading individual GTFS tables, or constructing a graph to represent each agency in a feed.
+*   [multigtfs (⭐49)](https://github.com/tulsawebdevs/django-multi-gtfs) - A Django application to import and export GTFS.
+
+### GTFS Libraries / C#
+
+*   [GTFS Feed Parser (⭐55)](https://github.com/OsmSharp/GTFS) - .Net/Mono implementation of a GTFS parser.
+
+### GTFS Libraries / Go
+
+*   [Go GTFS Parser (⭐39)](https://github.com/geops/gtfsparser) - A GTFS parsing library for Go.
+
+### GTFS Libraries / PostgreSQL
+
+*   [gtfs-schema (⭐25)](https://github.com/tyleragreen/gtfs-schema) - PostgreSQL schema for GTFS feeds.
+
+### GTFS Libraries / Ruby
+
+*   [GTFS-viz (⭐80)](https://github.com/vasile/GTFS-viz) - Ruby script that converts a set of GTFS files into a SQLite database + GeoJSONs (needed by the [Transit Map (⭐325)](https://github.com/vasile/transit-map) web application)
+
+## [54. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Code Analysis
 
 *   [Phpactor (⭐830)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 
-## [53. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [55. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Video Game
 
@@ -875,44 +918,44 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 
-## [54. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [56. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Libraries
 
 *   [color2k (⭐482)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
-## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [57. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Open Source Projects / Other Tools
 
 *   [RealWorld Example App - mongo (⭐369)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.2k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [56. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [58. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpouse Machine Learning
 
 *   [Little Ball of Fur (⭐612)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
-## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [59. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Communities
 
 *   [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 
-## [58. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [60. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [littleballoffur (⭐612)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
-## [59. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [61. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Community
 
 *   [Official Discourse Forum](https://discourse.cmake.org/)
 
-## [60. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [62. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -928,19 +971,19 @@
 
 *   [*Practical Server Side Swift* by Tibor Bödecs](https://gumroad.com/l/practical-server-side-swift)
 
-## [61. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [63. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Queue
 
 *   :strawberry: [CakeQueuesadilla plugin (⭐33)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
-## [62. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [64. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [blurhash.cr (⭐13)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐11k)](https://github.com/woltapp/blurhash) implementation
 
-## [63. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [65. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Learning / Theory and Courses
 
@@ -1018,7 +1061,7 @@
 *   [embedded-boston/awesome-embedded-systems (⭐580)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 
-## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [66. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Online Playgrounds
 
@@ -1068,7 +1111,7 @@
 *   [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 *   [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 
-## [65. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [67. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -1083,7 +1126,7 @@
 
 
 
-## [66. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [68. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Tutorials
 

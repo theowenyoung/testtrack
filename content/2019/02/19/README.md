@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -64,7 +64,13 @@
 
 *   [Carbon (⭐1.2k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these organizations anything!
+
+*   [Nikita Voloboev (⭐31)](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

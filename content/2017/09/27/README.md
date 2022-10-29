@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,19 @@
 
 *   [phox (⭐17)](https://github.com/herschel666/phox) - Create a static photo blog.
 
-## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / J companies
+
+*   Jobandtalent <https://jobandtalent.engineering/>
+
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Programming
 
 *   [Wallaroo](http://www.wallaroolabs.com/community) - The ultrafast and elastic data processing engine. Big or fast data - no fuss, no Java needed.
 
-## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [5. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Maps and Visualizations / Particles
 
@@ -35,7 +41,7 @@
 *   [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 *   [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 
-## [5. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
@@ -46,13 +52,13 @@
 
 *   [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
 *   [Unsupervised Object Counting (⭐82)](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 
-## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
@@ -63,7 +69,7 @@
 *   South America
     *   Brazil - [packagist.com.br](https://packagist.com.br)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 

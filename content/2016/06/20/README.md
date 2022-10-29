@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,6 +50,12 @@
 ### Packages and Middleware
 
 *   [Lumen 5.2 HTTP Basic Auth Guard (⭐41)](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
+
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / C individuals
+
+*   Clay McLeod <http://blog.claymcleod.io/>
 
 ---
 

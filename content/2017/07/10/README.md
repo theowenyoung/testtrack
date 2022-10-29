@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -91,7 +91,13 @@
 
 
 
-## [11. Guides](/content/NARKOZ/guides/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
+
+## [12. Guides](/content/NARKOZ/guides/README.md)
 
 ### Other / API
 

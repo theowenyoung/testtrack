@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 26, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these organizations anything!
+
+*   [Ruby Taiwan (⭐116)](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
+
+## [2. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### User / Authentication
 
@@ -55,7 +61,7 @@
 *   [Airbrake (⭐934)](https://github.com/airbrake/airbrake) - Notifier gem for integrating apps with Airbrake
 *   [Errbit (⭐4.2k)](https://github.com/errbit/errbit) - Open source notifier gem compliant with Airbrake.
 
-## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frameworks / Runtimes
 
@@ -70,7 +76,7 @@
 
 *   [Cowboy (⭐6.8k)](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
 
-## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Hardware
 

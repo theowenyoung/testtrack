@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01 - Aug 07, 2016
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -91,7 +91,17 @@
 
 *   [YouTube Subtitle Download (⭐623)](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
-## [14. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / F companies
+
+*   Findmypast <http://tech.findmypast.com/>
+
+### Companies / Z companies
+
+*   Zomato <https://engineering.zomato.com/>
+
+## [15. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -107,14 +117,14 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ![Speedtest](http://www.speedtest.net/result/5528734206.png)
 
-## [15. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [16. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [Github (⭐2.7k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 *   [npms (⭐350)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -129,37 +139,37 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Wire (⭐1k)](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 
-## [18. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [19. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Statistics Papers](http://www.ats.ucla.edu/stat/papers/) - List of statistics papers curated by the Institute for Digital Research and Education (IDRE) at UCLA on methods such as bootstrap and factor invariance.
 
-## [19. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [20. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tools / IRC
 
 *   [Composer SemVer Checker](https://semver.mwl.be) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
 
-## [20. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [21. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Tutorials / Question Answering
 
 *   \[CVPR 2015] [Applied Deep Learning for Computer Vision with Torch (⭐869)](https://github.com/soumith/cvpr2015)
 
-## [21. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [22. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Upper Elementary
 
 *   [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
 
-## [22. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [23. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / APIs
 
@@ -223,7 +233,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
 *   [Poke Assistant](https://pokeassistant.com/) - Collection of calculators for Pokémon GO.
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Redshift
 
@@ -233,13 +243,13 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [alex/letsencrypt-aws :fire::fire::fire: (⭐730)](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 
-## [24. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [25. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Architecture / Scala
 
 *   [OSCON 2014: How Instagram.com Works Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) By Pete Hunt
 
-## [25. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [26. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Weird
 
@@ -249,7 +259,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Microsoft Node.js Guidelines (⭐2.4k)](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
-## [26. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [27. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Libraries and Tools
 
@@ -264,19 +274,19 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Measuring the Real-world Performance Impact of Service Workers](https://developers.google.com/web/showcase/2016/service-worker-perf) - One of the most significant benefits of service workers (from a performance perspective, at least) is their ability to proactively control the caching of assets. A web application that can cache all of its necessary resources should load substantially faster for returning visitors. But what do these gains actually look like to real users? And how do you even measure this?
 
-## [27. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [28. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### User Interface Components
 
 *   **[Galeries & Image Sliders](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/user-interface-components/galeries-and-image-sliders.md)**: A sophisticated way to present a collection of images on your website.
 
-## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Keyboard
 
 *   [MakemojiSDK (⭐99)](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
 
-## [29. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [30. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Learning
 
@@ -304,7 +314,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 *   [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
 *   [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
 
-## [30. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [31. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Citizen Science Spaces and Projects / Genetics/Biohacking
 
@@ -319,7 +329,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Third Party APIs
 
@@ -329,7 +339,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [vscode-elixir (⭐4)](https://github.com/mat-mcloughlin/vscode-elixir) - Elixir Support for Visual Studio Code.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Tab / Barcode
 
@@ -344,7 +354,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [RevealingSplashView (⭐1.2k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -358,7 +368,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [HijriDatePicker (⭐129)](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Generators
 

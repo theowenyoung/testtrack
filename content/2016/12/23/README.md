@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 23, 2016
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,7 +56,55 @@
 *   [Parallels Desktop](https://www.parallels.com/products/desktop) - Consumer-focused virtualization.
 *   [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.
 
-## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Clever <https://engineering.clever.com/>
+*   Codelitt <https://www.codelitt.com/blog/>
+
+### Companies / M companies
+
+*   Moove-it <https://blog.moove-it.com/>
+
+### Companies / P companies
+
+*   Pluralsight <https://www.pluralsight.com/guides>
+
+### Companies / V companies
+
+*   VTS <https://buildingvts.com/>
+
+### Companies / Z companies
+
+*   Zillow <https://www.zillow.com/engineering/>
+
+### Individuals/Group Contributors / C individuals
+
+*   Carlos Becker <https://carlosbecker.com>
+*   Codrops <https://tympanus.net/codrops/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Dennis Yurichev <https://yurichev.com/blog/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Natasha Murashev <https://natashatherobot.com>
+
+### Individuals/Group Contributors / P individuals
+
+*   Philip Walton <https://philipwalton.com/>
+
+### Individuals/Group Contributors / R individuals
+
+*   Ray Wenderlich <https://www.raywenderlich.com/>
+
+### Individuals/Group Contributors / W individuals
+
+*   William Kennedy <https://www.goinggo.net/>
+
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 
@@ -80,7 +128,7 @@
 
 *   [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Serialization
 
@@ -90,7 +138,7 @@
 
 *   [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 

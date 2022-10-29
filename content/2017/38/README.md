@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 18 - Sep 24, 2017
 
-30 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,13 +44,19 @@
 *   [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
 *   [Social Networking Kata (⭐33)](https://github.com/sandromancuso/social_networking_kata)
 
-## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Libraries / Python
+
+*   [partridge (⭐122)](https://github.com/remix/partridge) - A fast, forgiving Python GTFS reader built on pandas DataFrames.
+
+## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
 *   [PHP Censor (⭐659)](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.
 
-## [7. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [8. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -61,14 +67,14 @@
 
 *   [grav (⭐280)](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
 
-## [8. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [9. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 
 *   [recursion\_schemes (⭐60)](https://github.com/vmchale/recursion_schemes/) for
     Idris, based off Edward Kmett's Haskell library.
 
-## [9. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [10. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
@@ -82,13 +88,13 @@
 
 *   [Mockingjay (⭐1.5k)](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease.
 
-## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [11. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Markdown/Text Processors
 
 *   [markd (⭐102)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
-## [11. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [12. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Coin Market Tools & Utilities
 
@@ -139,13 +145,13 @@
 *   [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
 *   [Blockchain demo (⭐4.6k)](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Testing
 
 *   [abstruse (⭐853)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Protocols
 
@@ -155,13 +161,13 @@
 
 *   [Fake JSON Server (⭐337)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
-## [14. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / HW / SW / Dataset
 
 *   SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016), Rajpurkar et al. [\[pdf\]](https://arxiv.org/pdf/1606.05250.pdf)
 
-## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -171,14 +177,14 @@
 
 *   [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 
-## [16. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [17. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
 *   [Preact Side Effect (⭐9)](https://github.com/ooade/preact-side-effect) - Create components whose nested prop changes map to a global side effect.
 *   [Preact Tiny Atom (⭐2)](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom (⭐119)](https://github.com/qubitproducts/tiny-atom).
 
-## [17. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [18. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -294,7 +300,13 @@
 *   [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 *   [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 
-## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / S companies
+
+*   Snyk <https://snyk.io/blog>
+
+## [20. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Emulators
 
@@ -304,7 +316,7 @@
 
 *   [Toothpick (⭐1.1k)](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
 
-## [19. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Extensions
 
@@ -315,7 +327,7 @@
 *   [pgtune (⭐1.5k)](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 *   [pgconfig.org (⭐89)](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 
-## [20. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Bl.ocks.org Profiles / Third Party
 
@@ -339,7 +351,7 @@
 *   [Noah Veltman - veltman](https://bl.ocks.org/veltman)
 *   [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -354,26 +366,26 @@
 
 *   [vue-threejs (⭐715)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
-## [22. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [24. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [BEM.js (⭐9)](https://github.com/maykinmedia/bem.js)
 
-## [23. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Hardware
 
 *   [keyboard (⭐3.1k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 *   [mouse (⭐684)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
-## [24. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [26. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Python / Git
 
 *   [Privy (⭐234)](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 
-## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -396,7 +408,7 @@
 *   [.NET Core in Action](https://manning.com/books/dotnet-core-in-action)
 *   [The little ASP.NET Core](https://www.recaffeinate.co/book)
 
-## [26. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [28. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Hashing
 
@@ -426,7 +438,7 @@
 *   [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
 *   [Cryptography I](https://www.coursera.org/learn/crypto) - Stanford University course on Coursera, taught by prof. Dan Boneh. [Cryptography II](https://www.coursera.org/learn/crypto2) is still in development.
 
-## [27. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [29. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Application Libraries
 
@@ -444,7 +456,7 @@
 
 *   [cryptokit (⭐83)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
-## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -452,13 +464,13 @@
 *   [remote-jobs (⭐23k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 *   [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
 
-## [29. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [31. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Browser extensions
 
 *   [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb) - Youtube Notch Mode is a chrome extension that adds the ugly, black cut out seen at the top of the iPhone X to every Youtube video. Why? Because it's more beautiful.
 
-## [30. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [32. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Apple's Playgrounds / Functional Reactive Programming
 

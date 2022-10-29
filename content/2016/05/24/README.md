@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,25 +59,31 @@
 
 *   [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / V companies
+
+*   Vena Solutions <https://engineering.vena.io/>
+
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [ErupteD (⭐46)](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 
-## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [9. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Semantic Segmentation
 
 *   [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
 
-## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Tools / Slides and Notes
 
 *   [Build with Flexbox](http://flexbox.buildwithreact.com/)
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Email
 

@@ -1,18 +1,37 @@
 # Awesome List Updates on Mar 09, 2017
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [1. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Collaborizm - <https://www.collaborizm.com>
+*   Designer News - <https://www.designernews.co/>
+
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### serialization
+
+*   [geojson-jackson (⭐239)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+*   [mapbox-java (⭐376)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐22k)](https://github.com/google/gson))
+
+### resources
+
+*   [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): the current GeoJSON standard by IETF
+*   [GeoJSON.org](http://geojson.org/): the first specification, defining all the rules for GeoJSON structures
+
+## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Time
 
 *   [Quality Time](http://www.qualitytimeapp.com/) - Precise time tracker for Android (Android).
 
-## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Languages
 
@@ -22,7 +41,7 @@
 
 *   [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### CMS
 
@@ -32,19 +51,19 @@
 
 *   [FluentMigrator (⭐2.8k)](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 
-## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment
 
 *   [pockyt (⭐471)](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [fuku-ml (⭐279)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 
-## [6. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [8. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Book / Survey / Review
 

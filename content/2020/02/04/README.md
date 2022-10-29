@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,7 +75,13 @@
 
 *   [Shopify](https://shopify.com/) - Build your business.
 
-## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### Video Tutorials / Charts
+
+*   [dnote (⭐2.4k)](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+
+## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
@@ -83,23 +89,19 @@
 *   [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3) - Exploring and designing a platform in the renewable energy context. Oct 28, 2019.
 *   [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CLI
 
 *   [dbcli/athenacli :fire: (⭐190)](https://github.com/dbcli/athenacli) - a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
-
-### Productivity / Note Taking and Lists
-
-*   [dnote (⭐2.4k)](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Theming and Customization
 
 *   [JackPaper (⭐10)](https://github.com/jackel27/jackpaper) - Set images from Unsplash as wallpaper.
 
-## [14. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [15. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 

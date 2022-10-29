@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 27 - Jul 03, 2022
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -356,6 +356,7 @@
 *   Relo Music Instrument - [Android](https://play.google.com/store/apps/details?id=ch.astrate.relo), [iOS](https://apps.apple.com/us/app/relo-music-instrument/id1547638708) - First ever RELATIVE music instrument, which is especially suitable for mobile devices and improvisation.
 
 ## [25. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+
 - : [Alaska Airlines](https://auro.alaskaair.com/)
 
   Components: 👍
@@ -1766,7 +1767,13 @@
 
 *   [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
-## [47. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [47. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [tidytransit (⭐111)](https://github.com/r-transit/tidytransit) - An R package to read GTFS data into tibbles and simple features dataframes to map transit stops and routes, calculate travel times and transit frequencies, and validate transit feeds.
+
+## [48. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
@@ -1777,7 +1784,7 @@
 
 *   [Awesome Electronics (⭐4.3k)](https://github.com/kitspace/awesome-electronics) - A curated list of awesome resources for electronic engineers and hobbyists.
 
-## [48. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -1795,7 +1802,7 @@
 
 *   [FinderFix](https://synappser.github.io/apps/finderfix/) - Finally, a lasting solution for Finder windows size and position. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1818,7 +1825,7 @@
 
 *   [Shotstack](https://shotstack.io) - API to generate and edit video at scale. Free up to 20 minutes of rendered video per month
 
-## [50. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [51. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### OS Encryption
 
@@ -1829,7 +1836,7 @@
 
 *   [No-Telemetry (⭐148)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 
-## [51. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [52. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Monitoring
 

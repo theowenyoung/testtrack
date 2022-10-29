@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2017
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -312,6 +312,28 @@
 *   [passivedns-client (⭐188)](https://github.com/chrislee35/passivedns-client) - Library and query tool for querying several passive DNS providers.
 *   [passivedns (⭐1.5k)](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
 *   [smbmap (⭐1.4k)](https://github.com/ShawnDEvans/smbmap) - Handy SMB enumeration tool.
+
+## [14. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Contests, conferences, and events
+
+*   [DEF CON](https://defcon.org/) - Annual infosec industry conference which is popular with many lockpickers featuring a locksport contest.
+*   [Hackers On Planet Earth (HOPE)](https://hope.net/) - Annual conference often featuring a locksport competition and presentations on physical security.
+
+### How-to lockpicking guides
+
+*   [Easy Pickings - Mini Lockpicking Manual](http://index-of.es/Lockpicking/Easy%20Pickings%20-%20Mini%20Lockpicking%20Manual.pdf) - Widely-distributed beginner's manual with diagrams showcasing how to pick various entry-level locks.
+*   [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) - Famous introductory text by Ted the Tool.
+
+### Online communities
+
+*   [Keypicking.com](https://keypicking.com/) - Bustling online forum for the discussion of lockpicking and locksport.
+*   [LockWiki](http://lockwiki.com/) - Community-driven reference for both beginners and professionals in the security industry.
+*   [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - Subreddit dedicated to the sport of lockpicking.
+
+### Vendors
+
+*   [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.
 
 ---
 

@@ -17,6 +17,7 @@
 *   [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 
 ## [2. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@Krzysztof-Cieslak](https://github.com/Krzysztof-Cieslak), [Ionide](https://github.com/ionide)
     *   "OSS and Community: The Story" ([post](http://kcieslak.io/OSS-The-Story))
 

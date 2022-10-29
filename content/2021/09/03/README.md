@@ -25,6 +25,7 @@
 *   [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://twitter.com/brandonmchu).
 
 ## [4. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [Chrono CI](http://www.chronoci.com/)
 
   Description: Continuous Integration Security

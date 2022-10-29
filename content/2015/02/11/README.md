@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11, 2015
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,6 +17,23 @@
 ### Language Utilities
 
 *   [groovy-common-extensions (⭐71)](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
+
+## [3. Htaccess](/content/phanan/htaccess/README.md)
+
+### Miscellaneous / Force Downloading
+
+### Force Downloading
+
+Sometimes you want to force the browser to download some content instead of displaying it.
+
+```apacheconf
+<Files *.md>
+    ForceType application/octet-stream
+    Header set Content-Disposition attachment
+</Files>
+```
+
+Now there is a yang to this yin:
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,19 @@
 
 *   [Python Job Board](https://www.python.org/jobs/)
 
-## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [4. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Beginner Books
+
+#### R Inferno [\[Online\]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) *Free*
+
+<img src="http://www.burns-stat.com/wp-content/uploads/2012/11/R_inferno_cover.jpg" width="200px"/>
+
+"If you are using R and you think you’re in hell, this is a map for you."
+
+This is a great introduction to several aspects of R programming. Loading data into R, iterating over data with loops & logic statements, author even touches on creating packages. Nice and pretty thorough book on R.
+
+## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Templates
 

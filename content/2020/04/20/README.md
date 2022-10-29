@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 20, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -199,6 +199,16 @@
 ### Resources / Courses
 
 *   [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
+
+## [17. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Go
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/discord_gophers.webp">
+
+[**Discord Gophers**](https://discord.com/invite/PxwHvBS) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/bwmarrin/discordgo)\
+Notable Channels: `#golang`, `#job-market-only`, `#go-art-only`, `#go-news-only`, `#discordgo`, `#disgord`, `#dca`, `#arikawa`\
+Language: English
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,6 +37,12 @@
 
 *   [fish-shell (⭐20k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 *   [oh-my-zsh (⭐151k)](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
+
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Jake Yesbeck <http://jakeyesbeck.com/>
 
 ---
 

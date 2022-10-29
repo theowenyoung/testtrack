@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2018
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,25 +69,85 @@
 
 *   [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
-## [8. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Ukraine 🇺🇦
+
+### Kyiv
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh" height="70px" width="70px" align="left" alt="" />
+
+**Aleksey Shvayka**\
+Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk\
+[https://twitter.com/shvaikalesh\_](https://twitter.com/shvaikalesh)
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/listochkin" height="70px" width="70px" align="left" alt="" />
+
+**Andrey Listochkin**\
+Topics: Rust, JavaScript, Skills, Architecture\
+<https://twitter.com/listochkin>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eagleeye_s" height="70px" width="70px" align="left" alt="" />
+
+**Andrii Shumada**\
+Topics: JavaScript, Node.js, Streams\
+<https://twitter.com/eagleeye_s>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/SilentImp" height="70px" width="70px" align="left" alt="" />
+
+**Anton Nemtsev**\
+Topics: HTML, CSS, Web Standards\
+<https://twitter.com/SilentImp>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yavorsky_" height="70px" width="70px" align="left" alt="" />
+
+**Artem Yavorsky**\
+Topics: Babel, ECMAScript, Compilers\
+<https://twitter.com/yavorsky_>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/roman01la" height="70px" width="70px" align="left" alt="" />
+
+**Roman Liutikov**\
+Topics: ClojureScript, React, Compilers\
+<https://twitter.com/roman01la>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tshemsedinov" height="70px" width="70px" align="left" alt="" />
+
+**Timur Shemsedinov**\
+Topics: Node.js, Programming, JavaScript, Highload\
+<https://twitter.com/tshemsedinov>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mourner" height="70px" width="70px" align="left" alt="" />
+
+**Vladimir Agafonkin**\
+Topics: Maps, Algorithms\
+<https://twitter.com/mourner>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/akella" height="70px" width="70px" align="left" alt="" />
+
+**Yuri Artyukh**\
+Topics: HTML, CSS, JavaScript, WebGL\
+<https://twitter.com/akella>
+
+## [9. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Boxes
 
 *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
-## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [10. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [3Box](https://3box.io) - Create and manage your Ethereum Profile, and your personal data. Use the 3box-js library to integrate profiles into your dapp. [Source (⭐416)](https://github.com/uport-project/3box)
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Regular Expression
 
 *   [CTRE (⭐2.5k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Multi Database
 
@@ -97,13 +157,13 @@
 
 *   [CircularProgress (⭐507)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
 
-## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
 *   [sqlcheck (⭐2.2k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
-## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [14. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Fuzzing / Sub Domain Enumeration
 
@@ -113,7 +173,7 @@
 
 *   [WAScan](https://github.com/m4ll0k/WAScan) - Is an open source web application security scanner that uses "black-box" method, created by [@m4ll0k](https://github.com/m4ll0k).
 
-## [14. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [15. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Ruby / Scala
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2017
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -118,7 +118,13 @@
 
 *   [mixpanel-crystal (⭐0)](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
 
-## [17. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [17. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / U companies
+
+*   UpGrad <https://engineering.upgrad.com>
+
+## [18. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 

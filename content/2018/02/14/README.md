@@ -7,6 +7,7 @@
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer (⭐692)](https://github.com/dib-lab/khmer)
     *   "Channeling Community Contributions to Scientific Software: A Sprint Experience" ([paper](https://doi.org/10.5334/jors.96))
     *   "Walking the Talk: Adopting and Adapting Sustainable Scientific Software Development processes in a Small Biology Lab" ([paper](http://dx.doi.org/10.5334/jors.35))

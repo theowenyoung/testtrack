@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,7 +59,17 @@
 
 *   [terraform-provider-checkly (⭐37)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
-## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Starter Kits and Toolchains
+
+*   [tsdx](https://tsdx.io/) - Zero-config CLI for TypeScript package development
+
+### React Native Libraries / Charts
+
+*   [react-native-react-bridge (⭐109)](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
+
+## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### JAMstack
 

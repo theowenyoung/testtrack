@@ -1,30 +1,72 @@
 # Awesome List Updates on Jan 12, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [1. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Official
+
+*   [Ripple Website](https://ripple.com/)
+*   [Ripple Github](https://github.com/ripple/)
+
+### Books / Docs / Videos
+
+*   [Ripple Labs: Building the Internet of Money](https://www.youtube.com/watch?v=aoixyCNWg5k)
+
+### Code
+
+*   [rippled (⭐4.2k)](https://github.com/ripple/rippled/): Ripple peer-to-peer network daemon
+*   [ripple-python (⭐49)](https://github.com/miracle2k/ripple-python/): Python Lib
+*   [rubblelabs/ripple (⭐89)](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+*   [ripple-client (⭐1.3k)](https://github.com/ripple/ripple-client/): Web client
+*   [ripple-client-desktop (⭐118)](https://github.com/ripple/ripple-client-desktop): Desktop client
+*   [ripplecharts (⭐33)](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
+*   [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
+*   [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
+*   [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
+*   [ripple-blobvault (⭐36)](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+*   [ripple-authd](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
+*   [rippled-historical-database (⭐91)](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+*   [ripple-data-api (⭐47)](https://github.com/ripple/ripple-data-api)
+*   [ripple-vault-client](https://github.com/vhpoet/awesome-ripple/blob/master/README.md/ripple-vault-client)
+*   [federation-python (⭐4)](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+*   [Ripple Rails (⭐5)](https://github.com/singpolyma/ripple-rails/)
+*   [Ripple Gen (⭐24)](https://github.com/CodeShark/RippleGen/)
+*   [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
+*   [rubblelabs/tx (⭐18)](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+
+### Hosted Tools
+
+*   [Ripple Trade](https://rippletrade.com/): Official Ripple client developed by Ripple Labs
+
+### Codius
+
+*   [Codius Website](https://codius.org/)
+*   [Codius Github](https://github.com/codius)
+
+## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Resources / Websites and Tutorials
 
 *   [Draw Particles using HTML5 Canvas](https://medium.com/@raphamorim/draw-particles-using-html5-canvas-6151ab214f7a) - Shortcut tutorial shows how create simple and colorful particles.
 
-## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### DevOps Tools
 
 *   [Centurion (⭐1.7k)](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets.
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Websites
 
 *   [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
 
-## [4. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [5. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Processes and Threads / NoSQL Databases
 
@@ -36,13 +78,13 @@
 
 *   [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (sort of like Perl crossed with PHP)
 
-## [5. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
+## [6. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 
 ### GDC Talks / Table of Contents
 
 *   \[2011] [Life and Death and Middle Pair: Go, Poker and the Sublime](http://gdcvault.com/play/1014383/): Frank Lantz (Zynga)
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 

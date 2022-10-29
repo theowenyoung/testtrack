@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,19 @@
 
 *   [Bitscout (⭐408)](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
 
-## [4. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Germany 🇩🇪
+
+### Augsburg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Jhnnns" height="70px" width="70px" align="left" alt="" />
+
+**Johannes Ewald**\
+Topics: Tooling, Standards, webpack\
+<https://twitter.com/Jhnnns>
+
+## [5. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 
@@ -32,25 +44,25 @@
 
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communities. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
-## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Blogs
 
 *   [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
 
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
 *   [electron-util (⭐1.2k)](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [WhatsNew (⭐1.5k)](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 
-## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
@@ -60,19 +72,19 @@
 
 *   [Decoupled CMS example with GraphQL and Next.js (⭐30)](https://github.com/janit/decoupled-cms-nextjs-graphql)
 
-## [9. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
+## [10. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 
 ### Contracts
 
 *   [Apress Standard Contract](https://web.archive.org/web/20161010102603/http://www.apress.com/files/Apress_Contract.pdf)
 
-## [10. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [11. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Dedicated
 
 *   [aprs2influxdb (⭐26)](https://github.com/FaradayRF/aprs2influxdb) - Interfaces ham radio APRS-IS servers and saves packet data into an influxdb database
 
-## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [12. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Books
 

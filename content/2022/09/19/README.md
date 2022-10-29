@@ -260,9 +260,9 @@
 
 ## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Abduction / Scientific Discovery
+### Meta-Level Considerations / The Aha! Moment
 
-*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
+*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 ---
 

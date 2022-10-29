@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2020
 
-68 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1092,7 +1092,13 @@
 
 *   [tmux-notify (⭐61)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 
-## [63. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [63. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### On-line courses / Ruby
+
+*   [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) - An interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image (⭐6)](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
+
+## [64. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Generative Art
 
@@ -1123,7 +1129,7 @@
 
 *   [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) - The R playlist includes videos on manipulating data with dplyr, visualizing data with ggplot2 and ggThemeAssist, data types and structures, important base r functions, handling datetimes with lubridate, conquering factors with forcats, manipulating text with stringr.
 
-## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1145,7 +1151,7 @@
 
 *   [codesnip.com.br](https://codesnip.com.br) — Simple code snippets manager with categories, search and tags. free and unlimited.
 
-## [65. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [66. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
@@ -1156,7 +1162,7 @@
 
 *   [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
 
-## [66. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [67. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
@@ -1171,13 +1177,13 @@
 *   [hs-to-coq (⭐62)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [Roosterize (⭐15)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
-## [67. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [68. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
 *   [libonnx (⭐428)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
-## [68. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [69. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Exercises and Short Examples
 

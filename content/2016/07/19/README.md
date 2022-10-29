@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,13 +69,23 @@
 
 *   [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Advanced Web Machinery <https://advancedweb.hu/>
+
+### Companies / K companies
+
+*   King <https://techblog.king.com/>
+
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### RESTful API
 
 *   [Friboo (⭐117)](https://github.com/zalando/friboo)
 
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Codebases for Reference / Videos
 

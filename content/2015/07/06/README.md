@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,6 +60,20 @@
 
 *   [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) \[19:17]
 *   [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) \[14:15]
+
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / T companies
+
+*   Transferwise <http://tech.transferwise.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jessie Frazelle <https://blog.jessfraz.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Mike Fogus <http://blog.fogus.me/>
 
 ---
 

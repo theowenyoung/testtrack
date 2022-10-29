@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 07 - Jun 13, 2021
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -174,14 +174,26 @@
 
 *   [Splunk App for Corda](https://github.com/splunkdlt/splunk-app-for-corda) - Splunk official integration app for Corda monitoring.
 
-## [21. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Validators / Ruby
+
+*   [Conveyal's gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator) - A Java-based GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one.
+*   [Conveyal's gtfs-lib (⭐52)](https://github.com/conveyal/gtfs-lib/) - Conveyal's successor to their own [gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator), a Java-based library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
+*   [Google's feedValidator (⭐651)](https://github.com/google/transitfeed/wiki/FeedValidator) - Google-supported Python-based GTFS validator.
+*   [GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [the Google Python feedValidator (⭐651)](https://github.com/google/transitfeed/wiki/FeedValidator) and [Conveyal's gtfs-validator (⭐37)](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
+*   [gtfs-validator-api (⭐1)](https://github.com/cal-itp/gtfs-validator-api) - This Python package is a thin wrapper around [MobilityData/gtfs-validator (⭐133)](https://github.com/MobilityData/gtfs-validator) that handles intermediate files produced and finds gtfs-validator's output file so it can be given a specific name or returned as a string.
+*   [MobilityData's gtfs-validator (⭐133)](https://github.com/MobilityData/gtfs-validator) - A open-source GTFS validator canonically following the GTFS spec implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
+*   [Reflect GTFS Validator (hosted by Foursquare ITP)](https://reflect.foursquareitp.com) - Transit schedule and GTFS validation platform by [Foursquare ITP](https://www.foursquareitp.com) that includes a free, web-based GTFS validator based on [gtfs-lib (⭐52)](https://github.com/conveyal/gtfs-lib/).
+
+## [22. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Network Statistics
 
 *   [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
 *   [Golem Stats backend (⭐1)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 
-## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [23. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -191,32 +203,32 @@
 
 *   [vite-vue3-lowcode (⭐2k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 
-## [23. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [24. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Books / Single Topics
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
 
-## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [CD74HC4067](https://crates.io/crates/cd74hc4067) - GPIO - 16-channel digital and analog multiplexer - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-the-CD74HC4067) - [github (⭐1)](https://github.com/barafael/cd74hc4067-rs) - ![crates.io](https://img.shields.io/crates/v/cd74hc4067.svg)
 *   [HC-12](https://crates.io/crates/hc12-at) - SERIAL - Wireless serial transceiver module - [Intro blog post](https://barafael.github.io/A-Platform-Agnostic-Driver-for-the-HC12-serial-radio-module/) - [github (⭐1)](https://github.com/barafael/hc12-at-rs) - ![crates.io](https://img.shields.io/crates/v/hc12-at.svg)
 
-## [25. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [26. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
 *   [DFIRTrack (⭐406)](https://github.com/dfirtrack/dfirtrack) - Incident Response tracking application handling one or more incidents via cases and tasks with a lot of affected systems and artifacts.
 
-## [26. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [27. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-rancher2 (⭐197)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
@@ -227,7 +239,7 @@
 
 *   [Paiza](https://paiza.cloud/en/) — Develop Web apps in Browser without having the need to setup anything. Free Plan offers 1 server with 24 hours lifetime and 4 hours running time per day with 2 CPU cores, 2 GB RAM and 1 GB storage.
 
-## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -267,26 +279,26 @@
 *   [shfmt (⭐5.1k)](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 *   [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 
-## [29. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [30. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Libraries
 
 *   [go-mcproto (⭐31)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
-## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Vue.js
 
 *   [List of 300 VueJS Interview Questions (⭐1.8k)](https://github.com/sudheerj/vuejs-interview-questions)
 
-## [31. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [32. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Markdown Editor
 
 *   [react-simplemde-editor (⭐643)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.7k)](https://github.com/Ionaru/easy-markdown-editor).
 *   [react-md-editor (⭐1.1k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
-## [32. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [33. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
@@ -320,7 +332,7 @@
     *   [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services
     *   [S3 Design Patterns](https://d1.awsstatic.com/whitepapers/AmazonS3BestPractices.pdf) - Best Practices Design Patterns: Optimizing Amazon S3 Performance
 
-## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Algorithms / Asymmetric encryption
 
@@ -331,7 +343,7 @@
 
 *   [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A dashboard of most active cryptocurrencies discussed on Reddit.
 
-## [34. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [35. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -344,13 +356,13 @@
 *   [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - Tutorial on the different ways to write an MCMC sampler in JAX along with speed benchmarks.
 *   [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - Tutorial on how to add a progress bar to compiled loops in JAX using the `host_callback` module.
 
-## [35. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [36. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Social
 
 *   [ig-latest-post.js (⭐165)](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
 
-## [36. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [37. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
@@ -364,7 +376,7 @@
 
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 
-## [37. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [38. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Assets/Placeholders
 
@@ -740,13 +752,13 @@
 *   :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 *   :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 
-## [38. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [39. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Websites
 
 *   [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
 
-## [39. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [40. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
@@ -756,7 +768,7 @@
 
 *   [proto-repl (Atom)](https://atom.io/packages/proto-repl)
 
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Community-Supported Agriculture (CSA)
 
@@ -773,7 +785,7 @@
 *   [Flame (⭐3.1k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
 *   [Jmz HomeProxy (⭐18)](https://github.com/jmztaylor/homelab_proxy) - A simple and clean dashboard for self hosted services. `GPL-3.0` `PHP`
 
-## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -787,7 +799,7 @@
 
 *   [dananas/kotlin-glsl (⭐34)](https://github.com/dananas/kotlin-glsl) - Write your GLSL shaders in Kotlin
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -797,7 +809,7 @@
 
 *   [@adamdehaven/vue-custom-tooltip (⭐59)](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 :tada: customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
 
-## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -816,19 +828,19 @@
 
 *   [klutzy/suruga (⭐123)](https://github.com/klutzy/suruga) — A Rust implementation of [TLS 1.2](https://datatracker.ietf.org/doc/html/rfc5246)
 
-## [44. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [45. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
 *   [Light Wallet (⭐37)](https://github.com/JoinSEEDS/seeds_light_wallet) — EOSIO-based Cryptocurrency Wallet & Ecosystem Explorer by [SEEDS](https://joinseeds.com)
 
-## [45. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [46. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
 *   [ansible-navigator (⭐189)](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -873,7 +885,7 @@
 
 *   [mhartington/formatter.nvim (⭐649)](https://github.com/mhartington/formatter.nvim) - A format runner for Neovim written in Lua.
 
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -995,7 +1007,7 @@
 
 
 
-## [48. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [49. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 

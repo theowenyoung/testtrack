@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,38 +26,80 @@
 
 *   [crystal-rethinkdb (⭐21)](https://github.com/kingsleyh/crystal-rethinkdb) - Driver for RethinkDB / RebirthDB
 
-## [3. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Africa / South Africa 🇿🇦
+
+### Lagos
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mazibayo" height="70px" width="70px" align="left" alt="" />
+
+**Adebayo Opesanya**\
+Topics: JavaScript, Node.js, TypeScript, Testing, Community\
+<https://twitter.com/mazibayo>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnayoOleru" height="70px" width="70px" align="left" alt="" />
+
+**Anayo Oleru**\
+Topics: JavaScript, Node.js, TypeScript, Testing, React, Redux, React Native, Open Source, PWAs\
+<https://twitter.com/AnayoOleru>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/codebeast" height="70px" width="70px" align="left" alt="" />
+
+**Christian Nwamba**\
+Topics: JavaScript, React, Vue, Angular, PWAs, CSS, Standards\
+<https://twitter.com/codebeast>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ireaderinokun" height="70px" width="70px" align="left" alt="" />
+
+**Ire Aderinokun**\
+Topics: Progressive Web Apps, CSS, Standards\
+<https://twitter.com/ireaderinokun>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/unicodeveloper" height="70px" width="70px" align="left" alt="" />
+
+**Otemuyiwa Prosper**\
+Topics: JavaScript, React, Vue, Angular, PWAs, PHP, Laravel\
+<https://twitter.com/unicodeveloper>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/developerayo" height="70px" width="70px" align="left" alt="" />
+
+**Shodipo Ayomide**\
+Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
+<https://twitter.com/developerayo>
+
+## [4. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
 ### Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
 *   [Chowdren](http://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Microchip
 
 *   [`sam3x8e`](https://crates.io/crates/sam3x8e) Peripheral access API for Atmel SAMD3X8E microcontrollers (generated using svd2rust)  - ![crates.io](https://img.shields.io/crates/v/sam3x8e.svg)
 
-## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [react-native-animated-loader (⭐154)](https://github.com/vikrantnegi/react-native-animated-loader) - A React Native Loader Component which uses Airbnb's Lottie for beautiful loader animations.
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :octocat: [Clean Code concepts adapted for TypeScript (⭐6.7k)](https://github.com/labs42io/clean-code-typescript)
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [localstack/localstack :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Colors
 
@@ -67,7 +109,7 @@
 
 *   [DTTableViewManager (⭐453)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Online books
 

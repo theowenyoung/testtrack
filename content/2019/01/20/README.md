@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,13 +35,25 @@
 
 *   [Established Remote (⭐5.7k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Asia / India 🇮🇳
+
+### Indore
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MohitRajput987" height="70px" width="70px" align="left" alt="" />
+
+**Mohit Rajput**\
+Topics: Android, Java, Kotlin, Flutter, Blockchain\
+<https://twitter.com/MohitRajput987>
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
 
-## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Rust
 
@@ -50,7 +62,7 @@
 *   [rust-exam: A set of questions about the Rust programming language (⭐13)](https://github.com/jean553/rust-exam)
 *   [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
 
-## [7. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [8. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -70,7 +82,7 @@
 
 *   [DistroWatch](https://www.patreon.com/distrowatch) - Reviews and tutorials for Linux/BSD.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Build system
 
@@ -100,7 +112,7 @@
     *   [cargo-watch](https://crates.io/crates/cargo-watch) — utility for cargo to compile projects when sources change [![build badge](https://api.travis-ci.org/passcod/cargo-watch.svg?branch=master)](https://travis-ci.org/passcod/cargo-watch)
     *   [dtolnay/cargo-expand (⭐1.7k)](https://github.com/dtolnay/cargo-expand) — Expand macros in your source code
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Articles
 

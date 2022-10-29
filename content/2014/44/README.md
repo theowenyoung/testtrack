@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03 - Nov 09, 2014
 
-10 awesome lists updated this week.
+11 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -131,7 +131,18 @@
 
 *   [Streamio FFMPEG (⭐1.6k)](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
 
-## [10. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [10. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** \[45:49]
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** \[52:43]
+
+### Methodologies
+
+*   [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** \[13:27]
+
+## [11. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Serverside integrations / Dojo 2
 

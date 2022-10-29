@@ -8,6 +8,12 @@ A list of awesome resources for tmux
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Tools and session management
+
+*   [tmux-powerline (⭐2.9k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
+
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
 ### Plugins

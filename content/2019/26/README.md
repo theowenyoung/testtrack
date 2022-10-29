@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01 - Jul 07, 2019
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -161,58 +161,68 @@
 
 *   [RadioGroup (⭐185)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
-## [18. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [18. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Pleroma](https://pleroma.social): Federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations.
+
+### Related Lists
+
+*   [https://github.com/openblockchains/awesome-blockchains (⭐3.6k)](https://github.com/openblockchains/awesome-blockchains)
+
+## [19. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
 *   [Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design) - DDD series introduction and talk about how to implement DDD with TypeScript
 
-## [19. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [20. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Presentations, Slides / TikZ
 
 *   [nics](https://nics.nilcons.com/) - An opinionated alternative to Beamer, that we created with the hopes to make common tasks very easy and beautifully rendered by default.  Has awesome documentation and a detailed cheatsheet to help you getting started.
 
-## [20. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [21. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Talks
 
 *   [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - FITC talk by Matt DesLauriers about his passion for generative art.
 
-## [21. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [22. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Resources in Other Languages / Russian
 
 *   [Telegram channel](https://t.me/denoland_ru)
 *   [Telegram chat](https://t.me/denoland)
 
-## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
 *   [vega-lite-api (⭐181)](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
 
-## [23. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Misc
 
 *   [Wagtail Import/Export Tool (⭐11)](https://github.com/berkalpyakici/wagtail-import-export-tool) - Refactor of [Wagtail Import Export (⭐31)](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
 
-## [24. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [25. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [strava-box (⭐34)](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
 *   [music-box (⭐94)](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
 
-## [25. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [26. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Functional
 
 *   [atomico (⭐877)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 *   [haunted (⭐2.4k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 
-## [26. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
@@ -222,14 +232,14 @@
 
 *   [Bionic](https://bionicframework.github.io/Documentation/) - An Ionic CLI clone for Blazor projects.
 
-## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Archive / Other Tools
 
 *   [A gentle introduction to lit-html](https://dev.to/julcasans/a-gentle-introduction-to-lit-html-3d74)
 *   [lit-html templates from zero to hero](https://dev.to/julcasans/lit-html-templates-from-zero-to-hero-2afm)
 
-## [28. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [29. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### GraphQL
 
@@ -239,13 +249,13 @@
 
 *   [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
 
-## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [30. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Payments / Custom Dialog
 
 *   [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
@@ -255,7 +265,7 @@
 
 *   [`avr-hal`](https://github.com/Rahix/avr-hal) - Board support crate for several AVR-based boards including the Arduino Uno and the Arduino Leonardo
 
-## [31. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [32. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Books
 
@@ -264,7 +274,7 @@
 *   [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
 *   [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books\&ie=UTF8\&qid=1419267906\&sr=1-1\&keywords=100+Things+Every+Designer+Needs+to+Know?utm_source=CMblog\&utm_medium=post\&utm_campaign=blog_)
 
-## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Cryptography
 
@@ -274,7 +284,7 @@
 
 *   [sse.cr (⭐16)](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) client
 
-## [33. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [34. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks
 
@@ -285,13 +295,13 @@
 
 *   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
 
-## [34. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [35. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Code check/review, debug
 
 *   [AsmProfiler (⭐110)](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
 
-## [35. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [36. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Custom Scrollbar
 
@@ -301,19 +311,19 @@
 
 *   [react-formawesome (⭐5)](https://github.com/MAKARD/react-formawesome) - Complex library for creating awesome forms.
 
-## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [37. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) (June, 2019)
 
-## [37. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
 *   [Python Interview Questions and Answers (2019)](https://www.interviewbit.com/python-interview-questions/)
 
-## [38. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [39. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / ROS-I EU Spring 2019 Workshop
 
@@ -323,7 +333,7 @@
 
 *   Robot Modularity with Xilinx and H-ROS (Xilinx Inc.) [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
 
-## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
@@ -345,13 +355,13 @@
 
 *   [Scriban (⭐2.2k)](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET.
 
-## [40. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [41. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Design Patterns
 
 *   [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) - Layers are a way to separate responsibilities and manage dependencies.
 
-## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [42. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Relative Path Overwrite
 
@@ -384,7 +394,7 @@
 
 *   [Open redirect/SSRF payload generator](https://tools.intigriti.io/redirector/) - Open redirect/SSRF payload generator by [intigriti](https://www.intigriti.com/).
 
-## [42. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
+## [43. Awesome Arch](/content/PandaFoss/Awesome-Arch/week/README.md)
 
 ### Arch-based projects / Linux
 
@@ -396,7 +406,7 @@
 *   [Arch Hurd](https://archhurd.org/) - A derivative work of Arch Linux porting it to the GNU Hurd system with packages optimised for the i686 architecture.
 *   [ArchWSL](https://git.io/archwsl) - ArchLinux as a WSL Instance.
 
-## [43. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [44. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### Tutorials and Examples
 
@@ -406,7 +416,7 @@
 
 *   [GStreamer (⭐2)](https://github.com/jokade/scalanative-gstreamer) - Bindings for the [GStreamer](https://gstreamer.freedesktop.org) multimedia framework.
 
-## [44. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
+## [45. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/week/README.md)
 
 ### Community
 
@@ -490,7 +500,7 @@
 *   [System Status](https://www.cloudflarestatus.com)
 *   [Network Map](https://www.cloudflare.com/network)
 
-## [45. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [46. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -954,7 +964,7 @@
 *   Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 *   Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
 
-## [46. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [47. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
@@ -964,7 +974,7 @@
 
 *   [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
 
-## [47. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [48. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Videos
 

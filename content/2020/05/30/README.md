@@ -1,6 +1,6 @@
 # Awesome List Updates on May 30, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,6 +17,7 @@
 *   [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
 ## [2. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [RazorOps](https://razorops.com/)
 
   Description: RazorOps is a Container-Native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes
@@ -155,7 +156,55 @@
 
 *   [WSLab (⭐994)](https://github.com/microsoft/WSLab) - Windows Server rapid lab deployment scripts.
 
-## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [16. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Linux Distributions
+
+[Gaming on Linux↴](#gaming-on-linux)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/arch_linux_unofficial.webp">
+
+[**Arch Linux \[unofficial\]**](https://discord.com/invite/MrhPdhn) \
+Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/fedora_linux.webp">
+
+[**Fedora Linux**](https://discord.com/invite/Fedora) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://getfedora.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/fedora-infra) \
+Notable Channels: `#home`, `#man-pages`, `#silverblue-containers`, `#server-rhel-centos`, `#arm-raspberry`, `#showcase`, `#gaming-general`, `#hardware-for-linux` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gentoo_linux.webp">
+
+[**Gentoo Linux**](https://discord.com/invite/Gentoo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gentoo.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/gentoo) \
+Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `#ebuilds`, `#resources`, `#containers` \
+Language: English, 日本語 \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_mint_community.webp">
+
+[**Linux Mint Community**](https://discord.com/invite/EVVtPpw) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/UtopicUnicorns/artemis) \
+Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/manjaro_linux.webp">
+
+[**Manjaro Linux**](https://discord.com/invite/t6GJuTC) \
+Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#help-general`, `#help-installation`, `#programming`, `#customizations` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/opensuse.webp">
+
+[**openSUSE**](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/openSUSE) \
+Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
+Language: English, français, Deutsch, italiano, polski, español, Nederlands \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/ubuntu_hideout.webp">
+
+[**Ubuntu Hideout**](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://ubuntuhideout.com/) \
+Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
+Language: English
+
+## [17. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 

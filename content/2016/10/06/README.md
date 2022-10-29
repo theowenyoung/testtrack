@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,7 +75,32 @@
 
 *   [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
 
-## [5. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Alternative To - <http://alternativeto.net/>
+*   App Rater - <https://apprater.net/add/>
+*   Boing Boing - <http://boingboing.net/sub/>
+*   Capterra - <http://www.capterra.com/vendors/sign-up>
+*   Crazy About Startups - <http://www.crazyaboutstartups.com/index.php/share-your-startup-form>
+*   Geek Wire - <http://geekwire.com/startup-list/>
+*   Inc 42 - <https://inc42.com/startup-submission/>
+*   Killer Startups - <http://killerstartups.com/submit-startup/>
+*   Launched - <https://launched.io/SubmitStartup>
+*   Next Big Product - <http://nextbigproduct.net/product-submission/>
+*   Robingood - <http://tools.robingood.com/>
+*   Side Projectors - <https://www.sideprojectors.com>
+*   SnapMunk - <https://www.snapmunk.com/submit-your-startup/>
+*   Stack Share - <http://stackshare.io/>
+*   Startup Beat - <http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/>
+*   Startup Inspire - <https://www.startupinspire.com/submit>
+*   Startup Register - <http://startupregister.net/register-your-startup/>
+*   Tech Faster - <http://techfaster.com/submit-your-company/>
+*   Venture Beat - <http://venturebeat.com/news-tips/>
+*   Ycombinator - <https://news.ycombinator.com/>
+
+## [6. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
 ### Task Runners
 
@@ -93,13 +118,13 @@
 
 *   [gzip-size-cli (⭐180)](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 
-## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Resources / Articles
 
 *   [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 

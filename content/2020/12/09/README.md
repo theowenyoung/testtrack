@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,13 @@
 
 *   [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React and TypeScript
+
+*   [React by Example](https://reactbyexample.github.io/)
+
+## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Databases
 
@@ -71,7 +77,7 @@
     *   [dokeysto (⭐11)](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
         values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / SEO and SMO
 
@@ -81,19 +87,19 @@
 
 *   [Wagtail SVG (⭐29)](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Misc / Other
 
 *   [javascript-algorithms (⭐153k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
-## [12. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [13. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
 *   [Kubernetes Native Microservices with Quarkus, and MicroProfile](https://www.manning.com/books/kubernetes-native-microservices-with-quarkus-and-microprofile) by [John Clingan](https://twitter.com/jclingan) and [Ken Finnigan](https://twitter.com/kenfinnigan)
 
-## [13. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [14. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### Arch-based projects / Not Linux
 
@@ -103,13 +109,13 @@
 
 *   [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 
-## [14. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [15. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Open Sources Intelligence (OSINT) / Penetration Testing Report Templates
 
 *   [Depix (⭐23k)](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots (by de-pixelating text).
 
-## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Threat intelligence / Threat signature packages and collections
 

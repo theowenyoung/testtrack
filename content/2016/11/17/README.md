@@ -1,12 +1,22 @@
 # Awesome List Updates on Nov 17, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / L companies
+
+*   Lyft <https://eng.lyft.com/>
+
+### Companies / S companies
+
+*   Squarespace <https://engineering.squarespace.com/>
+
+## [2. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Inspiration
 
@@ -35,25 +45,25 @@
 *   [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 *   [Sip](http://sipapp.io/): A color picker for Mac.
 
-## [2. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [3. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Web
 
 *   [Commix (⭐3.5k)](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 
-## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Development Environment
 
 *   [Docker](https://www.docker.com/) - A containerization platform.
 
-## [4. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [5. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Articles
 
 *   [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Web Programming • Libraries
 
@@ -77,7 +87,7 @@
 *   [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 *   [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
-## [6. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
+## [7. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 
@@ -136,7 +146,7 @@
 
 *   [promise-nodeify (⭐1)](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 

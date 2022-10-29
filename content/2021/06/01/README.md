@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2021
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -143,13 +143,19 @@
 
 
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Native Apps (open source)
+
+*   [opentripplanner-client-library (⭐1)](https://github.com/CUTR-at-USF/opentripplanner-client-library) - A Kotlin Multiplatform library for making API requests and parsing responses from an OpenTripPlanner v2 server for trip plans, bike rental info, and server metadata for Android, iOS, and web.
+
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
 *   [Maze (⭐217)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
@@ -157,26 +163,26 @@
     *   polymorphic-functions dispatch on the types of the arguments supplied to it. This helps dispatching on specialized arrays as well as user-defined types.
     *   for differences with specialization-store and fast-generic-functions, see its README.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [v3confirm (⭐4)](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Books
 
 *   [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 *   [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 
-## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [15. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### FIAT
 
 *   [GnuCash](https://gnucash.org/) - GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
 
-## [15. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [16. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Online Analyzers
 
@@ -195,7 +201,7 @@
 
 *   [PlaystoreDownloader (⭐991)](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / iOS SDK
 

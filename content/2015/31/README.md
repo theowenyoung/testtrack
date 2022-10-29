@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2015
 
-24 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,26 +18,46 @@
 
 *   [Phosphorum (⭐361)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
-## [3. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Web Development
+
+*   [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** \[01:00:52]
+
+## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 
 *   [flexbox (pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
 
-## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [5. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
 *   [DataTables](http://rstudio.github.io/DT/) - Displays R matrices or data frames as interactive HTML tables.
 *   [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - Enables easy creation of D3 scatterplots, line charts, and histograms.
 
-## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / CLI
 
 *   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / I companies
+
+*   IFTTT <http://engineering.ifttt.com/>
+
+### Companies / U companies
+
+*   Uber <http://eng.uber.com/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Paul Lewis <https://aerotwist.com/blog/>
+
+## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Websites
 
@@ -47,19 +67,19 @@
 
 *   [char-rnn (⭐11k)](https://github.com/karpathy/char-rnn)
 
-## [7. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Package Management / Directory Navigation
 
 *   [dotfiler (⭐230)](https://github.com/svetlyak40wt/dotfiler) – Shell agnostic git based dotfiles package manager, written in Python.
 
-## [8. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [10. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
 *   [Live-reload for Polymer Chrome Apps](http://codingwithgerwin.blogspot.it/2015/07/live-reload-for-polymer-chrome-apps.html)
 
-## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Single controls
 
@@ -77,13 +97,13 @@
     // *Supports all RAD Studio versions since 2007. Removes lots of annoying bugs that EMBT haven't fixed for years. Yay!*
 *   [CnWizards](https://github.com/cnpack). Free Plug-in Tool Set for Delphi/C++ Builder/CodeGear RAD Studio to Improve Development Efficiency.
 
-## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In French
 
 *   [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 
-## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Metric & Metric Collection
 
@@ -95,7 +115,7 @@
     *   [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
     *   [Freeboard (⭐6.3k)](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -105,19 +125,19 @@
 
 *   [access\_profiler (⭐68)](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. \[GPL3]
 
-## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Videos
 
 *   [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
-## [14. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3-resume (⭐40)](https://github.com/glena/d3-resume) - Resume visualizer
 
-## [15. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [17. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Videos / Tutorial-only
 
@@ -149,13 +169,25 @@
 *   [on Reddit](http://www.reddit.com/r/sketchapp)
 *   [SketchTalk](http://sketchtalk.io/), unofficial forum
 
-## [16. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Rob Furlong (⭐1)](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
+
+## [19. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### terminal
 
 *   [vantage.js (⭐3.5k)](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
 
-## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [20. Tools](/content/lvwzhen/tools/week/README.md)
+
+### CSS
+
+*   [sassme](http://sassme.arc90.com/)
+
+## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
@@ -177,7 +209,7 @@
 
 *   [yaml\_elixir (⭐145)](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
 
-## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
@@ -204,7 +236,7 @@
 
 *   :octocat: [palantir/plottable (⭐2.9k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
 
-## [19. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [23. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### NoSQL
 
@@ -231,7 +263,7 @@
 
 *   [RHadoop (⭐762)](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 
-## [20. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [24. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Android tools / Misc
 
@@ -253,7 +285,7 @@
 *   [NYT Graphics](https://twitter.com/nytgraphics)
 *   [Visualizing](https://twitter.com/VisualizingOrg)
 
-## [21. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [25. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Functional Programming
 
@@ -269,13 +301,14 @@
 
 *   [Are functions like map(), reduce() and filter() already optimized for traversing array?](http://qr.ae/Rsg6I0)
 
-## [22. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [Android Scripting (⭐2.3k)](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [27. Tips](/content/git-tips/tips/week/README.md)
+
 ## List of all files changed in a commit
 
 ```sh
@@ -375,7 +408,7 @@ git worktree add -b <branch-name> <path> <start-point>
 git worktree add --detach <path> HEAD
 ```
 
-## [24. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / General-Purpose Machine Learning
 

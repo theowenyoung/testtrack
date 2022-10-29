@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 14 - Feb 20, 2022
 
-66 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -606,7 +606,17 @@
 
 *   [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 
-## [38. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [38. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [R5: Rapid Realistic Routing on Real-world and Reimagined networks (⭐203)](https://github.com/conveyal/r5) - A Java-based routing engine developed by Conveyal for multimodal (transit/bike/walk/car) networks. It currently plans many trips over a time window for scenario planning and analytics purposes. A related R wrapper package ([r5r (⭐113)](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+
+### Academic papers / Ruby
+
+*   [Higgins et al. - "Calculating place-based transit accessibility: Methods, tools and algorithmic dependence" (2022)](https://doi.org/10.5198/jtlu.2022.2012) - Compares software tools for calculating accessibility by walking and public transit including ArcGIS Pro, Emme, R5R, and OpenTripPlanner.
+
+## [39. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tutorials and Blog Posts / How-To
 
@@ -624,19 +634,19 @@
 
 *   [Terraform GitOps Framework](https://www.kubestack.com) - Everything you need to build reliable automation for AKS, EKS and GKE Kubernetes clusters in one free and open-source framework.
 
-## [39. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [40. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Games
 
 *   [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
 
-## [40. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [41. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
-## [41. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [42. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2021
 
@@ -717,13 +727,13 @@
 
 *   [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-orm (⭐114)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Marks / Diagnostics
 
@@ -733,13 +743,13 @@
 
 *   [ZhiyuanLck/smart-pairs (⭐113)](https://github.com/ZhiyuanLck/smart-pairs) - Ultimate smart pairs for Neovim written by Lua.
 
-## [44. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Username Check / Telegram
 
 *   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 
-## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Frameworks
 
@@ -1355,7 +1365,6 @@
 *   [watch (⭐3)](https://github.com/enrico9034/zsh-watch-plugin) - Easily prefix your current or previous commands with watch by pressing `CTRL + W`.
 *   [watson.zsh (⭐3)](https://github.com/bcho/Watson.zsh) - A plugin for the [watson (⭐2.1k)](https://github.com/TailorDev/Watson) time management system.
 *   [wd (⭐644)](https://github.com/mfaerevaag/wd) - Warp directory lets you jump to custom directories in ZSH, without using `cd`. Why? Because `cd` seems inefficient when the folder is frequently visited or has a long path.
-*   [wdnote (⭐0)](https://github.com/Vesdii/zsh-wdnote) - Prints the contents of a `.wdnote` file if present when changing to a new directory.
 *   [web-search (sinetoami) (⭐2)](https://github.com/sinetoami/web-search) - Add commands to run bing, google, yahoo, & duckduckgo searches directly from the CLI.
 *   [web-search (yabanahano) (⭐0)](https://github.com/Yabanahano/web-search) - Adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services.
 *   [window-title (⭐12)](https://github.com/olets/zsh-window-title) - Adds informative tiles to your terminal windows.
@@ -2227,7 +2236,7 @@
 *   [awesome-sysadmin (⭐15k)](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
 *   [Terminals Are Sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
-## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [47. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -2238,20 +2247,20 @@
 *   🧩 [Fancy Tailwind](https://fancytailwind.com/) - Large collection of Tailwind CSS UI components (700+).
 *   🧩 [Myna UI](https://mynaui.com/) - Open source UI Components and Marketing Elements made with Tailwind CSS.
 
-## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [leprosus/kotlin-hashids (⭐110)](https://github.com/leprosus/kotlin-hashids) - Library that generates short, unique, non-sequential hashes from numbers.
 *   [Kotlin/kotlinx.atomicfu (⭐611)](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 
-## [48. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [49. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Frontend Framework Integrations
 
 *   [sveltekit-kitql (⭐239)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
 
-## [49. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [50. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Messaging
 
@@ -2262,7 +2271,7 @@
 
 *   [OData](https://www.odata.org/) - An open protocol that allows the creation and consumption of queryable and interoperable REST APIs in a simple and standard way.
 
-## [50. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [51. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Trees
 
@@ -2292,7 +2301,8 @@
 
 *   [stew (⭐107)](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 
-## [51. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [52. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [Vela](https://go-vela.github.io/docs/)
 
   Description: Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang.
@@ -2309,7 +2319,7 @@
 
 
 
-## [52. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [53. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
@@ -2476,7 +2486,7 @@
 *   [Awesome Data Science Ideas (⭐613)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐73)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
-## [53. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
+## [54. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
 ### Blog posts / Other
 
@@ -2484,13 +2494,13 @@
 *   2021-09-27 [Optical character recognition with TensorFlow Lite: A new example app](https://blog.tensorflow.org/2021/09/blog.tensorflow.org202109optical-character-recognition.html)
 *   2021-06-16 [https://blog.tensorflow.org/2021/06/easier-object-detection-on-mobile-with-tf-lite.html](https://blog.tensorflow.org/2021/11/on-device-training-in-tensorflow-lite.html)
 
-## [54. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [55. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Brick](https://en.m.wikipedia.org/wiki/Brick_\(electronics\)) - When your device is so corrupted it virtually turns into a brick.
 
-## [55. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [56. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
@@ -2520,20 +2530,20 @@
 
 *   [ITS Geonetworking (⭐89)](https://github.com/alexvoronov/geonetworking) - ETSI ITS G5 GeoNetworking stack, in Java: CAM-DENM / ASN.1 PER / BTP / GeoNetworking
 
-## [56. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [57. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-browser (⭐26)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 
-## [57. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [58. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Date and Time Processing
 
 *   [montrose (⭐733)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
 *   [stamp (⭐962)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
-## [58. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [59. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques
 
@@ -2601,7 +2611,7 @@
 *   [RECmd (⭐93)](https://github.com/EricZimmerman/RECmd) - Extract various persistence mechanisms, e.g. by using the config file [UserClassesASEPs (⭐93)](https://github.com/EricZimmerman/RECmd/blob/master/BatchExamples/UserClassesASEPs.reb) to extract user's CLSID information.
 *   [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape) - The tool allows collecting various predefined artifactgs using targets and modules, see [KapeFiles (⭐386)](https://github.com/EricZimmerman/KapeFiles) which include persistence mechanisms, among others there's a collection of [LNK files (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/LNKFilesAndJumpLists.tkape), [scheduled task files (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Targets/Windows/ScheduledTasks.tkape) and [scheduled task listing (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/schtasks.mkape) or a [WMI repository auditing (⭐386)](https://github.com/EricZimmerman/KapeFiles/blob/master/Modules/LiveResponse/WMI-Repository-Auditing.mkape) module.
 
-## [59. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [60. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -2645,7 +2655,7 @@
 
 *   [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 
-## [60. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [61. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
@@ -2673,7 +2683,7 @@
 *   [Ernest Davis](https://cs.nyu.edu/\~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 *   [Gary Marcus](http://garymarcus.com/index.html) - ***Department of Psychology, NYU***.
 
-## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [62. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Chart
 
@@ -2687,13 +2697,13 @@
 
 *   [nx](https://nx.dev) - Next generation build system with first class monorepo support and powerful integrations.
 
-## [62. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [63. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
 *   [Skia (⭐6.9k)](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. \[BSD] [website](https://skia.org/)
 
-## [63. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [64. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
@@ -2720,7 +2730,7 @@
 *   [ebpfkit-monitor (⭐78)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
 *   [Bad BPF (⭐274)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
 
-## [64. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [65. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Libraries / Erlang
 
@@ -2774,7 +2784,7 @@
 *   [SNMPLink.org](http://snmplink.org/) - SNMPlink.org provides links and information about SNMP, MIB (Management Information Base), Network Management and Network Monitoring.
 *   [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net provides links and information about SNMP applications, toolkits, gateways, simulators, MIB browsers and many more.
 
-## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [66. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -2818,7 +2828,7 @@
 
 
 
-## [66. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [67. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Binary Serialization
 

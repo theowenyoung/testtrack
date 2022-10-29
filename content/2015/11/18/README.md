@@ -57,6 +57,7 @@
 *   [exdesk (⭐4)](https://github.com/deadkarma/exdesk) - Elixir library for the Desk.com API.
 
 ## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Show helpful guides that come with Git
 
 ```sh

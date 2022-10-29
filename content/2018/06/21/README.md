@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21, 2018
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,13 +71,19 @@
 
 *   [cli-table3 (⭐406)](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   GO-JEK <https://blog.gojekengineering.com/>
+
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [Piranha CMS (⭐1.7k)](https://github.com/piranhacms/piranha.core) - A Lightweight & Unobtrusive Open Source CMS for ASP.NET Core and Entity Framework Core.
 
-## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [11. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -102,19 +108,20 @@
 
 *   [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
 *   [ironssh (⭐62)](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cards / Barcode
 
 *   [VerticalCardSwiper (⭐1.1k)](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
 
-## [13. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [14. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@mxcl](https://github.com/mxcl), [Homebrew](https://github.com/Homebrew)
     *   "Making Homebrew: The Genesis and Growth of a Global Open Source Project" ([video](https://www.youtube.com/watch?v=Q81q0LilL1s))
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,6 +25,7 @@
 *   [SFML (⭐8.1k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Ignore file mode changes on commits
 
 ```sh
@@ -50,7 +51,13 @@ git config core.fileMode false
 *   [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 *   [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - Compares relational databases to graph databases and SQL to Gremlin.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / A companies
+
+*   Atomic Object <https://spin.atomicobject.com/>
+
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Cryptography
 

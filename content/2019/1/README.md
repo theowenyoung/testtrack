@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07 - Jan 13, 2019
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -409,7 +409,62 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [32. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### North America / United States of America 🇺🇸
+
+### Toronto
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brnnbrn" height="70px" width="70px" align="left" alt="" />
+
+**Brenna O'Brien**\
+Topics: Motivation, Psychology, Developer Culture, Public Speaking\
+<https://twitter.com/brnnbrn>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/halathinkeths" height="70px" width="70px" align="left" alt="" />
+
+**Hala Anwar**\
+Topics: Accessibility\
+<https://twitter.com/halathinkeths>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/tiffhaxell" height="70px" width="70px" align="left" alt="" />
+
+**Tiff Nogueira**\
+Topics: CSS Grids, React, Redux, Firebase, Flexbox\
+<https://twitter.com/tiffhaxell>
+### Portland
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joeseifi" height="70px" width="70px" align="left" alt="" />
+
+**Joe Seifi**\
+Topics: CSS-in-JS, JavaScript, React\
+<https://twitter.com/joeseifi>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kyleshevlin" height="70px" width="70px" align="left" alt="" />
+
+**Kyle Shevlin**\
+Topics: React, Redux, JavaScript\
+<https://twitter.com/kyleshevlin>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/micahgodbolt" height="70px" width="70px" align="left" alt="" />
+
+**Micah Godbolt**\
+Topics: Frontend Architecture, CSS, Design Systems\
+<https://twitter.com/micahgodbolt>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shanselman" height="70px" width="70px" align="left" alt="" />
+
+**Scott Hanselman**\
+Topics: .NET, Azure\
+<https://twitter.com/shanselman>
+
+<img src="https://avatars1.githubusercontent.com/u/1166226?s=460&v=4" height="70px" width="70px" align="left" alt="" />
+
+**Violet Peña**\
+Topics: React, Socket.IO, Storybook, Accessibility\
+[github.com/vgpena](https://github.com/vgpena)
+
+## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Books
 
@@ -424,7 +479,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
 
-## [33. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [34. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Message Queues
 
@@ -435,7 +490,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [35. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### 3D / Other / unknown licence
 
@@ -465,7 +520,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [areadline (⭐7)](https://github.com/samueltardieu/areadline) - Ada interface to the readline library.
 
-## [35. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [36. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Posts and Articles
 
@@ -498,7 +553,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code (⭐22)](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) and watch [the talks' recording](https://vimeo.com/305197775)).
 *   [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080) - Classify a new example from a list of other examples (without definitive categories) and with low-data per classification task, but lots of data for lots of similar classification tasks - it seems better than siamese networks. To sum up: with Matching Networks, you can optimize directly for a cosine similarity between examples (like a self-attention product would match) which is passed to the softmax directly. I guess that Matching Networks could probably be used as with negative-sampling softmax training in word2vec's CBOW or Skip-gram without having to do any context embedding lookups.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -524,13 +579,13 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 *   [InfoQ .NET articles](https://www.infoq.com/dotnet) -  Collection of best .NET articles on InfoQ site
 
-## [37. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [38. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Offensive / Cross Site Request Forgery
 
 *   [XSRFProbe (⭐790)](https://github.com/0xInfection/XSRFProbe) - The Prime CSRF Audit & Exploitation Toolkit by [@0xInfection](https://github.com/0xinfection).
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -541,7 +596,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [AngelScript](https://www.angelcode.com/angelscript/) - AngelScript is a game-oriented interpreted/compiled scripting language. \[zlib]
 *   [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. \[BSD]
 
-## [39. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [40. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Image - Metadata/Text
 
@@ -587,7 +642,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [mtcnn (⭐499)](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
 *   [deephorizon (⭐34)](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
-## [40. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [41. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Objective-C
 

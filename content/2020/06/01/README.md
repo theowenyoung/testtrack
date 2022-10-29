@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2020
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -98,7 +98,13 @@
 
 *   [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp\_dev](https://twitter.com/webcomp_dev)
 
-## [11. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [Why Did You Render (⭐9.3k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
+
+## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Libraries
 
@@ -112,7 +118,7 @@
 
 *   [Qwiic\_TOF\_Module\_RFD77402 (⭐1)](https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402) - Qwiic TOF Module (RFD77402) time-of-flight rangefinding module.
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Code Analysis and Metrics
 
@@ -126,7 +132,118 @@
 
 *   [stripe.cr (⭐41)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
-## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [14. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Internet of Things
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/home_automation.webp">
+
+[**/r/Home Automation**](https://discord.com/invite/homeautomation) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/homeautomation/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/dgparker/rosie-the-bot) \
+Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev`, `#buy-sell-trade` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/home_assistant.webp">
+
+[**Home Assistant**](https://discord.com/invite/c5DvZ4e) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.home-assistant.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/home-assistant) \
+Notable Channels: `#homeassistant`, `#support`, `#automations`, `#frontend`, `#devices`, `#templates`, `#add-ons`, `#apps`, `#cameras`, `#diy`, `#node-red`, `#voice-assistants`, `#zigbee`, `#development` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/homebridge.webp">
+
+[**Homebridge**](https://discord.com/invite/Z8jmyvb) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://homebridge.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/homebridge) \
+Notable Channels: `#general`, `#homekit`, `#ui`, `#config`, `#raspberry-pi`, `#raspbian-image`, `#macos`, `#bwindows`, `#docker`, `#verified-plugins`, `#plugins`, `#homebridge-beta-testing`, `#plugin-development` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_homekit.webp">
+
+[**r/HomeKit**](https://discord.com/invite/b2kTasd) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/HomeKit/) \
+Notable Channels: `#general`, `#homekit-discussion`, `#hk-showcase`, `#hk-questions-help`, `#homepod-discussion`, `#hp-questions-help`, `#homebridge-discussion`, `#hb-plugin-showcase` \
+Language: English
+### Server Applications
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_plex.webp">
+
+[**/r/Plex**](https://discord.com/invite/plex) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/PleX/) \
+Notable Channels: `#general`, `#software`, `#hardware`, `#media-suggestions` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/librenms.webp">
+
+[**LibreNMS**](https://discord.com/invite/librenms) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.librenms.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/librenms) \
+Notable Channels: `#general`, `#devel` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/organizr.webp">
+
+[**Organizr**](https://discord.com/invite/TrNtY7N) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://organizr.app/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/causefx/Organizr) \
+Notable Channels: `#general`, `#customization-theming`, `#groups`, `#organizr-support` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/pi_hole.webp">
+
+[**Pi-Hole**](https://discord.gg/VzThBmB) \
+Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#other-support` \
+Language: English \ <br>
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Everything red and blue teams are leaglly allowed to do; securty asssessment, reverse engineering, loopholes in networks, vulnerability research and so on.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_many_hats_club.webp">
+
+[**Շђє ๓คภץ ђคՇร Ċ̵͕l̶̀͘u̸̍͝b̵͌͐**](https://discord.gg/infosec) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://themanyhats.club/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/xdfcfc0xa/TMHC-Challenge-Platform) \
+Notable Channels: `#infosec-general`, `#technical-chat`, `#student-zone`, `#blue-team-zone`, `#ctf`, `#malware-phishing`, `#cyber-threat-intel`, `#digital-forensics` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cyberseclabs_lounge.webp">
+
+[**CyberSecLabs Lounge**](https://discord.com/invite/vy75f7W) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.cyberseclabs.co.uk/) \
+Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`, `#red-teaming`, `#networking`, `#cryptography`, `#programming` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/defcon.webp">
+
+[**DEFCON**](https://discord.com/invite/defcon) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.defcon.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://media.defcon.org/) \
+Notable Channels: *Will open on August 5-8, 2021* \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/hacker101.webp">
+
+[**Hacker101**](https://discord.com/invite/32ZNZVN) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.hackerone.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Hacker0x01) \
+Notable Channels: `#general`, `#hacking-resources`, `#questions-and-answers`, `#hacktivity`, `#hackthebox`, `#mother-ctfs`, `#h1-2006-ctf`, `#ctfs`, `#a-little-something-to-get-you-started` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/infosec_and_coding.webp">
+
+[**InfoSec & Coding**](https://discord.gg/zSaDzRW) \
+Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/locke.webp">
+
+[**LOCKE**](https://discord.gg/Q8YsA7S) \
+Notable Channels: `#windows-os`, `#unix-family`, `#mac-os`, `#ethical-hacking`, `#ctf-discussion`, `#job-discussion`, `#networking`, `#cryptography`, `#mobile-devices`, `#web-dev`, `#python` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/reverse_engineering.webp">
+
+[**Reverse Engineering**](https://discord.gg/PSfAu8N) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Cryptogenic/REBot) \
+Notable Channels: `#help`, `#ctf`, `#starting-out`, `#mobile`, `#exploits-and-vulns`, `#hardware`, `#malware`, `#tools`, `#software-protections` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_cyber_mentor.webp">
+
+[**The Cyber Mentor**](https://discord.com/invite/Nu59kq5) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.twitch.tv/thecybermentor) \
+Notable Channels: `#web-app-course`, `#zero-to-hero`, `#red-teaming`, `#reverse-engineering`, `#linux`, `#web-apps`, `#htb`, `#tryhackme`, `#forensics`, `#job-postings` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/whitehat_hacking.webp">
+
+[**Whitehat Hacking**](https://discord.com/invite/beczNYP) \
+Notable Channels: `#cyber-news`, `#hacking`, `#mac-os`, `#windows`, `#linux`, `#ios`, `#android`, `#hardware`, `#coding`, `#malware-analysis`, `#training`, `#c-re-arm-x86-help` \
+Language: English
+
+## [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
@@ -136,13 +253,13 @@
 
 *   [vscode-deno (⭐1.3k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
 *   [implot (⭐2.7k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
-## [15. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [17. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Books
 

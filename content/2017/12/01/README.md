@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 01, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -474,7 +474,13 @@
     *   [SMTP (⭐30)](https://github.com/vert-x3/vertx-mail-client) <img src="https://github.com/vert-x3/vertx-awesome/raw/master/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
     *   [vertx-smtp-server (⭐5)](https://github.com/cinterloper/vertx-smtp-server) - SMTP server bridging to EventBus.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / N companies
+
+*   Nvidia <https://blogs.nvidia.com/>
+
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scripting
 

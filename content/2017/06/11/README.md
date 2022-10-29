@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 11, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -109,7 +109,13 @@
 
 *   [Chartboost (⭐45)](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** \[33:16]
+
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 

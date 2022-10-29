@@ -74,6 +74,7 @@
 *   [Commentary on Site Reliability Engineering](https://medium.com/@jerub/commentary-on-site-reliability-engineering-9ba9e1be2a8c)
 
 ## [7. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@fat](https://github.com/fat), [Bootstrap (⭐160k)](https://github.com/twbs/bootstrap/)
     *   "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
 *   [@jodosha](https://github.com/jodosha), [Hanami](https://github.com/hanami)

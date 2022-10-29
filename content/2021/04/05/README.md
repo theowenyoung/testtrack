@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 05, 2021
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,13 +22,19 @@
 
 *   [Branch](https://branch.io) — Mobile Analytics Platform. Free Tier offers upto 10K Mobile App Users with deep-linking & other services.
 
-## [3. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Felipe Plets (⭐0)](https://github.com/felipeplets/ama) - Tech lead, open source contributor, and [blogger](https://plets.me).
+
+## [4. Awesome Xai](/content/altamiracorp/awesome-xai/README.md)
 
 ### Follow / Critiques
 
 *   [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines.
 
-## [4. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [5. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
@@ -39,19 +45,19 @@
 *   [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country.
 *   [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
 *   [SpaceEye (⭐276)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
-## [6. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries
 
 *   [svelte-chota (⭐274)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / To-Do Lists
 

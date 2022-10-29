@@ -17,6 +17,7 @@
 *   [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - A toml parser and checker to avoid common errors in Substrate projects.
 
 ## [2. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+
 - : [Bold (Bridge Design System)](https://bold.bridge.ufsc.br/)
 
   Components: 👍

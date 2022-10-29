@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 06, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -19,19 +19,25 @@
 
 *   [del-cli (⭐265)](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 
-## [3. Guides](/content/NARKOZ/guides/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Computer History
+
+*   [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** \[48:36]
+
+## [4. Guides](/content/NARKOZ/guides/README.md)
 
 ### Programming Languages / C++
 
 *   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
 
-## [5. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [6. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### Others
 

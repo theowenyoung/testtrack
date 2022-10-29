@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,7 +68,13 @@
 
 *   [Maki Nage (⭐31)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
 
-## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### On-line courses / Ruby
+
+*   [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) - A video tutorial on setting up your own web-based mapping application, with no coding experience required.
+
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Overlay
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 12, 2018
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -70,7 +70,99 @@
 
 *   ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Italy 🇮🇹
+
+### Waterford
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rjrodger" height="70px" width="70px" align="left" alt="" />
+
+**Richard Rodger**\
+Topics: Node.js, Microservices\
+<https://twitter.com/rjrodger>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nirgn975" height="70px" width="70px" align="left" alt="" />
+
+**Nir Galon**\
+Topics: Python, API Star, Open Source, Node.js, Angular\
+<https://twitter.com/nirgn975>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nirkaufman" height="70px" width="70px" align="left" alt="" />
+
+**Nir Kaufman**\
+Topics: Angular, Firebase, Redux\
+<https://twitter.com/nirkaufman>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/UriShaked" height="70px" width="70px" align="left" alt="" />
+
+**Uri Shaked**\
+Topics: Web Bluetooth, WebVR, Angular, Internet of Things with JavaScript\
+<https://twitter.com/UriShaked>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yoniweisbrod" height="70px" width="70px" align="left" alt="" />
+
+**Yoni Weisbrod**\
+Topics: React, MobX, MobX State Tree, React-Native\
+<https://twitter.com/yoniweisbrod>
+
+### Europe / Netherlands 🇳🇱
+
+### Gouda
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rowdyrabouw" height="70px" width="70px" align="left" alt="" />
+
+**Rowdy Rabouw**\
+Topics: NativeScript, Browser APIs\
+<https://twitter.com/rowdyrabouw>
+
+### Europe / Portugal 🇵🇹
+
+### Aveiro
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/FilipaLacerda" height="70px" width="70px" align="left" alt="" />
+
+**Filipa Lacerda**\
+Topics: Vue, Vuex\
+<https://twitter.com/FilipaLacerda>
+
+### Europe / Russia 🇷🇺
+
+### Porto
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maskedwarrior" height="70px" width="70px" align="left" alt="" />
+
+**Miguel Andrade**\
+Topics: Ember, JavaScript\
+<https://twitter.com/maskedwarrior>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/martonkodok" height="70px" width="70px" align="left" alt="" />
+
+**Márton Kodok**\
+Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
+<https://twitter.com/martonkodok>
+
+### Europe / United Kingdom 🇬🇧
+
+### Odessa
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/geek_timofey" height="70px" width="70px" align="left" alt="" />
+
+**Timofey Lavrenyuk**\
+Topics: Progressive Web Apps, Modern Browser APIs\
+<https://twitter.com/geek_timofey>
+
+### South America / Brazil 🇧🇷
+
+### Rio de Janeiro
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/raphamorims" height="70px" width="70px" align="left" alt="" />
+
+**Raphael Amorim**\
+Topics: React, JavaScript, jQuery\
+<https://twitter.com/raphamorims>
+
+## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Security
 

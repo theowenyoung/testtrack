@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21, 2015
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [Rx glitches aren't actually a problem](http://staltz.com/rx-glitches-arent-actually-a-problem.html) - Glitches are temporary inconsistencies emitted by Observables. André Staltz looks at why it's not really a problem.
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** \[23:07]
+
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
@@ -20,7 +26,7 @@
 *   [Google Mock (⭐28k)](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. \[BSD]
 *   [Google Test (⭐28k)](https://github.com/google/googletest) - Google C++ Testing Framework. \[BSD]
 
-## [3. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Development
 
@@ -35,13 +41,13 @@
 
 *   [Designer Hangout](https://www.designerhangout.co/)
 
-## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [boilr (⭐1.5k)](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 
-## [5. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [6. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Preludes
 
@@ -51,19 +57,34 @@
 
 *   [purescript-test-unit (⭐86)](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
 
-## [6. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [7. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Make a difference
 
 *   [Laravel 台灣](https://www.facebook.com/groups/laravel.tw/)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [NextGrowingTextView (⭐1.7k)](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 
-## [8. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [9. Codeface](/content/chrissimpkins/codeface/README.md)
+
+### The Gallery
+
+### [Whois](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/whois-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/whois-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/whois-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/whois-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/whois-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/whois-mono-light.png" width="725">
+
+§ The End
+
+## [10. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Resources
 

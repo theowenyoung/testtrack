@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 05, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,7 +28,13 @@
 
 *   [Cardsmith](http://cardsmith.co) - Build visual collaboration systems with the familiarity of sticky notes on a white board.
 
-## [4. Typography](/content/deanhume/typography/README.md)
+## [4. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### JS
+
+*   [DevExtreme](https://js.devexpress.com) — 65+ responsive and feature-complete UI components with customizable Material Design compliant themes. Available for Angular, React, Vue and jQuery.
+
+## [5. Typography](/content/deanhume/typography/README.md)
 
 ### Articles
 
@@ -60,7 +66,7 @@
 *   [Web Fonts are Rocket Science](https://www.filamentgroup.com/lab/rocket-science.html)
 *   [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
-## [5. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [6. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Tools
 
@@ -97,13 +103,13 @@
 *   [OpenPublic](https://www.drupal.org/project/openpublic) - For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector.
 *   [OpenPublish](https://www.drupal.org/project/openpublish) - OpenPublish is a Drupal 7 packaged distribution designed for the online news industry. It is deployed in a variety of media outlets sites including magazines, newspapers, journals, trade publications, broadcast, wire service, multimedia sites and membership publications.
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Machine Learning
 
 *   [H2O (⭐6k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 
-## [7. Awesome List](/content/sindresorhus/awesome/README.md)
+## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 

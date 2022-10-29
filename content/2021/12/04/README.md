@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,28 @@
 *   [SLI Deep Dive](https://medium.com/site-reliability-engineering-leadership/sli-deep-dive-cae92bd90a79)
 *   [Measuring Reliability in GCP: Step By Step SLO creation guide using Cloud Operation Sandbox](https://medium.com/google-cloud/measuring-reliability-in-gcp-step-by-step-slo-creation-guide-using-cloud-operation-sandbox-99043bd0e70f)
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [3. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### conversion
+
+*   **OpenStreetMap**
+    *   [osmtogeojson (⭐575)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
+    *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
+    *   [osm2geojson](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
+    *   [geojsontoosm (⭐13)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
+    *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
+    *   [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
+    *   [query-overpass (⭐138)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐575)](https://github.com/tyrasd/osmtogeojson)
+
+## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-storage-watcher (⭐60)](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version (⭐7)](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 
-## [4. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [5. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Pre-Literate
 
@@ -40,13 +55,13 @@
 
 *   [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
 
-## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### FreshRSS / Outline Processor Markup Language
 
 *   <https://rss.rssforever.com/> by [思有云 - IOIOX](https://www.ioiox.com/) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frss.rssforever.com%2F)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -56,7 +71,7 @@
 
 *   [stevearc/dressing.nvim (⭐692)](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
@@ -66,7 +81,7 @@
 
 *   [FlatSharp (⭐288)](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -76,7 +91,7 @@
 
 *   [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Science & Math
 

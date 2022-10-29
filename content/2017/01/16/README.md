@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,6 +48,7 @@
 *   [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## logs between date range
 
 ```sh
@@ -75,13 +76,19 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
     *   Topics include testing, functional programming, immutable collections and concurrency.
     *   Also includes assignments covering Clojurescript, \[Reagent]\(Reagent Github) etc.
 
-## [7. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [7. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Theming
+
+*   [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html)
+
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
 
-## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [9. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Works with AVA
 
@@ -91,7 +98,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 *   [delay (⭐516)](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example) (⭐2.3k)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
 *   [get-stream (⭐291)](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example) (⭐8k)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -123,7 +130,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 *   [Awesome audio visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 *   [Awesome computer vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Reliability
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2015
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,7 +25,13 @@
 *   [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
 *   [AITopics](http://aitopics.org/) - Large aggregation of AI resources
 
-## [4. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   James Hague <http://prog21.dadgum.com/>
+
+## [5. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Articles
 
@@ -35,13 +41,13 @@
 
 Covers a lot of useful information for developing secure Node.js applications.
 
-## [5. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [6. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / Python Profile
 
 *   [MagicPython (⭐1.3k)](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 
-## [6. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
+## [7. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
 ### Standalone Code Points
 
@@ -59,6 +65,18 @@ Covers a lot of useful information for developing secure Node.js applications.
     romantic code point.
 *   [U+F8FF](https://codepoints.net/U+F8FF) PRIVATE USE CODEPOINT - this private
     use code point is rendered as Apple logo on many Apple devices.
+
+## [8. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Data Science
+
+#### Mastering Data Science with R [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r)
+
+<img src="https://www.packtpub.com/sites/default/files/2028OS_1981_Mastering%20Data%20Analysis%20with%20R.jpg" width="200px"/>
+
+This book will give you the guidance you need to build and develop your knowledge and expertise. Bridging the gap between theory and practice, this book will help you to understand and use data for a competitive advantage.
+
+Beginning with taking you through essential data mining and management tasks such as munging, fetching, cleaning, and restructuring, the book then explores different model designs and the core components of effective analysis. You will then discover how to optimize your use of machine learning algorithms for classification and recommendation systems beside the traditional and more recent statistical methods.
 
 ---
 

@@ -1,25 +1,37 @@
 # Awesome List Updates on Mar 27, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Netherlands 🇳🇱
+
+### Bergambacht
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stefannhs" height="70px" width="70px" align="left" alt="" />
+
+**Stefan Nieuwenhuis**\
+Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos, Design Systems\
+<https://twitter.com/stefannhs>
+
+## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Discord Servers / Third Party Hosts
 
 *   [The Ratio](https://discordapp.com/invite/wab3Qag) :star2: Community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 
-## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Transport Layer Security Tools
 
 *   [SSLyze (⭐2.8k)](https://github.com/nabla-c0d3/sslyze) - Fast and comprehensive TLS/SSL configuration analyzer to help identify security mis-configurations.
 *   [crackpkcs12 (⭐95)](https://github.com/crackpkcs12/crackpkcs12) - Multithreaded program to crack PKCS#12 files (`.p12` and `.pfx` extensions), such as TLS/SSL certificates.
 
-## [3. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Device / Augmented Reality
 
@@ -30,13 +42,13 @@
 *   Medium [Flutter Comunidade BR](https://medium.com/flutter-comunidade-br)
 *   Twitter [Flutter Comunidade BR](https://twitter.com/br_flutter)
 
-## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
 *   [pgMustard](https://www.pgmustard.com) - A user interface for Postgres explain plans, plus tips to improve performance.
 
-## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### General Libraries
 
@@ -71,13 +83,13 @@
 *   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 *   [SciDe (⭐67)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
 *   [StellarGraph (⭐2.5k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
-## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
@@ -94,7 +106,7 @@
 
 *   [21 Useful Open Source Packages for React Native](https://medium.com/crowdbotics/21-useful-open-source-packages-for-react-native-807f65a818a1)
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 

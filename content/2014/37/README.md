@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 15 - Sep 21, 2014
 
-11 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [1. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Font
+
+*   [FontSquirrel](http://www.fontsquirrel.com/)
+
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
@@ -16,7 +22,7 @@
 
 *   [polyglot (⭐3.6k)](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 
-## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Mad science
 
@@ -45,19 +51,19 @@
 *   [webworker-threads (⭐2.3k)](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 *   [opencv (⭐4.3k)](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 
-## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / APIs
 
 *   [Laravel CORS (⭐6.2k)](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 
-## [4. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [5. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Concurrency and Parallelism
 
 *   [Concurrent Ruby (⭐5.4k)](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
@@ -113,19 +119,19 @@
 *   [Geany](http://www.geany.org/) - Small, fast, cross-platform IDE. \[GPL]
 *   [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
 
-## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [7. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Other
 
 *   [paginate (⭐64)](https://github.com/Pylons/paginate) - Python pagination module.
 
-## [7. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / Field Validation
 
 *   [DbInspector (⭐929)](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
 
-## [8. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [9. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Audio
 
@@ -160,20 +166,20 @@
 
 *   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
 
-## [9. Awesome Radio](/content/kyleterry/awesome-radio/week/README.md)
+## [10. Awesome Radio](/content/kyleterry/awesome-radio/week/README.md)
 
 ### General / Links
 
 *   [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
 
-## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 
 *   [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly\&utm_campaign=Issue-127\&utm_medium=RSS), by Micah Godbolt (8/25/14)
 *   [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/), by Harry Roberts (4/28/12)
 
-## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Other Interpreters
 

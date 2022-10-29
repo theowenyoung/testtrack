@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21, 2022
 
-10 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,31 @@
 
 *   [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 
-## [2. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### data
+
+*   [99boundaries (⭐5)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+
+## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ### Books / Hellonext
 
 *   [The Power of Habit: Why We Do What We Do in Life and Business](https://www.barnesandnoble.com/w/the-power-of-habit-charles-duhigg/1103588638) - By Charles Duhigg.
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Web Apps (open source)
+
+*   [Bustime](https://busti.me) - Public transport real-time monitoring with WebSocket updates. Open-source [on GitHub (⭐54)](https://github.com/norn/bustime).
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐488)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐1.8k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐85)](https://github.com/andrewgregory/pacutils).
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -60,13 +72,13 @@
 
 *   [Fenrus (⭐159)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `Nodejs`
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 
 *   [ghillb/cybu.nvim (⭐172)](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
@@ -76,7 +88,7 @@
 
 *   [FakeIt (⭐1k)](https://github.com/eranpeer/FakeIt) - Simple mocking framework for C++. \[MIT]
 
-## [7. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
+## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
 ### Courses, workshops, webinars, videos and others
 
@@ -113,7 +125,7 @@
 
 *   [kesar/decentwitter (⭐37)](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
 
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Bot Building
 
@@ -133,13 +145,13 @@
 
 *   [Gokapi (⭐431)](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-magnifier (⭐3)](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
-## [10. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [12. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Tutorials
 

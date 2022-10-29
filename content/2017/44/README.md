@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30 - Nov 05, 2017
 
-57 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -134,7 +134,17 @@
 
 *   *[REDES. Revista hispana para el análisis de redes sociales](http://revista-redes.rediris.es/)*, in Spanish (INSNA).
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** \[1:14:51]
+
+### Cognitive Development
+
+*   [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** \[10:47]
+
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -153,7 +163,7 @@
 *   [libharu (⭐1.4k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Commercial]
 
-## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [16. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Dependency Managers
 
@@ -201,27 +211,27 @@
 *   [LifetimeTracker (⭐2.7k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 *   [WhatsNew (⭐1.5k)](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 
-## [16. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [17. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [Pharos (⭐1.3k)](https://github.com/cmu-sei/pharos) - The Pharos binary analysis framework
     can be used to perform automated static analysis of binaries.
 
-## [17. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [18. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Other Math Theory / Gradient Descent Algorithms & Optimization Theory
 
 *   [Neural Networks and Deep Learning, ch.2](http://neuralnetworksanddeeplearning.com/chap2.html) - Overview on how does the backpropagation algorithm works.
 *   [Neural Networks and Deep Learning, ch.4](http://neuralnetworksanddeeplearning.com/chap4.html) - A visual proof that neural nets can compute any function.
 
-## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
 *   [Crepe (⭐126)](https://github.com/crepe/crepe) - The thin API stack.
 
-## [19. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [20. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -235,25 +245,352 @@
 
 *   [Linux tracing workshop (⭐1.1k)](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 
-## [20. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [21. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
 
-## [21. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [22. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Africa / Nigeria 🇳🇬
+
+> Awesome speakers in the programming and design communities
+
+Let's make it more transparent and easy to find awesome speakers for meetups and conferences! This list of speakers, their contact details and the topics they talk about is a start towards this goal.
+
+Please add to the list and help make the community better connected and richer.
+
+### Asia / India 🇮🇳
+
+### Bangalore
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ashrith_kulai" height="70px" width="70px" align="left" alt="" />
+
+**Ashrith Kulai**\
+Topics: Progressive Web Apps, Polymer, Web Components, Web Performance, Build Tools\
+<https://twitter.com/ashrith_kulai>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/baps_patil" height="70px" width="70px" align="left" alt="" />
+
+**Bapusaheb Patil**\
+Topics: Android, Kotlin, Java, Asynchronous Programming, Mobile UX Design, Mobile Performance\
+<https://twitter.com/baps_patil>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kranirudha" height="70px" width="70px" align="left" alt="" />
+
+**Kumar Anirudha**\
+Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency\
+<https://twitter.com/kranirudha>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/siddharthkp" height="70px" width="70px" align="left" alt="" />
+
+**Siddharth Kshetrapal**\
+Topics: CSS, Web Performance, React, CSS in JS, Node, Testing\
+<https://twitter.com/siddharthkp>
+
+### Europe / Germany 🇩🇪
+
+### Augsburg
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Jhnnns" height="70px" width="70px" align="left" alt="" />
+
+**Johannes Ewald**\
+Topics: Tooling, Standards, webpack\
+<https://twitter.com/Jhnnns>
+
+### Europe / Sweden
+
+### Santander
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/erikras" height="70px" width="70px" align="left" alt="" />
+
+**Erik Rasmussen**\
+Topics: React, Redux, Redux-Form, Forms\
+<https://twitter.com/erikras>
+
+### Europe / United Kingdom 🇬🇧
+
+### Bristol
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/LeonieWatson" height="70px" width="70px" align="left" alt="" />
+
+**Léonie Watson**\
+Topics: Accessibility, Web Standards, Screen Readers\
+<https://twitter.com/LeonieWatson>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rachelandrew" height="70px" width="70px" align="left" alt="" />
+
+**Rachel Andrew**\
+Topics: CSS\
+<https://twitter.com/rachelandrew>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Rumyra" height="70px" width="70px" align="left" alt="" />
+
+**Ruth John**\
+Topics: Browser Technologies, Web Audio, Web MIDI\
+<https://twitter.com/Rumyra>
+
+### North America / United States of America 🇺🇸
+
+### Boston
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ericwbailey" height="70px" width="70px" align="left" alt="" />
+
+**Eric Bailey**\
+Topics: Accessibility\
+<https://twitter.com/ericwbailey>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bahmutov" height="70px" width="70px" align="left" alt="" />
+
+**Gleb Bahmutov**\
+Topics: Computer Science, JavaScript, Reactive Programming\
+<https://twitter.com/bahmutov>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/leaverou" height="70px" width="70px" align="left" alt="" />
+
+**Lea Verou**\
+Topics: CSS, HTML\
+<https://twitter.com/leaverou>
+### Cincinnati
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gigasquid" height="70px" width="70px" align="left" alt="">
+
+**Carin Meier**\
+Topics: Clojure, Machine Learning, Programming\
+<https://twitter.com/gigasquid>
+### Denver
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mirisuzanne" height="70px" width="70px" align="left" alt="" />
+
+**Miriam Suzanne**\
+Topics: CSS, Sass, Architecture, Design Systems\
+<https://twitter.com/mirisuzanne>
+### New Jersey
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ken_wheeler" height="70px" width="70px" align="left" alt="" />
+
+**Ken Wheeler**\
+Topics: React, React Native, ReasonML\
+<https://twitter.com/ken_wheeler>
+### Philadelphia
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lispardi" height="70px" width="70px" align="left" alt="" />
+
+**Lis Pardi**\
+Topics: Web\
+<https://twitter.com/lispardi>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rtfeldman" height="70px" width="70px" align="left" alt="" />
+
+**Richard Feldman**\
+Topics: Elm\
+<https://twitter.com/rtfeldman>
+### Pittsburgh
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brad_frost" height="70px" width="70px" align="left" alt="" />
+
+**Brad Frost**\
+Topics: Web Design, Atomic Design, Web Development\
+<https://twitter.com/brad_frost>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/linclark" height="70px" width="70px" align="left" alt="" />
+
+**Lin Clark**\
+Topics: React, WebAssembly, Browsers Internals\
+<https://twitter.com/linclark>
+### Salt Lake City
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kentcdodds" height="70px" width="70px" align="left" alt="">
+
+**Kent C. Dodds**\
+Topics: OSS, React, Testing\
+<https://twitter.com/kentcdodds>
+### San Francisco
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/adammenges" height="70px" width="70px" align="left" alt="" />
+
+**Adam Menges**\
+Topics: Artificial Intelligence, Design, Computer Science\
+<https://twitter.com/adammenges>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slightlylate" height="70px" width="70px" align="left" alt="" />
+
+**Alex Russell**\
+Topics: Performance, Mobile Web, Progressive Web Apps, Web Standards\
+<https://twitter.com/slightlylate>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnjanaVakil" height="70px" width="70px" align="left" alt="" />
+
+**Anjana Vakil**\
+Topics: Programming Language Paradigms, Functional Programming (with JavaScript)\
+<https://twitter.com/AnjanaVakil>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bethdean" height="70px" width="70px" align="left" alt="" />
+
+**Beth Dean**\
+Topics: Design, Illustration\
+<https://twitter.com/bethdean>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bcherny" height="70px" width="70px" align="left" alt="" />
+
+**Boris Cherny**\
+Topics: TypeScript, React, Computer Science\
+<https://twitter.com/bcherny>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brynn" height="70px" width="70px" align="left" alt="" />
+
+**Brynn Evans**\
+Topics: Design, Management\
+<https://twitter.com/brynn>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cordeliadillon" height="70px" width="70px" align="left" alt="" />
+
+**Cordelia Dillon**\
+Topics: Accessibility\
+<https://twitter.com/cordeliadillon>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/standardista" height="70px" width="70px" align="left" alt="" />
+
+**Estelle Weyl**\
+Topics: CSS, Performance, Responsive Web Design\
+<https://twitter.com/standardista>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/FrancesCoronel" height="70px" width="70px" align="left" alt="" />
+
+**Frances Coronel**\
+Topics: Progressive Web Apps, TypeScript, Web Design, Open Source\
+<https://twitter.com/FrancesCoronel>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AGambit95" height="70px" width="70px" align="left" alt="" />
+
+**Gregory Shehet**\
+Topics: Functional Reactive Programming, MobX, CSS in JS, React\
+<https://twitter.com/AGambit95>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jhusain" height="70px" width="70px" align="left" alt="" />
+
+**Jafar Husain**\
+Topics: JavaScript, ES7, Observables, Reactive Programming, Falcor\
+<https://twitter.com/jhusain>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mybluewristband" height="70px" width="70px" align="left" alt="" />
+
+**Jennifer Wong**\
+Topics: Design Systems\
+<https://twitter.com/mybluewristband>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="" />
+
+**Jon Gold**\
+Topics: Design, Design Systems, React, Artificial Intelligence\
+<https://twitter.com/jongold>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="" />
+
+**Lisa Huang**\
+Topics: AMP, Offline-First Mobile Apps, React\
+<https://twitter.com/lisaychuang>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mike_matas" height="70px" width="70px" align="left" alt="" />
+
+**Mike Matas**\
+Topics: Human Interface Design\
+<https://twitter.com/mike_matas>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MinaMarkham" height="70px" width="70px" align="left" alt="" />
+
+**Mina Markham**\
+Topics: CSS Architecture, Sass, Community, Design Systems\
+<https://twitter.com/MinaMarkham>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/notwaldorf" height="70px" width="70px" align="left" alt="" />
+
+**Monica Dinculescu**\
+Topics: Web Components, Polymer, Emoji\
+<https://twitter.com/notwaldorf>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gdi2290" height="70px" width="70px" align="left" alt="" />
+
+**Patrick Stapleton**\
+Topics: OSS, Serverless, GraphQL, Vue.js, React, Angular, TypeScript\
+<https://twitter.com/gdi2290>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/iam_preethi" height="70px" width="70px" align="left" alt="" />
+
+**Preethi Kasireddy**\
+Topics: Machine Learning, Natural Language Processing, React\
+<https://twitter.com/iam_preethi>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarah_edo" height="70px" width="70px" align="left" alt="" />
+
+**Sarah Drasner**\
+Topics: CSS, SVG, Animations, Vue.js, React\
+<https://twitter.com/sarah_edo>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sgrove" height="70px" width="70px" align="left" alt="" />
+
+**Sean Grove**\
+Topics: GraphQL, ReasonML, OCaml\
+<https://twitter.com/sgrove>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stefsull" height="70px" width="70px" align="left" alt="" />
+
+**Stephanie Rewis**\
+Topics: Design Systems, CSS\
+<https://twitter.com/stefsull>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ladyleet" height="70px" width="70px" align="left" alt="" />
+
+**Tracy Lee**\
+Topics: Reactive Programming, Angular, Ember.js\
+<https://twitter.com/ladyleet>
+
+### License / Brazil 🇧🇷
+
+### São Paulo
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/carolcode" height="70px" width="70px" align="left" alt="" />
+
+**Caroline Soares**\
+Topics: Frontend development, woman's inspiration, JavaScript, CSS\
+<https://twitter.com/carolcode>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fembernardo" height="70px" width="70px" align="left" alt="" />
+
+**Fernanda Bernardo**\
+Topics: CSS, JavaScript, HTML\
+<https://twitter.com/fembernardo>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/JoaoVictor_AC" height="70px" width="70px" align="left" alt="" />
+
+**João Victor Dias**\
+Topics: Computer Vision, Keras, CNN, R, Data Science path\
+<https://twitter.com/JoaoVictor_AC>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sseraphini" height="70px" width="70px" align="left" alt="" />
+
+**Sibelius Seraphini**\
+Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
+<https://twitter.com/sseraphini>
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
+
+## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Software
 
 *   [Zugata](http://www.zugata.com/)
 
-## [22. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [24. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Questions
 
 *   [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 
-## [23. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [25. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Javascript
 
@@ -368,7 +705,7 @@
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -384,14 +721,14 @@
 
 *   [vue-datetime (⭐982)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
-## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Android Services
 
 *   [Remoter (⭐65)](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
 *   [Service Connector (⭐12)](https://github.com/josesamuel/serviceconnector) - Bind Android services and callbacks to fields and methods.
 
-## [26. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [28. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Politics
 
@@ -417,13 +754,13 @@
 
 
 
-## [27. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [29. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Fun stuff / Color Schemes
 
 *   [Themer](https://themer.mjswensen.com) - tool for generating color schemes (and matching themes for your other development tools, including wallpaper) from your favorite colors.
 
-## [28. Computer Science](/content/ossu/computer-science/week/README.md)
+## [30. Computer Science](/content/ossu/computer-science/week/README.md)
 
 ### Congratulations / Which programming languages should I use?
 
@@ -432,7 +769,7 @@
     *   Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
     *   Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / Computer Vision
 
@@ -646,13 +983,13 @@
 
 *   [Awesome TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
 
-## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Search engine and framework
 
 *   [Vespa](http://vespa.ai/) - is an engine for low-latency computation over large data sets. It stores and indexes your data such that queries, selection and processing over the data can be performed at serving time.
 
-## [31. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / E-commerce
 
@@ -666,7 +1003,7 @@
 
 *   [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - This video will show you how to create and display pages using the Wagtail CMS.
 
-## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [34. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
@@ -677,7 +1014,7 @@
 *   [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
 *   [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
 
-## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Spain 🇪🇸 / Barcelona
 
@@ -703,13 +1040,13 @@ Webpage: <http://www.groundsupportcafe.com/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | ------------------------------------------ |
 | open, password on wall | ✔     | ✔      | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
 
-## [34. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [36. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Architectural
 
 *   [Porter (⭐556)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
 
-## [35. Bots](/content/hackerkid/bots/week/README.md)
+## [37. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Discord / C#
 
@@ -729,32 +1066,32 @@ Webpage: <http://www.groundsupportcafe.com/>
 *   [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 *   [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 
-## [36. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [38. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [ArduinoBoy (⭐232)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 *   [gb-save-states (⭐94)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
-## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Videos
 
 *   [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs) - A complete introduction to functional programming in javascript made it easy by ES6.
 
-## [38. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [40. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Articles / [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things)   (2018 - est.)   *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)*   \[early access book]
 
 *   [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - A testing methodology for managing the permutations of parameters while testing an IoT based product.
 
-## [39. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [41. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Cheatsheets
 
 *   [Rico's cheatsheet](https://devhints.io/html-email) - Rico's cheatsheet for HTML email
 
-## [40. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [42. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
@@ -764,13 +1101,13 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 *   [unhappychoice/cycle-pusher ★1 (⭐5)](https://github.com/unhappychoice/cycle-pusher) - A Cycle.js driver for [Pusher](https://pusher.com/)
 
-## [41. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [43. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
 
-## [42. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [44. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -781,25 +1118,25 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 *   [ScaleCube (⭐559)](https://github.com/scalecube/scalecube) - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
 
-## [43. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [45. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Websites
 
 *   [HTML5 UP!](https://html5up.net/) Responsive HTML5 and CSS3 Site Templates.
 
-## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
 *   [Check-it (⭐48)](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [45. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [47. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Professional services
 
 *   [OneSpeed](https://onespeed.io) - Agency.
 
-## [46. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [48. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Books
 
@@ -809,44 +1146,45 @@ Webpage: <http://www.groundsupportcafe.com/>
 
 *   [Keen Security Lab Blog](http://keenlab.tencent.com/en/) - Blog created by Keen Security Lab of Tencent that posts research on car security.
 
-## [47. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [49. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [AdvancedNewFile (⭐197)](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 
-## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [50. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Esoteric languages
 
 *   [Spooky (⭐150)](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 
-## [49. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [51. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Framer Slider (⭐42)](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
 
-## [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [52. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Browser automation
 
 *   [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
 
-## [51. Tips](/content/git-tips/tips/week/README.md)
+## [53. Tips](/content/git-tips/tips/week/README.md)
+
 ## Remove sensitive data from history, after a push
 
 ```sh
 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path-to-your-file>' --prune-empty --tag-name-filter cat -- --all && git push origin --force --all
 ```
 
-## [52. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [54. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [GoodForPoc (⭐58)](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 
-## [53. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [55. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -858,13 +1196,13 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 
 
-## [54. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [56. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Java / Symfony2
 
 *   [Dropwizard (⭐8.3k)](https://github.com/dropwizard/dropwizard) - A framework for developing ops-friendly, high-performance, RESTful web services.
 
-## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [57. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Logging
 
@@ -874,13 +1212,13 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 
 *   [Utf8Json (⭐2.3k)](https://github.com/neuecc/Utf8Json) - Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin).
 
-## [56. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [58. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Places / Monasteries
 
 *   [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
 
-## [57. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [59. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Resources
 

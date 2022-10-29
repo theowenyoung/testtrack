@@ -35,6 +35,7 @@
 *   [Git Credential Manager for Windows (⭐2.8k)](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Force push to Remote Repository
 
 ```sh

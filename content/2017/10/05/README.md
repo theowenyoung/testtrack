@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,20 +12,30 @@
 
 *   [Win Application Framework (WAF) (⭐629)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
-## [2. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+## [2. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### Icons, Fonts and Colors
+
+*   [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/) — A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
+
+### XAML
+
+*   [MaterialDesignInXamlToolkit (⭐13k)](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) — Google's Material Design in XAML & WPF, for C# & VB.Net.
+
+## [3. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
 ### Forms / Normal Forms
 
 *   [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Notebooks / Third-party APIs
 
 *   [Darkmatter (⭐350)](https://github.com/tamamu/darkmatter) - A
     notebook-style Common Lisp environment. [MIT](https://opensource.org/licenses/MIT).
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -33,25 +43,25 @@
 *   [Book-Trading-Club (⭐21)](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 *   [vuejs-extension-pack vscode (⭐32)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 
-## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Other / Custom Dialog
 
 *   [Flexbox Layout (⭐18k)](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 
-## [7. Awesome Indie](/content/mezod/awesome-indie/README.md)
+## [8. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
 ### Books / Other
 
 *   **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text\&ie=UTF8\&qid=1493985002\&sr=1-1\&keywords=founders+at+work)** \[$] by [Jessica Livingston](https://twitter.com/jesslivingston).
 
-## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Tutorials
 
@@ -96,7 +106,7 @@
 
 *   [Stack Overflow](https://stackoverflow.com/tags/jquery) - Support on Stack Overflow.
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Other
 

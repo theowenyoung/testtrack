@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2019
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -25,6 +25,12 @@
 ### Math
 
 *   [lp\_solve](https://sourceforge.net/projects/lpsolve) - A library used to formulate and solve linear programming problems. \[LGPL] [website](http://lpsolve.sourceforge.net)
+
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Sean Killeen (⭐4)](https://github.com/SeanKilleen/ama) - .NET Lead & Managing Consultant at [Excella](https://excella.com). Speaker, blogger, tech lead. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
 
 ---
 

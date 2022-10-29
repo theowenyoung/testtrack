@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2021
 
-16 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,19 +36,31 @@
 *   [Cassandra Nagios (⭐5)](https://github.com/causes/cassandra-nagios) - Perl Based scripts to get metrics for monitoring using Jolokia.
 *   [Cassandra StatD Agent (⭐13)](https://github.com/lookout/cassandra-statsd-agent) - Java Agent for Cassandra integration with StatsD.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Fiddy - <https://fiddy.co>
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
 *   [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
 
-## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
 *   [PyQtGraph (⭐3k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [8. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - Creating stuff for web & AI.
+
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Utils & Infra / Navigation Demos
 
@@ -58,7 +70,7 @@
 
 *   [fetch ★10 (⭐28)](https://github.com/react-native-community/fetch) - A fetch API polyfill for React Native with text streaming support.
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -66,25 +78,25 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [11. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Algorithms, Containers and Protocols / Other / unknown licence
 
 *   [az3 (⭐5)](https://github.com/Componolit/AZ3) - Ada binding for Z3
 
-## [10. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [12. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Social Networks
 
 *   [GNU/consensus](https://gnu.org/consensus) is a GNU project to coordinate development efforts of free software for social networking. It recommends using the [AGPLv3+ license](https://gnu.org/licenses/agpl) and aims to inform free software developers about interesting projects and perspectives for a decentralized, freedom-respecting, and privacy-respecting online social networking environment. The GNU/consensus promotes convergence towards the use of the extensible [GNUnet Social API](https://gnunet.org/design-social-messaging-system).
 
-## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [13. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Tutorials / Other Tools
 
 *   [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tutorials
 
@@ -100,7 +112,7 @@
 *   [How Blazor performs against other Frameworks](https://www.telerik.com/blogs/how-blazor-performs-against-other-frameworks) - January 18, 2021 - How Blazor performs against other Frameworks, by David Grace for Telerik.
 *   [Persisting your users preferences using Blazor and Local Storage](https://jonhilton.net/blazor-tailwind-dark-mode-local-storage/) - January 14, 2021 - Persisting your users preferences using Blazor and Local Storage.
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Shopping
 
@@ -116,19 +128,19 @@
 
 
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [15. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [17. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Demo
 
 *   [Sitecore MVP (⭐62)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

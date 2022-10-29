@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -82,13 +82,27 @@
 
 *   [Villains (⭐358)](https://github.com/Norbert515/flutter_villains) <!--stargazers:Norbert515/flutter_villains--> - Page transition animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
-## [10. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / T companies
+
+*   Tinder <https://tech.gotinder.com/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Monstermuffin <https://blog.monstermuffin.org/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Steve Bellovin <https://www.cs.columbia.edu/~smb/blog/control/>
+
+## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Resources / Newsletters
 
 *   [Web Audio Weekly Newsletter](https://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CLI
 

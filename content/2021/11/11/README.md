@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 11, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -89,7 +89,21 @@
 
 *   [vite-esbuild-typescript-checker (⭐27)](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Tools](/content/lvwzhen/tools/README.md)
+
+### Placeholder
+
+*   [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
+
+### JavaScript
+
+*   [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
+
+### Tools collection
+
+*   [SmallDev.tools](https://smalldev.tools/)
+
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 

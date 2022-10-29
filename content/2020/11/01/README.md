@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 01, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -125,7 +125,21 @@
 
 *   [drom (⭐151)](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
 
-## [8. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
+
+> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones.
+
+![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |        4 | 15-30m |
+
+## [9. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Bakeries
 

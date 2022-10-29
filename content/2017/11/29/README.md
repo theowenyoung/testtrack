@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2017
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,19 @@
 
 *   [rib](http://rib.godfat.org) - A lightweight and extensible IRB replacement.
 
-## [4. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / P individuals
+
+*   Paweł Chudzik <https://blog.pchudzik.com/>
+
+## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Converters / Ruby
+
+*   [GTFS-OSM-Sync (⭐83)](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
+
+## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### OS
 
@@ -58,13 +70,13 @@
 *   [madDisAsm](http://help.madshi.net/madDisAsm.htm). The package features a full x86 disassembler including MMX, 3dNow enhanced, SSE and SSE2 support. The disassembler can examine a single x86 instruction (see ParseCode) or a full function (see ParseFunction) and either return a short analysis or a full text disassembly. Register contents are watched/followed if possible, this improves the analyses for jump/call targets. Case/switch jump tables are automatically detected and handled correctly.
     // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
-## [5. Awesome Math](/content/rossant/awesome-math/README.md)
+## [7. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Theory of Statistics](http://mason.gmu.edu/\~jgentle/books/MathStat.pdf) - James E. Gentle (George Mason University)
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Applications
 
@@ -90,19 +102,19 @@
 
 *   [Phoenix in Action](https://manning.com/books/phoenix-in-action) - builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done. By Geoffrey Lessel (2017).
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [discord-logo (⭐57)](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [dynamodb-geo :fire::fire: (⭐268)](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mail
 

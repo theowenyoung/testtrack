@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,14 +51,23 @@
 
 
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+
+### Intermediate
+
+#### [CodinGame](https://www.codingame.com/)
+
+**Free** Learn to code and game at the same time.\
+*(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
+
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
 *   [BlazorX.NavigationState (⭐9)](https://github.com/diegofrata/BlazorX.NavigationState) - ![last commit](https://img.shields.io/github/last-commit/diegofrata/BlazorX.NavigationState?style=flat-square\&cacheSeconds=86400) BlazorX.NavigationState provides a set of utilities that allow you to observe and bind query strings directly to Blazor components.
 
-## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Widgets
 
@@ -76,7 +85,7 @@
 
 *   [Federal Election Commission (⭐81)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 
-## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -87,13 +96,13 @@
 *   [Remote Workplace Communications Access](https://www.nad.org/remote-workplace-communications-access-for-employers/) - Recommendations for Employers In Times of Expanded Telework.
 *   [Improving Virtual Workspace Meetings](https://www.deafhhtech.org/rerc/accessible-virtual-meeting-tips/) - Accessibility Tips for a Better Virtual Meeting Experience.
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [10. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### PHP / Scala
 
 *   [Hyperf (⭐4.8k)](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
 
-## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [11. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Communications security (COMSEC) / Service meshes
 

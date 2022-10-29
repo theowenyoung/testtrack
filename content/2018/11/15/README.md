@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Visualizations
+
+*   [TNExT (⭐12)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
+
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Transition / Barcode
 
@@ -28,13 +34,13 @@
 
 *   [WeakableSelf (⭐72)](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate \[weak self] and guard statements within closures.
 
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Open Source Threat Intelligence / Other Resources
 
 *   [HoneyDB](https://riskdiscovery.com/honeydb) - Community driven honeypot sensor data collection and aggregation.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -51,14 +57,14 @@
 
 *   [Statusfy (⭐2.7k)](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 
-## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### On-Call
 
 *   [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 *   [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 

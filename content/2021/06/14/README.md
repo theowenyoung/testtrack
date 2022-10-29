@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2021
 
-14 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -163,13 +163,19 @@
 
 *   [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Crowdsourced transit data
+
+*   [GTFS-Hub (⭐19)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
+
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
 *   [hexagonkt/hexagon (⭐406)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Design and Product / Design Tools
 
@@ -179,7 +185,7 @@
 
 *   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Personality
 
@@ -195,26 +201,32 @@
 
 
 
-## [9. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
     *   [GitHub repository :octocat: (⭐25)](https://github.com/virtual-vehicle/pointcloudset)
 
-## [10. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Graphics / TikZ
 
 *   [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [TheTechRobo (⭐0)](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
+
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Git / Diagnostics
 
 *   [kdheepak/lazygit.nvim (⭐514)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within Neovim.
 
-## [12. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -224,7 +236,7 @@
 
 *   [pydiogment (⭐72)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐72)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
-## [13. Awesome Design](/content/gztchan/awesome-design/README.md)
+## [15. Awesome Design](/content/gztchan/awesome-design/README.md)
 
 ### Stock
 
@@ -267,7 +279,7 @@
 *   [Uber](https://medium.com/uber-design)
 *   [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
-## [14. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [16. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Xamarin.Forms
 

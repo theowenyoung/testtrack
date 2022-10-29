@@ -18,11 +18,11 @@
 
 *   [GdUnit3 (⭐232)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Libraries/Frameworks / Misc
+### GTFS Validators / Ruby
 
-*   [ivanisidrowu/KtRssReader (⭐73)](https://github.com/ivanisidrowu/KtRssReader) - Kotlin library for parsing RSS feeds
+*   [gtfstidy (⭐76)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
 
 ## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

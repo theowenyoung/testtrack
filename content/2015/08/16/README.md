@@ -1,12 +1,13 @@
 # Awesome List Updates on Aug 16, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Tips](/content/git-tips/tips/README.md)
+
 ## Show all commits in the current branch yet to be merged to master
 
 ```sh
@@ -184,6 +185,20 @@ git cherry -v master <branch-to-be-merged>
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
+
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   Gilt <http://tech.gilt.com>
+
+### Companies / L companies
+
+*   LinkedIn <https://engineering.linkedin.com/blog>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jesus Castello <http://www.blackbytes.info/>
 
 ---
 

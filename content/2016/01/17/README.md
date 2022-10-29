@@ -13,6 +13,7 @@
 *   [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - Presentation at ReactiveConf 2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## Amend author.
 
 ```sh

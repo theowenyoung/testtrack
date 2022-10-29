@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 24, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -117,7 +117,13 @@
 *   [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
 *   [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
 
-## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Benjamin Reitzammer (⭐4)](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
+
+## [8. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
@@ -125,13 +131,13 @@
 *   [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/) - How to use a blendmap to multitexture a terrain.
 *   [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) - Create particle effects by applying a technique called billboarding.
 
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Icons / Icon Fonts
 
 *   [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 
-## [9. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [10. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Support Causes You Care About
 
@@ -140,7 +146,7 @@
 *   [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 *   [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
 
-## [10. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [11. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Laravel
 

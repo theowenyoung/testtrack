@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -112,13 +112,19 @@
 *   [Yourcast Bot](https://t.me/yourcastbot) <sup>[592](https://t.me/s/aboutrss/592)</sup>
 *   [Podcastly](https://t.me/podcastly_bot) <sup>[592](https://t.me/s/aboutrss/592)</sup>
 
-## [13. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
+
+*   [GTFS-realtime to SQL](https://github.com/OpenMobilityData/GtfsRealTimeToSql) - Parses a GTFS-RealTime feed into an SQL database (used in [OpenMobilityData.org](https://openmobilitydata.org))
+
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
@@ -1721,26 +1727,26 @@
     <br/>
     <br/>
 
-## [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [velociraptor (⭐651)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 
-## [16. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [17. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Visual Effects
 
 *   [gdx-gltf (⭐152)](https://github.com/mgsx-dev/gdx-gltf) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
 
-## [17. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [18. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
 *   [APIcast (⭐277)](https://github.com/3scale/APIcast) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 *   [Gravitee (⭐5)](https://github.com/gravitee-io/gravitee-gateway) - The gateway is able to apply policies (ie. rules) to both HTTP requests and responses according to your needs, meaning that you can enhance requests and responses processing by adding transformation, security, and many other crazy features!
 
-## [18. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Combine
 

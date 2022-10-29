@@ -533,6 +533,7 @@
 *   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐296)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
 
 ## [35. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
     *   "My Path to Becoming a Python Core Developer" ([video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 

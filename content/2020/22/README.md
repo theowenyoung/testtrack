@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01 - Jun 07, 2020
 
-63 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,6 +52,7 @@
 *   [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound) - a linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.  Suitable for games.
 
 ## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [RazorOps](https://razorops.com/)
 
   Description: RazorOps is a Container-Native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes
@@ -151,7 +152,62 @@
 *   [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 *   [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [14. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+
+### Windows
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/microsoft_community.webp">
+
+[**Microsoft Community**](https://discord.com/invite/microsoft) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://msft.chat/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/sylveon/SatyaNadella) \
+Notable Channels: `#general-chat`, `#insiders-chat`, `#tech-support`, `#purchase-advice`, `#development`, `#it-pros`, `#servers`, `#surface`, `#office`, `#unix` \
+Language: English
+### Linux Distributions
+
+[Gaming on Linux↴](#gaming-on-linux)
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/arch_linux_unofficial.webp">
+
+[**Arch Linux \[unofficial\]**](https://discord.com/invite/MrhPdhn) \
+Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/fedora_linux.webp">
+
+[**Fedora Linux**](https://discord.com/invite/Fedora) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://getfedora.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/fedora-infra) \
+Notable Channels: `#home`, `#man-pages`, `#silverblue-containers`, `#server-rhel-centos`, `#arm-raspberry`, `#showcase`, `#gaming-general`, `#hardware-for-linux` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gentoo_linux.webp">
+
+[**Gentoo Linux**](https://discord.com/invite/Gentoo) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gentoo.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/gentoo) \
+Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `#ebuilds`, `#resources`, `#containers` \
+Language: English, 日本語 \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_mint_community.webp">
+
+[**Linux Mint Community**](https://discord.com/invite/EVVtPpw) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/UtopicUnicorns/artemis) \
+Notable Channels: `#support-mint`, `#support-lmde`, `#support-other-os`, `#support-nos`, `#general`, `#tech-talk`, `#user-created-content` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/manjaro_linux.webp">
+
+[**Manjaro Linux**](https://discord.com/invite/t6GJuTC) \
+Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#help-general`, `#help-installation`, `#programming`, `#customizations` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/opensuse.webp">
+
+[**openSUSE**](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/openSUSE) \
+Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
+Language: English, français, Deutsch, italiano, polski, español, Nederlands \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/ubuntu_hideout.webp">
+
+[**Ubuntu Hideout**](https://discord.com/invite/jcwJEJH) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://ubuntuhideout.com/) \
+Notable Channels: `#tech-talk`, `#coding-cave`, `#system-installation`, `#software-installation,` `#desktop-environment`, `#hardware-drivers`, `#networking`, `#programming` \
+Language: English
+
+## [15. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / a11y
 
@@ -171,7 +227,7 @@
 
 *   [An ember integration for building visual programming editors with blockly. (⭐4)](https://github.com/Program-AR/ember-blockly)
 
-## [15. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [16. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Multimedia
 
@@ -181,7 +237,7 @@
 
 *   [Boxes](https://wiki.gnome.org/Apps/Boxes) - View, access, and manage remote and virtual systems.
 
-## [16. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [17. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
 
@@ -238,20 +294,20 @@
 *   [Slack](https://slack.prisma.io/)
 *   [Twitter](https://twitter.com/prisma)
 
-## [17. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Asset Management
 
 *   [Symfony Asset (⭐2.9k)](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 *   [Symfony Encore (⭐2.1k)](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
-## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript/) (Manning)
 
-## [19. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [20. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -259,37 +315,37 @@
     *   [YouTube channel :red\_circle:](https://www.youtube.com/channel/UCnLpB5QxlQUexi40vM12mNQ)
     *   [GitHub organization :octocat:](https://github.com/Livox-SDK)
 
-## [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [21. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [Enigma Signal Meter (⭐20)](https://github.com/shaxxx/Signalmeter2) - Align your satellite dish by reading signal from satellite receiver by [Krkadoni](https://krkadoni.com)
 
-## [21. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [22. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
 *   [Falco](https://falco.org/) - Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.
 
-## [22. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [23. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Universal GUI Apps / Physical Coin Wallets
 
 *   [**DeBank**](https://debank.com/) - DeFi wallet, view assets and debts in Ethereum DeFi projects.
 
-## [23. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [24. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / 1BitSquared
 
 *   [`onebitsy`](https://crates.io/crates/onebitsy) - Board support crate for the [1bitsy](https://1bitsy.org/) STM32F4-based board - ![crates.io](https://img.shields.io/crates/v/onebitsy.svg)
 
-## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Dynamic Analysis Tools
 
 *   [Droidbox (⭐654)](https://github.com/pjlantz/droidbox)
 
-## [25. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [26. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
@@ -297,7 +353,13 @@
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 *   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 
-## [26. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Validators / Ruby
+
+*   [GTFSVTOR (⭐24)](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
+
+## [28. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -313,7 +375,7 @@
 
 *   [GitJournal (⭐2.7k)](https://github.com/GitJournal/GitJournal) <!--stargazers:GitJournal/GitJournal--> - Journaling your data in a Git Repo by [Vishesh Handa](https://github.com/vHanda)
 
-## [27. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [29. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
@@ -344,14 +406,14 @@
 *   [AVA (⭐227)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 *   [Cucumber (⭐6)](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 
-## [28. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [30. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### secure tools
 
 *   [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
 *   [Deepfence Threat Mapper (⭐2.3k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Framework Components
 
@@ -361,7 +423,7 @@
 
 *   [broadway (⭐1.9k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
-## [30. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
@@ -371,13 +433,13 @@
 
 *   [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
 
-## [31. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [33. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Client libraries
 
 *   [ros2\_rust (⭐443)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
-## [32. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [34. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -387,7 +449,7 @@
 *   [book-box (⭐9)](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
 *   [toggl-box (⭐7)](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
 
-## [33. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Talks
 
@@ -397,7 +459,7 @@
 
 *   [oidc-bash-client (⭐60)](https://github.com/please-openit/oidc-bash-client)
 
-## [34. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Essentials
 
@@ -408,7 +470,7 @@
 
 *   [next-connect (⭐1.2k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
-## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [37. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Codecs
 
@@ -428,7 +490,7 @@
 
 *   [Gqrx SDR](https://gqrx.dk/) - An open source software defined radio receiver (SDR).
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### TextField / Barcode
 
@@ -438,7 +500,7 @@
 
 *   [MobilePlayer (⭐3k)](https://github.com/sahin/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 
-## [37. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -468,7 +530,7 @@
 
 
 
-## [38. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -492,7 +554,7 @@
 *   [jsdo.it-archives (⭐11)](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
 *   [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
 
-## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [41. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Resources / Blogs
 
@@ -504,7 +566,7 @@
 *   [MolSSI Molecular Software Database](https://molssi.org/software-search/)
     ＊[Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 
-## [40. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
@@ -518,7 +580,7 @@
 
 *   [k1LoW/awspec :fire::fire::fire::fire: (⭐1.2k)](https://github.com/k1LoW/awspec) - RSpec tests your resources.
 
-## [41. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [43. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -530,7 +592,7 @@
 
 *   [Check bundlephobia (⭐46)](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
-## [42. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [44. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / MQTT
 
@@ -546,7 +608,7 @@
 
 *   [esp32-backtrace (⭐16)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
-## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [45. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Datasets
 
@@ -556,13 +618,13 @@
 
 *   [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
-## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [46. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [galacteek](https://galacteek.github.io) - A multi-platform Qt5-based browser for the distributed web [Source (⭐152)](https://github.com/pinnaculum/galacteek)
 
-## [45. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [47. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -587,14 +649,14 @@
 
 *   [@spianslabs](https://twitter.com/spianslabs) <sup>[636](https://t.me/s/aboutrss/636)</sup>
 
-## [46. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [48. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Q/A
 
 *   [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
 *   [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
 
-## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -604,7 +666,7 @@
 
 *   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐366)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 
-## [48. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [50. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -614,25 +676,25 @@
 
 *   [scriptum (⭐369)](https://github.com/kongware/scriptum/blob/master/README.md) - a no-frills functional programming library and a online course based on it
 
-## [49. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [51. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Neural Natural Language Generation
 
 *   [This Word Does Not Exist (⭐966)](https://github.com/turtlesoupy/this-word-does-not-exist) - This is a project allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch.
 
-## [50. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [52. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Bots / Self-hosted
 
 *   [EveIRC (⭐7)](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework (⭐1k)](https://github.com/cinchrb/cinch). `Ruby`
 
-## [51. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [53. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-hole-view ★6 (⭐210)](https://github.com/ibitcy/react-native-hole-view) - Component for cutting out click-through holes in any view. Perfect for making tutorial-like overlay
 
-## [52. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
+## [54. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
 ### Resources / Tools
 
@@ -640,13 +702,13 @@
 
     > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
-## [53. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [55. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Bonsai](https://www.bonsaicss.com/) - A complete Utility First CSS Framework for less than 50kb.
 
-## [54. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [56. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -664,25 +726,25 @@
 
 *   [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 
-## [55. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [57. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Sorted colors](https://enes.in/sorted-colors/) - Sorted named CSS colors in a way that it shows related colors together.
 
-## [56. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [58. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html) - tl;dr Caveat Emptor. Feb 4, 2014.
 
-## [57. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [59. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Tutorials
 
 *   [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 
-## [58. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [60. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Games
 
@@ -692,13 +754,13 @@
 
 *   [DevExpress Blazor UI Components (⭐320)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
-## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [61. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
 *   [runcobo (⭐45)](https://github.com/runcobo/runcobo) - An api framework with simple, intuitive and consistent DSL, using jbuilder to render json
 
-## [60. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [62. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Cognitive Tools / Collections
 
@@ -739,7 +801,7 @@
 *   [Marketing for Engineers (⭐12k)](https://github.com/LisaDziuba/Marketing-for-Engineers) - Lots of resources to help bootstrap your marketing activies and solve practical tasks.
 *   [How the biggest consumer apps got their first 1,000 users](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got) - How the biggest apps out there started: from going to your user directly (both online and offline), creating FOMO and word-of-mouth, to build a community first and get press.
 
-## [61. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [63. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Guides / Accessibility
 
@@ -799,7 +861,7 @@
 *   [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) by [@justinfagnani](https://twitter.com/justinfagnani)
 *   [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) by [@diervo](https://twitter.com/diervo)
 
-## [62. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Automation
 
@@ -810,7 +872,7 @@
 *   [deno\_cron (⭐77)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
 *   [rubico (⭐214)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
-## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [65. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Blog Posts
 

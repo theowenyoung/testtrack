@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2016
 
-30 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,29 @@
 
 *   [electron-stream (⭐122)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
-## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [2. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Wenjie Fan (⭐1)](https://github.com/DIYgod/ama) - Front-end engineer for Linux Deepin, blogger of anotherhome.net.
+*   [Robert Haritonov (⭐1)](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
+*   [Henry Snopek (⭐1)](https://github.com/hhsnopek/ama) - Front-end developer, university student.
+*   [Rishabh Pugalia (⭐9)](https://github.com/rishabhp/ama) - Full stack engineer. Creator of [CSSDeck](http://cssdeck.com).
+*   [DeokHong Kim (⭐2)](https://github.com/insanehong/ama) - Front-end engineer at NAVER, founder of [hackrslab](https://github.com/hackrslab).
+*   [Una Kravets (⭐17)](https://github.com/una/ama) - Front-end developer, Sass things, Dev communities & Open Source Design.
+*   [Chris Missal (⭐1)](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
+*   [Acho Arnold](https://github.com/najela/ama) - Full stack web developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
+*   [Jan Sanchez (⭐0)](https://github.com/jansanchez/ama) - Front-end developer. Creator of css-url-versioner, open source contributor.
+*   [Mohamad Jahani (⭐0)](https://github.com/mamal72/ama) - Software developer from Iran, mostly working on web backends, \*nix servers, electronic devices and most cool stuff you can imagine! A knowledge addict, who's reading and working 24/7.
+*   [Deepak Verma (⭐1)](https://github.com/deepaknverma/ama) - Full stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma).
+*   [Daichi Furiya (⭐2)](https://github.com/wasabeef/ama) - Software developer in Japan. I love Android, JavaScript and iOS.
+*   [Breno Polanski (⭐1)](https://github.com/brenopolanski/ama) - Front-end software engineer at [Meteorite BI](http://www.meteorite.bi).
+*   [Camilo Nova (⭐3)](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
+*   [William Oliveira](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
+*   [Danilo Vaz (⭐1)](https://github.com/danilovaz/ama) - Front-end developer (Brazilian), working at [mLabs](https://www.mlabs.com.br/) with JavaScript, EmberJS, APIs and other cool stuffs. I'm also [BeerJS/SJC (⭐18)](https://github.com/beerjs/sjc) organizer.
+*   [Adrian Mejia (⭐1)](https://github.com/amejiarosario/ama) - Software engineer at Cisco. Blogger at [adrianmejia.com](http://adrianmejia.com). Author of ["E-commerce Application built with the MEAN stack" (⭐149)](https://github.com/amejiarosario/meanshop). JavaScript lover. Boston located.
+
+## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -23,7 +45,7 @@
 *   Repository's owner explicitly say that "this library is not maintained".
 *   Not committed for long time (2\~3 years).
 
-## [3. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [4. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -33,13 +55,13 @@
 
 *   [is.sh (⭐147)](https://github.com/qzb/is.sh) - An alternative for builtin test command, it will make your "if" statements pretty
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Beanstalk
 
 *   [ThoughtWorksStudios/eb\_deployer :fire::fire: (⭐400)](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
 
-## [5. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### RESTful API
 
@@ -54,13 +76,13 @@
 *   [Clojure Koans](http://clojurekoans.com)
 *   [Clojure Katas](http://clojurekatas.org)
 
-## [6. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [7. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[aStandard](https://npmjs.com/package/a-standard)** - A stricter standard made for babel and es7
 
-## [7. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
@@ -72,13 +94,13 @@
 
 *   [scalpel (⭐523)](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
 
-## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [9. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [Loudness Validator (⭐13)](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
@@ -86,7 +108,7 @@
 *   [VulkanSharp (⭐489)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
-## [10. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Articles
 
@@ -96,13 +118,13 @@
 
 *   [static-props (⭐3)](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 
-## [11. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [12. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Input
 
 *   [TouchScript (⭐1.5k)](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Bundlers
 
@@ -112,7 +134,7 @@
 
 *   [MobX (⭐26k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
-## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Text
 
@@ -122,7 +144,7 @@
 
 *   [algebra (⭐100)](https://github.com/fibo/algebra) - Algebraic structures.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -148,7 +170,7 @@
 
 *   [Gush (⭐984)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### C++
 
@@ -156,13 +178,13 @@
 *   [Poco](http://pocoproject.org/) - C++ class libraries for building network-based applications and servers.
 *   [Served (⭐695)](https://github.com/datasift/served) - C++ library for building high-performance RESTful web servers.
 
-## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
 *   [ohc (⭐776)](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
 
-## [17. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [18. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Studying / Useful Materials
 
@@ -172,7 +194,7 @@
 
 *   [AEA Blog Directory](https://www.aeaweb.org/rfe/showCat.php?cat_id=96) - The list of major economic blogs.
 
-## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [19. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 
@@ -188,7 +210,7 @@
 *   [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
 *   [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
 
-## [19. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [20. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -253,13 +275,13 @@
 *   [Site Reliability Engineers: the "world’s most intense pit crew"](http://googleforstudents.blogspot.gr/2012/06/site-reliability-engineers-worlds-most.html)
 *   [Notes on Site Reliability Engineering](http://danluu.com/google-sre-book/)
 
-## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [21. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Images / Gif Creation
 
 *   [givegif (⭐213)](https://github.com/passy/givegif) - GIFs on the command line.
 
-## [21. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Animation
 
@@ -269,7 +291,31 @@
 
 *   [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
 
-## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [23. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+
+### Beginner Books
+
+#### The R Programming Wikiboo [\[online\]](https://en.wikibooks.org/wiki/R_Programming)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wikibooks-logo-en.svg" width="200px"/>
+
+A collaborative book about R on the wikibooks website. Anyone can improve it.
+
+## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / E companies
+
+*   Evil Martians <https://evilmartians.com/chronicles/>
+
+### Companies / M companies
+
+*   Made Tech <https://www.madetech.com/blog>
+
+### Companies / S companies
+
+*   Scrunch <https://tech.scrunch.com/blog/>
+
+## [25. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -283,38 +329,38 @@
 *   [R Project Conferences](https://www.r-project.org/conferences.html) -  Information about useR! Conferences and DSC Conferences.
 *   [Topic Models (⭐213)](https://github.com/trinker/topicmodels_learning) - Topic Models learning and R related resources.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Filtering and Validation
 
 *   [Assert (⭐2.3k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Networking
 
 *   [Restbed (⭐1.7k)](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. \[AGPL]
 
-## [25. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [PhpStorm plugin (⭐7)](https://github.com/skie/PhpStorm) -  CakePHP auto-completion support for console commands in PhpStorm IDE.
 
-## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Misc
 
 *   [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - Paul Dawkins (Lamar University)
 *   [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) - Marcel B. Finan (Arkansas Tech University)
 
-## [27. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [30. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / C/C++
 
 *   [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
-## [28. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [31. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -523,7 +569,7 @@
 *   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 *   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent *Network Science* journal.
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -537,7 +583,7 @@
 
 *   [segseg (⭐5)](https://github.com/pkinney/segseg_ex) - Segment-segment intersection classifier and calculator.
 
-## [30. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [33. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 

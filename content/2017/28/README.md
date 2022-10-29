@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10 - Jul 16, 2017
 
-40 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -149,7 +149,13 @@
 *   [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 *   [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind (⭐651)](https://github.com/kristjankorjus/Replicating-DeepMind)
 
-## [13. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [13. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+
+### How-to lockpicking guides
+
+*   [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - Guidebook covering terminology, tool use, and techniques for picking the vast majority of pin and wafer tumbler locks.
+
+## [14. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Certification
 
@@ -157,7 +163,7 @@
 *   [Symfony 3 certification guide (⭐142)](https://github.com/raulconti/symfony-3-certification-guide)
 *   [Symfony certification preparation list (⭐548)](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
-## [14. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / iOS
 
@@ -166,19 +172,19 @@
 *   [iOS Developer and Designer Interview Questions (⭐1.6k)](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 *   [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 
-## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
 *   [Comdb2 (⭐1.2k)](https://github.com/bloomberg/comdb2) - a clustered RDBMS built on optimistic concurrency control techniques.
 
-## [16. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [17. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Forms
 
 *   [Avoiding Entities in Forms](https://stovepipe.systems/post/avoiding-entities-in-forms) \[2016]
 
-## [17. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [18. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Common Algorithms and Procedures
 
@@ -216,13 +222,13 @@
 *   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
 *   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Security
 
 *   [Recaptcha Mailhide plugin (⭐1)](https://github.com/mirko-pagliai/cakephp-recaptcha-mailhide) - A plugin that allows you to hide email addresses using reCAPTCHA.
 
-## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [20. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Datasets / Topic-specific
 
@@ -269,13 +275,13 @@
 
 *   [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
 
-## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [21. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [GL\_vs\_VK (⭐74)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
-## [21. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [22. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
@@ -293,7 +299,7 @@
 
 *   [libsodium-laravel (⭐21)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
-## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [23. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
@@ -307,7 +313,7 @@
 
 *   [Medusa (⭐998)](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
 
-## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Converters
 
@@ -329,7 +335,7 @@
 
 *   [Crystal \[ANN\]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
 
-## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [25. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Data Pipeline
 
@@ -339,20 +345,20 @@
 
 *   [jubos/fake-s3 :fire::fire::fire::fire::fire: (⭐2.9k)](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
 
-## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Slack / Other
 
 *   [Creative Coding](http://the-mccc-project.github.io/creative-coding-sign-up/) - Creative Coding Slack.
 *   [openFrameworks](https://ofslack.herokuapp.com/) - openFrameworks Slack.
 
-## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
 *   [confluent-kafka-dotnet (⭐2.4k)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
 
-## [27. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [28. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Syntax
 
@@ -360,13 +366,13 @@
 *   [Markdown](https://atom.io/packages/language-markdown)
 *   [Pug](https://atom.io/packages/language-pug)
 
-## [28. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [29. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Free Content
 
 *   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 
-## [29. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [30. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Animation
 
@@ -378,19 +384,19 @@
 
 
 
-## [30. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [31. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Sample Applications / Miscellaneous
 
 *   [eta-2048 (⭐28)](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
 
-## [31. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [32. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Software
 
 *   [Spin up PySpark and PySparkling on AWS (⭐8)](https://github.com/kcrandall/EMR_Spark_Automation)
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Books
 
@@ -401,7 +407,7 @@
 
 *   [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 
-## [33. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [34. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -409,7 +415,7 @@
 *   [Giving Feedback, Praise, and Advice](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Giving-Feedback-Praise-and-Advice.md)
 *   [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
 
-## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
@@ -419,7 +425,7 @@
 
 *   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
@@ -437,7 +443,7 @@
 
 *   [SwiftValidator (⭐1.4k)](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
 
-## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -453,7 +459,7 @@
 
 *   [v-money (⭐742)](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
 
-## [37. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
+## [38. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
 ### Principles within bigger Design Systems
 
@@ -463,13 +469,13 @@
 *   [Shopify Polaris Principles](https://polaris.shopify.com/principles/principles#app)
 *   [U.S. Web Design Principles](https://standards.usa.gov/design-principles/)
 
-## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐102)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 
-## [39. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [40. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -501,7 +507,13 @@
 
 
 
-## [40. Guides](/content/NARKOZ/guides/week/README.md)
+## [41. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
+
+## [42. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 

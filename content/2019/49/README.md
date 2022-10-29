@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09 - Dec 15, 2019
 
-42 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -235,7 +235,21 @@
     *   [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature\&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1\&outputFormat=json)
     *   [Museums Victoria Collections](https://collections.museumvictoria.com.au/api/search)
 
-## [13. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [13. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Strategy
+
+### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
+
+> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
+
+![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 4 |       13 | 30-45m |
+
+## [14. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -247,14 +261,14 @@
 
 
 
-## [14. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
+## [15. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 
 ### Web Apps (frontend only) / [Filestash](https://github.com/mickael-kerjean/filestash)
 
 *   golang, react
 *   AGPLv3 License
 
-## [15. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
@@ -282,25 +296,25 @@
 *   [NA Digest](https://www.netlib.org/na-digest-html/) - Collection of articles on topics related to numerical analysis and those who practice it.
 *   [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) - One tweet a day on computational mathematics.
 
-## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [scikit-multiflow (⭐653)](https://github.com/scikit-multiflow/scikit-multiflow) - A machine learning framework for multi-output/multi-label and stream data.
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
 *   :octocat: [Libstack](https://libstack.io) - A collection of various modules to create Typescript server easily and ready to be deployed on Docker.
 
-## [18. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [19. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-nordvpn (⭐14)](https://github.com/maxrodrigo/tmux-nordvpn) Monitor the current NordVPN connection status.
 
-## [19. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [20. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -311,19 +325,19 @@
 *   [Geolocator (⭐1k)](https://github.com/baseflow/flutter-geolocator)<!--stargazers:baseflow/flutter-geolocator--> - A Flutter geolocation plugin which provides easy access to the platform specific location services by [Baseflow](https://baseflow.com)
 *   [Permission Handler (⭐1.7k)](https://github.com/baseflow/flutter-permission-handler)<!--stargazers:baseflow/flutter-permission-handler--> - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by [Baseflow](https://baseflow.com)
 
-## [20. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [21. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / File Management
 
 *   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐7k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 
-## [21. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
+## [22. Awesome Corda](/content/chainstack/awesome-corda/week/README.md)
 
 ### Official
 
 *   [Corda website](https://www.corda.net/)
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
@@ -333,19 +347,19 @@
 
 *   [Saiku Analytics](https://www.meteorite.bi/) - Open source analytics platform.
 
-## [23. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [24. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Places / Monasteries
 
 *   [Sitavana](https://birken.ca/) - Forest Monastary, Kamloops, British Columbia - Forest Tradition monastery with Ajahn Sona as abbot.
 
-## [24. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [25. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Tools, Platforms, and Services / Repos for Specific Datasets
 
 *   [TabInOut (⭐37)](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -371,19 +385,19 @@
 
 *   [jingo (⭐1k)](https://github.com/claudioc/jingo) - Git based wiki engine written for node.js, with a decent design, a search capability and good typography. `MIT` `Nodejs`
 
-## [26. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [27. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Books / Voxel Editors
 
 *   :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 
-## [27. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [28. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) - Tales from the Hardware/Software Interface: “the nerdiest podcast on the face of the planet”.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -393,25 +407,31 @@
 
 *   [FullStory.com](https://www.fullstory.com) — 1,000 sessions/month with 1 month data retention and 3 user seats. More information [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
 
-## [29. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Realtime Convertors / Ruby
+
+*   [Transloc API to GTFS-realtime (⭐2)](https://github.com/jonathonwpowell/transloc-to-gtfs-real-time) - A Node.js based tool to convert the Transloc API to GTFS-realtime.
+
+## [31. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Miscellaneous / Third Party Hosts
 
 *   [k8s-usenet (⭐75)](https://github.com/aldoborrero/k8s-usenet) A collection of Helm (Kubernetes) charts related to different Usenet services (sabnzbd, radarr, sonarr...).
 
-## [30. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [32. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Security
 
 *   [BryanCrowe/EncryptedType (⭐7)](https://github.com/bcrowe/cakephp-encrypted-type) - Simple solution that enables Encrypted data types to be stored in the database.
 
-## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Vue Expenses (⭐198)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
-## [32. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [34. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -421,13 +441,13 @@
 
 *   [ESP8266Wifi (⭐437)](https://github.com/ekstrand/ESP8266wifi) - Simple Arduino Wifi library for the 8266.
 
-## [33. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [35. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [navi (⭐12k)](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 
-## [34. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [36. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Collection of Actions / Docker Container Actions
 
@@ -449,19 +469,19 @@
 
 *   [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
 
-## [35. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [37. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 
-## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Tools
 
 *   [Database Consistency (⭐620)](https://github.com/djezzzl/database_consistency) - An easy way to check that application constraints and database constraints are in sync.
 
-## [37. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [39. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Client libraries / C/C++
 
@@ -476,13 +496,13 @@
 
 *   [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
 
-## [38. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [40. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Services
 
 *   [Boom.FYI](https://www.boom.fyi) - An IPFS link shortening and access control service.
 
-## [39. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -510,19 +530,19 @@
 
 *   [`xmc4-hal`](https://github.com/xmc-rs/xmc4-hal) - ![crates.io](https://img.shields.io/crates/v/xmc4-hal.svg)
 
-## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Unofficial
 
 *   [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - Unofficial Discord server dedicated to the Crystal Programming Language
 
-## [42. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2015
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,7 +43,14 @@
 
 *   [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
 
-## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [4. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Gateways / Bridges
+
+*   [PaxMoneta](https://paxmoneta.com)
+*   [Ripple Market Korea](http://ripple-market.co.kr/)
+
+## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Misc
 
@@ -53,38 +60,38 @@
     *   [Assignments](http://www.schneems.com/ut-rails/)
     *   [Videos](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F)
 
-## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Videos / Third-party Service Integration
 
 *   [Laracasts](https://laracasts.com/)
 
-## [6. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [7. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Bootstraps and boilerplates
 
 *   [dojo.js (⭐15)](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Machine Learning and Data Science
 
 *   [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
 *   [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### [dotzsh](https://github.com/dotphiles/dotzsh) / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   Clone new plugins into `.zsh.local/modules`
 
-## [9. Guides](/content/NARKOZ/guides/README.md)
+## [10. Guides](/content/NARKOZ/guides/README.md)
 
 ### Programming Languages / Go
 
 *   [Go Code Review Comments (⭐105k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
-## [10. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
+## [11. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 
 ### GDC Talks / Table of Contents
 

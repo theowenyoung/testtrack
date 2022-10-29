@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,7 +76,13 @@
 
 *   [What are the current fads in computer science, IT and software engineering?](http://qr.ae/7PyLkC)
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Michael Herman <http://mherman.org/>
+
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 

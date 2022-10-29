@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 13, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Eduards Sizovs (⭐0)](https://github.com/sizovs/ama) - Software architect, [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi), and a [conference organizer](https://devternity.com).
+
+## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Frameworks
 
@@ -66,13 +72,13 @@
 *   [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 *   [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 
-## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Misc Articles
 
 *   [SRE Adoption Report](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering)
 
-## [3. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### API
 
@@ -84,7 +90,7 @@
 *   [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
 *   [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 
-## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [5. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
@@ -92,7 +98,7 @@
     automated threat intel pipelines sourcing from Twitter, RSS, GitHub, and
     more.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Utils / Third-party APIs
 
@@ -100,7 +106,7 @@
     a Common Lisp library offering a way of spawning threads and being
     informed when one any of them crash and die. [MIT](https://opensource.org/licenses/MIT).
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 

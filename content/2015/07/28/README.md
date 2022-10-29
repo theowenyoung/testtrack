@@ -17,6 +17,7 @@
 *   [coinbase (⭐12)](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## List of all files changed in a commit
 
 ```sh

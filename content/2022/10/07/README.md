@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2022
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,6 +13,7 @@
 *   [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - Free GitHub version
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+
 ### [Octohint (⭐949)](https://github.com/pd4d10/octohint) <a href="https://chrome.google.com/webstore/detail/octohint/hbkpjkfdheainjkkebeoofkpgddnnbpk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 The missing IntelliSense hint for GitHub and GitLab
@@ -81,37 +82,57 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf) - The Oil and Vinegar signature scheme, proposed in 1997 by Patarin, is one of the oldest and best-understood multivariate quadratic signature schemes. It has excellent performance and signature sizes. This paper is about enhancing this algorithm in usage in the post-quantum era. [Official website](https://pqmayo.org/).
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)
+
+> The island of Oshra is in turmoil. Following the death of the Emperor, the conflict between the Hill Tribes and the Imperial Army escalated. While the Water People try to maintain balance between the old rivals, the Undead aim to escalate the war. All hope rests on the six children of the Emperor: Who of them will claim the throne? In Hidden Leaders, you take the role of one of six secret leaders, each of them is allied with two of the four factions/colors. By playing heroes into your tableau, either openly or secretly, you influence the outcome of the conflict. At the end of the game, one of the four factions will win:Red leading > Red victory Green leading > Green victory Tie between Red & Green > Blue victory Red & Green in War Zone > Black victory Each player who is aligned with the winning faction can claim the victory. However, they must have more heroes of this color than any competitor. Hidden Leaders is a quick, light strategy card game with direct player interaction. It combines tableau building and deduction elements with its unique winning mechanism. This is a game of great tension with no-down time, that’s fast to learn. Its distinctive artwork and character names will make you smile.
+
+![Hidden Leaders](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc\(\)/pic5845169.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |       10 | 20-40m |
+
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
 *   [userver (⭐1.4k)](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. \[Apache-2.0] [website](https://userver.tech/)
 
-## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [12. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [FilePizza ☠️ (⭐3.9k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [PVS-Studio](https://pvs-studio.com) :copyright: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees (⭐29)](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Metascience / Science of Science
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Electron
 
 *   [electron-vue-template (⭐192)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [Creating a Generic Tree View Blazor Component](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/creating-a-generic-tree-view-blazor-component/ba-p/3640237) - October 4, 2022 - This article shows off a Blazor component that can display an object recursively in a tree view. The component was made as part as a project, FHIR Watch, a tool for comparing FHIR data from two different data sources: FHIR API Service and Dataverse. As such, it is particularly useful for displaying FHIR data.
 
-## [15. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+## [17. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ### Web3XR / Realms
 

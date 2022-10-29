@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -107,23 +107,26 @@
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
-### Libraries/Frameworks / Database
-
-*   [Litote/kmongo (⭐693)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
-
 ### Android / Libraries
 
-*   [WindSekirun/RichUtilsKt (⭐170)](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin.
 *   [skydoves/balloon (⭐2.7k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
 *   [ChuckerTeam/chucker (⭐2.8k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   All My Faves - <https://www.allmyfaves.com/>
+*   Launching Next - <https://www.launchingnext.com/submit/>
+*   Startup Buffer - <https://startupbuffer.com>
+
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Network Analysis
 
 *   [Apidog](https://www.apidog.com/) - All-in-One workspace for API Design, Documentation, Debug, Mock, Test.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Utility / Diagnostics
 

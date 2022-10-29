@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2016
 
-60 awesome lists updated this week.
+66 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -165,20 +165,186 @@
 *   <a href="https://twitter.com/intent/tweet?text=https://github.com/fliptheweb/motion-ui-design%20Motion%20UI%20Design%20collection" target="_blank">Share on Twitter</a>
 *   <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/fliptheweb/motion-ui-design&p[images][0]=&p[title]=Motion%20UI%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
-## [18. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [18. Codeface](/content/chrissimpkins/codeface/week/README.md)
+
+### The Gallery
+
+[![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
+
+Each typeface directory in the repository now includes a vertical metrics table (`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool](https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
+
+<blockquote>"Stop wasting your braintime on meaningless stuff like this and get back to coding. If you replace 'font' with some cosmetic product y'all sound like a bunch of valley girls."
+<p>-- <a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>Some Guy on Reddit</a></p></blockquote>
+
+[Link](https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu)
+
+<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="https://github.com/chrissimpkins/codeface/raw/master/images/non-gallery/download-button.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
+
+Click a link below to download all font binaries in the Codeface main and bitmap gallery collections:
+
+|                                                               Archive                                                              |                    SHA1                    |   Size  |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :-----: |
+|    [codeface-fonts.zip (⭐5.8k)](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip)    | `4709e7b6f63d1e2c31f7af0d56b7e1f75a846476` | 31.4 MB |
+| [codeface-fonts.tar.xz (⭐5.8k)](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) | `e4416c72e331d71e55fd56f2fba38cfda7672f85` | 16.5 MB |
+
+or use one of the following commands to pull a font archive with `curl`:
+
+    $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip
+
+<!---->
+
+    $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz
+### [Anonymous Pro](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/anonymous-pro)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/anonymous-pro/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/anonymous-pro-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/anonymous-pro-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/anonymous-pro-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/anonymous-pro-light.png" width="725">
+### [Aurulent Sans Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/aurulent-sans-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/aurulent-sans-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/aurulent-sans-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/aurulent-sans-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/aurulent-sans-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/aurulent-sans-mono-light.png" width="725">
+### [AverageMono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/average-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/average-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/average-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/average-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/average-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/average-mono-light.png" width="725">
+### [Bitstream Vera Sans Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/bitstream-vera-sans-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/bitstream-vera-sans-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bitstream-vera-sans-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bitstream-vera-sans-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bitstream-vera-sans-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bitstream-vera-sans-mono-light.png" width="725">
+### [BPmono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/bp-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/bp-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bp-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bp-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bp-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bp-mono-light.png" width="725">
+### [Bront](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/bront)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/bront/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bront-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bront-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bront-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/bront-light.png" width="725">
+### [CamingoCode](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/camingo-code)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/camingo-code/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/camingo-code-light.png" width="725">
+### [CMU Typewriter Text](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cmu-typewriter)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cmu-typewriter/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cmu-typewriter-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cmu-typewriter-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cmu-typewriter-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cmu-typewriter-light.png" width="725">
+### [Courier Prime Code](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/courierprime-code)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/courierprime-code/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/courierprime-code-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/courierprime-code-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/courierprime-code-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/courierprime-code-light.png" width="725">
+### [Cousine](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cousine)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cousine/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cousine-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cousine-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cousine-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cousine-light.png" width="725">
+### [CPMono\_v07](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cp-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cp-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cp-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cp-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cp-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cp-mono-light.png" width="725">
+### [Cutive Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cutive-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/cutive-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cutive-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cutive-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cutive-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/cutive-mono-light.png" width="725">
+### [Droid Sans Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/droid-sans-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/droid-sans-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/droid-sans-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/droid-sans-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/droid-sans-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/droid-sans-mono-light.png" width="725">
+### [Edlo](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/edlo)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/edlo/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/edlo-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/edlo-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/edlo-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/edlo-light.png" width="725">
+### [Fantasque Sans Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/fantasque-sans-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/fantasque-sans-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fantasque-sans-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fantasque-sans-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fantasque-sans-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fantasque-sans-mono-light.png" width="725">
+### [Fira Code](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/fira-code)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](#)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/fira-code/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-code-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-code-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-code-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-code-light.png" width="725">
+### [Fira Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/fira-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/fira-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/fira-mono-light.png" width="725">
+
+## [19. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
 *   [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
 
-## [19. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [20. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Playgrounds
 
 *   [Bitcore Playground](https://bitcore.io/playground/)
 
-## [20. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [21. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Transpilers
 
@@ -192,7 +358,7 @@
 
 *   [es6-promise (⭐7.3k)](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API
 
-## [21. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [22. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Blog and CMS / Social Sciences
 
@@ -232,7 +398,51 @@
 
 *   [fuck (⭐365)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
-## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [23. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Official
+
+*   [Blog](https://ripple.com/insights/)
+*   [Ripple Labs](https://ripple.com)
+
+### Books / Docs / Videos
+
+*   [Wikipedia](https://en.wikipedia.org/wiki/Ripple_\(payment_protocol\))
+
+### Gateways / Bridges
+
+*   [Bitstamp](http://www.bitstamp.net/)
+*   [SnapSwap US](https://snapswap.us/)
+*   [SnapSwap EU](https://snapswap.eu/)
+*   [RippleCN](http://www.rebopay.com/)
+*   [Ripple Union](https://xagate.com)
+*   [BTC2Ripple](https://btc2ripple.com/)
+*   [RippleFox](https://ripplefox.com/)
+
+### Code
+
+*   [ripple-client-ios (⭐34)](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
+*   [ripple-graph (⭐22)](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
+*   [federation-php (⭐10)](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
+*   [Ripple Checkout (⭐9)](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
+
+### Hosted Tools
+
+*   [Ripple API Tool](https://ripple.com/build/websocket-tool/)
+*   [Ripple Info Tool](https://ripple.com/build/ripple-info-tool/)
+*   [jRippleAPI (⭐15)](https://github.com/pmarches/jStellarAPI)
+*   [Ripple Graph](https://www.ripplecharts.com/%23/graph/)
+
+### Other
+
+*   [International Ripple Business Association](http://www.ripplebusiness.org/)
+
+### Social
+
+*   [Reddit 'ripple'](https://www.reddit.com/r/ripple/)
+*   [Reddit 'ripplers'](https://www.reddit.com/r/ripplers/)
+
+## [24. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Frameworks / Runtimes
 
@@ -290,7 +500,18 @@
 
 *   [Aglio (⭐4.7k)](https://github.com/danielgtaylor/aglio) - API Blueprint renderer with theme support that outputs static HTML.
 
-## [23. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Native Apps (closed source)
+
+*   [ally](http://www.allyapp.com/)
+*   [CityMapper](https://citymapper.com/)
+
+### GTFS Realtime Utilities / Ruby
+
+*   [GTFS-realtime Nagio Plugin (⭐1)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - Provides a [Nagios](https://www.nagios.org/) plugin for monitoring a GTFS-realtime feed
+
+## [26. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
@@ -321,13 +542,13 @@
 *   [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/application/internet_of_things.php)
 *   [Dialog Semiconductor](http://www.dialog-semiconductor.com/bluetooth-smart)
 
-## [24. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [27. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### Community / Swift
 
 *   [Reactionsgifs](http://www.reactiongifs.com/)
 
-## [25. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [28. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -337,7 +558,7 @@
 
 *   [Where@ (⭐38)](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
 
-## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [29. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -351,13 +572,13 @@
 
 *   [What is JSON and how to use it](https://ilovecoding.org/lessons/json-what-is-json-and-how-to-use-it) - Video tutorial for beginners.
 
-## [27. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [30. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
 *   [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64)
 
-## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [31. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
@@ -380,7 +601,7 @@
 
 *   [Redash (⭐22k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 
-## [29. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computational Photography
 
@@ -418,7 +639,7 @@
 
 *   [awesome-deep-learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
-## [30. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [33. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Communities
 
@@ -428,7 +649,7 @@
 
 *   [Haskell Must Watch (⭐1.1k)](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 
-## [31. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [34. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -438,7 +659,7 @@
 
 *   [paranoia (⭐2.8k)](https://github.com/rubysherpas/paranoia) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
 
-## [32. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [35. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
@@ -454,7 +675,7 @@
 
 *   [PostCSS BEM Linter (⭐541)](https://github.com/postcss/postcss-bem-linter)
 
-## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [36. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
@@ -470,7 +691,17 @@
 
 *   [Gitter chat](https://gitter.im/cyclejs/cycle-core) - Ask 'how do I ...?'
 
-## [34. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
+## [37. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### Icons, Fonts and Colors
+
+*   [Material Design Icons](https://materialdesignicons.com/) — Community generated Material Design icon pack.
+
+### Components
+
+*   [md-timepicker (⭐12)](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
+
+## [38. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
 
 ### Node modules
 
@@ -493,13 +724,13 @@
 
 *   [UnCSS (⭐9.3k)](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt (⭐3.9k)](https://github.com/addyosmani/grunt-uncss), [Gulp (⭐960)](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
-## [35. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [39. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [om-tools (⭐438)](https://github.com/plumatic/om-tools) – It aims to provide higher-order abstractions and utilities frequently useful when building components with Om's API.
 
-## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [40. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
@@ -509,7 +740,7 @@
 
 *   [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 
-## [37. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [41. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
@@ -520,7 +751,7 @@
 *   [pcollections (⭐700)](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 *   [RoaringBitmap (⭐2.8k)](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 
-## [38. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [42. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
 
@@ -535,13 +766,13 @@
 
 *   [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 
-## [39. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [43. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Backoffice extensions
 
 *   [refinerycms-tinymce (⭐7)](https://github.com/ghoppe/refinerycms-tinymce) - TinyMCE Visual Editing
 
-## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [44. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
@@ -551,25 +782,43 @@
 
 *   [json-strictify (⭐17)](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
-## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [45. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [serverless/serverless :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 
-## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / S companies
+
+*   SlideShare <https://engineering.linkedin.com/blog/topic/slideshare>
+
+### Companies / T companies
+
+*   TrackMaven <http://engineroom.trackmaven.com/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Discover Meteor <https://www.discovermeteor.com/blog>
+
+### Individuals/Group Contributors / R individuals
+
+*   Raymond Chen <https://blogs.msdn.microsoft.com/oldnewthing/>
+
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Bioinformatics
 
 *   [Rust-Bio](https://github.com/rust-bio) — bioinformatics libraries in Rust.
 
-## [43. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [48. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Miscellaneous / Ruby
 
 *   [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118)
 
-## [44. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [49. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -594,7 +843,7 @@
 *   [markdown-js (⭐7.6k)](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 *   [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
-## [45. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [50. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -605,7 +854,7 @@
 *   [scid (⭐83)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
 *   [dstats (⭐24)](https://github.com/DlangScience/dstats) -  A statistics library for D.
 
-## [46. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [51. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Articles
 
@@ -627,7 +876,7 @@
 *   [enpeem-search (⭐4)](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 *   [npm-issues (⭐49)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
-## [47. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [52. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -647,19 +896,19 @@
     *   [Labs (⭐4.9k)](https://github.com/RPISEC/MBE/tree/master/src)
     *   [Projects (⭐4.9k)](https://github.com/RPISEC/MBE/tree/master/src)
 
-## [48. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [53. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [Molgav (⭐2)](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 
-## [49. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [54. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Facebook Accounts / Book Deals (Affiliated) 🛍
 
 *   [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 
-## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [55. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Generators
 
@@ -669,13 +918,13 @@
 
 *   [carc.in](https://carc.in/) - A web service that runs your code and displays the result
 
-## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [56. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Source Generator
 
 *   [.NET-libraries-that-make-your-life-easier (⭐710)](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
-## [52. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [57. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Color / Runner
 
@@ -689,13 +938,13 @@
 
 *   [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 
-## [53. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
+## [58. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/week/README.md)
 
 ### Other Libraries
 
 *   [Moment.cfc (⭐46)](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 
-## [54. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [59. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
@@ -734,7 +983,7 @@
 
 *   [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - A shorter overview of the language, up to date for Lua 5.2, and available online.
 
-## [55. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [60. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Data Validation
 
@@ -744,7 +993,24 @@
 
 *   [Cursive (IntelliJ)](https://cursive-ide.com/)
 
-## [56. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [61. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Courses
+
+*   [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
+*   [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
+*   [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
+*   [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
+*   [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
+
+### Misc
+
+*   [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
+*   [How do I learn Robotics?](https://www.quora.com/How-do-I-learn-robotics)
+*   [StackExachange Robotics community](https://robotics.stackexchange.com)
+*   [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
+
+## [62. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Caching
 
@@ -775,7 +1041,7 @@
 
 *   [ex\_marshal (⭐37)](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 
-## [57. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [63. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -805,7 +1071,7 @@
 *   [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100\&p\[url]=https://github.com/neutraltone/awesome-stock-resources\&p\[images]\[0]=\&p\[title]=Awesome%20Stock%20Resources\&p\[summary]=)
 *   [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true\&url=https://github.com/neutraltone/awesome-stock-resources\&title=Awesome%20Stock%20Resources\&summary=\&source=)
 
-## [58. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [64. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -819,7 +1085,7 @@
 
 *   [mqtt2opcua (⭐71)](https://github.com/nzfarmer1/mqtt2opcua) - Bi Directional MQTT to OPCUA Bridge.
 
-## [59. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [65. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Ranges
 
@@ -914,7 +1180,7 @@
     options it provides. Sometimes, additional sections for omni completion (`:h
     ft-php-omni`) or filetype plugins (`:h ft-tex-plugin`) are available.
 
-## [60. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [66. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 

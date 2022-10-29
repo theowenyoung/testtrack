@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,19 @@
 
 
 
-## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Hasan Bayat (⭐1)](https://github.com/EmpireWorld/ama) - Awesome developer. Loves open source.
+
+## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Examples
 
 *   [Crabzilla (⭐66)](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Plotting / Third-party APIs
 
@@ -38,13 +44,13 @@
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [6. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
 *   [async-profiler (⭐5.5k)](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf\_events.
 
-## [6. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [7. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### Community / Gradient boosting
 
@@ -56,7 +62,7 @@
 *   [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby\&src=typd)
 *   [NonWebRuby](https://twitter.com/NonWebRuby)
 
-## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [8. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Google Chromecast / Official resources
 
@@ -74,13 +80,13 @@
 *   [Wi-Fi Direct](https://en.wikipedia.org/wiki/Wi-Fi_Direct) - Standard enabling devices to easily connect with each other without requiring a wireless access point.
 *   [Miracast](https://en.wikipedia.org/wiki/Miracast) - Standard for wireless connections from devices (such as laptops, tablets, or smartphones) to displays (such as TVs, monitors or projectors). Works over Wi-Fi Direct.
 
-## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Community
 
 *   [@TensorFlow on Twitter](https://twitter.com/tensorflow)
 
-## [9. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [10. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Communities
 

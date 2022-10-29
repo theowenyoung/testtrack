@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2015
 
-18 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,37 +97,44 @@
 
 *   <https://twitter.com/GameDevTalks/>
 
-## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [5. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Books
+
+*   [Foundations of Statistical Natural Language Processing](https://books.google.nl/books?id=YiFDxbEX3SUC)
+*   [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition](https://books.google.nl/books?id=fZmj5UNK8AQC)
+
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### CakePHP Websites
 
 *   [waltherlalk.com](http://waltherlalk.com) - A CakePHP related core dev blog.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [Echarts (⭐53k)](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 
-## [8. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [9. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Tutorials and articles
 
 *   [Polymer Web Components with Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) by Jeremy Fairbank
 
-## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Language API
 
 *   [htmlwidgets](http://www.htmlwidgets.org/) - Bring the best of JavaScript data visualization to R.
 
-## [10. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [11. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Database / DSP
 
@@ -159,20 +166,20 @@
 
 *   [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
 
-## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [12. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Books
 
 *   [Foundation HTML5 Canvas: For Games and Entertainment](http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8\&tag=rawkes-20\&linkCode=as2\&camp=1789\&creative=9325\&creativeASIN=1430232919) by Rob Hawkes
 
-## [12. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [13. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
 *   [lupa (⭐841)](https://github.com/scoder/lupa) - Python bindings to LuaJIT2.
 *   [golua (⭐598)](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
 
-## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
@@ -191,7 +198,7 @@
 *   [Ohm (⭐1.4k)](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
 *   [ROM (⭐2k)](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -203,7 +210,7 @@
 *   [nanomsg (⭐5.5k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
@@ -264,7 +271,7 @@
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
 *   [slack (⭐633)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
-## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -291,7 +298,7 @@
 
 *   [Brain (⭐8k)](https://github.com/harthur/brain)
 
-## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [18. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -323,7 +330,7 @@
 
 
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

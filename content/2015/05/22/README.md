@@ -1,6 +1,6 @@
 # Awesome List Updates on May 22, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,7 +57,19 @@
     *   Topics include memoization, recurrence closed forms, string matching (sorting, hash tables, radix tries, and suffix tries), dynamic programming (e.g. Smith-Waterman and Needleman-Wunsch), Bayesian statistics (e.g. the envelope paradox), graphical models (HMMs, Viterbi, junction tree, belief propagation), FFT, and the probabilistic convolution tree.
     *   [Lecture videos on Youtube](https://www.youtube.com/user/fillwithlight/videos) and for direct [download](http://mlecture.uni-bremen.de/ml/index.php?option=com_content\&view=article\&id=233)
 
-## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [7. Tools](/content/lvwzhen/tools/README.md)
+
+### Favicon
+
+*   [favicon.cc](http://www.favicon.cc/)
+*   [iconogen](http://iconogen.com/)
+
+### CSS
+
+*   [css spritegen](http://spritegen.website-performance.org/)
+*   [csssprites](http://csssprites.com/)
+
+## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Cross Browser / Articles
 

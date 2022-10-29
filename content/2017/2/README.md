@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2017
 
-37 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -330,13 +330,168 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 *   [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 
-## [24. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / \# companies
+
+*   8th Light <https://8thlight.com/blog/>
+
+### Companies / B companies
+
+*   Bazaarvoice <https://blog.developer.bazaarvoice.com/>
+*   Booking.com <https://blog.booking.com/>
+
+### Companies / C companies
+
+*   Cloudera <https://blog.cloudera.com/>
+*   CockroachDB <https://www.cockroachlabs.com/blog/>
+*   Codeship <https://blog.codeship.com/>
+*   Commercetools <https://techblog.commercetools.com/>
+*   Confluent <https://www.confluent.io/blog>
+
+### Companies / E companies
+
+*   Envato <https://webuild.envato.com/>
+*   Eventbrite <https://www.eventbrite.com/engineering/>
+
+### Companies / I companies
+
+*   IMVU <https://engineering.imvu.com/>
+*   Imaginea <https://blog.imaginea.com/>
+*   Instagram <https://engineering.instagram.com/>
+
+### Companies / K companies
+
+*   Kogan.com <https://devblog.kogan.com/>
+
+### Companies / L companies
+
+*   LiveRamp <https://liveramp.com/engineering/>
+
+### Companies / M companies
+
+*   Mozilla Automation Team <https://planet.mozilla.org/ateam/>
+*   Mozilla Release Engineering <https://planet.mozilla.org/releng/>
+
+### Companies / N companies
+
+*   New York Times <https://open.blogs.nytimes.com>
+
+### Companies / O companies
+
+*   Oursky <https://code.oursky.com/>
+
+### Companies / P companies
+
+*   Paperless Post <https://www.paperlesspost.com/blog/teams/tech/>
+*   Postmates <https://blog.postmates.com/tagged/engineering>
+
+### Companies / R companies
+
+*   Raizlabs <https://www.raizlabs.com/dev/>
+*   Riot Games <https://engineering.riotgames.com/>
+
+### Companies / S companies
+
+*   SurveyMonkey <https://engineering.surveymonkey.com/>
+
+### Companies / T companies
+
+*   Tumblr <https://engineering.tumblr.com/>
+
+### Companies / V companies
+
+*   VersionEye <https://blog.versioneye.com/>
+
+### Companies / Y companies
+
+*   Yahoo <https://yahooeng.tumblr.com/>
+*   Yelp <https://engineeringblog.yelp.com/>
+*   YLD! <https://blog.yld.io>
+
+### Companies / Z companies
+
+*   Zulily <https://engineering.zulily.com/>
+
+### Individuals/Group Contributors / B individuals
+
+*   Barry Warsaw <https://www.wefearchange.org/>
+
+### Individuals/Group Contributors / D individuals
+
+*   Dan Luu <https://danluu.com/>
+*   Dave Cheney <https://dave.cheney.net/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Eric Lippert <https://ericlippert.com/>
+*   Evan Tahler <https://blog.evantahler.com/>
+
+### Individuals/Group Contributors / F individuals
+
+*   Federico Cargnelutti <https://blog.fedecarg.com/>
+*   Federico Tomassetti <https://tomassetti.me/>
+
+### Individuals/Group Contributors / G individuals
+
+*   Guilherme Rodrigues <https://firstdoit.com/>
+
+### Individuals/Group Contributors / J individuals
+
+*   Jeff Atwood <https://blog.codinghorror.com/>
+*   Jeremy Kun <https://jeremykun.com/>
+*   Joel Spolsky <https://www.joelonsoftware.com/>
+*   Jon Skeet <https://codeblog.jonskeet.uk/>
+*   Jonathan Snook <https://snook.ca/>
+*   Juri Strumpflohner <https://juristr.com/blog/>
+
+### Individuals/Group Contributors / L individuals
+
+*   Larry Land <https://lg.io/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Marc Plano-Lesay <https://enoent.fr>
+*   Martin Fowler <https://martinfowler.com/>
+*   Miguel Quinones <https://www.miqu.me/>
+*   Monica Dinculescu <https://meowni.ca/>
+
+### Individuals/Group Contributors / O individuals
+
+*   Ole Begemann <https://oleb.net/blog/>
+
+### Individuals/Group Contributors / P individuals
+
+*   Paul Irish <https://www.paulirish.com/>
+
+### Individuals/Group Contributors / S individuals
+
+*   Steve Yegge <https://steve-yegge.blogspot.com/>
+*   Swizec Teller <https://swizec.com/blog/>
+
+### Individuals/Group Contributors / U individuals
+
+*   Una Kravets <https://una.im/>
+
+### Products/Technologies / A technologies
+
+*   Android <https://android-developers.blogspot.com/>
+
+### Products/Technologies / C technologies
+
+*   Crystal <https://crystal-lang.org/>
+
+### Products/Technologies / R technologies
+
+*   Rust <https://blog.rust-lang.org/>
+
+## [25. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
 *   [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
 
-## [25. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
@@ -348,7 +503,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Dva Antd Starter (⭐27)](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
 *   [Dva Antd Mobile Starter (⭐118)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 
-## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [27. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -362,7 +517,7 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Awesome Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
 
-## [27. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -372,19 +527,19 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [Interval plugin (⭐1)](https://github.com/LubosRemplik/CakePHP-Interval) - Converts seconds to human readable string (string to seconds), uses business hours (1 week = 5 days, 1 day = 8 hours).
 
-## [28. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [29. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/) - Learn about functional data structures and their uses in this overview of Facebook's popular library for JavaScript: Immutable.js.
 
-## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Database technologies / Postgres
 
 *   [PostgreSQL Interview Q\&A from CoolInterview.com](http://www.coolinterview.com/type.asp?iType=411)
 
-## [30. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [31. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines
 
@@ -414,13 +569,13 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
         [video](https://www.youtube.com/watch?v=sPkeeWnsMn0) |
         [slides](http://euruko2013.org/speakers/presentations/natural_language_processing_with_ruby_and_opennlp-tennhard.pdf)]</sup>
 
-## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
 
-## [32. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [33. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Articles
 
@@ -443,19 +598,25 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 *   [Matryoshka (⭐795)](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
     Generalized folds, unfolds, and traversals for fixed point data structures.
 
-## [33. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [34. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Starter Kits
 
 *   [Node.js API Starter Kit (⭐3.6k)](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Francis Sunday (⭐1)](https://github.com/codehakase/ama) - Software Developer based in Port Harcourt, Nigeria.
+
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -473,13 +634,13 @@ Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.c
 
 *   [dockerex (⭐18)](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 
-## [36. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [38. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 
-## [37. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [39. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Official resources
 

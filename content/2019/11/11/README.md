@@ -55,6 +55,7 @@
 *   [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
 
 ## [7. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
     *   "The give and take of open source" ([video](https://www.youtube.com/watch?v=y19s6vPpGXA))
     *   "Maintainer Stories: Brett Cannon" ([interview](https://github.com/open-source/stories/brettcannon))

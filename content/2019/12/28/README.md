@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 28, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -474,7 +474,13 @@
 
 *   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
 
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [9. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Platforms and toolkits
+
+*   [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
+
+## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### File Manipulation
 
@@ -484,7 +490,7 @@
 
 *   :strawberry: [Queue plugin (⭐282)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
-## [10. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [11. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Tools and Plugins
 

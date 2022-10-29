@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 05, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,25 +12,45 @@
 
 *   [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### operations
+
+*   [geojson-flatten (⭐49)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
+*   [geojson-random (⭐71)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
+
+### editors & viewers
+
+*   [GeoJSON editor](https://tomscholz.github.io/geojson-editor/): a modified version of Google's simple geojson editor
+
+### conversion
+
+*   [topojson (⭐4.3k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+
+### data
+
+*   [world-atlas (⭐927)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐793)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [SmartFormat.NET (⭐871)](https://github.com/scottrippey/SmartFormat.NET) - An extensible replacement for string.Format.
 
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### JavaScript tools / Maps
 
 *   [CARTO (⭐2.6k)](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 
-## [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Programming / JavaScript
 
 *   [Vue.js Jobs](https://vuejobs.com/)
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
@@ -68,7 +88,7 @@
 
 *   [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
 
-## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 

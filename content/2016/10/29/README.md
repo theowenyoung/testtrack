@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 29, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,20 +24,26 @@
 
 *   [Dracula (⭐84)](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
 
-## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   SourceClear <https://blog.sourceclear.com/>
+
+## [5. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Software / Social, Economic and Political Networks
 
 *   [EgoWeb](http://egoweb.wikispaces.com/EgoWeb+2.0+Home) - Server-side software for social network data collection and processing.
 *   [Network Canvas](http://networkcanvas.com/) - Set of tools to collect personal network data (in early development).
 
-## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Machine Learning
 
 *   [lambda-ml (⭐71)](https://github.com/cloudkj/lambda-ml)
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
@@ -56,7 +62,7 @@
 
 *   [MIT Information Extraction Toolkit (⭐2.8k)](https://github.com/mit-nlp/MITIE) - C, C++, and Python tools for named entity recognition and relation extraction
 
-## [7. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [8. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Grid
 
@@ -74,7 +80,7 @@
 *   [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 *   [Sassy-Gridlover (⭐224)](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 

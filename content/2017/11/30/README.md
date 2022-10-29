@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,13 +59,25 @@
 
 *   [count-days-in-month (⭐1)](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
 
-## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### North America / United States of America 🇺🇸
+
+### Cedar Rapids
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/levibostian" height="70px" width="70px" align="left" alt="" />
+
+**Levi Bostian**\
+Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
+<https://twitter.com/levibostian>
+
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Suggested Awesome Lists / Useful References
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 
-## [6. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [7. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Misc / Extensions
 

@@ -113,17 +113,39 @@
 
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 
-## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Dungeon Mayhem](https://boardgamegeek.com/boardgame/260300/dungeon-mayhem)
+
+> In this action-packed Dungeons & Dragons card game, you win by being the last adventurer standing.
+>
+> Play as one of four brave, quirky characters—Barbarian, Paladin, Rogue, or Wizard—battling it out in a dungeon full of treasure! With magic missiles flinging, dual daggers slinging, and spiked shields dinging, it's up to you to prove your adventurer has the guts to bring home the glory!
+
+![Dungeon Mayhem](https://cf.geekdo-images.com/faJfKYz6tG8JvDYqYHBjHg__itemrep/img/KHoxN3JiwDTqAibJdkagE4T7n_M=/fit-in/246x300/filters:strip_icc\(\)/pic5322689.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  10m |
+
+### Party
+
+### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
+
+> In Decypto, two teams composed of 2 to 4 players compete. Your goal is to transmit codes to your teammates without letting the opposing team intercept them. Therefore, your communication should be clear enough for your team to understand, but vague enough to confound your opponents. You are also attempting to intercept your opponents' codes.
+
+![Decrypto image](https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__itemrep/img/9Kx83YFeiA7DeSjMxyfmv6-cGC8=/fit-in/246x300/filters:strip_icc\(\)/pic3759421.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   3 - 8 |       12 | 15-45m |
+
+## [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
 *   [LibHyps (⭐15)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
-
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Libraries/Frameworks / Misc
-
-*   [krud-dev/shapeshift (⭐117)](https://github.com/krud-dev/shapeshift) - A Kotlin library for intelligent object mapping and conversion between objects.
 
 ## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

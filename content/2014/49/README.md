@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 08 - Dec 14, 2014
 
-15 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -172,13 +172,20 @@
 *   [Up and Running with Backbone.js](http://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html)
 *   [Application Building Patterns with Backbone.js](http://www.pluralsight.com/courses/playing-with-backbonejs)
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [8. Tools](/content/lvwzhen/tools/week/README.md)
+
+### CSS
+
+*   [pleeease](http://pleeease.io/play/)
+*   [css3-tool](http://isux.tencent.com/css3/tools.html)
+
+## [9. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / ORM
 
 *   [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Websites
 
@@ -187,7 +194,7 @@
 *   [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 *   [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 
-## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Regular Expressions
 
@@ -198,13 +205,13 @@
 
 *   [sexplib (⭐135)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Testing
 
 *   [ex\_spec (⭐98)](https://github.com/drewolson/ex_spec) - BDD-like syntax for ExUnit.
 
-## [12. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Analytics
 
@@ -285,13 +292,13 @@
 
 *   [twilio-ruby (⭐1.3k)](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
 
-## [13. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [14. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
 *   [dygraphs (⭐345)](https://github.com/rstudio/dygraphs) - Charting time-series data in R.
 
-## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -301,7 +308,7 @@
 
 *   [ascii-charts (⭐231)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Continuous Integration
 

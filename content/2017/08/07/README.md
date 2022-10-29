@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,32 +55,38 @@
 *   [Introduction to TypeScript](https://www.packtpub.com/application-development/introduction-typescript-video) (Packt)
 *   [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 
-## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [6. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### How-to lockpicking guides
+
+*   [BosnianBill's Lock Picking for Beginners](https://www.youtube.com/playlist?list=PLTSWkYxuSlkXiSBwk3Hvbvx71sg-MH61s) - YouTube playlist of selected instructional videos sorted in order from first principles to techniques for specific locks.
+
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Other Tools / Telegram
 
 *   [Datasploit (⭐2.7k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 
-## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [8. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Algorithms / Symmetric encryption
 
 *   [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
 
-## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Science and Data Analysis
 
 *   [sparklling (⭐431)](https://github.com/gorillalabs/sparkling)
 *   [flambo (⭐606)](https://github.com/yieldbot/flambo)
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### UI Automation
 
 *   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
@@ -96,7 +102,7 @@
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *   [awesome-d3d12 (⭐193)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
-## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Post-Mortem
 

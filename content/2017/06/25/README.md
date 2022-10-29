@@ -1,12 +1,18 @@
 # Awesome List Updates on Jun 25, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Gaurav Mehla (⭐5)](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
+
+## [2. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -14,19 +20,19 @@
 *   [Onboarding](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Onboarding.md)
 *   [One-on-Ones](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/One-on-Ones.md)
 
-## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Communication
 
 *   [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
 
-## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Java
 
 *   [Galen Framework](http://galenframework.com/) - Automated testing of look and feel for your responsive websites.
 
-## [4. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
+## [5. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 
 ### Principles within bigger Design Systems
 
@@ -37,7 +43,7 @@
 *   [GOV.uk Design Principles](https://www.gov.uk/design-principles)
 *   [Mailchimp Writing Goals and Principles](http://styleguide.mailchimp.com/writing-principles/)
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Visual Programming Languages
 
@@ -57,7 +63,7 @@
 *   [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
 *   [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Coordination & Governance / Scala
 
@@ -123,7 +129,7 @@
 *   [SCIM](http://www.simplecloud.info/) - System for Cross-domain Identity Management.
 *   [Vault](https://www.vaultproject.io/) - Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
 
-## [7. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [8. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Development Tools / Asset Creators
 

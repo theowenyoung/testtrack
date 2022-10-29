@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,7 +51,17 @@
 
 *   [github\_ecto (⭐117)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 
-## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Drew DeVault <https://drewdevault.com/>
+
+### Individuals/Group Contributors / H individuals
+
+*   Hypriot <http://blog.hypriot.com/>
+
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Remote Management / Metric & Metric Collection
 

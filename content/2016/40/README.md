@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03 - Oct 09, 2016
 
-42 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   Create an account in [Trello](https://trello.com/).
 
-## [2. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [2. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Graham Daniels (⭐5)](https://github.com/greydnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
+
+## [3. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Web Technologies and Services
 
 *   [plumber (⭐1.3k)](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
 
-## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -56,26 +62,26 @@
 *   [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 *   [eLinux Hub](http://elinux.org/RPi_Hub)
 
-## [4. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [5. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Rule Engines
 
 *   [grules (⭐36)](https://github.com/zhaber/grules) - rule engine for data preprocessing
 *   [n-cube (⭐167)](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Professional services
 
 *   [Craftship](https://craftship.io) - Consultancy.
 
-## [6. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
 *   [Laravel API Tester (⭐342)](https://github.com/asvae/laravel-api-tester) - Postman-like tool with Laravel routes
 
-## [7. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [8. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Community
 
@@ -168,7 +174,7 @@
 *   [configure-cmake (⭐82)](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 *   [cmake-ast (⭐29)](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [8. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [9. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
@@ -182,7 +188,7 @@
 
 *   [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
 
-## [9. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [10. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### DojoToolkit.org resources and documentation
 
@@ -213,7 +219,7 @@
 
 *   [Definitive TypeScript Guide](https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
 
-## [10. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [11. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Official Resources
 
@@ -235,7 +241,7 @@
 *   [wzrd.in](https://wzrd.in/) - Browserify CDN. Browserify-as-a-Service!
 *   [bankai (⭐1.1k)](https://github.com/yoshuawuyts/bankai) - DIY asset server. Serves HTML, CSS and JS as streams.
 
-## [11. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [12. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Resources
 
@@ -245,7 +251,7 @@
 
 *   [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -255,7 +261,32 @@
 
 *   [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
 
-## [13. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [14. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Alternative To - <http://alternativeto.net/>
+*   App Rater - <https://apprater.net/add/>
+*   Boing Boing - <http://boingboing.net/sub/>
+*   Capterra - <http://www.capterra.com/vendors/sign-up>
+*   Crazy About Startups - <http://www.crazyaboutstartups.com/index.php/share-your-startup-form>
+*   Geek Wire - <http://geekwire.com/startup-list/>
+*   Inc 42 - <https://inc42.com/startup-submission/>
+*   Killer Startups - <http://killerstartups.com/submit-startup/>
+*   Launched - <https://launched.io/SubmitStartup>
+*   Next Big Product - <http://nextbigproduct.net/product-submission/>
+*   Robingood - <http://tools.robingood.com/>
+*   Side Projectors - <https://www.sideprojectors.com>
+*   SnapMunk - <https://www.snapmunk.com/submit-your-startup/>
+*   Stack Share - <http://stackshare.io/>
+*   Startup Beat - <http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/>
+*   Startup Inspire - <https://www.startupinspire.com/submit>
+*   Startup Register - <http://startupregister.net/register-your-startup/>
+*   Tech Faster - <http://techfaster.com/submit-your-company/>
+*   Venture Beat - <http://venturebeat.com/news-tips/>
+*   Ycombinator - <https://news.ycombinator.com/>
+
+## [15. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Task Runners
 
@@ -279,13 +310,13 @@
 
 *   [run-npm (⭐180)](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
 
-## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Articles
 
 *   [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
-## [15. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -295,7 +326,7 @@
 
 *   [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 
-## [16. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [18. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
@@ -303,7 +334,7 @@
 *   [d3-tip (⭐1.2k)](https://github.com/Caged/d3-tip) - Tooltip helper
 *   [d3-tipy (⭐94)](https://github.com/tj/d3-tipy) - Tooltip helper
 
-## [17. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [19. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Programming
 
@@ -312,19 +343,19 @@
 *   [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 *   [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
 
-## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [20. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Languages
 
 *   [Rembulan (⭐157)](https://github.com/mjanicek/rembulan) - Rembulan is an implementation of Lua 5.3 for the JVM, written in pure Java with minimal dependencies.
 
-## [19. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [21. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Outdated Boilerplates
 
 *   [elmkit (⭐51)](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
 
-## [20. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [22. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
@@ -338,13 +369,13 @@
 
 *   [Pollinate (⭐217)](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
 
-## [21. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 
-## [22. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -374,19 +405,70 @@
 
 *   [pocketex (⭐6)](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).
 
-## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [25. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Links / Image Deblurring
 
 *   [awesome-machine-learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
 *   [JSONAPI::Utils (⭐213)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
-## [25. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [27. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / P companies
+
+*   Pivotal <https://engineering.pivotal.io>
+
+### Companies / W companies
+
+*   WalmartLabs <https://medium.com/walmartlabs/>
+
+### Individuals/Group Contributors / T individuals
+
+*   Tero Parviainen <http://teropa.info/>
+
+### Products/Technologies / K technologies
+
+*   Klipse <http://blog.klipse.tech/>
+
+## [28. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Conferences
+
+*   [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
+*   [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
+*   [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+*   [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
+*   [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+*   [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+*   [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
+*   [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
+*   [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
+*   [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
+*   [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+*   [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
+
+### Journals
+
+*   [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
+*   [Bioinspiration & Biomimetics](http://iopscience.iop.org/journal/1748-3190)
+*   [IEEE Robotics & Automation Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+*   [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165)
+*   [IEEE Transactions on Robotics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+*   [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
+*   [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+*   [Journal of Field Robotics](http://www.journalfieldrobotics.org/Home.html)
+*   [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846)
+*   [Mechatronics](http://www.journals.elsevier.com/mechatronics)
+*   [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
+*   [Robotics and Autonomous Systems](http://www.journals.elsevier.com/robotics-and-autonomous-systems)
+*   [The International Journal of Robotics Research](http://www.ijrr.org/)
+
+## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -532,13 +614,13 @@
 *   [CS 294](http://inst.eecs.berkeley.edu/\~cs294-101/sp15/) **Cutting-edge Web Technologies** *Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   Want to learn what makes future web technologies tick? Join us for the class where we will dive into the internals of many of the newest web technologies, analyze and dissect them. We will conduct survey lectures to provide the background and overview of the area as well as invite guest lecturers from various leading projects to present their technologies.
 
-## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [30. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Spanish
 
 *   [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 
-## [27. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [31. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Datetime
 
@@ -546,13 +628,19 @@
 *   [odate (⭐22)](https://github.com/hhugo/odate)
 *   [ptime](http://erratique.ch/software/ptime)
 
-## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Networking / Field Validation
 
 *   [Fast-Android-Networking (⭐5.5k)](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
 
-## [29. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [33. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+
+### CSS
+
+*   [material-foundation (⭐356)](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
+
+## [34. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### ACL
 
@@ -566,7 +654,7 @@
 
 *   [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
 
-## [30. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [35. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Articles / Hash functions
 
@@ -576,7 +664,7 @@
 
 *   [IDZSwiftCommonCrypto (⭐469)](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
 
-## [31. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [36. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
@@ -587,13 +675,13 @@
 *   [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
 *   [A Sass !default use case](https://robots.thoughtbot.com/sass-default)
 
-## [32. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [37. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Tutorials
 
 *   [Performing A/B Testing with NGINX and NGINX Plus](https://www.nginx.com/blog/performing-a-b-testing-nginx-plus/)
 
-## [33. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [38. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Introduction / Overview
 
@@ -721,13 +809,13 @@
 
 *   [FrUnit (⭐1)](https://github.com/melrief/FrUnit) - JUnit for Frege.
 
-## [34. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [39. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
 *   [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
 
-## [35. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [40. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Data Structures
 
@@ -737,7 +825,7 @@
 
 *   [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536) - Easy to understand, with some examples, introduction to Functional Programming in Javascript and Elm.
 
-## [36. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [41. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Literate Programming
 
@@ -748,7 +836,7 @@
 *   [Clojure](http://clojure.org/)
 *   [Clojure Slack](http://clojurians.net/)
 
-## [37. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Caching and Locking
 
@@ -758,7 +846,7 @@
 
 *   [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
 
-## [38. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [43. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
@@ -772,13 +860,14 @@
 
 *   [Simple File Server (⭐85)](https://github.com/pitchpoint-solutions/sfs) - An OpenStack Swift compatible distributed object storage server that can serve and securely store billions of large and small files using minimal resources implemented using Vert.x.
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Official Documentation Translations
 
 *   [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) - Web services that list all available Crystal shards
 
-## [40. Tips](/content/git-tips/tips/week/README.md)
+## [45. Tips](/content/git-tips/tips/week/README.md)
+
 ## Always rebase instead of merge on pull.
 
 ```sh
@@ -797,7 +886,7 @@ git config --global branch.autosetuprebase always
 git fetch origin master:refs/remotes/origin/mymaster
 ```
 
-## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [46. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
@@ -807,7 +896,7 @@ git fetch origin master:refs/remotes/origin/mymaster
 
 *   [CostumeKit (⭐299)](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
 
-## [42. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [47. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Government
 

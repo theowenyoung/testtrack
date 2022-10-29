@@ -157,6 +157,7 @@
 *   [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) - The tool from Google that performs comprehesive speed check of the mobile site.
 
 ## [9. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@stuarthalloway](https://github.com/stuarthalloway), [Clojure (⭐9.7k)](https://github.com/clojure/clojure)
     *   "Stewardship Made Practical" ([video](https://www.youtube.com/watch?v=_sEOXNmzv4g))
 

@@ -1,19 +1,25 @@
 # Awesome List Updates on Nov 28, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** \[36:00]
+
+## [2. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Desktop Apps / [Wesnoth](https://github.com/wesnoth/wesnoth)
 
 *   GPLv2 License
 *   c, c++, lua
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
@@ -24,25 +30,25 @@
 *   [SignalR (⭐8.8k)](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
 *   [SuperSocket (⭐3.4k)](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 
-## [3. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### Language Utilities
 
 *   [groovy-extra-list-behaviour (⭐2)](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
 
-## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Data Validation
 
 *   [clova (⭐14)](https://github.com/markwoodhall/clova)
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Community / Other
 
 *   [electron-br](https://electron-br.slack.com) *(Brazilian Portuguese)*
 
-## [6. Awesome Katas](/content/gamontal/awesome-katas/README.md)
+## [7. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 
 ### [CodeKata](http://codekata.com/)
 

@@ -1,12 +1,18 @@
 # Awesome List Updates on Apr 04 - Apr 10, 2016
 
-39 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Design
+
+*   [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** \[50:28]
+
+## [2. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
@@ -14,19 +20,19 @@
 *   [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 *   [Haxe (⭐31)](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 
-## [2. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [3. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### CI
 
 *   [lambdacd (⭐665)](https://github.com/flosell/lambdacd)
 
-## [3. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Networking
 
 *   [gen\_rpc (⭐218)](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages.
 
-## [4. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [5. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -36,7 +42,7 @@
 
 A **must-read** for anyone looking to build their own cryptography features.
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -70,7 +76,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 *   [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 *   [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
 
-## [6. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [7. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Category Theory
 
@@ -81,25 +87,25 @@ A **must-read** for anyone looking to build their own cryptography features.
 *   [ICFP](http://www.icfpconference.org/) - International Conference on Functional Programming. [Youtube channel](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw).
 *   [Haskell Symposium 2015](https://www.youtube.com/playlist?list=PLnqUlCo055hV5dPC-4VWeXzhI8ooeTsVy)
 
-## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [8. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
 *   [bookdown](https://bookdown.org/) - Authoring Books with R Markdown.
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Unofficial
 
 *   [fluxter (⭐99)](https://github.com/lexmag/fluxter) - An InfluxDB writer for Elixir
 
-## [9. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
 *   [dexpect (⭐12)](https://github.com/grogancolin/dexpect/) -  A D implementation of the expect framework. Handy for bash emulation.
 
-## [10. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [11. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -109,7 +115,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/today.png)](http://www.gingerbeardman.com/today/)
 
-## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [12. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -130,7 +136,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to TensorFlow
 
-## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [13. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Tutorials
 
@@ -142,7 +148,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [rc (⭐7)](https://github.com/subk/vorpal-rc) - Simple .rc file support.
 
-## [13. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Dependency Injection
 
@@ -153,13 +159,13 @@ A **must-read** for anyone looking to build their own cryptography features.
 *   [RxJava (⭐47k)](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 *   [transai (⭐57)](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 
-## [14. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [15. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### Examples and boilerplates
 
 *   [MarionetteJS + Brunch + Babel/ES6 (⭐14)](https://github.com/denar90/brunch-with-marionettejs)
 
-## [15. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [16. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
@@ -169,7 +175,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [Laravel Langman (⭐869)](https://github.com/themsaid/laravel-langman) - Manage language files from Artisan Console
 
-## [16. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [17. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### Frontoffice extensions
 
@@ -179,26 +185,26 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [spree-refinery-authentication (⭐11)](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. \[GPLv3]
 
-## [18. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [19. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Static Site Generation
 
 *   [Jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
     *   [Awesome Jekyll (⭐565)](https://github.com/planetjekyll/awesome-jekyll) - A collection of awesome Jekyll tools, plugins, themes, guides and much more.
 
-## [19. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Percussion Synthesis Using Web Audio (⭐32)](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 
-## [20. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [21. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -209,7 +215,7 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
 
-## [21. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [22. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -223,7 +229,8 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 *   [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
-## [22. Tips](/content/git-tips/tips/week/README.md)
+## [23. Tips](/content/git-tips/tips/week/README.md)
+
 ## View the GPG signatures in the commit log
 
 ```sh
@@ -240,13 +247,13 @@ git config --global --unset <entry-name>
 git checkout --orphan <branch_name>
 ```
 
-## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [24. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
 *   [TiKV (⭐12k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 
-## [24. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -317,26 +324,32 @@ git checkout --orphan <branch_name>
 
 
 
-## [25. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [26. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Almost complete guide to flexbox (without flexbox)](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_36):metal:
 
-## [26. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [27. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Competitions
+
+*   [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
+
+## [28. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### General
 
 *   `book` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) — step-by-step recipes to solve the challenges of administering and scaling a real-world production web application on Heroku.
 
-## [27. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [29. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / PHP
 
 *   [Facebook WebDriver (⭐4.7k)](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
 *   [Selenium Setup (⭐27)](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
 
-## [28. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [30. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### GUI / ListView
 
@@ -346,13 +359,13 @@ git checkout --orphan <branch_name>
 
 *   [AutoHotkey decompiler](https://gist.github.com/Uberi/3334552#file-decompiler-ahk) - for AHK 1.1+ Forum thread: [link](https://autohotkey.com/board/topic/82986-ahk-l-decompiler-payload-method/).
 
-## [29. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [31. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 
 *   [Mining visualization](http://www.yogh.io/#mine:last)
 
-## [30. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [32. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -384,7 +397,7 @@ git checkout --orphan <branch_name>
 
 
 
-## [31. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [33. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Documentation
 
@@ -394,13 +407,34 @@ git checkout --orphan <branch_name>
 
 *   [Myrtille (⭐1.4k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
-## [32. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [34. Codeface](/content/chrissimpkins/codeface/week/README.md)
+
+### The Gallery
+
+### [Generic Mono II](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/generic)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/generic/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/generic-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/generic-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/generic-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/generic-light.png" width="725">
+### [Nimbus Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/nimbus-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/nimbus-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/nimbus-mono-light.png" width="725">
+
+## [35. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Use / Platforms
 
 *   **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
 
-## [33. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
+## [36. Awesome Economics](/content/antontarasenko/awesome-economics/week/README.md)
 
 ### Studying / Useful Materials
 
@@ -431,7 +465,7 @@ git checkout --orphan <branch_name>
 
 *   [Job Openings for Economists](https://www.aeaweb.org/joe/) - The job board by the American Economic Association.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
@@ -445,7 +479,7 @@ git checkout --orphan <branch_name>
 
 *   [TextAttributes (⭐2.2k)](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -463,7 +497,7 @@ git checkout --orphan <branch_name>
 
 *   [exrm\_deb (⭐75)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
 
-## [36. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [39. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Free and Open Source Libraries
 
@@ -473,7 +507,7 @@ git checkout --orphan <branch_name>
 *   [Smoothie Charts (⭐2.2k)](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 *   [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 
-## [37. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tutorials
 
@@ -524,7 +558,13 @@ git checkout --orphan <branch_name>
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
 *   [vim-tmux (⭐319)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
-## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / A individuals
+
+*   Abu Ashraf Masnun <http://masnun.com/>
+
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -771,7 +811,7 @@ git checkout --orphan <branch_name>
 
 *   [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 
-## [39. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [43. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Articles
 

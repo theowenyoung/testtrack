@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,7 +40,13 @@
 
 *   [tmux-notify (⭐61)](https://github.com/ChanderG/tmux-notify) A plugin to notify you when processes complete.
 
-## [6. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### On-line courses / Ruby
+
+*   [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) - An interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image (⭐6)](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
+
+## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 
@@ -50,20 +56,20 @@
 
 *   [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) - The R playlist includes videos on manipulating data with dplyr, visualizing data with ggplot2 and ggThemeAssist, data types and structures, important base r functions, handling datetimes with lubridate, conquering factors with forcats, manipulating text with stringr.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
 *   [restspace.io](https://restspace.io/) - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.
 
-## [8. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [9. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Neural Natural Language Generation
 
 *   [PaperRobot: Incremental Draft Generation of Scientific Ideas (⭐445)](https://github.com/EagleW/PaperRobot) - We present a PaperRobot who performs as an automatic research assistant.
 *   [Question Generation using hugstransformers (⭐844)](https://github.com/patil-suraj/question_generation) - Question generation is the task of automatically generating questions from a text paragraph.
 
-## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [10. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
@@ -78,13 +84,13 @@
 *   [hs-to-coq (⭐62)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [Roosterize (⭐15)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C / General-Purpose Machine Learning
 
 *   [libonnx (⭐428)](https://github.com/xboot/libonnx) - A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support.
 
-## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [12. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Exercises and Short Examples
 

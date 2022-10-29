@@ -442,5 +442,5 @@
 
 ---
 
-- Prev: [Jan 21, 2015](/content/2015/01/21/README.md)
+- Prev: [Jan 20, 2015](/content/2015/01/20/README.md)
 - Next: [Jan 18, 2015](/content/2015/01/18/README.md)

@@ -186,6 +186,7 @@ TBD - PR Welcome!
 *   [How To Establish a High Severity Incident Management Program](https://www.gremlin.com/how-to-establish-a-high-severity-incident-management-program/)
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@ericholscher](https://github.com/ericholscher), [Read the Docs (⭐7.3k)](https://github.com/rtfd/readthedocs.org)
     *   "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM\&t=1s))
     *   "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))

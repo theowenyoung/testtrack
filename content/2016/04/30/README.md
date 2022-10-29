@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,6 +73,12 @@
 ### 2016
 
 *   [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) \[21:26]
+
+## [8. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Backend as a Service
+
+*   [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2)
 
 ---
 

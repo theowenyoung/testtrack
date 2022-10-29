@@ -12,13 +12,24 @@
 
 *   [Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/) - “Most things at most startups are perpetually on fire, but if you can accept that, there is a lot to like. One well-known one: at a fast-growing startup, a hard-working, talented person who has some support from company leadership can often acquire an impressive title (or at least a lot of de facto power) very quickly.”
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [2. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Awesome Components
+
+*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
+*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+
+### React Tools / React Component Libraries
+
+*   [rebass (⭐7.8k)](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Task Management & To-do Lists
 
 *   [Kanbana (⭐47)](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`
 
-## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Essentials
 
@@ -33,13 +44,13 @@
 *   [Next Right Now (⭐1.2k)](https://github.com/UnlyEd/next-right-now) - Flexible **production-grade boilerplate** with Next.js 9 and Vercel, with pre-configured Sentry, cookies, Amplitude, Emotion, FontAwesome, GraphQL/GraphCMS (Apollo), Bootstrap (Reactstrap), i18next (Locize), Jest, Cypress (E2E tests) and CI/CD (GH Actions), with full TypeScript support and **support for B2B multi-tenants web apps (monorepo)**
 *   [Next & Vercel Typescript template (⭐38)](https://github.com/alepacheco/landing-template) - Serverless, Typescript, Jest, Github CI, SCSS, prettier boilerplate
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Beginner
 
 *   [Lisp Koans (⭐2.9k)](https://github.com/google/lisp-koans) - The project guides the learner progressively through many Common Lisp language features.
 
-## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Introduction
 
@@ -95,19 +106,19 @@
 
 *   [Bubble Factory (⭐23)](https://github.com/DonaldHays/bubblefactory) - \*Vanilla- SDCC (no gbdk).
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 
 *   [Tabulo (⭐215)](https://github.com/matt-harvey/tabulo) - Plain text table generator with a DRY, column-based API.
 
-## [7. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [8. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Applications / Command Line Tools
 
 *   [BCL::Commons](http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1)
 
-## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [9. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Navigation
 
@@ -117,13 +128,13 @@
 
 *   [React Native Boilerplate Typescript (⭐14)](https://github.com/mengheangrat/react-native-boilerplate) - React Native Boilerplate - Redux + Saga + Reselect + redux-persist + react-navigation + TypeScript
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Runtime / Playground
 
 *   [json-decoder (⭐70)](https://github.com/venil7/json-decoder) - Typesafe JSON decoder and runtime checker
 
-## [10. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### OAuth
 
@@ -146,12 +157,6 @@
 ### Miscellaneous / Server-Side Request Forgery
 
 *   [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) - Written by [@t0nk42](https://twitter.com/t0nk42).
-
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Miscellaneous
-
-*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

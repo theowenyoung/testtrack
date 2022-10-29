@@ -1,12 +1,22 @@
 # Awesome List Updates on Dec 30, 2014
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Functional Programming
+
+*   [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** \[1:07:10]
+
+### Computer History
+
+*   [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** \[46:00]
+
+## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
 ### Libraries / To draw using canvas
 
@@ -30,7 +40,7 @@
 *   [Accelerated Game Programming with HTML5 and canvas](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - this tutorial describes the structure of a typical game class in JavaScript, drawing to the canvas, double buffering, map/tile representation and player movement.
 *   [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/) - Provides examples of velocity, acceleration, collisions, rotation and particle effects.
 
-## [2. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Books
 

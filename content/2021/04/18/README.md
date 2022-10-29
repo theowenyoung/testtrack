@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -150,7 +150,30 @@
 
 *   [Medical Data for Machine Learning (⭐5.3k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React General Tutorials
+
+*   [React Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+### React Tutorials / React Hooks
+
+*   [Awesome React Hooks (⭐8.6k)](https://github.com/rehooks/awesome-react-hooks)
+*   [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+*   [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
+
+### React Tools / Forms
+
+*   [formik (⭐31k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+*   [react-hook-form (⭐31k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
+*   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
+*   [unform (⭐4.5k)](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
+*   [formily (⭐8.7k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+*   [uniforms (⭐1.7k)](https://github.com/vazco/uniforms) - A React library for building forms from any schema
+*   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
+*   [react-formal (⭐523)](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 

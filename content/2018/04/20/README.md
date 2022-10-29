@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 20, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -183,13 +183,19 @@
 *   [awesome-npm (⭐4.1k)](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
 *   [awesome-cross-platform-nodejs (⭐1k)](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Krzysztof Cieslak (⭐7)](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker.
+
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Distributed Index
 
 *   [Pilosa (⭐2.3k)](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 
-## [12. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
+## [13. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
 ### Implementations / Hylomorphisms in the Wild
 

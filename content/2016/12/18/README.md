@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 18, 2016
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,7 +31,13 @@
 *   [chalice :fire::fire::fire::fire::fire: (⭐9.3k)](https://github.com/awslabs/chalice) - Python Serverless Microframework.
 *   [kubek2k/lambdoku :fire::fire::fire: (⭐573)](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
 
-## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Sitesh Shrivastava (⭐0)](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
+
+## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Cartridges / Opcodes
 
@@ -46,7 +52,13 @@
 *   [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
 *   [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
 
-## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Design
+
+*   [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** \[40:35]
+
+## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Blogs
 

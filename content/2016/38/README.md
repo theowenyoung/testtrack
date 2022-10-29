@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19 - Sep 25, 2016
 
-42 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,6 +42,7 @@
 *   [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/\~sutton/book/bookdraft2016sep.pdf) - Richard S. Sutton, Andrew G. Barto
 
 ## [5. Tips](/content/git-tips/tips/week/README.md)
+
 ## Add object notes
 
 ```sh
@@ -338,43 +339,77 @@ git log --show-notes='*'
 *   [ci tools compare2 (⭐2)](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 *   [ci tools compare 3 (⭐3k)](https://github.com/ligurio/Continuous-Integration-services)
 
-## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+
+### Websites
+
+*   Beta Page - <https://betapage.co/>
+
+## [31. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Conferences & Meetups
 
 *   [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / R companies
+
+*   RetailMeNot <https://medium.com/retailmenot-engineering/>
+
+### Companies / S companies
+
+*   Semantics3 <https://engineering.semantics3.com>
+
+### Companies / T companies
+
+*   TripAdvisor <http://engineering.tripadvisor.com/>
+
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Date
 
 *   [DateHelper (⭐1.4k)](https://github.com/melvitax/DateHelper) - Simple date helper.
 
-## [32. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [34. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [Easy package management with Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
 
-## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [owocki/s3\_disk\_util :fire: (⭐168)](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 
-## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Native Apps (closed source)
+
+*   [Transit](http://transitapp.com/)
+
+### GTFS Libraries / JavaScript
+
+*   [gtfs-sequelize (⭐19)](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using [sequelize.js](http://sequelizejs.com/).
+
+### GTFS Libraries / Python
+
+*   [gtfslib-python (⭐41)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+
+## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [PyGraphistry (⭐1.7k)](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 
-## [35. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [38. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Parsing
 
 *   [ref (⭐423)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -401,13 +436,13 @@ git log --show-notes='*'
 
 *   [tg\_client (⭐12)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
-## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [40. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Styleguide and Branding
 
 *   [BBC](http://www.bbc.co.uk/gel)
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Viana do Castelo
 
@@ -437,7 +472,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 ![](http://www.speedtest.net/result/5644569150.png)
 
-## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [42. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -486,7 +521,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Wagtail Cookiecutter Foundation (⭐162)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
-## [40. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [43. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Middlewares
 
@@ -496,7 +531,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [Kahlan (⭐1.1k)](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 
-## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -522,7 +557,7 @@ Webpage: <https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1b
 
 *   [react-aspnet-boilerplate (⭐284)](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Web Frameworks
 

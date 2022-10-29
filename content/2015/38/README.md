@@ -1,12 +1,18 @@
 # Awesome List Updates on Sep 21 - Sep 27, 2015
 
-24 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Agency Tools
+
+*   [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
+
+## [2. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
 
 ### Workshoppers
 
@@ -16,13 +22,13 @@
 
 
 
-## [2. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [3. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
 *   [Elm for Web Developers (⭐58)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 
-## [3. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Promises/A+ Implementations (ES6/ES2015 compatible) / Implementations with extras
 
@@ -51,13 +57,13 @@
 *   [co (⭐12k)](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 *   [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 
-## [4. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Online Build System
 
 *   [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -87,14 +93,15 @@
 *   [Microservices Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - Guide to ponder costs and benefits of the mircoservices architectural style.
 *   [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 
-## [6. Tips](/content/git-tips/tips/week/README.md)
+## [7. Tips](/content/git-tips/tips/week/README.md)
+
 ## Get the name of current branch.
 
 ```sh
 git rev-parse --abbrev-ref HEAD
 ```
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debugger
 
@@ -104,7 +111,7 @@ git rev-parse --abbrev-ref HEAD
 
 *   [C++ Core Guidelines (⭐36k)](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 
-## [8. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [9. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Bytecode
 
@@ -164,13 +171,13 @@ git rev-parse --abbrev-ref HEAD
 
 *   [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html) - Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.
 
-## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### R Development
 
 *   [import (⭐202)](https://github.com/smbache/import/) - An import mechanism for R.
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Layout
 
@@ -209,7 +216,7 @@ git rev-parse --abbrev-ref HEAD
 
 
 
-## [11. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [12. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Useful libraries
 
@@ -217,20 +224,20 @@ git rev-parse --abbrev-ref HEAD
 
 You shouldn't need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.
 
-## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [13. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / URL
 
 *   [url-unshort (⭐96)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 *   [embedza (⭐55)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
-## [13. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### virtual machines
 
 *   [doppio (⭐2.1k)](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
 
-## [14. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [15. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -240,7 +247,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 *   [github-secret-keeper (⭐83)](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 
-## [15. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [16. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Resources
 
@@ -384,13 +391,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [awesome-javascript-books (⭐124)](https://github.com/heatroom/awesome-javascript-books) - Awesome JavaScript books
 *   [js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch) - List of must-watch videos devoted to JavaScript
 
-## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Third Party APIs
 
 *   [Ratchet plugin (⭐51)](https://github.com/WyriHaximus/Ratchet) - Brings the Ratchet websocket package to CakePHP.
 
-## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
@@ -404,13 +411,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 *   [Crisper (⭐105)](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
 *   [APNGKit (⭐2.1k)](https://github.com/onevcat/APNGKit) - High performance and delightful way to play with APNG format in iOS.
 
-## [19. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [20. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authorization
 
@@ -451,13 +458,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 *   [production\_rails (⭐1.7k)](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
 
-## [20. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Natural Language Processing
 
 *   [Words Counted (⭐156)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
-## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [22. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Templates
 
@@ -468,13 +475,13 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 *   [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - 18 must-know stats for modern email marketers by Emma, Inc.
 *   [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 Report: The new rules of email marketing
 
-## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [23. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Typetalk](http://www.typetalk.in) - Share and discuss ideas with your team through instant messaging.
 
-## [23. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Feeds
 
@@ -492,7 +499,16 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 *   [airbrakex (⭐25)](https://github.com/fazibear/airbrakex) - Elixir client for the Airbrake service.
 
-## [24. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Richard Littauer (⭐1)](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.
+*   [Dan Abramov (⭐225)](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader (⭐12k)](https://github.com/gaearon/react-hot-loader) and [Redux (⭐59k)](https://github.com/rackt/redux).
+*   [Maxime Thirouin (⭐3)](https://github.com/MoOx/ama) - Freelance front-end/UI/UX developer. Open Source addict & compulsive coder.
+*   [Chris Biscardi (⭐0)](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript (⭐2)](https://github.com/future-ui/future-ui). [Haskell (⭐19)](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
+
+## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Threat Intelligence / Forensics
 

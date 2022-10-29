@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 17, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -125,19 +125,25 @@ Run `brew install --cask --no-quarantine syntax-highlight` or [download manually
 
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [@axe-core/react (⭐418)](https://github.com/dequelabs/axe-core-npm) - Accessibility auditing for React applications
+
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [SA-SSD (⭐454)](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Back-end API / Playground
 
 *   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications (see also: <https://zents.dev>)
 
-## [12. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
+## [13. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 
 ### Code Points that Affect Others
 
@@ -172,13 +178,13 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
     they were mis-read or misinterpreted from other signs, when JIS was compiled
     from original printed text sources.
 
-## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### IDE
 
 *   [Atom (⭐59k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
 
-## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Finance
 

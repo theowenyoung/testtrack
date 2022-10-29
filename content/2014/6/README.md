@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10 - Feb 16, 2014
 
-1 awesome lists updated this week.
+2 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -11,6 +11,12 @@
 ### Services Engineering Reading List / Books
 
 *   [The Field Guide To Understanding Human Error](http://www.amazon.com/Field-Guide-Understanding-Human-Error/dp/0754648265) (Dekker)
+
+## [2. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Hosted Tools
+
+*   [Dollero](http://dollero.com/): Global remittance payments software
 
 ---
 

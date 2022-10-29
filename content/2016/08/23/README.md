@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 23, 2016
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,13 @@
 
 *   [Laravel Tracy (⭐380)](https://github.com/recca0120/laravel-tracy) - A Laravel Package to integrate Nette Tracy Debugger
 
-## [8. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
+## [8. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Jeroen Engels (⭐4)](https://github.com/jfmengels/ama) - JS developer and open source enthusiast.
+
+## [9. Awesome Educational Games](/content/yrgo/awesome-educational-games/README.md)
 
 ### Languages
 
@@ -65,25 +71,25 @@
 *   [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
 *   [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IDE
 
 *   [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Security
 
 *   [HtmlSanitizer (⭐1.3k)](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
 *   [crystal-linked-list (⭐12)](https://github.com/abvdasker/crystal-linked-list) - Implementation of Linked List
 
-## [12. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [13. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Videos
 
@@ -93,7 +99,7 @@
 
 *   [Stitch (⭐144)](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 
-## [13. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [14. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Progressive web apps / Service Workers
 

@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md) · ⭐ 94 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md) · ⭐ 97 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -83,8 +83,9 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
         *   [Virtual Reality](#virtual-reality)
     *   [Meta-Level Considerations](#meta-level-considerations)
         *   [Meta Learning](#meta-learning)
-        *   [Marr Levels of Analysis](#marr-levels-of-analysis)
+        *   [Marr's Levels of Analysis](#marrs-levels-of-analysis)
         *   [Gestalt](#gestalt)
+        *   [The Aha! Moment](#the-aha-moment)
         *   [Rationality](#rationality)
         *   [Cognitive Architecture](#cognitive-architecture)
     *   [Metascience](#metascience)
@@ -305,8 +306,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 #### Scientific Discovery
 
 *   [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/) - ***Plato Stanford***. A computational philosophy account on Scientific Discovery, the process or product of successful scientific inquiry, sometimes an Abduction-like (Explanation) thinking pattern.
-
-*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 *   [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843\&secret=c5d7b3) - ***Springer***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105\&hl=en\&as_sdt=0,5)]. The original book on search as scientific thinking.
 
@@ -1216,7 +1215,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 \*[Back to Top](#c)
 
-#### Marr Levels of Analysis
+#### Marr's Levels of Analysis
 
 *   [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142\&hl=en\&as_sdt=0,44)]. David Marr's original book on the levels of analysis.
 
@@ -1245,6 +1244,12 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 *   [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***Cambridge University Press***, 2011. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=231021877034210140)].
+
+\*[Back to Top](#c)
+
+#### The Aha! Moment
+
+*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 \*[Back to Top](#c)
 

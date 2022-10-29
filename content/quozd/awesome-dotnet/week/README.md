@@ -23,6 +23,10 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 *   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 
+### Testing
+
+*   [TestContainers dotnet (⭐23)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Template Engine

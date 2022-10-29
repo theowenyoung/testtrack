@@ -1,18 +1,24 @@
 # Awesome List Updates on Jul 18, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [1. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Will Binns-Smith (⭐0)](https://github.com/wbinnssmith/ama) - JavaScript at Bitbucket. Makes internet things.
+
+## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Websites / Web
 
 *   [ahkscript GitHub organization](https://github.com/ahkscript) - Official ahkscript GitHub organization.
 
-## [2. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [3. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Software
 
@@ -24,20 +30,20 @@
 *   [Strides](http://www.producthunt.com/tech/strides)
 *   [Workboard](http://www.producthunt.com/tech/workboard)
 
-## [3. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [4. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Talks
 
 *   [Approaching Zero Driver Overhead in OpenGL](http://gdcvault.com/play/1020791/) - [Slides](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead) - [AMA Reddit](https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver) by **Cass Everitt, Tim Foley, John McDonald, Graham Sellers** \[1:15:54]
 *   [How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) by **Cass Everitt, John McDonald** \[51:13]
 
-## [4. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [5. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Articles
 
 *   [Using Polymer with Flux and a global app state](http://paulusschoutsen.nl/blog/2015/07/using-polymer-with-flux-and-a-global-app-state/)
 
-## [5. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [6. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Reversing
 

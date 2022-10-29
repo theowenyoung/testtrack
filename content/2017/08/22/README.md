@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,13 +16,19 @@
 
 *   [Rolisteam](http://www.rolisteam.org) [:octocat: (⭐174)](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Getting started
+
+*   [GTFS Realtime](https://developers.google.com/transit/gtfs-realtime/) - GTFS Realtime consists of three binary files that contain realtime vehicle positions, realtime arrival information, and service alerts. Transit agencies typically update these files every minute.
+
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
 *   [StrongGrid (⭐152)](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Assets
 
@@ -38,19 +44,19 @@
 
 *   [batch-loader (⭐942)](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 
-## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [5. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
 *   [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
 
-## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [6. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here (⭐7)](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Database Drivers/Clients
 

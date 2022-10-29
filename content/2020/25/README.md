@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 22 - Jun 28, 2020
 
-66 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -410,7 +410,84 @@
 
 *   [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [35. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+
+### C and C++
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/include.webp">
+
+[**#include**](https://www.includecpp.org/discord/#getting-started-with-discord) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.includecpp.org/) \
+Notable Channels: `#assembly`, `#c-language`, `#gpu`, `#audio`, `#build-systems`, `#cpp`, `#embedded`, `#learning`, `#security` `#conferences`, `#tooling`, `#2d-graphics`, `#clion`, `#catch2`, `#qt` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/c_plus_plus_help.webp">
+
+[**C++ Help**](https://discord.com/invite/J5hBe8F) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Eelis/geordi) \
+Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-showcase` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/together_c_and_c_plus_plus.webp">
+
+[**Together C & C++**](https://discord.com/invite/vnyVmAE) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Headline/discord-compiler-bot) \
+Notable Channels: `#c_general`, `#cpp_general`, `#assembly`, `#code_review`, `#gamedev`, `#graphics`, `#audio`, `#programming_environment`, `#collaboration`, `#unix`, `#other_langs_help`, `#math` \
+Language: English
+
+<!-- markdownlint-disable MD003-->
+
+<!-- markdownlint-disable MD020-->
+### Apple Systems
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_hackintosh_paradise.webp">
+
+[**/r/Hackintosh Paradise**](https://discord.com/invite/Wxam8aH) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/hackintosh/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) \
+Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/amd_os_x.webp">
+
+<!--lint ignore awesome-spell-check-->
+
+[**AMD OS X**](https://discord.com/invite/EfCYAJW) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://amd-osx.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/AMD-OSX) \
+Notable Channels: `#big_sur_discussions`, `#development_discussions`, `#b550_development`, `#install_support`, `#post_install_support`, `#gpu_support`, `#networking_support`, `#hardware_discussion` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/apple_betas.webp">
+
+[**Apple Betas**](https://discord.com/invite/4EEkWjS) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/23Aaron/JeffBot) \
+Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watchos`, `#tvos`, `#xcode`, `#development` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/unsupported_macs.webp">
+
+[**Unsupported Macs**](https://discord.com/invite/XbbWAsE) \
+Notable Channels: `#barrykn-patcher`, `#bensova-patcher`, `#dosdude1-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks`, `#mountain-lion` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_apple.webp">
+
+[**r/Apple**](https://discord.com/invite/apple) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/Apple) \
+Notable Channels: `#apple`, `#purchase-advice`, `#shot-on-iphone`, `#homescreen`, `#ios-ipados`, `#macos`, `#watchos`, `#xcode`, `#services`, `#jailbreak-info`, `#support` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/r_jailbreak.webp">
+
+[**r/Jailbreak**](https://discord.com/invite/jb) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/jailbreak/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Emy/janet) \
+Notable Channels: `#showcase`, `#common-issues`, `#jailbreak`, `#general`, `#themes`, `#legacy`, `#unc0ver`, `#tvos-jailbreaks`, `#checkra1n`, `#chimera`, `#flex`, `#ncontrol`, `#support` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/hackintosh_x86.webp">
+
+[**Hackintosh x86 & Tech**](https://discord.com/invite/qc89CQkX7j) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
+Notable Channels: `#app-fixes`, `#hackintosh-help`, `#benchmarks-and-desks`, `#hack-art`, `#linux`, `#useful-files`, `#coding`, `#efi-database` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/shortcuts.webp">
+
+[**Shortcuts**](https://discord.gg/HrzAhUu) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/shortcuts/) \
+Notable Channels: `#general`, `#shorcut-sharing`, `#help-and-support`, `#shortcast-info`, `#shortcasts-content-suggestions`\
+Language: English
+
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Templates
 
@@ -428,19 +505,19 @@
 
 *   [SIPSorcery (⭐896)](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
-## [36. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [37. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [Cosmic](https://cosmicjs.com) - Headless CMS with REST and GraphQL API options.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [microprofile (⭐1.2k)](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. \[Unlicense]
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Form Builder
 
@@ -450,7 +527,7 @@
 
 *   [Git Lint](https://www.alchemists.io/projects/git-lint) - Analyzes Git commits for consistent quality.
 
-## [39. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [40. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpouse Machine Learning
 
@@ -460,7 +537,7 @@
 
 *   [vaex (⭐7.4k)](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
 
-## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -480,7 +557,7 @@
 
 *   [vuex-composition-helpers (⭐276)](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 
-## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [42. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
@@ -490,13 +567,13 @@
 
 *   [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 
-## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Payments
 
 *   [AnimatedCardInput (⭐39)](https://github.com/netguru/AnimatedCardInput) — Easy to use library with customisable components for input of Credit Card data.
 
-## [43. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [44. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Frameworks
 
@@ -516,7 +593,7 @@
 
 *   [JavaScript for Sound Artists](https://www.routledge.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
 
-## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Money, Budgeting & Management
 
@@ -532,7 +609,7 @@
 *   `GFDL-1.3-only` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-only.html)
 *   `GFDL-1.3-or-later` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-or-later.html)
 
-## [45. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [46. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Articles / Limitations
 
@@ -557,7 +634,7 @@
 
 *   [Clarity Core Web Components (⭐6.5k)](https://github.com/vmware/clarity/tree/master/packages/core) - Suite of web components from the Clarity Design System.
 
-## [46. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [47. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
@@ -567,13 +644,13 @@
 
 *   [How to develop an Alexa Skill](https://www.pluralsight.com/guides/alexa-run-this-javascript-app) - Tutorial on creating an Alexa Skill.
 
-## [47. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [48. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering / Technical Debt
 
 *   [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
-## [48. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Other Awesome Lists
 
@@ -587,7 +664,7 @@
 
 *   [ContainerController (⭐414)](https://github.com/mrustaa/ContainerController) - UI Component. This is a copy swipe-panel from app: Apple Maps, Stocks
 
-## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -605,13 +682,19 @@
 
 *   [Folyd/robotstxt (⭐71)](https://github.com/Folyd/robotstxt) - A native Rust port of Google's robots.txt parser and matcher C++ library
 
-## [50. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [51. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### GUI Development
 
 *   [pyglet (⭐1.3k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 
-## [51. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [52. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [OMX: The Open Matrix data file format (⭐40)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+
+## [53. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Distributed Filesystems
 
@@ -625,7 +708,7 @@
 
 *   [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
 
-## [52. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [54. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Papers and Articles
 
@@ -641,7 +724,7 @@
 *   [2017: Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 *   [2016: Natural Language Generation enhances human decision-making with uncertain information](https://arxiv.org/pdf/1606.03254.pdf)
 
-## [53. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [55. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Navigation libraries / Official resources
 
@@ -650,13 +733,13 @@
 *   [react-key-navigation (⭐70)](https://github.com/dead/react-key-navigation) - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
 *   [react-spatial-navigation (⭐219)](https://github.com/NoriginMedia/react-spatial-navigation) - HOC-based Spatial Navigation (key navigation) solution for React.
 
-## [54. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [56. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Utilities
 
 *   [Amidst (⭐2k)](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 
-## [55. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [57. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Interviewing
 
@@ -668,13 +751,13 @@
 *   [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
 *   [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
 
-## [56. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [58. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab\_templates (⭐313)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 
-## [57. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Authentication
 
@@ -684,19 +767,19 @@
 
 *   [Awesome Electron.js Hacking (⭐408)](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 
-## [58. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [60. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Articles
 
 *   [What's in a Fold: The Basic Catamorphism in recursion-schemes](https://duplode.github.io/posts/whats-in-a-fold.html) - Introduces catamorphism as a generalization of fold.
 
-## [59. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [61. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :trophy: Tutorials / :gear: Schema Visualization Tools
 
 *   [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
 
-## [60. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [62. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### UI Elements
 
@@ -828,7 +911,7 @@
 *   [Split](https://www.split.io/) - Another feature management with multiple integrations in CI servers and ticketing systems.
 *   [Rollout](https://rollout.io/) - Feature management focusing on segmented roll-out of features.
 
-## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [63. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -846,13 +929,13 @@
 
 *   [terrastruct.com](https://terrastruct.com/) — Online diagram maker specifically for software architecture. Free tier up to 4 layers per diagram.
 
-## [62. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [64. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-img (⭐194)](https://github.com/humaans/next-img/) - a plugin for embedding optimized images with ease.
 
-## [63. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [65. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -863,7 +946,7 @@
 
 *   [Keycloak Nest.js Admin Client by Relevant Fruit (⭐378)](https://github.com/relevantfruit/nestjs-keycloak-admin)
 
-## [64. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [66. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Online Playgrounds
 
@@ -894,7 +977,7 @@
 
 *   [Primer vistazo con deno](https://dev.to/buttercubz/first-look-with-deno-spanish-30dh)
 
-## [65. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [67. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -938,7 +1021,7 @@
 *   [PodcastGenerator](https://podcastgenerator.net/) <sup>[669](https://t.me/s/aboutrss/669)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/PodcastGenerator/PodcastGenerator/)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [轻芒小程序+ 播客小程序](http://qingmang.me/) <sup>[673](https://t.me/s/aboutrss/673)</sup>
 
-## [66. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [68. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 

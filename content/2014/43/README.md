@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27 - Nov 02, 2014
 
-13 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -498,25 +498,35 @@
 
 *   [through2-concurrent (⭐74)](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 
-## [7. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [7. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Image compression
+
+*   [Compressor.io](https://compressor.io/)
+
+### Color
+
+*   [flatuicolorpicker](http://www.flatuicolorpicker.com/)
+
+## [8. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Graphics
 
 *   [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos.
 
-## [8. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [9. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Web Frameworks
 
 *   [Zotonic (⭐762)](https://github.com/zotonic/zotonic) - High speed, real-time web framework and content management system.
 
-## [9. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [10. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 
-## [10. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [11. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Dependency injection
 
@@ -528,13 +538,13 @@
 *   [clj-tuple (⭐177)](https://github.com/ztellman/clj-tuple)
 *   [slingshot (⭐626)](https://github.com/scgilardi/slingshot)
 
-## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Bayesian
 
 *   [rjags](http://cran.r-project.org/web/packages/rjags/index.html) - R interface to the JAGS MCMC library.
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [13. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Networking / Field Validation
 
@@ -544,7 +554,7 @@
 
 *   [Realm (⭐11k)](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Physics
 

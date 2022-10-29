@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -63,19 +63,25 @@
 
 *   [redbpf (⭐1.4k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Development Tools
+
+*   [jsx-ast-utils (⭐137)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
+
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-marquee (⭐101)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
-## [8. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Libraries and Frameworks
 
 *   [Puppeteer (⭐80k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Animals
 
@@ -391,7 +397,7 @@
 
 
 
-## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Functional Languages that Compile to JavaScript / Lenses
 

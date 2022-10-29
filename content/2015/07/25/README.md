@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 25, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,13 +34,20 @@
 
 *   [PNChart (⭐9.7k)](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
-## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / N individuals
+
+*   Nikolay Nemshilov <http://nikolay.rocks/>
+
+## [6. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
 *   [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 
-## [6. Tips](/content/git-tips/tips/README.md)
+## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Pick commits across branches using cherry-pick
 
 ```sh
@@ -58,7 +65,7 @@ git branch -a --contains <commit-ish>
 git branch --contains <commit-ish>
 ```
 
-## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Other tools / Hooks
 

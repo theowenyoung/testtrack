@@ -1,12 +1,13 @@
 # Awesome List Updates on Sep 14 - Sep 20, 2015
 
-23 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Tips](/content/git-tips/tips/week/README.md)
+
 ## Export a branch with history to a file.
 
 ```sh
@@ -317,7 +318,22 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 
-## [19. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [19. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Yitzchok Willroth (⭐0)](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
+*   [Jeff Carouth (⭐0)](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
+*   [Matthew Turland (⭐2)](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
+*   [Joe Ferguson](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
+*   [Hamish Friedlander (⭐0)](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
+*   [Chris Tankersley (⭐0)](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
+
+### Ask these organizations anything!
+
+*   [Code Monkey Health (⭐0)](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
+
+## [20. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Other Awesome Lists / Dojo 2
 
@@ -331,7 +347,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
     *   [awesome-all (⭐179)](https://github.com/bradoyler/awesome-all) - awesome lists
     *   [awesome-awesome (⭐248)](https://github.com/erichs/awesome-awesome) - awesome lists
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
@@ -347,7 +363,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [peterkokot/awesome-jquery (⭐841)](https://github.com/peterkokot/awesome-jquery)
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Databases, ORMs, Migrations & Seeding
 
@@ -357,7 +373,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Laravel Newsletter (⭐1.5k)](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 
-## [22. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [23. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tools
 
@@ -367,7 +383,13 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 
 *   [Web components tester istambul (⭐28)](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
 
-## [23. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [24. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Cognitive Development
+
+*   [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** \[1:16:26]
+
+## [25. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Syntax Highlighter / OpenOffice
 

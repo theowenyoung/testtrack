@@ -8,7 +8,7 @@
 
 ## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=11150567121969913334)].
 

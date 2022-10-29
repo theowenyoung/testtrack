@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20, 2017
 
-9 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,31 @@
 
 *   [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
 
-## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS
+
+*   [GTFS Best Practices](http://gtfs.org/best-practices/) - Best practices for producers of a GTFS feed.
+
+## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
 *   [NNFlow (⭐7)](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Domenico Luciani <https://domenicoluciani.com>
+
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
 *   [http-protection (⭐72)](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
 
-## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -34,7 +46,7 @@
     *   [Homeworks](http://www.ece.cmu.edu/\~ece447/s15/doku.php?id=homeworks) 7 HWs with answer set as well
     *   [Readings](http://www.ece.cmu.edu/\~ece447/s15/doku.php?id=readings)
 
-## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Canvas
 
@@ -88,7 +100,7 @@
 *   [electron-template (⭐112)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 *   [WebFUI (⭐235)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
-## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [8. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### Android
 
@@ -105,7 +117,7 @@
 
 *   [Fuck off as a Service (⭐2.9k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
-## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### React Native
 
@@ -117,13 +129,13 @@
 
 
 
-## [8. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
+## [10. Awesome Qt](/content/JesseTG/awesome-qt/README.md)
 
 ### Tools / Third-Party Tools
 
 *   [linuxdeployqt (⭐1.7k)](https://github.com/probonopd/linuxdeployqt) [:octocat: (⭐1.7k)](https://github.com/probonopd/linuxdeployqt) - Lets you bundle your Qt based application as an AppDir or [AppImage](http://appimage.org), making it possible to ship it to users of many desktop Linux distributions. Similar to the official `windeployqt` and `macdeployqt` tools but for Linux.
 
-## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 

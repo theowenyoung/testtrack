@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04, 2016
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,13 @@
 *   [trireme](https://www.aporeto.com/trireme/)\
     Security by segmentation for Docker and Kubernetes.
 
-## [4. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Small Improvements <https://tech.small-improvements.com/>
+
+## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Other
 
@@ -37,7 +43,7 @@
 
 *   [yarn (⭐41k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 
-## [5. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [6. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### [Barsoom series](https://www.goodreads.com/series/43942-barsoom)   (1912-1927)   *by [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)*   \[3.8] 🌟 / [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites)   (1988) [4.2]
 
@@ -58,7 +64,13 @@
 *   [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
 *   [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
 
-## [6. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
+## [7. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Tools
+
+*   [Vim-ionic2 (⭐2)](https://github.com/akz92/vim-ionic2)
+
+## [8. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
 ### Articles
 

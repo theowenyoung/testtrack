@@ -1,18 +1,34 @@
 # Awesome List Updates on May 31, 2015
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
+## [1. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### data
+
+*   [strava-to-geojsonio (⭐7)](https://github.com/taketime/strava-to-geojsonio): export runs & rides from Strava to GeoJSON
+
+## [2. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md)
 
 ### Talks
 
 *   [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html), Christopher Chedeau, a.k.a. Vjeux (2014)
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Test-Driven Development
+
+*   [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** \[01:07:53]
+
+### Methodologies
+
+*   [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** \[53:03]
+
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
@@ -36,13 +52,13 @@
 
 *   [#elixir-lang](http://webchat.freenode.net/?channels=elixir-lang) - The IRC Channel #elixir-lang on Freenode.
 
-## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Computer Vision
 
 *   [EENG 512 / CSCI 512 - Computer Vision](http://inside.mines.edu/\~whoff/courses/EENG512/) - William Hoff (Colorado School of Mines)
 
-## [4. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
+## [6. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 
 ### GDC Talks / Table of Contents
 

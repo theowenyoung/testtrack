@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,6 +99,7 @@
 *   [ClickHouse](https://clickhouse.yandex/) - Column-oriented database management system that allows generating analytical data reports in real time.
 
 ## [7. Tips](/content/git-tips/tips/README.md)
+
 ## Show how many lines does an author contribute
 
 ```sh
@@ -113,7 +114,13 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 ", add, subs, loc }' - # on Mac OSX
 ```
 
-## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [8. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Companies
+
+*   [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R\&D robots.
+
+## [9. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -124,7 +131,7 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 *   [Fonts](https://github.com/showcases/fonts)
 *   [Icon Fonts](https://github.com/showcases/icon-fonts)
 
-## [9. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [10. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Templates
 

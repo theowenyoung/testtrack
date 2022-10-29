@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 10, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,13 +53,39 @@
 
 *   [gdx-jnigen (⭐33)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
-## [8. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
+
+> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks over the course of the game. They will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. Each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year.
+
+![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc\(\)/pic4852372.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 5 |       10 | 40 -70m |
+
+### Party
+
+### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
+
+> This beautiful and functional board has room for two teams of large marbles. Players take turns pushing the marbles around the board, with the goal of pushing six of the opposing player's marbles off the board. The central idea is that a column of marbles has weight given by the number of marbles in line. Someone will need to push with a heavier group of marbles in order to push the column along that axis. However, with six possible directions, it's difficult to defend yourself perfectly. Also, it's possible to play the game with up to six players when supplemental marble sets are purchased.
+
+![Abalone image](http://cdn.aktivcommunication.cz/images/products/box/4426.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       7+ |  30m |
+
+## [9. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
 *   [Publish-AppImage for .NET (⭐11)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 
-## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ### Platforms / Robotic Process Automation
 
@@ -89,13 +115,13 @@
 
 *   [The Connector](https://www.workato.com/the-connector/) - Workato blog on Business Automation.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-color-input (⭐9)](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
-## [11. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [12. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
@@ -105,37 +131,37 @@
 
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Asynchronous
 
 *   [async-std](https://async.rs/) [\[async-std\]](https://crates.io/crates/async-std) - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
-## [13. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
+## [14. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
 ### Resources / Books
 
 *   [The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
 *   [jvgrootveld/telescope-zoxide (⭐138)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
-## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [16. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
 
-## [16. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [17. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Apps / Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
-## [17. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 

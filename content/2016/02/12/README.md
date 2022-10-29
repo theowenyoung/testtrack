@@ -21,6 +21,7 @@
 *   [PHP Versions](http://phpversions.info/) - Lists which versions of PHP are available on several popular web hosts.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## Grab a single file from a stash
 
 ```sh

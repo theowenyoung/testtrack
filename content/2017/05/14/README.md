@@ -1,12 +1,22 @@
 # Awesome List Updates on May 14, 2017
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   Heroku <https://blog.heroku.com/engineering>
+
+### Companies / S companies
+
+*   Strava <https://medium.com/strava-engineering/>
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### C bindings
 
@@ -16,7 +26,7 @@
 
 *   [libgen (⭐71)](https://github.com/olbat/libgen) - Automatic bindings generator configured using JSON/YAML files
 
-## [2. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [3. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Data Validation
 

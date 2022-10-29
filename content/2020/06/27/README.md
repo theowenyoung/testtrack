@@ -1,12 +1,46 @@
 # Awesome List Updates on Jun 27, 2020
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
+## [1. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### React.js
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/blitz_js.webp">
+
+[**Blitz.js**](https://discord.com/invite/epMSc7Mpvt) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://blitzjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/blitz-js) \
+Notable Channels: `#ideas`, `#help-blitz`, `#help-react`, `#help-prisma`, `#help-typescript`, `#blitz-content`, `#blitz-libraries`, `#built-with-blitz`, `#dev-general` \
+Language: English, 中文, español
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/gatsby.webp">
+
+[**Gatsby**](https://discord.gg/gatsby) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.gatsbyjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://www.gatsbyjs.org) \
+Notable Channels: `#general`, `#help`, `#showcase`, `#development`, `#starter-kits`, `#jobs`, `#graphql`, `#vuejs`, `#data-sourcing`, `#markdown`, `#drupal`, `#craft-cms`, `#dato-cms`, `#cockpit-cms` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/invertase_oss.webp">
+
+[**Invertase OSS**](https://discord.com/invite/C9aK28N) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://rnfirebase.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/invertase) \
+Notable Channels: `#notifee`, `#apple-authentication`, `#general`, `#i-need-help`, `#i-made-this`, `#contributing`, `#news`, `#modules` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/reactiflux.webp">
+
+[**Reactiflux**](https://discord.gg/reactiflux) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reactiflux.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/reactiflux/reactiflux.com) \
+Notable Channels: Notable Channels: `#help-react`, `#react-native`, `#js`, `#styling`, `#backend`, `#graphql`, `#code-review`, `#react-router`, `#redux`, `#react-bootstrap`, `#formik`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+## [2. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Beta Testing - <https://betatesting.com/beta-testing>
+
+## [3. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 
 ### Getting Started
 
@@ -246,7 +280,7 @@
 *   [Pathable](https://github.com/Urigo/awesome-meteor/blob/master/README.md/Pathable) - Events managment suite
 *   [MaestroQA](https://www.maestroqa.com/) - Quality assurance software
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
@@ -267,13 +301,13 @@
 
 *   [Blazored.Modal (⭐618)](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square\&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 
-## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Operation System / Server Infrastructure and High Performance Computing
 
 *   [mass (⭐226)](https://github.com/maas/maas) - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
 
-## [4. Awesome List](/content/sindresorhus/awesome/README.md)
+## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
@@ -287,7 +321,7 @@
 
 *   [WP-CLI (⭐157)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frameworks / Runtimes
 
@@ -295,7 +329,7 @@
 *   [Helidon](https://helidon.io/) - Collection of Java libraries for writing microservices that run on a fast web core powered by Netty.
 *   [Micronaut](http://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 
-## [6. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [8. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 

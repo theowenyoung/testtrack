@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,14 +49,24 @@
 
 *   [HTML::FormHandler](https://metacpan.org/pod/HTML::FormHandler) - HTML forms using Moose.
 
-## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### services
+
+*   [geojsonio-cli (⭐153)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+
+### data
+
+*   [geojson.xyz](http://geojson.xyz/): natural earth data in web-friendly sizes with hotlinking
+
+## [8. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 
 ### Open Source
 
 *   [500px Gallery Demo (⭐42)](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
 *   [Fuse Samples (⭐179)](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 
-## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### General
 
@@ -66,7 +76,7 @@
 
 *   [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 
-## [9. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
+## [10. Awesome Vagrant](/content/iJackUA/awesome-vagrant/README.md)
 
 ### Official resources
 
@@ -99,7 +109,7 @@
 *   [Joomla-Vagrant (⭐143)](https://github.com/joomlatools/joomlatools-vagrant).
 *   [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
 
-## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Libraries and Frameworks / Slides and Notes
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -125,13 +125,19 @@
     *   [Taming Complexity](http://barabasi.com/f/182.pdf).
     *   [The Network Takeover](http://barabasi.com/f/362.pdf).
 
-## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Manu Sunny](https://github.com/manupsunny/ama) - Back-end .NET/Java developer.
+
+## [3. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Multimedia content processing
 
 *   [FFmbc (⭐171)](https://github.com/bcoudurier/FFmbc) - FFmpeg customized for broadcast and professional usage.
 
-## [3. Guitarspecs](/content/gitfrage/guitarspecs/README.md)
+## [4. Guitarspecs](/content/gitfrage/guitarspecs/README.md)
 
 ### Guitar Bodies / Other Rare Bridge Variants
 
@@ -144,7 +150,7 @@
 *   String ferrules (String-thru Top or Bottom - if you use "string through body" instead of bridge)
 *   Strap holders
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Weblogs
 
@@ -155,7 +161,7 @@
 *   [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 *   [foonathan::blog()](https://foonathan.net/index.html)
 
-## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [6. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Continuous Integration & Continuous Deployment
 
@@ -172,13 +178,13 @@
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
-## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online
 
 *   [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Npm
 
@@ -197,20 +203,20 @@
 
 *   [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 
-## [8. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [9. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Articles and Documentation
 
 *   [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - How to setup Cache-Control to achieve the best reponse time.
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [10. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Telegram Channels / Book Deals (Affiliated) 🛍
 
 *   [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 *   [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
-## [10. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [11. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Events/Meetups / Design
 
@@ -234,7 +240,7 @@
 
     Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
 
-## [11. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
+## [12. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 
 ### Courses / Introductory
 
@@ -320,7 +326,7 @@
 *   [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
 *   [HUST Online Judge System (⭐59)](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### State management / Standard
 
@@ -330,7 +336,7 @@
 
 *   [Fish (⭐7.3k)](https://github.com/alibaba/fish-redux) <!--stargazers:alibaba/fish-redux--> - Alibaba Redux implementation
 
-## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Unity SDK
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,19 +43,26 @@
 
 *   [Csv::Parser (⭐15)](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. \[Zlib]
 
-## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [6. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Libraries
+
+*   [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
+*   [react-uploady (⭐732)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
+
+## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Testing
 
 *   [Minq (⭐1)](https://github.com/valtech/minq) - Mockable, LINQable support for Sitecore and Sitecore MVC.
 
-## [7. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+## [8. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ### Books / Storybook addons
 
 *   [Introduction to Design Systems](https://fem-design-systems.netlify.app/) - A practical introduction to design systems by using React, Figma and Storybook by Emma Bostian
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / GO
 
@@ -74,13 +81,13 @@
 *   [GoConvey (⭐7.5k)](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 *   [Godog (⭐1.8k)](https://github.com/cucumber/godog) - Package godog is the official Cucumber BDD framework for Golang, it merges specification and test documentation into one cohesive whole, using Gherkin formatted scenarios in the format of Given, When, Then.
 
-## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Official
 
 *   [Reddit](https://www.reddit.com/r/yew_web/) - Dedicated Sub Reddit.
 
-## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [11. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Toolchains
 

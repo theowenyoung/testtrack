@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 08, 2019
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Realtime Convertors / Ruby
+
+*   [gtfs-realtime-translators (⭐19)](https://github.com/Intersection/gtfs-realtime-translators) - A Python-based tool to translate custom arrival API formats to GTFS-realtime.  As of July 2019 it supports LA Metro and SEPTA.
+
+## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -28,25 +34,31 @@
 
 *   [Poli (⭐1.9k)](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
-## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Chris Otto (⭐0)](https://github.com/chrisotto6/ama) - Test Engineer, creator of [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) and [blogger](https://www.chrisotto.tech).
+
+## [4. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇧🇷 Brazil / Misc
 
 *   Meetup [São Paulo](https://www.meetup.com/flutter-sp)
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
 *   [specialization-store (⭐28)](https://github.com/markcox80/specialization-store/) - generic functions based on types. Simplified BSD License variant.
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### SQL-like processing
 
 *   [Dremio](https://www.dremio.com/) - an open-source, SQL-like Data-as-a-Service Platform based on Apache Arrow.
 
-## [5. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Concurrency
 
@@ -54,7 +66,7 @@
     *   [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
     *   [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo and Video Galleries
 

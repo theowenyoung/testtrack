@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -69,13 +69,20 @@
 *   [digoc (⭐11)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐7)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [3. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Books
+
+*   [Foundations of Statistical Natural Language Processing](https://books.google.nl/books?id=YiFDxbEX3SUC)
+*   [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition](https://books.google.nl/books?id=fZmj5UNK8AQC)
+
+## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### CakePHP Websites
 
 *   [waltherlalk.com](http://waltherlalk.com) - A CakePHP related core dev blog.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 

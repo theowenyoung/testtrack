@@ -1,12 +1,18 @@
 # Awesome List Updates on Oct 06, 2017
 
-15 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Validators / Ruby
+
+*   [GTFS Data Package Specification (⭐20)](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+
+## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
@@ -24,7 +30,7 @@
 *   [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) - Sasha Goldshtein.
 *   [The Future of the Linux Page Cache](https://www.youtube.com/watch?time_continue=1\&v=xxWaa-lPR-8) - Matthew Wilcox.
 
-## [2. Awesome Idris](/content/joaomilho/awesome-idris/README.md)
+## [3. Awesome Idris](/content/joaomilho/awesome-idris/README.md)
 
 ### Contents / Official resources
 
@@ -37,19 +43,19 @@
 *   IRC: #idris on [freenode.net](https://webchat.freenode.net/)
 *   [Community Standards](https://www.idris-lang.org/documentation/community-standards/)
 
-## [3. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [4. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Tutorials/Guides
 
 *   [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
 
-## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S\&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
 
-## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [6. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -75,13 +81,13 @@
 
 
 
-## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Business and Finance
 
 *   [ICOStats.com](https://icostats.com/) - Track & compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 
-## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [8. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Awesome Repositories
 
@@ -91,19 +97,19 @@
 
 
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Closed Source / Other
 
 *   [Mockoon](https://mockoon.com) - Mock servers in seconds.
 
-## [9. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [10. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Blog & News
 
 *   [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Third party Guides
 
@@ -113,32 +119,38 @@
 
 *   [ARKit-Navigation (⭐290)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
-## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Tools
 
 *   [SSHPry v2 (⭐365)](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social\&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [orleans (⭐8.9k)](https://github.com/dotnet/orleans) - Framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns.
 
-## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
 *   ["Hopping on the CAN Bus" from BlackHat Asia 2015](https://www.blackhat.com/asia-15/briefings.html#hopping-on-the-can-bus) - A talk from BlackHat Asia 2015 that aims to enable the audience to "gain an understanding of automotive systems, but will also have the tools to attack them".
 *   [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) - DEFCON 23 talk Chris Valasek and Charlie Miller give their now famous talk on hacking into a Jeep remotely and stopping it dead in its tracks.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / J individuals
+
+*   Jake Trent <https://jaketrent.com>
+
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
 *   [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations) by [@udyuxdev](https://twitter.com/UdyUXDev)
 
-## [15. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [17. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Application Hosting / Third-party Service Integration
 

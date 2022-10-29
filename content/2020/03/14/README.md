@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2020
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,19 @@
 
 *   [Flotiq](https://flotiq.com) - An effortless headless CMS.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Imed Jaberi (⭐0)](https://github.com/3imed-jaberi/ama) - JavaScript dev, mentor, open source contributor, community builder, and speaker.
+
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Validation
 
 *   [validator (⭐25)](https://github.com/Nicolab/crystal-validator) - Data check and validation
 
-## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Wireless Network Tools
 

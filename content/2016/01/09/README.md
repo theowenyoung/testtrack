@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 09, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,17 @@
 *   [SEE (⭐793)](https://github.com/F-Secure/see) - Sandboxed Execution Environment (SEE)
     is a framework for building test automation in secured Environments.
 
-## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Semaphore CI Community <https://semaphoreci.com/community>
+
+### Companies / T companies
+
+*   Teespring <http://teespring.engineering/>
+
+## [6. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Static Site Generation
 

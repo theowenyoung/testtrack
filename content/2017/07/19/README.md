@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 19, 2017
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -113,13 +113,27 @@
 *   [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 *   [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Contests, conferences, and events
+
+*   [LockCon](https://toool.nl/LockCon) - Annual, invitation-only international conference about locks for members of respected locksport organizations.
+
+### Hobby projects
+
+*   [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
+
+### Online resources
+
+*   [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
+
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [dynamodb-transactions :fire::fire: (⭐348)](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

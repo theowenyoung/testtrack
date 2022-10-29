@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -130,13 +130,27 @@ Free (Open Source)
 
 *   [obs-websocket-gd (⭐39)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
 
-## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Family
+
+### [Sushi Draft](https://boardgamegeek.com/boardgame/144865/sushi-draft)
+
+> Sushi Draft is a card game that looks good enough to eat! Sushi Draft includes a deck of 32 sushi cards (8 ikura, 7 ebi, 6 maguro, 5 tamago, 4 kappa and 2 "wild" triples) and 18 point tokens (three each for the five types of sushi and three for dessert); the point tokens range in value from 1-5, with the more plentiful sushi dishes being worth more points. Over three rounds, players draft plates of sushi and collect sushi points, which are drawn randomly. The player with the most diverse menu gets dessert. Players tally their points, and whoever has the highest score wins. Sushi Draft is quick to learn and fun for the whole family, and is the perfect introduction to the classic genre of pick-and-pass/card-drafting games!
+
+![Sushi Draft image](https://cf.geekdo-images.com/VBF3tF7GdSMA0j1E6HPlvQ__itemrep/img/wAInfSxdweuNqVxnL5Qsq5P_wtk=/fit-in/246x300/filters:strip_icc\(\)/pic2062272.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |        8 |  15m |
+
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Bonus / Game Engine resources
 
 *   [Awesome Flutter Linux (⭐101)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
 
-## [6. Awesome](/content/craftcms/awesome/README.md)
+## [7. Awesome](/content/craftcms/awesome/README.md)
 
 ### Articles / Deployment
 
@@ -146,19 +160,19 @@ Free (Open Source)
 
 *   [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) by Laura Montgomery/A Digital Agency– `3 September 2021`
 
-## [7. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Books
 
 *   [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
 
-## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Wayback (⭐338)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 
-## [9. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
+## [10. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/README.md)
 
 ### Epic Fantasy / [Codex Alera](https://www.goodreads.com/series/45545-codex-alera)   (2005)   *by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)*   \[4.28] 🔥
 
@@ -168,19 +182,19 @@ Free (Open Source)
 *   [Princeps' Fury](https://www.goodreads.com/book/show/2903736-princeps-fury) \[4.37]
 *   [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) \[4.39]
 
-## [10. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [11. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Extensions
 
 *   [Editor.js Interface (⭐123)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [optionals (⭐100)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
@@ -197,7 +211,7 @@ Free (Open Source)
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cryptocurrency
 
@@ -383,7 +397,7 @@ Free (Open Source)
 
 
 
-## [14. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [15. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Miscellaneous / Development and testing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,13 +30,107 @@
 
 *   [bonfire (⭐742)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### IoT Applications
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/appdaemon.webp">
+
+[**AppDaemon**](https://discord.com/invite/Mx5qafB) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/hassio-addons/addon-appdaemon) \
+Notable Channels: `#appdaemon`, `#hadashboard` \
+Language: English, Deutsch, Nederlands \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/deconz.webp">
+
+[**deCONZ**](https://discord.com/invite/QFhTxqN) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/dresden-elektronik/deconz-rest-plugin) \
+Notable Channels: `#advice`, `#device-issues`, `#home-assisstant-issues`, `#setup-issues`, `#other-issues`, `#phoscon` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/esphome.webp">
+
+[**ESPHome**](https://discord.com/invite/KhAMKrd) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://esphome.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/esphome) \
+Notable Channels: `#general`, `#devs` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/tasmota.webp">
+
+[**Tasmota**](https://discord.com/invite/Ks2Kzd4) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://tasmota.github.io/docs/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/arendst/tasmota) \
+Notable Channels: `#general`, `#issues`, `#3d-prints-and-cnc`, `#projects-gallery`, `#deals-and-promotions` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/zigbee2mqtt.webp">
+
+[**zigbee2mqtt**](https://discord.com/invite/NyseBeK) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.zigbee2mqtt.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/koenkk/zigbee2mqtt) \
+Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassio`, `#installation-docker`, `#zigbee2mqtt`, `#zigbee-shepherd`, `#documentation`, `#hardware` \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+From fixing broken parts of various computer hardware to discussions on CPU, GPU, keyboards, mice, phones, tablets, smartwatches, headphones, and other related gadgets.
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/dave2d.webp">
+
+[**Dave2D**](https://discord.com/invite/dave2d) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) \
+Notable Channels: `#laptop-suggestions`, `#gaming-laptops-suggestions`, `#phones`, `#keyboards-mice`, `#desktops`, `#tablets`, `#vehicles`, `#deals`, `#tech-support` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/electronics_repair_school.webp">
+
+[**Electronics Repair School**](http://invite.ers.repair/) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA) \
+Notable Channels: `#projects`, `#tools-and-parts`, `#networking`, `#automotive`, `#solar-energy`, `#beginners-area`, `#diy-arduino-rpi-stm32`, `#laptops`, `#pc-repair`, `#phones`, `#consoles`, `#tablets` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/ltt_official.webp">
+
+[**LTT Official**](https://discord.com/invite/ltt) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.youtube.com/user/LinusTechTips) \
+Notable Channels: `#tech-chat`, `#tech-support`, `#my-rig`, `#overcloaking`, `#creative`, `#development`, `#crypto-currency`, `#networking`, `#audio`, `#vr` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/monitor_enthusiasts.webp">
+
+[**Monitor Enthusiasts**](https://discord.com/invite/MZwg5cQ) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/Monitors/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/DWF967/MonitorBot) \
+Notable Channels: `#monitors-discussion`, `#ultrawide-discussion`, `#mounts-and-desks`, `#help`, `#setups-and-battlestations` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/pc_master_race.webp">
+
+[**PC MASTER RACE**](https://discord.com/invite/pcmr) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/pcmasterrace/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/izy521/Sera-PCMR) \
+Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming`, `#linux`, `#mac-os`, `#content-sharing` \
+Language: English
+### Language Paradigms
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/functional_programming.webp">
+
+[**Functional Programming**](https://discord.com/invite/K6XHBSh) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/mniip/discord-eval) \
+Notable Channels: `#haskell`, `#tooling`, `#lisp-beginners`, `#clojure`, `#dependent-types`, `#agda`, `#coq`, `#idris` `#compilers`, `#scala`, `#elm`, `#f-sharp`, `#elixir`, `#purescript`, `#type-theory` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/low_level_programming.webp">
+
+[**Low-Level Programming**](https://discord.com/invite/5ssDFZS) \
+Notable Channels: `#rust`, `#assembly`, `#c-lang`, `#c-cpp`, `#wasm`, `#compilers`, `#embedded`, `#game-dev`, `#hardware` `#linux`, `#os-development` \
+Language: English
+### Java
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/JavaDiscord.webp">
+
+[**Java**](https://join.javadiscord.net) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://javadiscord.net) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Java-Discord) \
+Notable Channels: `#question-of-the-week`, `#share-knowledge`, `#community-jam`, `#resources` \
+Language: English \ <br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/together_java.webp">
+
+[**Together Java**](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/Together-Java) \
+Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
+Language: English
+
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Sheiley Shop (⭐43)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -103,7 +197,7 @@
 
 *   [Substats API](https://substats.spencerwoo.com/)
 
-## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [8. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### What This Is, and Where It Comes From / Quotes That Capture the General Spirit of this List's Contents
 
@@ -122,7 +216,7 @@
 *   Individual contributors (ICs) considering a move to management
 *   Managers looking to level-up a particular skill or attribute
 
-## [8. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Books
 
@@ -133,7 +227,7 @@
 
 *   [Clean Machine Learning, a Coding Kata (⭐13)](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code) - Learn the good design patterns to use for doing Machine Learning the good way, by practicing.
 
-## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [10. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Official Docs & Quickstarts
 
@@ -143,7 +237,7 @@
 
 *   📖 [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) - C++ and Unity SDKs for C++ and Unity (with Firebase Unity SDKs available via Unity Package Manager).
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Configuration
 
@@ -157,7 +251,7 @@
 
 *   [tmux-cpu-info (⭐7)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
-## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
+## [12. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
 ### Lighting / Visualizers
 

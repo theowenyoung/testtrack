@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 22, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -162,7 +162,13 @@
 
 *   [NitroNet for Sitecore (⭐25)](https://github.com/merkle-open/NitroNetSitecore) - Handles all possible presentation scenarios to integrate a handlebars frontend into Sitecore instead of Razor View without functional loss and improving productivity.
 
-## [5. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+### Plugins and scripts / Godot 3.2+
+
+*   [Shell Fur (⭐222)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
+
+## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Official Resources
 
@@ -224,13 +230,13 @@
 
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 
-## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
 *   [imax (⭐29)](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
 
-## [7. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
@@ -241,33 +247,23 @@
 *   [Keycloak Identity and Access Management by Łukasz Budnik](https://www.youtube.com/playlist?list=PLPZal7ksxNs0mgScrJxrggEayV-TPZ9sA)
 *   [Keycloak by Niko Köbler](https://www.youtube.com/playlist?list=PLNn3plN7ZiaowUvKzKiJjYfWpp86u98iY)
 
-## [8. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [9. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Tools
 
 *   [Codaptor (⭐15)](https://github.com/180Protocol/codaptor) - Create REST API for any CorDapp running on a Corda node automatically.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Text processing
 
 *   [becheran/wildmatch (⭐37)](https://github.com/becheran/wildmatch) \[[wildmatch](https://crates.io/crates/wildmatch)] — Simple string matching with questionmark- and star-wildcard operator [![Actions Status](https://github.com/becheran/wildmatch/workflows/Build/badge.svg?branch=master)](https://github.com/becheran/wildmatch/actions)
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.qufy.me/> by [@queensferryme](https://github.com/queensferryme) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.qufy.me%2F)
-
-## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
-
-### Plugins and scripts / Godot 3.2+
-
-*   [Shell Fur (⭐222)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
-
-### Websites / Godot version unknown
-
-*   [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
 
 ## [12. Awesome Economics](/content/antontarasenko/awesome-economics/README.md)
 
@@ -291,6 +287,12 @@
 ### Capacity Planning
 
 *   [How Back Market SREs prepared for Black Friday](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408)
+
+## [15. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Methodologies
+
+*   [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** \[00:07:42]
 
 ---
 

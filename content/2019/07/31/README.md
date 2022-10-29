@@ -7,6 +7,7 @@
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@kelset](https://github.com/kelset), [React Native (⭐105k)](https://github.com/facebook/react-native)
     *   "All Hands on Deck: The React Native Community Experience" ([video](https://youtu.be/OVzMw3vYrDI), [slides](https://speakerdeck.com/kelset/all-hands-on-deck-the-rn-community-experience))
 

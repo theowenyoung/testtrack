@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 20, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 *   [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) - Technique to reduce the risk of introducing a new software version in production by slowly rolling out the change to a small subset of users before rolling it out to the entire infrastructure and making it available to everybody.
 *   [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) - Approaches for managing the additional testing complexity of multiple independently deployable components.
 
-## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Agency Tools
+
+*   [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
+
+## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Bytecode
 
@@ -62,7 +68,7 @@
 *   [polarbear (⭐20)](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
 *   [statsd-jvm-profiler (⭐329)](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
 
-## [3. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
+## [4. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
 ### Convenience Utilities / sindresorhus's many Promise utilities (  [see notes](https://github.com/sindresorhus/promise-fun)  )
 
@@ -72,7 +78,7 @@
 
 *   [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 
-## [4. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
+## [5. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md)
 
 ### Workshoppers
 
@@ -82,19 +88,19 @@
 
 
 
-## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [6. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Articles / Outdated articles (Not relevant for current Elm architecture)
 
 *   [Elm for Web Developers (⭐58)](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 
-## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [7. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [github-secret-keeper (⭐83)](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 
-## [7. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Forms / Paid Books
 

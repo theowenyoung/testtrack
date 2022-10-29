@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 19 - Mar 25, 2018
 
-47 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -207,25 +207,33 @@
 
 *   [mqtt2elasticsearch (⭐2)](https://github.com/hobbyquaker/mqtt2elasticsearch) - Send MQTT messages to Elasticsearch.
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [8. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Juha Lindstedt (⭐0)](https://github.com/pakastin/ama) - Web architect at [iDiD](https://www.idid.fi). Creator of [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) and other open source projects.
+*   [Rifat Nabi (⭐2)](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
+*   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
+
+## [9. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Monitoring & Debugging / Scala
 
 *   [Microservice Graph Explorer (⭐71)](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
 
-## [9. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [10. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Tutorials / Navigation Demos
 
 *   [Setting up background tasks that run periodically when app is closed in React Native](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Matlab / General-Purpose Machine Learning
 
 *   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 
-## [11. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [12. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Editors / Markdown
 
@@ -235,32 +243,32 @@
 
 *   [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
-## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
+## [13. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol is a decentralized and distributed deep-learning training protocol.
 *   [Thought Network](https://thought.live/) - Thought's blockchain-enabled Fabric fundamentally changes applications by embedding artificial intelligence into every bit of data making it agile, actionable and inherently secure.
 
-## [13. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
+## [14. Awesome Drupal](/content/nirgn975/awesome-drupal/week/README.md)
 
 ### Articles
 
 *   [Drupal Headless Architecture with Inferno.js \[Live Demo\]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
 
-## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [kudo-js (⭐22)](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
 
-## [15. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [16. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [ldap2pg (⭐149)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 
-## [16. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [17. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Dependency injection
 
@@ -271,13 +279,13 @@
 *   [virgil (⭐264)](https://github.com/ztellman/virgil)
 *   [javastar (⭐63)](https://github.com/tailrecursion/javastar)
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
-## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [19. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -309,7 +317,7 @@
 *   [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
 *   [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
 
-## [19. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [20. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -319,19 +327,25 @@
 
 *   [VaporNation](http://vapornation.news) – Weekly Vapor newsletter with all things Vapor.
 
-## [20. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / K individuals
+
+*   Kai Hendry <https://hendry.iki.fi/>
+
+## [22. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [21. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [23. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Frameworks / Self-hosted
 
 *   [node-irc (⭐42)](https://github.com/Throne3d/node-irc) `JavaScript`
 
-## [22. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Media
 
@@ -341,49 +355,51 @@
 
 *   [CoreFX (⭐18k)](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [25. Tips](/content/git-tips/tips/week/README.md)
+
 ## Change a branch base
 
 ```sh
 git rebase --onto <new_base> <old_base>
 ```
 
-## [24. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [26. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+
 *   [@fijal](https://github.com/fijal), [PyPy](https://github.com/pypy/)
     *   "Open source funding" ([video](https://www.youtube.com/watch?v=bxNkupqI964))
 
-## [25. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [27. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Plasma desktop / Themes
 
 *   [Adapta KDE (⭐458)](https://github.com/PapirusDevelopmentTeam/adapta-kde) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
 *   [Arc KDE (⭐821)](https://github.com/PapirusDevelopmentTeam/arc-kde) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
 
-## [26. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [28. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [CLI Arguments Parser Kata (⭐6)](https://github.com/ivoputzer/cli-args-parser-kata)
 
-## [27. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [29. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Videos / Single Topics
 
 *   [What the heck is the event loop anyway?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Awesome talk about the way JavaScript works, and a tool for exploring the callstack.
 
-## [28. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [30. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [lottie-framer (⭐171)](https://github.com/72/lottie-framer) - Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files).
 
-## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [31. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Testing Android App Upgrades](https://appiumpro.com/editions/9)
 
-## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [32. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -393,7 +409,7 @@ git rebase --onto <new_base> <old_base>
 
 *   [Graphics for Games](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - Introduction to 3D graphics programming including shaders, math post-processing etc. from Newcastle University.
 
-## [31. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [33. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Security
 
@@ -403,7 +419,7 @@ git rebase --onto <new_base> <old_base>
 
 *   [Code blocks for Wagtail using Pygments](https://jordi.nz/code-blocks-wagtail-using-pygments/)
 
-## [32. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
+## [34. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
 
 ### FAQ
 
@@ -482,19 +498,19 @@ git rebase --onto <new_base> <old_base>
 *   Logging
     *   [Bugfender (⭐6)](https://github.com/bugfender/cordova-plugin-bugfender)
 
-## [33. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [35. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x LiveReload (⭐7)](https://github.com/ybonnel/vertx-livereload) - A simple livereload server for Vert.x applications.
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [36. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Security Tools / File Sharing
 
 *   [LinkLiar](http://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/halo/LinkLiar) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [35. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [37. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
@@ -502,38 +518,38 @@ git rebase --onto <new_base> <old_base>
 *   [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
 *   [Kuzzle (⭐1.2k)](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
 
-## [36. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
 *   [Logback Android (⭐1k)](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
 
-## [37. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [39. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Official resources
 
 *   [Smart View SDK](http://developer.samsung.com/tv/develop/extension-libraries/smart-view-sdk/download/) - Official Android, IOS and JavaScript SDK for communication between remote device and Samsung Smart TV.
 
-## [38. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [40. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Windows Managers / Other Desktop Environments
 
 *   [Blackbox (⭐41)](https://github.com/bradleythughes/blackbox) - Lightweight window manager for the X window system, without library dependencies. Built using C++.
 *   [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - Environment for X running on non-desktop embedded platforms such as handhelds, set-top boxes, kiosks and anything else for which screen space, input mechanisms or system resources are limited.
 
-## [39. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [41. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
 *   [Create Preact App (⭐98)](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
 *   [ptags (⭐105)](https://github.com/dalance/ptags) — A parallel universal-ctags wrapper for git repository [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 
-## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Official Resources
 
@@ -543,7 +559,7 @@ git rebase --onto <new_base> <old_base>
 
 *   [Fullstack Vue: The Complete Guide to Vue.js](https://www.fullstack.io/vue/) by Hassan Djirdeh, Nate Murray, & Ari Lerner. (March 2018)
 
-## [42. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [44. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -553,7 +569,7 @@ git rebase --onto <new_base> <old_base>
 
 *   [Kubeflow (⭐12k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 
-## [43. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [45. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS
 
@@ -571,7 +587,7 @@ git rebase --onto <new_base> <old_base>
 
 *   [How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting](https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/) - Written by [@fransrosen](https://twitter.com/fransrosen).
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [46. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
@@ -582,7 +598,7 @@ git rebase --onto <new_base> <old_base>
 *   [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 *   [Docker Success Center](https://success.docker.com) - Docker Success Center
 
-## [45. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [47. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Operating Systems
 
@@ -594,7 +610,7 @@ git rebase --onto <new_base> <old_base>
 *   [Lithos (⭐106)](https://github.com/tailhook/lithos/)\
     Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.
 
-## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [48. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -628,7 +644,7 @@ git rebase --onto <new_base> <old_base>
 
 *   [Topshelf (⭐3.5k)](https://github.com/Topshelf/Topshelf) - Easy service hosting framework for building Windows services using .NET.
 
-## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 

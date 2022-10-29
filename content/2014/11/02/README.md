@@ -1,12 +1,18 @@
 # Awesome List Updates on Nov 02, 2014
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** \[52:43]
+
+## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Validation / Runner
 

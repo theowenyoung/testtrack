@@ -8,6 +8,12 @@
 
 
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Datasets / Book Deals (Affiliated) 🛍
+
+*   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Free Courses

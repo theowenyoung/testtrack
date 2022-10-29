@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md) · ⭐ 94 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/README.md) · ⭐ 97 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
@@ -43,10 +43,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
-### Abduction / Scientific Discovery
-
-*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
-
 ### Concepts / Human Concept Representation
 
 *   [Organizing conceptual knowledge in humans with a gridlike code](http://behavioralhealth2000.com/wp-content/uploads/2017/01/Organizing-conceptual-knowledge-in-humans-with-a-gridlike-code.pdf) - ***Science***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=10995575332310321503\&hl=en\&as_sdt=0,5)]. Original findings suggest that global relational codes may be used to organize nonspatial conceptual representations and that these codes may have a hexagonal gridlike pattern when conceptual knowledge is laid out in two continuous dimensions.
@@ -55,6 +51,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Methodologies for Experiments / Association Test
 
 *   [A Meta-Analysis on the Correlation Between the Implicit Association Test and Explicit Self-Report Measures](http://faculty.washington.edu/agg/IATmaterials/PDFs/Hofmann%20&%20al%20\(PSPB,2005\).pdf) - ***Personality and Social Psychology Bulletin***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=4888328728717829047\&hl=en\&as_sdt=0,5)].
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
@@ -545,7 +545,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142\&hl=en\&as_sdt=0,44)].
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [Bridging Levels of Analysis for Probabilistic Models of Cognition](https://cocosci.princeton.edu/tom/papers/LabPublications/BridgingLevelsAnalysis.pdf) - ***Current Directions in Psychological Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=5063382112136991296\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on probabilistic models.
 *   [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on computational social science.
@@ -700,7 +700,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf) - ***CogSci'21***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739\&hl=en\&as_sdt=0,5)].
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [From understanding computation to understanding neural circuitry](https://dspace.mit.edu/bitstream/handle/1721.1/5782/AIM-357.pdf?sequence=2) - ***Neuroscience Research Program Bulletin***, 1979. \[[All Versions](https://scholar.google.com/scholar?start=0\&hl=en\&as_sdt=0,5\&cluster=11150567121969913334)].
 *   [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***Topics in Cognitive Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368\&hl=en\&as_sdt=0,5)].

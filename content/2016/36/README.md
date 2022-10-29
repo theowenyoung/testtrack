@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05 - Sep 11, 2016
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,20 +12,26 @@
 
 *   [Zappr (⭐532)](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
 
-## [2. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Functional Programming
+
+*   [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** \[1:15:18]
+
+## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
 *   [Fileintel (⭐101)](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 *   [Hostintel (⭐234)](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 
-## [3. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Links / Image Deblurring
 
 *   [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CloudWatch
 
@@ -35,7 +41,7 @@
 
 *   [jvehent/haproxy-aws :fire::fire: (⭐275)](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
@@ -50,7 +56,7 @@
 *   [Awesome .NET Performance (⭐2.8k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 *   [awesome-ddd (⭐9.2k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
-## [6. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Web Frameworks
 
@@ -72,7 +78,7 @@
 
 *   [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016)
 
-## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tools
 
@@ -82,19 +88,19 @@
 
 *   [aurelia-resize (⭐17)](https://github.com/MeirionHughes/aurelia-resize) \* aurelia plugin to observe DOM-element resize events
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Cocos Creator](http://cocos2d-x.org/products#creator) - Game editor for creating web and native games for Cocos2D-x.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 
-## [10. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
+## [11. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
 
 ### Keyboard Shortcuts / Compare Branches across Forked Repositories
 
@@ -104,13 +110,13 @@
 
 *   `-e` The next parameter is the pattern (e.g., regex)
 
-## [11. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [12. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Middlewares
 
 *   [Losant](https://losant.com) - Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.
 
-## [12. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [13. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Elements
 
@@ -121,13 +127,13 @@
 
 *   [tic-tac-choo (⭐6)](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 
-## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Articles / Hash functions
 
 *   [How to Generate Secure Random Numbers in Various Programming Languages](https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages).
 
-## [14. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [15. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -141,13 +147,13 @@
 
 *   [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
 
-## [15. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [16. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
 *   [CherryPy + Mako + Formish + OOOP boilerplate (⭐5)](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) Targets publishing of OpenERP content to the web.
 
-## [16. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [17. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Art & Design
 
@@ -158,7 +164,7 @@
 *   [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
 *   [WarriorJS (⭐8.8k)](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 
-## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [18. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
@@ -166,7 +172,7 @@
 *   Elixir: [postgrex (⭐961)](https://github.com/elixir-ecto/postgrex)
 *   Rust: [rust-postgresql (⭐2.7k)](https://github.com/sfackler/rust-postgres)
 
-## [18. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [19. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Task Runners
 
@@ -193,25 +199,25 @@
     *   You can't nest `pre` and `post` hooks (i.e. `preprescript` won't work).
 *   Running `npm test` is the same as running `npm run test`. The same applies to `npm start` and `npm stop`.
 
-## [19. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
+## [20. Awesome Chess](/content/hkirat/awesome-chess/week/README.md)
 
 ### Websites
 
 *   [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
 
-## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [21. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Chinese
 
 *   [Teahour](http://teahour.fm/) - A podcast hosted by [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) and [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
-## [21. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [22. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learn to Learn
 
 *   [Understanding Mathematics (⭐783)](https://github.com/nelson-brochado/understanding-math)
 
-## [22. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [23. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Low-Level Vision / Other Applications
 
@@ -230,7 +236,7 @@
 *   Human Gaze Estimation
     *   Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [\[Paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [\[Website\]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
 
-## [23. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### C / Syntax highlighting packages
 
@@ -240,7 +246,7 @@
 
 *   [fpgaboy (⭐83)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
-## [24. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [25. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -319,13 +325,13 @@
 *   [99% INVISIBLE](http://99percentinvisible.org/)
 *   [Adventures in Design](http://www.adventuresindesignmarket.com/)
 
-## [25. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [26. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)- Convert IDs on 15 characters to IDs on 18 characters.
 
-## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Ruby Clients
 
@@ -335,7 +341,7 @@
 
 *   [resty (⭐6.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Label / Barcode
 
@@ -345,7 +351,7 @@
 
 *   [Switch (⭐146)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Template Engine
 
@@ -356,7 +362,7 @@
 *   Spacemacs
     *   [crystal-spacemacs-layer (⭐12)](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -367,13 +373,13 @@
 *   [Limebean](https://nick-lucas.github.io/LimeBean/) - Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
 *   [SqlFu (⭐229)](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
 
-## [30. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [31. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
 *   [SwiftFuse](https://github.com/YugoCode/SwiftFuse/blob/master/README.md) - Tutorial on how to use Swift with Fuse.
 
-## [31. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [32. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
@@ -387,7 +393,7 @@
 
 *   [CAN Simulator (⭐57)](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board (⭐154)](https://github.com/carloop/simulator)
 
-## [32. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [33. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Educational / Graphs and Visualization
 
@@ -397,7 +403,7 @@
 
 *   [Farm Hack](http://farmhack.org/tools) - A project for producing open farm tools.
 
-## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Germany 🇩🇪 / Hamburg
 
@@ -424,13 +430,13 @@ Webpage: <http://www.deysbreeker.nl/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------- |
 | ✔    | ✔     | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM |
 
-## [34. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [35. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 
-## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (Other)
 
@@ -452,7 +458,7 @@ Webpage: <http://www.deysbreeker.nl/>
 
 *   [Periodic Table of Network Centrality](http://schochastics.net/sna/periodic.html) - Interactive periodic table of centrality indices.
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
@@ -475,13 +481,13 @@ Webpage: <http://www.deysbreeker.nl/>
 
 *   [silent\_video (⭐12)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
 *   [CImg](http://cimg.eu/) - A small, open source, C++ toolkit for image processing. \[Own LGPL or GPL]
 
-## [38. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [39. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Videos / OpenOffice
 

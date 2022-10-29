@@ -1,30 +1,41 @@
 # Awesome List Updates on Aug 20, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Native Apps (open source)
+
+*   [OpenTripPlanner Android (⭐128)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
+*   [OpenTripPlanner iOS (⭐65)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
+
+### Native Apps (closed source)
+
+*   [Moovit](http://moovitapp.com/)
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Articles
 
 *   [C++Now 2015 Presentations (⭐204)](https://github.com/boostcon/cppnow_presentations_2015) - Presentation materials presented at C++Now 2015.
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Logging
 
 *   [rollbax (⭐242)](https://github.com/elixir-addicts/rollbax) - Exception tracking and logging to [Rollbar](https://rollbar.com/).
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Tours And Guides / Runner
 
 *   [focusable (⭐1.1k)](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
 
-## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Profilers
 
@@ -39,13 +50,13 @@
 
 *   [DCEVM](http://dcevm.github.io) - Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Compilers, Transpilers and Languages
 
 *   [ClojureCLR (⭐1.4k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
 
-## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Developer Utilities
 

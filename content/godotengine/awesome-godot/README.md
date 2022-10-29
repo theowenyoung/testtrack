@@ -8,6 +8,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 
 
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### Websites / Godot version unknown
+
+*   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
+
 ## [Oct 14, 2022](/content/2022/10/14/README.md)
 
 ### Templates / Godot 3.5+
@@ -319,10 +325,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [Shell Fur (⭐222)](https://github.com/Arnklit/ShellFurGodot) - 3D fur node for Godot.
 
-### Websites / Godot version unknown
-
-*   [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
-
 ## [Feb 21, 2021](/content/2021/02/21/README.md)
 
 ### Plugins and scripts / Various Godot versions
@@ -581,7 +583,6 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Godot-Trail-System (⭐266)](https://github.com/OBKF/Godot-Trail-System) - Advanced 2D/3D trail system.
 *   [Level of Detail (LOD) (⭐183)](https://github.com/Calinou/godot-lod) - Level of detail add-on for meshes, lights and particles. Can improve performance in large scenes.
 *   [MDFramework (⭐69)](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-*   [Mitigate-IK (⭐3)](https://github.com/Kylogias/godot-mitigate-ik) - Mitigates the scaling effects of SkeletonIK.
 *   [NI mate Motion Capture (⭐28)](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
 *   [Qodot (⭐768)](https://github.com/Shfty/qodot-plugin) - Quake `.map` file support for Godot. Lets you use [TrenchBroom](https://kristianduske.com/trenchbroom/) for level design.
 *   [UI Design Tool (⭐237)](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.

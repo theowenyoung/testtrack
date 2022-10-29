@@ -71,6 +71,7 @@
 *   [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 
 ## [9. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+
 ### [github.expandinizr (⭐129)](https://github.com/thecodejunkie/github.expandinizr) <a href="https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
@@ -1039,7 +1040,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142\&hl=en\&as_sdt=0,44)].
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [Bridging Levels of Analysis for Probabilistic Models of Cognition](https://cocosci.princeton.edu/tom/papers/LabPublications/BridgingLevelsAnalysis.pdf) - ***Current Directions in Psychological Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=5063382112136991296\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on probabilistic models.
 *   [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on computational social science.

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09 - Sep 15, 2019
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -366,13 +366,36 @@
 
 *   [Scaling Postgres](https://www.scalingpostgres.com/) - Postgres video blog series by Creston Jamison
 
-## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Courses
+
+*   [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
+*   [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
+*   [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
+*   [Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/) **UCBerkeley**
+
+### Books
+
+*   [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  :dollar:
+*   [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
+
+### Companies
+
+*   [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
+
+### Related awesome lists
+
+*   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
+*   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
+
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
 *   [swatteau/sokoban-rs (⭐134)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
-## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [38. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### General Purpose
 
@@ -383,13 +406,13 @@
     [Repo (⭐1.1k)](https://github.com/Spiderpig86/Cirrus)
     \| #CSS
 
-## [38. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [39. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Configuration
 
 *   [Dhall (⭐828)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
@@ -399,7 +422,7 @@
 
 *   [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
 
-## [40. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [41. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -410,19 +433,19 @@
 *   [Joe Sandbox (Community)](https://www.joesandbox.com/) - Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities; providing comprehensive and detailed analysis reports.
 *   [Valkyrie Comodo](https://valkyrie.comodo.com) - Valkyrie uses run-time behavior and hundreds of features from a file to perform analysis.
 
-## [41. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [42. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Video
 
 *   [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
-## [42. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Books / Videos
 
 *   [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
-## [43. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [44. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Lab Data (Synthetic Measurements)
 
@@ -508,7 +531,7 @@
 
 *   [Docs - `window.load`](https://developer.mozilla.org/en-US/docs/Web/Events/load)
 
-## [44. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [45. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / TensorFlow
 
@@ -555,7 +578,7 @@
 
 *   [PennyLane (⭐1.6k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -569,7 +592,7 @@
 
 *   [juCi++](https://gitlab.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. \[MIT]
 
-## [46. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [47. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -580,7 +603,7 @@
 *   [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
 *   [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 
-## [47. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [48. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 21 - Jun 27, 2021
 
-56 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -205,7 +205,13 @@
 
 *   [NEETS (Navy Electricity and Electronics Training Series)](https://maritime.org/doc/#neets) ([alternative link](https://github.com/thinkitdata/neets/tree/master/modules))- U.S. Navy Non-Resident Training Course Material.
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Cryptor (⭐30)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
+
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - XMPP - Servers
 
@@ -223,7 +229,7 @@
 
 *   [Awesome Sysadmin (⭐15k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
@@ -231,26 +237,26 @@
     *   [nukesor/comfy-table (⭐479)](https://github.com/nukesor/comfy-table) \[[comfy-table](https://crates.io/crates/comfy-table)] — Beautiful dynamic tables for your cli tools. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
     *   [zhiburt/tabled (⭐1.2k)](https://github.com/zhiburt/tabled) \[[tabled](https://crates.io/crates/tabled)] — An easy to use library for pretty print tables of Rust structs and enums.  [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 
-## [26. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Marketing / Angular
 
 *   [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 
-## [27. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
+## [28. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/week/README.md)
 
 ### Lower Elementary
 
 *   [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website.
 *   [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age) - more graphics to learn Python type of code. ( Not-free for advanced levels )
 
-## [28. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [29. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [Sea\_battle (⭐0)](https://github.com/MAE664128/sea_battle) - A simple example of a sea battle game. Rust + Yew.
 
-## [29. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Transportation
 
@@ -266,7 +272,7 @@
 
 
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -276,7 +282,7 @@
 
 *   [Eagle App](https://en.eagle.cool/) - Simple and intuitive file manager with tag and annotaion for all your design files. Supports all major source, image, RAW, video, 3D, audio, font, and office files.
 
-## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
@@ -286,19 +292,19 @@
 
 *   [SSD1320](https://crates.io/crates/ssd1320) - SPI - Graphical OLED display controller - ![crates.io](https://img.shields.io/crates/v/ssd1320.svg)
 
-## [32. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [33. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
 *   [Tox](https://tox.chat)  The goal of this project is to create a configuration free p2p skype replacement.
 
-## [33. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [34. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Theoretical Computer Science
 
 *   [Oracle](https://en.wikipedia.org/wiki/Oracle_machine) - A black box that magically gives answers even to undeciable questions like the halting problem.
 
-## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [35. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
@@ -314,14 +320,14 @@
     *   [by @yusufcakal (⭐22)](https://github.com/yusufcakal/algorithms)
     *   [by @FarheenB (⭐128)](https://github.com/FarheenB/Data-Structures-and-Algorithms)
 
-## [35. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [36. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [WAIL (⭐289)](https://github.com/machawk1/wail) - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron (⭐107)](https://github.com/n0tan3rd/wail). *(Stable)*
 *   [Warcprox (⭐318)](https://github.com/internetarchive/warcprox) - WARC-writing MITM HTTP/S proxy. *(Stable)*
 
-## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -335,38 +341,48 @@
 
 *   [OpenRGB](https://openrgb.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software.
 
-## [37. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+## [38. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
 
 ### IDE Plugins
 
 *   [Jetbrains / PHPStorm Silverstripe Template Language Support](https://plugins.jetbrains.com/plugin/17014-silverstripe-template-language-support) - Syntax highlighting for Silverstripe template files.
 
-## [38. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Books / Visualization Tools
 
 *   [Effective Data Science Infrastructure](https://www.manning.com/books/effective-data-science-infrastructure)
 
-## [39. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [40. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
 *   [Beating Burnout: A Guide For Supporting Mental Health At Work](https://almanac.io/docs/beating-burnout-a-guide-for-supporting-mental-health-at-work-yDLKVF3uJtMdshcZG37HP7OHpAczogYX) - By Almanac Core.
 *   [How To Prevent Or Recover From Developer Burnout](https://www.actitime.com/productivity/how-to-prevent-burnout) - By Anastasia.
 
-## [40. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [41. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [TLA Black Women In Tech](https://theblackwomenintech.com/) - Not-for-profit organisation dedicated to building bridges of opportunities in tech by enabling black female talents to excel and companies to have access to black women of talent.
 
-## [41. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [42. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### PHP
 
 *   [Assert true (⭐19)](https://github.com/joubertredrat/assert-true) - A lot of ways to you set your assert as true.
 
-## [42. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [43. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### validation
+
+*   [gjf (⭐90)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+
+### serialization
+
+*   [geojson-serializer (⭐5)](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
+
+## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -376,13 +392,13 @@
 
 *   📟 [new-tailwind-app (⭐234)](https://github.com/msaaddev/new-tailwind-app) - Creates React.js, Next.js, Gatsby.js, Vue3, Laravel, and basic Tailwind CSS apps.
 
-## [43. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
 
-## [44. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [46. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / OAuth2 & OpenID
 
@@ -392,13 +408,13 @@
 
 *   [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
-## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [47. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [Vortice.Vulkan (⭐171)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -445,13 +461,13 @@
 
 *   [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.
 
-## [47. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [49. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-interpolate-path (⭐289)](https://github.com/pbeshai/d3-interpolate-path) - Interpolates paths with different number of points
 
-## [48. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [50. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
@@ -462,7 +478,7 @@
 *   [Ganimede (⭐2)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
 *   [Voila (⭐4.4k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
 
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -471,7 +487,7 @@
 *   \#clschool on Libera Chat - IRC channel for learning Common Lisp.
 *   \#lispcafe on Libera Chat - IRC channel for off-topic discussions.
 
-## [50. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [52. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Network Statistics
 
@@ -489,19 +505,19 @@
 
 *   [Reddit Golem Stat Bot (⭐3)](https://github.com/figurestudios/golem-stat-bot) - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.
 
-## [51. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [53. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Docker
 
 *   [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
 
-## [52. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [54. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Quick Start
 
 *   [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
 
-## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -528,19 +544,19 @@
 
 *   [vue-tweet (⭐23)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
-## [54. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [56. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [SCIM for keycloak (⭐108)](https://github.com/Captain-P-Goldfish/scim-for-keycloak)
 
-## [55. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [57. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Performance
 
 *   [Sodium (for Fabric) (⭐3.7k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
-## [56. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [58. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Transportation
 

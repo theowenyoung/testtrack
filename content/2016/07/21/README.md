@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 21, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,38 +18,44 @@
 
 *   [imqtt (⭐21)](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython.
 
-## [3. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [3. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### resources
+
+*   [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html): a review of the concepts behind the specification in a more narrative format.
+
+## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Websites
 
 *   [How to monitor Hadoop metrics](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)
 
-## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   [Vulkan Quake port based on QuakeSpasm (⭐1.4k)](https://github.com/Novum/vkQuake).
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / String
 
 *   [rtrim (⭐0)](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 
-## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Mobile Applications
 
 *   **Bindings**:
     *   [Cordova plugins (⭐25)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
 *   [fast\_irc.cr (⭐20)](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
 
-## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Tutorials
 
@@ -63,7 +69,7 @@
 
 *   [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 
-## [9. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### General
 

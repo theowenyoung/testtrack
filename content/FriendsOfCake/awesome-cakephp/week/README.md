@@ -10,6 +10,10 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Demo
+
+*   [Fluentd + Grafana Loki demo application (⭐0)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
+
 ### CakePHP Tutorials
 
 *   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)

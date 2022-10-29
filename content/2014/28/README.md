@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14 - Jul 20, 2014
 
-18 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1106,7 +1106,13 @@
 
 *   [bash2048 (⭐849)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
-## [18. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [18. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Placeholder
+
+*   [placekitten](http://placekitten.com/)
+
+## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### E-commerce
 

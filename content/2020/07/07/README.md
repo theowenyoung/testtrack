@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [HostLaunch](https://hostlaunch.io) - Launch a hosting company based on DigitalOcean and ServerPilot.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Libraries / C++
+
+*   [just\_gtfs (⭐13)](https://github.com/mapsme/just_gtfs) - C++17 header-only library for reading and writing GTFS (used in [MAPS.ME (⭐4.5k)](https://github.com/mapsme/omim)). Main features: fast reading and writing of GTFS feeds, support for [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types), simple working with GTFS Date and Time formats.
+
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Weather
 
@@ -34,7 +40,7 @@
 
 
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [5. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Official Resources
 
@@ -216,31 +222,32 @@
 *   [Vim-Terraform-Completion (⭐323)](https://github.com/juliosueiras/vim-terraform-completion)
 *   [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [dmm (⭐58)](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
 *   [Sarus TF2 Models (⭐39)](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
 
-## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Blogposts and opinions
 
 *   [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
 
-## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### CMS
 
 *   [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 
-## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [minci (⭐24)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
@@ -251,7 +258,7 @@
 
 
 
-## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [11. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Audio
 
@@ -266,13 +273,13 @@
 *   [FontIconEditor (⭐50)](https://github.com/lminuti/FontIconEditor). `[Delphi]` Simple component editor that allow you to add icons to a TImageList from a font. You can use any font you want.
 *   [IconFontsImageList (⭐185)](https://github.com/EtheaDev/IconFontsImageList). `[Delphi]` Extended ImageList for Delphi (VCL & FMX) to simple use and manage Icon Fonts (with GDI+ support)
 
-## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
 *   [Kigs framework (⭐69)](https://github.com/Kigs-framework/kigs) - A free and open source C++ modular multi-purpose cross platform RAD framework. \[MIT] [website](https://kigs-framework.org/)
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Libraries / Integrations
 
@@ -282,7 +289,7 @@
 
 *   [Web Components Codemods (⭐6)](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
@@ -305,7 +312,7 @@
 
 *   [FDBarGauge (⭐25)](https://github.com/fulldecent/FDBarGauge) - Simulate the level indicator on an audio mixing board
 
-## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Project setup / Collection View Layout
 

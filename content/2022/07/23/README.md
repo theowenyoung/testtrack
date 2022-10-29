@@ -212,7 +212,7 @@
 
 *   [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***MIT Press***, 1982. \[[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142\&hl=en\&as_sdt=0,44)].
 
-### Meta-Level Considerations / Marr Levels of Analysis
+### Meta-Level Considerations / Marr's Levels of Analysis
 
 *   [Bridging Levels of Analysis for Probabilistic Models of Cognition](https://cocosci.princeton.edu/tom/papers/LabPublications/BridgingLevelsAnalysis.pdf) - ***Current Directions in Psychological Science***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=5063382112136991296\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on probabilistic models.
 *   [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844\&hl=en\&as_sdt=0,5)]. A Marr's paradigm account on computational social science.

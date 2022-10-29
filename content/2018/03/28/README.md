@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28, 2018
 
-11 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,44 +23,50 @@
 *   [quinedb (⭐572)](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
 *   [πfs (⭐6k)](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
 
-## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / M individuals
+
+*   Mark Seaborn <http://lackingrhoticity.blogspot.de/>
+
+## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
 *   [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
 
-## [4. Citizen Science](/content/dylanrees/citizen-science/README.md)
+## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 
 ### Publishing and Doing Research / Other
 
 *   [SciHub](https://sci-hub.tw/) - Another site for gaining access to science papers that are normally behind paywalls.
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Stream
 
 *   [syncthrough (⭐77)](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 
-## [6. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [7. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Awesome Posts
 
 *   [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
 
-## [7. Guides](/content/NARKOZ/guides/README.md)
+## [8. Guides](/content/NARKOZ/guides/README.md)
 
 ### Other / Security
 
 *   [Security Principles](https://infosec.mozilla.org/fundamentals/security_principles.html)
 *   [Web Security Guidelines](https://infosec.mozilla.org/guidelines/web_security)
 
-## [8. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [9. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Plugins and addons
 
 *   [choo-persist (⭐44)](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with LocalStorage.
 
-## [9. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [10. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Reading Material
 
@@ -76,18 +82,24 @@
         *   [Coin & Crypto](https://medium.com/@coinandcrypto)
         *   [Daniel Jeffries](https://hackernoon.com/@dan.jeffries)
 
-## [10. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### C#, ASP .NET and .NET Core / More
 
 *   [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 *   [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - Provides extensions to the IDE that will speed up your development workflow.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vue-lodash (⭐103)](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
+
+## [13. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Code
+
+*   [XRP Text](https://xrptext.com): Send XRP using SMS Text messages (even on dumbphones)
 
 ---
 

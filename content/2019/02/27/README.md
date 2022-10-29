@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 27, 2019
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -310,7 +310,13 @@
 
 *   [HockeyApp (⭐2)](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [16. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Diki Ananta (⭐1)](https://github.com/dikiaap/ama) - Freelance full-stack developer working with Laravel.
+
+## [17. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Personality
 
@@ -326,13 +332,13 @@
 
 
 
-## [17. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools
 
 *   [ParaText (⭐1.1k)](https://github.com/wiseio/paratext) - CSV parsing at 2.5 GB per second.
 
-## [18. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [19. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Blogs
 

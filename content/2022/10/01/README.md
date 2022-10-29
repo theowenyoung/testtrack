@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,13 +50,28 @@
 
 *   [mfussenegger/nvim-jdtls (⭐436)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+
+### Party
+
+### [Ayoayo](https://en.wikipedia.org/wiki/Ayoayo)
+
+> Ayoayo (Yoruba: Ayò Ọlọ́pọ́n) is a traditional mancala played by the Yoruba people in Nigeria. It is very close to the Oware game that spread to the Americas with the atlantic slave trade. Among modern mancalas, which are most often derived from Warri, the Kalah is a notable one that has essentially the same rules as Ayoayo.
+> There are games with identical rules also in other areas of Africa. One such game is the Endodoi, played by the Maasai people of Kenya and Tanzania.
+
+![Ayoayo image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Ayo_%28Olopon%29_game.jpg/180px-The_Ayo_%28Olopon%29_game.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |        8 | 15-30m |
+
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [communism (⭐1)](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Courses
 
@@ -66,7 +81,7 @@
 
 *   [fork-handles/tuples4k (⭐133)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
-## [6. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [7. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
 ### Android / Sistemas Operativos
 
@@ -76,14 +91,14 @@
 
 *   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
 
-## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [FirelordJS (⭐31)](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version (⭐18)](https://github.com/tylim88/Firelord))
 *   🔧 [FireSword (⭐0)](https://github.com/tylim88/FireSword) - Filter Firestore and RTDB unknown keys or keys with incorrect data types recursively, support all field values and special data types. (For web and admin)
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Devops
 
@@ -163,7 +178,7 @@
 
 *   [carbon-now-cli (⭐5.4k)](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 
-## [9. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### Info / How To Read a Paper
 

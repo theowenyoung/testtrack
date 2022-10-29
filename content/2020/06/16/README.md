@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 16, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,7 +61,13 @@
 
 *   [pyglet (⭐1.3k)](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 
-## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Other multimodal data formats / Ruby
+
+*   [OMX: The Open Matrix data file format (⭐40)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
+
+## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Monitoring / Tools and web interfaces
 
@@ -71,7 +77,7 @@
 
 *   [Apache](http://httpd.apache.org/) - A robust, commercial-grade, featureful implementation of an HTTP (Web) server.
 
-## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
+## [11. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
 ### Papers and Articles
 
@@ -87,7 +93,7 @@
 *   [2017: Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 *   [2016: Natural Language Generation enhances human decision-making with uncertain information](https://arxiv.org/pdf/1606.03254.pdf)
 
-## [11. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
+## [12. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
 ### Navigation libraries / Official resources
 
@@ -96,7 +102,7 @@
 *   [react-key-navigation (⭐70)](https://github.com/dead/react-key-navigation) - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
 *   [react-spatial-navigation (⭐219)](https://github.com/NoriginMedia/react-spatial-navigation) - HOC-based Spatial Navigation (key navigation) solution for React.
 
-## [12. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Utilities
 

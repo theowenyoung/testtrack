@@ -619,7 +619,6 @@
 *   [watch (⭐3)](https://github.com/enrico9034/zsh-watch-plugin) - Easily prefix your current or previous commands with watch by pressing `CTRL + W`.
 *   [watson.zsh (⭐3)](https://github.com/bcho/Watson.zsh) - A plugin for the [watson (⭐2.1k)](https://github.com/TailorDev/Watson) time management system.
 *   [wd (⭐644)](https://github.com/mfaerevaag/wd) - Warp directory lets you jump to custom directories in ZSH, without using `cd`. Why? Because `cd` seems inefficient when the folder is frequently visited or has a long path.
-*   [wdnote (⭐0)](https://github.com/Vesdii/zsh-wdnote) - Prints the contents of a `.wdnote` file if present when changing to a new directory.
 *   [web-search (sinetoami) (⭐2)](https://github.com/sinetoami/web-search) - Add commands to run bing, google, yahoo, & duckduckgo searches directly from the CLI.
 *   [web-search (yabanahano) (⭐0)](https://github.com/Yabanahano/web-search) - Adds aliases for searching with Google, Wiki, Bing, YouTube and other popular services.
 *   [window-title (⭐12)](https://github.com/olets/zsh-window-title) - Adds informative tiles to your terminal windows.
@@ -1575,6 +1574,7 @@
 *   [stew (⭐107)](https://github.com/marwanhawari/stew) - An independent package manager for compiled binaries.
 
 ## [10. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [Vela](https://go-vela.github.io/docs/)
 
   Description: Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang.

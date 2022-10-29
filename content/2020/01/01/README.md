@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,29 @@
 
 
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   CloudBees <https://www.previous.cloudbees.com/blog>
+
+### Companies / E companies
+
+*   Expedia <https://medium.com/expedia-group-tech>
+
+### Companies / M companies
+
+*   Mixmax <https://engineering.mixmax.com/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nic Raboy <https://www.thepolyglotdeveloper.com/blog/>
+
+### Products/Technologies / R technologies
+
+*   React <https://reactjs.org/blog/>
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
@@ -70,7 +92,7 @@
 
 *   [Microsoft Visual Studio Code](https://code.visualstudio.com/) :zap: - An open-source IDE from Microsoft. \[MIT]
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Route 53
 

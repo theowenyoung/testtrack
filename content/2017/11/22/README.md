@@ -1,12 +1,24 @@
 # Awesome List Updates on Nov 22, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [1. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### North America / United States of America 🇺🇸
+
+### Chicago
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KarlLHughes" height="70px" width="70px" align="left" />
+
+**Karl Hughes**\
+Topics: Microservices, PHP, JavaScript, Docker\
+<https://twitter.com/KarlLHughes>
+
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Misc
 
@@ -16,7 +28,7 @@
 
 *   [VueFlux (⭐324)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
@@ -26,13 +38,13 @@
 
 *   [lucky (⭐2.3k)](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Mathematics
 
 *   [AutoDiff (⭐72)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -42,13 +54,13 @@
 
 *   [Coypu (⭐103)](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 
-## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Components
 
 *   [Preact Fluid (⭐178)](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
 
-## [6. Bots](/content/hackerkid/bots/README.md)
+## [7. Bots](/content/hackerkid/bots/README.md)
 
 ### General
 

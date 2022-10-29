@@ -1,18 +1,56 @@
 # Awesome List Updates on Nov 22, 2020
 
-7 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [1. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Other Sciences
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/biological_sciences.webp">
+
+[**Biological Sciences**](https://discord.com/invite/QwSdffq) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#biology`, `#questions`, `#resources`, `#molecular-biology`, `#microbiology`, `#anatomy-and-physiology`, `#bioengineering`, `#bioinformatics`, `#ecology`, `#medical-sciences` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/chemistry.webp">
+
+[**Chemistry**](https://discord.com/invite/eexdsFw) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#highschool-chemistry`, `#general-chemistry`, `#introductory-organic`, `#tech`, `#laboratory`, `#physical-chemistry`, `#inorganic-chemistry`, `#organic-chemistry`, `#biochemistry` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/climate_science.webp">
+
+[**Climate Science**](https://discord.com/invite/YXvuN8X) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.discordnetwork.com/) \
+Notable Channels: `#general`, `#climate-questions`, `#resources`, `#climate-activism`, `#environmental-science`, `#environmental-policy` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/homework_help.webp">
+
+[**Homework Help**](https://discord.com/invite/YudDZtb) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](http://homework-help.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/spjy/hwh-bot) \
+Notable Channels: `#challenges`, `#math`, `#post-calculus` `#biology`, `#chemistry`, `#physics`, `#english`, `#social-science`, `#history`, `#computer-science`, `#studio-art`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/science_and_technology.webp">
+
+[**Science and Technology**](https://discord.com/invite/science) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/SciTechCommunity) \
+Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
+Language: English
+
+[<img align="right" width="16" height="16" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/up_arrow.png" alt="Back to top">](#contents)
+
+Discussions on bare-bones circuit boards, microprocessors, and bleeding edge hardware.
+
+## [2. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Online crypto challenges / Post-quantum cryptography
 
 *   [CryptoHack](https://cryptohack.org/)
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -42,7 +80,7 @@
 
 
 
-## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [4. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Javascript
 
@@ -56,7 +94,7 @@
 
 *   [WebDriver](http://www.w3.org/TR/webdriver/) - This specification defines the WebDriver API, a platform and language-neutral interface and associated wire protocol that allows programs or scripts to introspect into, and control the behavior of, a web browser.
 
-## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Data Structures
 
@@ -75,19 +113,25 @@
 
 *   [Google HTTP Client (⭐1.3k)](https://github.com/googleapis/google-http-java-client) - Pluggable HTTP transport abstraction with support for java.net.HttpURLConnection, Apache HTTP Client, Android, Google App Engine, XML, Gson, Jackson and Protobuf.
 
-## [5. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Machine Learning
 
 *   [nnstreamer-ros (⭐14)](https://github.com/nnstreamer/nnstreamer-ros) - A set of Gstreamer plugins and ROS examples that allow Gstreamer developers to adopt neural network models easily and efficiently and neural network developers to manage neural network pipelines and their filters easily and efficiently.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Alternative.me - <https://alternative.me/>
+
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
 *   [Phala-Network/phala-blockchain (⭐297)](https://github.com/Phala-Network/phala-blockchain) — Confidential smart contract blockchain based on Intel SGX and Substrate
 
-## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [9. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Topic Areas / Uncategorized
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 25, 2016
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,13 +20,20 @@
 
 *   [fecha (⭐2k)](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 
-## [3. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / B individuals
+
+*   Bjørn Johansen <https://bjornjohansen.no/>
+*   Bryan Cantrill <http://dtrace.org/blogs/bmc/>
+
+## [4. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
 *   [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 
-## [4. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
+## [5. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
 ### Date and Time
 

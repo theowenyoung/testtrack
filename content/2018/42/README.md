@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15 - Oct 21, 2018
 
-63 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -15,25 +15,31 @@
     R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community.
 *   [R-Ladies São Paulo - Brazil](https://www.meetup.com/R-Ladies-Sao-Paulo)- *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">)
 
-## [2. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [2. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [CY Lim (⭐0)](https://github.com/cylim/ama) - Full-stack JavaScript digital nomad.
+
+## [3. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Books / Algorithms and Data structures
 
 *   [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 
-## [3. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Books / Graph Based approach
 
 *   [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combine graph theory and models to improve machine learning projects
 
-## [4. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [5. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Tools / PGFPlots
 
 *   [itikz (⭐55)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
 
-## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Disassemblers and debuggers
 
@@ -101,7 +107,7 @@
 *   [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
 *   [BinText](https://web.archive.org/web/http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers.
 
-## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Programming Tools / Others
 
@@ -112,13 +118,13 @@
 
 *   [Mailinator](https://www.mailinator.com/) - Disposable email service.
 
-## [7. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [8. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
 *   [ngx-recursive-form (⭐37)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
@@ -128,20 +134,20 @@
 
 *   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
-## [9. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Foundations of Mathematics / Category Theory
 
 *   [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) - Jiri Adamek, Horst Herrlich, George Strecker
 *   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/\~dspivak/teaching/sp18/7Sketches.pdf) - Brendan Fong and David I. Spivak (MIT)
 
-## [10. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Community
 
 *   [Telegram chat (ru-RU)](https://t.me/rudart)
 
-## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [12. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -156,7 +162,7 @@
 *   [Drebin](https://www.sec.cs.tu-bs.de/\~danarp/drebin/)
 *   ~~[Admire](http://admire.necst.it/)~~
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Machine Learning / Runner
 
@@ -166,7 +172,7 @@
 
 *   [You Don't Know JS (⭐160k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -180,7 +186,7 @@
 
 *   [Total Spaces](http://totalspaces.binaryage.com/) - Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.
 
-## [14. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [15. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### Official resources
 
@@ -188,26 +194,26 @@
 *   [community.plone.org](https://community.plone.org/) - Official community forum, the best place to get help.
 *   [training.plone.org](https://training.plone.org/) - Training classes for developers/integrators/users/designers.
 
-## [15. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [16. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [tf-encrypted (⭐0)](https://github.com/mortendahl/tf-encrypted) - Layer on top of TensorFlow for doing machine learning on encrypted data
 
-## [16. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [17. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Tutorials
 
 *   [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Building smart contracts with Metamask and Remix IDE.
 *   [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
 
-## [17. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Serialization / Scala
 
 *   [FST (⭐1.5k)](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
 
-## [18. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+## [19. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
 
 ### Food-related projects
 
@@ -222,7 +228,7 @@
 *   [1337-Noms-The-Hacker-Cookbook (⭐214)](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) - The goal of this repo is to collect recipes for an eclectic mix of dishes from around the hacker community.
 *   [Vegan-chocolate-seduction-cookbook (⭐0)](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) - Several great vegan chocolate recipes.
 
-## [19. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [20. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
@@ -232,13 +238,13 @@
 
 *   [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
 
-## [20. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [21. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### IDE
 
 *   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 
-## [21. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [22. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Tutorials
 
@@ -282,14 +288,14 @@
 
 *   [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) - Great talk by Kasey Uhlenhuth at NDC Oslo 2018 covering Roslyn essentials and APIs and tools for building code analyzers and fixes.
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Capturing Browser Errors and Logs in Android Web/Hybrid Apps](https://appiumpro.com/editions/38)
 *   [Early-Stage AI for Appium Test Automation](https://appiumpro.com/editions/39)
 
-## [23. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [24. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
@@ -304,7 +310,76 @@
 
 *   [Making a Lunar Lander in JavaScript](http://students.cs.ucl.ac.uk/schoolslab/projects/HT5) - A 5 lesson tutorial that explain how to make a Lunar Lander game in JavaScript.
 
-## [24. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [25. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+
+### Europe / Netherlands 🇳🇱
+
+### Breda
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/detonite" height="70px" width="70px" align="left" alt="" />
+
+**Job van Achterberg**\
+Topics: Accessibility\
+<https://twitter.com/detonite/>
+
+### North America / Canada 🇨🇦
+
+### Kingston
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/svinkle" height="70px" width="70px" align="left" alt="">
+
+**Scott Vinkle**\
+Topics: Accessibility\
+<https://twitter.com/svinkle>
+
+### North America / United States of America 🇺🇸
+
+### Buffalo
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aardrian" height="70px" width="70px" align="left" alt="" />
+
+**Adrian Roselli**\
+Topics: Accessibility\
+<https://twitter.com/aardrian>
+### Chapel Hill
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shepazu" height="70px" width="70px" align="left" />
+
+**Doug Schepers**\
+Topics: Data visualization, Accessibility, SVG\
+<https://twitter.com/shepazu>
+### Madison
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cariefisher" height="70px" width="70px" align="left" alt="" />
+
+**Carie Fisher**\
+Topics: Accessibility\
+<https://twitter.com/cariefisher>
+### Redwood City
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
+
+**Jesse Beach**\
+Topics: Accessibility, React\
+<https://twitter.com/jessebeach>
+
+### South America / Argentina 🇦🇷
+
+### Seattle
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/DevWithTheHair" height="70px" width="70px" align="left" alt="" />
+
+**Jaime Lopez**\
+Topics: iOS, Swift, Software Architecture, Development Processes\
+<https://twitter.com/DevWithTheHair>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ShellELittle" height="70px" width="70px" align="left" alt="" />
+
+**Shell Little**\
+Topics: Accessibility\
+<https://twitter.com/ShellELittle>
+
+## [26. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Academic Papers
 
@@ -328,19 +403,45 @@
 *   [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 *   [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 
-## [25. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [Peartree (⭐144)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
+*   [transitr (⭐18)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
+
+## [28. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Software Development
+
+*   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** \[50:42]
+
+### Test-Driven Development
+
+*   [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) by **Martin Fowler, Kent Beck, and David Heinemeier Hansson (DHH)**
+
+## [29. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks
 
 *   [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
 
-## [26. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [30. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+
+### Intermediate
+
+#### [1 Million Women To Tech Summer of Code (⭐627)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+
+**Free** programming course material for beginner, intermediate and advanced levels\
+*(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
+
+## [31. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Linters / More
 
 *   [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
 
-## [27. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [32. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### IDE and Editor Support
 
@@ -350,7 +451,7 @@
 
 *   [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen and Baruch Sadogursky discuss news and insight from the Groovy ecosystem.
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
@@ -364,7 +465,7 @@
 
 *   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐32)](https://github.com/mamantoha/shards-info)
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -378,7 +479,7 @@
 
 *   [YAS (⭐576)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Broccoli read
 
@@ -400,7 +501,7 @@
 
 *   [The case against async relationships in Ember Data](https://embermap.com/notes/83-the-case-against-async-relationships)
 
-## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Phone Number Research / Telegram
 
@@ -411,7 +512,7 @@
 *   [Photon (⭐9.1k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 *   [Zen (⭐430)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
-## [32. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [37. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Web Frameworks
 
@@ -421,13 +522,13 @@
 
 *   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / ORM
 
 *   [DBFlow (⭐4.9k)](https://github.com/agrosner/DBFlow) - Fast and powerful ORM with compile-time annotation processing.
 
-## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Web Programming • Libraries
 
@@ -437,13 +538,13 @@
 
 *   [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
 *   [react-native-segment-control ★7 (⭐21)](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 
-## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -454,13 +555,13 @@
 *   [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) for visualizing geospatial data with static maps and [leaflet](https://rstudio.github.io/leaflet/) for interactive maps
 *   [tm](https://www.rdocumentation.org/packages/tm/) and [quanteda](https://quanteda.io/) are the main packages for managing,  analyzing, and visualizing textual data.
 
-## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [lambda-refarch-iotbackend :fire::fire: (⭐250)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
 
-## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [43. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -470,7 +571,7 @@
     *   [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
     *   [Jupyter Notebooks (⭐23k)](https://github.com/fastai/fastai/tree/master/courses/ml1)
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -485,7 +586,7 @@
 
 *   [Calendar Widget (⭐211)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
-## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI
 
@@ -510,20 +611,20 @@
 
 *   [bucket4j (⭐1.6k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
-## [41. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   [Home Assistant (⭐4.1k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
-## [42. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Resources for Web Publishers
 
 *   [Stanford Libraries' Archivability pages](https://library.stanford.edu/projects/web-archiving/archivability)
 *   The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
-## [43. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [48. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Framework
 
@@ -533,19 +634,19 @@
 
 *   [XamarinControls ★17 (⭐104)](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 
-## [44. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [49. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### GUI-based Applications / Package management and creation tools
 
 *   [Yay (⭐8.4k)](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
 
-## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [50. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [Urteile & Gesetze (⭐17)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
-## [46. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### RESTful API
 
@@ -583,19 +684,19 @@
 
 *   [Calva (VSCode) (⭐1.2k)](https://github.com/BetterThanTomorrow/calva)
 
-## [47. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [52. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [S3 Deploy (⭐58)](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
 
-## [48. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [53. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Laurie Voss: **npm and the Future of JavaScript**](https://www.youtube.com/watch?v=Qa4dxW-Qi2s) \[55:00]
 
-## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -612,7 +713,7 @@
 *   [Bullseye (⭐677)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 *   [dotnet-env (⭐289)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -632,7 +733,7 @@
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
 *   [vue-page-guide (⭐49)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
-## [51. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [56. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Systems / Subtypes of QA
 
@@ -655,7 +756,7 @@
     *   A dataset of short paragraphs and multi-sentence questions
     *   Paper: <http://cogcomp.org/page/publication_view/833>
 
-## [52. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [57. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Examples / Aurelia + Electron Examples
 
@@ -663,13 +764,13 @@
 *   [AureliaElectronHappiness (⭐7)](https://github.com/seesharper/AureliaElectronHappiness) \* Sample application that shows how to combine TypeScript, VSCode and Electron.
 *   [electron-aurelia-example (⭐36)](https://github.com/jimschubert/electron-aurelia-example) \* An example desktop application written with Electron and Aurelia.
 
-## [53. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [58. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [JustRemote](https://justremote.co)
 
-## [54. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [59. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -1081,7 +1182,7 @@
 *   [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 *   [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 
-## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Business
 
@@ -1340,7 +1441,7 @@
 
 
 
-## [56. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [61. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
@@ -1368,7 +1469,7 @@
 
 *   [GrandNode (⭐1.8k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
 
-## [57. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [62. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authorization
 
@@ -1416,7 +1517,7 @@
 
 *   [google-cloud (⭐672)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
-## [58. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [63. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -1430,7 +1531,7 @@
 
 *   [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 
-## [59. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [64. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -1475,7 +1576,7 @@
 
 *   [Scout (⭐162)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
-## [60. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [65. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Videos
 
@@ -1484,7 +1585,7 @@
 *   [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
 *   [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
 
-## [61. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [66. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -1502,14 +1603,14 @@
 
 *   [Kitsunebi (⭐240)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
-## [62. Bots](/content/hackerkid/bots/week/README.md)
+## [67. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tutorials / Go
 
 *   [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 *   [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginners-guide-to-your-first-bot)
 
-## [63. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [68. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 

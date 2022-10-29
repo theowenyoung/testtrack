@@ -9,6 +9,7 @@
 
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
+
 - : [Alaska Airlines](https://auro.alaskaair.com/)
 
   Components: 👍
@@ -22,6 +23,7 @@
 
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
+
 - : [Bold (Bridge Design System)](https://bold.bridge.ufsc.br/)
 
   Components: 👍
@@ -167,6 +169,7 @@
 
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
+
 - : [Amplify UI](https://ui.docs.amplify.aws/)
 
   Components: 👍
@@ -180,6 +183,7 @@
 
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
+
 - : [Vimeo Design System](https://vimeo.github.io/iris/)
 
   Components: 👍
@@ -193,6 +197,7 @@
 
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
+
 - : [CA Technologies Mineral UI](https://mineral-ui.netlify.app/)
 
   Components: 👍
@@ -250,6 +255,7 @@
 
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
+
 - : [Adobe Spectrum](https://spectrum.adobe.com)
 
   Components: 👍

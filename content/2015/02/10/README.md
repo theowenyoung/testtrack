@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -177,7 +177,37 @@
     *   [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
     *   [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 
-## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [3. Htaccess](/content/phanan/htaccess/README.md)
+
+### Miscellaneous / Auto UTF-8 Encode
+
+### Auto UTF-8 Encode
+
+Your text content should always be UTF-8 encoded, no?
+
+```apacheconf
+# Use UTF-8 encoding for anything served text/plain or text/html
+AddDefaultCharset utf-8
+
+# Force UTF-8 for a number of file formats
+AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
+```
+
+[Source (⭐3k)](https://github.com/h5bp/server-configs-apache)
+
+### Miscellaneous / Prevent Downloading
+
+### Prevent Downloading
+
+Sometimes you want to force the browser to display some content instead of downloading it.
+
+```apacheconf
+<FilesMatch "\.(tex|log|aux)$">
+    Header set Content-Type text/plain
+</FilesMatch>
+```
+
+## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### ViewPager
 
@@ -209,7 +239,7 @@
 
 
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Natural Language Processing
 

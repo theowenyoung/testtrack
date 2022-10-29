@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -107,13 +107,36 @@
 
 *   [bit7z (⭐305)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Courses
+
+*   [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
+*   [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
+*   [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
+*   [Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/) **UCBerkeley**
+
+### Books
+
+*   [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  :dollar:
+*   [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
+
+### Companies
+
+*   [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
+
+### Related awesome lists
+
+*   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
+*   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
+
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Games
 
 *   [swatteau/sokoban-rs (⭐134)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
-## [8. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### General Purpose
 
@@ -124,7 +147,7 @@
     [Repo (⭐1.1k)](https://github.com/Spiderpig86/Cirrus)
     \| #CSS
 
-## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [10. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Distributed Computing / NLP
 
@@ -136,13 +159,13 @@
 *   [dask-ml (⭐826)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Distributed (⭐1.4k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Tools / Templates & Starter Kits
 
 *   [Wagtail Pipit (⭐167)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
-## [11. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+## [12. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ### Configuration
 

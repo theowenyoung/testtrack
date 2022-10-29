@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15 - Nov 21, 2021
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1094,6 +1094,7 @@
 *   [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
 
 ## [22. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [Woodpecker](https://woodpecker.laszlo.cloud/)
 
   Description: Continuous Integration service
@@ -1440,7 +1441,13 @@
 
 *   [Radix Icons (⭐1.3k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
-## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Styling
+
+*   [vanilla-extract (⭐6.5k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+
+## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
@@ -1454,7 +1461,7 @@
 
 *   [mollie.cr (⭐14)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -1468,13 +1475,13 @@
 
 *   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
 
-## [49. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [50. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Backups
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 
-## [50. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [51. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -1485,7 +1492,7 @@
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
 *   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐136)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
-## [51. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [52. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 

@@ -285,6 +285,7 @@
 *   [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and English version available.
 
 ## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+
 - Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.

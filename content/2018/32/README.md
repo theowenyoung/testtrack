@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 06 - Aug 12, 2018
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -681,7 +681,14 @@ Free
 
 *   [v-scroll-lock (⭐182)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
 
-## [47. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [47. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
+*   [Orion (⭐120)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
+
+## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
@@ -726,13 +733,13 @@ Free
 *   [Sticky Keys Slayer (⭐303)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.4k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
-## [48. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
 *   [passwordless\_auth (⭐48)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 
-## [49. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [50. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -745,19 +752,19 @@ Free
 *   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 *   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
-## [50. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [51. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Networking
 
 *   [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
-## [51. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [52. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-hsluv (⭐6)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 

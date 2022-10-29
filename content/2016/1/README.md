@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-30 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -141,7 +141,13 @@
 
 *   [DotImaging (⭐305)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [9. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Books
+
+*   [A gentle introduction to ROS](https://cse.sc.edu/\~jokane/agitr/agitr-letter.pdf)
+
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 
@@ -152,7 +158,7 @@
 *   [donnemartin/dev-setup :fire::fire::fire::fire: (⭐5.8k)](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 *   [Netflix/asgard :fire::fire::fire::fire::fire: (⭐2.2k)](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 
-## [10. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [11. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -162,45 +168,45 @@
 
 *   [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub.
 
-## [11. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [12. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Clops (⭐173)](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 
-## [12. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
 
-## [13. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
+## [14. Awesome Refinerycms](/content/refinerycms-contrib/awesome-refinerycms/week/README.md)
 
 ### [Solidus e-commerce](https://github.com/solidusio/solidus)   \+ Refinery extensions
 
 *   [solidus-refinery-authentication (⭐7)](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
 
-## [14. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [15. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [Generate responsive BEMIT classes with Sass](http://codepen.io/craigmdennis/post/generate-responsive-bemit-classes-with-sass)
 *   [The BEMIT naming convention](http://www.jamesturneronline.net/beautifulweb/bemit-naming-convention.html)
 
-## [15. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [16. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Graphic Displays
 
 *   [ggrepel (⭐1k)](https://github.com/slowkow/ggrepel) - Repel overlapping text labels away from each other.
 *   [ggalt (⭐616)](https://github.com/hrbrmstr/ggalt) - Extra Coordinate Systems, Geoms and Statistical Transformations for ggplot2.
 
-## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Chrome DevTools (⭐1.6k)](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
@@ -218,7 +224,7 @@
 
 *   [Sugar (⭐1.1k)](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 
-## [18. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [19. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Admin interface
 
@@ -525,13 +531,24 @@
     gained a basic understanding of the features needed for Python web
     development and the features unique to Pyramid.
 
-## [19. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Companies / S companies
+
+*   Secret Escapes <http://tech.secretescapes.com/>
+*   Semaphore CI Community <https://semaphoreci.com/community>
+
+### Companies / T companies
+
+*   Teespring <http://teespring.engineering/>
+
+## [21. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [Countly IoT Analytics (⭐5k)](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
 
-## [20. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Clipboard
 
@@ -713,7 +730,7 @@
 
 *   [autohotkey.com](https://autohotkey.com/) - Official website of the AutoHotkey scripting language (downloads, forum, documentation).
 
-## [21. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [23. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
@@ -724,7 +741,7 @@
 
 *   [goaccess (⭐15k)](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 
-## [22. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [24. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Getting help offline
 
@@ -744,7 +761,7 @@
     encoding with the high bit set, but many terminal emulators don't support it
     (or don't enable it by default) and send an escape sequence instead.
 
-## [23. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -761,13 +778,13 @@
 *   [Scalpel (⭐2.8k)](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 *   [Stetho (⭐13k)](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 
-## [24. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [26. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [RxRelay (⭐2.5k)](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
 
-## [25. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [27. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Polyglot
 
@@ -794,7 +811,13 @@
 
 *   [Secure Scuttlebutt (⭐62)](https://github.com/ssbc/docs) - P2P database of message-feeds.
 
-## [26. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [28. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Jon Moss (⭐0)](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
+
+## [29. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Reporters / JavaScript
 
@@ -854,13 +877,13 @@
 *   [Discuss (⭐67)](https://github.com/TestAnything/Specification/issues)
 *   [Reddit](https://www.reddit.com/r/testanythingprotocol)
 
-## [27. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
+## [30. Critical Path Css Tools](/content/addyosmani/critical-path-css-tools/week/README.md)
 
 ### Inline sources (styles, scripts)
 
 *   [isomorphic-style-loader (⭐1.2k)](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) as an example.
 
-## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Serialization
 
@@ -870,7 +893,7 @@
 
 *   [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. \[Apache2]
 
-## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -888,7 +911,7 @@
 
 *   [quark (⭐316)](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 
-## [30. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [33. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 

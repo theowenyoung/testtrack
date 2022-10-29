@@ -9,6 +9,7 @@ Most commonly used git tips and tricks.
 
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
+
 ## Create local tag
 
 ```sh
@@ -26,6 +27,7 @@ git push origin HEAD
 ```
 
 ## [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
+
 ## Delete local branches that has been squash and merged in the remote.
 
 ```sh
@@ -33,6 +35,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 ```
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
+
 ## Create and switch new branch
 
 ```sh
@@ -50,6 +53,7 @@ git switch -c <branch-name>
 ```
 
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
+
 ## Show changes over time for specific file
 
 ```sh
@@ -91,6 +95,7 @@ git commit -m "submodule updated"
 ```
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
+
 ## Visualize the tree including commits that are only referenced from reflogs
 
 ```sh
@@ -98,6 +103,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 ```
 
 ## [Jul 23 - Jul 29, 2018](/content/2018/30/README.md)
+
 ## Use SSH instead of HTTPs for remotes
 
 ```sh
@@ -105,6 +111,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 ```
 
 ## [Mar 19 - Mar 25, 2018](/content/2018/12/README.md)
+
 ## Change a branch base
 
 ```sh
@@ -112,6 +119,7 @@ git rebase --onto <new_base> <old_base>
 ```
 
 ## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
+
 ## Visualize the version tree.
 
 ```sh
@@ -129,6 +137,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 ```
 
 ## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
+
 ## Remove sensitive data from history, after a push
 
 ```sh
@@ -136,6 +145,7 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch <path
 ```
 
 ## [Aug 07 - Aug 13, 2017](/content/2017/32/README.md)
+
 ## Push a new local branch to remote repository and track
 
 ```sh
@@ -143,6 +153,7 @@ git push -u origin <branch_name>
 ```
 
 ## [Apr 03 - Apr 09, 2017](/content/2017/14/README.md)
+
 ## Checkout a commit prior to a day ago
 
 ```sh
@@ -150,6 +161,7 @@ git checkout master@{yesterday}
 ```
 
 ## [Mar 20 - Mar 26, 2017](/content/2017/12/README.md)
+
 ## Search change by content
 
 ```sh
@@ -157,6 +169,7 @@ git log -S'<a term in the source>'
 ```
 
 ## [Feb 20 - Feb 26, 2017](/content/2017/8/README.md)
+
 ## Saving current state of unstaged changes to tracked files
 
 ```sh
@@ -227,6 +240,7 @@ git status --short --branch
 ```
 
 ## [Feb 13 - Feb 19, 2017](/content/2017/7/README.md)
+
 ## Quickly switch to the previous branch
 
 ```sh
@@ -240,6 +254,7 @@ git checkout @{-1}
 ```
 
 ## [Jan 30 - Feb 05, 2017](/content/2017/5/README.md)
+
 ## Backup untracked files.
 
 ```sh
@@ -247,6 +262,7 @@ git ls-files --others -i --exclude-standard | xargs zip untracked.zip
 ```
 
 ## [Jan 23 - Jan 29, 2017](/content/2017/4/README.md)
+
 ## Generates a summary of pending changes
 
 ```sh
@@ -259,6 +275,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ```
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
+
 ## logs between date range
 
 ```sh
@@ -272,6 +289,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 ```
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)
+
 ## Get the repo name.
 
 ```sh
@@ -279,6 +297,7 @@ git rev-parse --show-toplevel
 ```
 
 ## [Dec 19 - Dec 25, 2016](/content/2016/51/README.md)
+
 ## Preformatted patch file.
 
 ```sh
@@ -286,6 +305,7 @@ git format-patch -M upstream..topic
 ```
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
+
 ## Show a Git logical variable.
 
 ```sh
@@ -293,6 +313,7 @@ git var -l | <variable>
 ```
 
 ## [Oct 31 - Nov 06, 2016](/content/2016/44/README.md)
+
 ## Edit \[local/global] git config
 
 ```sh
@@ -305,6 +326,7 @@ git blame -L <start>,<end>
 ```
 
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
+
 ## Add everything, but whitespace changes
 
 ```sh
@@ -312,6 +334,7 @@ git diff --ignore-all-space | git apply --cached
 ```
 
 ## [Oct 10 - Oct 16, 2016](/content/2016/41/README.md)
+
 ## List unpushed git commits
 
 ```sh
@@ -329,6 +352,7 @@ git cherry -v
 ```
 
 ## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
+
 ## Always rebase instead of merge on pull.
 
 ```sh
@@ -348,6 +372,7 @@ git fetch origin master:refs/remotes/origin/mymaster
 ```
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
+
 ## Apply commit from another repository
 
 ```sh
@@ -360,6 +385,7 @@ git merge-base <branch-name> <other-branch-name>
 ```
 
 ## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
+
 ## Add object notes
 
 ```sh
@@ -372,6 +398,7 @@ git log --show-notes='*'
 ```
 
 ## [Aug 22 - Aug 28, 2016](/content/2016/34/README.md)
+
 ## Alias: git undo
 
 ```sh
@@ -379,6 +406,7 @@ git config --global alias.undo '!f() { git reset --hard $(git rev-parse --abbrev
 ```
 
 ## [Aug 15 - Aug 21, 2016](/content/2016/33/README.md)
+
 ## Revert: Reverting an entire merge
 
 ```sh
@@ -386,6 +414,7 @@ git revert -m 1 <commit-ish>
 ```
 
 ## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
+
 ## Forced push but still ensure you don't overwrite other's work
 
 ```sh
@@ -411,6 +440,7 @@ git rev-list --count <branch-name>
 ```
 
 ## [Jul 11 - Jul 17, 2016](/content/2016/28/README.md)
+
 ## Group commits by authors and title
 
 ```sh
@@ -418,6 +448,7 @@ git shortlog
 ```
 
 ## [Jul 04 - Jul 10, 2016](/content/2016/27/README.md)
+
 ## Show changes using common diff tools.
 
 ```sh
@@ -425,6 +456,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 ```
 
 ## [Jun 27 - Jul 03, 2016](/content/2016/26/README.md)
+
 ## Retrieve the commit hash of the initial revision.
 
 ```sh
@@ -451,6 +483,7 @@ git blame <file-name>
 ```
 
 ## [Jun 20 - Jun 26, 2016](/content/2016/25/README.md)
+
 ## Interactive staging.
 
 ```sh
@@ -473,6 +506,7 @@ git remote add <remote-nickname> <remote-url>
 ```
 
 ## [Jun 13 - Jun 19, 2016](/content/2016/24/README.md)
+
 ## Changes staged for commit
 
 ```sh
@@ -573,6 +607,7 @@ git log --reverse master..<branch-name> | head -6
 ```
 
 ## [Jun 06 - Jun 12, 2016](/content/2016/23/README.md)
+
 ## List all branch is WIP
 
 ```sh
@@ -611,6 +646,7 @@ git config core.fileMode false
 ```
 
 ## [May 16 - May 22, 2016](/content/2016/20/README.md)
+
 ## Change previous two commits with an interactive rebase.
 
 ```sh
@@ -618,6 +654,7 @@ git rebase --interactive HEAD~2
 ```
 
 ## [May 09 - May 15, 2016](/content/2016/19/README.md)
+
 ## List only the root and merge commits.
 
 ```sh
@@ -625,6 +662,7 @@ git log --first-parent
 ```
 
 ## [Apr 25 - May 01, 2016](/content/2016/17/README.md)
+
 ## Extract file from another branch.
 
 ```sh
@@ -632,6 +670,7 @@ git show <branch_name>:<file_name>
 ```
 
 ## [Apr 04 - Apr 10, 2016](/content/2016/14/README.md)
+
 ## View the GPG signatures in the commit log
 
 ```sh
@@ -649,6 +688,7 @@ git checkout --orphan <branch_name>
 ```
 
 ## [Mar 28 - Apr 03, 2016](/content/2016/13/README.md)
+
 ## Count unpacked number of objects and their disk consumption.
 
 ```sh
@@ -666,6 +706,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 ```
 
 ## [Mar 07 - Mar 13, 2016](/content/2016/10/README.md)
+
 ## Reuse recorded resolution, record and reuse previous conflicts resolutions.
 
 ```sh
@@ -678,6 +719,7 @@ git diff --name-only | uniq | xargs $EDITOR
 ```
 
 ## [Feb 29 - Mar 06, 2016](/content/2016/9/README.md)
+
 ## List ignored files.
 
 ```sh
@@ -695,6 +737,7 @@ git log Branch1 ^Branch2
 ```
 
 ## [Feb 22 - Feb 28, 2016](/content/2016/8/README.md)
+
 ## Marks your commit as a fix of a previous commit.
 
 ```sh
@@ -712,6 +755,7 @@ git commit --only <file_path>
 ```
 
 ## [Feb 08 - Feb 14, 2016](/content/2016/6/README.md)
+
 ## Grab a single file from a stash
 
 ```sh
@@ -746,6 +790,7 @@ git clean -fd --dry-run
 ```
 
 ## [Feb 01 - Feb 07, 2016](/content/2016/5/README.md)
+
 ## Check if the change was a part of a release.
 
 ```sh
@@ -753,6 +798,7 @@ git name-rev --name-only <SHA-1>
 ```
 
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
+
 ## List all the alias and configs.
 
 ```sh
@@ -770,6 +816,7 @@ git config --global help.autocorrect 1
 ```
 
 ## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
+
 ## Amend author.
 
 ```sh
@@ -782,6 +829,7 @@ git commit --amend --reset-author --no-edit
 ```
 
 ## [Dec 28 - Jan 03, 2015](/content/2015/52/README.md)
+
 ## Clean the files from `.gitignore`.
 
 ```sh
@@ -794,6 +842,7 @@ git checkout <deleting_commit> -- <file_path>
 ```
 
 ## [Dec 21 - Dec 27, 2015](/content/2015/51/README.md)
+
 ## Show inline word diff.
 
 ```sh
@@ -811,6 +860,7 @@ git update-index --no-assume-unchanged <file_name>
 ```
 
 ## [Nov 23 - Nov 29, 2015](/content/2015/47/README.md)
+
 ## Show helpful guides that come with Git
 
 ```sh
@@ -818,6 +868,7 @@ git help -g
 ```
 
 ## [Nov 09 - Nov 15, 2015](/content/2015/45/README.md)
+
 ## Show the most recent tag on the current branch.
 
 ```sh
@@ -825,6 +876,7 @@ git describe --tags --abbrev=0
 ```
 
 ## [Nov 02 - Nov 08, 2015](/content/2015/44/README.md)
+
 ## Everyday Git in twenty commands or so
 
 ```sh
@@ -848,6 +900,7 @@ git pull origin pull/<id>/head:<branch-name>
 ```
 
 ## [Oct 05 - Oct 11, 2015](/content/2015/40/README.md)
+
 ## Ignore one file on commit (e.g. Changelog).
 
 ```sh
@@ -855,6 +908,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 ```
 
 ## [Sep 21 - Sep 27, 2015](/content/2015/38/README.md)
+
 ## Get the name of current branch.
 
 ```sh
@@ -862,6 +916,7 @@ git rev-parse --abbrev-ref HEAD
 ```
 
 ## [Sep 14 - Sep 20, 2015](/content/2015/37/README.md)
+
 ## Export a branch with history to a file.
 
 ```sh
@@ -874,6 +929,7 @@ git clone repo.bundle <repo-dir> -b <branch-name>
 ```
 
 ## [Sep 07 - Sep 13, 2015](/content/2015/36/README.md)
+
 ## Deploying git tracked subfolder to gh-pages
 
 ```sh
@@ -891,6 +947,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 ```
 
 ## [Aug 31 - Sep 06, 2015](/content/2015/35/README.md)
+
 ## Prunes references to remove branches that have been deleted in the remote.
 
 ```sh
@@ -904,6 +961,7 @@ git remote prune origin
 ```
 
 ## [Aug 24 - Aug 30, 2015](/content/2015/34/README.md)
+
 ## Rename a branch
 
 ```sh
@@ -932,6 +990,7 @@ git add --all && git commit --amend --no-edit
 ```
 
 ## [Aug 17 - Aug 23, 2015](/content/2015/33/README.md)
+
 ## Before deleting untracked files/directory, do a dry run to get the list of these files/directories
 
 ```sh
@@ -960,6 +1019,7 @@ git cherry -v master <branch-to-be-merged>
 ```
 
 ## [Aug 10 - Aug 16, 2015](/content/2015/32/README.md)
+
 ## Saving current state of tracked files without commiting
 
 ```sh
@@ -988,6 +1048,7 @@ git stash push --include-untracked
 ```
 
 ## [Aug 03 - Aug 09, 2015](/content/2015/31/README.md)
+
 ## List of all files changed in a commit
 
 ```sh
@@ -1088,6 +1149,7 @@ git worktree add --detach <path> HEAD
 ```
 
 ## [Jul 27 - Aug 02, 2015](/content/2015/30/README.md)
+
 ## What changed since two weeks?
 
 ```sh
@@ -1117,6 +1179,7 @@ git branch --contains <commit-ish>
 ```
 
 ## [Jul 20 - Jul 26, 2015](/content/2015/29/README.md)
+
 ## git-tips
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)

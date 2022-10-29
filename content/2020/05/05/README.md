@@ -1,6 +1,6 @@
 # Awesome List Updates on May 05, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,26 +22,32 @@
 
 *   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/brave/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [3. Awesome Irc](/content/davisonio/awesome-irc/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [GTFS shape mapfit (⭐7)](https://github.com/HSLdevcom/gtfs_shape_mapfit) - Python tool that fits GTFS shape files and stops to a given OSM map file. Uses [pymapmatch (⭐3)](https://github.com/tru-hy/pymapmatch) for the matching.
+
+## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Bouncers / Self-hosted
 
 *   [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source (⭐1.9k)](https://github.com/znc/znc)) `C++`
 *   [soju](https://git.sr.ht/\~emersion/soju) - A user-friendly IRC bouncer. `Go`
 
-## [4. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### SSL/TLS
 
 *   [Practical introduction to SSL/TLS (⭐441)](https://github.com/Hakky54/mutual-tls-ssl) - Written by [@Hakky54](https://github.com/Hakky54).
 
-## [5. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [6. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Books
 
 *   [Mobile First](http://mobile-first.abookapart.com/) - How to design sites for mobile devices (free online version).
 
-## [6. Awesome Qa](/content/seriousran/awesome-qa/README.md)
+## [7. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 
 ### Recent QA Models
 
@@ -82,7 +88,7 @@
 *   [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085), Rodrigo Nogueira, et al., arXiv preprint, Jan 2019.
 *   [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Introduction
 
@@ -110,13 +116,13 @@
 
 *   [Build a Story Web Component with LitElement](https://dev.to/straversi/build-a-story-web-component-with-litelement-e59)
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [9. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Date and Time Processing
 
 *   [holidays (⭐726)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
-## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
+## [10. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 
 ### Software Tools / Analysis Frameworks
 

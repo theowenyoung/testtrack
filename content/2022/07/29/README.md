@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 29, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,21 @@
 
 *   [shellclear (⭐139)](https://github.com/rusty-ferris-club/shellclear) - It helps you to Secure your shell history commands by finding sensitive commands in your all history commands and allowing you to clean them.
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   GoDaddy <https://godaddy.github.io/engineering/>
+
+### Companies / R companies
+
+*   Reddit <https://www.reddit.com/r/RedditEng/>
+
+### Companies / S companies
+
+*   Shopify <https://shopify.engineering/>
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -22,7 +36,7 @@
 
 *   [petertrr/kotlin-multiplatform-diff (⭐37)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
 
-## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Design Systems
 
@@ -32,13 +46,13 @@
 *   [Momentum UI Web Components (⭐125)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
 *   [Red Hat Design System (⭐18)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 
-## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Shells / On Host
 
 *   [mpremote (⭐15k)](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md) - Powerful official shell that supports mounting the host's current directory on the target. Run code without changing the target's filesystem.
 
-## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deep Learning / PyTorch
 
@@ -57,13 +71,13 @@
 
 *   [envd (⭐1.1k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
 *   [marshmallow (⭐214)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -73,13 +87,13 @@
 
 *   [vite-plugin-browser-sync (⭐6)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### MOOC's
 
 *   [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on Coursera platform.
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Configuration
 
@@ -94,7 +108,7 @@
 
 *   [Flagsmith (⭐2k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Tools
 

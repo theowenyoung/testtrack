@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 22, 2019
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,19 @@
 
 *   [caseconverter.pro](https://caseconverter.pro) - A text case converter.
 
-## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [4. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Netherlands 🇳🇱
+
+### Papendrecht
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/gklijs" height="70px" width="70px" align="left" alt="" />
+
+**Gerard Klijs**\
+Topics: Clojure, Rust, GraphQL, Apache Kafka\
+<https://twitter.com/gklijs>
+
+## [5. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Learning / Talks Presentations Podcasts
 

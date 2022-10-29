@@ -13,6 +13,7 @@
 *   [Extreme Profiling: Digging Into Hotspots](https://youtu.be/7PkkxDaFDj8?list=PLKuh52zVrL6l6jzeSwNce77yLdfKmHAgD) - Nitsan Wakart.
 
 ## [2. Tips](/content/git-tips/tips/README.md)
+
 ## Unstaging Staged file
 
 ```sh

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 05, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -15,13 +15,22 @@
     ***
 *   [Concurrency & Parallelism](http://chimera.labs.oreilly.com/books/1230000000929/index.html) - (Book) Parallel and Concurrent Programming in Haskell
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Pascal Hartig (⭐34)](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
+*   [Mark Otto (⭐96)](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
+*   [Zach Holman (⭐721)](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
+*   [Kent C. Dodds (⭐671)](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
+
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### PDF
 
 *   [pdf2htmlex (⭐81)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 
-## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -67,7 +76,7 @@
 
 
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Graphics
 
@@ -84,4 +93,4 @@
 ---
 
 - Prev: [Jul 06, 2015](/content/2015/07/06/README.md)
-- Next: [Jul 03, 2015](/content/2015/07/03/README.md)
+- Next: [Jul 04, 2015](/content/2015/07/04/README.md)

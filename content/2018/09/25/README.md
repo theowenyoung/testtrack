@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,19 +32,25 @@
 
 *   [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 
-## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Sergey Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
+
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Community / Workflow
 
 *   [BuiltWithDot.Net](https://builtwithdot.net)
 
-## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Tools and frameworks
 
 *   [AyeSpy (⭐169)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
-## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Documentation / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -55,19 +61,19 @@
 *   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 *   [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc. A lot of its ideas are inspired by Markdown Preview Plus and RStudio Markdown.
 
-## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [user.js (⭐2.5k)](https://github.com/pyllyukko/user.js) - Configuration for Firefox to harden browser settings and make it more secure.
 
-## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [10. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Archive / Other Tools
 
 *   [LitElement To Do App](https://medium.com/@westbrook/litelement-to-do-app-1e08a31707a4)
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Tools
 

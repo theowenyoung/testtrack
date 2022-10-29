@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,20 +39,53 @@
 *   [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
 *   [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Appcrawlr - <http://appcrawlr.com/>
+*   appPicker - <http://www.apppicker.com/>
+*   Appvita - <http://www.appvita.com/>
+*   Arctic Startup - <http://arcticstartup.com/>
+*   BetaList - <https://betalist.com/submit>
+*   BuiltInChicago - <http://www.builtinchicago.org/send-us-tip>
+*   Crunch Base - <https://www.crunchbase.com/#/home/index>
+*   Haro - <https://www.helpareporter.com/sources/>
+*   Index.co - <https://index.co/startup>
+*   Land-book - <https://land-book.com/guidelines>
+*   MakeUseOf - <http://www.makeuseof.com/about/>
+*   Netted - <https://www.netted.net/contact-us/>
+*   Paggu - <http://www.paggu.com/submit-your-startup/>
+*   PreApps - <http://www.preapps.com/>
+*   Programmable Web - <https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18>
+*   Show HN - <https://news.ycombinator.com/showhn.html>
+*   SimilarSiteSearch - <http://www.similarsitesearch.com/tips.html>
+*   Slant - <https://www.slant.co/>
+*   Startup 88 - <https://startup88.com/>
+*   Startup Base - <https://startupbase.io/submit>
+*   Startup Ranking - <http://www.startupranking.com/>
+*   StartupBlink - <http://www.startupblink.com/>
+*   Tabscape - <https://www.tapscape.com/>
+*   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
+*   The iPhone Mom - <https://www.theiphonemom.com/>
+*   Top Alternatives - <https://topalternatives.com/>
+*   VB Profiles - <http://vbprofiles.com/>
+*   YouNoodle - <https://ww2.younoodle.com/startups/>
+
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
 *   [ShadowsocksX-NG (⭐31k)](https://github.com/shadowsocks/ShadowsocksX-NG) - A fast tunnel proxy that helps you bypass firewalls.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Workflow
 
 *   [CoreWF (⭐14)](https://github.com/dmetzgar/corewf/) - Port of Windows Workflow Foundation (WF) to .NET Core.
 *   [workflow-core (⭐4.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Third-party APIs
 

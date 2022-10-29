@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,13 +24,49 @@
 
 *   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [3. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### North America / United States of America 🇺🇸
+
+### Portland
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/joeseifi" height="70px" width="70px" align="left" alt="" />
+
+**Joe Seifi**\
+Topics: CSS-in-JS, JavaScript, React\
+<https://twitter.com/joeseifi>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kyleshevlin" height="70px" width="70px" align="left" alt="" />
+
+**Kyle Shevlin**\
+Topics: React, Redux, JavaScript\
+<https://twitter.com/kyleshevlin>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/micahgodbolt" height="70px" width="70px" align="left" alt="" />
+
+**Micah Godbolt**\
+Topics: Frontend Architecture, CSS, Design Systems\
+<https://twitter.com/micahgodbolt>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shanselman" height="70px" width="70px" align="left" alt="" />
+
+**Scott Hanselman**\
+Topics: .NET, Azure\
+<https://twitter.com/shanselman>
+
+<img src="https://avatars1.githubusercontent.com/u/1166226?s=460&v=4" height="70px" width="70px" align="left" alt="" />
+
+**Violet Peña**\
+Topics: React, Socket.IO, Storybook, Accessibility\
+[github.com/vgpena](https://github.com/vgpena)
+
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Humor
 
 *   [Working From Home](https://www.youtube.com/watch?v=IW3lhfVpLL4)
 
-## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Message Queues
 
@@ -41,7 +77,7 @@
 
 *   [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Machine Learning / Other / unknown licence
 
@@ -51,7 +87,7 @@
 
 *   [ada-promises (⭐6)](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 

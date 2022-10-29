@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 23, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,14 +12,24 @@
 
 *   [Multi Window Electron Desktop Apps](https://www.youtube.com/watch?v=K-H2amwQ_pU)
 
-## [2. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / F companies
+
+*   Firmafon <https://dev.firmafon.dk/blog/>
+
+### Individuals/Group Contributors / E individuals
+
+*   Evan Hahn <http://evanhahn.com/>
+
+## [3. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Shell / Extensions
 
 *   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen (⭐1.4k)](https://github.com/tarjoilija/zgen) and other [oh-my-zsh (⭐151k)](https://github.com/robbyrussell/oh-my-zsh/) compatible zsh frameworks
 *   [zgen (⭐1.4k)](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 
-## [3. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [4. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Calendar
 
@@ -38,7 +48,7 @@
 
 
 
-## [4. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -48,19 +58,19 @@
     *   [Lectures](http://pdos.csail.mit.edu/6.828/2014/schedule.html)
     *   [Videos](http://pdos.csail.mit.edu/6.828/2011/schedule.html) Note: These are student recorded cam videos of the 2011 course. The videos  explain a lot of concepts required for the labs and assignments.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [GaugeKit (⭐1k)](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 
-## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Books
 
 *   [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Caching
 

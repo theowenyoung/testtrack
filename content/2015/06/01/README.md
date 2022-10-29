@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 01, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,13 @@
 
 *   [Machine Learning A Cappella - Overfitting Thriller](https://www.youtube.com/watch?v=DQWI1kvmwRg)
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### services
+
+*   [mapshaper](http://mapshaper.org/): Simple interface for simplification and conversion of GeoJSON and TopoJSON
+
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Auto Layout / Barcode
 
@@ -56,7 +62,7 @@
 
 *   [SwiftCheck (⭐1.4k)](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 

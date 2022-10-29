@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2015
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,7 +37,13 @@
 
 *   [Babel Module Loader (⭐4.7k)](https://github.com/babel/babel-loader)
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / S individuals
+
+*   Stack Abuse <http://www.stackabuse.com/>
+
+## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -48,7 +54,7 @@
     *   It covers how to measure and understand performance and scalability of parallel programs.
     *   It covers tools and methods to find bugs in concurrent programs.
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Perl SDK
 
@@ -56,7 +62,7 @@
 *   [Docs](https://metacpan.org/pod/Paws)
 *   [Learn More](https://metacpan.org/pod/Paws)
 
-## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [9. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
 
@@ -66,7 +72,7 @@
 
 *   [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
 
-## [9. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [10. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Architecture / Scala
 
@@ -77,7 +83,7 @@
 *   [The Top 10 Ways To Scam The Modern American](https://www.youtube.com/watch?v=neI_Pj558CY) By Zed A. Shaw
 *   [The Imaginative Programmer](https://www.youtube.com/watch?v=w1-bDwNtG-I) By Zed A. Shaw
 
-## [10. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [11. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Resources for those already familiar with GitHub
 

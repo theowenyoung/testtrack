@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2014
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,7 +20,17 @@
 
 *   [Streamio FFMPEG (⭐1.6k)](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
 
-## [2. Awesome Dojo](/content/petk/awesome-dojo/README.md)
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Software Development
+
+*   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** \[45:49]
+
+### Methodologies
+
+*   [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** \[13:27]
+
+## [3. Awesome Dojo](/content/petk/awesome-dojo/README.md)
 
 ### Serverside integrations / Dojo 2
 

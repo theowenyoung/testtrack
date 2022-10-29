@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,13 @@
 
 *   [Juice Shop CTF (⭐317)](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 
-## [3. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [3. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Diaspora (⭐13k)](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
+
+## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Belgium 🇧🇪 / Brussels
 
@@ -43,14 +49,14 @@ Webpage: <https://www.facebook.com/WorkshopCafeBelgium/>
 
 ![](http://www.speedtest.net/result/6022204011.png)
 
-## [4. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
+## [5. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
 ### Multipurpose Engines
 
 *   [open\_nlp (⭐11)](https://github.com/hck/open_nlp) -
     JRuby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Scala / Data Analysis / Data Visualization
 

@@ -19,6 +19,7 @@
 *   [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Clean the files from `.gitignore`.
 
 ```sh

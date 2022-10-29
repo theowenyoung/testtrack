@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2015
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,6 +84,7 @@
 *   [Brainstorm - Fast, flexible and fun neural networks. (⭐1.3k)](https://github.com/IDSIA/brainstorm)
 
 ## [9. Tips](/content/git-tips/tips/README.md)
+
 ## Everyday Git in twenty commands or so
 
 ```sh
@@ -161,6 +162,18 @@ git pull origin pull/<id>/head:<branch-name>
   Demo: <img src="https://github.com/wasabeef/awesome-android-ui/raw/master/art/ExplosionField.gif" width="49%">
 
 
+
+## [11. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+
+### Data Science
+
+#### Practical Data Science with R [\[Amazon\]](http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560)
+
+<img src="http://ecx.images-amazon.com/images/I/51SklHvc%2BZL._SX397_BO1,204,203,200_.jpg" width="200px"/>
+
+Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (such as A/B tests), build predictive models, and present results to audiences of all levels.
+
+This book is accessible to readers without a background in data science. Some familiarity with basic statistics, R, or another scripting language is assumed.
 
 ---
 

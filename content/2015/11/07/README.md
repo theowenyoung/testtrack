@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 07, 2015
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,6 +57,12 @@
 *   [Paper.js (⭐13k)](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 *   [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 *   [Sketch (⭐4k)](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
+
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Cognitive Development
+
+*   [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** \[15:04]
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2021
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,54 @@
 
 *   [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.
 
-## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [2. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Smartwatches
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/fitbit.webp">
+
+[**Fitbit**](https://discord.com/invite/4ujeheG) \
+Notable Channels: `#fitbit`, `#fitbit-coding`, `#fitbit-design`, `#fitbit-animation`, `#fitbit-widgets`, `#fitbit-typescript` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/the_rebble_alliance.webp">
+
+[**The Rebble Alliance**](https://discord.com/invite/aRUAYFN) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://rebble.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/pebble-dev) \
+Notable Channels: `#pebble`, `#rebble-help`, `#app-dev`, `#rockyjs`, `#smartstraps`, `#rebble-grants`, `#firmware`, `#hardware`, `#mobile-apps`, `#appstore`, `#web-services`, `#bipdev` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/smartwatch.webp">
+
+[**Smartwatch**](https://discord.com/invite/nPEHdsyjDg) \
+Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands` \
+Language: English \ <br>
+### Keyboards
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/qmk.webp">
+
+[**QMK**](https://discord.com/invite/Uq7gcHh) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://qmk.fm/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/qmk) \
+Notable Channels: `#help`, `#firmware`, `#cli`, `#configurator`, `#via`, `#toolbox`, `#webhooks`, `#configurator_log`, `#hardware`, `#ergonomics`, `#programming` \
+Language: English
+
+## [3. Tools](/content/lvwzhen/tools/README.md)
+
+### CheetSheet
+
+*   [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+
+## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [Stacker](https://stacker.app) - Turn your spreadsheets into applications.
 
-## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [decense (⭐6)](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
@@ -34,13 +69,13 @@
 
 *   [Blazor Power Hour: FAQ show #1](https://www.twitch.tv/videos/899338170) - ![duration](https://img.shields.io/badge/Duration:%20-53%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=twitch) February 3, 2021 - Blazor Power Hour: FAQ show 1, with ed Charbeneau.
 
-## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Table
 
 *   [svelte-simple-datatables (⭐208)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### cm Cameroon / Misc
 

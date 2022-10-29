@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 19, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -102,7 +102,13 @@
 
 *   [xmodal-vue (⭐5)](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### data
+
+*   [country-levels (⭐16)](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
+
+## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 

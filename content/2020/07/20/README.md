@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -74,14 +74,21 @@
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
+*   [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
+
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### XML
 
 *   [elixir-map-to-xml (⭐2)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
 *   [elixir-xml-to-map (⭐42)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
-## [11. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / APIs
 

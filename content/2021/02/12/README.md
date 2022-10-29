@@ -1,12 +1,20 @@
 # Awesome List Updates on Feb 12, 2021
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [1. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Starter Kits and Toolchains
+
+*   [create-react-app (⭐98k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+*   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
+*   [create-react-library (⭐4.7k)](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
+
+## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Cassandra Data Modeling / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -60,7 +68,7 @@
 
 *   [Tuning the Spark Cassandra Connector](https://www.slideshare.net/DataStax/maximum-overdrive-tuning-the-spark-cassandra-connector-russell-spitzer-datastax-c-summit-2016) - Slides by Russell Spitzer maintainer of the Spark Cassandra connector.
 
-## [2. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
@@ -76,13 +84,13 @@
 
 
 
-## [3. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Academic Papers and Material / Third Party Hosts
 
 *   [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 
-## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tutorials
 
@@ -103,7 +111,7 @@
 
 *   [Using .NET 5 with the Raspberry Pi](https://www.slideshare.net/PGallagher69/using-net-5-with-the-raspberry-pi) - January 28, 2021 - Using .NET 5 with the Raspberry Pi, on Slideshare.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -113,7 +121,7 @@
 
 *   [softdevteam/grmtools (⭐294)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Web frameworks / Isomorphic web frameworks
 
@@ -122,26 +130,26 @@
 *   [Interactive SSR (⭐31)](https://github.com/interactive-ssr/client/blob/master/main.org/) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
     *   it is not unlike Phoenix LiveView or Hotwire.
 
-## [7. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+## [8. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ### Datasets
 
 *   [Audi A2D2 Dataset](https://www.a2d2.audi) - The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.
     *   [Paper :newspaper:](https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf)
 
-## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Applications / Web
 
 *   [Builder Book App (⭐3.3k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Standalone / Hash functions
 
 *   [Databunker](https://databunker.org/) - API based personal data or PII storage service built to comply with GDPR and CCPA.
 
-## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -163,7 +171,7 @@
 *   [@rollup/plugin-image (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
 *   [@rollup/plugin-strip (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

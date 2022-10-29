@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 02, 2021
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,13 @@
 
 *   [Serendipity](https://docs.s9y.org/) - Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ([Source Code (⭐175)](https://github.com/s9y/serendipity)) `BSD-3-Clause` `PHP`
 
-## [4. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Credit Karma <https://engineering.creditkarma.com/>
+
+## [5. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
 ### Misc
 
@@ -45,13 +51,13 @@
 *   [Devop Engineers](https://www.devopsengineers.com/)
 *   [SweetOps](https://slack.cloudposse.com/)
 
-## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Spark
 
 *   [Carefully Curated 70 Spark Questions with Additional Optimization Guides (First in the series) (⭐542)](https://github.com/ankurchavda/SparkLearning#spark-learning-guide)
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CMS
 
@@ -65,13 +71,20 @@
 
 *   [Microsoft Clarity](https://clarity.microsoft.com/) - Session recording completely free with "no traffic limits", no project limits, and no sampling
 
-## [7. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [8. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Code
+
+*   [xrpl-client](https://www.npmjs.com/package/xrpl-client): Javascript/Typescript nodejs WebSocket client with health detection and auto-reconnect
+*   [xrpl-accountlib](https://www.npmjs.com/package/xrpl-accountlib): Javascript/Typescript nodejs lib. to sign & derive from Family Seed, Mnemonic & Secret Numbers
+
+## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects / Games
 
 *   [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 

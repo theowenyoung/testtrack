@@ -1,37 +1,43 @@
 # Awesome List Updates on Oct 30, 2016
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Bots](/content/hackerkid/bots/README.md)
+## [1. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / H companies
+
+*   Haus <https://engineering.haus.com>
+
+## [2. Bots](/content/hackerkid/bots/README.md)
 
 ### Tools For Bot Analytics
 
 *   [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
 *   [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
 
-## [2. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [3. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / LaTeX Profile
 
 *   [LaTeXTools (⭐2k)](https://github.com/SublimeText/LaTeXTools) — an open-source plugin that simplifies working with LaTeX files.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Endpoint / Forensics
 
 *   [Volatility (⭐5.7k)](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 
-## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
 
-## [5. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
+## [6. Awesome Drupal](/content/nirgn975/awesome-drupal/README.md)
 
 ### Articles
 

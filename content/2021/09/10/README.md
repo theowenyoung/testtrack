@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,13 +26,21 @@
 
 *   [Cloud Security and DevSecOps Best Practices *and* Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - *SANS* - A poster containing the Securing Web Application Technologies (SWAT) Checklist, SANS Cloud Security Curriculum, Cloud Security Top 10, Top 12 Kubernetes Threats, and Secure DevOps Toolchain.
 
-## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### SIRI / Ruby
+
+*   [SIRI to GTFS-realtime (⭐8)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki) - A Java-based command-line utility to convert from the [SIRI format](https://www.siri.org.uk/) to GTFS-realtime.
+*   [SIRI API (⭐306)](https://github.com/OneBusAway/onebusaway/wiki/SIRI-Resources) - Java classes generated from the v1.0 and v1.3 [SIRI](https://www.siri.org.uk/) schemas.
+*   [SIRI 2.0 API (⭐6)](https://github.com/laidig/siri-20-java) - Java classes generated from the v2.0 [SIRI](https://www.siri.org.uk/) schemas.
+
+## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [TrackerControl](https://trackercontrol.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/OxfordHCC/tracker-control-android) - Monitor and control trackers and ads.
 
-## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Blogs / Uncategorized
 
@@ -42,7 +50,7 @@
 
 *   [Cédric Scherer](https://www.youtube.com/playlist?list=PLd6eTXMmV3X-4-pHkZSJwHRACzSSyeT9T) - A collection of talks and seminars about R-related topics such as ggplot2 or Shiny, and data visualization in general.
 
-## [5. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [6. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Resources / Community
 
@@ -50,7 +58,7 @@
 *   [coq-community package maintenance project (⭐66)](https://github.com/coq-community/manifesto)
 *   [100 famous theorems proved using Coq (⭐37)](https://github.com/coq-community/coq-100-theorems)
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Testing
 
@@ -59,13 +67,13 @@
     *   [kcat (⭐4.5k)](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
     *   [Offset Explorer](https://www.kafkatool.com) - A GUI application for managing and using Apache Kafka clusters. Formerly known as Kafka Tool.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [Yippy](https://yippy.mattdavo.com/) - Clipboard manager with user-friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mattDavo/Yippy) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -80,7 +88,7 @@
 *   [pinia-undo (⭐22)](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
 *   [pinia-xstate (⭐27)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 

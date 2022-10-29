@@ -53,6 +53,7 @@
 *   [Stryker.NET (⭐1.4k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 
 ## [6. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@dominictarr](https://github.com/dominictarr), [scuttlebot (⭐1.6k)](https://github.com/ssbc/scuttlebot) and others
     *   "Statement on event-stream compromise" ([post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
 

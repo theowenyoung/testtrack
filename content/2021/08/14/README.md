@@ -7,6 +7,7 @@
 
 
 ## [1. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@Trott](https://github.com/Trott), [slug (⭐220)](https://github.com/Trott/slug)
     *   "Slugging It Out In Open Source" ([audio](https://soundcloud.com/rich-trott/slugging-it-out-in-open-source), [transcript](https://medium.com/@Trott/slugging-it-out-in-open-source-a62f554b6e2))
 

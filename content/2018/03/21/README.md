@@ -25,6 +25,7 @@
 *   [wagtail-2fa (⭐66)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## Change a branch base
 
 ```sh
@@ -32,6 +33,7 @@ git rebase --onto <new_base> <old_base>
 ```
 
 ## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+
 *   [@fijal](https://github.com/fijal), [PyPy](https://github.com/pypy/)
     *   "Open source funding" ([video](https://www.youtube.com/watch?v=bxNkupqI964))
 

@@ -58,6 +58,7 @@
 *   [Android Scripting (⭐2.3k)](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Git Aliases
 
 ```sh

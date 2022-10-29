@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04 - Oct 10, 2021
 
-71 awesome lists updated this week.
+75 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -478,13 +478,19 @@ Free (Open Source)
 
 *   [async-std](https://async.rs/) [\[async-std\]](https://crates.io/crates/async-std) - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
-## [40. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [40. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React General Resources
+
+*   [React Documentation](https://reactjs.org/docs/getting-started.html)
+
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Setting Up A Keycloak Server For Authenticating To FileMaker](https://soundsessential.medium.com/setting-up-a-keycloak-server-for-authenticating-to-filemaker-introduction-bfe8bba7a8b2)
 
-## [41. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [42. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Languages
 
@@ -494,7 +500,7 @@ Free (Open Source)
 
 *   [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 
-## [42. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [43. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Subtitles and Captions / Web
 
@@ -502,7 +508,7 @@ Free (Open Source)
 *   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐74)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
 *   [ttconv: subtitle/caption format converter (⭐87)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
 
-## [43. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [44. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
 ### HTML and CSS / Sistemas Operativos
 
@@ -516,19 +522,19 @@ Free (Open Source)
 
 *   [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (2.2.4) (HTML)
 
-## [44. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [45. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Graphics
 
 *   [ImagePut (⭐41)](https://github.com/iseahound/ImagePut) - by iseahound - Image library for converting to files, streams, windows, base64, urls, cursors, screen coordinates, clipboard, pointers, handles, and more. Supports AutoHotkey v1 and v2. - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=76301\&p=330615)
 
-## [45. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [46. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Collaboration Tools / Malware Analysis Books
 
 *   [Reconmap](https://reconmap.org/) - Open-source collaboration platform for InfoSec professionals that streamlines the pentest process.
 
-## [46. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [47. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / Libraries
 
@@ -545,7 +551,7 @@ Free (Open Source)
 
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 
-## [47. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [48. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -555,19 +561,19 @@ Free (Open Source)
 
 *   [uchuhimo/konf (⭐284)](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java, supporting most configuration formats
 
-## [48. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [49. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Terraform Enterprise / Vendor supported providers
 
 *   [tfe-state-explorer (⭐17)](https://github.com/segmentio/tfe-state-explorer) - Simple shell for exploring remote terraform enterprise state, with autocomplete. :skull:
 
-## [49. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [50. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
@@ -589,13 +595,13 @@ Free (Open Source)
 
 *   [vuejs-vuetify-structured-template boilerplate (⭐22)](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 
-## [51. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [52. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
 *   [One Second Diary (⭐89)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
-## [52. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
+## [53. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
 ### Platforms / Robotic Process Automation
 
@@ -670,20 +676,20 @@ Free (Open Source)
 
 *   [Awesome Microsoft Power Platform (⭐42)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
-## [53. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [54. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 *   [Mono Icons](https://icons.mono.company) - A simple, consistent open-source icon set designed to be used in a wide variety of digital products
 
-## [54. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [55. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Governance
 
 *   [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 
-## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [56. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -754,37 +760,126 @@ Free (Open Source)
 
 *   [Context Note (⭐567)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 
-## [56. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
+## [57. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [GTFS-to-Chart (⭐16)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
+
+## [58. Awesome Devtools](/content/moimikey/awesome-devtools/week/README.md)
 
 ### Resources / Validation as a Service
 
 *   [CSP Evaluator](https://csp-evaluator.withgoogle.com) - Evaluate CSP rules
 
-## [57. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [59. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Miscellaneous / Episodes
 
 *   [Uptane](https://uptane.github.io/overview.html) - Uptane is an open and secure software update system design protecting software delivered over-the-air to the computerized units of automobiles and is designed to be resilient even to the best efforts of nation state attackers.
 
-## [58. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [60. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+
+### Family
+
+### [Sushi Draft](https://boardgamegeek.com/boardgame/144865/sushi-draft)
+
+> Sushi Draft is a card game that looks good enough to eat! Sushi Draft includes a deck of 32 sushi cards (8 ikura, 7 ebi, 6 maguro, 5 tamago, 4 kappa and 2 "wild" triples) and 18 point tokens (three each for the five types of sushi and three for dessert); the point tokens range in value from 1-5, with the more plentiful sushi dishes being worth more points. Over three rounds, players draft plates of sushi and collect sushi points, which are drawn randomly. The player with the most diverse menu gets dessert. Players tally their points, and whoever has the highest score wins. Sushi Draft is quick to learn and fun for the whole family, and is the perfect introduction to the classic genre of pick-and-pass/card-drafting games!
+
+![Sushi Draft image](https://cf.geekdo-images.com/VBF3tF7GdSMA0j1E6HPlvQ__itemrep/img/wAInfSxdweuNqVxnL5Qsq5P_wtk=/fit-in/246x300/filters:strip_icc\(\)/pic2062272.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   3 - 5 |        8 |  15m |
+### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
+
+> PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks. In PARKS, players will take on the role of two hikers who will trek trails to see sites, observe wildlife, take photos, and visit national parks over the course of the game. They will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike. Each trail, represented by tiles, represents a different season, and as each season passes, the trails change and grow steadily longer. Each turn, players send one of their hikers down the trail. While on the trail, hikers will see beautiful sites and perform an action when they arrive. When a hiker reaches the end of the trail, they can spend tokens they have received to visit Parks and earn points. Your goal is to have the most points from your Parks, photos, and personal bonus at the end of the year.
+
+![PARKS image](https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__itemrep/img/aO688RtGLH5MV7LUHkmghPUjSJQ=/fit-in/246x300/filters:strip_icc\(\)/pic4852372.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   1 - 5 |       10 | 40 -70m |
+
+### Strategy
+
+### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
+
+> Players take on the role of investors seeking to make the most money by developing buildings in The Estates. The Estates is a new urban development featuring high-end infrastructure and a modern atmosphere for its citizens. The City Council recently approved the zoning map for The Estates. It calls for two rows of four buildings each, located between the River and Main Street. The meadows on the other side of the River are to remain a recreational area for the City. Players will bid for the various building pieces and place them in The Estates to their benefit. All buildings in completed rows score positive points, while all buildings in incomplete rows score negative points. It is possible to have zero completed rows of buildings. At the end, the player with the highest score wins The Estates!
+
+![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc\(\)/pic4071903.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
+
+> In this puzzle solving challenge of deduction, logic and intuition, players go head to head to see who can be the first to guess their opponent's secret square. Every action turn brings you closer to finding the hidden, ancient symbol. But watch out; your opponent may be closer to solving your secret square than you think! The Telepathy board game is an outstanding logic building tool, ideal for educators and puzzle solvers alike. If you like Sudoku, Mastermind, or Battleship, this game is for you.
+
+![Telepathy Image](https://cf.geekdo-images.com/HUrpAkrqZVwcjN8HXzaZaQ__itemrep/img/glE42FIgi4qCUEiDZxT_qJ1Vckk=/fit-in/246x300/filters:strip_icc\(\)/pic5283740.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       12 |  20m |
+### [Chinese Checkers](https://en.wikipedia.org/wiki/Chinese_checkers)
+
+> Sternhalma, commonly known as Chinese checkers or Chinese chequers, is a strategy board game of German origin which can be played by two, three, four, or six people, playing individually or with partners. The game is a modern and simplified variation of the game Halma.
+
+![Chinese Checkers game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ChineseCheckersboard.jpeg/300px-ChineseCheckersboard.jpeg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 6 |        7 | 10–30m |
+
+### Party
+
+### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
+
+> This beautiful and functional board has room for two teams of large marbles. Players take turns pushing the marbles around the board, with the goal of pushing six of the opposing player's marbles off the board. The central idea is that a column of marbles has weight given by the number of marbles in line. Someone will need to push with a heavier group of marbles in order to push the column along that axis. However, with six possible directions, it's difficult to defend yourself perfectly. Also, it's possible to play the game with up to six players when supplemental marble sets are purchased.
+
+![Abalone image](http://cdn.aktivcommunication.cz/images/products/box/4426.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|       2 |       7+ |  30m |
+### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
+
+> The board consists of a grid with twenty-four intersections or points. Each player has nine pieces, or "men", usually coloured black and white. Players try to form 'mills'—three of their own men lined horizontally or vertically—allowing a player to remove an opponent's man from the game. A player wins by reducing the opponent to two pieces (where they could no longer form mills and thus be unable to win), or by leaving them without a legal move.
+
+![Nine Men's Morris image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nine_Men%27s_Morris_board_with_coordinates.svg/300px-Nine_Men%27s_Morris_board_with_coordinates.svg.png)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|       2 |       5+ | 5m-60m |
+### [Small World](https://boardgamegeek.com/boardgame/40692/small-world)
+
+> An area control game where players control different fantasy races with a unique set of abilities. The goal is to conquer and control as much of the player board as possible and halting your opponents' expansion. When your race can't expand any further you let it fall into decline and pick a new race to continue the quest for dominance.
+
+![Small World game image](https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__itemrep/img/vxZGxHhrtnOMxPM38WNIu-tfYmI=/fit-in/246x300/filters:strip_icc\(\)/pic428828.jpg)
+
+| Players | Min. Age |   Time |
+| ------: | -------: | -----: |
+|   2 - 5 |        8 | 40-80m |
+
+## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Data Visualization and Mission Control / Command Line Interface
 
 *   [Foxglove Studio (⭐936)](https://github.com/foxglove/studio) - Web and desktop app for robotics visualization and debugging; actively maintained fork of webviz.
 
-## [59. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [62. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Frameworks
 
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
-## [60. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [63. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Frameworks
 
 *   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
-## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -804,13 +899,13 @@ Free (Open Source)
 *   [QuickType.io](https://quicktype.io/) - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 *   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
 
-## [62. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [65. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [dockerface (⭐182)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
-## [63. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [66. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Starter Templates
 
@@ -820,7 +915,7 @@ Free (Open Source)
 
 *   [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
-## [64. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [67. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -834,13 +929,13 @@ Free (Open Source)
 
 *   [cista (⭐1k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
-## [65. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [68. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### File Formats and Parsers
 
 *   [squiggly (⭐2)](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
-## [66. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [69. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -854,7 +949,7 @@ Free (Open Source)
 
 *   [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
-## [67. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [70. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
@@ -864,7 +959,7 @@ Free (Open Source)
 
 *   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐385)](https://github.com/sigstore/fulcio), [cosign (⭐2.6k)](https://github.com/sigstore/cosign) and [rekor (⭐598)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
-## [68. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [71. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
@@ -874,19 +969,19 @@ Free (Open Source)
 
 *   [fluvio (⭐1.4k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
 
-## [69. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [72. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [VIR (⭐125)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
-## [70. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [73. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Performance
 
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
-## [71. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [74. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -2149,6 +2244,18 @@ Free (Open Source)
   CORS: Yes
 
 
+
+## [75. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Agregore (⭐531)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
+*   [airpaste ☠️ (⭐794)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
+*   [Friendica (⭐1.1k)](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
+*   [LF (⭐875)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
+*   [ShareDrop ☠️ (⭐5.8k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
+*   [TheDistributedBay ☠️ (⭐26)](https://github.com/TheDistributedBay/TheDistributedBay): P2P rewrite of the Open Bay/Pirate Bay. It uses a completely distributed protocol to share entries between numerous nodes. This makes it nearly impossible to take down by seizure of servers. Each node contains a complete copy, and any changes are propagated through the network.
+*   [webcat ☠️ (⭐424)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
 
 ---
 

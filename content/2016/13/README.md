@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28 - Apr 03, 2016
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -451,6 +451,7 @@
 *   [saurvs/hypervisor-rs (⭐56)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ## [25. Tips](/content/git-tips/tips/week/README.md)
+
 ## Count unpacked number of objects and their disk consumption.
 
 ```sh
@@ -527,7 +528,14 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 *   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 
-## [32. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [32. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Unbug Lee (⭐0)](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
+*   [Tibor Simon (⭐0)](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+
+## [33. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Image and Language / Question Answering
 
@@ -538,7 +546,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 *   MetaMind \[[Paper](http://arxiv.org/pdf/1603.01417v1.pdf)]
     *   Xiong, Caiming, Stephen Merity, and Richard Socher. "Dynamic Memory Networks for Visual and Textual Question Answering." arXiv:1603.01417 (2016).
 
-## [33. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [34. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Task Runners
 
@@ -548,13 +556,13 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 *   [Prooph Event Store (⭐531)](https://github.com/prooph/event-store) - An event source component to persist event messages
 
-## [34. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [35. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Related lists
 
 *   [awesome-vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
 
-## [35. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [36. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -712,7 +720,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 
 
-## [36. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [37. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Articles
 
@@ -727,19 +735,19 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 *   [sorted-object (⭐35)](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 
-## [37. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [38. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Packages
 
 *   [redux-test-recorder (⭐492)](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 
-## [38. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [39. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 
-## [39. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [40. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Tutorials
 

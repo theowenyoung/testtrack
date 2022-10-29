@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2016
 
-13 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,7 +60,46 @@
 
 *   [JSONAPI::Utils (⭐213)](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils is built on top of JSONAPI::Resources taking advantage of its resource-driven style and bringing an easy way to build modern JSON APIs with no or less learning curve.
 
-## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / P companies
+
+*   Pivotal <https://engineering.pivotal.io>
+
+## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+
+### Conferences
+
+*   [ACM/IEEE International Conference on Human Robot Interaction (HRI)](http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1040036)
+*   [CISM IFToMM Symposium on Robot Design, Dynamics and Control (RoManSy)](http://www.romansy2016.org/)
+*   [IEEE Conference on Decision and Controls (CDC)](http://ieeexplore.ieee.org/servlet/opac?punumber=1000188)
+*   [IEEE International Conference on Rehabilitation Robotics (ICORR)](http://www.rehabrobotics.org/)
+*   [IEEE International Conference on Robotics and Automation (ICRA)](http://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
+*   [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros.org/)
+*   [IEEE-RAS International Conference on Humanoid Robots (Humanoids)](http://ieeexplore.ieee.org/servlet/opac?punumber=1002042)
+*   [International Symposium of Robotic Research (ISRR)](http://ifrr.org/isrr.php)
+*   [International Symposium of Experimental Robotics (ISER)](http://ifrr.org/iser.php)
+*   [Robotica](http://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/robotica)
+*   [Robotics: Science and Systems Conference (RSS)](http://www.roboticsconference.org/)
+*   [The International Workshop on the Algorithmic Foundations of Robotics (WAFR)](http://www.wafr.org/)
+
+### Journals
+
+*   [Autonomous Robots](http://www.springer.com/engineering/robotics/journal/10514)
+*   [Bioinspiration & Biomimetics](http://iopscience.iop.org/journal/1748-3190)
+*   [IEEE Robotics & Automation Magazine](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+*   [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165)
+*   [IEEE Transactions on Robotics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+*   [IEEE/ASME Transactions on Mechatronics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516)
+*   [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+*   [Journal of Field Robotics](http://www.journalfieldrobotics.org/Home.html)
+*   [Journal of Intelligent & Robotic Systems](http://www.springer.com/engineering/robotics/journal/10846)
+*   [Mechatronics](http://www.journals.elsevier.com/mechatronics)
+*   [Robotics and Computer-Integrated Manufacturing](http://www.journals.elsevier.com/robotics-and-computer-integrated-manufacturing)
+*   [Robotics and Autonomous Systems](http://www.journals.elsevier.com/robotics-and-autonomous-systems)
+*   [The International Journal of Robotics Research](http://www.ijrr.org/)
+
+## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -206,19 +245,19 @@
 *   [CS 294](http://inst.eecs.berkeley.edu/\~cs294-101/sp15/) **Cutting-edge Web Technologies** *Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   Want to learn what makes future web technologies tick? Join us for the class where we will dive into the internals of many of the newest web technologies, analyze and dissect them. We will conduct survey lectures to provide the background and overview of the area as well as invite guest lecturers from various leading projects to present their technologies.
 
-## [7. Awesome Sass](/content/Famolus/awesome-sass/README.md)
+## [9. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
 ### Libraries and Mixins / Miscellaneous
 
 *   [retina.js (⭐4.5k)](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Spanish
 
 *   [El gato de Turing](https://elgatodeturing.com/) - Podcast sobre la actualidad científica y tecnológica.
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [11. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Datetime
 
@@ -226,19 +265,25 @@
 *   [odate (⭐22)](https://github.com/hhugo/odate)
 *   [ptime](http://erratique.ch/software/ptime)
 
-## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Networking / Field Validation
 
 *   [Fast-Android-Networking (⭐5.5k)](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [13. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### CSS
+
+*   [material-foundation (⭐356)](https://github.com/eucalyptuss/material-foundation) — A Material Design version of Foundation for Sites.
+
+## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Articles / Hash functions
 
 *   [Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple).
 
-## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [15. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### CMS & Blogs
 
@@ -248,7 +293,7 @@
 
 *   [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) - Tutsplus Code Courses
 
-## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [16. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Websites / YouTube
 

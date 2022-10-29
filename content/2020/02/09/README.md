@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 09, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,7 +59,18 @@
 
 *   [Snapcast (⭐4.7k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
 
-## [6. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Indie Hackers - <https://www.indiehackers.com/>
+*   SaaSHub - <https://www.saashub.com/>
+*   Saasified - <https://saasified.co>
+*   SideProjects - <https://sideprojects.net>
+*   Startup Tracker - <https://startuptracker.io/>
+*   Startups List - <https://www.startups-list.com/>
+
+## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Subtitles and Captions / Web
 
@@ -79,7 +90,7 @@
 *   [bbc/qtff-parameter-editor (⭐109)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
 *   [id3as/ffmpeg-libvpx-HDR-static (⭐13)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
 
-## [7. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Tutorials
 
@@ -90,7 +101,7 @@
 
 *   [Writing a custom Salt Grain](https://blog.badgerops.net/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 
-## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [9. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Clone / Preferences
 

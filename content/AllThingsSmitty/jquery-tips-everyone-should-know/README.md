@@ -9,6 +9,7 @@ A collection of tips to help up your jQuery game 🎮
 
 
 ## [Jun 22, 2017](/content/2017/06/22/README.md)
+
 ### Disable Right-Click
 
 If you want to disable right-click, you can do it for an entire page...
@@ -50,6 +51,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 ## [May 02, 2016](/content/2016/05/02/README.md)
+
 ### Back to Top Button
 
 By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin to create a simple scroll-to-top animation:

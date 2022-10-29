@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,7 +75,13 @@
 
 *   [nag2mqtt (⭐6)](https://github.com/DE-IBH/nag2mqtt) - Nagios event broker to MQTT gateway.
 
-## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Individuals/Group Contributors / D individuals
+
+*   Dragan Djuric <http://dragan.rocks>
+
+## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Stalled Development
 
@@ -83,19 +89,19 @@
     ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social\&label=Star)
     [Repo (⭐9.3k)](https://github.com/kristoferjoseph/flexboxgrid)
 
-## [6. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
+## [7. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Videos / Old recordings
 
 *   [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
 
-## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IoC
 
 *   [Unity (⭐1.6k)](https://github.com/unitycontainer/unity) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 
-## [8. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [9. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Hardware / Companies
 

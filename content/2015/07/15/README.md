@@ -71,6 +71,7 @@
 *   [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
 ## [4. Tips](/content/git-tips/tips/README.md)
+
 ## git-tips
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)

@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 09, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [1. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
+
+### Vendors
+
+*   [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
+
+## [2. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Resources / Articles
 
@@ -22,19 +28,19 @@
 *   [OpenCollective](https://opencollective.com/) - Enables groups to set up a collective, raise funds, and manage them transparently.
 *   [Patreon](https://www.patreon.com/) - Recurring funding for artists and creators on either a monthly basis or per creation.
 
-## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Learning / More Awesome
 
 *   📚 [Awesome JS Books (⭐52)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
-## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [4. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Software / Communication
 
 *   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐10k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -45,7 +51,7 @@
 *   [Designing reliable systems with cloud infrastructure (Google Cloud Next '17)](https://www.youtube.com/watch?v=7Hy_6SMn8pY)
 *   [A Google SRE explores GitHub reliability with BigQuery](https://cloud.google.com/blog/big-data/2016/10/a-google-sre-explores-github-reliability-with-bigquery)
 
-## [5. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
+## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
 ### Other useful repositories
 
@@ -55,13 +61,13 @@
 
 
 
-## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Emojis / Fonts
 
 *   [node-emoji (⭐1.1k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Command Line
 

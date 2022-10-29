@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 21, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -36,13 +36,27 @@
 
 *   [ideascale.com](https://ideascale.com/) — Allow clients to submit ideas and vote, free for 25 members in 1 community
 
-## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / D companies
+
+*   Discord <https://blog.discordapp.com/>
+
+### Companies / G companies
+
+*   Grofers <https://lambda.grofers.com/>
+
+### Companies / S companies
+
+*   Skyscanner <http://codevoyagers.com/>
+
+## [7. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Playbooks
 
 *   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐943)](https://github.com/PagerDuty/incident-response-docs).
 
-## [7. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
+## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 
 ### Misc/Technical / Hosting
 

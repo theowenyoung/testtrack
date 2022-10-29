@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22 - Jul 28, 2019
 
-45 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -86,7 +86,6 @@
 ### Testing Frameworks / Frameworks
 
 *   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
-*   [jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
 
 ### Testing Frameworks / Coverage
 
@@ -364,7 +363,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [ant-design-aliyun-theme (⭐301)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
 *   [ant-dark-theme (⭐14)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
-## [15. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### SIRI / Ruby
+
+*   [Edwig (⭐16)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+
+## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Reference
 
@@ -403,25 +408,37 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [sancta (⭐1)](https://github.com/mosteo/sancta) - SANCTA multi-robot task allocation library.
 
-## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Security
 
 *   [StopSpam plugin (⭐1)](https://github.com/mirko-pagliai/cakephp-stop-spam) - A plugin that allows you to check if a username, email address or IP address has been reported as a spammer.
 
-## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [18. Tools](/content/lvwzhen/tools/week/README.md)
+
+### Image compression
+
+*   [Compress-Or-Die](https://compress-or-die.com/)
+
+## [19. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Ecosystem / Tools
 
 *   [web-component-analyzer (⭐402)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [postmarkapp.com](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests
 
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [21. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [Jami](https://jami.net/): Free and universal communication platform which preserves the user's privacy and freedoms. Desktop and mobile apps for text messaging, video and audio calls, file transfer, video conferencing.
+
+## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Automation
 
@@ -440,13 +457,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
 
-## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Applications
 
 *   [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 
-## [21. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [24. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra
 
@@ -525,7 +542,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Stack Overflow: cql](https://stackoverflow.com/questions/tagged/cql)
 *   [Stack Overflow: spark-cassandra-connector](https://stackoverflow.com/questions/tagged/spark-cassandra-connector)
 
-## [22. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [25. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Software / Genetic Perturbations
 
@@ -557,7 +574,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Minimum redundancy feature selection from microarray gene expression data](https://doi.org/10.1142/S0219720005001004) - Minimum redundancy - maximum relevance feature selection framework.
 *   [Weakly supervised learning of single-cell feature embeddings](https://doi.org/10.1109/CVPR.2018.00970) - Training CNNs using a weakly supervised approach for feature learning.
 
-## [23. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
+## [26. Awesome Adafruitio](/content/adafruit/awesome-adafruitio/week/README.md)
 
 ### Guides
 
@@ -582,13 +599,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Adafruit IO tagged on Reddit](https://www.reddit.com/search?q=adafruit%20io\&t=year) - Reddit posts relating to Adafruit IO.
 
-## [24. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [27. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Code Review: Create The Culture, Learn The Best Practices](https://codingsans.com/blog/code-review) Code review tips and best practices from tech leaders.
 
-## [25. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
@@ -600,13 +617,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [htm (⭐7.9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 
-## [26. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [29. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [MalwareAnalyser.io](https://malwareanalyser.io/) - Online malware anomaly-based static analyser with heuristic detection engine powered by data mining and machine learning.
 
-## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -620,7 +637,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
 
-## [28. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -630,13 +647,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [rn-action-picker (⭐1)](https://github.com/akshit5230/rn-action-picker) - A simple action picker for iOS and Android. Renders Native ActionSheetIOS Component in iOS and custom ActionSheet lookalike component in Android.
 *   [rn-collapsible-section (⭐1)](https://github.com/akshit5230/React-Native-Collapsible-Section) - A collapsible section / section list with customizable section body and child body. Supports both iOS and Android.
 
-## [29. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Proxies and Machine-in-the-Middle (MITM) Tools
 
 *   [sylkie](https://dlrobertson.github.io/sylkie/) - Command line tool and library for testing networks for common address spoofing security vulnerabilities in IPv6 networks using the Neighbor Discovery Protocol.
 
-## [30. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [33. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Boilerplate
 
@@ -654,13 +671,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [undollar (⭐111)](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 *   [pipe\_exec (⭐47)](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 
-## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [34. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - This book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [32. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [35. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Platforms
 
@@ -690,13 +707,13 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 *   [RFC7807](https://tools.ietf.org/html/rfc7807) - Problem Details for HTTP APIs.
 
-## [33. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [36. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Artificial Intelligence
 
 *   [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
 
-## [34. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
@@ -715,7 +732,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 
-## [35. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [38. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -727,31 +744,31 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 *   [Eternum](https://www.eternum.io/) - Paid pinning service with an easy-to-use API.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 
-## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Runtime / Playground
 
 *   [typescript-is (⭐888)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
-## [37. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
 *   [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - This early-access book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
 
-## [38. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [41. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Infrastructure / Transactions
 
 *   [HBase-QoD (⭐1)](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication.
 
-## [39. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [42. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Open Source Projects
 
 *   [Bootcamp: An enterprise social network (⭐2.2k)](https://github.com/vitorfs/bootcamp)
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [43. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Porto
 
@@ -786,7 +803,7 @@ Webpage: <http://www.cafevitoria.com/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ✔    | ✔     | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am |
 
-## [41. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Logging and monitoring
 
@@ -804,7 +821,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [kube-client.cr (⭐19)](https://github.com/spoved/kube-client.cr) - Kubernetes API Client
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Calendar
 
@@ -820,7 +837,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Content Management Systems (CMS)
 
@@ -830,7 +847,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [SOCKS5Engine (⭐30)](https://github.com/VeeSecurity/SOCKS5Engine) - Lightweight & resource-efficient SOCKS5 proxy server, optimized for high-load. `AGPL-3.0` `Go`
 
-## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [47. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -867,7 +884,7 @@ Webpage: <http://www.cafevitoria.com/>
 
 *   [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
 
-## [45. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [48. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Other
 
@@ -896,6 +913,77 @@ Webpage: <http://www.cafevitoria.com/>
 ### International / Swift
 
 *   [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
+
+## [49. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Testing
+
+*   [jest (⭐41k)](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
+*   [enzyme (⭐20k)](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+
+### React Tools / React Development Tools
+
+*   [react-devtools (⭐11k)](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
+*   [react-hot-loader (⭐12k)](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time
+*   [react-loadable (⭐16k)](https://github.com/jamiebuilds/react-loadable) - A higher order component for loading components with promises
+*   [loadable-components (⭐6.8k)](https://github.com/smooth-code/loadable-components) - React code splitting made easy
+*   [reactotron (⭐14k)](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+*   [storybook (⭐75k)](https://github.com/storybookjs/storybook) - UI component dev & test
+*   [react-styleguidist (⭐11k)](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+*   [react-cosmos (⭐7.6k)](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+*   [eslint-plugin-react (⭐8.1k)](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+
+### React Tools / React Frameworks
+
+*   [gatsby.js (⭐54k)](https://github.com/gatsbyjs/gatsby) - Free and open source framework based on React
+
+### React Tools / React Styling
+
+*   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+*   [emotion (⭐16k)](https://github.com/emotion-js/emotion) - Library designed for writing CSS styles with JavaScript
+*   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
+*   [jss (⭐6.8k)](https://github.com/cssinjs/jss) - Authoring tool for CSS
+
+### React Tools / React Routing
+
+*   [react-router (⭐49k)](https://github.com/ReactTraining/react-router) - Declarative routing for React
+*   [navi (⭐2.1k)](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
+*   [curi (⭐269)](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
+
+### React Tools / React Component Libraries
+
+*   [material-ui (⭐82k)](https://github.com/mui-org/material-ui) - React components for faster and easier web development
+*   [blueprint (⭐19k)](https://github.com/palantir/blueprint) - A React-based UI toolkit for the webs
+*   [semantic-ui-react (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
+
+### React Tools / React Awesome Components
+
+*   [react-resizable-and-movable (⭐3k)](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
+*   [react-resizable-box (⭐1.8k)](https://github.com/bokuweb/react-resizable-box) - A resizable component for React
+*   [react-sortable-pane (⭐612)](https://github.com/bokuweb/react-sortable-pane) - A sortable and resizable pane component for React
+*   [react-dates (⭐12k)](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
+*   [react-big-calendar (⭐6.1k)](https://github.com/intljusticemission/react-big-calendar) - Calendar component
+*   [react-datepicker (⭐6.9k)](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
+*   [react-hotkeys (⭐2k)](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
+*   [react-keydown (⭐503)](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
+*   [react-joyride (⭐5k)](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
+*   [react-virtualized (⭐24k)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+*   [react-window (⭐13k)](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+*   [react-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React
+*   [react-loading-skeleton (⭐3.1k)](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
+*   [react-spinkit (⭐1.5k)](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
+*   [rheostat (⭐1.7k)](https://github.com/airbnb/rheostat) - Accessible slider component built with React
+*   [qrcode.react (⭐3.1k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+
+### React Tools / React Libraries
+
+*   [react-instantsearch (⭐1.9k)](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia
+*   [uppy (⭐26k)](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
+*   [react-motion (⭐21k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems
+
+### React Native Development Tools / Charts
+
+*   [react-native-code-push (⭐8.3k)](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 
 ---
 

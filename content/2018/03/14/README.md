@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,7 +45,13 @@
 
 *   [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / C companies
+
+*   Coinbase <https://engineering.coinbase.com/>
+
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
@@ -53,7 +59,7 @@
 *   [mockhttp (⭐1.2k)](https://github.com/richardszalay/mockhttp) - Testing layer for Microsoft's HttpClient library.
 *   [xUnit.net (⭐3.5k)](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 
-## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
@@ -63,7 +69,7 @@
 
 *   [halite (⭐168)](https://github.com/icyleaf/halite) - Crystal HTTP Requests with a chainable REST API, built-in sessions and loggers
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
@@ -73,13 +79,13 @@
 
 *   [vue-comment-grid (⭐155)](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
-## [9. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Bug Reporting
 
 *   [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 

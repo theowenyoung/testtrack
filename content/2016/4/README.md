@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-39 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,19 +13,25 @@
 *   Corange
     *   [lucidscape/corange-rs (⭐43)](https://github.com/lucidscape/corange-rs) — [Corange (⭐1.6k)](https://github.com/orangeduck/Corange) bindings
 
-## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [2. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+
+### Competitions
+
+*   [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
+
+## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 
-## [3. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [4. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Writing native (⭐361)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
-## [4. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [5. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -183,7 +189,7 @@
 *   [101 IT Security Interview Questions](http://careers.simplicable.com/careers/new/101-IT-security-interview-questions)
 *   [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 
-## [5. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [6. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Composer
 
@@ -204,13 +210,355 @@
 *   [Gitlab-Composer (⭐165)](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for Gitlab repositories.
 *   [Satisfy (⭐465)](https://github.com/ludofleury/satisfy) - Satis composer repository manager with a Web UI.
 
-## [6. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [7. Codeface](/content/chrissimpkins/codeface/week/README.md)
+
+### The Gallery
+
+### [FreeMono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/free-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/free-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/free-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/free-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/free-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/free-mono-light.png" width="725">
+### [Hack](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/hack)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/hack/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hack-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hack-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hack-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hack-light.png" width="725">
+### [Hasklig](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/hasklig)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](#)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/hasklig/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hasklig-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hasklig-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hasklig-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hasklig-light.png" width="725">
+### [Hermit](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/hermit)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/hermit/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hermit-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hermit-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hermit-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/hermit-light.png" width="725">
+### [Inconsolata](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/inconsolata)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/inconsolata/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/inconsolata-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/inconsolata-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/inconsolata-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/inconsolata-light.png" width="725">
+### [Iosevka](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/iosevka)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/iosevka/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-light.png" width="725">
+### [Iosevka Slab](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/iosevka-slab)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/iosevka-slab/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/iosevka-slab-light.png" width="725">
+### [Kawkab Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/kawkab-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/kawkab-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/kawkab-mono-light.png" width="725">
+### [Lekton](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/lekton)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/lekton/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/lekton-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/lekton-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/lekton-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/lekton-light.png" width="725">
+### [Liberation Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/liberation-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/liberation-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/liberation-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/liberation-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/liberation-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/liberation-mono-light.png" width="725">
+### [Linux Libertine Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/linux-libertine-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/linux-libertine-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/linux-libertine-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/linux-libertine-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/linux-libertine-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/linux-libertine-mono-light.png" width="725">
+### [Luculent](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/luculent)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/luculent/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luculent-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luculent-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luculent-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luculent-light.png" width="725">
+### [Luxi Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/luxi-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/luxi-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luxi-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luxi-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luxi-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/luxi-mono-light.png" width="725">
+### [Mensch](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mensch)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mensch/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mensch-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mensch-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mensch-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mensch-light.png" width="725">
+### [Meslo LG M DZ](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/meslo)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/meslo/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/meslo-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/meslo-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/meslo-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/meslo-light.png" width="725">
+### [Metrickal](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/metrickal)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/metrickal/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/metrickal-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/metrickal-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/metrickal-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/metrickal-light.png" width="725">
+### [monoOne](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mono-one)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mono-one/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-one-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-one-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-one-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-one-light.png" width="725">
+### [MonoSpatial](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mono-spatial)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mono-spatial/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-spatial-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-spatial-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-spatial-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mono-spatial-light.png" width="725">
+### [monofur](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monofur)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monofur/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monofur-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monofur-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monofur-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monofur-light.png" width="725">
+### [Monoid](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monoid)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](#)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monoid/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monoid-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monoid-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monoid-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monoid-light.png" width="725">
+### [Monospace](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monospace)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monospace/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-light.png" width="725">
+### [MonospaceTypewriter](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monospace-typewriter)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/monospace-typewriter/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-typewriter-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-typewriter-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-typewriter-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/monospace-typewriter-light.png" width="725">
+### [M+ 1m](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mplus1m)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mplus1m/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1m-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1m-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1m-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1m-light.png" width="725">
+### [M+ 1mn](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mplus1mn)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mplus1mn/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1mn-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1mn-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1mn-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus1mn-light.png" width="725">
+### [M+ 2m](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mplus2m)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/mplus2m/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus2m-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus2m-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus2m-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/mplus2m-light.png" width="725">
+### [NotCourierSans](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/not-courier-sans)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/not-courier-sans/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/not-courier-sans-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/not-courier-sans-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/not-courier-sans-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/not-courier-sans-light.png" width="725">
+### [Office Code Pro](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/office-code-pro)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/office-code-pro/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/office-code-pro-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/office-code-pro-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/office-code-pro-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/office-code-pro-light.png" width="725">
+### [Oxygen Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/oxygen-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/oxygen-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/oxygen-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/oxygen-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/oxygen-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/oxygen-mono-light.png" width="725">
+### [Panic Sans](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/panic-sans)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/panic-sans/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/panic-sans-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/panic-sans-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/panic-sans-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/panic-sans-light.png" width="725">
+### [Pointfree](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/pointfree)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/pointfree/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pointfree-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pointfree-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pointfree-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pointfree-light.png" width="725">
+### [ProFontWindows](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/pro-font-windows)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/pro-font-windows/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pro-font-windows-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pro-font-windows-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pro-font-windows-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pro-font-windows-light.png" width="725">
+### [PT Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/pt-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/pt-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pt-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pt-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pt-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/pt-mono-light.png" width="725">
+### [Roboto Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/roboto-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/roboto-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/roboto-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/roboto-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/roboto-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/roboto-mono-light.png" width="725">
+### [saxMono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/sax-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/sax-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sax-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sax-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sax-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sax-mono-light.png" width="725">
+### [Share-TechMonoTrue](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/sharetech-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/sharetech-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sharetech-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sharetech-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sharetech-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sharetech-mono-light.png" width="725">
+### [SmallTypeWriting](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/small-type-writing)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/small-type-writing/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/small-type-writing-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/small-type-writing-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/small-type-writing-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/small-type-writing-light.png" width="725">
+### [Source Code Pro](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/source-code-pro)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/source-code-pro/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/source-code-pro-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/source-code-pro-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/source-code-pro-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/source-code-pro-light.png" width="725">
+### [Sudo](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/sudo)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/sudo/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sudo-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sudo-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sudo-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/sudo-light.png" width="725">
+### [Terminus](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/terminus)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/terminus/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/terminus-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/terminus-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/terminus-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/terminus-light.png" width="725">
+### [TeX Gyre Cursor](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/tex-gyre-cursor)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/tex-gyre-cursor/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/tex-gyre-cursor-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/tex-gyre-cursor-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/tex-gyre-cursor-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/tex-gyre-cursor-light.png" width="725">
+### [Ubuntu Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/ubuntu-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/ubuntu-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/ubuntu-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/ubuntu-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/ubuntu-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/ubuntu-mono-light.png" width="725">
+### [Verily Serif Mono](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/verily-serif-mono)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/verily-serif-mono/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/verily-serif-mono-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/verily-serif-mono-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/verily-serif-mono-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/verily-serif-mono-light.png" width="725">
+
+## [8. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Proton (⭐153)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
-## [7. Tips](/content/git-tips/tips/week/README.md)
+## [9. Tips](/content/git-tips/tips/week/README.md)
+
 ## List all the alias and configs.
 
 ```sh
@@ -227,31 +575,47 @@ git config --global core.ignorecase false
 git config --global help.autocorrect 1
 ```
 
-## [8. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [10. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [glumpy (⭐1.1k)](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / C individuals
+
+*   Chris Hager <https://www.metachris.com/blog/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Michaël Gallego <http://www.michaelgallego.fr/articles/>
+
+## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## [10. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### ORM
 
 *   [phalcon-boundmodels (⭐3)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
-## [11. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [14. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Books
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [12. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [15. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### serialization
+
+*   [rgeo-geojson (⭐178)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
+
+## [16. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -261,26 +625,26 @@ git config --global help.autocorrect 1
 
 *   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
 
-## [13. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Images, Maps and Charts / Paid Books
 
 *   [Unite Gallery (⭐530)](https://github.com/vvvmax/unitegallery/) - Responsive jQuery image and video gallery plugin.
 *   [Viewer (⭐1k)](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
 
-## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Boilerplates / Brunch Plugins
 
 *   [es6-jspm-gulp-boilerplate (⭐137)](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
-## [15. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [19. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Papers
 
 *   [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -347,7 +711,7 @@ git config --global help.autocorrect 1
 
 *   [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 
-## [17. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [21. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### General
 
@@ -360,7 +724,7 @@ git config --global help.autocorrect 1
 
 *   [Marionette Form View (⭐78)](https://github.com/viverae/marionette.formview)
 
-## [18. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [22. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Natural Language Processing
 
@@ -375,14 +739,14 @@ git config --global help.autocorrect 1
 
 *   [git2r (⭐190)](https://github.com/ropensci/git2r) - Gives you programmatic access to Git repositories from R.
 
-## [19. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [23. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
 *   [Salesforce ReactJS SPA Starter (⭐16)](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
 *   [ForceSpinner (⭐8)](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
-## [20. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Organizations
 
@@ -398,7 +762,7 @@ git config --global help.autocorrect 1
 
 *   [Dtanks (⭐11)](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
 
-## [21. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Mocking / Symfony2
 
@@ -408,13 +772,13 @@ git config --global help.autocorrect 1
 
 *   [Deck of Cards API](http://deckofcardsapi.com) - Open API for simulating a deck of cards.
 
-## [22. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   [CakeAdmin plugin (⭐29)](https://github.com/cakemanager/cakephp-cakeadmin) - A non-stable user management plugin with a built-in admin area.
 
-## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [27. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Basics
 
@@ -504,19 +868,29 @@ git config --global help.autocorrect 1
 
 *   [BetterWorks](http://www.producthunt.com/tech/betterworks)
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [28. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios \[Simplified BSD]
 
-## [25. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [29. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [tesla-streamer (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task (⭐16)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 
-## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [30. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Seth Alexander (⭐0)](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
+
+### Ask these organizations anything!
+
+*   [From the Front (⭐0)](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
+
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
@@ -534,7 +908,7 @@ git config --global help.autocorrect 1
 *   [benchmark.js (⭐5.3k)](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 *   [matcha (⭐556)](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Tracking / ORM
 
@@ -548,13 +922,13 @@ git config --global help.autocorrect 1
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [33. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [29. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -573,7 +947,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [30. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -606,7 +980,7 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
@@ -616,7 +990,7 @@ git config --global help.autocorrect 1
 
 *   [tz-format (⭐9)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [32. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [37. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -627,7 +1001,7 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [33. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [38. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -639,13 +1013,13 @@ git config --global help.autocorrect 1
 *   [hn-cli (⭐455)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 *   [whereami (⭐151)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [34. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [35. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [40. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -653,7 +1027,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [36. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [41. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -661,7 +1035,7 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -694,7 +1068,7 @@ git config --global help.autocorrect 1
 
 *   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -716,7 +1090,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [39. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [44. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

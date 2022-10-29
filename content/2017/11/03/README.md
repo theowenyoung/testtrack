@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2017
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,7 +32,13 @@
 
 *   *[REDES. Revista hispana para el análisis de redes sociales](http://revista-redes.rediris.es/)*, in Spanish (INSNA).
 
-## [3. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+### Cognitive Development
+
+*   [Drive - The Surprising Truth About What Motivates Us](https://www.youtube.com/watch?v=u6XAPnuFjJc) by **RSA Animate** \[10:47]
+
+## [4. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Events/Meetups / Javascript
 
@@ -40,13 +46,112 @@
 
     A Brazilian initiative to provide free javascript classes to women in a male-free environment.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [ArduinoBoy (⭐232)](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+
+### Europe / Sweden
+
+### Santander
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/erikras" height="70px" width="70px" align="left" alt="" />
+
+**Erik Rasmussen**\
+Topics: React, Redux, Redux-Form, Forms\
+<https://twitter.com/erikras>
+
+### North America / United States of America 🇺🇸
+
+### Boston
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ericwbailey" height="70px" width="70px" align="left" alt="" />
+
+**Eric Bailey**\
+Topics: Accessibility\
+<https://twitter.com/ericwbailey>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bahmutov" height="70px" width="70px" align="left" alt="" />
+
+**Gleb Bahmutov**\
+Topics: Computer Science, JavaScript, Reactive Programming\
+<https://twitter.com/bahmutov>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/leaverou" height="70px" width="70px" align="left" alt="" />
+
+**Lea Verou**\
+Topics: CSS, HTML\
+<https://twitter.com/leaverou>
+### Denver
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mirisuzanne" height="70px" width="70px" align="left" alt="" />
+
+**Miriam Suzanne**\
+Topics: CSS, Sass, Architecture, Design Systems\
+<https://twitter.com/mirisuzanne>
+### Philadelphia
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lispardi" height="70px" width="70px" align="left" alt="" />
+
+**Lis Pardi**\
+Topics: Web\
+<https://twitter.com/lispardi>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rtfeldman" height="70px" width="70px" align="left" alt="" />
+
+**Richard Feldman**\
+Topics: Elm\
+<https://twitter.com/rtfeldman>
+### Pittsburgh
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/brad_frost" height="70px" width="70px" align="left" alt="" />
+
+**Brad Frost**\
+Topics: Web Design, Atomic Design, Web Development\
+<https://twitter.com/brad_frost>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/linclark" height="70px" width="70px" align="left" alt="" />
+
+**Lin Clark**\
+Topics: React, WebAssembly, Browsers Internals\
+<https://twitter.com/linclark>
+
+### License / Brazil 🇧🇷
+
+### São Paulo
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/carolcode" height="70px" width="70px" align="left" alt="" />
+
+**Caroline Soares**\
+Topics: Frontend development, woman's inspiration, JavaScript, CSS\
+<https://twitter.com/carolcode>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fembernardo" height="70px" width="70px" align="left" alt="" />
+
+**Fernanda Bernardo**\
+Topics: CSS, JavaScript, HTML\
+<https://twitter.com/fembernardo>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/JoaoVictor_AC" height="70px" width="70px" align="left" alt="" />
+
+**João Victor Dias**\
+Topics: Computer Vision, Keras, CNN, R, Data Science path\
+<https://twitter.com/JoaoVictor_AC>
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sseraphini" height="70px" width="70px" align="left" alt="" />
+
+**Sibelius Seraphini**\
+Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
+<https://twitter.com/sseraphini>
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
+
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
@@ -65,7 +170,7 @@
 *   [libharu (⭐1.4k)](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. \[zlib]
 *   [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. \[AGPL/Commercial]
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Dependency Managers
 

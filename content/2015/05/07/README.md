@@ -1,6 +1,6 @@
 # Awesome List Updates on May 07, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -47,7 +47,14 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 *   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
 
-## [4. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [4. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Hosted Tools
+
+*   [GateHub](https://gatehub.net/)
+*   [Ripple Live (GateHub)](https://gatehub.net/live)
+
+## [5. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Build Tooling
 
@@ -65,7 +72,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 *   [Video - "PureScript (Maybe This Time We Get JavaScript Right)" by Bodil Stokke](https://www.youtube.com/watch?v=yIlDBPiMb0o)
 *   [Book - "PureScript by Example" by Phil Freeman](https://leanpub.com/purescript/read)
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
@@ -91,13 +98,13 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 *   [Zerver](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
-## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Databases
 
 *   [JSON Server (⭐64k)](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 
-## [7. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Layout
 
@@ -149,7 +156,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 
 
-## [8. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [9. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Articles
 

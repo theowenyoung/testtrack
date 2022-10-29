@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 07 - Feb 13, 2022
 
-56 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -786,38 +786,56 @@
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 *   [Plan (⭐13)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
-## [40. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [40. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Awesome Components
+
+*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - modern mobile touch slider
+
+### React Tools / React Frameworks
+
+*   [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
+
+### React Tools / React Routing
+
+*   [react-location (⭐2.5k)](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
+
+### Redux Tools / Charts
+
+*   [Rematch (⭐8.3k)](https://github.com/rematch/rematch) - Redux made easy
+
+## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Python tools / Misc
 
 *   [pptk (⭐532)](https://github.com/heremaps/pptk) - Visualize and work with 2D/3D pointclouds
 
-## [41. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [42. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
 *   [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://twitter.com/Wayne).
 
-## [42. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [43. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Jobs / Other external resources
 
 *   [reverse job board for rails devs - railsdevs.com](https://railsdevs.com)
 
-## [43. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [44. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Python / React
 
 *   [turms (⭐13)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
 *   [rath (⭐3)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
-## [44. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [45. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### End-user applications / XML
 
 *   [Cryptic-Resolver (⭐2)](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
 
-## [45. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [46. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -848,13 +866,13 @@
 
 
 
-## [46. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Webview
 
 *   [Astrodon (⭐728)](https://github.com/astrodon/astrodon) - Modular framework for building native multi-platform apps with Deno and webview.
 
-## [47. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [48. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / General
 
@@ -864,12 +882,11 @@
 
 *   [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue3-side-panel (⭐15)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
-*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 *   [vue-search-input (⭐16)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 
 ### Components & Libraries / Utilities
@@ -880,13 +897,13 @@
 
 *   [vuesion (⭐2.6k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 
-## [49. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [50. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
 *   [Terrascan (⭐3.3k)](https://github.com/accurics/terrascan) - *Accurics* - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
-## [50. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [51. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Libraries / Go
 
@@ -937,7 +954,7 @@
 
 *   [net-snmp tutorials](http://www.net-snmp.org/wiki/index.php/Tutorials) - This Wiki page contains various tutorials ranging from the basics of SNMP protocol to implementation of SNMP applications and agents using net-snmp library.
 
-## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [52. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Emulators
 
@@ -961,7 +978,7 @@
 *   Bluetooth
     *   [bluez/bluer (⭐95)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] — Official BlueZ bindings for Rust. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
-## [52. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [53. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
@@ -971,7 +988,7 @@
 
 *   [Nussknacker (⭐332)](https://github.com/TouK/nussknacker) \[Scala] - A visual tool to define and run real-time decision algorithms.
 
-## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -1744,7 +1761,7 @@
 
 
 
-## [54. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [55. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Analyzers - API / Meetups
 
@@ -1754,7 +1771,7 @@
 *   [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
 *   [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
 
-## [55. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -1772,7 +1789,7 @@
 
 *   [Lark](https://www.larksuite.com/en_us/) - The Next-Gen Collaboration Suite. All your chats, meetings, calendars, docs, and emails in one place. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [56. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [57. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Applications in AI
 

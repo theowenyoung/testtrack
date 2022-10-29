@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -123,7 +123,13 @@
     tools for using Swagger to define and validate your interfaces in a Pyramid webapp. (Swagger 2.0 document)
 *   [pyramid-openapi3 (⭐78)](https://github.com/niteoweb/pyramid_openapi3) - Validate Pyramid views against an OpenAPI 3.0 document. Similar to pyramid\_swagger but for OpenAPI 3.0.
 
-## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Erdal TAŞKESEN (⭐5)](https://github.com/erdaltsksn/ama) - All in one developer.
+
+## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Template Engine / Other
 

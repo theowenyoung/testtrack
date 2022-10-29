@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 18, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [sarimarton/powercycle](https://powercycle.js.org) - Static VDOM composition and React-like development on top of Cycle.js
 
-## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
+## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### Community
+
+*   [Transit Techies NYC](https://transittechies.nyc/) - NYC-based meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
+
+## [3. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 
 ### Become an Appium Pro
 
 *   [How to Pick the Right Locator Strategy](https://appiumpro.com/editions/60)
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### E-Commerce and Payments
 
@@ -28,25 +34,25 @@
 
 *   [Tiny.RestClient (⭐194)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Vert.x Event Bus Clients
 
 *   [Elixir (⭐15)](https://github.com/PharosProduction/ExVertx) - Event bus support for Elixir apps using TCP socket.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Resources / Articles
 
 *   [F# for JavaScript Devs](https://dev.to/rametta/f-for-js-devs-2b88) - Showcasing the similarities between F# and JavaScript
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [System.CommandLine (⭐2.9k)](https://github.com/dotnet/command-line-api) - System.CommandLine, a set of libraries for command line parsing, invocation, and rendering of terminal output.
 
-## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [8. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Developer Tools
 
@@ -56,7 +62,7 @@
 
 *   [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 
-## [8. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [9. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### API
 

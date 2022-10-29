@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26 - Feb 01, 2015
 
-17 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,13 +73,27 @@
 
 *   [rmongodb (⭐53)](https://github.com/mongosoup/rmongodb) - R driver for MongoDB.
 
-## [8. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+
+### Functional Programming
+
+*   [Functional Programming Design Patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) by **Scott Wlaschin** \[1:49:10]
+
+### Test-Driven Development
+
+*   [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** \[53:43]
+
+### Methodologies
+
+*   [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** \[45:03]
+
+## [9. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### IDE
 
 *   [Vim Template (⭐360)](https://github.com/aperezdc/vim-template) Simple Vim Templates plugin.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
@@ -98,7 +112,7 @@
 
 *   [vim-elixir (⭐1.3k)](https://github.com/elixir-lang/vim-elixir) - Vim configuration files for Elixir.
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -120,13 +134,13 @@
 
 
 
-## [11. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [12. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Workflow Overviews
 
 *   [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost), by Paul Davis (11/4/14)
 
-## [12. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [13. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Command-line Utilities
 
@@ -137,7 +151,7 @@
 *   [LuaCrypto (⭐86)](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
 *   [lua-lockbox (⭐325)](https://github.com/somesocks/lua-lockbox) - A collection of cryptographic primitives written in pure Lua.
 
-## [13. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
+## [14. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
 
 ### Emojis / Compare Branches across Forked Repositories
 
@@ -147,7 +161,13 @@
 *   `:+1:`
 *   `:clap:`
 
-## [14. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [15. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+
+### Gateways / Bridges
+
+*   [saldo.mx](http://saldo.mx/)
+
+## [16. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Args
 
@@ -252,13 +272,13 @@
 *   [Daiku](https://metacpan.org/pod/Daiku) - Make for Perl.
 *   [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
 *   [cfonts (⭐1.2k)](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 
-## [16. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
+## [18. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
 ### GDC Talks / Table of Contents
 
@@ -275,7 +295,7 @@
 *   \[2012, G.A.N.G Summit] [Music Design in Games](https://www.youtube.com/watch?v=Pl86ND_c5Og): Rich Vreeland (Disasterpeace)
 *   \[2012, George Mason University] [Lecture Series](https://www.youtube.com/watch?v=CrfdNJDVpR4): Todd Howard (Bethesda)
 
-## [17. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [19. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Fundamentals
 

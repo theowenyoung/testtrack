@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2016
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,6 +59,7 @@ A portable public domain password hashing framework for use in PHP applications.
 *   [prometheus.ex (⭐390)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
 ## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Apply commit from another repository
 
 ```sh
@@ -137,13 +138,19 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [TapTargetView (⭐5.2k)](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 
-## [12. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [12. Awesome Material](/content/sachin1092/awesome-material/README.md)
+
+### CSS
+
+*   [mui (⭐4.5k)](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
+
+## [13. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Apps
 
 *   [Shuffle-Move (⭐92)](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 
-## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [14. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### Low-level Vision / Change Detection
 

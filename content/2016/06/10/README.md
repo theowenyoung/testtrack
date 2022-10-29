@@ -19,6 +19,7 @@
 *   [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## Clone a single branch
 
 ```sh

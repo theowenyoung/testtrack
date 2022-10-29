@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,13 @@
 *   [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 *   [A chess AI that learns to play chess using deep learning. (⭐761)](https://github.com/erikbern/deep-pink)
 
-## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
+## [7. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+
+### Gateways / Bridges
+
+*   [ShapeShift](https://shapeshift.io): Buy Coins Instantly, No Account Needed
+
+## [8. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
 ### General Purpose Computer Vision Library
 

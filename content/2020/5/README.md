@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2020
 
-62 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -531,6 +531,7 @@
 *   [Cheat Sheet (printable)](https://ztiromoritz.github.io/pico-8-spick/) - A reduced cheat sheet in a printable format. German and English version available.
 
 ## [14. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+
 - Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
@@ -1466,7 +1467,17 @@
 *   [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 *   [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
 
-## [43. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [43. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Awesome Components
+
+*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
+
+### React Tools / React Frameworks
+
+*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+
+## [44. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -1476,7 +1487,7 @@
 
 *   [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) - More than 3300 descriptors and related terms for chemoinformatic analysis of chemical compound properties.
 
-## [44. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Auditing / Logging
 
@@ -1503,7 +1514,7 @@
 
 *   [CloudflareDeploy Plugin (⭐1)](https://github.com/challgren/cakephp-cloudflare-deploy) - Useful console commands for deploying CakePHP apps using Cloudflare.
 
-## [45. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [46. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### VueJS
 
@@ -1515,7 +1526,7 @@
 
 
 
-## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [47. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -1525,13 +1536,13 @@
 
 *   [REFACTR.TECH](https://www.refactr.tech) - REFACTR.TECH focuses on technology while creating a safe space for thoughtful and nuanced conversations around diversity, inclusion, and intersectionality in tech.
 
-## [47. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
 
-## [48. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [49. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -1581,7 +1592,7 @@
 *   [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 *   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning
 
-## [49. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [50. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -1592,7 +1603,7 @@
 
 *   [DELTA (⭐70)](https://github.com/seungsoo-lee/DELTA) - SDN Security evaluation framework.
 
-## [50. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [51. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Logging
 
@@ -1610,7 +1621,7 @@
 
 *   [TKRubberIndicator (⭐1.4k)](https://github.com/TBXark/TKRubberIndicator) - Rubber Indicator in Swift.
 
-## [51. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [52. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1621,19 +1632,19 @@
 *   [Linting your AWS IAM policy documents for correctness and security issues (⭐31)](https://github.com/xen0l/iam-lint)
 *   [Secret Spreader (⭐34)](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 
-## [52. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [53. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 
-## [53. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [54. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Misc/Technical / Hosting
 
 *   [CouchDB - JSON and B-trees and REST, oh my!](https://pozorvlak.livejournal.com/176385.html)
 
-## [54. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [55. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Blockchain
 
@@ -1648,7 +1659,7 @@
 
 *   [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS protocol implementation and resolver
 
-## [55. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [56. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -1659,13 +1670,13 @@
 
 *   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - a book on general purpose machine learning techniques regression, classification, unsupervised clustering, reinforcement learning, auto encoders, convolutional neural networks, RNNs, LSTMs, using TensorFlow 1.14.1.
 
-## [56. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [57. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
 *   [MAX31855 (⭐3)](https://github.com/cs2dsb/max31855.rs) - SPI - Thermocouple digital converter -![crates.io](https://img.shields.io/crates/v/max31855.svg)
 
-## [57. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [58. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Iconic fonts / Fonts
 
@@ -1675,7 +1686,13 @@
 
 *   [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## [58. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [59. Amas](/content/sindresorhus/amas/week/README.md)
+
+### Ask these people anything!
+
+*   [Ale Muñoz (⭐1)](https://github.com/bomberstudios/ama) - Developer relations at Sketch, plugin developer, designer & digital toolsmith.
+
+## [60. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
@@ -1687,11 +1704,7 @@
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
-## [59. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
-
-### Miscellaneous
-
-*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
+## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Boilerplate / Mouse Events
 
@@ -1701,13 +1714,13 @@
 
 *   [react-universal-hooks (⭐177)](https://github.com/salvoravida/react-universal-hooks) - :tada: support react hooks everywhere (Functional or Class Component).
 
-## [60. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [62. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Date and Time
 
 *   [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 
-## [61. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [63. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Fantasy
 
@@ -1739,7 +1752,7 @@
 
 
 
-## [62. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [64. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / DDoS Tools
 

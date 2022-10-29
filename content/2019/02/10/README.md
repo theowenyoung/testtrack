@@ -1,49 +1,55 @@
 # Awesome List Updates on Feb 10, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [pfaedle (⭐124)](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for GTFS using OpenStreetMap data
+
+## [2. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### CCU Alternatives
 
 *   [debmatic (⭐162)](https://github.com/alexreinert/debmatic) - Install the Homematic OCCU on Debian based amd64, armhf and arm64 systems (Debian, Ubuntu, Raspbian, Armbian)
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Data Formats
 
 *   [geoip2.cr (⭐15)](https://github.com/delef/geoip2.cr) - GeoIP2 reader
 *   [maxminddb.cr (⭐24)](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
 
-## [3. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
+## [4. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
 ### Websites
 
 *   [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 
-## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / Fedora Remix for WSL
 
 *   [Fedora Project Documentation](https://docs.fedoraproject.org/)
 
-## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
 *   [Orca (⭐3.9k)](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 
-## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Overview
 
 *   [Lightning-fast templates & Web Components: lit-html & LitElement](https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html)
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -186,13 +192,13 @@
 *   MacUpdate：<https://www.macupdate.com/>
 *   Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Miscellaneous
 
 *   [FF4J (⭐1.1k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 
-## [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Personalization
 

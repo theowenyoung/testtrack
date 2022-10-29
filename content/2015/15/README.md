@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13 - Apr 19, 2015
 
-18 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -60,19 +60,35 @@
 *   [Twitter](https://twitter.com/polymer)
 *   [Google+ Community](https://plus.google.com/u/1/communities/115626364525706131031)
 
-## [7. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [7. Htaccess](/content/phanan/htaccess/week/README.md)
+
+### Rewrite and Redirection / Remove Trailing Slash
+
+### Remove Trailing Slash
+
+This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (except for actual directories), e.g. `http://www.example.com/blog/` to `http://www.example.com/blog`. This is important for SEO, since it’s [recommended](http://overit.com/blog/canonical-urls) to have a canonical URL for every page.
+
+```apacheconf
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]
+```
+
+[Source](https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url#27264788)
+
+## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Scriptable by Lua
 
 *   [KoReader (⭐12k)](https://github.com/koreader/koreader) - An ebook reader application supports PDF, DJVU, EPUB, FB2 and much more, running on Kindle, Kobo, PocketBook and Android devices.
 
-## [8. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [9. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Code generation / Brunch Plugins
 
 *   [generator-es6-babel (⭐9)](https://github.com/HenriqueLimas/generator-es6-babel) - Yeoman generator for Babel apps
 
-## [9. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [10. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Compilers
 
@@ -88,7 +104,7 @@
 
 *   [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 
-## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Data Visualization
 
@@ -130,7 +146,7 @@
 
 *   [Scorched](http://scorchedrb.com) - Light-weight, inheritable and composable web framework, inspired by Sinatra.
 
-## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### ORM and Datamapping
 
@@ -141,19 +157,19 @@
 
 *   [cobertura\_cover (⭐11)](https://github.com/PSPDFKit-labs/cobertura_cover) - Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin.
 
-## [12. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [13. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Repos, CodePens and Things / Repos
 
 *   [WordPress BEM Menu (⭐139)](https://github.com/roikles/Wordpress-Bem-Menu)
 
-## [13. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [14. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Interpreter / Web
 
 *   [IronAHK (⭐389)](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
-## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Image Processing
 
@@ -179,7 +195,7 @@
 
 *   [color\_coded (⭐862)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
-## [15. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -211,7 +227,7 @@
 
 
 
-## [16. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [17. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / CS Theory
 
@@ -221,7 +237,7 @@
     *   [Lecture Notes](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html)
     *   [Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html)
 
-## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [18. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -272,7 +288,7 @@
 
 *   [Docson (⭐481)](https://github.com/lbovet/docson) - Documentation for your types.
 
-## [18. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [19. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Collaborate / Working with a team? These links are for you.
 

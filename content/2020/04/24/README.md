@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 24, 2020
 
-12 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,24 @@
 
 *   [django-guid (⭐283)](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 
-## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+
+### Ruby
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/ruby.webp">
+
+[**Ruby**](https://discord.com/invite/KbDHDez) \
+Notable Channels: `#beginners-chat`, `#project-ideas`, `#help`, `#devops`, `#code-review`, `#frontend`, `#backend`, `#rails`, `#sinatra`\
+Language: English
+### Swift
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/swift.webp">
+
+[**Swift**](https://discord.com/invite/0uZpB8GgRvoU12Ta) \
+Notable Channels: `#wwdc`, `#general`, `#swift`, `#swiftui`, `#firebase`, `#xcode`, `#general-ios`, `#general-macos`, `#general-watchos`, `#interview`\
+Language: English
+
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -34,13 +51,19 @@
 
 *   [Pocket Casts](https://www.pocketcasts.com/) <sup>[473](https://t.me/s/aboutrss/473)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://play.pocketcasts.com/)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)[![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/au/app/pocket-casts/id414834813)
 
-## [5. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+
+### Websites
+
+*   Postmake - <https://postmake.io/submit>
+
+## [7. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Other
 
 *   [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - Subreddit for FBA sellers.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
@@ -58,25 +81,25 @@
 
 *   [MoinMoin](https://moinmo.in/) - Advanced, easy to use and extensible WikiEngine with a large community of users. ([Source Code (⭐126)](https://github.com/moinwiki/moin-1.9)) `GPL-2.0` `Python`
 
-## [7. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [9. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
 *   [Wokwi Elements (⭐104)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [bayeso (⭐70)](https://github.com/jungtaekkim/bayeso) - A simple, but essential Bayesian optimization package, written in Python.
 
-## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Resources / Videos
 
 *   [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -106,13 +129,13 @@
 
 
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [Minesweeper (⭐23)](https://github.com/jgpaiva/minesweeper) - Minesweeper built with Rust, Yew and WebAssembly.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 

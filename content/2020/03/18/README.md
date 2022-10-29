@@ -1,25 +1,31 @@
 # Awesome List Updates on Mar 18, 2020
 
-8 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
+## [1. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+
+### editors & viewers
+
+*   [Web GIS](https://drewweth.github.io/geodebugger): tools to view, inspect, and manipulate geospatial data
+
+## [2. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
 ### Web Apps (frontend only) / [Dnote](https://github.com/dnote/dnote)
 
 *   golang, react, typescript
 *   GPLv3 License, AGPLv3 License
 
-## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### FPS
 
 *   [BStone (⭐229)](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 
-## [3. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
+## [4. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
 ### Server Software / SIP Servers
 
@@ -35,13 +41,13 @@
 
 *   [dart-sip-ua (⭐247)](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
 *   [BGB](https://bgb.bircd.org/) - Powerful emulator and debugger. Provides an accurate hardware emulation.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
@@ -63,23 +69,35 @@
 
 *   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
-## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Continuous Integration
 
 *   [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 
-## [7. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tools / React Libraries
+
+*   [react-open-doodles (⭐49)](https://github.com/lunahq/react-open-doodles) - Awesome free illustrations as react components.
+
+## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   🔧 [Svarog (⭐35)](https://github.com/dantothefuture/svarog) - Cloud Firestore schema validation with JSON Schema generated Security Rule helper functions.
 
-## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [LightSaber (⭐52)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+
+## [11. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) - Distributed Systems Engineer, Java and Golang developer, 3x CTO, [blogger](https://blog.arpitmohan.com).
 
 ---
 

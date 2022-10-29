@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14 - Mar 20, 2016
 
-40 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,13 @@
     *   This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
     *   [Assignments (⭐183)](https://github.com/cis198-2016s/homework)
 
-## [6. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Hardware
+
+*   [Bus Tracking GPS (⭐25)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
+
+## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Omniauth
 
@@ -56,13 +62,13 @@
 
 *   [Pronto (⭐2.5k)](https://github.com/mmozuras/pronto) - Quick automated code review of your changes
 
-## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C / General-Purpose Machine Learning
 
 *   [Darknet (⭐23k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
@@ -72,25 +78,25 @@
 
 *   [chatter (⭐26)](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 
-## [9. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [10. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Image Super-resolutions
 
 *   [Tracking Manipulation Tasks (TMT)](http://webdocs.cs.ualberta.ca/\~vis/trackDB/)
 
-## [10. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [11. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Reporters / JavaScript
 
 *   [tap-teamcity (⭐8)](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Dependency Managers
 
 *   [swift-package-manager (⭐9k)](https://github.com/apple/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
 
-## [12. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [13. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Resources / TikZ
 
@@ -100,7 +106,7 @@
 
 *   [LinkedIn: TeX/LaTeX User Group](https://www.linkedin.com/groups/1600297)
 
-## [13. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [14. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Rich Application
 
@@ -110,31 +116,31 @@
 
 *   [Http-Builder (⭐312)](https://github.com/jgritman/httpbuilder) - HTTPBuilder is the easiest way to manipulate HTTP-based resources from the JVM
 
-## [14. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [15. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
 *   [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
 
-## [15. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [16. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Iconic fonts / Fonts
 
 *   [WebHostingHub Glyphs (⭐270)](https://github.com/whhglyphs/webhostinghub-glyphs)
 
-## [16. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
+## [17. Awesome Marionette](/content/sadcitizen/awesome-marionette/week/README.md)
 
 ### General
 
 *   [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
-## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Logging
 
 *   [storyboard (⭐726)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
-## [18. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [19. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### Analytics
 
@@ -195,20 +201,20 @@
 
 *   `tool` [dokku](http://dokku.viewdocs.io/dokku/) — a self-hosted, docker-based, Heroku-compliant platform.
 
-## [19. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [20. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Books
 
 *   [Python Web Frameworks](http://www.oreilly.com/web-platform/free/python-web-frameworks.csp) - Dive into details on the top
     six Python frameworks—Django, Flask, Tornado, Bottle, Pyramid, and CherryPy.
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### MVVM
 
 *   [Prism (⭐5.4k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
-## [21. Typography](/content/deanhume/typography/week/README.md)
+## [22. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -220,7 +226,7 @@
 
 *   [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
 
-## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [23. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Filesystem / Web
 
@@ -235,13 +241,13 @@
 *   [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua\_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 *   [PAHK](https://code.google.com/archive/p/pahk) - Forum thread: [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 
-## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Native
 
 *   [JavaCPP (⭐3.9k)](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Domain Analysis / Other Resources
 
@@ -250,7 +256,7 @@
 *   [TekDefense Automater](http://www.tekdefense.com/automater/) - OSINT tool
     for gathering information about URLs, IPs, or hashes.
 
-## [25. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [26. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -260,19 +266,19 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fractalClock.png)](http://www.dqd.com/\~mayoff/programs/FractalClock/)
 
-## [26. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [27. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
 *   [GFXBench 5](https://kishonti.net/news_single.jsp?id=31133884) - by Kishonti.
 
-## [27. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [28. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
 *   [Neanderthal (⭐979)](https://github.com/uncomplicate/neanderthal)
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -282,13 +288,13 @@
 
 *   [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
 
-## [29. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
 
-## [30. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [31. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Ruby / Rails
 
@@ -298,7 +304,7 @@
 
 *   [Relay Fullstack (⭐993)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
 
-## [31. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [32. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
@@ -586,13 +592,36 @@
 *   [SerializedResponseBundle (⭐5)](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
 *   [SRIORestUploadBundle (⭐46)](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
 
-## [32. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [33. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Promise
 
 *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 
-## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [34. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+
+### Individuals/Group Contributors / B individuals
+
+*   Bartlomiej Filipek <http://www.bfilipek.com/>
+
+### Individuals/Group Contributors / C individuals
+
+*   Chien Tran <http://thelazylog.com/>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ian Hummel <https://themodernlife.github.io/>
+
+### Individuals/Group Contributors / M individuals
+
+*   Matt Aimonetti <https://matt.aimonetti.net/>
+*   Milosz Galazka <https://blog.sleeplessbeastie.eu/>
+
+### Individuals/Group Contributors / N individuals
+
+*   Nick Galbreath <http://www.client9.com/>
+
+## [35. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -602,7 +631,7 @@
 
 *   Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
-## [34. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [36. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Learning Resources
 
@@ -612,7 +641,7 @@
 
 *   [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
-## [35. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [37. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Email
 
@@ -626,13 +655,13 @@
 
 *   [Gearman plugin (⭐13)](https://github.com/cvo-technologies/cakephp-gearman) - A plugin for offloading CakePHP tasks to a Gearman Job Server.
 
-## [36. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [38. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Tools
 
 *   [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables.
 
-## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -643,7 +672,7 @@
 *   [lucasviola/Awesome Functional Programming (⭐820)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 *   [xgrommx/Awesome Functional Programming (⭐3.2k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
-## [38. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [40. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -661,7 +690,7 @@
 *   [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language](http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
     to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 
-## [39. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [41. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Injection
 
@@ -671,11 +700,58 @@
 
 *   [Image Hash (⭐1.8k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 
-## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [42. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
 *   [Alluxio](http://www.alluxio.org/) - reliable file sharing at memory speed across cluster frameworks.
+
+## [43. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+
+### Official Resources
+
+*   [Site](http://ionicframework.com/)
+*   [Blog](http://blog.ionic.io/)
+*   [Documentation](http://ionicframework.com/docs/v2/)
+*   [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
+*   [Ionic Native (⭐2.2k)](https://github.com/driftyco/ionic-native/)
+*   [Community Forum](http://forum.ionicframework.com/)
+*   [Ionic IRC](http://webchat.freenode.net/?randomnick=1\&channels=%23ionic\&uio=d4)
+*   [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
+*   [Showcase](http://showcase.ionicframework.com/)
+
+### Ionic Fundamentals
+
+*   [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
+
+### Components
+
+*   [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)
+
+### Authentication
+
+*   [Successful OAuth Social Login with Firebase](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/)
+*   [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/)
+
+### Ionic Native / Cordova Plugins
+
+*   [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/)
+*   [How to Use Google Maps & Geolocation ](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
+*   [Determine Network Availability](https://www.thepolyglotdeveloper.com/2016/01/determine-network-availability-in-an-ionic-2-mobile-app/)
+*   [Having Fun With Cordova Geolocation Plugin](http://www.gajotres.net/ionic-2-having-fun-with-cordova-geolocation-plugin/)
+
+### Backend as a Service
+
+*   [Making REST HTTP Requests Like a Pro](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)
+
+### i18n & l10n
+
+*   [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
+
+### Open Source Projects
+
+*   [Ionic Conference App (⭐3.5k)](https://github.com/driftyco/ionic-conference-app)
+*   [IonicRealty (⭐264)](https://github.com/ccoenraets/ionic2-realty)
 
 ---
 

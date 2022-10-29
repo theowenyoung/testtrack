@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14, 2015
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,14 @@
 
 *   [Instant-ish Real Service Architecture](https://vimeo.com/37930578)
 
-## [4. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
+## [4. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Sebastian McKenzie](https://github.com/sebmck/ama) - Creator of Babel.
+*   [Matthew Mueller (⭐3)](https://github.com/matthewmueller/ama) - Creator of Cheerio, Duo, and a few other node modules.
+
+## [5. Awesome Groovy](/content/kdabir/awesome-groovy/README.md)
 
 ### File System Utilities
 

@@ -9,6 +9,7 @@ List of Continuous Integration services
 
 
 ## [Sep 05, 2022](/content/2022/09/05/README.md)
+
 - Name: [Betterscan](https://www.betterscan.io)
 
   Description: Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan Community Edition (CE)
@@ -26,6 +27,7 @@ List of Continuous Integration services
 
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
+
 - Name: [Tekton](https://tekton.dev/)
 
   Description: Cloud-native solution for building CI/CD pipelines
@@ -43,6 +45,7 @@ List of Continuous Integration services
 
 
 ## [Feb 15, 2022](/content/2022/02/15/README.md)
+
 - Name: [Vela](https://go-vela.github.io/docs/)
 
   Description: Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang.
@@ -60,6 +63,7 @@ List of Continuous Integration services
 
 
 ## [Jan 18, 2022](/content/2022/01/18/README.md)
+
 - Name: [GoCD](https://gocd.io/)
 
   Description: Open source, on-premises continuous delivery tool.
@@ -77,6 +81,7 @@ List of Continuous Integration services
 
 
 ## [Jan 02, 2022](/content/2022/01/02/README.md)
+
 - Name: [BitBucket Pipelines](https://bitbucket.org/product/features/pipelines)
 
   Description: Bitbucket Pipelines & Deployments
@@ -109,6 +114,7 @@ List of Continuous Integration services
 
 
 ## [Dec 30, 2021](/content/2021/12/30/README.md)
+
 - Name: [SurplusCI](https://surplusci.com/)
 
   Description: Affordable dedicated runners for your CI pipeline builds, usable with your current CI platform.
@@ -141,6 +147,7 @@ List of Continuous Integration services
 
 
 ## [Nov 18, 2021](/content/2021/11/18/README.md)
+
 - Name: [Woodpecker](https://woodpecker.laszlo.cloud/)
 
   Description: Continuous Integration service
@@ -158,6 +165,7 @@ List of Continuous Integration services
 
 
 ## [Nov 09, 2021](/content/2021/11/09/README.md)
+
 - Name: [Agola](https://agola.io)
 
   Description: Self-Hosted, Open Source CI/CD Platform
@@ -175,6 +183,7 @@ List of Continuous Integration services
 
 
 ## [Nov 08, 2021](/content/2021/11/08/README.md)
+
 - Name: [Appcircle.io](https://appcircle.io/)
 
   Description: Automated mobile CI/CD/CT for iOS and Android with online device emulators.
@@ -192,6 +201,7 @@ List of Continuous Integration services
 
 
 ## [Oct 24, 2021](/content/2021/10/24/README.md)
+
 - Name: [Circle CI](https://circleci.com/)
 
   Description: Continuous Integration and Deployment
@@ -220,6 +230,7 @@ List of Continuous Integration services
 
 
 ## [Sep 15, 2021](/content/2021/09/15/README.md)
+
 - Name: [Thundra Foresight](https://thundra.io/foresight)
 
   Description: A visibility tool into CI pipelines by spotting test failures in no time.
@@ -237,6 +248,7 @@ List of Continuous Integration services
 
 
 ## [Sep 03, 2021](/content/2021/09/03/README.md)
+
 - Name: [Chrono CI](http://www.chronoci.com/)
 
   Description: Continuous Integration Security
@@ -254,6 +266,7 @@ List of Continuous Integration services
 
 
 ## [Apr 27, 2021](/content/2021/04/27/README.md)
+
 - Name: [Kraken CI](https://kraken.ci/)
 
   Description: Self-hosted, open source, highly scalable, focused on testing.
@@ -271,6 +284,7 @@ List of Continuous Integration services
 
 
 ## [Apr 07, 2021](/content/2021/04/07/README.md)
+
 - Name: [Drone](https://drone.io/)
 
   Description: Continuous Integration service
@@ -288,6 +302,7 @@ List of Continuous Integration services
 
 
 ## [Feb 28, 2021](/content/2021/02/28/README.md)
+
 - Name: [flow.ci](https://github.com/flowci)
 
   Description: Self-Hosted, powerful and user-friendly CI/CD server
@@ -305,6 +320,7 @@ List of Continuous Integration services
 
 
 ## [Aug 12, 2020](/content/2020/08/12/README.md)
+
 - Name: [builds.sr.ht](https://builds.sr.ht)
 
   Description: Continuous Integration services for [sourcehut](https://sourcehut.org), the hacker's forge
@@ -322,6 +338,7 @@ List of Continuous Integration services
 
 
 ## [Jul 07, 2020](/content/2020/07/07/README.md)
+
 - Name: [minci (⭐24)](https://github.com/kristapsdz/minci)
 
   Description: minimal self-hosted CI
@@ -333,6 +350,7 @@ List of Continuous Integration services
 
 
 ## [May 30, 2020](/content/2020/05/30/README.md)
+
 - Name: [RazorOps](https://razorops.com/)
 
   Description: RazorOps is a Container-Native CI/CD platform. Instantly build, test and deploy Docker images to Kubernetes
@@ -350,6 +368,7 @@ List of Continuous Integration services
 
 
 ## [May 07, 2020](/content/2020/05/07/README.md)
+
 - Name: [continuousphp](https://continuousphp.com/)
 
   Description: Continuous Integration and deployment for projects written in PHP
@@ -367,6 +386,7 @@ List of Continuous Integration services
 
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
+
 - Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.

@@ -1,86 +1,92 @@
 # Awesome List Updates on Jun 24, 2020
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### GTFS Realtime Utilities / Ruby
+
+*   [manual-gtfsrt (⭐1)](https://github.com/pailakka/manual-gtfsrt) - A Go-based tool that serves a GTFS-RT feed created from editable JSON.
+
+## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
 *   [Gatekeeper (⭐860)](https://github.com/AltraMayor/gatekeeper) - First open source Distributed Denial of Service (DDoS) protection system.
 
-## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [3. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / PHP
 
 *   [DDD CQRS Todo Sample (⭐300)](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 
-## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Models
 
 *   [django-polymorphic (⭐1.4k)](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Utils
 
 *   [climate (⭐12)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 
-## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
 *   [dmux (⭐227)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
-## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Intermediate
 
 *   [Lisp Tips (⭐98)](https://github.com/lisp-tips/lisp-tips/issues/) - A blog with useful tips and tricks. A continuation of [Common Lisp tips](http://lisptips.com/).
 *   [Lisp project of the day](http://40ants.com/lisp-project-of-the-day/) - A blog showcasing many Lisp libraries.
 
-## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Meaning of Symbols:
 
 *   :information\_source: indicates that the community does not recommend to use this tool for new projects anymore. The icon links to the discussion issue.
 
-## [8. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
 *   [GNUmed](https://www.gnumed.de/documentation/) - Electronic Medical Record software.
 
-## [9. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [prisma-relay-cursor-connection (⭐194)](https://github.com/devoxa/prisma-relay-cursor-connection)
 
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
 *   [Lara (⭐121)](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 
-## [11. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
+## [12. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 
 ### Codelabs/Courses
 
 *   [Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/index.html)
 *   [Build Actions for Google Assistant using Actions Builder (Level 2)](https://codelabs.developers.google.com/codelabs/actions-builder-2/index.html)
 
-## [12. Awesome Python](/content/vinta/awesome-python/README.md)
+## [13. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Image Processing
 
 *   [PyMatting (⭐1.3k)](http://github.com/pymatting/pymatting) - A library for alpha matting.
 
-## [13. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [14. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Services
 
@@ -90,7 +96,7 @@
 
 *   [IPFS Setup Action](https://github.com/marketplace/actions/ipfs-setup-action) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform. [Source (⭐14)](https://github.com/ibnesayeed/setup-ipfs)
 
-## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [15. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Tooling
 
@@ -98,13 +104,13 @@
 *   [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 *   [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 
 *   [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
 
-## [16. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [17. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
@@ -114,7 +120,7 @@
 
 *   [Web Audio Metronome (⭐503)](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
-## [17. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [18. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Articles
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 28 - Apr 03, 2022
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -664,19 +664,25 @@
 
 *   [ko (⭐5.2k)](https://github.com/google/ko) - Command line tool for building and deploying Go applications on Kubernetes
 
-## [30. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Realtime Utilities / Ruby
+
+*   [GTFS Data Pipeline for TfNSW Bus Datasets (⭐6)](https://github.com/teckkean/GTFS-Data-Pipeline-TfNSW-Bus) - A data pipeline developed for the TfNSW's GTFS Static and Realtime datasets. The datasets generated using the pipeline have been used to validate the performance of TfNSW's Transit Signal Priority Request via Public Transport Information and Priority System (PTIPS).
+
+## [31. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Multimedia / Other / unknown licence
 
 *   [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
 
-## [31. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [32. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Blade Player (⭐64)](https://github.com/vhaudiquet/BladePlayer) - Open source Spotify client, works without premium.
 
-## [32. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [33. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -688,7 +694,7 @@
 
 *   [Data Models For MongoDB](https://www.mongodb.com/docs/manual/data-modeling/) - Data modeling help specific to MongoDB, ranging from schema validation and example patterns. However, concepts may carry over to other document NoSQL databases.
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -699,7 +705,7 @@
 *   [jrychn/moduleVim (⭐5)](https://github.com/jrychn/ModuleVim) - A very easy to use
     for backend and frontend, install lsp automatically.
 
-## [34. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
@@ -801,13 +807,13 @@
 
 *   [The "Database as Code" Manifesto (⭐32)](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
-## [35. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
 *   [FastAPI FeatureFlags (⭐18)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
 
-## [36. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [37. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Miscellaneous
 
@@ -817,7 +823,7 @@
 
 *   [lens-ui (⭐2)](https://github.com/luciancaetano/lens-ui) - [docs (⭐2)](https://github.com/luciancaetano/lens-ui/blob/main/docs/introduction.md) - A Suit of components focused on simplicity.
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Command-line
 
@@ -828,7 +834,7 @@
     *   [rust-cli/rexpect (⭐163)](https://github.com/rust-cli/rexpect) \[[rexpect](https://crates.io/crates/rexpect)] — automate interactive applications such as ssh, ftp, passwd, etc [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
     *   [zhiburt/expectrl (⭐127)](https://github.com/zhiburt/expectrl) \[[expectrl](https://crates.io/crates/expectrl)] — A library for controlling interactive programs in a pseudo-terminal [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 
-## [38. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [39. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### QubesOS Websites
 
@@ -839,7 +845,7 @@
 
 *   [qubes-network-server (⭐76)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 
-## [39. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [40. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Browser-Based / Arcade
 
@@ -890,14 +896,14 @@
 
 *   [Cocos2d for HTML5 (⭐2.9k)](https://github.com/cocos2d/cocos2d-HTML5) - Cocos2d for Web Browsers. Built using JavaScript.
 
-## [40. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [41. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Food
 
 *   [FDA product recalls](https://api.fda.gov/food/enforcement.json)
 *   [Open Food Facts](https://world.openfoodfacts.org/api/v0/product/5060292302201.json)
 
-## [41. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [42. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Server Software / Media Servers
 
@@ -938,13 +944,13 @@
 
 *   [SIP Resources (⭐121)](https://github.com/miconda/sip-resources) - Useful SIP resources curated by Kamailio's head developer.
 
-## [42. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Booking and Scheduling
 
 *   [Cal.com](https://cal.com/) - The open-source online appointment scheduling system. ([Demo](https://app.cal.com/bailey), [Source Code (⭐14k)](https://github.com/calcom/cal.com)) `MIT` `Nodejs`
 
-## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -961,13 +967,13 @@
 
 *   [FormKit (⭐2k)](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 
-## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Open-Source Projects
 
 *   [GitProfile (⭐454)](https://github.com/arifszn/gitprofile) - Automatic portfolio builder based on GitHub profiles, built with React.js and Tailwind CSS.
 
-## [45. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [46. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Remote Jobs:
 
@@ -975,7 +981,7 @@
 
 
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [47. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -1006,7 +1012,7 @@
 
 *   [`nucleo-h743zi`](https://github.com/astraw/nucleo-h743zi) Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2
 
-## [47. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [48. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -1028,7 +1034,7 @@
 
 *   [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
 
-## [48. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [49. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
@@ -1070,7 +1076,7 @@
 *   [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
 *   [go-web-framework-benchmark (⭐1.8k)](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
-## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [50. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Problem Solving / Reinforcement Learning
 
@@ -1078,7 +1084,7 @@
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
 *   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐50)](https://github.com/flowersteam/TeachMyAgent)].
 
-## [50. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [51. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Facebook
 

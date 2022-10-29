@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 11, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,7 +17,13 @@
 *   [The Humble Programmer](https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD340.PDF) (1972) - Dijkstra's overview of the programming universe as he saw it in 1972
 *   [The Conscience of a Hacker](http://phrack.org/issues/7/3.html) (1986) - The Hacker Manifesto
 
-## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [2. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Ariya Hidayat (⭐28)](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima (⭐6.6k)](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+
+## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### JavaScript Clients
 
@@ -31,32 +37,32 @@
 
 *   [raml2html (⭐1.1k)](https://github.com/raml2html/raml2html) - Generates HTML documentation from a RAML file.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [Reel search (⭐2.5k)](https://github.com/Ramotion/reel-search) - Option list managed as a reel.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
 *   [blaze](https://bitbucket.org/blaze-lib/blaze) - high-performance C++ math library for dense and sparse arithmetic. \[BSD]
 
-## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Articles
 
 *   [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 *   [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 
-## [6. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
+## [7. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [HubPress (⭐2.8k)](https://github.com/HubPress/hubpress.io) - A web application to build your Blog on GitHub
 
-## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Haskell / More
 

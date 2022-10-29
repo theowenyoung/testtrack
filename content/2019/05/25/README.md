@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25, 2019
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,13 @@
 
 *   [Streaming Shared Preferences (⭐238)](https://github.com/roughike/streaming_shared_preferences)<!--stargazers:roughike/streaming_shared_preferences--> - Reactive key-value store, shared preferences with Streams by [Iiro Krankka](https://github.com/roughike)
 
-## [3. Awesome Python](/content/vinta/awesome-python/README.md)
+## [3. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Brad Garropy](https://bradgarropy.com/ama) - Self-taught frontender at [Adobe](https://www.adobe.com), [blogger](https://bradgarropy.com), [streamer](https://youtube.com/bradgarropy), [tweeter](https://twitter.com/bradgarropy).
+
+## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Admin Panels
 

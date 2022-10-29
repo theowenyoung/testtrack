@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2020
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -131,7 +131,13 @@
 
 *   [styled\_widget (⭐925)](https://github.com/ReinBentdal/styled_widget) <!--stargazers:ReinBentdal/styled_widget--> - Simplifying your widget tree structure by defining widgets using methods by [Rein Gundersen Bentdal](https://github.com/ReinBentdal).
 
-## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Applications
+
+*   [Berty (⭐6.2k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+
+## [8. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Commerce
 
@@ -141,7 +147,7 @@
 
 *   [Sitecore Habitat (⭐417)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 
-## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Menu
 

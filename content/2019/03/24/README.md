@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 24, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,13 @@
 
 *   [KorTE Template Engine (⭐71)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Kevin Jalbert (⭐1)](https://github.com/kevinjalbert/ama) - Developer Lead at [Shopify](https://www.shopify.ca/about), primarily using Rails and React.
+
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database
 
@@ -48,7 +54,7 @@
 
 *   [NYoutubeDL](https://gitlab.com/BrianAllred/NYoutubeDL) - A simple youtube-dl library for C#/.NET.
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -64,13 +70,13 @@
 
 
 
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### File Hosting/Sharing / Others
 
 *   [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
 
-## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Plex Requests / Third Party Hosts
 

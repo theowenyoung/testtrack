@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 24, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,6 +46,13 @@
 ### Dependency injection
 
 *   [Integrant (⭐1k)](https://github.com/weavejester/integrant)
+
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Juha Lindstedt (⭐0)](https://github.com/pakastin/ama) - Web architect at [iDiD](https://www.idid.fi). Creator of [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) and other open source projects.
+*   [Rifat Nabi (⭐2)](https://github.com/torifat/ama) - Front-end developer and open-source enthusiast.
 
 ---
 

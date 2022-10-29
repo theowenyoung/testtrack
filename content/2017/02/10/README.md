@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,7 +44,17 @@
 
 *   [AlexNet3D (⭐41)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 
-## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / S companies
+
+*   Shyp <https://medium.com/shyp-engineering>
+
+### Individuals/Group Contributors / I individuals
+
+*   Ilija Eftimov <http://ieftimov.com/>
+
+## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 

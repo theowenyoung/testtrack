@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -51,26 +51,45 @@
 
 *   [semver (⭐2)](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 
-## [4. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / G companies
+
+*   Google Online Security <https://security.googleblog.com/>
+*   Google Research <https://research.googleblog.com/>
+
+### Companies / M companies
+
+*   Microsoft Python Engineering <https://blogs.msdn.microsoft.com/pythonengineering/>
+
+### Products/Technologies / M technologies
+
+*   Microsoft Edge <https://blogs.windows.com/msedgedev/>
+
+### Products/Technologies / N technologies
+
+*   .NET <https://blogs.msdn.microsoft.com/dotnet/>
+
+## [5. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 
 *   [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
-## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Integration
 
 *   Dart
     *   [Vert.x Dart SockJS (⭐0)](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scientific Computing
 
 *   [Trilinos (⭐819)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

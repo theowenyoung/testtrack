@@ -129,6 +129,7 @@
 *   [Stateless (⭐4.6k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 
 ## [5. Tips](/content/git-tips/tips/README.md)
+
 ## Marks your commit as a fix of a previous commit.
 
 ```sh

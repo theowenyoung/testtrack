@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,19 +34,25 @@
 
 *   [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 
-## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these people anything!
+
+*   [Claudio Procida (⭐0)](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
+
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Third Party APIs
 
 *   [elixtagram (⭐81)](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 
-## [6. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [7. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Slides
 
 *   [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/erykpiast/cycle) - by Eryk Napierała
 
-## [7. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [8. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Programming Languages / JavaScript
 
@@ -60,7 +66,7 @@
 
 *   [An Event-driven and Reactive Future](https://www.youtube.com/watch?v=_VdIQTtRkb8) By Jonathan Worthington
 
-## [8. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [9. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Args
 

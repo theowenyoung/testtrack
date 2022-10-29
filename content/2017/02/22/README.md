@@ -19,6 +19,7 @@
 *   [TensorFlowOnSpark (⭐3.8k)](https://github.com/yahoo/TensorFlowOnSpark) - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
+
 ## List all git aliases
 
 ```sh

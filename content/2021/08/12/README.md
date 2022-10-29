@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,7 +114,13 @@
 
 *   [Terrive](https://ipfs.io/ipns/terrive.one) - A Photo and Video Sharing Platform that uses the HIVE blockchain as a database and Immutable Image/Video Hosting. [Source (⭐7)](https://github.com/appukuttan66/terrive)
 
-## [12. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [12. Tools](/content/lvwzhen/tools/README.md)
+
+### Font
+
+*   [Brick](https://brick.im/)
+
+## [13. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
@@ -139,13 +145,13 @@
 
 *   [OpenSAFELY](https://www.opensafely.org) - Secure analytics platform for Electronic Health Records in the NHS.
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [14. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Games
 
 *   [Space Empires (⭐60)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
-## [14. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [15. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Learn
 
@@ -155,7 +161,7 @@
 
 *   [elm-posix (⭐83)](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

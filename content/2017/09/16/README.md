@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2017
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,13 +37,19 @@
 
 *   [Building Blocks for Site Reliability At Google](https://www.youtube.com/watch?v=nQv9ySa8MTU)
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+
+### Other
+
+*   [Blockply](https://blockply.com/): Blockply is a collection of the most interesting & outstanding Blockchain projects.
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
 *   [PDCurses (⭐814)](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. \[PublicDomain]
 
-## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -56,6 +62,25 @@ Webpage: <http://tartine.pt/>
 | ✔    | ✔     | ❄️/♨️         | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |            |
 
 ![](http://beta.speedtest.net/result/6628785269.png)
+
+## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / F companies
+
+*   Fynd <http://gofynd.io/blog>
+
+## [9. Codeface](/content/chrissimpkins/codeface/README.md)
+
+### The Gallery
+
+### [agave](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/agave)
+
+\[ [License](https://github.com/chrissimpkins/codeface/blob/master/README.md/fonts/agave/license.txt) ]
+
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-STP.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-STPC.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-dark.png" width="725">
+<img src="https://github.com/chrissimpkins/codeface/raw/master/images/gallery/agave-light.png" width="725">
 
 ---
 

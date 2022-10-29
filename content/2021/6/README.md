@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08 - Feb 14, 2021
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -712,7 +712,44 @@
 
 *   [ocephes (⭐12)](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special functions library.
 
-## [45. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [45. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Starter Kits and Toolchains
+
+*   [create-react-app (⭐98k)](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
+*   [react-starter-kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
+*   [create-react-library (⭐4.7k)](https://github.com/transitive-bullshit/create-react-library) - CLI for creating reusable, modern React libraries using Rollup and create-react-app.
+
+### React Tools / Autocomplete
+
+*   [react-autocomplete by @rackt (⭐2.2k)](https://github.com/rackt/react-autocomplete) - WAI-ARIA compliant React autocomplete (Archived, read-only)
+
+### React Tools / Maps
+
+*   [google-maps-react (⭐1.6k)](https://github.com/fullstackreact/google-maps-react) - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.
+
+### Redux Tools / Charts
+
+*   [reselect (⭐19k)](https://github.com/reduxjs/reselect) - Selector library for Redux
+*   [redux-saga (⭐22k)](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
+
+### Redux Tutorials / Charts
+
+*   [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+### GraphQL Tools / Charts
+
+*   [GraphQL Playground - GraphQL IDE for better development workflows (⭐8.2k)](https://github.com/graphql/graphql-playground)
+
+### GraphQL Implementations / Charts
+
+*   [sangria (⭐1.9k)](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
+
+### Relay General Resources / Charts
+
+*   [Relay Offical Site](https://relay.dev/)
+
+## [46. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Really Simple Forms
 
@@ -722,7 +759,7 @@
 
 *   [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
 
-## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -744,13 +781,13 @@
 
 *   [Awesome CI/CD DevOps (⭐1.5k)](https://github.com/ciandcd/awesome-ciandcd) :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
-## [47. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [48. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Datastores / Online resources
 
 *   [databunker](https://databunker.org/) - Databunker is an address book on steroids for storing personal data. GDPR and encryption are out of the box.
 
-## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [49. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Distribution
 
@@ -760,7 +797,7 @@
 
 *   [Password4j (⭐231)](https://github.com/Password4j/password4j) - User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
-## [49. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [50. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -770,7 +807,7 @@
 
 *   🎓 [Create a responsive navigation menu in Tailwind CSS](https://www.themes.dev/blog/responsive-navigation-menu-tailwind-css/)
 
-## [50. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -788,13 +825,13 @@
 
 *   [Papers With Code](https://www.paperswithcode.com/datasets) - Thousands of machine learning datasets provided by Papers With Code.
 
-## [51. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [52. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Reforestation
 
 *   [Reforestum](https://reforestum.com/) - Reforestum is an online marketplace to drive reforestation and forest conservation, incentivizing companies and individuals to easily offset their carbon footprint by acquiring and tracking forest shares and carbon credits. Reforestum offers transparency via remote sensing and AI, together with a comprehensible API for seamless integration.
 
-## [52. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [53. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / Databases
 
@@ -804,7 +841,7 @@
 
 *   [Eventide](https://eventide-project.org) - Event Sourcing and Microservices Stack for Ruby. A set of libraries for writing event driven, autonomous services.
 
-## [53. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [54. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Meta
 
@@ -894,7 +931,7 @@
 
 *   [Falsehoods about Fonts (⭐88)](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 
-## [54. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [55. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Boilerplates / Individual Podcast episodes
 
@@ -905,7 +942,7 @@
 
 *   [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI
 
-## [55. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [56. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 

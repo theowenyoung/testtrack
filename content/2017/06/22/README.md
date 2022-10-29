@@ -92,6 +92,7 @@
 *   [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - Philip Ehrlich
 
 ## [9. Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md)
+
 ### Disable Right-Click
 
 If you want to disable right-click, you can do it for an entire page...

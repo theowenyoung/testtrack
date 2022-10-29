@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -78,13 +78,23 @@
 
 *   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 
-## [6. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / M companies
+
+*   Made Tech <https://www.madetech.com/blog>
+
+### Companies / S companies
+
+*   Scrunch <https://tech.scrunch.com/blog/>
+
+## [7. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Presentations / Videos
 
 *   [HTML5. Desenvolvimento avançado](https://www.youtube.com/watch?v=b9ZrOdTFkNk)
 
-## [7. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 

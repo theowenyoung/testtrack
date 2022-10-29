@@ -1,12 +1,18 @@
 # Awesome List Updates on Jan 12, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+### On-line courses / Ruby
+
+*   [Open Transit Data Toolkit](http://transitdatatoolkit.com/) - A series of lessons to help people utilize open transit data.
+
+## [2. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Base Shells
 
@@ -58,26 +64,26 @@
 *   [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
 *   [weechat](https://weechat.org/) - Fast, light and extensible chat client.
 
-## [2. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Tools
 
 *   [IoT-Testware](https://projects.eclipse.org/projects/technology.iottestware) - The Eclipse IoT-Testware is a collection of conformance test suites for IoT protocols enriched with additional tools for fuzzing and performance testing.
 *   [MQTT Board (⭐80)](https://github.com/flespi-software/MQTT-Board) - Open-source diagnostic-oriented MQTT client tool.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Image Processing
 
 *   [libjpeg-turbo (⭐3.1k)](https://github.com/libjpeg-turbo/libjpeg-turbo) - A JPEG image codec that uses SIMD instructions to accelerate baseline JPEG encoding and decoding. \[IJG & BSD-3-Clause & zlib] [website](https://libjpeg-turbo.org/)
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [PyOD (⭐6.3k)](https://github.com/yzhao062/pyod) -> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Version Control
 

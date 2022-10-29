@@ -1,12 +1,13 @@
 # Awesome List Updates on Jun 30, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
 ## [1. Tips](/content/git-tips/tips/README.md)
+
 ## Retrieve the commit hash of the initial revision.
 
 ```sh
@@ -86,6 +87,12 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 ### Testing
 
 *   [FakeItEasy (⭐1.3k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
+
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Companies / B companies
+
+*   Blogfoster <http://engineering.blogfoster.com/>
 
 ---
 

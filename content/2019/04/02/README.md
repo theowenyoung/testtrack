@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 02, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -55,13 +55,19 @@
 
 *   [Prettier](https://prettier.io/) - [🛠️](https://stackshare.io/prettier) - [🐙 (⭐44k)](https://github.com/prettier/prettier) - An opinionated code formatter.
 
-## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [6. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
+
+### Platforms and toolkits
+
+*   [UralicNLP (⭐53)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+
+## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [react-native-vanilla ★185 (⭐1.5k)](https://github.com/pavjacko/react-native-vanilla) - 🚀🚀🚀 Build universal cross-platform apps with React Native. Includes latest `iOS`, `tvOS`, `Android`, `Android TV`, `Android Wear`, `Web`, `Tizen TV`, `Tizen Watch`, `LG webOS`, `macOS/OSX`, `Windows` and `KaiOS` platforms
 
-## [7. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
+## [8. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/README.md)
 
 ### Applications / Continuous integration
 
@@ -125,7 +131,7 @@
 *   [node-winreg (⭐200)](https://github.com/fresc81/node-winreg) - Access the Windows registry.
 *   [rage-edit (⭐45)](https://github.com/MikeKovarik/rage-edit) - Access/modify the Windows registry.
 
-## [8. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Template Engine / Other
 
@@ -135,7 +141,7 @@
 
 *   [Java Concurrency Checklist (⭐1.1k)](https://github.com/code-review-checklists/java-concurrency)
 
-## [9. Awesome Math](/content/rossant/awesome-math/README.md)
+## [10. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Learning Platforms
 
@@ -146,13 +152,13 @@
 
 *   [Mathsisfun](https://www.mathsisfun.com) simple text light weight site for students upto highschool
 
-## [10. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
+## [11. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
 ### Blogs / Case Study
 
 *   [Bootsity](https://bootsity.com/)
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Compression
 

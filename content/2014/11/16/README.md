@@ -23,4 +23,4 @@
 ---
 
 - Prev: [Nov 17, 2014](/content/2014/11/17/README.md)
-- Next: [Nov 13, 2014](/content/2014/11/13/README.md)
+- Next: [Nov 15, 2014](/content/2014/11/15/README.md)

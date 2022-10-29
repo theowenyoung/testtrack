@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,7 +62,13 @@
 
 *   [Amp (⭐3.7k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 
-## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
+
+### Ask these organizations anything!
+
+*   [DevOps Taiwan (⭐44)](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
+
+## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Javascript / Bare metal / kernel development
 

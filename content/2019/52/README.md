@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 30 - Jan 05, 2019
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -162,25 +162,31 @@
 
 *   [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos) - Meeting C++ Youtube Channel
 
-## [11. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [11. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+
+### Platforms and toolkits
+
+*   [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
+
+## [12. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Tools and Plugins
 
 *   [jaymock-cli (⭐13)](https://github.com/unmock/jaymock-cli) - Mock an API and generate fake JSON test data, right from the terminal.
 
-## [12. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
+## [13. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
 ### Starters / Other helpful Plugins
 
 *   [Gatsby WordPress Starter Advanced (⭐63)](https://github.com/henrikwirth/gatsby-starter-wordpress-advanced) - An advanced Gatsby + WordPress starter, that is built along a tutorial series and works with ACF flexible content fields to create content blocks/layouts.
 
-## [13. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [14. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
 *   [MHN (⭐2.3k)](https://github.com/pwnlandia/mhn) - MHN is a centralized server for management and data collection of honeypots. MHN allows you to deploy sensors quickly and to collect data immediately, viewable from a neat web interface.
 
-## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Asset Management
 
@@ -253,19 +259,19 @@
 *   :strawberry: [BootstrapUI plugin (⭐318)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 *   :strawberry: [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide) - You can use this guide to understand what Java microservices are, how you architect and build them. Also: A look at Java microservice libraries & common questions.
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Integrations
 
 *   [Keycloak ADFS OpenID Connect](https://www.michaelboeynaems.com/keycloak-ADFS-OIDC.html)
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -624,7 +630,7 @@
 
 *   [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
 
-## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Web Development
 
@@ -658,7 +664,7 @@
     *   [gen\_js\_api (⭐167)](https://github.com/LexiFi/gen_js_api) - gen\_js\_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
     *   [routes (⭐111)](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
-## [19. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [20. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Vegetation & Agriculture
 
@@ -678,19 +684,19 @@
 
     European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
 
-## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
 *   [yugabyteDB (⭐7.2k)](https://github.com/YugaByte/yugabyte-db) - open source, high-performance, distributed SQL database compatible with PostgreSQL.
 
-## [21. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [22. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Adminite](https://adminite.app/) - A query editor desktop app with built-in auto completions, inline data editing, and more.
 
-## [22. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [23. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Getting Started
 
@@ -714,13 +720,13 @@
 
 *   [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 
-## [23. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
+## [24. Awesome Software Architecture](/content/simskij/awesome-software-architecture/week/README.md)
 
 ### Bonus / DevOps
 
 *   [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.
 
-## [24. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [25. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Database
 
@@ -739,37 +745,37 @@
 
 *   [springdoc-openapi (⭐2.2k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
-## [25. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
 *   [formik-antd (⭐551)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Software Development - Project Management
 
 *   [Re:Backlogs (⭐154)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
 
-## [27. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Standalone Components
 
 *   [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 
-## [28. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [29. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Docker images
 
 *   [WavesNode](https://hub.docker.com/r/wavesplatform/wavesnode) - Docker Image for Waves Platform node. Supports any official or custom networks.
 
-## [29. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [30. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Tools to measure Performance Budget
 
 *   [Sitespeed.io](https://www.sitespeed.io/) - Easy to monitor and measure the performance of your web site.
 
-## [30. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [31. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -788,14 +794,14 @@
 
 *   [Build and deploy a theme to Ghost CMS (⭐295)](https://github.com/TryGhost/action-deploy-theme)
 
-## [31. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [32. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
 *   [renderdoc (⭐6.8k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
     *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
-## [32. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [33. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -822,7 +828,7 @@
 
 *   [pgtune (⭐992)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
-## [33. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [34. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Date / Time picker
 
@@ -832,7 +838,7 @@
 
 *   [resourcerer (⭐75)](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 
-## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [35. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Museums • Galleries / Other
 
@@ -840,7 +846,7 @@
 *   [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
 *   [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
 
-## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [36. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / External Components Integration
 
@@ -853,32 +859,32 @@
 *   [ember-render-helpers (⭐20)](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` as template helpers.
 *   [ember-truth-helpers (⭐701)](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
 
-## [36. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [37. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Galleries
 
 *   [Dash Data Dashboards and Apps](https://www.dashboardom.com/) - Collection of data dashboards with real life data, for various topics, as well as a few apps for online marketing built with Dash.
 
-## [37. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Code examples / Custom Dialog
 
 *   [Android Modular Architecture (⭐2.3k)](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
 
-## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Hardware
 
 *   [NFCPassportReader (⭐568)](https://github.com/AndyQ/NFCPassportReader) - Swift library  to read an NFC enabled passport. Supports BAC, Secure Messaging, and both active and passive authentication. Requires iOS 13 or above.
 
-## [39. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [40. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
     (Python, MIT, [GitHub (⭐1.5k)](https://github.com/pyvista/pyvista))
 
-## [40. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [41. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Blogs
 
@@ -893,19 +899,19 @@
 
 *   [Leon Nicholls](https://twitter.com/TheLeonNicholls) - Google Developer Relations Engineer
 
-## [41. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [42. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
 *   [3DreamEngine (⭐231)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
 *   [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org\&utm_medium=referral\&utm_campaign=OutreachB15894fivedollar) by Dave Berning (November 2019)
 
-## [43. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Endpoint / Mobile / Android / iOS
 

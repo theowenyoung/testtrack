@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 15 - Mar 21, 2021
 
-54 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/week/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,11 +24,11 @@
 
 *   [DL Translate (⭐231)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
-### Software / Communication - Social Networks and Forums
+### Applications
 
-*   [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`
+*   [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -132,6 +132,7 @@
 *   [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r-second-edition#toc) - The intent of this book is to present data science from a pragmatic, practice-oriented viewpoint. The book concentrates on the process of data science, from the planning stages of a project, through the data collection and exploration, to the modeling, and finally to deployment and the sharing of results. Authors: Nina Zumel and John Mount.
 
 ## [15. Tips](/content/git-tips/tips/week/README.md)
+
 ## Delete local branches that has been squash and merged in the remote.
 
 ```sh
@@ -467,7 +468,13 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [IIS2MDC](https://crates.io/crates/iis2mdc) - I2C - ST's High accuracy, ultra-low-power, 3-axis digital output magnetometer - ![crates.io](https://img.shields.io/crates/v/iis2mdc.svg)
 *   [ISM330DHCX](https://crates.io/crates/ism330dhcx) - I2C - ST's IMU with 3D accelerometer, 3D gyroscope, ML core and more - ![crates.io](https://img.shields.io/crates/v/ism330dhcx.svg)
 
-## [35. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [35. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Analysis Tools / Ruby
+
+*   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐129)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
+
+## [36. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Getting Started
 
@@ -481,7 +488,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org//kb/docs/java/profile-loadgenerator.html)
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Date and Time
 
@@ -491,19 +498,19 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [minigen (⭐13)](https://github.com/mrdimosthenis/minigen) - Random data generators for the Erlang ecosystem.
 
-## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
 *   [json-struct (⭐247)](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. \[MIT]
 
-## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [39. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Sandboxes
 
 *   [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.
 
-## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [40. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
@@ -543,7 +550,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w) a detailed introduction to TypeScript
 
-## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -567,7 +574,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [*Разработка приложений на Swift 5.1 и SwiftUI с нуля* - Александр Казанский](https://www.labirint.ru/books/785347/)
 
-## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -595,7 +602,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [.NET 6 with Daniel Roth](https://www.dotnetrocks.com/?show=1730) - March 11, 2021 - What's next for .NET? Carl and Richard chat with Dan Roth about all the good things coming this November for .NET. The conversation starts out with some discussion around Blazor, which is no longer an experimental project, but now a key part of .NET. Dan talks about the role of MAUI bringing together UI elements for smartphones, tablets, PCs, and more. There's a lot to look forward to by the end of 2021. Duration: 58 minutes.
 
-## [42. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [43. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Community
 
@@ -632,7 +639,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [Game Boy Printer Paper Simulation (⭐45)](https://github.com/mofosyne/GameboyPrinterPaperSimulation) - Generate as-if-printed images of digital printed images.
 *   [Game Boy Printer Web (⭐33)](https://github.com/HerrZatacke/gb-printer-web) - Gallery app for to the Game Boy camera: import pictures from exports or cartridge dumps and choose color palettes.
 
-## [43. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [44. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Useful Links
 
@@ -650,7 +657,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   🧩 [Tailwind Cards (⭐438)](https://github.com/hasinhayder/tailwind-cards) - Growing collection of text/image cards.
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -666,13 +673,13 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [vuetube (⭐9)](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 *   [vue-cli-plugin-capacitor (⭐135)](https://github.com/capacitor-community/vue-cli-plugin-capacitor) - A Vue CLI 3 Plugin for Capacitor
 
-## [45. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Static Analysis Tools
 
 *   [APKLeaks (⭐3.3k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
-## [46. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [47. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Official Website
 
@@ -857,13 +864,13 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [mood (⭐42)](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
 
-## [47. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [48. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Make your life easier
 
 *   [Online decision table service](http://decision-table.com/) - full test coverage by generating cases with simple Decision Table technique.
 
-## [48. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [49. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -886,19 +893,19 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [SIF scripts to install Publishing Service (⭐1)](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto install the Publishing Service & auto install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
 
-## [49. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [50. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Privacy focused analytics
 
 *   [Piwik PRO](https://piwik.pro/) - A privacy-friendly alternative to Google Analytics with built-in consent management. Hosted in EU, in your private cloud or on-premises. `©` `SaaS` `self-hosted`
 
-## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Developer utilities / Third-party APIs
 
 *   [printv (⭐66)](https://github.com/danlentz/printv) -  A batteries-included tracing and debug-logging macro. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [51. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [52. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -913,7 +920,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 *   [Depict](https://bikibird.itch.io/depict) - Converts image into a dithered image using PICO-8 colors and reduces it to a maximum size of 128 x 128.
 *   [picoCAD](https://johanpeitz.itch.io/picocad) - A PICO-8 program to build and texture lowpoly 3D models.
 
-## [52. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [53. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Security (art. 32)
 
@@ -931,7 +938,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Developers Guide to HIPAA Compliance (⭐1.5k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
-## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -966,7 +973,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 *   [Webshrinker.com](https://webshrinker.com) — Web Shrinker provides web site screenshot and domain intelligence API services. Free 100 requests/month.
 
-## [54. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [55. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Utilities
 

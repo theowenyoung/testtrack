@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 20, 2017
 
-5 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/feed.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,19 +26,31 @@
 
 *   [GCeasy](http://gceasy.io/) - Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.
 
-## [3. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [3. Awesome Ionic](/content/candelibas/awesome-ionic/README.md)
+
+### Open Source Projects
+
+*   [Ionic Soundboard (⭐13)](https://github.com/rkalis/ionic-soundboard)
+
+## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / String
 
 *   [striptags (⭐469)](https://github.com/ericnorris/striptags) - An implementation of PHP's strip\_tags in Node.js.
 
-## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ### Applets / Design Tooling
 
 *   [Docker Integration (⭐148)](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 
-## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+
+### Products/Technologies / K technologies
+
+*   Kotlin <https://blog.jetbrains.com/kotlin/>
+
+## [7. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Organizations
 
