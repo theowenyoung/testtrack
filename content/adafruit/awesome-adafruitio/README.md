@@ -2,11 +2,9 @@
 
 A curated list of awesome Adafruit IO guides, videos, libraries, frameworks, software and resources. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/adafruit/awesome-adafruitio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 adafruit/awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio/blob/master/README.md) · ⭐ 38 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/adafruit/awesome-adafruitio/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 adafruit/awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio) · ⭐ 38 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/adafruit/awesome-adafruitio/week/README.md) / [Overview](/content/adafruit/awesome-adafruitio/readme/README.md) ]
-
-
 
 ## [Feb 20, 2022](/content/2022/02/20/README.md)
 

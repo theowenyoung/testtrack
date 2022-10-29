@@ -2,11 +2,9 @@
 
 A curated list of delightful Vorpal extensions.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/vorpaljs/awesome-vorpal/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vorpaljs/awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal/blob/master/README.md) · ⭐ 134 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/vorpaljs/awesome-vorpal/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vorpaljs/awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal) · ⭐ 134 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/vorpaljs/awesome-vorpal/week/README.md) / [Overview](/content/vorpaljs/awesome-vorpal/readme/README.md) ]
-
-
 
 ## [Dec 11, 2016](/content/2016/12/11/README.md)
 

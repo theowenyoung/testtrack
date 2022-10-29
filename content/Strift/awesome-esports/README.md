@@ -2,11 +2,9 @@
 
 A curated list of open-source projects related to esports.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Strift/awesome-esports/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Strift/awesome-esports](https://github.com/Strift/awesome-esports/blob/main/README.md) · ⭐ 27 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Strift/awesome-esports/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Strift/awesome-esports](https://github.com/Strift/awesome-esports) · ⭐ 27 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Strift/awesome-esports/week/README.md) / [Overview](/content/Strift/awesome-esports/readme/README.md) ]
-
-
 
 ## [Aug 28, 2022](/content/2022/08/28/README.md)
 

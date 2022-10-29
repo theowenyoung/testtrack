@@ -2,11 +2,9 @@
 
 :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/inputsh/awesome-linux/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 inputsh/awesome-linux](https://github.com/inputsh/awesome-linux/blob/master/README.md) · ⭐ 3.5K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/inputsh/awesome-linux/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) · ⭐ 3.5K · 🏷️ Platforms
 
 [ [Daily](/content/inputsh/awesome-linux/README.md) / Weekly / [Overview](/content/inputsh/awesome-linux/readme/README.md) ]
-
-
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
 

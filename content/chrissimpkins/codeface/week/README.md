@@ -2,11 +2,9 @@
 
 Typefaces for source code beautification
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/chrissimpkins/codeface/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chrissimpkins/codeface](https://github.com/chrissimpkins/codeface/blob/master/README.md) · ⭐ 5.8K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/chrissimpkins/codeface/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) · ⭐ 5.8K · 🏷️ Media
 
 [ [Daily](/content/chrissimpkins/codeface/README.md) / Weekly / [Overview](/content/chrissimpkins/codeface/readme/README.md) ]
-
-
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 

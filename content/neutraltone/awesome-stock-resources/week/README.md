@@ -2,11 +2,9 @@
 
 :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/neutraltone/awesome-stock-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources/blob/master/README.md) · ⭐ 11K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/neutraltone/awesome-stock-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) · ⭐ 11K · 🏷️ Media
 
 [ [Daily](/content/neutraltone/awesome-stock-resources/README.md) / Weekly / [Overview](/content/neutraltone/awesome-stock-resources/readme/README.md) ]
-
-
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 

@@ -2,11 +2,9 @@
 
 :key: Curated list of awesome captcha libraries and crack tools.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ZYSzys/awesome-captcha/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha/blob/master/README.md) · ⭐ 895 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ZYSzys/awesome-captcha/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) · ⭐ 895 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ZYSzys/awesome-captcha/week/README.md) / [Overview](/content/ZYSzys/awesome-captcha/readme/README.md) ]
-
-
 
 ## [Nov 30, 2021](/content/2021/11/30/README.md)
 

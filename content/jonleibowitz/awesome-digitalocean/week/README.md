@@ -2,11 +2,9 @@
 
 A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jonleibowitz/awesome-digitalocean/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jonleibowitz/awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean/blob/master/README.md) · ⭐ 282 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jonleibowitz/awesome-digitalocean/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jonleibowitz/awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean) · ⭐ 282 · 🏷️ Platforms
 
 [ [Daily](/content/jonleibowitz/awesome-digitalocean/README.md) / Weekly / [Overview](/content/jonleibowitz/awesome-digitalocean/readme/README.md) ]
-
-
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 

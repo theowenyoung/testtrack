@@ -2,11 +2,9 @@
 
 Awesome list of resources for Game Engine Development.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stevinz/awesome-game-engine-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stevinz/awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev/blob/main/README.md) · ⭐ 34 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stevinz/awesome-game-engine-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stevinz/awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev) · ⭐ 34 · 🏷️ Gaming
 
 [ [Daily](/content/stevinz/awesome-game-engine-dev/README.md) / Weekly / [Overview](/content/stevinz/awesome-game-engine-dev/readme/README.md) ]
-
-
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 

@@ -2,11 +2,9 @@
 
 Curated list of awesome things for development on Waves blockchain.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/msmolyakov/awesome-waves/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 msmolyakov/awesome-waves](https://github.com/msmolyakov/awesome-waves/blob/master/README.md) · ⭐ 68 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/msmolyakov/awesome-waves/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 msmolyakov/awesome-waves](https://github.com/msmolyakov/awesome-waves) · ⭐ 68 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/msmolyakov/awesome-waves/week/README.md) / [Overview](/content/msmolyakov/awesome-waves/readme/README.md) ]
-
-
 
 ## [Oct 05, 2020](/content/2020/10/05/README.md)
 

@@ -2,11 +2,9 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct/blob/master/README.md) · ⭐ 50 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 50 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
-
-
 
 ## [Feb 11, 2021](/content/2021/02/11/README.md)
 

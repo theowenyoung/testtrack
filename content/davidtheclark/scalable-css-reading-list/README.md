@@ -2,11 +2,9 @@
 
 Collected dispatches from The Quest for Scalable CSS
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/davidtheclark/scalable-css-reading-list/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 davidtheclark/scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list/blob/master/README.md) · ⭐ 1.5K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/davidtheclark/scalable-css-reading-list/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 davidtheclark/scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list) · ⭐ 1.5K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/davidtheclark/scalable-css-reading-list/week/README.md) / [Overview](/content/davidtheclark/scalable-css-reading-list/readme/README.md) ]
-
-
 
 ## [Dec 03, 2016](/content/2016/12/03/README.md)
 

@@ -2,11 +2,9 @@
 
 A curated list of roadmaps.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/liuchong/awesome-roadmaps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps/blob/master/README.md) · ⭐ 2.6K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/liuchong/awesome-roadmaps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) · ⭐ 2.6K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/liuchong/awesome-roadmaps/week/README.md) / [Overview](/content/liuchong/awesome-roadmaps/readme/README.md) ]
-
-
 
 ## [Jun 16, 2022](/content/2022/06/16/README.md)
 

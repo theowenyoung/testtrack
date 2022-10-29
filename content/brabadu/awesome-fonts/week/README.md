@@ -2,11 +2,9 @@
 
 Curated list of fonts and everything
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/brabadu/awesome-fonts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts/blob/master/README.md) · ⭐ 1K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/brabadu/awesome-fonts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) · ⭐ 1K · 🏷️ Media
 
 [ [Daily](/content/brabadu/awesome-fonts/README.md) / Weekly / [Overview](/content/brabadu/awesome-fonts/readme/README.md) ]
-
-
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 

@@ -2,11 +2,9 @@
 
 A curated list of awesome Corda resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/chainstack/awesome-corda/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chainstack/awesome-corda](https://github.com/chainstack/awesome-corda/blob/master/README.md) · ⭐ 66 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/chainstack/awesome-corda/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chainstack/awesome-corda](https://github.com/chainstack/awesome-corda) · ⭐ 66 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/chainstack/awesome-corda/README.md) / Weekly / [Overview](/content/chainstack/awesome-corda/readme/README.md) ]
-
-
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 

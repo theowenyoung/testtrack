@@ -2,11 +2,9 @@
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence/blob/master/README.md) · ⭐ 7.1K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 7.1K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/owainlewis/awesome-artificial-intelligence/week/README.md) / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
-
-
 
 ## [Aug 12, 2022](/content/2022/08/12/README.md)
 

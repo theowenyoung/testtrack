@@ -2,11 +2,9 @@
 
 Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ironcev/awesome-roslyn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn/blob/master/readme.md) · ⭐ 517 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ironcev/awesome-roslyn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) · ⭐ 517 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/ironcev/awesome-roslyn/week/README.md) / [Overview](/content/ironcev/awesome-roslyn/readme/README.md) ]
-
-
 
 ## [Mar 09, 2021](/content/2021/03/09/README.md)
 

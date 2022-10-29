@@ -2,11 +2,9 @@
 
 A curated list of software and architecture related design patterns.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/DovAmir/awesome-design-patterns/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns/blob/master/README.md) · ⭐ 19K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/DovAmir/awesome-design-patterns/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) · ⭐ 19K · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/DovAmir/awesome-design-patterns/week/README.md) / [Overview](/content/DovAmir/awesome-design-patterns/readme/README.md) ]
-
-
 
 ## [Jun 08, 2021](/content/2021/06/08/README.md)
 

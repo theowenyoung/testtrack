@@ -2,11 +2,9 @@
 
 A community curated list of awesome clean tech companies
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) · ⭐ 365 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nglgzz/awesome-clean-tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nglgzz/awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) · ⭐ 365 · 🏷️ Business
 
 [ Daily / [Weekly](/content/nglgzz/awesome-clean-tech/week/README.md) / [Overview](/content/nglgzz/awesome-clean-tech/readme/README.md) ]
-
-
 
 ## [Sep 06, 2021](/content/2021/09/06/README.md)
 

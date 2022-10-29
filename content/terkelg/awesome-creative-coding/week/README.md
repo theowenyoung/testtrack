@@ -2,11 +2,9 @@
 
 Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/terkelg/awesome-creative-coding/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding/blob/master/readme.md) · ⭐ 10K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/terkelg/awesome-creative-coding/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) · ⭐ 10K · 🏷️ Miscellaneous
 
 [ [Daily](/content/terkelg/awesome-creative-coding/README.md) / Weekly / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
-
-
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 

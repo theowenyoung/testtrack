@@ -2,11 +2,9 @@
 
 :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/J2TEAM/awesome-AutoIt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 J2TEAM/awesome-AutoIt](https://github.com/J2TEAM/awesome-AutoIt/blob/master/README.md) · ⭐ 753 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/J2TEAM/awesome-AutoIt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 J2TEAM/awesome-AutoIt](https://github.com/J2TEAM/awesome-AutoIt) · ⭐ 753 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/J2TEAM/awesome-AutoIt/week/README.md) / [Overview](/content/J2TEAM/awesome-AutoIt/readme/README.md) ]
-
-
 
 ## [Jul 10, 2022](/content/2022/07/10/README.md)
 

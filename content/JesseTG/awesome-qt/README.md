@@ -2,11 +2,9 @@
 
 A curated list of awesome tools, libraries, and resources for the Qt framework.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/JesseTG/awesome-qt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 JesseTG/awesome-qt](https://github.com/JesseTG/awesome-qt/blob/master/README.md) · ⭐ 1.1K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/JesseTG/awesome-qt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 JesseTG/awesome-qt](https://github.com/JesseTG/awesome-qt) · ⭐ 1.1K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/JesseTG/awesome-qt/week/README.md) / [Overview](/content/JesseTG/awesome-qt/readme/README.md) ]
-
-
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 

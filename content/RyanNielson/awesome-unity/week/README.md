@@ -2,11 +2,9 @@
 
 A curated list of awesome Unity assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/RyanNielson/awesome-unity/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity/blob/master/README.md) · ⭐ 5.4K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/RyanNielson/awesome-unity/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) · ⭐ 5.4K · 🏷️ Gaming
 
 [ [Daily](/content/RyanNielson/awesome-unity/README.md) / Weekly / [Overview](/content/RyanNielson/awesome-unity/readme/README.md) ]
-
-
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 

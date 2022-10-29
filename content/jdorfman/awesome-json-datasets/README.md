@@ -2,11 +2,9 @@
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jdorfman/awesome-json-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets/blob/master/README.md) · ⭐ 2.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jdorfman/awesome-json-datasets/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) · ⭐ 2.6K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/jdorfman/awesome-json-datasets/week/README.md) / [Overview](/content/jdorfman/awesome-json-datasets/readme/README.md) ]
-
-
 
 ## [Mar 28, 2022](/content/2022/03/28/README.md)
 

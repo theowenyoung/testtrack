@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to FastAPI
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/mjhea0/awesome-fastapi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi/blob/main/README.md) · ⭐ 4.6K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/mjhea0/awesome-fastapi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) · ⭐ 4.6K · 🏷️ Back-End Development
 
 [ [Daily](/content/mjhea0/awesome-fastapi/README.md) / [Weekly](/content/mjhea0/awesome-fastapi/week/README.md) / Overview ]
 

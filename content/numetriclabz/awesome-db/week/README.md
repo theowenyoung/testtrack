@@ -2,11 +2,9 @@
 
 A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/numetriclabz/awesome-db/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db/blob/master/README.md) · ⭐ 1K · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/numetriclabz/awesome-db/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db) · ⭐ 1K · 🏷️ Databases
 
 [ [Daily](/content/numetriclabz/awesome-db/README.md) / Weekly / [Overview](/content/numetriclabz/awesome-db/readme/README.md) ]
-
-
 
 ## [Nov 09 - Nov 15, 2015](/content/2015/45/README.md)
 

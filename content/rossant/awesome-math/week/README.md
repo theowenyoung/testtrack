@@ -2,11 +2,9 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math/blob/master/README.md) · ⭐ 6.4K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.4K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
-
-
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 

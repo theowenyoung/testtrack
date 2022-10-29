@@ -2,11 +2,9 @@
 
 🎨 A curated list of awesome resources for digital designers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nicolesaidy/awesome-web-design/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design/blob/master/README.md) · ⭐ 2.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nicolesaidy/awesome-web-design/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) · ⭐ 2.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/nicolesaidy/awesome-web-design/README.md) / Weekly / [Overview](/content/nicolesaidy/awesome-web-design/readme/README.md) ]
-
-
 
 ## [Jul 01 - Jul 07, 2019](/content/2019/26/README.md)
 

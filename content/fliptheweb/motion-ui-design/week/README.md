@@ -2,11 +2,9 @@
 
 Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/fliptheweb/motion-ui-design/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fliptheweb/motion-ui-design](https://github.com/fliptheweb/motion-ui-design/blob/master/README.md) · ⭐ 749 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/fliptheweb/motion-ui-design/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 fliptheweb/motion-ui-design](https://github.com/fliptheweb/motion-ui-design) · ⭐ 749 · 🏷️ Front-End Development
 
 [ [Daily](/content/fliptheweb/motion-ui-design/README.md) / Weekly / [Overview](/content/fliptheweb/motion-ui-design/readme/README.md) ]
-
-
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 

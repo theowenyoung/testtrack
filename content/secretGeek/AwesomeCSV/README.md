@@ -2,11 +2,9 @@
 
 🕶️A curated list of awesome tools for dealing with CSV.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/secretGeek/AwesomeCSV/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV/blob/master/README.md) · ⭐ 452 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/secretGeek/AwesomeCSV/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 secretGeek/AwesomeCSV](https://github.com/secretGeek/AwesomeCSV) · ⭐ 452 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/secretGeek/AwesomeCSV/week/README.md) / [Overview](/content/secretGeek/AwesomeCSV/readme/README.md) ]
-
-
 
 ## [Jun 01, 2022](/content/2022/06/01/README.md)
 

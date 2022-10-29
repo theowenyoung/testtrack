@@ -2,11 +2,9 @@
 
 A List of Awesome Swift Playgrounds
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/uraimo/Awesome-Swift-Playgrounds/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 uraimo/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds/blob/master/README.md) · ⭐ 3.7K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/uraimo/Awesome-Swift-Playgrounds/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 uraimo/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) · ⭐ 3.7K · 🏷️ Programming Languages
 
 [ [Daily](/content/uraimo/Awesome-Swift-Playgrounds/README.md) / Weekly / [Overview](/content/uraimo/Awesome-Swift-Playgrounds/readme/README.md) ]
-
-
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 

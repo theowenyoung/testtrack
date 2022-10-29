@@ -2,11 +2,9 @@
 
 A curated list of Vala libraries
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/desiderantes/awesome-vala/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala/blob/master/README.md) · ⭐ 86 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/desiderantes/awesome-vala/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala) · ⭐ 86 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/desiderantes/awesome-vala/week/README.md) / [Overview](/content/desiderantes/awesome-vala/readme/README.md) ]
-
-
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 

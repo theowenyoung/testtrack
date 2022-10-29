@@ -2,11 +2,9 @@
 
 Everything awesome related to npm scripts and using npm as a build tool.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/RyanZim/awesome-npm-scripts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts/blob/master/readme.md) · ⭐ 677 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/RyanZim/awesome-npm-scripts/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) · ⭐ 677 · 🏷️ Programming Languages
 
 [ [Daily](/content/RyanZim/awesome-npm-scripts/README.md) / Weekly / [Overview](/content/RyanZim/awesome-npm-scripts/readme/README.md) ]
-
-
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 

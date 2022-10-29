@@ -2,11 +2,9 @@
 
 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rafaskb/awesome-libgdx/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx/blob/master/readme.md) · ⭐ 630 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rafaskb/awesome-libgdx/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) · ⭐ 630 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/rafaskb/awesome-libgdx/week/README.md) / [Overview](/content/rafaskb/awesome-libgdx/readme/README.md) ]
-
-
 
 ## [May 23, 2022](/content/2022/05/23/README.md)
 

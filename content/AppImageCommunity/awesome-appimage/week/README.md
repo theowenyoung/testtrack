@@ -2,11 +2,9 @@
 
 Lovingly crafted AppImage tools and resources 
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/AppImageCommunity/awesome-appimage/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage/blob/main/README.md) · ⭐ 249 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/AppImageCommunity/awesome-appimage/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) · ⭐ 249 · 🏷️ Platforms
 
 [ [Daily](/content/AppImageCommunity/awesome-appimage/README.md) / Weekly / [Overview](/content/AppImageCommunity/awesome-appimage/readme/README.md) ]
-
-
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 

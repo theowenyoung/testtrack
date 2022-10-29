@@ -2,11 +2,9 @@
 
 This is about useful JS tips!
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/loverajoel/jstips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 loverajoel/jstips](https://github.com/loverajoel/jstips/blob/master/README.md) · ⭐ 12K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/loverajoel/jstips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 loverajoel/jstips](https://github.com/loverajoel/jstips) · ⭐ 12K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/loverajoel/jstips/week/README.md) / [Overview](/content/loverajoel/jstips/readme/README.md) ]
-
-
 
 ## [Dec 07, 2021](/content/2021/12/07/README.md)
 

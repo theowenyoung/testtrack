@@ -2,11 +2,9 @@
 
 A curated list of amazingly awesome Aurelia libraries.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/aurelia-contrib/awesome-aurelia/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aurelia-contrib/awesome-aurelia](https://github.com/aurelia-contrib/awesome-aurelia/blob/master/README.md) · ⭐ 306 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/aurelia-contrib/awesome-aurelia/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aurelia-contrib/awesome-aurelia](https://github.com/aurelia-contrib/awesome-aurelia) · ⭐ 306 · 🏷️ Front-End Development
 
 [ [Daily](/content/aurelia-contrib/awesome-aurelia/README.md) / Weekly / [Overview](/content/aurelia-contrib/awesome-aurelia/readme/README.md) ]
-
-
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 

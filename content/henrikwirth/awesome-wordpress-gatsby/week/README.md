@@ -2,11 +2,9 @@
 
 An awesome list of resources about WordPress as a headless CMS with Gatsby
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/henrikwirth/awesome-wordpress-gatsby/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 henrikwirth/awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby/blob/master/README.md) · ⭐ 246 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/henrikwirth/awesome-wordpress-gatsby/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 henrikwirth/awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby) · ⭐ 246 · 🏷️ Front-End Development
 
 [ [Daily](/content/henrikwirth/awesome-wordpress-gatsby/README.md) / Weekly / [Overview](/content/henrikwirth/awesome-wordpress-gatsby/readme/README.md) ]
-
-
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 

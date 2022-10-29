@@ -2,11 +2,9 @@
 
 A curated list of Neo4j resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/neueda/awesome-neo4j/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 neueda/awesome-neo4j](https://github.com/neueda/awesome-neo4j/blob/master/README.md) · ⭐ 453 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/neueda/awesome-neo4j/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 neueda/awesome-neo4j](https://github.com/neueda/awesome-neo4j) · ⭐ 453 · 🏷️ Databases
 
 [ Daily / [Weekly](/content/neueda/awesome-neo4j/week/README.md) / [Overview](/content/neueda/awesome-neo4j/readme/README.md) ]
-
-
 
 ## [May 21, 2018](/content/2018/05/21/README.md)
 

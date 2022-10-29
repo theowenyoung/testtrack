@@ -2,11 +2,9 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr/blob/main/README.md) · ⭐ 99 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/msub2/awesome-webxr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 99 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/msub2/awesome-webxr/week/README.md) / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
-
-
 
 ## [Oct 07, 2022](/content/2022/10/07/README.md)
 

@@ -2,11 +2,9 @@
 
 :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Awesome-Windows/Awesome/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome/blob/master/README.md) · ⭐ 20K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Awesome-Windows/Awesome/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) · ⭐ 20K · 🏷️ Platforms
 
 [ [Daily](/content/Awesome-Windows/Awesome/README.md) / Weekly / [Overview](/content/Awesome-Windows/Awesome/readme/README.md) ]
-
-
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 

@@ -2,7 +2,7 @@
 
 :mortar_board: Path to a free self-taught education in Computer Science!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ossu/computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ossu/computer-science](https://github.com/ossu/computer-science/blob/master/README.md) · ⭐ 126K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ossu/computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ossu/computer-science](https://github.com/ossu/computer-science) · ⭐ 126K · 🏷️ Computer Science
 
 [ [Daily](/content/ossu/computer-science/README.md) / [Weekly](/content/ossu/computer-science/week/README.md) / Overview ]
 

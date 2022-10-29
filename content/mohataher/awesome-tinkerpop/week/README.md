@@ -2,11 +2,9 @@
 
 A curated list of useful libraries for Apache TinkerPop3 and Tinkerpop2
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mohataher/awesome-tinkerpop/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mohataher/awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop/blob/master/README.md) · ⭐ 161 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mohataher/awesome-tinkerpop/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mohataher/awesome-tinkerpop](https://github.com/mohataher/awesome-tinkerpop) · ⭐ 161 · 🏷️ Databases
 
 [ [Daily](/content/mohataher/awesome-tinkerpop/README.md) / Weekly / [Overview](/content/mohataher/awesome-tinkerpop/readme/README.md) ]
-
-
 
 ## [Dec 04 - Dec 10, 2017](/content/2017/49/README.md)
 

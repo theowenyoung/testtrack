@@ -2,11 +2,9 @@
 
 A collection of awesome papers, articles and various resources on credit and credit risk modeling
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mourarthur/awesome-credit-modeling/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling/blob/main/README.md) · ⭐ 65 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mourarthur/awesome-credit-modeling/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling) · ⭐ 65 · 🏷️ Miscellaneous
 
 [ [Daily](/content/mourarthur/awesome-credit-modeling/README.md) / Weekly / [Overview](/content/mourarthur/awesome-credit-modeling/readme/README.md) ]
-
-
 
 ## [May 10 - May 16, 2021](/content/2021/19/README.md)
 

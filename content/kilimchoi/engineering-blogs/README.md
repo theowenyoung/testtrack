@@ -2,11 +2,9 @@
 
 A curated list of engineering blogs
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/kilimchoi/engineering-blogs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs/blob/master/README.md) · ⭐ 22K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/kilimchoi/engineering-blogs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) · ⭐ 22K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/kilimchoi/engineering-blogs/week/README.md) / [Overview](/content/kilimchoi/engineering-blogs/readme/README.md) ]
-
-
 
 ## [Jul 29, 2022](/content/2022/07/29/README.md)
 

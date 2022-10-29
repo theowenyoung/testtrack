@@ -6,8 +6,6 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
-
-
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Java / Sistemas Operativos

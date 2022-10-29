@@ -1,10 +1,8 @@
 # Track Awesome Dropwizard Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stve/awesome-dropwizard/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stve/awesome-dropwizard](https://github.com/stve/awesome-dropwizard/blob/master/README.md) · ⭐ 83 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stve/awesome-dropwizard/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stve/awesome-dropwizard](https://github.com/stve/awesome-dropwizard) · ⭐ 83 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/stve/awesome-dropwizard/week/README.md) / [Overview](/content/stve/awesome-dropwizard/readme/README.md) ]
-
-
 
 ## [Oct 30, 2018](/content/2018/10/30/README.md)
 

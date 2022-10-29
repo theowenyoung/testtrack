@@ -2,7 +2,7 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks/blob/master/README.md) · ⭐ 13K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 13K · 🏷️ Books
 
 [ [Daily](/content/dariubs/GoBooks/README.md) / [Weekly](/content/dariubs/GoBooks/week/README.md) / Overview ]
 

@@ -2,11 +2,9 @@
 
 Awesome npm resources and tips
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/awesome-npm/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm/blob/main/readme.md) · ⭐ 4.1K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/awesome-npm/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) · ⭐ 4.1K · 🏷️ Programming Languages
 
 [ [Daily](/content/sindresorhus/awesome-npm/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-npm/readme/README.md) ]
-
-
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 

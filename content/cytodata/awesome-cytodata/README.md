@@ -2,11 +2,9 @@
 
 A curated list of awesome cytodata resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/cytodata/awesome-cytodata/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cytodata/awesome-cytodata](https://github.com/cytodata/awesome-cytodata/blob/master/readme.md) · ⭐ 41 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/cytodata/awesome-cytodata/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cytodata/awesome-cytodata](https://github.com/cytodata/awesome-cytodata) · ⭐ 41 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/cytodata/awesome-cytodata/week/README.md) / [Overview](/content/cytodata/awesome-cytodata/readme/README.md) ]
-
-
 
 ## [Jan 19, 2022](/content/2022/01/19/README.md)
 

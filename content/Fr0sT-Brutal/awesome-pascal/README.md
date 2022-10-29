@@ -2,11 +2,9 @@
 
 A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Fr0sT-Brutal/awesome-pascal/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal/blob/master/README.md) · ⭐ 1.4K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Fr0sT-Brutal/awesome-pascal/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) · ⭐ 1.4K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/Fr0sT-Brutal/awesome-pascal/week/README.md) / [Overview](/content/Fr0sT-Brutal/awesome-pascal/readme/README.md) ]
-
-
 
 ## [Mar 09, 2022](/content/2022/03/09/README.md)
 

@@ -2,11 +2,9 @@
 
 🕶️ A curated list of resources around the topic: visual regression testing
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mojoaxel/awesome-regression-testing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing/blob/master/README.md) · ⭐ 1.8K · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mojoaxel/awesome-regression-testing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing) · ⭐ 1.8K · 🏷️ Testing
 
 [ [Daily](/content/mojoaxel/awesome-regression-testing/README.md) / Weekly / [Overview](/content/mojoaxel/awesome-regression-testing/readme/README.md) ]
-
-
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 

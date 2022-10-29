@@ -2,11 +2,9 @@
 
 :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nschloe/awesome-scientific-computing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing/blob/main/README.md) · ⭐ 884 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nschloe/awesome-scientific-computing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) · ⭐ 884 · 🏷️ Miscellaneous
 
 [ [Daily](/content/nschloe/awesome-scientific-computing/README.md) / Weekly / [Overview](/content/nschloe/awesome-scientific-computing/readme/README.md) ]
-
-
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 

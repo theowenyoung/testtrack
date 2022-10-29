@@ -2,11 +2,9 @@
 
 Collection of frontend dev and web design links :bulb:
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/noahbuscher/inspire/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 noahbuscher/inspire](https://github.com/noahbuscher/inspire/blob/master/README.md) · ⭐ 1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/noahbuscher/inspire/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 noahbuscher/inspire](https://github.com/noahbuscher/inspire) · ⭐ 1K · 🏷️ Front-End Development
 
 [ [Daily](/content/noahbuscher/inspire/README.md) / Weekly / [Overview](/content/noahbuscher/inspire/readme/README.md) ]
-
-
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 

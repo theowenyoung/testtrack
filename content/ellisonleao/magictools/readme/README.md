@@ -2,7 +2,7 @@
 
 :video_game: :pencil: A list of Game Development resources to make magic happen.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ellisonleao/magictools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ellisonleao/magictools](https://github.com/ellisonleao/magictools/blob/main/README.md) · ⭐ 10K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/ellisonleao/magictools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ellisonleao/magictools](https://github.com/ellisonleao/magictools) · ⭐ 10K · 🏷️ Gaming
 
 [ [Daily](/content/ellisonleao/magictools/README.md) / [Weekly](/content/ellisonleao/magictools/week/README.md) / Overview ]
 

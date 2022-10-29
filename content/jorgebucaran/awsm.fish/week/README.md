@@ -2,11 +2,9 @@
 
 A curation of prompts, plugins & other resources for Fish. 🐚
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jorgebucaran/awsm.fish/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish/blob/main/README.md) · ⭐ 3.1K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/jorgebucaran/awsm.fish/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) · ⭐ 3.1K · 🏷️ Development Environment
 
 [ [Daily](/content/jorgebucaran/awsm.fish/README.md) / Weekly / [Overview](/content/jorgebucaran/awsm.fish/readme/README.md) ]
-
-
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 

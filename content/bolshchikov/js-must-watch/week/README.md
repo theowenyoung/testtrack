@@ -2,11 +2,9 @@
 
 Must-watch videos about javascript
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/bolshchikov/js-must-watch/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch/blob/master/readme.md) · ⭐ 13K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/bolshchikov/js-must-watch/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) · ⭐ 13K · 🏷️ Programming Languages
 
 [ [Daily](/content/bolshchikov/js-must-watch/README.md) / Weekly / [Overview](/content/bolshchikov/js-must-watch/readme/README.md) ]
-
-
 
 ## [Jan 17 - Jan 23, 2022](/content/2022/3/README.md)
 

@@ -2,11 +2,9 @@
 
 :eyeglasses: :books: Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/unicodeveloper/awesome-lumen/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 unicodeveloper/awesome-lumen](https://github.com/unicodeveloper/awesome-lumen/blob/master/README.md) · ⭐ 317 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/unicodeveloper/awesome-lumen/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 unicodeveloper/awesome-lumen](https://github.com/unicodeveloper/awesome-lumen) · ⭐ 317 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-lumen/week/README.md) / [Overview](/content/unicodeveloper/awesome-lumen/readme/README.md) ]
-
-
 
 ## [Jun 11, 2020](/content/2020/06/11/README.md)
 

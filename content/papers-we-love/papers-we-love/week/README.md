@@ -2,11 +2,9 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/papers-we-love/papers-we-love/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love/blob/master/README.md) · ⭐ 65K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/papers-we-love/papers-we-love/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 65K · 🏷️ Theory
 
 [ [Daily](/content/papers-we-love/papers-we-love/README.md) / Weekly / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
-
-
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 

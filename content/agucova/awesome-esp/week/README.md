@@ -2,11 +2,9 @@
 
 📶 A curated list of awesome ESP8266/32 projects and code
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/agucova/awesome-esp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agucova/awesome-esp](https://github.com/agucova/awesome-esp/blob/main/README.md) · ⭐ 477 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/agucova/awesome-esp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agucova/awesome-esp](https://github.com/agucova/awesome-esp) · ⭐ 477 · 🏷️ Platforms
 
 [ [Daily](/content/agucova/awesome-esp/README.md) / Weekly / [Overview](/content/agucova/awesome-esp/readme/README.md) ]
-
-
 
 ## [Jun 13 - Jun 19, 2022](/content/2022/24/README.md)
 

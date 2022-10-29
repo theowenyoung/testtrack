@@ -2,11 +2,9 @@
 
 A curated list of awesome neuroscience libraries, software and any content related to the domain.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/analyticalmonk/awesome-neuroscience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/readme.md) · ⭐ 950 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/analyticalmonk/awesome-neuroscience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) · ⭐ 950 · 🏷️ Health and Social Science
 
 [ [Daily](/content/analyticalmonk/awesome-neuroscience/README.md) / Weekly / [Overview](/content/analyticalmonk/awesome-neuroscience/readme/README.md) ]
-
-
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 

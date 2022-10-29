@@ -2,11 +2,9 @@
 
 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/thibmaek/awesome-raspberry-pi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi/blob/master/README.md) · ⭐ 11K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/thibmaek/awesome-raspberry-pi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) · ⭐ 11K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
-
-
 
 ## [Oct 24, 2022](/content/2022/10/24/README.md)
 

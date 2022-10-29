@@ -2,11 +2,9 @@
 
 A curated list of awesome things related to Framer prototyping tool
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/podo/awesome-framer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 podo/awesome-framer](https://github.com/podo/awesome-framer/blob/master/README.md) · ⭐ 513 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/podo/awesome-framer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 podo/awesome-framer](https://github.com/podo/awesome-framer) · ⭐ 513 · 🏷️ Miscellaneous
 
 [ [Daily](/content/podo/awesome-framer/README.md) / Weekly / [Overview](/content/podo/awesome-framer/readme/README.md) ]
-
-
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 

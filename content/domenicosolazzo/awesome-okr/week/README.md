@@ -2,11 +2,9 @@
 
 A curated list about OKR (Objective - Key Results)
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/domenicosolazzo/awesome-okr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr/blob/master/README.md) · ⭐ 1.4K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/domenicosolazzo/awesome-okr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr) · ⭐ 1.4K · 🏷️ Business
 
 [ [Daily](/content/domenicosolazzo/awesome-okr/README.md) / Weekly / [Overview](/content/domenicosolazzo/awesome-okr/readme/README.md) ]
-
-
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 

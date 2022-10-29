@@ -2,11 +2,9 @@
 
 :iphone: List of open source Flutter applications :octocat:
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/tortuvshin/open-source-flutter-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md) · ⭐ 2.6K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/tortuvshin/open-source-flutter-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) · ⭐ 2.6K · 🏷️ Miscellaneous
 
 [ [Daily](/content/tortuvshin/open-source-flutter-apps/README.md) / Weekly / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
-
-
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 

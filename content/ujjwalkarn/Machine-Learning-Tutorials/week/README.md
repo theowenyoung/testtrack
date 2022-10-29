@@ -2,11 +2,9 @@
 
 machine learning and deep learning tutorials, articles and other resources 
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ujjwalkarn/Machine-Learning-Tutorials/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md) · ⭐ 12K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ujjwalkarn/Machine-Learning-Tutorials/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) · ⭐ 12K · 🏷️ Computer Science
 
 [ [Daily](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) / Weekly / [Overview](/content/ujjwalkarn/Machine-Learning-Tutorials/readme/README.md) ]
-
-
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

@@ -2,11 +2,9 @@
 
 Awesome list dedicated to Windows Subsystem for Linux
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sirredbeard/Awesome-WSL/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL/blob/master/README.md) · ⭐ 4.2K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sirredbeard/Awesome-WSL/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) · ⭐ 4.2K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/sirredbeard/Awesome-WSL/week/README.md) / [Overview](/content/sirredbeard/Awesome-WSL/readme/README.md) ]
-
-
 
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 

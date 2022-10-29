@@ -2,11 +2,9 @@
 
 A curated list of deep learning resources for computer vision 
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/kjw0612/awesome-deep-vision/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision/blob/master/README.md) · ⭐ 10K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/kjw0612/awesome-deep-vision/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) · ⭐ 10K · 🏷️ Computer Science
 
 [ [Daily](/content/kjw0612/awesome-deep-vision/README.md) / Weekly / [Overview](/content/kjw0612/awesome-deep-vision/readme/README.md) ]
-
-
 
 ## [Mar 13 - Mar 19, 2017](/content/2017/11/README.md)
 

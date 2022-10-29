@@ -2,7 +2,7 @@
 
 :zap: Delightful Node.js packages and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/awesome-nodejs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs/blob/main/readme.md) · ⭐ 47K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/sindresorhus/awesome-nodejs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) · ⭐ 47K · 🏷️ Platforms
 
 [ [Daily](/content/sindresorhus/awesome-nodejs/README.md) / [Weekly](/content/sindresorhus/awesome-nodejs/week/README.md) / Overview ]
 

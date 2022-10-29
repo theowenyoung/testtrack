@@ -2,11 +2,9 @@
 
 A curated list of awesome Bluetooth beacon software and tools.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rabschi/awesome-beacon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon/blob/master/README.md) · ⭐ 839 · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/rabschi/awesome-beacon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon) · ⭐ 839 · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/rabschi/awesome-beacon/week/README.md) / [Overview](/content/rabschi/awesome-beacon/readme/README.md) ]
-
-
 
 ## [May 03, 2019](/content/2019/05/03/README.md)
 

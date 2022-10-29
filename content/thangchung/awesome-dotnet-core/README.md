@@ -2,11 +2,9 @@
 
 :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/thangchung/awesome-dotnet-core/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core/blob/master/README.md) · ⭐ 17K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/thangchung/awesome-dotnet-core/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) · ⭐ 17K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/thangchung/awesome-dotnet-core/week/README.md) / [Overview](/content/thangchung/awesome-dotnet-core/readme/README.md) ]
-
-
 
 ## [Aug 18, 2022](/content/2022/08/18/README.md)
 

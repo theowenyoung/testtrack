@@ -2,11 +2,9 @@
 
 Useful resources for working with RxJava
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/eleventigers/awesome-rxjava/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 eleventigers/awesome-rxjava](https://github.com/eleventigers/awesome-rxjava/blob/master/README.md) · ⭐ 282 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/eleventigers/awesome-rxjava/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 eleventigers/awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) · ⭐ 282 · 🏷️ Programming Languages
 
 [ [Daily](/content/eleventigers/awesome-rxjava/README.md) / Weekly / [Overview](/content/eleventigers/awesome-rxjava/readme/README.md) ]
-
-
 
 ## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
 

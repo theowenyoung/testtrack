@@ -2,11 +2,9 @@
 
 A list of awesome free open source software & libraries for photography. Also tools for video.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ibaaj/awesome-OpenSourcePhotography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography/blob/master/README.md) · ⭐ 410 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ibaaj/awesome-OpenSourcePhotography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography) · ⭐ 410 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md) / [Overview](/content/ibaaj/awesome-OpenSourcePhotography/readme/README.md) ]
-
-
 
 ## [Mar 20, 2022](/content/2022/03/20/README.md)
 

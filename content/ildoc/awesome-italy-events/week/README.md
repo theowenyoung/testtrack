@@ -2,11 +2,9 @@
 
 Curated list of tech related events in Italy
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ildoc/awesome-italy-events/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ildoc/awesome-italy-events](https://github.com/ildoc/awesome-italy-events/blob/master/README.md) · ⭐ 145 · 🏷️ Events
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ildoc/awesome-italy-events/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ildoc/awesome-italy-events](https://github.com/ildoc/awesome-italy-events) · ⭐ 145 · 🏷️ Events
 
 [ [Daily](/content/ildoc/awesome-italy-events/README.md) / Weekly / [Overview](/content/ildoc/awesome-italy-events/readme/README.md) ]
-
-
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 

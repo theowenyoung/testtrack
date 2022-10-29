@@ -2,11 +2,9 @@
 
 An Awesome List for getting started with web archiving
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/iipc/awesome-web-archiving/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving/blob/master/README.md) · ⭐ 1.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/iipc/awesome-web-archiving/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iipc/awesome-web-archiving](https://github.com/iipc/awesome-web-archiving) · ⭐ 1.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/iipc/awesome-web-archiving/README.md) / Weekly / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
-
-
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 

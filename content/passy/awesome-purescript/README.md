@@ -2,11 +2,9 @@
 
 A curation of awesome PureScript libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/passy/awesome-purescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 passy/awesome-purescript](https://github.com/passy/awesome-purescript/blob/master/readme.md) · ⭐ 414 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/passy/awesome-purescript/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 passy/awesome-purescript](https://github.com/passy/awesome-purescript) · ⭐ 414 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/passy/awesome-purescript/week/README.md) / [Overview](/content/passy/awesome-purescript/readme/README.md) ]
-
-
 
 ## [Feb 14, 2022](/content/2022/02/14/README.md)
 

@@ -2,11 +2,9 @@
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/xen0l/awesome-dtrace/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace/blob/master/README.md) · ⭐ 140 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/xen0l/awesome-dtrace/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xen0l/awesome-dtrace](https://github.com/xen0l/awesome-dtrace) · ⭐ 140 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xen0l/awesome-dtrace/README.md) / Weekly / [Overview](/content/xen0l/awesome-dtrace/readme/README.md) ]
-
-
 
 ## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
 

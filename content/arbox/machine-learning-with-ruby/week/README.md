@@ -2,11 +2,9 @@
 
 Curated list: Resources for machine learning in Ruby
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/arbox/machine-learning-with-ruby/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby/blob/master/readme.md) · ⭐ 1.8K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/arbox/machine-learning-with-ruby/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) · ⭐ 1.8K · 🏷️ Computer Science
 
 [ [Daily](/content/arbox/machine-learning-with-ruby/README.md) / Weekly / [Overview](/content/arbox/machine-learning-with-ruby/readme/README.md) ]
-
-
 
 ## [Mar 01 - Mar 07, 2021](/content/2021/9/README.md)
 

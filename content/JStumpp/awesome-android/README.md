@@ -2,11 +2,9 @@
 
 A curated list of awesome Android packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/JStumpp/awesome-android/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 JStumpp/awesome-android](https://github.com/JStumpp/awesome-android/blob/master/readme.md) · ⭐ 9.5K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/JStumpp/awesome-android/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) · ⭐ 9.5K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/JStumpp/awesome-android/week/README.md) / [Overview](/content/JStumpp/awesome-android/readme/README.md) ]
-
-
 
 ## [Jan 28, 2022](/content/2022/01/28/README.md)
 

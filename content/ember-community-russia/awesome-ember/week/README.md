@@ -2,11 +2,9 @@
 
 A curated list of awesome Ember.js stuff like addons, articles, videos, gists and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ember-community-russia/awesome-ember/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ember-community-russia/awesome-ember](https://github.com/ember-community-russia/awesome-ember/blob/master/README.md) · ⭐ 174 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ember-community-russia/awesome-ember/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ember-community-russia/awesome-ember](https://github.com/ember-community-russia/awesome-ember) · ⭐ 174 · 🏷️ Front-End Development
 
 [ [Daily](/content/ember-community-russia/awesome-ember/README.md) / Weekly / [Overview](/content/ember-community-russia/awesome-ember/readme/README.md) ]
-
-
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 

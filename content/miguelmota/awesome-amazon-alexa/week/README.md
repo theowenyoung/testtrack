@@ -2,11 +2,9 @@
 
 🗣Curated list of awesome resources for the Amazon Alexa platform.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/miguelmota/awesome-amazon-alexa/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 miguelmota/awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa/blob/master/README.md) · ⭐ 521 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/miguelmota/awesome-amazon-alexa/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 miguelmota/awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) · ⭐ 521 · 🏷️ Platforms
 
 [ [Daily](/content/miguelmota/awesome-amazon-alexa/README.md) / Weekly / [Overview](/content/miguelmota/awesome-amazon-alexa/readme/README.md) ]
-
-
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 

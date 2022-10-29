@@ -2,11 +2,9 @@
 
 A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain/blob/main/README.md) · ⭐ 72 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 72 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/friedger/awesome-stacks-chain/week/README.md) / [Overview](/content/friedger/awesome-stacks-chain/readme/README.md) ]
-
-
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 

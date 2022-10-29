@@ -2,11 +2,9 @@
 
 Resources for game development on haxe
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Dvergar/awesome-haxe-gamedev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Dvergar/awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev/blob/master/README.md) · ⭐ 311 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/Dvergar/awesome-haxe-gamedev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Dvergar/awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev) · ⭐ 311 · 🏷️ Gaming
 
 [ [Daily](/content/Dvergar/awesome-haxe-gamedev/README.md) / Weekly / [Overview](/content/Dvergar/awesome-haxe-gamedev/readme/README.md) ]
-
-
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 

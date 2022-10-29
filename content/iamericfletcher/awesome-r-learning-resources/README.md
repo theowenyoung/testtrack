@@ -2,11 +2,9 @@
 
 A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/iamericfletcher/awesome-r-learning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources/blob/main/readme.md) · ⭐ 381 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/iamericfletcher/awesome-r-learning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iamericfletcher/awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) · ⭐ 381 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/iamericfletcher/awesome-r-learning-resources/week/README.md) / [Overview](/content/iamericfletcher/awesome-r-learning-resources/readme/README.md) ]
-
-
 
 ## [Jan 06, 2022](/content/2022/01/06/README.md)
 

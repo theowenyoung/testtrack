@@ -2,11 +2,9 @@
 
 Awesome AVA resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/avajs/awesome-ava/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 avajs/awesome-ava](https://github.com/avajs/awesome-ava/blob/main/readme.md) · ⭐ 332 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/avajs/awesome-ava/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 avajs/awesome-ava](https://github.com/avajs/awesome-ava) · ⭐ 332 · 🏷️ Programming Languages
 
 [ [Daily](/content/avajs/awesome-ava/README.md) / Weekly / [Overview](/content/avajs/awesome-ava/readme/README.md) ]
-
-
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 

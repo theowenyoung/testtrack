@@ -2,11 +2,9 @@
 
 A list of resources for marionette.js
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sadcitizen/awesome-marionette/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sadcitizen/awesome-marionette](https://github.com/sadcitizen/awesome-marionette/blob/master/README.md) · ⭐ 155 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sadcitizen/awesome-marionette/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sadcitizen/awesome-marionette](https://github.com/sadcitizen/awesome-marionette) · ⭐ 155 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/sadcitizen/awesome-marionette/week/README.md) / [Overview](/content/sadcitizen/awesome-marionette/readme/README.md) ]
-
-
 
 ## [Jan 01, 2017](/content/2017/01/01/README.md)
 

@@ -2,11 +2,9 @@
 
 📗Resources to dive into the world of social enterprises 🌼 
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise/blob/main/README.md) · ⭐ 45 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/RayBB/awesome-social-enterprise/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise) · ⭐ 45 · 🏷️ Business
 
 [ Daily / [Weekly](/content/RayBB/awesome-social-enterprise/week/README.md) / [Overview](/content/RayBB/awesome-social-enterprise/readme/README.md) ]
-
-
 
 ## [May 26, 2022](/content/2022/05/26/README.md)
 

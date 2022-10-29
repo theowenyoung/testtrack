@@ -2,11 +2,9 @@
 
 Awesome Music Projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ciconia/awesome-music/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ciconia/awesome-music](https://github.com/ciconia/awesome-music/blob/master/README.md) · ⭐ 1.3K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ciconia/awesome-music/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ciconia/awesome-music](https://github.com/ciconia/awesome-music) · ⭐ 1.3K · 🏷️ Media
 
 [ Daily / [Weekly](/content/ciconia/awesome-music/week/README.md) / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
-
-
 
 ## [Mar 25, 2022](/content/2022/03/25/README.md)
 

@@ -2,11 +2,9 @@
 
 📖  A curated list of Awesome Userscripts.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts/blob/master/README.md) · ⭐ 945 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) · ⭐ 945 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/bvolpato/awesome-userscripts/week/README.md) / [Overview](/content/bvolpato/awesome-userscripts/readme/README.md) ]
-
-
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 

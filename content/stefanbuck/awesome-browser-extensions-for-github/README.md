@@ -2,11 +2,9 @@
 
 A collection of awesome browser extensions for GitHub.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stefanbuck/awesome-browser-extensions-for-github/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/main/README.md) · ⭐ 2.5K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stefanbuck/awesome-browser-extensions-for-github/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) · ⭐ 2.5K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md) / [Overview](/content/stefanbuck/awesome-browser-extensions-for-github/readme/README.md) ]
-
-
 
 ## [Oct 24, 2022](/content/2022/10/24/README.md)
 

@@ -2,11 +2,9 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon/blob/master/README.md) · ⭐ 605 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 605 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/phalcon/awesome-phalcon/week/README.md) / [Overview](/content/phalcon/awesome-phalcon/readme/README.md) ]
-
-
 
 ## [Aug 06, 2021](/content/2021/08/06/README.md)
 

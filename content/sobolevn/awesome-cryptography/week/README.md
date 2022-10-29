@@ -2,11 +2,9 @@
 
 A curated list of cryptography resources and links.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sobolevn/awesome-cryptography/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography/blob/master/README.md) · ⭐ 4.1K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sobolevn/awesome-cryptography/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) · ⭐ 4.1K · 🏷️ Computer Science
 
 [ [Daily](/content/sobolevn/awesome-cryptography/README.md) / Weekly / [Overview](/content/sobolevn/awesome-cryptography/readme/README.md) ]
-
-
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 

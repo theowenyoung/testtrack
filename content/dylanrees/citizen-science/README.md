@@ -2,11 +2,9 @@
 
 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science/blob/master/README.md) · ⭐ 155 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/dylanrees/citizen-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 155 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/dylanrees/citizen-science/week/README.md) / [Overview](/content/dylanrees/citizen-science/readme/README.md) ]
-
-
 
 ## [Jul 07, 2022](/content/2022/07/07/README.md)
 

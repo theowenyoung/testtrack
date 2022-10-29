@@ -2,11 +2,9 @@
 
   A collection of awesome resources for Splunk
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sduff/awesome-splunk/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sduff/awesome-splunk](https://github.com/sduff/awesome-splunk/blob/master/README.md) · ⭐ 76 · 🏷️ Big Data
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/sduff/awesome-splunk/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sduff/awesome-splunk](https://github.com/sduff/awesome-splunk) · ⭐ 76 · 🏷️ Big Data
 
 [ [Daily](/content/sduff/awesome-splunk/README.md) / Weekly / [Overview](/content/sduff/awesome-splunk/readme/README.md) ]
-
-
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 

@@ -2,11 +2,9 @@
 
 A curated repository of software engineering repository mining data sets
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/dspinellis/awesome-msr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr/blob/master/README.md) · ⭐ 345 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/dspinellis/awesome-msr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dspinellis/awesome-msr](https://github.com/dspinellis/awesome-msr) · ⭐ 345 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/dspinellis/awesome-msr/week/README.md) / [Overview](/content/dspinellis/awesome-msr/readme/README.md) ]
-
-
 
 ## [Dec 23, 2020](/content/2020/12/23/README.md)
 

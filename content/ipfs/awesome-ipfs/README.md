@@ -2,11 +2,9 @@
 
 Useful resources for using IPFS and building things on top of it
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ipfs/awesome-ipfs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs/blob/master/README.md) · ⭐ 3.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/ipfs/awesome-ipfs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) · ⭐ 3.8K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/ipfs/awesome-ipfs/week/README.md) / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
-
-
 
 ## [Oct 05, 2022](/content/2022/10/05/README.md)
 

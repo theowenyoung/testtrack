@@ -2,11 +2,9 @@
 
 Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/protontypes/awesome-robotic-tooling/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling/blob/main/README.md) · ⭐ 2.2K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/protontypes/awesome-robotic-tooling/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) · ⭐ 2.2K · 🏷️ Hardware
 
 [ Daily / [Weekly](/content/protontypes/awesome-robotic-tooling/week/README.md) / [Overview](/content/protontypes/awesome-robotic-tooling/readme/README.md) ]
-
-
 
 ## [Sep 28, 2022](/content/2022/09/28/README.md)
 

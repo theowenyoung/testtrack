@@ -2,11 +2,9 @@
 
 A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/golemfactory/awesome-golem/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem/blob/main/README.md) · ⭐ 137 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/golemfactory/awesome-golem/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem) · ⭐ 137 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/golemfactory/awesome-golem/week/README.md) / [Overview](/content/golemfactory/awesome-golem/readme/README.md) ]
-
-
 
 ## [Jun 29, 2022](/content/2022/06/29/README.md)
 

@@ -2,11 +2,9 @@
 
 Curated list of audiovisual projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stingalleman/awesome-audiovisual/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual/blob/main/README.md) · ⭐ 104 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/stingalleman/awesome-audiovisual/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) · ⭐ 104 · 🏷️ Media
 
 [ Daily / [Weekly](/content/stingalleman/awesome-audiovisual/week/README.md) / [Overview](/content/stingalleman/awesome-audiovisual/readme/README.md) ]
-
-
 
 ## [Oct 19, 2021](/content/2021/10/19/README.md)
 

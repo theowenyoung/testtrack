@@ -2,11 +2,9 @@
 
 A curated list of awesome Slim framework packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nekofar/awesome-slim/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nekofar/awesome-slim](https://github.com/nekofar/awesome-slim/blob/main/README.md) · ⭐ 10 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/nekofar/awesome-slim/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 nekofar/awesome-slim](https://github.com/nekofar/awesome-slim) · ⭐ 10 · 🏷️ Back-End Development
 
 [ [Daily](/content/nekofar/awesome-slim/README.md) / Weekly / [Overview](/content/nekofar/awesome-slim/readme/README.md) ]
-
-
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 

@@ -2,7 +2,7 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self/blob/master/README.MD) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://test.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 1.7K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / [Weekly](/content/woop/awesome-quantified-self/week/README.md) / Overview ]
 

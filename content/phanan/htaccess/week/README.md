@@ -2,11 +2,9 @@
 
 ✂A collection of useful .htaccess snippets.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/phanan/htaccess/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phanan/htaccess](https://github.com/phanan/htaccess/blob/master/README.md) · ⭐ 12K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/phanan/htaccess/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phanan/htaccess](https://github.com/phanan/htaccess) · ⭐ 12K · 🏷️ Back-End Development
 
 [ [Daily](/content/phanan/htaccess/README.md) / Weekly / [Overview](/content/phanan/htaccess/readme/README.md) ]
-
-
 
 ## [Oct 22 - Oct 28, 2018](/content/2018/43/README.md)
 

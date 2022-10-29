@@ -2,11 +2,9 @@
 
 A curated list of awesome Discord communities for programmers
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mhxion/awesome-discord-communities/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md) · ⭐ 1.8K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/mhxion/awesome-discord-communities/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 1.8K · 🏷️ Gaming
 
 [ [Daily](/content/mhxion/awesome-discord-communities/README.md) / Weekly / [Overview](/content/mhxion/awesome-discord-communities/readme/README.md) ]
-
-
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 

@@ -2,11 +2,9 @@
 
 ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/irazasyed/awesome-cloudflare/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare/blob/master/readme.md) · ⭐ 340 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://test.trackawesomelist.com/search/) · [🔥 Feed](https://test.trackawesomelist.com/irazasyed/awesome-cloudflare/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) · ⭐ 340 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/irazasyed/awesome-cloudflare/week/README.md) / [Overview](/content/irazasyed/awesome-cloudflare/readme/README.md) ]
-
-
 
 ## [May 27, 2022](/content/2022/05/27/README.md)
 
