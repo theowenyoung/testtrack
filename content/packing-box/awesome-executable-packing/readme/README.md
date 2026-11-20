@@ -559,7 +559,7 @@ A curated list of awesome resources related to executable packing
 *   [REMINDer](https://doi.org/10.1109/CSA.2009.5404211) - Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [Renovo](https://doi.org/10.1145/1314389.1314399) - Detection tool built on top of TEMU (dynamic analysis component of BitBlaze) based on the execution of newly-generated code and monitoring memory writes after the program starts.
-*   [ResourceHacker](http://angusj.com/resourcehacker) - Resource editor for 32bit and 64bit Windows applications.
+*   [ResourceHacker](http://angusj.com/resourcehacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker)) - Resource editor for 32bit and 64bit Windows applications.
 *   [RetDec](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 *   [RTD](https://www.sac.sk/download/pack/rtd_rp24.zip) - Rose Patch - TinyProt/Rosetiny Unpacker.
 *   [RUPP](https://www.sac.sk/download/pack/rupp037.rar) - ROSE SWE UnPaCKER PaCKaGE (for DOS executables only).

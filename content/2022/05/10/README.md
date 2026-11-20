@@ -50,7 +50,7 @@
 *   [PortEx (⭐413)](https://github.com/katjahahn/PortEx) - Java library for static malware analysis of PE files with a focus on PE malformation robustness and anomaly detection.
 *   [PROTECTiON iD](https://web.archive.org/web/20210331144912/https://protectionid.net) - PE file signature-based scanner.
 *   [ProTools](http://protools.narod.ru) - Programmer's Tools, a web site dedicated for all kinds of tools and utilities for the true WinBloze programmer, including packers, crypters, etc.
-*   [ResourceHacker](http://angusj.com/resourcehacker) - Resource editor for 32bit and 64bit Windows applications.
+*   [ResourceHacker](http://angusj.com/resourcehacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker)) - Resource editor for 32bit and 64bit Windows applications.
 *   [Winbindex (⭐295)](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
